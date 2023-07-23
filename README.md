@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690117731)
+![Generated GIF](output.gif?raw=true&v=1690119233)
 
-Prompt: Argentina superstar Lionel Messi nets winner in Inter Miami debut
+Prompt: The numbers behind Trump's confidence the Jan. 6 indictment won't matter
 
-[Read more](https://www.aljazeera.com/news/2023/7/22/argentina-superstar-lionel-messi-nets-winner-in-inter-miami-debut)
+[Read more](https://www.politico.com/news/2023/07/22/gop-jan-6-polling-00107652)
