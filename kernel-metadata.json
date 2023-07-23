@@ -1,9 +1,9 @@
 {
-  "id": "USERNAME/news-gif-generation",
-  "title": "news_gif_generation",
-  "code_file": "notebook.ipynb",
+  "id": "USERNAME/news-gif-generation2",
+  "title": "news_gif_generation2",
+  "code_file": "script.py",
   "language": "python",
-  "kernel_type": "notebook",
+  "kernel_type": "script",
   "is_private": "true",
   "enable_gpu": "true",
   "enable_internet": "true",
