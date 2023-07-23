@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690135691)
+![Generated GIF](output.gif?raw=true&v=1690137230)
 
-Prompt: Box Office: ‘Barbie’ Breaks Ground With Biggest Opening Day of 2023, ‘Oppenheimer’ Dolling Up to $77 Million Debut
+Prompt: Welcome to the World Cup of Sophia Smith
 
-[Read more](https://variety.com/2023/film/box-office/box-office-barbie-oppenheimer-opening-day-projections-1235676681/)
+[Read more](https://sports.yahoo.com/welcome-to-the-world-cup-of-sophia-smith-135918513.html)
