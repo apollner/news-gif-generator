@@ -1,0 +1,65 @@
+name: Run Kaggle Script
+
+on:
+  push:
+  schedule:
+    - cron:  '*/30 * * * *'  # This will run the script every 30 minutes
+
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+      NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install kaggle
+
+    - name: Prepare kernel metadata
+      run: |
+        sed -i 's/USERNAME/'"${KAGGLE_USERNAME}"'/g' kernel-metadata.json
+
+    - name: Replace placeholder token in notebook
+      run: |
+        sed -i 's/hf_token/'"${HUGGINGFACE_TOKEN}"'/g' notebook.ipynb
+        sed -i 's/api_key/'"${NEWSAPI_KEY}"'/g' notebook.ipynb
+
+    - name: Push Script to Kaggle
+      run: |
+        kaggle kernels push -p .
+
+    - name: Wait for Kaggle kernel to finish
+      run: |
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generation)" != *"complete"* ]]; do
+          echo "Waiting for kernel to finish..."
+          sleep 15
+        done
+
+    - name: Retrieve Output from Kaggle
+      run: |
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generation -p .
+
+    - name: Revert changes to kernel-metadata.json and notebook
+      run: |
+        git checkout -- kernel-metadata.json
+        git checkout -- notebook.ipynb
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md image.png
+        git commit -m "Update README and output image" -a
+        git push
