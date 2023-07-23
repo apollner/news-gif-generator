@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690106791)
+![Generated GIF](output.gif?raw=true&v=1690108336)
 
-Prompt: Hunter Biden lawyer files ethics complaint against Marjorie Taylor Greene after she flashes his X-rated pics at hearing
+Prompt: Prigozhin's rebellion undermined Putin's standing among Russian elite, officials say
 
-[Read more](https://nypost.com/2023/07/22/hunter-bidens-lawyer-files-ethics-complaint-against-marjorie-taylor-greene-after-she-flashes-his-x-rated-pics-at-hearing/)
+[Read more](https://www.cbsnews.com/news/prigozhin-undermined-putins-standing-among-russian-elite/)
