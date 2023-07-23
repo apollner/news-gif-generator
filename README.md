@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated GIF](output.gif)
 
-Prompt: Body of girl found in river believed to be that of 2-year-old lost in Pennsylvania flash flood
+Prompt: Spanish general election tipped to put the far right back in office for the first time since Franco
 
-[Read more](https://apnews.com/article/bucks-county-flash-flood-missing-children-pennsyvlania-1add97718bfceb9c4034a4f26b08bf20)
+[Read more](https://apnews.com/article/spain-election-what-to-know-a9aff5b0b50863b5f512a4b8dd24a1d1)
