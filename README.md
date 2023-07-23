@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690126442)
+![Generated GIF](output.gif?raw=true&v=1690128475)
 
-Prompt: England scraps to 1-0 victory against tournament debutant Haiti in first Women’s World Cup game
+Prompt: Here’s The List Of Promised ‘Diablo 4’ Changes Blizzard Says Are Coming
 
-[Read more](https://www.cnn.com/2023/07/22/football/england-haiti-womens-world-cup-2023-spt-intl/index.html)
+[Read more](https://www.forbes.com/sites/paultassi/2023/07/22/heres-the-list-of-promised-diablo-4-changes-blizzard-says-are-coming/)
