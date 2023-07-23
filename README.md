@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690133633)
+![Generated GIF](output.gif?raw=true&v=1690135691)
 
-Prompt: Phoenix residents ration air conditioning, fearing future electric bills, as record-breaking heat turns homes into "air fryers"
+Prompt: Box Office: ‘Barbie’ Breaks Ground With Biggest Opening Day of 2023, ‘Oppenheimer’ Dolling Up to $77 Million Debut
 
-[Read more](https://www.cbsnews.com/news/phoenix-residents-fear-future-electric-bills-as-record-breaking-heat-turns-homes-into-air-fryers/)
+[Read more](https://variety.com/2023/film/box-office/box-office-barbie-oppenheimer-opening-day-projections-1235676681/)
