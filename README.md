@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690128475)
+![Generated GIF](output.gif?raw=true&v=1690130179)
 
-Prompt: Here’s The List Of Promised ‘Diablo 4’ Changes Blizzard Says Are Coming
+Prompt: 2023 British Open leaderboard: Live coverage, Rory McIlroy score, golf scores today, how to watch Round 3
 
-[Read more](https://www.forbes.com/sites/paultassi/2023/07/22/heres-the-list-of-promised-diablo-4-changes-blizzard-says-are-coming/)
+[Read more](https://www.cbssports.com/golf/news/2023-british-open-leaderboard-live-coverage-rory-mcilroy-score-golf-scores-today-how-to-watch-round-3/live/)
