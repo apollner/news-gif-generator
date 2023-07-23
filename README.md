@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif)
+![Generated GIF](output.gif?raw=true&v=1690105775)
 
-Prompt: ‘I pulled the trigger on the war’
+Prompt: Kamala Harris takes pols' fight over Black history to Jacksonville
 
-[Read more](https://meduza.io/en/feature/2023/07/22/i-pulled-the-trigger-on-the-war)
+[Read more](https://www.jacksonville.com/story/news/politics/government/2023/07/21/kamala-harris-takes-floridas-fight-over-black-history-to-jacksonville/70443827007/)
