@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690108336)
+![Generated GIF](output.gif?raw=true&v=1690112735)
 
-Prompt: Prigozhin's rebellion undermined Putin's standing among Russian elite, officials say
+Prompt: Crimea bridge closed after fuel depot hit - Russia
 
-[Read more](https://www.cbsnews.com/news/prigozhin-undermined-putins-standing-among-russian-elite/)
+[Read more](https://www.bbc.com/news/entertainment-arts-66276788)
