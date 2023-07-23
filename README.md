@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690112735)
+![Generated GIF](output.gif?raw=true&v=1690114280)
 
-Prompt: Crimea bridge closed after fuel depot hit - Russia
+Prompt: OpenAI launches official ChatGPT app for Android
 
-[Read more](https://www.bbc.com/news/entertainment-arts-66276788)
+[Read more](https://cointelegraph.com/news/open-ai-launches-official-chat-gpt-app-android)
