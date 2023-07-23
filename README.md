@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690116428)
+![Generated GIF](output.gif?raw=true&v=1690117731)
 
-Prompt: Crimea bridge closed after fuel depot hit - Russia
+Prompt: Argentina superstar Lionel Messi nets winner in Inter Miami debut
 
-[Read more](https://www.bbc.com/news/entertainment-arts-66276788)
+[Read more](https://www.aljazeera.com/news/2023/7/22/argentina-superstar-lionel-messi-nets-winner-in-inter-miami-debut)
