@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690146292)
+![Generated GIF](output.gif?raw=true&v=1690148024)
 
-Prompt: Georgia Gov. Brian Kemp contacted by Justice Department special counsel in 2020 election probe
+Prompt: Greece fires: Thousands flee homes and hotels on Rhodes as fires spread
 
-[Read more](https://www.cnn.com/2023/07/22/politics/brian-kemp-special-counsel-donald-trump-georgia-election/index.html)
+[Read more](https://www.bbc.com/news/world-europe-66279520)
