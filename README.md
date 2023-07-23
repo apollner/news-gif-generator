@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690140817)
+![Generated GIF](output.gif?raw=true&v=1690142893)
 
-Prompt: Welcome to the World Cup of Sophia Smith
+Prompt: Harris says Florida officials trying to 'replace history with lies' through new curriculum
 
-[Read more](https://sports.yahoo.com/welcome-to-the-world-cup-of-sophia-smith-135918513.html)
+[Read more](https://www.nbcnews.com/politics/white-house/harris-says-florida-officials-trying-replace-history-lies-new-curricul-rcna95625)
