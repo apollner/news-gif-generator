@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690105775)
+![Generated GIF](output.gif?raw=true&v=1690106791)
 
-Prompt: Kamala Harris takes pols' fight over Black history to Jacksonville
+Prompt: Hunter Biden lawyer files ethics complaint against Marjorie Taylor Greene after she flashes his X-rated pics at hearing
 
-[Read more](https://www.jacksonville.com/story/news/politics/government/2023/07/21/kamala-harris-takes-floridas-fight-over-black-history-to-jacksonville/70443827007/)
+[Read more](https://nypost.com/2023/07/22/hunter-bidens-lawyer-files-ethics-complaint-against-marjorie-taylor-greene-after-she-flashes-his-x-rated-pics-at-hearing/)
