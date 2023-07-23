@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690131913)
+![Generated GIF](output.gif?raw=true&v=1690133633)
 
-Prompt: Verstappen: Red Bull "all over the shop" in Hungary F1 qualifying
+Prompt: Phoenix residents ration air conditioning, fearing future electric bills, as record-breaking heat turns homes into "air fryers"
 
-[Read more](https://www.motorsport.com/f1/news/verstappen-red-bull-all-over-the-shop-in-hungary-f1-qualifying/10498722/)
+[Read more](https://www.cbsnews.com/news/phoenix-residents-fear-future-electric-bills-as-record-breaking-heat-turns-homes-into-air-fryers/)
