@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690119233)
+![Generated GIF](output.gif?raw=true&v=1690121102)
 
-Prompt: The numbers behind Trump's confidence the Jan. 6 indictment won't matter
+Prompt: Mega Millions results for 07/21/23; $1 million winner sold in Michigan
 
-[Read more](https://www.politico.com/news/2023/07/22/gop-jan-6-polling-00107652)
+[Read more](https://www.mlive.com/lottery/2023/07/mega-millions-results-for-072123-1-million-winner-sold-in-michigan.html)
