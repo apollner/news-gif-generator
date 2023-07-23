@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690148024)
+![Generated GIF](output.gif?raw=true&v=1690149933)
 
-Prompt: Greece fires: Thousands flee homes and hotels on Rhodes as fires spread
+Prompt: Black man who says he was elected mayor of Alabama town alleges that White leaders are keeping him from position
 
-[Read more](https://www.bbc.com/news/world-europe-66279520)
+[Read more](https://www.cbsnews.com/news/patrick-braxton-black-man-says-he-was-elected-mayor-of-newburn-alabama/)
