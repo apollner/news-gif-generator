@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690149933)
+![Generated GIF](output.gif?raw=true&v=1690151629)
 
-Prompt: Black man who says he was elected mayor of Alabama town alleges that White leaders are keeping him from position
+Prompt: Heavy rain floods Canadian province of Nova Scotia
 
-[Read more](https://www.cbsnews.com/news/patrick-braxton-black-man-says-he-was-elected-mayor-of-newburn-alabama/)
+[Read more](https://www.npr.org/2023/07/22/1189588738/heavy-rains-wreak-havoc-in-eastern-canadian-province-of-nova-scotia)
