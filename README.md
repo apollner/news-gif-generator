@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690124821)
+![Generated GIF](output.gif?raw=true&v=1690126442)
 
-Prompt: British Open: Follow Brian Harman, Tommy Fleetwood, Sepp Straka and others Saturday at Royal Liverpool
+Prompt: England scraps to 1-0 victory against tournament debutant Haiti in first Women’s World Cup game
 
-[Read more](https://sports.yahoo.com/british-open-follow-brian-harman-tommy-fleetwood-sepp-straka-and-others-saturday-at-royal-liverpool-064506047.html)
+[Read more](https://www.cnn.com/2023/07/22/football/england-haiti-womens-world-cup-2023-spt-intl/index.html)
