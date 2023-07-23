@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690153534)
+![Generated GIF](output.gif?raw=true&v=1690155236)
 
-Prompt: Greece fires: Thousands flee homes and hotels on Rhodes as fires spread
+Prompt: Ukraine updates: Drone strikes Crimea munitions depot
 
-[Read more](https://www.bbc.com/news/world-europe-66279520)
+[Read more](https://www.dw.com/en/ukraine-updates-drone-strikes-crimea-munitions-depot/a-66316065)
