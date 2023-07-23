@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690130179)
+![Generated GIF](output.gif?raw=true&v=1690131913)
 
-Prompt: 2023 British Open leaderboard: Live coverage, Rory McIlroy score, golf scores today, how to watch Round 3
+Prompt: Verstappen: Red Bull "all over the shop" in Hungary F1 qualifying
 
-[Read more](https://www.cbssports.com/golf/news/2023-british-open-leaderboard-live-coverage-rory-mcilroy-score-golf-scores-today-how-to-watch-round-3/live/)
+[Read more](https://www.motorsport.com/f1/news/verstappen-red-bull-all-over-the-shop-in-hungary-f1-qualifying/10498722/)
