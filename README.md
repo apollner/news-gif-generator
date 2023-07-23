@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690151629)
+![Generated GIF](output.gif?raw=true&v=1690153534)
 
-Prompt: Heavy rain floods Canadian province of Nova Scotia
+Prompt: Greece fires: Thousands flee homes and hotels on Rhodes as fires spread
 
-[Read more](https://www.npr.org/2023/07/22/1189588738/heavy-rains-wreak-havoc-in-eastern-canadian-province-of-nova-scotia)
+[Read more](https://www.bbc.com/news/world-europe-66279520)
