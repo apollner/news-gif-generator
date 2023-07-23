@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690122833)
+![Generated GIF](output.gif?raw=true&v=1690124821)
 
-Prompt: The numbers behind Trump's confidence the Jan. 6 indictment won't matter
+Prompt: British Open: Follow Brian Harman, Tommy Fleetwood, Sepp Straka and others Saturday at Royal Liverpool
 
-[Read more](https://www.politico.com/news/2023/07/22/gop-jan-6-polling-00107652)
+[Read more](https://sports.yahoo.com/british-open-follow-brian-harman-tommy-fleetwood-sepp-straka-and-others-saturday-at-royal-liverpool-064506047.html)
