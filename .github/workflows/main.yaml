@@ -32,7 +32,7 @@ jobs:
 
     - name: Replace placeholder token in notebook
       run: |
-        sed -i 's/api_key/'"${NEWSAPI_KEY}"'/g' script.py
+        sed -i 's/api_key/'"${NEWSAPI_KEY}"'/g' notebook.ipynb
 
     - name: Push Script to Kaggle
       run: |
@@ -40,19 +40,19 @@ jobs:
 
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-gif-generation2)" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-gif-generation)" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 15
         done
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-gif-generation2 -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/news-gif-generation -p .
 
     - name: Revert changes to kernel-metadata.json and script
       run: |
         git checkout -- kernel-metadata.json
-        git checkout -- script.py
+        git checkout -- notebook.ipynb
 
     - name: Commit and push changes
       run: |
