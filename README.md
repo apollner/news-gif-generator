@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690142893)
+![Generated GIF](output.gif?raw=true&v=1690144426)
 
-Prompt: Harris says Florida officials trying to 'replace history with lies' through new curriculum
+Prompt: 2-year-old Nevada boy dies from brain-eating amoeba likely contracted at natural hot spring
 
-[Read more](https://www.nbcnews.com/politics/white-house/harris-says-florida-officials-trying-replace-history-lies-new-curricul-rcna95625)
+[Read more](https://www.cnn.com/2023/07/22/us/nevada-brain-eating-amoeba/index.html)
