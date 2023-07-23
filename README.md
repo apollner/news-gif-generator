@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690144426)
+![Generated GIF](output.gif?raw=true&v=1690146292)
 
-Prompt: 2-year-old Nevada boy dies from brain-eating amoeba likely contracted at natural hot spring
+Prompt: Georgia Gov. Brian Kemp contacted by Justice Department special counsel in 2020 election probe
 
-[Read more](https://www.cnn.com/2023/07/22/us/nevada-brain-eating-amoeba/index.html)
+[Read more](https://www.cnn.com/2023/07/22/politics/brian-kemp-special-counsel-donald-trump-georgia-election/index.html)
