@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690222299)
+![Generated GIF](output.gif?raw=true&v=1690223810)
 
-Prompt: Selena Gomez Rang In Her 31st Birthday While Wearing a Fiery Red Minidress
+Prompt: 25 hospitalized after patio deck collapses during event at Montana country club
 
-[Read more](https://www.instyle.com/selena-gomez-fiery-red-minidress-31st-birthday-party-7564405)
+[Read more](https://www.cbsnews.com/news/patio-deck-collapse-briarwood-country-club-billings-montana/)
