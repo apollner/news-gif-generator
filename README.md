@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690186342)
+![Generated GIF](output.gif?raw=true&v=1690187799)
 
-Prompt: Spain faces stark left-right divide in hot summer vote
+Prompt: Barbie vs Oppenheimer: Both films exceed expectations as box office frontrunner emerges
 
-[Read more](https://www.bbc.com/news/world-europe-66258206)
+[Read more](https://www.independent.co.uk/arts-entertainment/films/news/barbie-oppenheimer-barbenheimer-reviews-cinema-b2380347.html)
