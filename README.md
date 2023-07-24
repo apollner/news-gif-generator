@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690168130)
+![Generated GIF](output.gif?raw=true&v=1690169635)
 
-Prompt: Hall of Fame classmates Fred McGriff, Scott Rolen becoming friends forever in Cooperstown
+Prompt: Jason Aldean's music video full of protest footage from outside the US
 
-[Read more](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/07/22/baseball-hall-of-fame-2023-fred-mcgriff-scott-rolen/70451784007/)
+[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
