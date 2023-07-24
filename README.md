@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690166824)
+![Generated GIF](output.gif?raw=true&v=1690168130)
 
-Prompt: UK inflation and interest rates high - how do other economies compare?
+Prompt: Hall of Fame classmates Fred McGriff, Scott Rolen becoming friends forever in Cooperstown
 
-[Read more](https://www.bbc.com/news/business-66269947)
+[Read more](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/07/22/baseball-hall-of-fame-2023-fred-mcgriff-scott-rolen/70451784007/)
