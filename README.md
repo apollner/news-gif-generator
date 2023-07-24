@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690180600)
+![Generated GIF](output.gif?raw=true&v=1690184035)
 
-Prompt: Portland hospital shooting leaves at least 1 injured as police search for suspect
+Prompt: Lionel Messi fever takes hold in U.S. as he makes his MLS debut
 
-[Read more](https://www.cnn.com/2023/07/22/us/portland-good-samaritan-hospital-shooting/index.html)
+[Read more](https://www.youtube.com/watch?v=6ySwLCFfnUo)
