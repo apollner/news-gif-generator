@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690198434)
+![Generated GIF](output.gif?raw=true&v=1690200860)
 
-Prompt: Formula 1 picks, odds, race time: 2023 Hungarian Grand Prix predictions, F1 best bets from proven model
+Prompt: Netanyahu in hospital as Israeli judicial crisis flares
 
-[Read more](https://www.cbssports.com/motor-sports/news/formula-1-picks-odds-race-time-2023-hungarian-grand-prix-predictions-f1-best-bets-from-proven-model/)
+[Read more](https://www.cnbc.com/2023/07/23/israels-netanyahu-in-hospital-after-getting-pacemaker.html)
