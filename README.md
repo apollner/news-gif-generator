@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690173275)
+![Generated GIF](output.gif?raw=true&v=1690175258)
 
-Prompt: Cambodia holds lopsided election ahead of historic transfer of power
+Prompt: Warning: Marijuana Use May Alter Your DNA Methylation
 
-[Read more](https://www.reuters.com/world/asia-pacific/cambodia-holds-lopsided-election-ahead-historic-transfer-power-2023-07-22/)
+[Read more](https://scitechdaily.com/warning-marijuana-use-may-alter-your-dna-methylation/)
