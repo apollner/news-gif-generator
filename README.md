@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690220111)
+![Generated GIF](output.gif?raw=true&v=1690222299)
 
-Prompt: Source - Jimmy Garoppolo (foot) passes Raiders' camp physical - ESPN
+Prompt: Selena Gomez Rang In Her 31st Birthday While Wearing a Fiery Red Minidress
 
-[Read more](https://www.espn.com/nfl/story/_/id/38058081/source-jimmy-garoppolo-foot-passes-raiders-camp-physical)
+[Read more](https://www.instyle.com/selena-gomez-fiery-red-minidress-31st-birthday-party-7564405)
