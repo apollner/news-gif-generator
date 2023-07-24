@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690169635)
+![Generated GIF](output.gif?raw=true&v=1690171771)
 
-Prompt: Jason Aldean's music video full of protest footage from outside the US
+Prompt: Southern California school board OKs curriculum after Gov. Gavin Newsom threatened a $1.5M fine
 
-[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
+[Read more](https://abcnews.go.com/US/wireStory/southern-california-school-board-oks-curriculum-after-gov-101581747)
