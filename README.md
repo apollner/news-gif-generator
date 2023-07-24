@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690239989)
+![Generated GIF](output.gif?raw=true&v=1690241640)
 
-Prompt: Box Office Stunner: ‘Barbie’ Opens to Staggering $155M, ‘Oppenheimer’ Snags $80.5M
+Prompt: Denny Hamlin wins the Cup race at Pocono
 
-[Read more](https://www.hollywoodreporter.com/movies/movie-news/barbie-box-office-oppenheimer-opening-1235541719/)
+[Read more](https://www.nbcsports.com/nascar/live/live-nascar-cup-updates-from-pocono-raceway)
