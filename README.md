@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690164230)
+![Generated GIF](output.gif?raw=true&v=1690166824)
 
-Prompt: Ukraine updates: Drone strikes Crimea munitions depot
+Prompt: UK inflation and interest rates high - how do other economies compare?
 
-[Read more](https://www.dw.com/en/ukraine-updates-drone-strikes-crimea-munitions-depot/a-66316065)
+[Read more](https://www.bbc.com/news/business-66269947)
