@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690216658)
+![Generated GIF](output.gif?raw=true&v=1690218450)
 
-Prompt: 25 people hospitalized after deck collapses at Billings, Montana, country club
+Prompt: DART Impact Aftermath: Hubble Sees Boulders Escaping From Asteroid Dimorphos
 
-[Read more](https://www.usatoday.com/story/news/nation/2023/07/23/billings-montana-deck-collapse/70452869007/)
+[Read more](https://scitechdaily.com/dart-impact-aftermath-hubble-sees-boulders-escaping-from-asteroid-dimorphos/)
