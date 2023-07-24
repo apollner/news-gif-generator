@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690159000)
+![Generated GIF](output.gif?raw=true&v=1690164230)
 
-Prompt: Judge declares mistrial in YNW Melly double murder case
+Prompt: Ukraine updates: Drone strikes Crimea munitions depot
 
-[Read more](https://www.nbcmiami.com/news/local/judge-declares-mistrial-in-ynw-melly-double-murder-case/3076540/)
+[Read more](https://www.dw.com/en/ukraine-updates-drone-strikes-crimea-munitions-depot/a-66316065)
