@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690212837)
+![Generated GIF](output.gif?raw=true&v=1690214979)
 
-Prompt: Should you buy the M2 MacBook Pro or wait for the M3?
+Prompt: Far-right could enter government as Spain goes to the polls
 
-[Read more](http://www.digitaltrends.com/computing/buy-m2-macbook-pro-or-wait-for-m3/)
+[Read more](https://www.cnn.com/2023/07/23/europe/spain-election-voting-pedro-sanchez-pp-vox/index.html)
