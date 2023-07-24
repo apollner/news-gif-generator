@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690176824)
+![Generated GIF](output.gif?raw=true&v=1690179069)
 
-Prompt: 'Oppenheimer's Cillian Murphy Pinpoints Christopher Nolan's "Genius" On Set
+Prompt: "Barbie" has biggest opening day of 2023, "Oppenheimer" not far behind
 
-[Read more](https://collider.com/oppenheimer-christopher-nolan-cillian-murphy-comments/)
+[Read more](https://www.cbsnews.com/news/barbie-biggest-opening-day-2023-oppenheimer-not-far-behind/)
