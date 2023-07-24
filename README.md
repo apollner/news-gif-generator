@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690236347)
+![Generated GIF](output.gif?raw=true&v=1690238027)
 
-Prompt: Boat runs aground at Lake of the Ozarks, strikes home
+Prompt: Child dies from brain-eating amoeba after visiting hot spring, Nevada officials say
 
-[Read more](https://fox2now.com/news/missouri/boat-runs-aground-at-lake-of-the-ozarks-strikes-home/)
+[Read more](https://www.cbsnews.com/news/child-dies-brain-eating-amoeba-ash-springs-nevada-fowleri-infection/)
