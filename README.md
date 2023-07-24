@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690225528)
+![Generated GIF](output.gif?raw=true&v=1690229256)
 
-Prompt: Brian Harman powers to 2023 Open Championship victory, clinching first career major
+Prompt: Fitted with pacemaker, Netanyahu to attend key vote as crisis spirals
 
-[Read more](https://www.cnn.com/2023/07/23/golf/brian-harman-open-championship-2023-winner-spt-intl/index.html)
+[Read more](https://www.reuters.com/world/middle-east/israels-netanyahu-says-he-will-be-fitted-with-pacemaker-overnight-2023-07-22/)
