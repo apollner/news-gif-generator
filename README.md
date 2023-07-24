@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690175258)
+![Generated GIF](output.gif?raw=true&v=1690176824)
 
-Prompt: Warning: Marijuana Use May Alter Your DNA Methylation
+Prompt: 'Oppenheimer's Cillian Murphy Pinpoints Christopher Nolan's "Genius" On Set
 
-[Read more](https://scitechdaily.com/warning-marijuana-use-may-alter-your-dna-methylation/)
+[Read more](https://collider.com/oppenheimer-christopher-nolan-cillian-murphy-comments/)
