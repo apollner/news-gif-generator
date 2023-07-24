@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690214979)
+![Generated GIF](output.gif?raw=true&v=1690216658)
 
-Prompt: Far-right could enter government as Spain goes to the polls
+Prompt: 25 people hospitalized after deck collapses at Billings, Montana, country club
 
-[Read more](https://www.cnn.com/2023/07/23/europe/spain-election-voting-pedro-sanchez-pp-vox/index.html)
+[Read more](https://www.usatoday.com/story/news/nation/2023/07/23/billings-montana-deck-collapse/70452869007/)
