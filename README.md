@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690194983)
+![Generated GIF](output.gif?raw=true&v=1690196700)
 
-Prompt: Jamie Foxx speaks publicly for first time since hospitalized due to illness
+Prompt: Wagner mutiny: Junior commander reveals his role in the challenge to Putin
 
-[Read more](https://www.youtube.com/watch?v=N8rRM1tnL8c)
+[Read more](https://www.bbc.com/news/world-europe-66247915)
