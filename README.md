@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690211280)
+![Generated GIF](output.gif?raw=true&v=1690212837)
 
-Prompt: Summer’s most spectacular meteor shower now underway, best dates for viewing
+Prompt: Should you buy the M2 MacBook Pro or wait for the M3?
 
-[Read more](https://www.mlive.com/news/2023/07/summers-most-spectacular-meteor-shower-now-underway-best-dates-for-viewing.html)
+[Read more](http://www.digitaltrends.com/computing/buy-m2-macbook-pro-or-wait-for-m3/)
