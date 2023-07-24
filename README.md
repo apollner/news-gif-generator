@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690223810)
+![Generated GIF](output.gif?raw=true&v=1690225528)
 
-Prompt: 25 hospitalized after patio deck collapses during event at Montana country club
+Prompt: Brian Harman powers to 2023 Open Championship victory, clinching first career major
 
-[Read more](https://www.cbsnews.com/news/patio-deck-collapse-briarwood-country-club-billings-montana/)
+[Read more](https://www.cnn.com/2023/07/23/golf/brian-harman-open-championship-2023-winner-spt-intl/index.html)
