@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690171771)
+![Generated GIF](output.gif?raw=true&v=1690173275)
 
-Prompt: Southern California school board OKs curriculum after Gov. Gavin Newsom threatened a $1.5M fine
+Prompt: Cambodia holds lopsided election ahead of historic transfer of power
 
-[Read more](https://abcnews.go.com/US/wireStory/southern-california-school-board-oks-curriculum-after-gov-101581747)
+[Read more](https://www.reuters.com/world/asia-pacific/cambodia-holds-lopsided-election-ahead-historic-transfer-power-2023-07-22/)
