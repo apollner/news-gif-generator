@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690184035)
+![Generated GIF](output.gif?raw=true&v=1690186342)
 
-Prompt: Lionel Messi fever takes hold in U.S. as he makes his MLS debut
+Prompt: Spain faces stark left-right divide in hot summer vote
 
-[Read more](https://www.youtube.com/watch?v=6ySwLCFfnUo)
+[Read more](https://www.bbc.com/news/world-europe-66258206)
