@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690218450)
+![Generated GIF](output.gif?raw=true&v=1690220111)
 
-Prompt: DART Impact Aftermath: Hubble Sees Boulders Escaping From Asteroid Dimorphos
+Prompt: Source - Jimmy Garoppolo (foot) passes Raiders' camp physical - ESPN
 
-[Read more](https://scitechdaily.com/dart-impact-aftermath-hubble-sees-boulders-escaping-from-asteroid-dimorphos/)
+[Read more](https://www.espn.com/nfl/story/_/id/38058081/source-jimmy-garoppolo-foot-passes-raiders-camp-physical)
