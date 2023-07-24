@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690232958)
+![Generated GIF](output.gif?raw=true&v=1690234444)
 
-Prompt: Ohio officers order police dog to attack unarmed man | GMA
+Prompt: Cambodia election: 'This was more of a coronation than an election'
 
-[Read more](https://www.youtube.com/watch?v=Z8MLwawUojg)
+[Read more](https://www.bbc.com/news/world-asia-66283745)
