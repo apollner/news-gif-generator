@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690187799)
+![Generated GIF](output.gif?raw=true&v=1690189732)
 
-Prompt: Barbie vs Oppenheimer: Both films exceed expectations as box office frontrunner emerges
+Prompt: Maya Millete's family, friends continue the search for missing California mom
 
-[Read more](https://www.independent.co.uk/arts-entertainment/films/news/barbie-oppenheimer-barbenheimer-reviews-cinema-b2380347.html)
+[Read more](https://www.cbsnews.com/news/maya-millete-larry-millete-missing-mom-search-48-hours/)
