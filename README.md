@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690191241)
+![Generated GIF](output.gif?raw=true&v=1690193301)
 
-Prompt: Overnight Russian strikes on Odesa cause significant structural damage, destroy church
+Prompt: Netanyahu in hospital as Israeli judicial crisis flares
 
-[Read more](https://www.cnn.com/2023/07/23/world/odesa-attacks-saturday-russia-ukraine-intl-hnk/index.html)
+[Read more](https://www.cnbc.com/2023/07/23/israels-netanyahu-in-hospital-after-getting-pacemaker.html)
