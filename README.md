@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690179069)
+![Generated GIF](output.gif?raw=true&v=1690180600)
 
-Prompt: "Barbie" has biggest opening day of 2023, "Oppenheimer" not far behind
+Prompt: Portland hospital shooting leaves at least 1 injured as police search for suspect
 
-[Read more](https://www.cbsnews.com/news/barbie-biggest-opening-day-2023-oppenheimer-not-far-behind/)
+[Read more](https://www.cnn.com/2023/07/22/us/portland-good-samaritan-hospital-shooting/index.html)
