@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690189732)
+![Generated GIF](output.gif?raw=true&v=1690191241)
 
-Prompt: Maya Millete's family, friends continue the search for missing California mom
+Prompt: Overnight Russian strikes on Odesa cause significant structural damage, destroy church
 
-[Read more](https://www.cbsnews.com/news/maya-millete-larry-millete-missing-mom-search-48-hours/)
+[Read more](https://www.cnn.com/2023/07/23/world/odesa-attacks-saturday-russia-ukraine-intl-hnk/index.html)
