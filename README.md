@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690230842)
+![Generated GIF](output.gif?raw=true&v=1690232958)
 
-Prompt: Russian missiles strike Odesa, killing one, wounding at least 22 and hitting historic cathedral
+Prompt: Ohio officers order police dog to attack unarmed man | GMA
 
-[Read more](https://nypost.com/2023/07/23/russian-missiles-strike-odessa-killing-one-wounding-at-least-22-and-devastating-historic-cathedral/)
+[Read more](https://www.youtube.com/watch?v=Z8MLwawUojg)
