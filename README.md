@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690200860)
+![Generated GIF](output.gif?raw=true&v=1690203119)
 
-Prompt: Netanyahu in hospital as Israeli judicial crisis flares
+Prompt: Massive crowds rally in Israel as vote on judicial overhaul looms
 
-[Read more](https://www.cnbc.com/2023/07/23/israels-netanyahu-in-hospital-after-getting-pacemaker.html)
+[Read more](https://www.aljazeera.com/news/2023/7/23/huge-crowds-march-in-israel-as-vote-on-judicial-overhaul-nears)
