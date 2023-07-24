@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690238027)
+![Generated GIF](output.gif?raw=true&v=1690239989)
 
-Prompt: Child dies from brain-eating amoeba after visiting hot spring, Nevada officials say
+Prompt: Box Office Stunner: ‘Barbie’ Opens to Staggering $155M, ‘Oppenheimer’ Snags $80.5M
 
-[Read more](https://www.cbsnews.com/news/child-dies-brain-eating-amoeba-ash-springs-nevada-fowleri-infection/)
+[Read more](https://www.hollywoodreporter.com/movies/movie-news/barbie-box-office-oppenheimer-opening-1235541719/)
