@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690193301)
+![Generated GIF](output.gif?raw=true&v=1690194983)
 
-Prompt: Netanyahu in hospital as Israeli judicial crisis flares
+Prompt: Jamie Foxx speaks publicly for first time since hospitalized due to illness
 
-[Read more](https://www.cnbc.com/2023/07/23/israels-netanyahu-in-hospital-after-getting-pacemaker.html)
+[Read more](https://www.youtube.com/watch?v=N8rRM1tnL8c)
