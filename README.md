@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690205718)
+![Generated GIF](output.gif?raw=true&v=1690207595)
 
-Prompt: Deadly extreme heat is on the rise in national parks – a growing risk for America’s great outdoors
+Prompt: Scott Rolen, Fred McGriff to be inducted into Baseball Hall of Fame
 
-[Read more](https://www.cnn.com/2023/07/23/us/national-park-heat-deaths-climate/index.html)
+[Read more](https://theathletic.com/4707373/2023/07/23/scott-rolen-fred-mcgriff-baseball-hall-of-fame/)
