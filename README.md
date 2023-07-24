@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690203119)
+![Generated GIF](output.gif?raw=true&v=1690204525)
 
-Prompt: Massive crowds rally in Israel as vote on judicial overhaul looms
+Prompt: Tourists flee Greek island Rhodes wildfire, thousands evacuated
 
-[Read more](https://www.aljazeera.com/news/2023/7/23/huge-crowds-march-in-israel-as-vote-on-judicial-overhaul-nears)
+[Read more](https://www.cnbc.com/2023/07/23/tourists-flee-greek-island-rhodes-wildfire-thousands-evacuated.html)
