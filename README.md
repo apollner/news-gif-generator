@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690204525)
+![Generated GIF](output.gif?raw=true&v=1690205718)
 
-Prompt: Tourists flee Greek island Rhodes wildfire, thousands evacuated
+Prompt: Deadly extreme heat is on the rise in national parks – a growing risk for America’s great outdoors
 
-[Read more](https://www.cnbc.com/2023/07/23/tourists-flee-greek-island-rhodes-wildfire-thousands-evacuated.html)
+[Read more](https://www.cnn.com/2023/07/23/us/national-park-heat-deaths-climate/index.html)
