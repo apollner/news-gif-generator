@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690209260)
+![Generated GIF](output.gif?raw=true&v=1690211280)
 
-Prompt: Deadly extreme heat is on the rise in national parks – a growing risk for America’s great outdoors
+Prompt: Summer’s most spectacular meteor shower now underway, best dates for viewing
 
-[Read more](https://www.cnn.com/2023/07/23/us/national-park-heat-deaths-climate/index.html)
+[Read more](https://www.mlive.com/news/2023/07/summers-most-spectacular-meteor-shower-now-underway-best-dates-for-viewing.html)
