@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690277631)
+![Generated GIF](output.gif?raw=true&v=1690279705)
 
-Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
+Prompt: Spain election vote ends in stalemate
 
-[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
+[Read more](https://www.usatoday.com/story/news/world/2023/07/24/spain-election-vote/70454861007/)
