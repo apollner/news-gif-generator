@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690268811)
+![Generated GIF](output.gif?raw=true&v=1690270511)
 
-Prompt: Spain election: Conservatives win but fall short of majority
+Prompt: US Dollar Bearish Bets Hit Record High on Managers' Fed, Inflation Speculation
 
-[Read more](https://www.dw.com/en/spain-election-conservatives-win-but-fall-short-of-majority/a-66321876)
+[Read more](https://www.bloomberg.com/news/articles/2023-07-24/dollar-bearish-bets-climb-to-record-high-among-asset-managers)
