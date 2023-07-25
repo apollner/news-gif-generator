@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690265521)
+![Generated GIF](output.gif?raw=true&v=1690266978)
 
-Prompt: China Box Office: ‘Barbie’ Opens in Fifth Place With $8 Million
+Prompt: 'SpongeBob' Voice Actor's Wife Clarifies He is Not Dating Ariana Grande Amid Ethan Slater Romance
 
-[Read more](https://variety.com/2023/film/global/china-box-office-barbie-opens-fifth-1235678092/)
+[Read more](https://www.etonline.com/spongebob-voice-actors-wife-clarifies-he-is-not-dating-ariana-grande-amid-ethan-slater-romance)
