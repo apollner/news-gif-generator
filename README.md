@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690326300)
+![Generated GIF](output.gif?raw=true&v=1690328089)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas governor defies federal order to remove anti-migrant buoys from river**
+**Obamas' personal chef drowns near family's home on Martha's Vineyard**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/24/texas-border-buoys-greg-abbott-biden).
+You can read more about it [here](https://apnews.com/article/obama-chef-drowning-marthas-vineyard-7c75e65b4e550823ee21334a0450323c).
 
 ## Requirements
 - Python 3.8
