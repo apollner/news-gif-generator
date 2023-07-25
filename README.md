@@ -1,12 +1,25 @@
 # News GIF Generation
-This repository contains a script that generates an GIF based on a news headline. The GIF is then saved and displayed in this README.
-The news headline is fetched from the NewsAPI and the GIF is generated using the DiffusionPipeline from the `diffusers` Python package. The GIF generation process is performed on a GPU.
-The script runs every few minutes, fetching a new headline and generating a new GIF each time.
+This repository contains a Python script that automatically generates a GIF based on a news headline. The script uses the [NewsAPI](https://newsapi.org/) to fetch the latest headlines, and then generates a GIF using the [DiffusionPipeline](https://github.com/Stability-AI) from the `diffusers` Python package.
+The script is scheduled to run every few minutes. Each time it runs, it fetches a new headline and generates a new GIF, which is then displayed below. The GIF generation process is performed on a GPU.
 
----
+## Generated GIF
+Below is the latest generated GIF:
+![Generated GIF](output.gif?raw=true&v=1690294762)
 
-![Generated GIF](output.gif?raw=true&v=1690293968)
+## Latest News Headline
+The latest news headline used to generate the GIF is:
 
-Prompt: House Republicans' CHOICE Act would roll back some Obamacare protections
+**US condemns ‘brutal’ sexual assault video from India’s Manipur**
 
-[Read more](https://www.npr.org/sections/health-shots/2023/07/24/1189332308/house-republicans-choice-act-roll-back-obamacare-protections)
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur).
+
+## Requirements
+- Python 3.8
+- Hugging Face account
+- NewsAPI key
+- `diffusers` Python package
+- `invisible_watermark` Python package
+- `transformers` Python package
+- `accelerate` Python package
+- `safetensors` Python package
+- `moviepy` Python package
