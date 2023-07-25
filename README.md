@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690287203)
+![Generated GIF](output.gif?raw=true&v=1690289654)
 
-Prompt: There is a ‘gravity hole’ in the Indian Ocean, and scientists now think they know why
+Prompt: Weak PMIs, Spain keep Europe sour but fail to dent US sentiment
 
-[Read more](https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html)
+[Read more](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-07-24/)
