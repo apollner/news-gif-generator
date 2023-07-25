@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690324436)
+![Generated GIF](output.gif?raw=true&v=1690326300)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sony unveils long-awaited WF-1000XM5 earbuds with heavy-duty ANC, 360 audio for $299**
+**Texas governor defies federal order to remove anti-migrant buoys from river**
 
-You can read more about it [here](https://9to5google.com/2023/07/24/sony-wf-1000xm5-2/).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/24/texas-border-buoys-greg-abbott-biden).
 
 ## Requirements
 - Python 3.8
