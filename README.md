@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690276012)
+![Generated GIF](output.gif?raw=true&v=1690277631)
 
-Prompt: Indonesian boat capsizes, leaving more than a dozen dead and others missing
+Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
 
-[Read more](https://www.npr.org/2023/07/24/1189714108/indonesian-boat-capsizes-leaving-more-than-a-dozen-dead-and-others-missing)
+[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
