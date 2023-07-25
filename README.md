@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690289654)
+![Generated GIF](output.gif?raw=true&v=1690290920)
 
-Prompt: Weak PMIs, Spain keep Europe sour but fail to dent US sentiment
+Prompt: Twitter rebrands to 'X' as Elon Musk loses iconic bird logo
 
-[Read more](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-07-24/)
+[Read more](https://www.nbcnews.com/news/us-news/twitter-rebrands-x-elon-musk-loses-iconic-bird-logo-rcna95880)
