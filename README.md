@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690304762)
+![Generated GIF](output.gif?raw=true&v=1690306424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden to designate national monument for Emmett Till**
+**Georgia movie industry hit amid ongoing actors and writers strike**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66291893).
+You can read more about it [here](https://www.youtube.com/watch?v=Fkq9ujf5lBY).
 
 ## Requirements
 - Python 3.8
