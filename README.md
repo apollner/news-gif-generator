@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690270511)
+![Generated GIF](output.gif?raw=true&v=1690272654)
 
-Prompt: US Dollar Bearish Bets Hit Record High on Managers' Fed, Inflation Speculation
+Prompt: Russia claims Ukrainian drone strikes hit two non-residential buildings in Moscow
 
-[Read more](https://www.bloomberg.com/news/articles/2023-07-24/dollar-bearish-bets-climb-to-record-high-among-asset-managers)
+[Read more](https://www.cnn.com/2023/07/23/europe/ukraine-russia-drone-attacks-hit-moscow-intl-hnk/index.html)
