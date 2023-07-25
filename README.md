@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690281367)
+![Generated GIF](output.gif?raw=true&v=1690283122)
 
-Prompt: Today’s daily horoscope for July 24, 2023
+Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
 
-[Read more](https://www.nj.com/advice/2023/07/todays-daily-horoscope-for-july-24-2023.html)
+[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
