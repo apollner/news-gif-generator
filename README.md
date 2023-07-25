@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690315641)
+![Generated GIF](output.gif?raw=true&v=1690317235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Mega Millions jackpot is now $820 million: Here’s how much the winner will get after taxes**
+**Tony Bennett's wife recalls 'special' trips to Italy — and his love of pasta**
 
-You can read more about it [here](https://ktla.com/news/california/the-mega-millions-jackpot-is-now-820-million-heres-how-much-the-winner-will-get-after-taxes/).
+You can read more about it [here](https://nypost.com/2023/07/24/tony-bennetts-wife-susan-benedetto-shares-memories/).
 
 ## Requirements
 - Python 3.8
