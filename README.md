@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690259671)
+![Generated GIF](output.gif?raw=true&v=1690261587)
 
-Prompt: ‘Mission: Impossible’ Box Office: Can ‘Dead Reckoning’ Rebound From Barbenheimer?
+Prompt: Gilgo Beach killings: Search of Rex Heuermann home includes excavating equipment
 
-[Read more](https://www.hollywoodreporter.com/movies/movie-news/mission-impossible-dead-reckoning-box-office-barbenheimer-1235543602/)
+[Read more](https://www.newsday.com/long-island/crime/gilgo-beach-killings-heuermann-home-search-aq8hhm66)
