@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690295640)
+![Generated GIF](output.gif?raw=true&v=1690297654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans' CHOICE Act would roll back some Obamacare protections**
+**There is a ‘gravity hole’ in the Indian Ocean, and scientists now think they know why**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/07/24/1189332308/house-republicans-choice-act-roll-back-obamacare-protections).
+You can read more about it [here](https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html).
 
 ## Requirements
 - Python 3.8
