@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690297654)
+![Generated GIF](output.gif?raw=true&v=1690299297)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**There is a ‘gravity hole’ in the Indian Ocean, and scientists now think they know why**
+**Ozarks boat crash: Vessel runs into home at Lake of the Ozarks**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/24/ozarks-boat-crash-house/70455036007/).
 
 ## Requirements
 - Python 3.8
