@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690279705)
+![Generated GIF](output.gif?raw=true&v=1690281367)
 
-Prompt: Spain election vote ends in stalemate
+Prompt: Today’s daily horoscope for July 24, 2023
 
-[Read more](https://www.usatoday.com/story/news/world/2023/07/24/spain-election-vote/70454861007/)
+[Read more](https://www.nj.com/advice/2023/07/todays-daily-horoscope-for-july-24-2023.html)
