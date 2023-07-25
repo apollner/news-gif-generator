@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690254534)
+![Generated GIF](output.gif?raw=true&v=1690256033)
 
-Prompt: The Open 2023 - Brian Harman's victory was decades in the making - ESPN
+Prompt: Chicago sees spike in weekend violence
 
-[Read more](https://www.espn.com/golf/story/_/id/38058715/2023-open-brian-harman-win-royal-liverpool-georgia-bulldogs)
+[Read more](https://www.youtube.com/watch?v=tbxf9JNX9L8)
