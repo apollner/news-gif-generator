@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690310060)
+![Generated GIF](output.gif?raw=true&v=1690311930)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GSK's Arexvy to lead new RSV vaccines sales race with Moderna a close second: report**
+**School gym roof collapses in China, killing 11**
 
-You can read more about it [here](https://www.fiercepharma.com/marketing/gsks-arexvy-lead-new-rsv-vaccines-sales-race-moderna-close-second-report).
+You can read more about it [here](https://www.theguardian.com/world/2023/jul/24/school-gym-roof-collapses-in-china-killing-11).
 
 ## Requirements
 - Python 3.8
