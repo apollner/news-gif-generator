@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690266978)
+![Generated GIF](output.gif?raw=true&v=1690268811)
 
-Prompt: 'SpongeBob' Voice Actor's Wife Clarifies He is Not Dating Ariana Grande Amid Ethan Slater Romance
+Prompt: Spain election: Conservatives win but fall short of majority
 
-[Read more](https://www.etonline.com/spongebob-voice-actors-wife-clarifies-he-is-not-dating-ariana-grande-amid-ethan-slater-romance)
+[Read more](https://www.dw.com/en/spain-election-conservatives-win-but-fall-short-of-majority/a-66321876)
