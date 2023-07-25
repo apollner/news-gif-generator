@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690274108)
+![Generated GIF](output.gif?raw=true&v=1690276012)
 
-Prompt: As San Francisco's Anchor Brewing prepares to close, employees want the chance to buy it
+Prompt: Indonesian boat capsizes, leaving more than a dozen dead and others missing
 
-[Read more](https://www.nbcbayarea.com/news/local/san-franciscos-anchor-brewing-close-employee-want-to-buy/3278780/)
+[Read more](https://www.npr.org/2023/07/24/1189714108/indonesian-boat-capsizes-leaving-more-than-a-dozen-dead-and-others-missing)
