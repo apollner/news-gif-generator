@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690292040)
+![Generated GIF](output.gif?raw=true&v=1690293968)
 
-Prompt: Uhh, Messi’s in my WhatsApp group. Behind the scenes of the Miami hero’s first days
+Prompt: House Republicans' CHOICE Act would roll back some Obamacare protections
 
-[Read more](https://theathletic.com/4714264/2023/07/24/messi-miami-goal-lionel/)
+[Read more](https://www.npr.org/sections/health-shots/2023/07/24/1189332308/house-republicans-choice-act-roll-back-obamacare-protections)
