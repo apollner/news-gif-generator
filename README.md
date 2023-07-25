@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690284820)
+![Generated GIF](output.gif?raw=true&v=1690287203)
 
-Prompt: Sam Altman’s Worldcoin eyeball-scanning crypto project launches
+Prompt: There is a ‘gravity hole’ in the Indian Ocean, and scientists now think they know why
 
-[Read more](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
+[Read more](https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html)
