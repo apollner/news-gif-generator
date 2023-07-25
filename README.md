@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690290920)
+![Generated GIF](output.gif?raw=true&v=1690292040)
 
-Prompt: Twitter rebrands to 'X' as Elon Musk loses iconic bird logo
+Prompt: Uhh, Messi’s in my WhatsApp group. Behind the scenes of the Miami hero’s first days
 
-[Read more](https://www.nbcnews.com/news/us-news/twitter-rebrands-x-elon-musk-loses-iconic-bird-logo-rcna95880)
+[Read more](https://theathletic.com/4714264/2023/07/24/messi-miami-goal-lionel/)
