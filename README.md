@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690256033)
+![Generated GIF](output.gif?raw=true&v=1690258258)
 
-Prompt: Chicago sees spike in weekend violence
+Prompt: Israel parliament begins mammoth judicial overhaul session with Netanyahu in hospital
 
-[Read more](https://www.youtube.com/watch?v=tbxf9JNX9L8)
+[Read more](https://www.cnn.com/2023/07/23/middleeast/israeli-lawmakers-final-debate-intl/index.html)
