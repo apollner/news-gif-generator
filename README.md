@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690251361)
+![Generated GIF](output.gif?raw=true&v=1690253946)
 
-Prompt: ‘Biblical proportions’: 3 months’ worth of rainfall floods Nova Scotia, forcing evacuations as crews search for missing people
+Prompt: Benjamin Netanyahu in hospital as crisis erupts over Israel's judicial overhaul
 
-[Read more](https://www.cnn.com/2023/07/23/americas/nova-scotia-canada-rain-floods/index.html)
+[Read more](https://www.ft.com/content/39cabf17-d225-48c1-931b-ac5bf0d041d1)
