@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690261587)
+![Generated GIF](output.gif?raw=true&v=1690263314)
 
-Prompt: Gilgo Beach killings: Search of Rex Heuermann home includes excavating equipment
+Prompt: De-dollarization: 3 reasons why nations want to break up with the USD
 
-[Read more](https://www.newsday.com/long-island/crime/gilgo-beach-killings-heuermann-home-search-aq8hhm66)
+[Read more](https://www.businessinsider.com/de-dollarization-reasons-why-countries-move-away-us-dollar-2023-7)
