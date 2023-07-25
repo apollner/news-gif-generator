@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690263314)
+![Generated GIF](output.gif?raw=true&v=1690265521)
 
-Prompt: De-dollarization: 3 reasons why nations want to break up with the USD
+Prompt: China Box Office: ‘Barbie’ Opens in Fifth Place With $8 Million
 
-[Read more](https://www.businessinsider.com/de-dollarization-reasons-why-countries-move-away-us-dollar-2023-7)
+[Read more](https://variety.com/2023/film/global/china-box-office-barbie-opens-fifth-1235678092/)
