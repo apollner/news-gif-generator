@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690322878)
+![Generated GIF](output.gif?raw=true&v=1690324436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tony Bennett's wife recalls 'special' trips to Italy — and his love of pasta**
+**Sony unveils long-awaited WF-1000XM5 earbuds with heavy-duty ANC, 360 audio for $299**
 
-You can read more about it [here](https://nypost.com/2023/07/24/tony-bennetts-wife-susan-benedetto-shares-memories/).
+You can read more about it [here](https://9to5google.com/2023/07/24/sony-wf-1000xm5-2/).
 
 ## Requirements
 - Python 3.8
