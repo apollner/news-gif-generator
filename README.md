@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690272654)
+![Generated GIF](output.gif?raw=true&v=1690274108)
 
-Prompt: Russia claims Ukrainian drone strikes hit two non-residential buildings in Moscow
+Prompt: As San Francisco's Anchor Brewing prepares to close, employees want the chance to buy it
 
-[Read more](https://www.cnn.com/2023/07/23/europe/ukraine-russia-drone-attacks-hit-moscow-intl-hnk/index.html)
+[Read more](https://www.nbcbayarea.com/news/local/san-franciscos-anchor-brewing-close-employee-want-to-buy/3278780/)
