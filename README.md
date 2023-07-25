@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690253946)
+![Generated GIF](output.gif?raw=true&v=1690254534)
 
-Prompt: Benjamin Netanyahu in hospital as crisis erupts over Israel's judicial overhaul
+Prompt: The Open 2023 - Brian Harman's victory was decades in the making - ESPN
 
-[Read more](https://www.ft.com/content/39cabf17-d225-48c1-931b-ac5bf0d041d1)
+[Read more](https://www.espn.com/golf/story/_/id/38058715/2023-open-brian-harman-win-royal-liverpool-georgia-bulldogs)
