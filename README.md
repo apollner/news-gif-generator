@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690294762)
+![Generated GIF](output.gif?raw=true&v=1690295640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US condemns ‘brutal’ sexual assault video from India’s Manipur**
+**House Republicans' CHOICE Act would roll back some Obamacare protections**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/07/24/1189332308/house-republicans-choice-act-roll-back-obamacare-protections).
 
 ## Requirements
 - Python 3.8
