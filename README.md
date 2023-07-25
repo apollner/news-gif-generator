@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690301390)
+![Generated GIF](output.gif?raw=true&v=1690303161)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Read Twitter CEO Linda Yaccarino's message to staff about the 'X' rebrand**
+**New Zealand leader resigns after criminally charged in crash**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/24/read-ceo-linda-yaccarinos-message-to-twitter-staff-about-the-rebrand-to-x.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/24/new-zealand-kiri-allen-resigns-crash/70455765007/).
 
 ## Requirements
 - Python 3.8
