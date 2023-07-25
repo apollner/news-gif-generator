@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690283122)
+![Generated GIF](output.gif?raw=true&v=1690284820)
 
-Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
+Prompt: Sam Altman’s Worldcoin eyeball-scanning crypto project launches
 
-[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
+[Read more](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
