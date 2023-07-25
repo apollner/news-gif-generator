@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690258258)
+![Generated GIF](output.gif?raw=true&v=1690259671)
 
-Prompt: Israel parliament begins mammoth judicial overhaul session with Netanyahu in hospital
+Prompt: ‘Mission: Impossible’ Box Office: Can ‘Dead Reckoning’ Rebound From Barbenheimer?
 
-[Read more](https://www.cnn.com/2023/07/23/middleeast/israeli-lawmakers-final-debate-intl/index.html)
+[Read more](https://www.hollywoodreporter.com/movies/movie-news/mission-impossible-dead-reckoning-box-office-barbenheimer-1235543602/)
