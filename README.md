@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690245479)
+![Generated GIF](output.gif?raw=true&v=1690251361)
 
-Prompt: Rhodes wildfires prompt mass evacuations, flights canceled to Greek island - The Washington Post
+Prompt: ‘Biblical proportions’: 3 months’ worth of rainfall floods Nova Scotia, forcing evacuations as crews search for missing people
 
-[Read more](https://www.washingtonpost.com/weather/2023/07/23/rhodes-wildfires-evacuations-flights-canceled/)
+[Read more](https://www.cnn.com/2023/07/23/americas/nova-scotia-canada-rain-floods/index.html)
