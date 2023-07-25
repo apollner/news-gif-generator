@@ -5,8 +5,8 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ---
 
-![Generated GIF](output.gif?raw=true&v=1690241640)
+![Generated GIF](output.gif?raw=true&v=1690245479)
 
-Prompt: Denny Hamlin wins the Cup race at Pocono
+Prompt: Rhodes wildfires prompt mass evacuations, flights canceled to Greek island - The Washington Post
 
-[Read more](https://www.nbcsports.com/nascar/live/live-nascar-cup-updates-from-pocono-raceway)
+[Read more](https://www.washingtonpost.com/weather/2023/07/23/rhodes-wildfires-evacuations-flights-canceled/)
