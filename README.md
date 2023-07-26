@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690339703)
+![Generated GIF](output.gif?raw=true&v=1690340864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wall Street Analyst Admits 'We Were Wrong'**
+**US Supreme Court faces ‘outright defiance’ from Alabama**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/wall-street-analyst-admits-we-were-wrong).
+You can read more about it [here](https://www.cnn.com/2023/07/24/politics/alabama-congressional-map-what-matters/index.html).
 
 ## Requirements
 - Python 3.8
