@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690375858)
+![Generated GIF](output.gif?raw=true&v=1690377101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Philippines stun co-host New Zealand 1-0 to earn first ever Women’s World Cup win**
+**Protests rock Israel as it passes curbs on some Supreme Court powers**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/football/new-zealand-switzerland-norway-womens-world-cup-2023-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israels-netanyahu-discharged-hospital-reuters-witness-says-2023-07-24/).
 
 ## Requirements
 - Python 3.8
