@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690340864)
+![Generated GIF](output.gif?raw=true&v=1690342472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Supreme Court faces ‘outright defiance’ from Alabama**
+**Eleven dead in China after school gymnasium roof collapses onto student volleyball team**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/politics/alabama-congressional-map-what-matters/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/23/china/china-middle-school-gym-roof-collapse-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
