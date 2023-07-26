@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690371229)
+![Generated GIF](output.gif?raw=true&v=1690373550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bing Chat powered by OpenAI tech is rolling out to Chrome and Safari | Engadget**
+**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
 
-You can read more about it [here](https://www.engadget.com/bing-chat-powered-by-openai-tech-is-rolling-out-to-chrome-and-safari-035228266.html).
+You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
 
 ## Requirements
 - Python 3.8
