@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690380313)
+![Generated GIF](output.gif?raw=true&v=1690382038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2024 Ford Mustang GT: The American Dream Car**
+**Tafari Campbell, paddleboarder who died on Martha's Vineyard, was Obama's chef**
 
-You can read more about it [here](https://jalopnik.com/2024-ford-mustang-gt-american-dream-car-manual-1850670574).
+You can read more about it [here](https://www.cbsnews.com/boston/news/tafari-campbell-paddleboarder-death-edgartown-great-pond-marthas-vineyard-obama/).
 
 ## Requirements
 - Python 3.8
