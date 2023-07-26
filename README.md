@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690369544)
+![Generated GIF](output.gif?raw=true&v=1690371229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli government passes law to limit Supreme Court power, defying mass protests**
+**Bing Chat powered by OpenAI tech is rolling out to Chrome and Safari | Engadget**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/middleeast/israel-supreme-court-power-stripped-intl/index.html).
+You can read more about it [here](https://www.engadget.com/bing-chat-powered-by-openai-tech-is-rolling-out-to-chrome-and-safari-035228266.html).
 
 ## Requirements
 - Python 3.8
