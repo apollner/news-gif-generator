@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690382038)
+![Generated GIF](output.gif?raw=true&v=1690383965)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tafari Campbell, paddleboarder who died on Martha's Vineyard, was Obama's chef**
+**The Philippines stun co-host New Zealand 1-0 to earn first ever Women’s World Cup win**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/tafari-campbell-paddleboarder-death-edgartown-great-pond-marthas-vineyard-obama/).
+You can read more about it [here](https://www.cnn.com/2023/07/24/football/new-zealand-switzerland-norway-womens-world-cup-2023-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
