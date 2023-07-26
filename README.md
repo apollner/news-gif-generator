@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690409177)
+![Generated GIF](output.gif?raw=true&v=1690410913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AI Unlocks Olive Oil's Potential in Alzheimer's Battle**
+**Israel's government has passed the first part of its legal overhaul. The law's ripples are dramatic**
 
-You can read more about it [here](https://neurosciencenews.com/ai-evoo-alzheimers-23695/).
+You can read more about it [here](https://apnews.com/article/israel-netanyahu-judicial-overhaul-politics-bc66247c3f7824288d6f93dbd7b777c7).
 
 ## Requirements
 - Python 3.8
