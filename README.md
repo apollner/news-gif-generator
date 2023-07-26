@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690360447)
+![Generated GIF](output.gif?raw=true&v=1690362370)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MSG Sphere in Las Vegas teases the most advanced audio system on Earth**
+**Israeli government passes law to limit Supreme Court power, defying mass protests**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/news/2023/07/24/msg-sphere-las-vegas-teases-most-advanced-audio-system/70460205007/).
+You can read more about it [here](https://www.cnn.com/2023/07/24/middleeast/israel-supreme-court-power-stripped-intl/index.html).
 
 ## Requirements
 - Python 3.8
