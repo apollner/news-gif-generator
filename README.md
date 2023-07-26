@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690403645)
+![Generated GIF](output.gif?raw=true&v=1690405585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dept. of Education Opens Investigation Into Harvard's Donor, Legacy Admissions Preferences | News**
+**Miami-Dade Police Director Freddy Ramirez recovering from gunshot wound, expected to undergo another surgery**
 
-You can read more about it [here](https://www.thecrimson.com/article/2023/7/26/doe-investigation-donor-legacy-admissions/).
+You can read more about it [here](https://www.local10.com/news/local/2023/07/25/miami-dade-police-director-freddy-ramirez-recovering-from-gunshot-wound-expected-to-remain-in-tampa-hospital-all-week/).
 
 ## Requirements
 - Python 3.8
