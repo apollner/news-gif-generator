@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690402036)
+![Generated GIF](output.gif?raw=true&v=1690403645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado reports its first West Nile virus case in humans this year**
+**Dept. of Education Opens Investigation Into Harvard's Donor, Legacy Admissions Preferences | News**
 
-You can read more about it [here](https://www.foxnews.com/health/colorado-reports-its-first-west-nile-virus-case-humans-this-year).
+You can read more about it [here](https://www.thecrimson.com/article/2023/7/26/doe-investigation-donor-legacy-admissions/).
 
 ## Requirements
 - Python 3.8
