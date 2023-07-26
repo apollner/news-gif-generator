@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690344548)
+![Generated GIF](output.gif?raw=true&v=1690346109)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Hidden Line Deep in The Ocean Divides Animals Into Two Camps**
+**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
 
-You can read more about it [here](https://www.sciencealert.com/a-hidden-line-deep-in-the-ocean-divides-animals-into-two-camps).
+You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
 
 ## Requirements
 - Python 3.8
