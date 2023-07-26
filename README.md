@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690405585)
+![Generated GIF](output.gif?raw=true&v=1690407325)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami-Dade Police Director Freddy Ramirez recovering from gunshot wound, expected to undergo another surgery**
+**There is a 'Gravity Hole' in the Indian Ocean. Scientists Now Think They Know Why - Slashdot**
 
-You can read more about it [here](https://www.local10.com/news/local/2023/07/25/miami-dade-police-director-freddy-ramirez-recovering-from-gunshot-wound-expected-to-remain-in-tampa-hospital-all-week/).
+You can read more about it [here](https://science.slashdot.org/story/23/07/25/0740208/there-is-a-gravity-hole-in-the-indian-ocean-scientists-now-think-they-know-why).
 
 ## Requirements
 - Python 3.8
