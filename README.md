@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690373550)
+![Generated GIF](output.gif?raw=true&v=1690375858)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
+**The Philippines stun co-host New Zealand 1-0 to earn first ever Women’s World Cup win**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
+You can read more about it [here](https://www.cnn.com/2023/07/24/football/new-zealand-switzerland-norway-womens-world-cup-2023-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
