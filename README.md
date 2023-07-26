@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690407325)
+![Generated GIF](output.gif?raw=true&v=1690409177)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**There is a 'Gravity Hole' in the Indian Ocean. Scientists Now Think They Know Why - Slashdot**
+**AI Unlocks Olive Oil's Potential in Alzheimer's Battle**
 
-You can read more about it [here](https://science.slashdot.org/story/23/07/25/0740208/there-is-a-gravity-hole-in-the-indian-ocean-scientists-now-think-they-know-why).
+You can read more about it [here](https://neurosciencenews.com/ai-evoo-alzheimers-23695/).
 
 ## Requirements
 - Python 3.8
