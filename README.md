@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690387770)
+![Generated GIF](output.gif?raw=true&v=1690389474)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venice film festival picks starry films despite actors’ strike**
+**Bidens’ dog Commander involved in biting incidents as White House says he’s getting more training**
 
-You can read more about it [here](https://www.theguardian.com/film/2023/jul/25/venice-film-festival-picks-starry-films-despite-actors-strike).
+You can read more about it [here](https://www.cnn.com/2023/07/25/politics/commander-biden-bites-secret-service/index.html).
 
 ## Requirements
 - Python 3.8
