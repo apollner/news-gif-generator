@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690377101)
+![Generated GIF](output.gif?raw=true&v=1690380313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Protests rock Israel as it passes curbs on some Supreme Court powers**
+**2024 Ford Mustang GT: The American Dream Car**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israels-netanyahu-discharged-hospital-reuters-witness-says-2023-07-24/).
+You can read more about it [here](https://jalopnik.com/2024-ford-mustang-gt-american-dream-car-manual-1850670574).
 
 ## Requirements
 - Python 3.8
