@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690328089)
+![Generated GIF](output.gif?raw=true&v=1690331695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Obamas' personal chef drowns near family's home on Martha's Vineyard**
+**Greta Gerwig Explains ‘Barbie’s “Mic Drop” Final Line**
 
-You can read more about it [here](https://apnews.com/article/obama-chef-drowning-marthas-vineyard-7c75e65b4e550823ee21334a0450323c).
+You can read more about it [here](https://deadline.com/2023/07/barbie-final-scene-explained-greta-gerwig-1235446671/).
 
 ## Requirements
 - Python 3.8
