@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690383965)
+![Generated GIF](output.gif?raw=true&v=1690385642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Philippines stun co-host New Zealand 1-0 to earn first ever Women’s World Cup win**
+**‘Barbie’ Scores Best-Ever Monday for Warner Bros. With $26 Million, Overtaking ‘The Dark Knight’**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/football/new-zealand-switzerland-norway-womens-world-cup-2023-spt-intl/index.html).
+You can read more about it [here](https://variety.com/2023/film/box-office/barbie-monday-box-office-warner-bros-record-1235679537/).
 
 ## Requirements
 - Python 3.8
