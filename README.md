@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690353239)
+![Generated GIF](output.gif?raw=true&v=1690355154)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Good news for people living with HIV & their sexual partners**
+**Doja Cat Slams Admirers Who Call Themselves ‘Kittenz’—And She’s Not The First Celebrity To Diss Her Fans**
 
-You can read more about it [here](https://www.queerty.com/good-news-for-people-living-with-hiv-their-sexual-partners-20230724).
+You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2023/07/24/doja-cat-slams-admirers-who-call-themselves-kittenz-and-shes-not-the-first-celebrity-to-diss-her-fans/).
 
 ## Requirements
 - Python 3.8
