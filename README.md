@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690412839)
+![Generated GIF](output.gif?raw=true&v=1690414439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis campaign fires over 40% of original staff**
+**Triple-digit ocean temps in Florida could be a global record**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ByAx4oKMvRA).
+You can read more about it [here](https://abcnews.go.com/US/preliminary-ocean-temperature-1011-degrees-recorded-off-coast/story?id=101646005).
 
 ## Requirements
 - Python 3.8
