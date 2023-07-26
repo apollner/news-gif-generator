@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690391116)
+![Generated GIF](output.gif?raw=true&v=1690392840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
+**‘Barbie’ Scores Best-Ever Monday for Warner Bros. With $26 Million, Overtaking ‘The Dark Knight’**
 
-You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
+You can read more about it [here](https://variety.com/2023/film/box-office/barbie-monday-box-office-warner-bros-record-1235679537/).
 
 ## Requirements
 - Python 3.8
