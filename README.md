@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690359116)
+![Generated GIF](output.gif?raw=true&v=1690360447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Hidden Line Deep in The Ocean Divides Animals Into Two Camps**
+**MSG Sphere in Las Vegas teases the most advanced audio system on Earth**
 
-You can read more about it [here](https://www.sciencealert.com/a-hidden-line-deep-in-the-ocean-divides-animals-into-two-camps).
+You can read more about it [here](https://www.usatoday.com/story/tech/news/2023/07/24/msg-sphere-las-vegas-teases-most-advanced-audio-system/70460205007/).
 
 ## Requirements
 - Python 3.8
