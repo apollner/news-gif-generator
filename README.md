@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690355154)
+![Generated GIF](output.gif?raw=true&v=1690356842)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Doja Cat Slams Admirers Who Call Themselves ‘Kittenz’—And She’s Not The First Celebrity To Diss Her Fans**
+**A Hidden Line Deep in The Ocean Divides Animals Into Two Camps**
 
-You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2023/07/24/doja-cat-slams-admirers-who-call-themselves-kittenz-and-shes-not-the-first-celebrity-to-diss-her-fans/).
+You can read more about it [here](https://www.sciencealert.com/a-hidden-line-deep-in-the-ocean-divides-animals-into-two-camps).
 
 ## Requirements
 - Python 3.8
