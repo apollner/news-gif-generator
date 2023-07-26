@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690389474)
+![Generated GIF](output.gif?raw=true&v=1690391116)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bidens’ dog Commander involved in biting incidents as White House says he’s getting more training**
+**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
 
-You can read more about it [here](https://www.cnn.com/2023/07/25/politics/commander-biden-bites-secret-service/index.html).
+You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
 
 ## Requirements
 - Python 3.8
