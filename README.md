@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690364045)
+![Generated GIF](output.gif?raw=true&v=1690366022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Cottage' review: Tired new Broadway farce is forced**
+**China Stocks, Yuan (CNY USD) Jump as Beijing Vows More Support for Economy**
 
-You can read more about it [here](https://nypost.com/2023/07/24/the-cottage-review-tired-new-broadway-farce-is-forced/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-25/china-stocks-yuan-jump-as-beijing-vows-more-support-for-economy).
 
 ## Requirements
 - Python 3.8
