@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690351806)
+![Generated GIF](output.gif?raw=true&v=1690353239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trader Joe’s recalls signature almond cookies because they may contain rocks**
+**Good news for people living with HIV & their sexual partners**
 
-You can read more about it [here](https://nypost.com/2023/07/24/trader-joes-recalls-cookies-because-they-may-contain-rocks/).
+You can read more about it [here](https://www.queerty.com/good-news-for-people-living-with-hiv-their-sexual-partners-20230724).
 
 ## Requirements
 - Python 3.8
