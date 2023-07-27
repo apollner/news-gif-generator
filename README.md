@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690450523)
+![Generated GIF](output.gif?raw=true&v=1690452433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Water at tip of Florida hits hot tub level, may have set world record for warmest seawater**
+**Samsung's Unpacked event spoiled by major leak**
 
-You can read more about it [here](https://apnews.com/article/record-hot-water-florida-coral-climate-change-6414d44c6f120507d3ee37c059fb75cd).
+You can read more about it [here](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks).
 
 ## Requirements
 - Python 3.8
