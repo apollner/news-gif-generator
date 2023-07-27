@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690446982)
+![Generated GIF](output.gif?raw=true&v=1690448863)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bowe Bergdahl court-martial conviction for Army desertion thrown out by federal judge**
+**Greta Gerwig on Outraged Conservatives Burning Barbies**
 
-You can read more about it [here](https://www.foxnews.com/politics/bowe-bergdahl-court-martial-conviction-army-desertion-thrown-federal-judge).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/greta-gerwig-responds-barbie-right-wing-backlash-1234795183/).
 
 ## Requirements
 - Python 3.8
