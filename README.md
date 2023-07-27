@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690448863)
+![Generated GIF](output.gif?raw=true&v=1690450523)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Greta Gerwig on Outraged Conservatives Burning Barbies**
+**Water at tip of Florida hits hot tub level, may have set world record for warmest seawater**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/greta-gerwig-responds-barbie-right-wing-backlash-1234795183/).
+You can read more about it [here](https://apnews.com/article/record-hot-water-florida-coral-climate-change-6414d44c6f120507d3ee37c059fb75cd).
 
 ## Requirements
 - Python 3.8
