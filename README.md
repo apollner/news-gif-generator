@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690462291)
+![Generated GIF](output.gif?raw=true&v=1690463552)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justin Herbert's production warranted record-breaking extension, but will it lead to Chargers playoff success?**
+**Hunter Biden to plead guilty to federal tax crimes on Wednesday**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herberts-production-warranted-record-breaking-extension-but-will-it-lead-to-chargers-playoff-success/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/politics/hunter-biden-plea-hearing/index.html).
 
 ## Requirements
 - Python 3.8
