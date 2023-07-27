@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690475896)
+![Generated GIF](output.gif?raw=true&v=1690477540)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The truth of Justin Herbert's deal: Seven years, $42.3 million per year**
+**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-truth-of-justin-herberts-deal-seven-years-42-3-million-per-year).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
 
 ## Requirements
 - Python 3.8
