@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690455921)
+![Generated GIF](output.gif?raw=true&v=1690457654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qin Gang: China foreign minister's removal sparks speculation**
+**A vital system of ocean currents could collapse much sooner than expected, scientists warn**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-china-66299379).
+You can read more about it [here](https://www.cnbc.com/2023/07/26/climate-study-a-vital-system-of-ocean-currents-could-soon-collapse.html).
 
 ## Requirements
 - Python 3.8
