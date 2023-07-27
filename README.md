@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690479253)
+![Generated GIF](output.gif?raw=true&v=1690481387)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA lost contact with International Space Station after power drop**
+**London jury acquits Kevin Spacey of sexual assault charges on his birthday**
 
-You can read more about it [here](https://www.space.com/nasa-lost-contact-with-international-space-station-power-drop).
+You can read more about it [here](https://apnews.com/article/kevin-spacey-sexual-assault-trial-london-jury-deliberations-85cb3957c60de1a7b1e03a26dc278d95).
 
 ## Requirements
 - Python 3.8
