@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690439693)
+![Generated GIF](output.gif?raw=true&v=1690441661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel's government has passed the first part of its legal overhaul. The law's ripples are dramatic**
+**Three dead in Greece wildfires as firefighters battle the flames**
 
-You can read more about it [here](https://apnews.com/article/israel-netanyahu-judicial-overhaul-politics-bc66247c3f7824288d6f93dbd7b777c7).
+You can read more about it [here](https://www.reuters.com/world/europe/wildfires-greece-burn-days-more-tourists-expected-fly-out-2023-07-25/).
 
 ## Requirements
 - Python 3.8
