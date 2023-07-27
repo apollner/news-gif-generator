@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690445512)
+![Generated GIF](output.gif?raw=true&v=1690446982)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
+**Bowe Bergdahl court-martial conviction for Army desertion thrown out by federal judge**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
+You can read more about it [here](https://www.foxnews.com/politics/bowe-bergdahl-court-martial-conviction-army-desertion-thrown-federal-judge).
 
 ## Requirements
 - Python 3.8
