@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690490048)
+![Generated GIF](output.gif?raw=true&v=1690491955)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida woman recounts misery of locally-acquired malaria : Shots - Health News**
+**UFO congressional hearing: Whistleblower says US concealing 'multi-decade' UFO program**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/07/26/1189852024/in-floridas-local-malaria-outbreak-forgotten-bite-led-to-surprise-hospitalizatio).
+You can read more about it [here](https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7).
 
 ## Requirements
 - Python 3.8
