@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690493655)
+![Generated GIF](output.gif?raw=true&v=1690495566)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two pilots killed in Greece plane crash as wildfires batter Sicily**
+**Prosecutors want Sam Bankman-Fried sent to jail after witness-tampering allegations. Judge issues gag order**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/07/26/greece-plane-crash-wildfires-sicily/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/investing/sbf-hearing-gag-order/index.html).
 
 ## Requirements
 - Python 3.8
