@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690422794)
+![Generated GIF](output.gif?raw=true&v=1690424532)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Explaining cardiac arrest after Bronny James collapse: Is it common in young athletes?**
+**Alphabet stocks rise after second-quarter profits exceed expectations**
 
-You can read more about it [here](https://theathletic.com/4719835/2023/07/25/what-is-cardiac-arrest-bronny-james/).
+You can read more about it [here](https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock).
 
 ## Requirements
 - Python 3.8
