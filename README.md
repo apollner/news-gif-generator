@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690418177)
+![Generated GIF](output.gif?raw=true&v=1690422794)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi given first Inter Miami start: Watch on MLS Season Pass | MLSSoccer.com**
+**Explaining cardiac arrest after Bronny James collapse: Is it common in young athletes?**
 
-You can read more about it [here](https://www.mlssoccer.com/news/messi/lionel-messi-given-first-inter-miami-start-watch-on-mls-season-pass).
+You can read more about it [here](https://theathletic.com/4719835/2023/07/25/what-is-cardiac-arrest-bronny-james/).
 
 ## Requirements
 - Python 3.8
