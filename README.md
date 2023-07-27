@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690482859)
+![Generated GIF](output.gif?raw=true&v=1690484718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'UnIslamic services': Taliban closes beauty salons in Afghanistan despite public protest**
+**Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/26/afghanistan-beauty-salons-closed-by-taliban/70469710007/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/).
 
 ## Requirements
 - Python 3.8
