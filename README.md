@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690495566)
+![Generated GIF](output.gif?raw=true&v=1690497251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors want Sam Bankman-Fried sent to jail after witness-tampering allegations. Judge issues gag order**
+**Irish singer Sinéad O'Connor dies aged 56**
 
-You can read more about it [here](https://www.cnn.com/2023/07/26/investing/sbf-hearing-gag-order/index.html).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66318626).
 
 ## Requirements
 - Python 3.8
