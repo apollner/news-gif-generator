@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690491955)
+![Generated GIF](output.gif?raw=true&v=1690493655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFO congressional hearing: Whistleblower says US concealing 'multi-decade' UFO program**
+**Two pilots killed in Greece plane crash as wildfires batter Sicily**
 
-You can read more about it [here](https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/07/26/greece-plane-crash-wildfires-sicily/).
 
 ## Requirements
 - Python 3.8
