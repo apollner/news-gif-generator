@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690465003)
+![Generated GIF](output.gif?raw=true&v=1690466776)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 found dead at North Carolina gas station are identified as Marines stationed nearby**
+**Microsoft, Alphabet Earnings Lay Bare the AI Hype. Why Patience Is Needed.**
 
-You can read more about it [here](https://www.npr.org/2023/07/26/1190118897/3-found-dead-at-north-carolina-gas-station-are-identified-as-marines-stationed-n).
+You can read more about it [here](https://www.barrons.com/articles/what-to-know-today-54df9540).
 
 ## Requirements
 - Python 3.8
