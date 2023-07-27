@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690472051)
+![Generated GIF](output.gif?raw=true&v=1690474184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inter Miami's Messi scores goal vs. his 100th different club - ESPN**
+**Microsoft shares fall after earnings report as analysts process a delayed A.I. ramp**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38073373/inter-miami-lionel-messi-just-scored-100th-different-club).
+You can read more about it [here](https://www.cnbc.com/2023/07/26/microsoft-stock-falls-as-analysts-digest-a-delayed-ai-ramp.html).
 
 ## Requirements
 - Python 3.8
