@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690460084)
+![Generated GIF](output.gif?raw=true&v=1690462291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qin Gang: China foreign minister's removal sparks speculation**
+**Justin Herbert's production warranted record-breaking extension, but will it lead to Chargers playoff success?**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-china-66299379).
+You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herberts-production-warranted-record-breaking-extension-but-will-it-lead-to-chargers-playoff-success/).
 
 ## Requirements
 - Python 3.8
