@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690474184)
+![Generated GIF](output.gif?raw=true&v=1690475896)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft shares fall after earnings report as analysts process a delayed A.I. ramp**
+**The truth of Justin Herbert's deal: Seven years, $42.3 million per year**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/26/microsoft-stock-falls-as-analysts-digest-a-delayed-ai-ramp.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-truth-of-justin-herberts-deal-seven-years-42-3-million-per-year).
 
 ## Requirements
 - Python 3.8
