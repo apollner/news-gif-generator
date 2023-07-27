@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690481387)
+![Generated GIF](output.gif?raw=true&v=1690482859)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**London jury acquits Kevin Spacey of sexual assault charges on his birthday**
+**'UnIslamic services': Taliban closes beauty salons in Afghanistan despite public protest**
 
-You can read more about it [here](https://apnews.com/article/kevin-spacey-sexual-assault-trial-london-jury-deliberations-85cb3957c60de1a7b1e03a26dc278d95).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/26/afghanistan-beauty-salons-closed-by-taliban/70469710007/).
 
 ## Requirements
 - Python 3.8
