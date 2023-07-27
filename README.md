@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690477540)
+![Generated GIF](output.gif?raw=true&v=1690479253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
+**NASA lost contact with International Space Station after power drop**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
+You can read more about it [here](https://www.space.com/nasa-lost-contact-with-international-space-station-power-drop).
 
 ## Requirements
 - Python 3.8
