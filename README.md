@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690432437)
+![Generated GIF](output.gif?raw=true&v=1690434410)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ozempic users report stomach paralysis as weight loss drug side effect: 'I wish I never touched it'**
+**Sources -- Chargers, QB Justin Herbert agree to 5-year, $262.5M extension - ESPN**
 
-You can read more about it [here](https://www.independent.co.uk/life-style/health-and-families/ozempic-stomach-paralysis-side-effects-b2381825.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38068747/sources-chargers-qb-justin-herbert-agree-5-year-262m-extension).
 
 ## Requirements
 - Python 3.8
