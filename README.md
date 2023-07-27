@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690436040)
+![Generated GIF](output.gif?raw=true&v=1690438245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
+**House Speaker Kevin McCarthy floats an impeachment inquiry into President Joe Biden**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
+You can read more about it [here](https://apnews.com/article/biden-impeachment-mccarthy-hannity-78e4c7efeb030b29e1576f868257179b).
 
 ## Requirements
 - Python 3.8
