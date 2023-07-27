@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690425546)
+![Generated GIF](output.gif?raw=true&v=1690427256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside McCarthy’s sudden warming to a Biden impeachment inquiry**
+**Gulf Stream could collapse within decades, study warns**
 
-You can read more about it [here](https://www.cnn.com/2023/07/25/politics/kevin-mccarthy-impeachment-embrace/index.html).
+You can read more about it [here](https://www.axios.com/2023/07/25/gulf-stream-collapse-atlantic-ocean-circulation).
 
 ## Requirements
 - Python 3.8
