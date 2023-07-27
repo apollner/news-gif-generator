@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690441661)
+![Generated GIF](output.gif?raw=true&v=1690443267)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Three dead in Greece wildfires as firefighters battle the flames**
+**Greta Gerwig on Outraged Conservatives Burning Barbies**
 
-You can read more about it [here](https://www.reuters.com/world/europe/wildfires-greece-burn-days-more-tourists-expected-fly-out-2023-07-25/).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/greta-gerwig-responds-barbie-right-wing-backlash-1234795183/).
 
 ## Requirements
 - Python 3.8
