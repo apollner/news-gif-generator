@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690430957)
+![Generated GIF](output.gif?raw=true&v=1690432437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alphabet stocks rise after second-quarter profits exceed expectations**
+**Ozempic users report stomach paralysis as weight loss drug side effect: 'I wish I never touched it'**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock).
+You can read more about it [here](https://www.independent.co.uk/life-style/health-and-families/ozempic-stomach-paralysis-side-effects-b2381825.html).
 
 ## Requirements
 - Python 3.8
