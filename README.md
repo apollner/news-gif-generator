@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690452433)
+![Generated GIF](output.gif?raw=true&v=1690454045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung's Unpacked event spoiled by major leak**
+**Messi magnificent again as Inter Miami trounces Atlanta United, 4-0**
 
-You can read more about it [here](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks).
+You can read more about it [here](https://theathletic.com/4721344/2023/07/25/messi-miami-atlanta-united/).
 
 ## Requirements
 - Python 3.8
