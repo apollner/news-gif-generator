@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690569312)
+![Generated GIF](output.gif?raw=true&v=1690571112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teenage Mutant Ninja Turtles: Mutant Mayhem - Official Final Trailer (2023) Seth Rogen, Jackie Chan**
+**North Korea welcomes Russia and China envoys and Kim Jong Un shows off missiles on Korea War anniversary**
 
-You can read more about it [here](https://www.youtube.com/watch?v=y5xNAL4VA6M).
+You can read more about it [here](https://www.cbsnews.com/news/north-korea-kim-jong-un-russia-china-missiles-korea-war-armistice-anniversary/).
 
 ## Requirements
 - Python 3.8
