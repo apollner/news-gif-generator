@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690533258)
+![Generated GIF](output.gif?raw=true&v=1690535260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio cop fired after unleashing K9 that mauled black trucker with hands up**
+**North Korea's Kim shows off banned missiles to Russian minister**
 
-You can read more about it [here](https://nypost.com/2023/07/26/ohio-cop-fired-for-unleashing-k9-on-surrendering-trucker/).
+You can read more about it [here](https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/).
 
 ## Requirements
 - Python 3.8
