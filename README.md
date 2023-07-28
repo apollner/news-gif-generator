@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690517376)
+![Generated GIF](output.gif?raw=true&v=1690518912)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**1 in 6 toddlers have not completed childhood vaccine series, study finds**
+**Soldiers in Niger claim to overthrow Mohamed Barzoum’s government**
 
-You can read more about it [here](https://abcnews.go.com/Health/1-6-toddlers-completed-childhood-vaccine-series-study/story?id=101664925).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/26/soldiers-in-niger-claim-to-overthrow-mohamed-barzoums-government).
 
 ## Requirements
 - Python 3.8
