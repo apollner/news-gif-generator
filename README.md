@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690560572)
+![Generated GIF](output.gif?raw=true&v=1690562304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea welcomes Russia and China envoys and Kim Jong Un shows off missiles on Korea War anniversary**
+**USWNT vs. Netherlands player ratings: Lindsey Horan, Rose Lavelle save USA as Vlatko Andonovski limits subs**
 
-You can read more about it [here](https://www.cbsnews.com/news/north-korea-kim-jong-un-russia-china-missiles-korea-war-armistice-anniversary/).
+You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-vs-netherlands-player-ratings-lindsey-horan-rose-lavelle-save-usa-as-vlatko-andonovski-limits-subs/).
 
 ## Requirements
 - Python 3.8
