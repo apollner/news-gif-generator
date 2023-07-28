@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690518912)
+![Generated GIF](output.gif?raw=true&v=1690520800)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Soldiers in Niger claim to overthrow Mohamed Barzoum’s government**
+**USA vs. Netherlands: How to watch match 2 for the USWNT in the Women’s World Cup 2023**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/26/soldiers-in-niger-claim-to-overthrow-mohamed-barzoums-government).
+You can read more about it [here](https://sports.yahoo.com/womens-world-cup-watch-tonight-soccer-uswnt-netherlands-game-time-live-204347967.html).
 
 ## Requirements
 - Python 3.8
