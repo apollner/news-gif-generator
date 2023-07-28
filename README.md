@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690542385)
+![Generated GIF](output.gif?raw=true&v=1690544067)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia-Ukraine war: List of key events, day 519**
+**Sinéad O'Connor, gifted and provocative Irish singer-songwriter, dies at 56**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/27/russia-ukraine-war-list-of-key-events-day-519).
+You can read more about it [here](https://apnews.com/article/sinead-oconnor-dies-62b6187073b349d3ab6bfb65b2a14292).
 
 ## Requirements
 - Python 3.8
