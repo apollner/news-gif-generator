@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690574817)
+![Generated GIF](output.gif?raw=true&v=1690576441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Read the proposed Hunter Biden plea agreement**
+**Up to 450,000 in U.S. have red meat allergies due to alpha-gal syndrome spread by ticks, CDC says**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
+You can read more about it [here](https://www.cbsnews.com/news/alpha-gal-red-meat-allergy-lone-star-tick-bites-cdc/).
 
 ## Requirements
 - Python 3.8
