@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690580029)
+![Generated GIF](output.gif?raw=true&v=1690581963)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**This month is the planet’s hottest on record by far – and hottest in around 120,000 years, scientists say**
+**Some Alloys Don't Change Size When Heated. We Now Know Why.**
 
-You can read more about it [here](https://www.cnn.com/2023/07/27/world/july-hottest-month-record-climate/index.html).
+You can read more about it [here](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why).
 
 ## Requirements
 - Python 3.8
