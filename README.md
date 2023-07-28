@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690529732)
+![Generated GIF](output.gif?raw=true&v=1690531808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beyoncé's Mom Tina Knowles Files For Divorce From Richard Lawson After 8 Years of Marriage**
+**Missing Glendale teen, Alicia Navarro, reunited with her family after four years**
 
-You can read more about it [here](https://www.etonline.com/beyonces-mom-tina-knowles-files-for-divorce-from-richard-lawson-after-8-years-of-marriage-207992).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/26/alicia-navarro-found-after-four-years-missing/70474392007/).
 
 ## Requirements
 - Python 3.8
