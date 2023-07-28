@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690567784)
+![Generated GIF](output.gif?raw=true&v=1690569312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 170m Americans under heat alerts as heatwave expands**
+**Teenage Mutant Ninja Turtles: Mutant Mayhem - Official Final Trailer (2023) Seth Rogen, Jackie Chan**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/27/over-170-million-americans-under-heat-alerts).
+You can read more about it [here](https://www.youtube.com/watch?v=y5xNAL4VA6M).
 
 ## Requirements
 - Python 3.8
