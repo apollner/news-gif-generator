@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690572900)
+![Generated GIF](output.gif?raw=true&v=1690574817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Morrissey Slams Sinead O’Connor Tributes: ‘You Praise Her Now Only Because It Is Too Late’**
+**Read the proposed Hunter Biden plea agreement**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/morrissey-slams-sinead-oconnor-tributes-hypocritical-1234796113/).
+You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
 
 ## Requirements
 - Python 3.8
