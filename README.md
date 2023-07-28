@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690562304)
+![Generated GIF](output.gif?raw=true&v=1690563882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USWNT vs. Netherlands player ratings: Lindsey Horan, Rose Lavelle save USA as Vlatko Andonovski limits subs**
+**US economy unexpectedly accelerated to a 2.4% growth rate in April-June quarter despite Fed hikes**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-vs-netherlands-player-ratings-lindsey-horan-rose-lavelle-save-usa-as-vlatko-andonovski-limits-subs/).
+You can read more about it [here](https://apnews.com/article/economy-gdp-inflation-federal-reserve-jobs-consumers-ce011c5f4330bc29d37939730039d1bb).
 
 ## Requirements
 - Python 3.8
