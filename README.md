@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690504500)
+![Generated GIF](output.gif?raw=true&v=1690509407)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price**
+**Prosecutors want disgraced crypto mogul Bankman-Fried in jail ahead of trial**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/).
+You can read more about it [here](https://www.npr.org/2023/07/26/1190364957/bankman-fried-crypto-ftx-jail-bail).
 
 ## Requirements
 - Python 3.8
