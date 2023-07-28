@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690553178)
+![Generated GIF](output.gif?raw=true&v=1690555016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McDonald's earnings: Grimace boosts US sales, results top estimates across the board**
+**Takeaways from the stunning Hunter Biden hearing and what happens now**
 
-You can read more about it [here](https://finance.yahoo.com/news/mcdonalds-earnings-grimace-boosts-us-sales-results-top-estimates-across-the-board-110043676.html).
+You can read more about it [here](https://www.cnn.com/2023/07/26/politics/takeaways-hunter-biden-plea-hearing/index.html).
 
 ## Requirements
 - Python 3.8
