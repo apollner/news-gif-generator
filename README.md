@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690571112)
+![Generated GIF](output.gif?raw=true&v=1690572900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea welcomes Russia and China envoys and Kim Jong Un shows off missiles on Korea War anniversary**
+**Morrissey Slams Sinead O’Connor Tributes: ‘You Praise Her Now Only Because It Is Too Late’**
 
-You can read more about it [here](https://www.cbsnews.com/news/north-korea-kim-jong-un-russia-china-missiles-korea-war-armistice-anniversary/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/morrissey-slams-sinead-oconnor-tributes-hypocritical-1234796113/).
 
 ## Requirements
 - Python 3.8
