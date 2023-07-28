@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690563882)
+![Generated GIF](output.gif?raw=true&v=1690565649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US economy unexpectedly accelerated to a 2.4% growth rate in April-June quarter despite Fed hikes**
+**Singapore sets Friday hanging in death sentence for violating drug law**
 
-You can read more about it [here](https://apnews.com/article/economy-gdp-inflation-federal-reserve-jobs-consumers-ce011c5f4330bc29d37939730039d1bb).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/27/singapore-execution-for-drug-law-violation-friday/70475861007/).
 
 ## Requirements
 - Python 3.8
