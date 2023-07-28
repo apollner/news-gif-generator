@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690509407)
+![Generated GIF](output.gif?raw=true&v=1690511250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors want disgraced crypto mogul Bankman-Fried in jail ahead of trial**
+**‘We tried to stop them’: US family found dead in forest wanted to live off grid**
 
-You can read more about it [here](https://www.npr.org/2023/07/26/1190364957/bankman-fried-crypto-ftx-jail-bail).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/26/colorado-family-found-dead-campsite).
 
 ## Requirements
 - Python 3.8
