@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690515266)
+![Generated GIF](output.gif?raw=true&v=1690517376)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alicia Navarro found safe after missing for nearly 4 years, Glendale police say**
+**1 in 6 toddlers have not completed childhood vaccine series, study finds**
 
-You can read more about it [here](https://www.azfamily.com/2023/07/26/alicia-navarro-found-safe-after-missing-nearly-4-years-glendale-police-say/).
+You can read more about it [here](https://abcnews.go.com/Health/1-6-toddlers-completed-childhood-vaccine-series-study/story?id=101664925).
 
 ## Requirements
 - Python 3.8
