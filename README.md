@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690520800)
+![Generated GIF](output.gif?raw=true&v=1690522445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USA vs. Netherlands: How to watch match 2 for the USWNT in the Women’s World Cup 2023**
+**USWNT vs. Netherlands player ratings: Horan, Lavelle, Ertz impress - ESPN**
 
-You can read more about it [here](https://sports.yahoo.com/womens-world-cup-watch-tonight-soccer-uswnt-netherlands-game-time-live-204347967.html).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38077487/uswnt-netherlands-womens-world-cup-ratings-horan-lavelle-tops).
 
 ## Requirements
 - Python 3.8
