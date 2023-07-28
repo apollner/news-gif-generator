@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690548641)
+![Generated GIF](output.gif?raw=true&v=1690549903)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Takeaways from the stunning Hunter Biden hearing and what happens now**
+**McCarthy unites fractious GOP with impeachment talk**
 
-You can read more about it [here](https://www.cnn.com/2023/07/26/politics/takeaways-hunter-biden-plea-hearing/index.html).
+You can read more about it [here](https://thehill.com/homenews/house/4121742-mccarthy-unites-fractious-gop-with-impeachment-talk/).
 
 ## Requirements
 - Python 3.8
