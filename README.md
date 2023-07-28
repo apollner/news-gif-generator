@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690576441)
+![Generated GIF](output.gif?raw=true&v=1690578316)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Up to 450,000 in U.S. have red meat allergies due to alpha-gal syndrome spread by ticks, CDC says**
+**Jalen Ramsey carted off practice field with apparent leg injury**
 
-You can read more about it [here](https://www.cbsnews.com/news/alpha-gal-red-meat-allergy-lone-star-tick-bites-cdc/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-carted-off-practice-field-with-apparent-leg-injury).
 
 ## Requirements
 - Python 3.8
