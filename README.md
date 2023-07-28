@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690535260)
+![Generated GIF](output.gif?raw=true&v=1690536974)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea's Kim shows off banned missiles to Russian minister**
+**Russia-Ukraine war: List of key events, day 519**
 
-You can read more about it [here](https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/27/russia-ukraine-war-list-of-key-events-day-519).
 
 ## Requirements
 - Python 3.8
