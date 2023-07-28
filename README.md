@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690583654)
+![Generated GIF](output.gif?raw=true&v=1690585542)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean Payton rips Hackett & Broncos, Aaron Rodgers' $35M pay cut & Patrick Mahomes | NFL | THE HERD**
+**Some Alloys Don't Change Size When Heated. We Now Know Why.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=S3Ldmep7D-U).
+You can read more about it [here](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why).
 
 ## Requirements
 - Python 3.8
