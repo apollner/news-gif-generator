@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690500842)
+![Generated GIF](output.gif?raw=true&v=1690504500)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heart attack death risk can double during heat waves and high pollution, study finds: ‘A perfect storm’**
+**Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price**
 
-You can read more about it [here](https://www.foxnews.com/health/heart-attack-death-risk-can-double-during-heat-waves-high-pollution-study-perfect-storm).
+You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/).
 
 ## Requirements
 - Python 3.8
