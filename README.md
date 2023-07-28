@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690585542)
+![Generated GIF](output.gif?raw=true&v=1690587233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some Alloys Don't Change Size When Heated. We Now Know Why.**
+**Intel stock rallies after earnings show AI data-center beat, strong PC sales**
 
-You can read more about it [here](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why).
+You can read more about it [here](https://www.marketwatch.com/story/intel-stock-rallies-on-surprise-profit-as-pc-data-center-sales-beat-97e87bae).
 
 ## Requirements
 - Python 3.8
