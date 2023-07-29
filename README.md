@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690670025)
+![Generated GIF](output.gif?raw=true&v=1690671977)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As Ford loses billions on EVs, the company embraces hybrids**
+**James Webb Space Telescope spies cosmic question mark in deep space**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/28/ford-embraces-hybrids-as-it-loses-billions-on-evs.html).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-question-mark-galaxy-photo).
 
 ## Requirements
 - Python 3.8
