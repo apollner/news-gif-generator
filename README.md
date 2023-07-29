@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690652034)
+![Generated GIF](output.gif?raw=true&v=1690654136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Key Fed Inflation Rate Tumbles On Another Month Of Tame Prices; S&P 500 Rallies**
+**Risk for West Nile Virus raised to moderate in Boston**
 
-You can read more about it [here](https://www.investors.com/news/economy/fed-key-inflation-rate-fell-more-than-expected-in-june-sp-500-rises/).
+You can read more about it [here](https://www.wcvb.com/article/risk-for-west-nile-virus-raised-to-moderate-in-boston/44672182).
 
 ## Requirements
 - Python 3.8
