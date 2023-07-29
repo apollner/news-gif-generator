@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690661136)
+![Generated GIF](output.gif?raw=true&v=1690662830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC says summer COVID wave may have begun : Shots - Health News**
+**Yellowstone's geysers at risk of extinction from climate change, tree skeletons reveal**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/07/28/1190443473/the-cdc-sees-signs-of-a-late-summer-covid-wave).
+You can read more about it [here](https://www.livescience.com/planet-earth/climate-change/yellowstones-geysers-at-risk-of-extinction-from-climate-change-tree-skeletons-reveal).
 
 ## Requirements
 - Python 3.8
