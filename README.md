@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690664689)
+![Generated GIF](output.gif?raw=true&v=1690666429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump indictment: Shush emojis and orders from the boss - charges in full**
+**Ticks Are Giving Tons of Americans an Allergy to Red Meat**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66333592).
+You can read more about it [here](https://gizmodo.com/ticks-are-giving-americans-an-allergy-to-red-meat-1850687624).
 
 ## Requirements
 - Python 3.8
