@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690619631)
+![Generated GIF](output.gif?raw=true&v=1690621542)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Errol Spence Jr. vs. Terence Crawford debate: The biggest questions about the biggest fight of the year - ESPN**
+**No medical cause given for Sinead O'Connor's death**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38011045/errol-spence-jr-vs-terence-crawford-debate-biggest-questions-biggest-fight-year).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-o-connor-death-cause-coroner-court-b2383423.html).
 
 ## Requirements
 - Python 3.8
