@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690668306)
+![Generated GIF](output.gif?raw=true&v=1690670025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First human case of West Nile Virus for 2023 reported in New Mexico**
+**As Ford loses billions on EVs, the company embraces hybrids**
 
-You can read more about it [here](https://www.koat.com/article/new-mexico-west-nile-virus-first-2023-case/44672459).
+You can read more about it [here](https://www.cnbc.com/2023/07/28/ford-embraces-hybrids-as-it-loses-billions-on-evs.html).
 
 ## Requirements
 - Python 3.8
