@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690654136)
+![Generated GIF](output.gif?raw=true&v=1690655629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Risk for West Nile Virus raised to moderate in Boston**
+**After strong GDP surprise, analysts grapple with recession forecasts**
 
-You can read more about it [here](https://www.wcvb.com/article/risk-for-west-nile-virus-raised-to-moderate-in-boston/44672182).
+You can read more about it [here](https://www.axios.com/2023/07/28/us-gdp-growth-2023-recession-forecast).
 
 ## Requirements
 - Python 3.8
