@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690587233)
+![Generated GIF](output.gif?raw=true&v=1690590903)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Intel stock rallies after earnings show AI data-center beat, strong PC sales**
+**Ethan Slater’s Estranged Wife Lilly Jay Breaks Silence on Ariana Grande**
 
-You can read more about it [here](https://www.marketwatch.com/story/intel-stock-rallies-on-surprise-profit-as-pc-data-center-sales-beat-97e87bae).
+You can read more about it [here](https://www.billboard.com/music/music-news/ethan-slater-lilly-jay-reacts-ariana-grande-1235380413/).
 
 ## Requirements
 - Python 3.8
