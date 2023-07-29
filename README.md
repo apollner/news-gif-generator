@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690630438)
+![Generated GIF](output.gif?raw=true&v=1690632718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CNBC Daily Open: The Dow faltered but the U.S. economy charged ahead**
+**Errol Spence Jr. vs. Terence Crawford debate: The biggest questions about the biggest fight of the year - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/28/stock-markets-the-dow-faltered-but-the-us-economy-charged-ahead.html).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38011045/errol-spence-jr-vs-terence-crawford-debate-biggest-questions-biggest-fight-year).
 
 ## Requirements
 - Python 3.8
