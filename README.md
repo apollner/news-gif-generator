@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690641244)
+![Generated GIF](output.gif?raw=true&v=1690643101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sinéad O'Connor cause of death: Latest tributes for Nothing Compares 2 U singer**
+**Ariana Grande Apparently Hung Out With Ethan Slater, His Estranged Wife Lilly, And Their Baby “Many Times” Just Three Months Before She Reportedly Began Dating Him**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-o-connor-cause-of-death-snl-latest-b2383451.html).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ariana-grande-hung-out-with-ethan-slater-wife-on-wicked-set).
 
 ## Requirements
 - Python 3.8
