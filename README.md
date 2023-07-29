@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690639554)
+![Generated GIF](output.gif?raw=true&v=1690641244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Poll: Disney Illusion Island Is Out On Switch Today, Will You Be Getting It?**
+**Sinéad O'Connor cause of death: Latest tributes for Nothing Compares 2 U singer**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/07/poll-disney-illusion-island-is-out-on-switch-today-will-you-be-getting-it).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-o-connor-cause-of-death-snl-latest-b2383451.html).
 
 ## Requirements
 - Python 3.8
