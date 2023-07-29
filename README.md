@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690607140)
+![Generated GIF](output.gif?raw=true&v=1690608834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger coup widely condemned, countries urge return to order**
+**Blake Corum: Jim Harbaugh suspension will make Michigan football 'want to win even more'**
 
-You can read more about it [here](https://www.reuters.com/world/africa/niger-president-says-democracy-will-be-saved-following-coup-2023-07-27/).
+You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2023/07/27/michigan-football-jim-harbaugh-potential-suspension-win-even-more-blake-corum/70474843007/).
 
 ## Requirements
 - Python 3.8
