@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690614304)
+![Generated GIF](output.gif?raw=true&v=1690616075)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What To Know About the Postpartum Depression Pill**
+**Singapore hangs first woman in 19 years after she was convicted of trafficking 31 grams of heroin**
 
-You can read more about it [here](https://www.wellandgood.com/postpartum-depression-pill/).
+You can read more about it [here](https://news.yahoo.com/singapore-hangs-first-woman-19-040741393.html).
 
 ## Requirements
 - Python 3.8
