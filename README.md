@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690671977)
+![Generated GIF](output.gif?raw=true&v=1690673625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Webb Space Telescope spies cosmic question mark in deep space**
+**Lance Lynn, Joe Kelly traded to Dodgers**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-question-mark-galaxy-photo).
+You can read more about it [here](https://www.mlb.com/news/lance-lynn-joe-kelly-traded-to-dodgers).
 
 ## Requirements
 - Python 3.8
