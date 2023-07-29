@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690662830)
+![Generated GIF](output.gif?raw=true&v=1690664689)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yellowstone's geysers at risk of extinction from climate change, tree skeletons reveal**
+**Trump indictment: Shush emojis and orders from the boss - charges in full**
 
-You can read more about it [here](https://www.livescience.com/planet-earth/climate-change/yellowstones-geysers-at-risk-of-extinction-from-climate-change-tree-skeletons-reveal).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66333592).
 
 ## Requirements
 - Python 3.8
