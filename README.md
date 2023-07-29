@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690595658)
+![Generated GIF](output.gif?raw=true&v=1690597317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Special counsel brings more charges against Donald Trump in Mar-a-Lago classified documents case**
+**North Korea showed Russia one of its more troubling nuclear missiles**
 
-You can read more about it [here](https://www.cnn.com/2023/07/27/politics/trump-mar-a-lago-special-counsel/index.html).
+You can read more about it [here](https://www.businessinsider.com/north-korea-showed-russia-nuclear-capable-missiles-including-new-icbm-2023-7).
 
 ## Requirements
 - Python 3.8
