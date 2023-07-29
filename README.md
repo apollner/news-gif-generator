@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690659233)
+![Generated GIF](output.gif?raw=true&v=1690661136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carlee Russell press conference: Watch Alabama police updates on case**
+**CDC says summer COVID wave may have begun : Shots - Health News**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/28/watch-carlee-russell-press-conference-friday-police-updates/70486616007/).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/07/28/1190443473/the-cdc-sees-signs-of-a-late-summer-covid-wave).
 
 ## Requirements
 - Python 3.8
