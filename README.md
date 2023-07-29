@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690608834)
+![Generated GIF](output.gif?raw=true&v=1690612429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blake Corum: Jim Harbaugh suspension will make Michigan football 'want to win even more'**
+**What To Know About the Postpartum Depression Pill**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2023/07/27/michigan-football-jim-harbaugh-potential-suspension-win-even-more-blake-corum/70474843007/).
+You can read more about it [here](https://www.wellandgood.com/postpartum-depression-pill/).
 
 ## Requirements
 - Python 3.8
