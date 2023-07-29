@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690650316)
+![Generated GIF](output.gif?raw=true&v=1690652034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aging farm workforce forces a reckoning: Who will pick America's crops?**
+**Key Fed Inflation Rate Tumbles On Another Month Of Tame Prices; S&P 500 Rallies**
 
-You can read more about it [here](https://www.npr.org/2023/07/28/1189476655/farm-workers-labor-shortage-h2a-visa-dan-newhouse-immigration).
+You can read more about it [here](https://www.investors.com/news/economy/fed-key-inflation-rate-fell-more-than-expected-in-june-sp-500-rises/).
 
 ## Requirements
 - Python 3.8
