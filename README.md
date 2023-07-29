@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690637629)
+![Generated GIF](output.gif?raw=true&v=1690639554)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korean leader Kim Jong Un welcomes officials from China and Russia**
+**Poll: Disney Illusion Island Is Out On Switch Today, Will You Be Getting It?**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/07/28/north-korea-kim-china-russia-parade/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/07/poll-disney-illusion-island-is-out-on-switch-today-will-you-be-getting-it).
 
 ## Requirements
 - Python 3.8
