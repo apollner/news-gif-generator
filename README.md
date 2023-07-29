@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690605229)
+![Generated GIF](output.gif?raw=true&v=1690607140)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AGS, tick-borne meat allergy, has puts thousands of Americans at risk**
+**Niger coup widely condemned, countries urge return to order**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/07/27/tick-borne-meat-allergy-alpha-gal-syndrome-ags/70480975007/).
+You can read more about it [here](https://www.reuters.com/world/africa/niger-president-says-democracy-will-be-saved-following-coup-2023-07-27/).
 
 ## Requirements
 - Python 3.8
