@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690644816)
+![Generated GIF](output.gif?raw=true&v=1690646853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ford Stock Is Falling After Strong Results. EVs Are an Issue.**
+**‘The Beanie Bubble’ nostalgically looks back at the ‘Babies’ boom that went bust**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.cnn.com/2023/07/28/entertainment/the-beanie-bubble-review/index.html).
 
 ## Requirements
 - Python 3.8
