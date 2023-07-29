@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690590903)
+![Generated GIF](output.gif?raw=true&v=1690595658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ethan Slater’s Estranged Wife Lilly Jay Breaks Silence on Ariana Grande**
+**Special counsel brings more charges against Donald Trump in Mar-a-Lago classified documents case**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/ethan-slater-lilly-jay-reacts-ariana-grande-1235380413/).
+You can read more about it [here](https://www.cnn.com/2023/07/27/politics/trump-mar-a-lago-special-counsel/index.html).
 
 ## Requirements
 - Python 3.8
