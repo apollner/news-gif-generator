@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690646853)
+![Generated GIF](output.gif?raw=true&v=1690648554)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Beanie Bubble’ nostalgically looks back at the ‘Babies’ boom that went bust**
+**Aging farm workforce forces a reckoning: Who will pick America's crops?**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/entertainment/the-beanie-bubble-review/index.html).
+You can read more about it [here](https://www.npr.org/2023/07/28/1189476655/farm-workers-labor-shortage-h2a-visa-dan-newhouse-immigration).
 
 ## Requirements
 - Python 3.8
