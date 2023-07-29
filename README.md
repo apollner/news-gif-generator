@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690628711)
+![Generated GIF](output.gif?raw=true&v=1690630438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow, S&P Live Updates for July 28**
+**CNBC Daily Open: The Dow faltered but the U.S. economy charged ahead**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-27/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://www.cnbc.com/2023/07/28/stock-markets-the-dow-faltered-but-the-us-economy-charged-ahead.html).
 
 ## Requirements
 - Python 3.8
