@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690657539)
+![Generated GIF](output.gif?raw=true&v=1690659233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Scott’s ‘Utopia’ Features Literally Everyone: Beyoncé, Drake, Bon Iver, SZA, Even Dave Chappelle**
+**Carlee Russell press conference: Watch Alabama police updates on case**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/travis-scott-utopia-album-features-beyonce-drake-weeknd-sza-kid-cudi-1234796613/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/28/watch-carlee-russell-press-conference-friday-police-updates/70486616007/).
 
 ## Requirements
 - Python 3.8
