@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690621542)
+![Generated GIF](output.gif?raw=true&v=1690623267)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No medical cause given for Sinead O'Connor's death**
+**Special counsel brings more charges against Donald Trump in Mar-a-Lago classified documents case**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-o-connor-death-cause-coroner-court-b2383423.html).
+You can read more about it [here](https://www.cnn.com/2023/07/27/politics/trump-mar-a-lago-special-counsel/index.html).
 
 ## Requirements
 - Python 3.8
