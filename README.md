@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690599999)
+![Generated GIF](output.gif?raw=true&v=1690601636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Regulators announce 'Basel III endgame' rules for large US banks**
+**Diane Feinstein appears confused at Senate hearing — had to be prompted to vote**
 
-You can read more about it [here](https://www.ft.com/content/d4d15a2a-1568-47db-bd29-937a478dc768).
+You can read more about it [here](https://nypost.com/2023/07/27/diane-feinstein-90-gets-confused-has-to-be-told-to-vote-at-senate-appropriations-committee-hearing-just-say-aye/).
 
 ## Requirements
 - Python 3.8
