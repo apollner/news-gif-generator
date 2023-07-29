@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690598341)
+![Generated GIF](output.gif?raw=true&v=1690599999)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alicia Navarro: New details on where exactly she has been prior to being found safe**
+**Regulators announce 'Basel III endgame' rules for large US banks**
 
-You can read more about it [here](https://www.fox10phoenix.com/news/alicia-navarro-new-details-on-where-exactly-she-has-been-prior-to-being-found-safe).
+You can read more about it [here](https://www.ft.com/content/d4d15a2a-1568-47db-bd29-937a478dc768).
 
 ## Requirements
 - Python 3.8
