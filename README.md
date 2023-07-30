@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690733291)
+![Generated GIF](output.gif?raw=true&v=1690734880)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bidens publicly acknowledge their seventh grandchild for the first time**
+**Sinead O’Connor’s ‘SNL’ Protest Was ‘Monumental’ for Church Sex Abuse Survivors**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/politics/president-acknowledges-seventh-grandchild/index.html).
+You can read more about it [here](https://www.rollingstone.com/music/music-features/sinead-oconnor-catholic-church-abuse-legacy-1234797102/).
 
 ## Requirements
 - Python 3.8
