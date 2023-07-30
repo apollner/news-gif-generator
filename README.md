@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690706035)
+![Generated GIF](output.gif?raw=true&v=1690707944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carlee Russell grins in mugshot as she's charged with false police report in kidnapping hoax — live updates**
+**Apple will require app devs to explain exactly why they use certain APIs**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/carlee-russell-update-alabama-charges-kidnapping-b2383504.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/07/apple-tries-to-close-privacy-loopholes-with-new-app-submission-policy/).
 
 ## Requirements
 - Python 3.8
