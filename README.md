@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690702510)
+![Generated GIF](output.gif?raw=true&v=1690704601)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mandy Moore reveals 'resilient' son has rare skin condition**
+**Chinese feminists flock to see 'Barbie'**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/07/28/mandy-moore-son-august-develops-gianotti-crosti-syndrome/70490023007/).
+You can read more about it [here](https://www.ft.com/content/f3eaa24f-cd66-476f-815f-6d0536b34d62).
 
 ## Requirements
 - Python 3.8
