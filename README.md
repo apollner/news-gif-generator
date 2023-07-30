@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690721190)
+![Generated GIF](output.gif?raw=true&v=1690722469)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Galaxy Z Fold vs. Google Pixel Fold Comparison Smackdown**
+**Trump shows in Iowa he still rules the GOP – despite his deepening criminal peril**
 
-You can read more about it [here](https://www.youtube.com/watch?v=toQIvLxakPQ).
+You can read more about it [here](https://www.cnn.com/2023/07/29/politics/donald-trump-iowa-republicans-legal-peril/index.html).
 
 ## Requirements
 - Python 3.8
