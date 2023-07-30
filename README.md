@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690673625)
+![Generated GIF](output.gif?raw=true&v=1690677482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lance Lynn, Joe Kelly traded to Dodgers**
+**2023 MLB trade deadline moves, rumors: Mets start selling, Padres reportedly listening to Juan Soto offers**
 
-You can read more about it [here](https://www.mlb.com/news/lance-lynn-joe-kelly-traded-to-dodgers).
+You can read more about it [here](https://sports.yahoo.com/2023-mlb-trade-deadline-moves-rumors-astros-trade-for-familiar-face-dodgers-add-pitching-191627298.html).
 
 ## Requirements
 - Python 3.8
