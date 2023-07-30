@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690704601)
+![Generated GIF](output.gif?raw=true&v=1690706035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese feminists flock to see 'Barbie'**
+**Carlee Russell grins in mugshot as she's charged with false police report in kidnapping hoax — live updates**
 
-You can read more about it [here](https://www.ft.com/content/f3eaa24f-cd66-476f-815f-6d0536b34d62).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/carlee-russell-update-alabama-charges-kidnapping-b2383504.html).
 
 ## Requirements
 - Python 3.8
