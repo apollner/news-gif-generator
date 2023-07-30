@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690727624)
+![Generated GIF](output.gif?raw=true&v=1690729515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin searches for more friends at Africa summit but low turnout dampens bid for influence**
+**Spence vs. Crawford Results: Live updates of the undercard and main event**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/putin-searches-friends-africa-summit-low-turnout-dampens-bid-influence-rcna96599).
+You can read more about it [here](https://www.mmafighting.com/2023/7/29/23811370/spence-vs-crawford-results-live-updates-of-the-undercard-and-main-event).
 
 ## Requirements
 - Python 3.8
