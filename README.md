@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690752826)
+![Generated GIF](output.gif?raw=true&v=1690754763)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce says he 'gotta be a better leader' after practice fights - ESPN**
+**New charges linking Trump more closely to coverup effort could deepen his legal woes**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38095478/travis-kelce-says-need-better-leader-following-practice-fights).
+You can read more about it [here](https://www.pbs.org/newshour/politics/new-charges-linking-trump-more-closely-to-coverup-effort-could-deepen-his-legal-woes).
 
 ## Requirements
 - Python 3.8
