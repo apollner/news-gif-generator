@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690754763)
+![Generated GIF](output.gif?raw=true&v=1690756430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New charges linking Trump more closely to coverup effort could deepen his legal woes**
+**MLB trade deadline: Mets reportedly agree to deal Max Scherzer to Rangers after RHP questions future with team**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/new-charges-linking-trump-more-closely-to-coverup-effort-could-deepen-his-legal-woes).
+You can read more about it [here](https://sports.yahoo.com/mlb-trade-deadline-mets-reportedly-nearing-max-scherzer-deal-with-rangers-after-rhp-questions-future-with-team-222058756.html).
 
 ## Requirements
 - Python 3.8
