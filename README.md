@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690690051)
+![Generated GIF](output.gif?raw=true&v=1690691636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tennessee residents say water smells like diesel but officials say it's safe**
+**Black Republicans rebuke Ron DeSantis over Florida history standards about slavery**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/tim-scott-rebukes-ron-desantis-florida-black-history-standards-slavery-rcna96787).
 
 ## Requirements
 - Python 3.8
