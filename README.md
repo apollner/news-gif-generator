@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690677482)
+![Generated GIF](output.gif?raw=true&v=1690682245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB trade deadline moves, rumors: Mets start selling, Padres reportedly listening to Juan Soto offers**
+**Sinead O'Connor's open letter to Miley Cyrus about being 'pimped' resurfaces**
 
-You can read more about it [here](https://sports.yahoo.com/2023-mlb-trade-deadline-moves-rumors-astros-trade-for-familiar-face-dodgers-add-pitching-191627298.html).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-letter-miley-cyrus-read-full-b2383961.html).
 
 ## Requirements
 - Python 3.8
