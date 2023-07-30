@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690686416)
+![Generated GIF](output.gif?raw=true&v=1690688039)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Errol Spence Jr vs Terence Crawford • FULL WEIGH IN & FACE OFF VIDEO**
+**‘The family feels like he got trapped’: How a low-profile Mar-a-Lago employee got tangled up in Trump’s legal problems**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-W6-_sPbZZw).
+You can read more about it [here](https://www.cnn.com/2023/07/28/politics/trump-maralago-indictment-carlos-de-oliveira/index.html).
 
 ## Requirements
 - Python 3.8
