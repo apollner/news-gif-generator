@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690751129)
+![Generated GIF](output.gif?raw=true&v=1690752826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin's gamble with Ukraine's grain drags on**
+**Travis Kelce says he 'gotta be a better leader' after practice fights - ESPN**
 
-You can read more about it [here](https://www.dw.com/en/russia-africa-summit-vladimir-putins-grain-gamble-goes-on/a-66383466).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38095478/travis-kelce-says-need-better-leader-following-practice-fights).
 
 ## Requirements
 - Python 3.8
