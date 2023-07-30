@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690691636)
+![Generated GIF](output.gif?raw=true&v=1690693559)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black Republicans rebuke Ron DeSantis over Florida history standards about slavery**
+**‘Barbie’ And ‘Oppenheimer’ Propel UK & Ireland Box Office To Biggest Week Ever**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/tim-scott-rebukes-ron-desantis-florida-black-history-standards-slavery-rcna96787).
+You can read more about it [here](https://deadline.com/2023/07/barbie-oppenheimer-barbenheimer-box-office-record-1235450374/).
 
 ## Requirements
 - Python 3.8
