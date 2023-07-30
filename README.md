@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690740518)
+![Generated GIF](output.gif?raw=true&v=1690742211)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Haunted Mansion’ $9.9 Million Opening Day Can’t Scare ‘Barbie’ and ‘Oppenheimer’**
+**Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/haunted-mansion-opening-day-barbie-second-weekend-oppenheimer-1235682891/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66350225).
 
 ## Requirements
 - Python 3.8
