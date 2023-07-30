@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690688039)
+![Generated GIF](output.gif?raw=true&v=1690690051)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The family feels like he got trapped’: How a low-profile Mar-a-Lago employee got tangled up in Trump’s legal problems**
+**Tennessee residents say water smells like diesel but officials say it's safe**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/politics/trump-maralago-indictment-carlos-de-oliveira/index.html).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
 
 ## Requirements
 - Python 3.8
