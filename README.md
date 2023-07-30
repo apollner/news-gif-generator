@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690707944)
+![Generated GIF](output.gif?raw=true&v=1690709720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple will require app devs to explain exactly why they use certain APIs**
+**Bengals players react to Joe Burrow injury update as quarterback set to miss 'several weeks'**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/07/apple-tries-to-close-privacy-loopholes-with-new-app-submission-policy/).
+You can read more about it [here](https://www.wlwt.com/article/bengals-players-react-to-joe-burrow-injury-quarterback/44677833).
 
 ## Requirements
 - Python 3.8
