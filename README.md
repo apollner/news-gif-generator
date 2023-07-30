@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690716822)
+![Generated GIF](output.gif?raw=true&v=1690719116)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump shows in Iowa he still rules the GOP – despite his deepening criminal peril**
+**What Ukraine must do to win in its southern push – and what Russia has in reserve**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/politics/donald-trump-iowa-republicans-legal-peril/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/29/europe/ukraine-counteroffensive-south-push-intl/index.html).
 
 ## Requirements
 - Python 3.8
