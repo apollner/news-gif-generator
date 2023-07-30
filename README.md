@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690722469)
+![Generated GIF](output.gif?raw=true&v=1690724086)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump shows in Iowa he still rules the GOP – despite his deepening criminal peril**
+**As NYC limits access to migrants and asylum seekers, many are left homeless**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/politics/donald-trump-iowa-republicans-legal-peril/index.html).
+You can read more about it [here](https://www.npr.org/2023/07/29/1190056156/as-nyc-limits-access-to-migrants-and-asylum-seekers-many-are-left-homeless).
 
 ## Requirements
 - Python 3.8
