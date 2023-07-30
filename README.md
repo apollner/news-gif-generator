@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690745644)
+![Generated GIF](output.gif?raw=true&v=1690747597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colombian President Petro's son arrested in money laundering probe**
+**Travis Kelce says he 'gotta be a better leader' after practice fights - ESPN**
 
-You can read more about it [here](https://www.reuters.com/world/americas/son-colombia-president-petro-arrested-money-laundering-probe-2023-07-29/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38095478/travis-kelce-says-need-better-leader-following-practice-fights).
 
 ## Requirements
 - Python 3.8
