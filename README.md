@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690697416)
+![Generated GIF](output.gif?raw=true&v=1690698924)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zillow is so sure that U.S. home prices have bottomed that it just issued bullish calls for these 48 housing markets**
+**See winning numbers for Mega Millions July 28 jackpot**
 
-You can read more about it [here](https://fortune.com/2023/07/28/housing-market-bottomed-says-zillow-regional-home-price-forecasts-2024/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/07/28/mega-millions-numbers-july-28-jackpot/70490492007/).
 
 ## Requirements
 - Python 3.8
