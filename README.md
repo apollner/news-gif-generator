@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690731230)
+![Generated GIF](output.gif?raw=true&v=1690733291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two supermoons in August mean double the stargazing fun**
+**Bidens publicly acknowledge their seventh grandchild for the first time**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/supermoons-august-double-stargazing-fun-101813449).
+You can read more about it [here](https://www.cnn.com/2023/07/28/politics/president-acknowledges-seventh-grandchild/index.html).
 
 ## Requirements
 - Python 3.8
