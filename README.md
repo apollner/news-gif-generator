@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690734880)
+![Generated GIF](output.gif?raw=true&v=1690736788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sinead O’Connor’s ‘SNL’ Protest Was ‘Monumental’ for Church Sex Abuse Survivors**
+**Taylor Swift Concert Breaks Curfew at Levi’s Stadium**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-features/sinead-oconnor-catholic-church-abuse-legacy-1234797102/).
+You can read more about it [here](https://www.etonline.com/taylor-swift-concert-breaks-curfew-at-levis-stadium-208885).
 
 ## Requirements
 - Python 3.8
