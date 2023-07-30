@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690742211)
+![Generated GIF](output.gif?raw=true&v=1690743857)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race**
+**Parents of Colorado teen Lily Silva-Lopez allegedly killed by ex-boyfriend say police didn't protect her**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66350225).
+You can read more about it [here](https://www.nbcnews.com/news/crime-courts/parents-colorado-teen-lily-silva-lopez-say-police-didnt-protect-her-rcna96198).
 
 ## Requirements
 - Python 3.8
