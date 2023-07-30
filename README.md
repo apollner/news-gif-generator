@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690725918)
+![Generated GIF](output.gif?raw=true&v=1690727624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Unnecessary deaths’: relatives mourn US family who died off the grid**
+**Putin searches for more friends at Africa summit but low turnout dampens bid for influence**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/29/colorado-springs-family-died-off-the-grid).
+You can read more about it [here](https://www.nbcnews.com/news/world/putin-searches-friends-africa-summit-low-turnout-dampens-bid-influence-rcna96599).
 
 ## Requirements
 - Python 3.8
