@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690684890)
+![Generated GIF](output.gif?raw=true&v=1690686416)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alpha-gal syndrome: Signs, symptoms, and treatments on the meat allergy passed by ticks**
+**Errol Spence Jr vs Terence Crawford • FULL WEIGH IN & FACE OFF VIDEO**
 
-You can read more about it [here](https://www.vox.com/health/2023/7/28/23811708/this-ticks-spit-can-make-you-allergic-to-meat).
+You can read more about it [here](https://www.youtube.com/watch?v=-W6-_sPbZZw).
 
 ## Requirements
 - Python 3.8
