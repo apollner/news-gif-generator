@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690738427)
+![Generated GIF](output.gif?raw=true&v=1690740518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sinead O’Connor’s ‘SNL’ Protest Was ‘Monumental’ for Church Sex Abuse Survivors**
+**Box Office: ‘Haunted Mansion’ $9.9 Million Opening Day Can’t Scare ‘Barbie’ and ‘Oppenheimer’**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-features/sinead-oconnor-catholic-church-abuse-legacy-1234797102/).
+You can read more about it [here](https://variety.com/2023/film/box-office/haunted-mansion-opening-day-barbie-second-weekend-oppenheimer-1235682891/).
 
 ## Requirements
 - Python 3.8
