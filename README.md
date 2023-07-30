@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690700735)
+![Generated GIF](output.gif?raw=true&v=1690702510)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine using North Korean rockets against Russian forces: FT**
+**Mandy Moore reveals 'resilient' son has rare skin condition**
 
-You can read more about it [here](https://www.businessinsider.com/ukraine-using-north-korean-rockets-against-russian-forces-2023-7).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/07/28/mandy-moore-son-august-develops-gianotti-crosti-syndrome/70490023007/).
 
 ## Requirements
 - Python 3.8
