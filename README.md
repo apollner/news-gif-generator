@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690682245)
+![Generated GIF](output.gif?raw=true&v=1690683869)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sinead O'Connor's open letter to Miley Cyrus about being 'pimped' resurfaces**
+**Carlee Russell is charged with kidnapping hoax**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-letter-miley-cyrus-read-full-b2383961.html).
+You can read more about it [here](https://www.npr.org/2023/07/28/1190774312/carlee-russell-charged-kidnapping-hoax-alabama).
 
 ## Requirements
 - Python 3.8
