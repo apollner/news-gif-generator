@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690711586)
+![Generated GIF](output.gif?raw=true&v=1690713239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Haunted Mansion Wallpaper Loungefly Drawstring Backpack at Walt Disney World**
+**Scientists Discover The Genetic Switch to Induce 'Virgin Births' in Fruit Flies**
 
-You can read more about it [here](https://wdwnt.com/2023/07/haunted-mansion-wallpaper-loungefly-drawstring/).
+You can read more about it [here](https://www.sciencealert.com/scientists-discover-the-genetic-switch-to-induce-virgin-births-in-fruit-flies).
 
 ## Requirements
 - Python 3.8
