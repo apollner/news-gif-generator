@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690729515)
+![Generated GIF](output.gif?raw=true&v=1690731230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spence vs. Crawford Results: Live updates of the undercard and main event**
+**Two supermoons in August mean double the stargazing fun**
 
-You can read more about it [here](https://www.mmafighting.com/2023/7/29/23811370/spence-vs-crawford-results-live-updates-of-the-undercard-and-main-event).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/supermoons-august-double-stargazing-fun-101813449).
 
 ## Requirements
 - Python 3.8
