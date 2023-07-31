@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690842832)
+![Generated GIF](output.gif?raw=true&v=1690844775)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kyle Larson puts the bumper to Denny Hamlin at Richmond | NASCAR**
+**Nuclear weapons on the table if Ukraine counteroffensive succeeds: Russia’s Medvedev**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3tfSn9FU0G8).
+You can read more about it [here](https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-counteroffensive-russia-invasion-war-nuclear-weapons/).
 
 ## Requirements
 - Python 3.8
