@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690837527)
+![Generated GIF](output.gif?raw=true&v=1690841179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA rocket blasting off from Wallops may be spotted in sky from N.J., Pa., other eastern states**
+**Yellow Corp. shutdown would lay off 30,000 teamsters, per WSJ**
 
-You can read more about it [here](https://www.nj.com/news/2023/07/nasa-rocket-blasting-off-from-wallops-may-be-spotted-in-sky-from-nj-pa-other-eastern-states.html).
+You can read more about it [here](https://www.businessinsider.com/yellow-corp-shutdown-would-lay-off-30-000-teamsters-2023-7).
 
 ## Requirements
 - Python 3.8
