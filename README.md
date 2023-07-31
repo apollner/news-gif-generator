@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690788911)
+![Generated GIF](output.gif?raw=true&v=1690791125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Seattle leaders strive for community safety after Rainier Beach Safeway shooting**
+**Max Scherzer trade involves real risk for Mets, Rangers**
 
-You can read more about it [here](https://komonews.com/news/local/seattle-leaders-speak-path-forward-rainier-beach-shooting-safeway-city-council-gun-violence-mayor-bruce-harrell-tammy-morales-tanya-woo-community-shots-crime-change-safety-police-department-prevention-intervention).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/max-scherzer-trade-involves-real-risk-for-mets-rangers).
 
 ## Requirements
 - Python 3.8
