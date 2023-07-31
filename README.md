@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690798126)
+![Generated GIF](output.gif?raw=true&v=1690799714)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortal Kombat 1 Official Keepers of Time Trailer (Geras, Rain, Sektor)**
+**Seattle leaders strive for community safety after Rainier Beach Safeway shooting**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bRHMd2aGQe4).
+You can read more about it [here](https://komonews.com/news/local/seattle-leaders-speak-path-forward-rainier-beach-shooting-safeway-city-council-gun-violence-mayor-bruce-harrell-tammy-morales-tanya-woo-community-shots-crime-change-safety-police-department-prevention-intervention).
 
 ## Requirements
 - Python 3.8
