@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690792520)
+![Generated GIF](output.gif?raw=true&v=1690794458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spence vs Crawford HIGHLIGHTS: JULY 29, 2023 | PBC on Showtime PPV**
+**Taylor Swift defies curfew at Levi's Stadium again during second Bay Area concert**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_zPaYp8XN9Y).
+You can read more about it [here](https://www.sfchronicle.com/entertainment/article/taylor-swift-santa-clara-curfew-eras-tour-18268185.php).
 
 ## Requirements
 - Python 3.8
