@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690823165)
+![Generated GIF](output.gif?raw=true&v=1690824864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk reinstates Kanye West’s Twitter account after ban**
+**Elon Musk reactivates Kanye West’s Twitter account following X rebrand**
 
-You can read more about it [here](https://www.theguardian.com/music/2023/jul/30/elon-musk-reinstates-kanye-west-twitter-account-after-ban).
+You can read more about it [here](https://www.cnn.com/2023/07/30/business/kanye-west-twitter-account-elon-musk/index.html).
 
 ## Requirements
 - Python 3.8
