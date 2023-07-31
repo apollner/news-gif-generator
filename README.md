@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690819797)
+![Generated GIF](output.gif?raw=true&v=1690821515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danielle Hunter agrees to new one-year deal with Vikings**
+**African leaders leave Russia summit without grain deal or path to end the war in Ukraine**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/danielle-hunter-agrees-to-new-one-year-deal-with-vikings).
+You can read more about it [here](https://www.politico.com/news/2023/07/30/africa-russia-summit-grain-deal-war-ukraine-00108892).
 
 ## Requirements
 - Python 3.8
