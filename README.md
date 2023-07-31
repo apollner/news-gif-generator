@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690791125)
+![Generated GIF](output.gif?raw=true&v=1690792520)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Max Scherzer trade involves real risk for Mets, Rangers**
+**Spence vs Crawford HIGHLIGHTS: JULY 29, 2023 | PBC on Showtime PPV**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/max-scherzer-trade-involves-real-risk-for-mets-rangers).
+You can read more about it [here](https://www.youtube.com/watch?v=_zPaYp8XN9Y).
 
 ## Requirements
 - Python 3.8
