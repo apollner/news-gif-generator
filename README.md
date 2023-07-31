@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690809236)
+![Generated GIF](output.gif?raw=true&v=1690810423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: Banks vote to limit accounting of emissions in bond and stock sales**
+**This is why you randomly wake up at 4 a.m. (and how to fall back asleep fast)**
 
-You can read more about it [here](https://www.reuters.com/business/banks-vote-limit-accounting-emissions-bond-stock-sales-sources-2023-07-30/).
+You can read more about it [here](https://finance.yahoo.com/news/why-randomly-wake-4-m-090000666.html).
 
 ## Requirements
 - Python 3.8
