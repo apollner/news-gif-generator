@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690783831)
+![Generated GIF](output.gif?raw=true&v=1690785402)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Viola Davis Pumps Brakes on ‘G20’ in Solidarity With SAG-AFTRA Strike, Despite Guild Approving Production Waiver**
+**Judge blocks Arkansas law allowing librarians to be criminally charged over 'harmful' materials**
 
-You can read more about it [here](https://variety.com/2023/film/news/viola-davis-halts-g20-sag-interim-agreement-actors-strike-1235682964/).
+You can read more about it [here](https://apnews.com/article/libraries-books-bans-arkansas-758f28c04c573d03b869ad2738e2b06d).
 
 ## Requirements
 - Python 3.8
