@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690844775)
+![Generated GIF](output.gif?raw=true&v=1690846432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nuclear weapons on the table if Ukraine counteroffensive succeeds: Russia’s Medvedev**
+**African leaders leave Russia summit without grain deal or a path to end the war in Ukraine**
 
-You can read more about it [here](https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-counteroffensive-russia-invasion-war-nuclear-weapons/).
+You can read more about it [here](https://news.yahoo.com/african-leaders-leave-russia-summit-064156235.html).
 
 ## Requirements
 - Python 3.8
