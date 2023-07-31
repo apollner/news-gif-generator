@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690828436)
+![Generated GIF](output.gif?raw=true&v=1690830321)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Terence Crawford vs. Errol Spence Jr. results, takeaways: Bud's masterclass leaves no need for a rematch**
+**Banks vote to limit accounting of emissions in bond and stock sales**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/terence-crawford-vs-errol-spence-jr-results-takeaways-buds-masterclass-leaves-no-need-for-a-rematch/).
+You can read more about it [here](https://nypost.com/2023/07/30/banks-vote-to-limit-accounting-of-emissions-in-bond-and-stock-sales/).
 
 ## Requirements
 - Python 3.8
