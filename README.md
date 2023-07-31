@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690832026)
+![Generated GIF](output.gif?raw=true&v=1690834017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drones target Russian capital on eve of military parade attended by Putin**
+**COVID hospitalizations are on the rise, could signal ‘late summer wave,’ says the CDC**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/30/drones-target-russian-capital-on-eve-of-military-parade-attended-by-putin.html).
+You can read more about it [here](https://www.foxnews.com/health/covid-hospitalizations-are-on-the-rise-could-signal-late-summer-wave-says-the-cdc).
 
 ## Requirements
 - Python 3.8
