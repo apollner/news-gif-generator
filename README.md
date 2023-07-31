@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690778084)
+![Generated GIF](output.gif?raw=true&v=1690780017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**August 2023 full moons are also supermoons: Sturgeon moon on Tuesday**
+**As Phoenix hits 30 days over 110, expected monsoon rains could help cool the Southwest**
 
-You can read more about it [here](https://www.dispatch.com/story/news/2023/07/29/august-2023-full-moons-are-also-supermoons/70493003007/).
+You can read more about it [here](https://www.nbcnews.com/news/weather/phoenix-hits-30-days-110-expected-monsoon-rains-help-cool-southwest-rcna97101).
 
 ## Requirements
 - Python 3.8
