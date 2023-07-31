@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690816067)
+![Generated GIF](output.gif?raw=true&v=1690817644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia-Ukraine war at a glance: what we know on day 522 of the invasion**
+**Cardi B THROWS Mic At Fan Who Hurls Drink At Her On Stage**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/jul/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-522-of-the-invasion).
+You can read more about it [here](https://www.youtube.com/watch?v=n6y0Z6XIhD4).
 
 ## Requirements
 - Python 3.8
