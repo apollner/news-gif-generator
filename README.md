@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690801548)
+![Generated GIF](output.gif?raw=true&v=1690803278)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joining China's Belt and Road was an 'atrocious' decision, Italian minister says**
+**Springfield hospitals warn people to avoid heat-related illnesses as temperatures remain high**
 
-You can read more about it [here](https://www.reuters.com/world/joining-chinas-belt-road-was-an-atrocious-decision-italy-minister-2023-07-30/).
+You can read more about it [here](https://www.ky3.com/2023/07/30/springfield-hospitals-warn-people-avoid-heat-related-illnesses-temperatures-remain-high/).
 
 ## Requirements
 - Python 3.8
