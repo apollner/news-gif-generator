@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690760142)
+![Generated GIF](output.gif?raw=true&v=1690763755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Falcon Heavy launches heaviest commercial communications satellite yet – Spaceflight Now**
+**Travis Kelce says he 'gotta be a better leader' after practice fights - ESPN**
 
-You can read more about it [here](https://spaceflightnow.com/2023/07/29/falcon-heavy-launches-heaviest-commercial-communications-satellite-yet/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38095478/travis-kelce-says-need-better-leader-following-practice-fights).
 
 ## Requirements
 - Python 3.8
