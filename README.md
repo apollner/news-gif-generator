@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690834017)
+![Generated GIF](output.gif?raw=true&v=1690835645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID hospitalizations are on the rise, could signal ‘late summer wave,’ says the CDC**
+**Georgia resident dies from rare brain-eating amoeba, health officials say**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-hospitalizations-are-on-the-rise-could-signal-late-summer-wave-says-the-cdc).
+You can read more about it [here](https://www.cnn.com/2023/07/30/health/brain-eating-amoeba-georgia-trnd/index.html).
 
 ## Requirements
 - Python 3.8
