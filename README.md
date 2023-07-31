@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690817644)
+![Generated GIF](output.gif?raw=true&v=1690819797)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cardi B THROWS Mic At Fan Who Hurls Drink At Her On Stage**
+**Danielle Hunter agrees to new one-year deal with Vikings**
 
-You can read more about it [here](https://www.youtube.com/watch?v=n6y0Z6XIhD4).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/danielle-hunter-agrees-to-new-one-year-deal-with-vikings).
 
 ## Requirements
 - Python 3.8
