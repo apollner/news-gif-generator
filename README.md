@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690785402)
+![Generated GIF](output.gif?raw=true&v=1690787206)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge blocks Arkansas law allowing librarians to be criminally charged over 'harmful' materials**
+**UFC 291 Results: Poirier vs. Gaethje 2**
 
-You can read more about it [here](https://apnews.com/article/libraries-books-bans-arkansas-758f28c04c573d03b869ad2738e2b06d).
+You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
 
 ## Requirements
 - Python 3.8
