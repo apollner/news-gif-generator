@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690763755)
+![Generated GIF](output.gif?raw=true&v=1690768809)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce says he 'gotta be a better leader' after practice fights - ESPN**
+**Errol Spence Jr.-Terence Crawford live results and analysis - ESPN**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38095478/travis-kelce-says-need-better-leader-following-practice-fights).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38082047/errol-spence-jr-terence-crawford-live-boxing-results-analysis).
 
 ## Requirements
 - Python 3.8
