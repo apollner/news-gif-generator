@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690772981)
+![Generated GIF](output.gif?raw=true&v=1690774437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Twitter rebrands to ‘X,’ hackers infect Call of Duty, and foreign visitors to China go cashless**
+**As Phoenix hits 30 days over 110, expected monsoon rains could help cool the Southwest**
 
-You can read more about it [here](https://techcrunch.com/2023/07/29/twitter-rebrands-to-x-hackers-infect-call-of-duty-and-foreign-visitors-to-china-go-cashless/).
+You can read more about it [here](https://www.nbcnews.com/news/weather/phoenix-hits-30-days-110-expected-monsoon-rains-help-cool-southwest-rcna97101).
 
 ## Requirements
 - Python 3.8
