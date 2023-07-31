@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690768809)
+![Generated GIF](output.gif?raw=true&v=1690770607)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Errol Spence Jr.-Terence Crawford live results and analysis - ESPN**
+**Putin says Russia does not reject talks with Ukraine**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38082047/errol-spence-jr-terence-crawford-live-boxing-results-analysis).
+You can read more about it [here](https://www.reuters.com/world/putin-says-russia-does-not-reject-talks-with-ukraine-2023-07-29/).
 
 ## Requirements
 - Python 3.8
