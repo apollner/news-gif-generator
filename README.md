@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690812453)
+![Generated GIF](output.gif?raw=true&v=1690814100)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Republicans can’t get out of their climate bind, even as extreme heat overwhelms the US**
+**The fight over a bill targeting credit card fees pits payment companies against retailers**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/politics/republicans-climate-solutions-heat-wave/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html).
 
 ## Requirements
 - Python 3.8
