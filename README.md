@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690814100)
+![Generated GIF](output.gif?raw=true&v=1690816067)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The fight over a bill targeting credit card fees pits payment companies against retailers**
+**Russia-Ukraine war at a glance: what we know on day 522 of the invasion**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html).
+You can read more about it [here](https://www.theguardian.com/world/2023/jul/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-522-of-the-invasion).
 
 ## Requirements
 - Python 3.8
