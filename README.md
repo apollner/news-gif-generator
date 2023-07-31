@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690826990)
+![Generated GIF](output.gif?raw=true&v=1690828436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PlayStation Classic flops on Steam despite strong reviews**
+**Terence Crawford vs. Errol Spence Jr. results, takeaways: Bud's masterclass leaves no need for a rematch**
 
-You can read more about it [here](https://www.dexerto.com/gaming/playstation-classic-flops-on-steam-despite-strong-reviews-2230530/).
+You can read more about it [here](https://www.cbssports.com/boxing/news/terence-crawford-vs-errol-spence-jr-results-takeaways-buds-masterclass-leaves-no-need-for-a-rematch/).
 
 ## Requirements
 - Python 3.8
