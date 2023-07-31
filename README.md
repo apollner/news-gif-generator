@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690835645)
+![Generated GIF](output.gif?raw=true&v=1690837527)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia resident dies from rare brain-eating amoeba, health officials say**
+**NASA rocket blasting off from Wallops may be spotted in sky from N.J., Pa., other eastern states**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/health/brain-eating-amoeba-georgia-trnd/index.html).
+You can read more about it [here](https://www.nj.com/news/2023/07/nasa-rocket-blasting-off-from-wallops-may-be-spotted-in-sky-from-nj-pa-other-eastern-states.html).
 
 ## Requirements
 - Python 3.8
