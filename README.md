@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690787206)
+![Generated GIF](output.gif?raw=true&v=1690788911)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 291 Results: Poirier vs. Gaethje 2**
+**Seattle leaders strive for community safety after Rainier Beach Safeway shooting**
 
-You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
+You can read more about it [here](https://komonews.com/news/local/seattle-leaders-speak-path-forward-rainier-beach-shooting-safeway-city-council-gun-violence-mayor-bruce-harrell-tammy-morales-tanya-woo-community-shots-crime-change-safety-police-department-prevention-intervention).
 
 ## Requirements
 - Python 3.8
