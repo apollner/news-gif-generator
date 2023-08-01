@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690846432)
+![Generated GIF](output.gif?raw=true&v=1690850407)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**African leaders leave Russia summit without grain deal or a path to end the war in Ukraine**
+**iPhone 15 Pro Rumor Recap: 12 New Features and Changes Expected**
 
-You can read more about it [here](https://news.yahoo.com/african-leaders-leave-russia-summit-064156235.html).
+You can read more about it [here](https://www.macrumors.com/2023/07/30/iphone-15-pro-rumored-features-recap/).
 
 ## Requirements
 - Python 3.8
