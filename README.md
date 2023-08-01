@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690887922)
+![Generated GIF](output.gif?raw=true&v=1690889661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US trucking company Yellow shuts down operations, Wall Street Journal reports**
+**iPhone 15 Pro set to feature thinner bezels, a titanium frame and USB-C charging | Engadget**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-trucking-company-yellow-shuts-down-operations-wsj-2023-07-30/).
+You can read more about it [here](https://www.engadget.com/iphone-15-pro-set-to-feature-a-thinner-bezel-titanium-frame-and-usb-c-charging-094118389.html).
 
 ## Requirements
 - Python 3.8
