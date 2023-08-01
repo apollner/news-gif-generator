@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690894244)
+![Generated GIF](output.gif?raw=true&v=1690895485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mega Millions jackpot soars over $1 billion: When is the next drawing?**
+**US trucking company Yellow shuts down operations, Wall Street Journal reports**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/07/31/mega-millions-next-drawing/70496418007/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-trucking-company-yellow-shuts-down-operations-wsj-2023-07-30/).
 
 ## Requirements
 - Python 3.8
