@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690855616)
+![Generated GIF](output.gif?raw=true&v=1690858115)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia resident dies after exposure to brain-eating amoeba, making it the 2nd death from the infection announced this week**
+**A lifelong Swiftie reviews Taylor Swift's second Santa Clara concert**
 
-You can read more about it [here](https://www.insider.com/brain-eating-amoeba-naegleria-fowleri-death-in-georgia-2023-7).
+You can read more about it [here](https://www.sfgate.com/sf-culture/article/taylor-swift-second-santa-clara-show-18268796.php).
 
 ## Requirements
 - Python 3.8
