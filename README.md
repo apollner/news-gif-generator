@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690875227)
+![Generated GIF](output.gif?raw=true&v=1690877502)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suicide bomber at political rally in northwest Pakistan kills at least 44 people, wounds nearly 200**
+**Angels Acquire Randal Grichuk, C.J. Cron From Rockies**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/bomb-political-rally-northwest-pakistan-kills-10-people-101848437).
+You can read more about it [here](https://www.mlbtraderumors.com/2023/07/angels-acquire-randal-grichuk-c-j-cron-from-rockies.html).
 
 ## Requirements
 - Python 3.8
