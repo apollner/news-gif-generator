@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690891965)
+![Generated GIF](output.gif?raw=true&v=1690894244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First American nuclear reactor built from scratch in decades enters commercial operation in Georgia**
+**Mega Millions jackpot soars over $1 billion: When is the next drawing?**
 
-You can read more about it [here](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/07/31/mega-millions-next-drawing/70496418007/).
 
 ## Requirements
 - Python 3.8
