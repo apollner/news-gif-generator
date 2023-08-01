@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690918445)
+![Generated GIF](output.gif?raw=true&v=1690920462)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moscow attacks Zelensky’s hometown after he said war had returned to Russia**
+**Nondescript California warehouse turns out to be an illicit virus lab**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/europe/kryvyi-rih-strikes-ukraine-intl/index.html).
+You can read more about it [here](https://www.dailymail.co.uk/health/article-12357073/Unassuming-warehouse-California-turns-illegal-Chinese-run-virus-laboratory-genetically-engineering-mice-experimenting-HIV-herpes-malaria.html).
 
 ## Requirements
 - Python 3.8
