@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690870242)
+![Generated GIF](output.gif?raw=true&v=1690871834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**8-year-old survives ‘extraordinarily rare’ cougar attack near Washington’s Lake Angeles**
+**Late summer wave? Covid hospitalisations spike in US, health agency warns**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/us/cougar-attack-child-washington-lake-angeles-trnd/index.html).
+You can read more about it [here](https://www.hindustantimes.com/world-news/coronavirus-us-latest-late-summer-wave-covid-hospitalizations-spike-in-us-health-agency-warns-101690765255107.html).
 
 ## Requirements
 - Python 3.8
