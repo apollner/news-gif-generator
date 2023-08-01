@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690931145)
+![Generated GIF](output.gif?raw=true&v=1690932843)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Broncos' KJ Hamler stepping away for treatment of heart issue - ESPN**
+**Moscow attacks Zelensky’s hometown after he said war had returned to Russia**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38109167/broncos-kj-hamler-stepping-away-treatment-heart-issue).
+You can read more about it [here](https://www.cnn.com/2023/07/31/europe/kryvyi-rih-strikes-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
