@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690864420)
+![Generated GIF](output.gif?raw=true&v=1690866405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Harry Styles Spotted With "Olivia" Tattoo After Olivia Wilde Breakup**
+**US trucking giant Yellow shutting down operations amid standoff with Teamsters union**
 
-You can read more about it [here](https://www.eonline.com/news/1381720/harry-styles-spotted-with-olivia-tattoo-months-after-olivia-wilde-breakup).
+You can read more about it [here](https://www.foxbusiness.com/economy/us-trucking-giant-yellow-shutting-down-operations-amid-standoff-teamsters-union).
 
 ## Requirements
 - Python 3.8
