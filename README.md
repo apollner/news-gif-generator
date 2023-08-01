@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690896851)
+![Generated GIF](output.gif?raw=true&v=1690898773)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft argues its Activision Blizzard case with UK regulators**
+**MLB Power Rankings: Cubs, Angels throw wrenches into baseball's trade deadline with hot streaks**
 
-You can read more about it [here](https://www.theverge.com/2023/7/31/23813956/microsoft-activision-blizzard-cma-argument-uk-regulator).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-power-rankings-cubs-angels-throw-wrenches-into-baseballs-trade-deadline-with-hot-streaks/).
 
 ## Requirements
 - Python 3.8
