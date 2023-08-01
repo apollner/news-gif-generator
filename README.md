@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690927548)
+![Generated GIF](output.gif?raw=true&v=1690929229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components**
+**Cardinals prospects acquired at 2023 Trade Deadline**
 
-You can read more about it [here](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/).
+You can read more about it [here](https://www.mlb.com/news/cardinals-prospects-acquired-at-2023-trade-deadline).
 
 ## Requirements
 - Python 3.8
