@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690860878)
+![Generated GIF](output.gif?raw=true&v=1690862971)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Late summer wave? Covid hospitalisations spike in US, health agency warns**
+**Donald Trump LIVE News | Trump Speech | Joe Biden & Democracts Hate US: Trump | Trump Vs Desantis**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/coronavirus-us-latest-late-summer-wave-covid-hospitalizations-spike-in-us-health-agency-warns-101690765255107.html).
+You can read more about it [here](https://www.youtube.com/watch?v=pErxHHQcrvs).
 
 ## Requirements
 - Python 3.8
