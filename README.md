@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690904157)
+![Generated GIF](output.gif?raw=true&v=1690906203)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USWNT in unfamiliar territory entering last World Cup group game against Portugal**
+**40 million ways Trump’s campaign is morphing into his legal defense**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/columnist/nancy-armour/2023/07/31/uswnt-unfamiliar-position-usa-vs-portugal-womens-world-cup-group-e-game/70496310007/).
+You can read more about it [here](https://www.cnn.com/2023/07/31/politics/donald-trump-campaign-legal-defense-2024/index.html).
 
 ## Requirements
 - Python 3.8
