@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690850407)
+![Generated GIF](output.gif?raw=true&v=1690855616)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15 Pro Rumor Recap: 12 New Features and Changes Expected**
+**Georgia resident dies after exposure to brain-eating amoeba, making it the 2nd death from the infection announced this week**
 
-You can read more about it [here](https://www.macrumors.com/2023/07/30/iphone-15-pro-rumored-features-recap/).
+You can read more about it [here](https://www.insider.com/brain-eating-amoeba-naegleria-fowleri-death-in-georgia-2023-7).
 
 ## Requirements
 - Python 3.8
