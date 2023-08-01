@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690898773)
+![Generated GIF](output.gif?raw=true&v=1690900427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB Power Rankings: Cubs, Angels throw wrenches into baseball's trade deadline with hot streaks**
+**Deadly Russian missile strikes Zelenskiy's hometown**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-power-rankings-cubs-angels-throw-wrenches-into-baseballs-trade-deadline-with-hot-streaks/).
+You can read more about it [here](https://www.youtube.com/watch?v=Cltk5t-AAnE).
 
 ## Requirements
 - Python 3.8
