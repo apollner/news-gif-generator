@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690878832)
+![Generated GIF](output.gif?raw=true&v=1690880937)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China’s capital records heaviest rainfall of year as Doksuri tapers off**
+**CDC says allergies caused by tick bites increasing; Ozarks woman offers help**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/31/chinas-capital-records-heaviest-rainfall-of-year-as-doksuri-tapers-off).
+You can read more about it [here](https://www.ky3.com/2023/07/31/cdc-says-allergies-caused-by-tick-bites-increasing-ozarks-woman-offers-help/).
 
 ## Requirements
 - Python 3.8
