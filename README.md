@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690880937)
+![Generated GIF](output.gif?raw=true&v=1690882438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC says allergies caused by tick bites increasing; Ozarks woman offers help**
+**Just one drink a day can raise blood pressure, study says**
 
-You can read more about it [here](https://www.ky3.com/2023/07/31/cdc-says-allergies-caused-by-tick-bites-increasing-ozarks-woman-offers-help/).
+You can read more about it [here](https://www.cnn.com/2023/07/31/health/alcohol-blood-pressure-wellness/index.html).
 
 ## Requirements
 - Python 3.8
