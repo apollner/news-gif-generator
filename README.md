@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690929229)
+![Generated GIF](output.gif?raw=true&v=1690931145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cardinals prospects acquired at 2023 Trade Deadline**
+**Broncos' KJ Hamler stepping away for treatment of heart issue - ESPN**
 
-You can read more about it [here](https://www.mlb.com/news/cardinals-prospects-acquired-at-2023-trade-deadline).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38109167/broncos-kj-hamler-stepping-away-treatment-heart-issue).
 
 ## Requirements
 - Python 3.8
