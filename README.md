@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690884470)
+![Generated GIF](output.gif?raw=true&v=1690886090)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP splits further over Tuberville's military blockade as it stretches through summer**
+**Pakistan explosion: Eyewitness describes doomsday scenes**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/31/gop-military-blockade-abortion-00108765).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66321749).
 
 ## Requirements
 - Python 3.8
