@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690882438)
+![Generated GIF](output.gif?raw=true&v=1690884470)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Just one drink a day can raise blood pressure, study says**
+**GOP splits further over Tuberville's military blockade as it stretches through summer**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/health/alcohol-blood-pressure-wellness/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/07/31/gop-military-blockade-abortion-00108765).
 
 ## Requirements
 - Python 3.8
