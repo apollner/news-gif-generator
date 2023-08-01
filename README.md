@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690895485)
+![Generated GIF](output.gif?raw=true&v=1690896851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US trucking company Yellow shuts down operations, Wall Street Journal reports**
+**Microsoft argues its Activision Blizzard case with UK regulators**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-trucking-company-yellow-shuts-down-operations-wsj-2023-07-30/).
+You can read more about it [here](https://www.theverge.com/2023/7/31/23813956/microsoft-activision-blizzard-cma-argument-uk-regulator).
 
 ## Requirements
 - Python 3.8
