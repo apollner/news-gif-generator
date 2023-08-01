@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690902390)
+![Generated GIF](output.gif?raw=true&v=1690904157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Six injured after man drives vehicle into migrant workers in North Carolina**
+**USWNT in unfamiliar territory entering last World Cup group game against Portugal**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/31/north-carolina-vehicle-migrant-workers-suv).
+You can read more about it [here](https://www.usatoday.com/story/sports/columnist/nancy-armour/2023/07/31/uswnt-unfamiliar-position-usa-vs-portugal-womens-world-cup-group-e-game/70496310007/).
 
 ## Requirements
 - Python 3.8
