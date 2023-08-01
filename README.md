@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690889661)
+![Generated GIF](output.gif?raw=true&v=1690891965)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15 Pro set to feature thinner bezels, a titanium frame and USB-C charging | Engadget**
+**First American nuclear reactor built from scratch in decades enters commercial operation in Georgia**
 
-You can read more about it [here](https://www.engadget.com/iphone-15-pro-set-to-feature-a-thinner-bezel-titanium-frame-and-usb-c-charging-094118389.html).
+You can read more about it [here](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425).
 
 ## Requirements
 - Python 3.8
