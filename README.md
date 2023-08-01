@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690906203)
+![Generated GIF](output.gif?raw=true&v=1690907811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**40 million ways Trump’s campaign is morphing into his legal defense**
+**Mar-a-Lago worker charged in Trump's classified documents case will make his 1st court appearance**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/politics/donald-trump-campaign-legal-defense-2024/index.html).
+You can read more about it [here](https://apnews.com/article/carlos-de-oliveira-trump-classified-documents-maralago-f7e6879fe80e96a321b46279b150bdf9).
 
 ## Requirements
 - Python 3.8
