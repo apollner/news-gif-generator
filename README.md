@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690873634)
+![Generated GIF](output.gif?raw=true&v=1690875227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump leadership PAC spends more than $40 million on legal fees amid indictments**
+**Suicide bomber at political rally in northwest Pakistan kills at least 44 people, wounds nearly 200**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/politics/donald-trump-campaign-spending-legal-costs/index.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/bomb-political-rally-northwest-pakistan-kills-10-people-101848437).
 
 ## Requirements
 - Python 3.8
