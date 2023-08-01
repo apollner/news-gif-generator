@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690914917)
+![Generated GIF](output.gif?raw=true&v=1690916717)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Mega Millions lottery jackpot is over $1 billion again**
+**Moscow attacks Zelensky’s hometown after he said war had returned to Russia**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/07/31/billion-mega-millions-jackpot-lottery/).
+You can read more about it [here](https://www.cnn.com/2023/07/31/europe/kryvyi-rih-strikes-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
