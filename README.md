@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690923978)
+![Generated GIF](output.gif?raw=true&v=1690925647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**99-year-old trucking company Yellow shuts down, putting 30,000 out of work**
+**Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/business/yellow-corp-closing/index.html).
+You can read more about it [here](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/).
 
 ## Requirements
 - Python 3.8
