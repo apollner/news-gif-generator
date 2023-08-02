@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690972593)
+![Generated GIF](output.gif?raw=true&v=1690974396)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Angus Cloud, actor on HBO series ‘Euphoria,’ dead at 25**
+**Hunter Biden associate tells Congress that VP's son sold "illusion of access"**
 
-You can read more about it [here](https://apnews.com/article/angus-cloud-dead-obit-euphoria-b5dac0a278f3de45b12d17351255427c).
+You can read more about it [here](https://www.axios.com/2023/07/31/devon-archer-testify-hunter-biden).
 
 ## Requirements
 - Python 3.8
