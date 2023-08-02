@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690943931)
+![Generated GIF](output.gif?raw=true&v=1690945666)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden administration announces launch of HHS office focused on long Covid research**
+**Even one alcoholic drink per day is linked to higher blood pressure, American Heart Association analysis finds**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/health/long-covid-research-office/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/alcoholic-drink-linked-to-higher-blood-pressure/).
 
 ## Requirements
 - Python 3.8
