@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690982047)
+![Generated GIF](output.gif?raw=true&v=1690983286)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What pushed Yellow trucking company to point of bankruptcy?**
+**2023 MLB trade deadline live updates: Rumors, news, trade tracker, latest on Justin Verlander, Yankees, more**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/what-pushed-yellow-trucking-company-point-bankruptcy).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-live-updates-rumors-news-trade-tracker-latest-on-justin-verlander-yankees-more/live/).
 
 ## Requirements
 - Python 3.8
