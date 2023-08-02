@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691012111)
+![Generated GIF](output.gif?raw=true&v=1691013916)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drones hit glitzy Moscow buildings as Ukraine says Russians should feel war**
+**MLB trade deadline tracker: Latest deals as Mets trade Justin Verlander, Padres, Phillies add pitching**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/01/moscow-drones-buildings-ukraine-war/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-latest-deals-as-mets-trade-justin-verlander-padres-phillies-add-pitching/).
 
 ## Requirements
 - Python 3.8
