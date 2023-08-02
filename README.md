@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690994417)
+![Generated GIF](output.gif?raw=true&v=1690995907)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump's campaign finances are strained as legal peril mounts**
+**Hottest month for a U.S. city: Phoenix sets national heat wave record**
 
-You can read more about it [here](https://apnews.com/article/trump-legal-bills-pac-defense-fund-campaign-filing-2024-36fe10e4988a56de34f120cff38e1552).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/08/01/phoenix-record-hot-month-climate/).
 
 ## Requirements
 - Python 3.8
