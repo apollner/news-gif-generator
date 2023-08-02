@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690985157)
+![Generated GIF](output.gif?raw=true&v=1690986849)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USWNT ratings vs. Portugal: Smith sums up struggles in draw - ESPN**
+**US opens probe into 280000 new Tesla vehicles over steering issue**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38111782/uswnt-portugal-womens-world-cup-ratings-sophia-smith-sums-struggles).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-regulator-opens-probe-into-tesla-cars-over-loss-steering-control-2023-08-01/).
 
 ## Requirements
 - Python 3.8
