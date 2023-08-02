@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690963816)
+![Generated GIF](output.gif?raw=true&v=1690965244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Bachelorette' recap: Charity meets the families**
+**‘Nowhere to hide’: The question troubling Ukrainian troops amid a grinding counteroffensive**
 
-You can read more about it [here](https://ew.com/tv/recaps/the-bachelorette-season-20-episode-6/).
+You can read more about it [here](https://www.cnn.com/2023/08/01/europe/ukraine-neskuchne-question-counteroffensive-intl/index.html).
 
 ## Requirements
 - Python 3.8
