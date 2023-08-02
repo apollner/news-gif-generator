@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691017543)
+![Generated GIF](output.gif?raw=true&v=1691019328)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US coach Vlatko Andonovski hits back at criticism of team after draw against Portugal**
+**Former President Trump indicted in special counsel probe of 2020 election interference: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/sport/usa-portugal-womens-world-cup-reaction-spt-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/01/trump-indictment-live-updates-former-president-predicts-charges.html).
 
 ## Requirements
 - Python 3.8
