@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690992686)
+![Generated GIF](output.gif?raw=true&v=1690994417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Family of Henrietta Lacks settles lawsuit against Thermo Fisher Scientific**
+**Trump's campaign finances are strained as legal peril mounts**
 
-You can read more about it [here](https://apnews.com/article/henrietta-lacks-hela-cells-thermo-fisher-scientific-bfba4a6c10396efa34c9b79a544f0729).
+You can read more about it [here](https://apnews.com/article/trump-legal-bills-pac-defense-fund-campaign-filing-2024-36fe10e4988a56de34f120cff38e1552).
 
 ## Requirements
 - Python 3.8
