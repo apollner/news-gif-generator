@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690983286)
+![Generated GIF](output.gif?raw=true&v=1690985157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB trade deadline live updates: Rumors, news, trade tracker, latest on Justin Verlander, Yankees, more**
+**USWNT ratings vs. Portugal: Smith sums up struggles in draw - ESPN**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-live-updates-rumors-news-trade-tracker-latest-on-justin-verlander-yankees-more/live/).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38111782/uswnt-portugal-womens-world-cup-ratings-sophia-smith-sums-struggles).
 
 ## Requirements
 - Python 3.8
