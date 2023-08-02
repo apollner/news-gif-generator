@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690954445)
+![Generated GIF](output.gif?raw=true&v=1690956657)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Illinois Gov. Pritzker allows non-US citizens to become police officers with new law: 'Fundamentally bad idea'**
+**'Not found': China's ex-foreign minister is gone but wait for explanation goes on**
 
-You can read more about it [here](https://www.foxnews.com/media/illinois-gov-pritzker-allows-non-us-citizens-become-police-officers-new-law-fundamentally-bad-idea).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/not-found-chinas-ex-foreign-minister-is-gone-wait-explanation-goes-2023-07-31/).
 
 ## Requirements
 - Python 3.8
