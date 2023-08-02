@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690942991)
+![Generated GIF](output.gif?raw=true&v=1690943931)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Concertgoer files police report after Cardi B’s Las Vegas show**
+**Biden administration announces launch of HHS office focused on long Covid research**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/entertainment/cardi-b-microphone/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/31/health/long-covid-research-office/index.html).
 
 ## Requirements
 - Python 3.8
