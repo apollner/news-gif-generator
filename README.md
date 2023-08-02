@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690997649)
+![Generated GIF](output.gif?raw=true&v=1690999781)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tiger Woods joins PGA Tour board and gives commissioner his support as Saudi deal talks continue**
+**Galaxy Watch 6 vs. Apple Watch Series 8: Battle of the Smart Wearables**
 
-You can read more about it [here](https://apnews.com/article/tiger-woods-pga-tour-board-monahan-saudi-deal-521648feecf894b6f744769db72c2d15).
+You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-watch-6-vs-apple-watch-series-8-battle-of-the-smart-wearables/).
 
 ## Requirements
 - Python 3.8
