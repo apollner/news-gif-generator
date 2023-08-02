@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690974396)
+![Generated GIF](output.gif?raw=true&v=1690976038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden associate tells Congress that VP's son sold "illusion of access"**
+**USWNT survives late scare to reach Women’s World Cup round of 16**
 
-You can read more about it [here](https://www.axios.com/2023/07/31/devon-archer-testify-hunter-biden).
+You can read more about it [here](https://www.cnn.com/2023/08/01/football/uswnt-portugal-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
