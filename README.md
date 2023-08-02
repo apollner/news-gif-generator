@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690959953)
+![Generated GIF](output.gif?raw=true&v=1690961642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**I took a ride on the 'Swiftie Express' to see Taylor Swift in Santa Clara**
+**HSBC raises outlook as profits nearly double**
 
-You can read more about it [here](https://www.sfgate.com/sf-culture/article/swiftie-express-taylor-swift-santa-clara-eras-tour-18270916.php).
+You can read more about it [here](https://www.cnn.com/2023/08/01/investing/hsbc-earnings-q2-2023-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
