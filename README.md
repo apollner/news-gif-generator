@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691013916)
+![Generated GIF](output.gif?raw=true&v=1691015633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB trade deadline tracker: Latest deals as Mets trade Justin Verlander, Padres, Phillies add pitching**
+**Lizzo sued by former backup dancers, accused of sexual harassment and ‘fat-phobic’ treatment**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-latest-deals-as-mets-trade-justin-verlander-padres-phillies-add-pitching/).
+You can read more about it [here](https://www.foxnews.com/entertainment/lizzo-sued-by-former-backup-dancers-accused-sexual-harassment-fat-phobic-treatment).
 
 ## Requirements
 - Python 3.8
