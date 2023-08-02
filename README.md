@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691008435)
+![Generated GIF](output.gif?raw=true&v=1691010305)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NJ Lt. Governor Sheila Oliver dies at 71 after undisclosed medical issue**
+**Michigan prosecutors charge Trump allies in felonies involving voting machines, illegal 'testing'**
 
-You can read more about it [here](https://abc7ny.com/new-jersey-lieutenant-governor-sheila-oliver-death-nj-gov/13582418/).
+You can read more about it [here](https://apnews.com/article/matthew-deperno-michigan-trump-voting-machines-a58c4a58de84d432815ec1be39c19b90).
 
 ## Requirements
 - Python 3.8
