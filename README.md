@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690945666)
+![Generated GIF](output.gif?raw=true&v=1690947271)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Even one alcoholic drink per day is linked to higher blood pressure, American Heart Association analysis finds**
+**Paul Reubens, actor best known for Pee-wee Herman role, dies at age 70**
 
-You can read more about it [here](https://www.cbsnews.com/news/alcoholic-drink-linked-to-higher-blood-pressure/).
+You can read more about it [here](https://www.cbsnews.com/video/paul-reubens-actor-best-known-for-pee-wee-herman-role-dies-at-age-70/).
 
 ## Requirements
 - Python 3.8
