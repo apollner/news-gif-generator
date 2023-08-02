@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691015633)
+![Generated GIF](output.gif?raw=true&v=1691017543)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lizzo sued by former backup dancers, accused of sexual harassment and ‘fat-phobic’ treatment**
+**US coach Vlatko Andonovski hits back at criticism of team after draw against Portugal**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/lizzo-sued-by-former-backup-dancers-accused-sexual-harassment-fat-phobic-treatment).
+You can read more about it [here](https://www.cnn.com/2023/08/01/sport/usa-portugal-womens-world-cup-reaction-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
