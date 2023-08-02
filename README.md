@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691010305)
+![Generated GIF](output.gif?raw=true&v=1691012111)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan prosecutors charge Trump allies in felonies involving voting machines, illegal 'testing'**
+**Drones hit glitzy Moscow buildings as Ukraine says Russians should feel war**
 
-You can read more about it [here](https://apnews.com/article/matthew-deperno-michigan-trump-voting-machines-a58c4a58de84d432815ec1be39c19b90).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/01/moscow-drones-buildings-ukraine-war/).
 
 ## Requirements
 - Python 3.8
