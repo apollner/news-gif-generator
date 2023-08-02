@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690958072)
+![Generated GIF](output.gif?raw=true&v=1690959953)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Search for Voyager 2 after Nasa accidentally sends wrong command**
+**I took a ride on the 'Swiftie Express' to see Taylor Swift in Santa Clara**
 
-You can read more about it [here](https://www.theguardian.com/science/2023/aug/01/search-for-voyager-2-after-nasa-accidentally-sends-wrong-command).
+You can read more about it [here](https://www.sfgate.com/sf-culture/article/swiftie-express-taylor-swift-santa-clara-eras-tour-18270916.php).
 
 ## Requirements
 - Python 3.8
