@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690961642)
+![Generated GIF](output.gif?raw=true&v=1690963816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**HSBC raises outlook as profits nearly double**
+**'The Bachelorette' recap: Charity meets the families**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/investing/hsbc-earnings-q2-2023-intl-hnk/index.html).
+You can read more about it [here](https://ew.com/tv/recaps/the-bachelorette-season-20-episode-6/).
 
 ## Requirements
 - Python 3.8
