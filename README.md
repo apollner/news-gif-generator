@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690978357)
+![Generated GIF](output.gif?raw=true&v=1690980621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese zoo denies its sun bears are people in costume**
+**USWNT survives late scare to reach Women’s World Cup round of 16**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/china/sun-bear-claims-china-hangzhou-zoo-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/football/uswnt-portugal-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
