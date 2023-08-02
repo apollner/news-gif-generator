@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690956657)
+![Generated GIF](output.gif?raw=true&v=1690958072)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Not found': China's ex-foreign minister is gone but wait for explanation goes on**
+**Search for Voyager 2 after Nasa accidentally sends wrong command**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/not-found-chinas-ex-foreign-minister-is-gone-wait-explanation-goes-2023-07-31/).
+You can read more about it [here](https://www.theguardian.com/science/2023/aug/01/search-for-voyager-2-after-nasa-accidentally-sends-wrong-command).
 
 ## Requirements
 - Python 3.8
