@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690950831)
+![Generated GIF](output.gif?raw=true&v=1690954445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two supermoons will light up the night sky in August. Here's what you need to know**
+**Illinois Gov. Pritzker allows non-US citizens to become police officers with new law: 'Fundamentally bad idea'**
 
-You can read more about it [here](https://www.sfchronicle.com/bayarea/article/supermoons-two-blue-sturgeon-18270736.php).
+You can read more about it [here](https://www.foxnews.com/media/illinois-gov-pritzker-allows-non-us-citizens-become-police-officers-new-law-fundamentally-bad-idea).
 
 ## Requirements
 - Python 3.8
