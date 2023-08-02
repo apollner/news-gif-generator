@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690988813)
+![Generated GIF](output.gif?raw=true&v=1690990440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fed Interest-Rate Pause in September Seen Likely by Wall Street Economists**
+**USWNT vs. Portugal takeaways: missed chances, midfield struggles as U.S. moves on**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-01/fed-interest-rate-pause-in-september-seen-likely-by-wall-street-economists).
+You can read more about it [here](https://theathletic.com/4737858/2023/08/01/uswnt-portugal-world-cup/).
 
 ## Requirements
 - Python 3.8
