@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690999781)
+![Generated GIF](output.gif?raw=true&v=1691001243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy Watch 6 vs. Apple Watch Series 8: Battle of the Smart Wearables**
+**Massive fire burning in California and Nevada is spawning dangerous ‘fire whirls’**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-watch-6-vs-apple-watch-series-8-battle-of-the-smart-wearables/).
+You can read more about it [here](https://www.cnn.com/2023/08/01/us/york-fire-california-nevada-fire-whirls/index.html).
 
 ## Requirements
 - Python 3.8
