@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1690970816)
+![Generated GIF](output.gif?raw=true&v=1690972593)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Myanmar junta grants partial pardon to democracy champion Suu Kyi**
+**Angus Cloud, actor on HBO series ‘Euphoria,’ dead at 25**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/myanmar-junta-pardons-ex-leader-suu-kyi-five-offences-state-media-2023-08-01/).
+You can read more about it [here](https://apnews.com/article/angus-cloud-dead-obit-euphoria-b5dac0a278f3de45b12d17351255427c).
 
 ## Requirements
 - Python 3.8
