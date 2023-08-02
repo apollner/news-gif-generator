@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691003165)
+![Generated GIF](output.gif?raw=true&v=1691004826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stephen Amell, former ‘Arrow’ star, clarifies his remarks about the actors’ strike**
+**Euclid telescope shares its first glimpses of the universe**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/entertainment/stephen-amell-actors-strike/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/world/euclid-telescope-first-test-images-scn/index.html).
 
 ## Requirements
 - Python 3.8
