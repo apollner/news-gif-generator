@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691064798)
+![Generated GIF](output.gif?raw=true&v=1691067089)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope arrives in Portugal amid clergy sexual abuse scandal**
+**Belarusian helicopters violated Polish airspace, says Warsaw**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/2/pope-arrives-in-portugal-amid-clergy-sexual-abuse-scandal).
+You can read more about it [here](https://notesfrompoland.com/2023/08/02/belarusian-helicopters-violated-polish-airspace-says-warsaw/).
 
 ## Requirements
 - Python 3.8
