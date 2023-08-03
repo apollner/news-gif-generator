@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691100341)
+![Generated GIF](output.gif?raw=true&v=1691102014)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AI-assisted cancer screening could cut radiologist workloads in half**
+**US workers estimate they need $1.8M to retire: survey**
 
-You can read more about it [here](https://www.engadget.com/ai-assisted-cancer-screening-could-cut-radiologist-workloads-in-half-193427969.html).
+You can read more about it [here](https://thehill.com/business/4133740-us-workers-retirement-estimate-survey/).
 
 ## Requirements
 - Python 3.8
