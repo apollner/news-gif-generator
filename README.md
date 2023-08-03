@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691067089)
+![Generated GIF](output.gif?raw=true&v=1691068310)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Belarusian helicopters violated Polish airspace, says Warsaw**
+**A Hands-on With the Samsung Galaxy Z Flip 5**
 
-You can read more about it [here](https://notesfrompoland.com/2023/08/02/belarusian-helicopters-violated-polish-airspace-says-warsaw/).
+You can read more about it [here](https://gizmodo.com/samsung-galaxy-z-flip-5-hands-on-1850697358).
 
 ## Requirements
 - Python 3.8
