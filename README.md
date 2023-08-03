@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691075279)
+![Generated GIF](output.gif?raw=true&v=1691076852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prepare to flick off your incandescent bulbs for good under new US rules that kicked in this week**
+**The Galaxy Z Flip 5's cover screen software beats Motorola's in every way but one**
 
-You can read more about it [here](https://apnews.com/article/incandescent-light-bulb-led-federal-energy-efficiency-rules-950ca7bd90453a5bde277f3002e67d83).
+You can read more about it [here](https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head).
 
 ## Requirements
 - Python 3.8
