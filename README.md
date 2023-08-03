@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691069827)
+![Generated GIF](output.gif?raw=true&v=1691071564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB trade deadline grades: Marks for all 30 teams as Angels and Rangers receive and 'A', Yankees fail**
+**Why are leprosy cases surging in US state of Florida?**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-grades-marks-for-all-30-teams-as-angels-and-rangers-receive-and-a-yankees-fail/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/2/why-are-leprosy-cases-surging-in-us-state-of).
 
 ## Requirements
 - Python 3.8
