@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691094838)
+![Generated GIF](output.gif?raw=true&v=1691096706)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Jim Crane texted Justin Verlander after blockbuster trade**
+**AI can detect breast cancer as well as radiologists, study finds**
 
-You can read more about it [here](https://www.chron.com/sports/astros/article/jim-crane-justin-verlander-return-text-18273161.php).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/).
 
 ## Requirements
 - Python 3.8
