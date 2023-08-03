@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691043025)
+![Generated GIF](output.gif?raw=true&v=1691044544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift gives Eras tour truckers $100,000 each, report says**
+**DeSantis-controlled Disney World district abolishes diversity, equity initiatives**
 
-You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-01/taylor-swift-bonuses-eras-tour-truck-drivers).
+You can read more about it [here](https://www.pbs.org/newshour/politics/desantis-controlled-disney-world-district-abolishes-diversity-equity-initiatives).
 
 ## Requirements
 - Python 3.8
