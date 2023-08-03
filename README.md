@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691086160)
+![Generated GIF](output.gif?raw=true&v=1691087630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB trade deadline grades: Marks for all 30 teams as Angels and Rangers receive an 'A', Yankees fail**
+**Pittsburgh synagogue shooter sentenced to death for killing 11 worshippers in 2018 massacre**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-grades-marks-for-all-30-teams-as-angels-and-rangers-receive-an-a-yankees-fail/).
+You can read more about it [here](https://www.cnn.com/2023/08/02/us/pittsburgh-synagogue-shooting-trial-sentencing-deliberations/index.html).
 
 ## Requirements
 - Python 3.8
