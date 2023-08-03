@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691039165)
+![Generated GIF](output.gif?raw=true&v=1691040833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Euphoria stars share tributes to costar Angus Cloud | EW.com**
+**Taylor Swift gives Eras tour truckers $100,000 each, report says**
 
-You can read more about it [here](https://ew.com/tv/euphoria-stars-share-tributes-to-angus-cloud/).
+You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-01/taylor-swift-bonuses-eras-tour-truck-drivers).
 
 ## Requirements
 - Python 3.8
