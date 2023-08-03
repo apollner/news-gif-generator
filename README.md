@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691058842)
+![Generated GIF](output.gif?raw=true&v=1691060695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Framber Valdez throws 16th no-hitter in Astros history in 2-0 victory over Guardians**
+**COVID cases increasing in the metro area**
 
-You can read more about it [here](https://apnews.com/article/astros-valdez-no-hitter-guardians-houston-4638017011fd652b15eec587e693620e).
+You can read more about it [here](https://kstp.com/kstp-news/top-news/covid-cases-increasing-in-the-metro-area/).
 
 ## Requirements
 - Python 3.8
