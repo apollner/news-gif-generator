@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691098434)
+![Generated GIF](output.gif?raw=true&v=1691100341)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World Cup 2023: Carli Lloyd clarifies USWNT criticism after backlash from coach, former teammate**
+**AI-assisted cancer screening could cut radiologist workloads in half**
 
-You can read more about it [here](https://sports.yahoo.com/world-cup-2023-carli-lloyd-clarifies-uswnt-criticism-after-backlash-from-coach-former-teammate-175110536.html).
+You can read more about it [here](https://www.engadget.com/ai-assisted-cancer-screening-could-cut-radiologist-workloads-in-half-193427969.html).
 
 ## Requirements
 - Python 3.8
