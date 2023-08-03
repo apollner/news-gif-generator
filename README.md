@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691053601)
+![Generated GIF](output.gif?raw=true&v=1691055316)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The first of two August supermoons rises Tuesday. Here's how to see it in SoCal**
+**Drone attacks in Moscow's glittering business district leave residents on edge**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/local/two-august-supermoon-la-blue-moon-sturgeon/3197801/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-moscow-drone-attacks-defense-6abce11e9274c5509737b4ecd337c1fe).
 
 ## Requirements
 - Python 3.8
