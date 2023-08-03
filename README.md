@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691032045)
+![Generated GIF](output.gif?raw=true&v=1691033648)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zachery Ty Bryan's fiancée speaks out after his domestic violence arrest: 'It's a horrible situation'**
+**Starbucks misses quarterly sales estimates, sees lasting China rebound**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/zachery-ty-bryan-fiancee-domestic-violence-arrest-213002603.html).
+You can read more about it [here](https://www.reuters.com/business/retail-consumer/starbucks-misses-quarterly-sales-estimates-demand-wavers-2023-08-01/).
 
 ## Requirements
 - Python 3.8
