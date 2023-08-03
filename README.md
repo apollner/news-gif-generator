@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691019328)
+![Generated GIF](output.gif?raw=true&v=1691022955)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former President Trump indicted in special counsel probe of 2020 election interference: Live updates**
+**Why Trucking Giant Yellow's Shutdown Could Cost Taxpayers Money**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/01/trump-indictment-live-updates-former-president-predicts-charges.html).
+You can read more about it [here](https://www.wsj.com/articles/why-trucking-giant-yellows-shutdown-could-cost-taxpayers-money-863c6291).
 
 ## Requirements
 - Python 3.8
