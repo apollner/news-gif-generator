@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691022955)
+![Generated GIF](output.gif?raw=true&v=1691027750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Trucking Giant Yellow's Shutdown Could Cost Taxpayers Money**
+**Astros' Framber Valdez blanks Guardians for MLB's 3rd no-hitter - ESPN**
 
-You can read more about it [here](https://www.wsj.com/articles/why-trucking-giant-yellows-shutdown-could-cost-taxpayers-money-863c6291).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38117698/astros-framber-valdez-blanks-guardians-mlb-3rd-no-hitter).
 
 ## Requirements
 - Python 3.8
