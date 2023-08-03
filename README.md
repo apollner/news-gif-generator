@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691048048)
+![Generated GIF](output.gif?raw=true&v=1691050201)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Tanya Chutkan, the judge assigned in Trump’s 2020 election case?**
+**Live news: Asian equities decline after Fitch cuts US debt rating**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4132196-trump-indictment-judge-tanya-chutkan/).
+You can read more about it [here](https://www.ft.com/content/b0e815ed-28d3-45cb-89e9-3460d9b91ce1).
 
 ## Requirements
 - Python 3.8
