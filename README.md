@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691073223)
+![Generated GIF](output.gif?raw=true&v=1691075279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zendaya pays tribute to Euphoria co-star Angus Cloud**
+**Prepare to flick off your incandescent bulbs for good under new US rules that kicked in this week**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66375353).
+You can read more about it [here](https://apnews.com/article/incandescent-light-bulb-led-federal-energy-efficiency-rules-950ca7bd90453a5bde277f3002e67d83).
 
 ## Requirements
 - Python 3.8
