@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691030447)
+![Generated GIF](output.gif?raw=true&v=1691032045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump indicted over efforts to overturn his 2020 presidential election loss**
+**Zachery Ty Bryan's fiancée speaks out after his domestic violence arrest: 'It's a horrible situation'**
 
-You can read more about it [here](https://apnews.com/article/trump-indicted-jan-6-investigation-special-counsel-debb59bb7a4d9f93f7e2dace01feccdc).
+You can read more about it [here](https://www.yahoo.com/entertainment/zachery-ty-bryan-fiancee-domestic-violence-arrest-213002603.html).
 
 ## Requirements
 - Python 3.8
