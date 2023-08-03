@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691068310)
+![Generated GIF](output.gif?raw=true&v=1691069827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Hands-on With the Samsung Galaxy Z Flip 5**
+**2023 MLB trade deadline grades: Marks for all 30 teams as Angels and Rangers receive and 'A', Yankees fail**
 
-You can read more about it [here](https://gizmodo.com/samsung-galaxy-z-flip-5-hands-on-1850697358).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-grades-marks-for-all-30-teams-as-angels-and-rangers-receive-and-a-yankees-fail/).
 
 ## Requirements
 - Python 3.8
