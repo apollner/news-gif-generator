@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691071564)
+![Generated GIF](output.gif?raw=true&v=1691073223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why are leprosy cases surging in US state of Florida?**
+**Zendaya pays tribute to Euphoria co-star Angus Cloud**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/2/why-are-leprosy-cases-surging-in-us-state-of).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66375353).
 
 ## Requirements
 - Python 3.8
