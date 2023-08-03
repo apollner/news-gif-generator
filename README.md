@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691093163)
+![Generated GIF](output.gif?raw=true&v=1691094838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palia Kicks Off Closed Beta with a Cozy-as-Heck Cinematic Trailer**
+**What Jim Crane texted Justin Verlander after blockbuster trade**
 
-You can read more about it [here](https://www.ign.com/articles/palia-kicks-off-closed-beta-with-a-cozy-as-heck-cinematic-trailer).
+You can read more about it [here](https://www.chron.com/sports/astros/article/jim-crane-justin-verlander-return-text-18273161.php).
 
 ## Requirements
 - Python 3.8
