@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691089514)
+![Generated GIF](output.gif?raw=true&v=1691091237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mega Millions jackpot climbs to $1.25 billion after no one wins**
+**Heaviest rainfall in 140 years drenches Beijing while Typhoon Khanun hits Japan’s Okinawa**
 
-You can read more about it [here](https://apnews.com/article/mega-millions-lottery-jackpot-03fc7b69e96c0d0a94f05dcab08d35a5).
+You can read more about it [here](https://www.cnn.com/2023/08/02/asia/typhoon-khanun-japan-doksuri-china-rain-record-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
