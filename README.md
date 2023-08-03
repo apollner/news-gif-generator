@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691102014)
+![Generated GIF](output.gif?raw=true&v=1691103969)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US workers estimate they need $1.8M to retire: survey**
+**Senate buildings given all-clear after bogus 911 call alerting of active shooter**
 
-You can read more about it [here](https://thehill.com/business/4133740-us-workers-retirement-estimate-survey/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/02/senate-possible-shooter-police/70515263007/).
 
 ## Requirements
 - Python 3.8
