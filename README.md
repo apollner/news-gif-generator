@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691051639)
+![Generated GIF](output.gif?raw=true&v=1691053601)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB trade deadline winners and losers: Yankees, Red Sox, Orioles needed more, plus silver lining for Mets fans**
+**The first of two August supermoons rises Tuesday. Here's how to see it in SoCal**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-winners-and-losers-yankees-red-sox-orioles-needed-more-plus-silver-lining-for-mets-fans/).
+You can read more about it [here](https://www.nbclosangeles.com/news/local/two-august-supermoon-la-blue-moon-sturgeon/3197801/).
 
 ## Requirements
 - Python 3.8
