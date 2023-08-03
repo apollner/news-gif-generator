@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691060695)
+![Generated GIF](output.gif?raw=true&v=1691062441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID cases increasing in the metro area**
+**Tests for genetic cancer risk are cheap, but many patients don't get them : Shots - Health News**
 
-You can read more about it [here](https://kstp.com/kstp-news/top-news/covid-cases-increasing-in-the-metro-area/).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/08/02/1191419631/cancer-risk-test-genetic-genes-inexpensive-why-dont-more-people-get-tested).
 
 ## Requirements
 - Python 3.8
