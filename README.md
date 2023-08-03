@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691044544)
+![Generated GIF](output.gif?raw=true&v=1691046353)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis-controlled Disney World district abolishes diversity, equity initiatives**
+**Donald Trump has been indicted in special counsel’s 2020 election interference probe**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/desantis-controlled-disney-world-district-abolishes-diversity-equity-initiatives).
+You can read more about it [here](https://www.cnn.com/2023/08/01/politics/donald-trump-indictment-grand-jury-2020-election/index.html).
 
 ## Requirements
 - Python 3.8
