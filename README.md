@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691033648)
+![Generated GIF](output.gif?raw=true&v=1691035763)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starbucks misses quarterly sales estimates, sees lasting China rebound**
+**Lawsuit by former dancers accuses Lizzo of sexual harassment and creating a hostile work environment**
 
-You can read more about it [here](https://www.reuters.com/business/retail-consumer/starbucks-misses-quarterly-sales-estimates-demand-wavers-2023-08-01/).
+You can read more about it [here](https://apnews.com/article/lizzo-dancers-lawsuit-ea96f4c865bdd48fa8056a92cf14e7a7).
 
 ## Requirements
 - Python 3.8
