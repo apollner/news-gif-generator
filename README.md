@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691125557)
+![Generated GIF](output.gif?raw=true&v=1691127223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump lawyer hints at a First Amendment defense in the Jan. 6 case. Some legal experts are dubious**
+**Cramer explains stock moves after debt downgrade, tells investors to raise cash and curb bullishness**
 
-You can read more about it [here](https://apnews.com/article/trump-indicted-jan-6-investigation-special-counsel-b0379e29ab2e58b7040d280a9211ea6a).
+You can read more about it [here](https://www.cnbc.com/2023/08/02/jim-cramer-on-fitch-debt-downgrade-raise-cash-and-curb-bullishness.html).
 
 ## Requirements
 - Python 3.8
