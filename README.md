@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691156057)
+![Generated GIF](output.gif?raw=true&v=1691157952)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Foreign buyers less present in the US housing market. Here's why.**
+**The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/03/less-foreign-buyers-us-housing-market/70514322007/).
+You can read more about it [here](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/).
 
 ## Requirements
 - Python 3.8
