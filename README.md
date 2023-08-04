@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691118459)
+![Generated GIF](output.gif?raw=true&v=1691120034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carli Lloyd walks back criticism of USWNT after backlash**
+**Disney's governing district in Florida slashes all DEI programs**
 
-You can read more about it [here](https://www.theguardian.com/football/2023/aug/02/carli-lloyd-walks-back-uswnt-criticism-fox-world-cup).
+You can read more about it [here](https://www.cnn.com/2023/08/02/politics/disney-reedy-creek-dei/index.html).
 
 ## Requirements
 - Python 3.8
