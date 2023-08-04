@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691122130)
+![Generated GIF](output.gif?raw=true&v=1691123638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Los Angeles officials fear increase in homeless population after back rent deadline passes**
+**Wisconsin Supreme Court chief justice accuses liberals of 'raw exercise of overreaching power'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qLVdTHqffhI).
+You can read more about it [here](https://apnews.com/article/wisconsin-supreme-court-chief-accuses-liberals-c7a090415865145fb23239915af86458).
 
 ## Requirements
 - Python 3.8
