@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691141636)
+![Generated GIF](output.gif?raw=true&v=1691143608)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Treasury Yields Climb Past 4% as Equities Sell Off: Markets Wrap**
+**Canada’s Prime Minister Justin Trudeau and wife Sophie are separating**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-fall-us-shares-223922238.html).
+You can read more about it [here](https://www.cnn.com/2023/08/02/americas/canada-justin-trudeau-separating-intl/index.html).
 
 ## Requirements
 - Python 3.8
