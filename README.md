@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691151156)
+![Generated GIF](output.gif?raw=true&v=1691153383)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami coach expects rough treatment of Messi in Leagues Cup - ESPN**
+**Russia strikes key Ukrainian port**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38125364/miami-coach-expects-rough-treatment-messi-leagues-cup).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/08/03/exp-russia-ukraine-fred-pleitgen-pkg-080312aseg1-cnni-world.cnn).
 
 ## Requirements
 - Python 3.8
