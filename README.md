@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691157952)
+![Generated GIF](output.gif?raw=true&v=1691161564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?**
+**Greenpeace drapes UK leader Sunak’s home in black fabric over oil policy**
 
-You can read more about it [here](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/3/greenpeace-drapes-uk-leader-sunaks-home-in-black-fabric-over-oil-policy).
 
 ## Requirements
 - Python 3.8
