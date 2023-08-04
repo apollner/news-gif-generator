@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691165358)
+![Generated GIF](output.gif?raw=true&v=1691167000)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB Power Rankings Week 18: Every team's standing post-deadline - ESPN**
+**Travis King: North Korea responds to U.N. over American soldier**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38121409/mlb-power-rankings-2023-week-18-every-team-post-trade-deadline).
+You can read more about it [here](https://www.nbcnews.com/news/world/travis-king-north-korea-responds-un-american-soldier-rcna97914).
 
 ## Requirements
 - Python 3.8
