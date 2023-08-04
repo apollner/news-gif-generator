@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691183125)
+![Generated GIF](output.gif?raw=true&v=1691184822)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift announces 'Eras Tour' dates for New Orleans next year**
+**Researchers reveal Tesla jailbreak that could unlock Full Self-Driving for free**
 
-You can read more about it [here](https://www.wdsu.com/article/new-orleans-taylor-swift-eras-tour-dates/44723753).
+You can read more about it [here](https://www.engadget.com/researchers-reveal-tesla-jailbreak-that-could-unlock-full-self-driving-for-free-190431645.html).
 
 ## Requirements
 - Python 3.8
