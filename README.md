@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691143608)
+![Generated GIF](output.gif?raw=true&v=1691145265)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada’s Prime Minister Justin Trudeau and wife Sophie are separating**
+**Lionel Messi scores TWO GOALS for Inter Miami CF vs. Orlando City 🐐🔥**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/americas/canada-justin-trudeau-separating-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=AP1h41kc2yk).
 
 ## Requirements
 - Python 3.8
