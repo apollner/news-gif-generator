@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691116887)
+![Generated GIF](output.gif?raw=true&v=1691118459)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police search Senate office buildings after report of active shooter; later declare it a false alarm**
+**Carli Lloyd walks back criticism of USWNT after backlash**
 
-You can read more about it [here](https://apnews.com/article/congress-senate-lockdown-capitol-police-acf2c7c341e3445f190a59e0aaf52067).
+You can read more about it [here](https://www.theguardian.com/football/2023/aug/02/carli-lloyd-walks-back-uswnt-criticism-fox-world-cup).
 
 ## Requirements
 - Python 3.8
