@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691136607)
+![Generated GIF](output.gif?raw=true&v=1691138033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Pittsburgh synagogue gunman will be sentenced to death**
+**Tensions high on NATO’s border with Belarus after Wagner troops move closer**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GOImPjbuWt8).
+You can read more about it [here](https://www.cnn.com/2023/08/02/europe/poland-belarus-wagner-nato-tensions-intl/index.html).
 
 ## Requirements
 - Python 3.8
