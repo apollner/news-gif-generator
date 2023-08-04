@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691140002)
+![Generated GIF](output.gif?raw=true&v=1691141636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No shooter, no injuries at US Capitol after 'bogus call,' police say**
+**Treasury Yields Climb Past 4% as Equities Sell Off: Markets Wrap**
 
-You can read more about it [here](https://www.reuters.com/world/us/active-shooter-reported-us-capitol-police-say-2023-08-02/).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-fall-us-shares-223922238.html).
 
 ## Requirements
 - Python 3.8
