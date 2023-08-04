@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691163228)
+![Generated GIF](output.gif?raw=true&v=1691165358)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Comer Releases Devon Archer's Transcribed Interview Transcript - United States House Committee on Oversight and Accountability**
+**MLB Power Rankings Week 18: Every team's standing post-deadline - ESPN**
 
-You can read more about it [here](https://oversight.house.gov/release/comer-releases-devon-archers-transcribed-interview-transcript￼/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38121409/mlb-power-rankings-2023-week-18-every-team-post-trade-deadline).
 
 ## Requirements
 - Python 3.8
