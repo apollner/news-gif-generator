@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691132850)
+![Generated GIF](output.gif?raw=true&v=1691134439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Reese Witherspoon and Jim Toth Settle Their Divorce 4 Months After Announcing Breakup**
+**Asian shares stumble as US yields advance, dollar buoyant**
 
-You can read more about it [here](https://www.eonline.com/news/1382090/reese-witherspoon-and-jim-toth-settle-their-divorce-4-months-after-announcing-breakup).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-03/).
 
 ## Requirements
 - Python 3.8
