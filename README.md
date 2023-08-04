@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691170430)
+![Generated GIF](output.gif?raw=true&v=1691172628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hackers manage to unlock Tesla software-locked features worth up to $15000**
+**Bud Light sales slump following boycott over Anheuser-Busch promotion with Dylan Mulvaney**
 
-You can read more about it [here](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/).
+You can read more about it [here](https://www.cbsnews.com/news/bud-light-anheuser-busch-dylan-mulvaney-beer-sales/).
 
 ## Requirements
 - Python 3.8
