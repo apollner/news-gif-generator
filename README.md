@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691186757)
+![Generated GIF](output.gif?raw=true&v=1691188419)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2 US Navy sailors arrested on charges tied to national security and China**
+**Who is Jeanne Marrazzo? Inside Anthony Fauci’s replacement as NIAID director**
 
-You can read more about it [here](https://apnews.com/article/espionage-us-navy-arrests-national-security-china-b81514864f8cab253b4d29caa3594a72).
+You can read more about it [here](https://www.vox.com/2023/8/3/23818831/marrazzo-jeanne-niaid-fauci-replacement-sti-infectious-diseases).
 
 ## Requirements
 - Python 3.8
