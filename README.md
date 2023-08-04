@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691145265)
+![Generated GIF](output.gif?raw=true&v=1691147120)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi scores TWO GOALS for Inter Miami CF vs. Orlando City 🐐🔥**
+**Oscar Nominee Sophia Nahli Allison Says She Walked Away From Directing Lizzo Documentary After Being “Treated With Such Disrespect” By Singer**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AP1h41kc2yk).
+You can read more about it [here](https://deadline.com/2023/08/sophia-nahli-allison-lizzo-documentary-exit-bad-behavior-1235453802/).
 
 ## Requirements
 - Python 3.8
