@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691190347)
+![Generated GIF](output.gif?raw=true&v=1691192049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 NFL Hall of Fame Game: Jets vs Browns GAME PREVIEW | CBS Sports**
+**Studios Respond To WGA’s “Calculated Disinformation”, “Tired Playbook” Remarks; “Rhetoric Is Unfortunate,” AMPTP Says Ahead Of Friday Meeting – Update**
 
-You can read more about it [here](https://www.youtube.com/watch?v=edtcLXA-a-U).
+You can read more about it [here](https://deadline.com/2023/08/wga-strike-studio-talks-criticism-response-amptp-1235454546/).
 
 ## Requirements
 - Python 3.8
