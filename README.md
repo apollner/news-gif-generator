@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691130857)
+![Generated GIF](output.gif?raw=true&v=1691132850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Messi scores in third straight game for Inter Miami after 95-minute weather delay**
+**Reese Witherspoon and Jim Toth Settle Their Divorce 4 Months After Announcing Breakup**
 
-You can read more about it [here](https://apnews.com/article/messi-inter-miami-mls-bd0246b747572c84b5c79b653088c55f).
+You can read more about it [here](https://www.eonline.com/news/1382090/reese-witherspoon-and-jim-toth-settle-their-divorce-4-months-after-announcing-breakup).
 
 ## Requirements
 - Python 3.8
