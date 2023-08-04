@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691147120)
+![Generated GIF](output.gif?raw=true&v=1691148818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oscar Nominee Sophia Nahli Allison Says She Walked Away From Directing Lizzo Documentary After Being “Treated With Such Disrespect” By Singer**
+**Woman's escape from cinder block cell likely spared others from same fate, FBI says**
 
-You can read more about it [here](https://deadline.com/2023/08/sophia-nahli-allison-lizzo-documentary-exit-bad-behavior-1235453802/).
+You can read more about it [here](https://www.npr.org/2023/08/03/1191789895/woman-escape-from-cell-likely-spared-others).
 
 ## Requirements
 - Python 3.8
