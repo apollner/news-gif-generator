@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691167000)
+![Generated GIF](output.gif?raw=true&v=1691168752)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis King: North Korea responds to U.N. over American soldier**
+**Sen. Joe Manchin on Fitch's U.S. rating downgrade: We have a fiscal runaway train**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/travis-king-north-korea-responds-un-american-soldier-rcna97914).
+You can read more about it [here](https://www.youtube.com/watch?v=DKqWO6eWuaA).
 
 ## Requirements
 - Python 3.8
