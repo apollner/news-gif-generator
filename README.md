@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691114228)
+![Generated GIF](output.gif?raw=true&v=1691115961)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cops Identify Body That Was Found in Barrel on Beach in Malibu**
+**NIH taps Jeanne Marrazzo to succeed Fauci as infectious-disease chief**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OpoFUlLVFgY).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/02/new-nih-niaid-director-jeanne-marrazzo-anothony-fauci/).
 
 ## Requirements
 - Python 3.8
