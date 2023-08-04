@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691181244)
+![Generated GIF](output.gif?raw=true&v=1691183125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fact check: The day after his indictment, Trump lies again about Pence’s powers on January 6**
+**Taylor Swift announces 'Eras Tour' dates for New Orleans next year**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/fact-check-trump-pence-electoral-count-2022/index.html).
+You can read more about it [here](https://www.wdsu.com/article/new-orleans-taylor-swift-eras-tour-dates/44723753).
 
 ## Requirements
 - Python 3.8
