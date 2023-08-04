@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691129400)
+![Generated GIF](output.gif?raw=true&v=1691130857)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump lawyer hints at a First Amendment defense in the Jan. 6 case. Some legal experts are dubious**
+**Messi scores in third straight game for Inter Miami after 95-minute weather delay**
 
-You can read more about it [here](https://apnews.com/article/trump-indicted-jan-6-investigation-special-counsel-b0379e29ab2e58b7040d280a9211ea6a).
+You can read more about it [here](https://apnews.com/article/messi-inter-miami-mls-bd0246b747572c84b5c79b653088c55f).
 
 ## Requirements
 - Python 3.8
