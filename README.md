@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691177638)
+![Generated GIF](output.gif?raw=true&v=1691179610)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Devon Archer says Joe Biden discussed ‘nothing’ important with Hunter Biden business associates, transcript shows**
+**Fantasy Football ADP Analysis: Two key running backs are going in different directions**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/devon-archer-testimony-transcript/index.html).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-adp-analysis-two-key-running-backs-are-going-in-different-directions-154826460.html).
 
 ## Requirements
 - Python 3.8
