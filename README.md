@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691172628)
+![Generated GIF](output.gif?raw=true&v=1691174042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bud Light sales slump following boycott over Anheuser-Busch promotion with Dylan Mulvaney**
+**Ukraine war live updates: Russia bombs 18th-century cathedral**
 
-You can read more about it [here](https://www.cbsnews.com/news/bud-light-anheuser-busch-dylan-mulvaney-beer-sales/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/08/03/ukraine-russia-war-live-updates/70519101007/).
 
 ## Requirements
 - Python 3.8
