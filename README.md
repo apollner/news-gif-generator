@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691148818)
+![Generated GIF](output.gif?raw=true&v=1691151156)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman's escape from cinder block cell likely spared others from same fate, FBI says**
+**Miami coach expects rough treatment of Messi in Leagues Cup - ESPN**
 
-You can read more about it [here](https://www.npr.org/2023/08/03/1191789895/woman-escape-from-cell-likely-spared-others).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38125364/miami-coach-expects-rough-treatment-messi-leagues-cup).
 
 ## Requirements
 - Python 3.8
