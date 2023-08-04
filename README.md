@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691179610)
+![Generated GIF](output.gif?raw=true&v=1691181244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football ADP Analysis: Two key running backs are going in different directions**
+**Fact check: The day after his indictment, Trump lies again about Pence’s powers on January 6**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-adp-analysis-two-key-running-backs-are-going-in-different-directions-154826460.html).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/fact-check-trump-pence-electoral-count-2022/index.html).
 
 ## Requirements
 - Python 3.8
