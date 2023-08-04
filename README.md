@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691120034)
+![Generated GIF](output.gif?raw=true&v=1691122130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney's governing district in Florida slashes all DEI programs**
+**Los Angeles officials fear increase in homeless population after back rent deadline passes**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/politics/disney-reedy-creek-dei/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qLVdTHqffhI).
 
 ## Requirements
 - Python 3.8
