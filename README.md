@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691228026)
+![Generated GIF](output.gif?raw=true&v=1691229933)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A kidnapped woman punched her way out of a cinderblock cell. Police say she may have saved countless other victims**
+**New York Jets vs. Cleveland Browns Game Highlights | 2023 Hall of Fame Game**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/negasi-zuberi-klamath-falls-kidnapper-oregon-b2387437.html).
+You can read more about it [here](https://www.youtube.com/watch?v=YaGj6oT7OJ8).
 
 ## Requirements
 - Python 3.8
