@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691239564)
+![Generated GIF](output.gif?raw=true&v=1691240789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump indictment could dominate 2024 GOP presidential nomination race: 'It will be inescapable'**
+**Niger’s ousted president warns of ‘devastating’ coup impact, growing Russian influence**
 
-You can read more about it [here](https://www.foxnews.com/politics/trump-indictment-could-dominate-2024-gop-presidential-nomination-race-it-will-be-inescapable).
+You can read more about it [here](https://www.cnn.com/2023/08/04/africa/niger-president-mohamed-bazoum-hostage-oped-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
