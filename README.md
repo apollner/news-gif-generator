@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691206544)
+![Generated GIF](output.gif?raw=true&v=1691208528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon CEO Jassy's cost cuts deliver investors biggest profit beat since 2020**
+**Studios Respond To WGA’s “Calculated Disinformation”, “Tired Playbook” Remarks; “Rhetoric Is Unfortunate,” AMPTP Says Ahead Of Friday Meeting – Update**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/03/amazon-ceo-jassys-cost-cuts-produce-biggest-profit-beat-since-2020.html).
+You can read more about it [here](https://deadline.com/2023/08/wga-strike-studio-talks-criticism-response-amptp-1235454546/).
 
 ## Requirements
 - Python 3.8
