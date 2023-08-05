@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691192049)
+![Generated GIF](output.gif?raw=true&v=1691195699)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Studios Respond To WGA’s “Calculated Disinformation”, “Tired Playbook” Remarks; “Rhetoric Is Unfortunate,” AMPTP Says Ahead Of Friday Meeting – Update**
+**Cardi B will not be charged related to microphone-throwing incident, police say**
 
-You can read more about it [here](https://deadline.com/2023/08/wga-strike-studio-talks-criticism-response-amptp-1235454546/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/entertainment/cardi-b-microphone-cleared/index.html).
 
 ## Requirements
 - Python 3.8
