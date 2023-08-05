@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691247932)
+![Generated GIF](output.gif?raw=true&v=1691249717)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How extreme heat is making your gas more expensive**
+**Nikola loss narrows as production of fuel-cell semitruck begins; company says CEO to step down**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/business/gas-prices-extreme-heat/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/04/nikola-nkla-q2-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
