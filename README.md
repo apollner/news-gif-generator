@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691262261)
+![Generated GIF](output.gif?raw=true&v=1691265940)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida effectively bans AP Psychology for gender, sex content: College Board**
+**Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices**
 
-You can read more about it [here](https://abcnews.go.com/US/florida-effectively-bans-ap-psychology-gender-sex-content/story?id=101996465).
+You can read more about it [here](https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/).
 
 ## Requirements
 - Python 3.8
