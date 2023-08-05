@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691274821)
+![Generated GIF](output.gif?raw=true&v=1691276706)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saints' Alvin Kamara suspended three games to start 2023 season, admits wrongdoing in off-field incident**
+**Niger: ECOWAS finalizes potential military intervention plan**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saints-alvin-kamara-suspended-three-games-to-start-2023-season-admits-wrongdoing-in-off-field-incident/).
+You can read more about it [here](https://www.dw.com/en/niger-ecowas-finalizes-potential-military-intervention-plan/a-66438305).
 
 ## Requirements
 - Python 3.8
