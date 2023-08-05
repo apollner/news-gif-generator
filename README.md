@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691246028)
+![Generated GIF](output.gif?raw=true&v=1691247932)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baldur's Game 3 peaks at over 472k concurrent players, second biggest launch of 2023 in terms of CCU**
+**How extreme heat is making your gas more expensive**
 
-You can read more about it [here](https://gameworldobserver.com/2023/08/04/baldurs-game-3-472k-ccu-second-biggest-steam-launch).
+You can read more about it [here](https://www.cnn.com/2023/08/04/business/gas-prices-extreme-heat/index.html).
 
 ## Requirements
 - Python 3.8
