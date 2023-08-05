@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691235220)
+![Generated GIF](output.gif?raw=true&v=1691237465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida inmate James Phillip Barnes forgoes last meal before execution**
+**Trump’s surreal arraignment day in Washington augurs ominous days ahead**
 
-You can read more about it [here](https://nypost.com/2023/08/04/florida-inmate-james-phillip-barnes-forgoes-last-meal-before-execution/).
+You can read more about it [here](https://www.cnn.com/2023/08/04/politics/trump-arraignment-subvert-democracy/index.html).
 
 ## Requirements
 - Python 3.8
