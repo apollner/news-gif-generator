@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691217224)
+![Generated GIF](output.gif?raw=true&v=1691219093)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Both expelled members of 'Tennessee Three' win back their state House seats**
+**6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men**
 
-You can read more about it [here](https://apnews.com/article/tennessee-three-election-lawmakers-expelled-1ae19a1bd5f042624568e94b30c8fc1b).
+You can read more about it [here](https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html).
 
 ## Requirements
 - Python 3.8
