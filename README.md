@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691220939)
+![Generated GIF](output.gif?raw=true&v=1691223014)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine attacks Russian navy base near Novorossiysk**
+**Exclusive: Barr obliterates Trump’s defense: ‘He knew well that he had lost the election’**
 
-You can read more about it [here](https://www.reuters.com/world/europe/blasts-gunfire-reported-near-russian-black-sea-port-novorossiysk-2023-08-04/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/bill-barr-trump-arraignment-2020-election/index.html).
 
 ## Requirements
 - Python 3.8
