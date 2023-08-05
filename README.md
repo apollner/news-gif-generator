@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691256838)
+![Generated GIF](output.gif?raw=true&v=1691258847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A cyberattack has disrupted hospitals and health care in five states**
+**Florida effectively bans AP Psychology for gender, sex content: College Board**
 
-You can read more about it [here](https://apnews.com/article/cyberattack-hospital-emergency-outage-4c808c1dad8686458ecbeababd08fecf).
+You can read more about it [here](https://abcnews.go.com/US/florida-effectively-bans-ap-psychology-gender-sex-content/story?id=101996465).
 
 ## Requirements
 - Python 3.8
