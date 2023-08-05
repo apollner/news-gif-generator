@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691223014)
+![Generated GIF](output.gif?raw=true&v=1691226309)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: Barr obliterates Trump’s defense: ‘He knew well that he had lost the election’**
+**EXCLUSIVE: Ex-partner of accused Oregon kidnapper denies FBI allegations**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/bill-barr-trump-arraignment-2020-election/index.html).
+You can read more about it [here](https://www.kptv.com/2023/08/04/exclusive-ex-partner-accused-oregon-kidnapper-denies-fbi-allegations/).
 
 ## Requirements
 - Python 3.8
