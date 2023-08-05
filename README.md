@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691211935)
+![Generated GIF](output.gif?raw=true&v=1691213643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists discover the highest-energy light coming from the sun**
+**Jason Statham's The Meg 2 panned in early reviews as Rotten Tomatoes score revealed**
 
-You can read more about it [here](https://phys.org/news/2023-08-scientists-highest-energy-sun.html).
+You can read more about it [here](https://www.digitalspy.com/movies/a44727605/jason-statham-meg-2-first-reviews-rotten-tomatoes/).
 
 ## Requirements
 - Python 3.8
