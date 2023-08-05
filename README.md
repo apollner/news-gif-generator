@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691233483)
+![Generated GIF](output.gif?raw=true&v=1691235220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lawyer for Idaho college killings suspect Bryan Kohberger says he was driving alone night of murders**
+**Florida inmate James Phillip Barnes forgoes last meal before execution**
 
-You can read more about it [here](https://abcnews.go.com/US/lawyer-idaho-college-killings-suspect-bryan-kohberger-driving/story?id=101999965).
+You can read more about it [here](https://nypost.com/2023/08/04/florida-inmate-james-phillip-barnes-forgoes-last-meal-before-execution/).
 
 ## Requirements
 - Python 3.8
