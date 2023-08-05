@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691204812)
+![Generated GIF](output.gif?raw=true&v=1691206544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Babies should get recently approved drug for RSV, CDC says**
+**Amazon CEO Jassy's cost cuts deliver investors biggest profit beat since 2020**
 
-You can read more about it [here](https://apnews.com/article/rsv-babies-drug-cdc-astrazeneca-sanofi-shot-c03b72aaa51e59176cfa3feb3ceac06c).
+You can read more about it [here](https://www.cnbc.com/2023/08/03/amazon-ceo-jassys-cost-cuts-produce-biggest-profit-beat-since-2020.html).
 
 ## Requirements
 - Python 3.8
