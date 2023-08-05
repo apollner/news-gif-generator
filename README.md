@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691276706)
+![Generated GIF](output.gif?raw=true&v=1691278424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger: ECOWAS finalizes potential military intervention plan**
+**Bloomsbury US CEO killed in boating accident on Italy’s Amalfi Coast**
 
-You can read more about it [here](https://www.dw.com/en/niger-ecowas-finalizes-potential-military-intervention-plan/a-66438305).
+You can read more about it [here](https://www.cnn.com/2023/08/04/us/us-tourist-killed-italy-boating-accident/index.html).
 
 ## Requirements
 - Python 3.8
