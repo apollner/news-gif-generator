@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691226309)
+![Generated GIF](output.gif?raw=true&v=1691228026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**EXCLUSIVE: Ex-partner of accused Oregon kidnapper denies FBI allegations**
+**A kidnapped woman punched her way out of a cinderblock cell. Police say she may have saved countless other victims**
 
-You can read more about it [here](https://www.kptv.com/2023/08/04/exclusive-ex-partner-accused-oregon-kidnapper-denies-fbi-allegations/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/negasi-zuberi-klamath-falls-kidnapper-oregon-b2387437.html).
 
 ## Requirements
 - Python 3.8
