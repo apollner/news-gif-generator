@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691255108)
+![Generated GIF](output.gif?raw=true&v=1691256838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orange County judge arrested in fatal shooting of wife at Anaheim Hills home, police say**
+**A cyberattack has disrupted hospitals and health care in five states**
 
-You can read more about it [here](https://abc7.com/judge-wife-shooting-anaheim-hills/13597743/).
+You can read more about it [here](https://apnews.com/article/cyberattack-hospital-emergency-outage-4c808c1dad8686458ecbeababd08fecf).
 
 ## Requirements
 - Python 3.8
