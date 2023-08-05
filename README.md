@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691229933)
+![Generated GIF](output.gif?raw=true&v=1691231638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Jets vs. Cleveland Browns Game Highlights | 2023 Hall of Fame Game**
+**Ukraine's Zelenskiy decries 'revolting' practices at recruitment centres**
 
-You can read more about it [here](https://www.youtube.com/watch?v=YaGj6oT7OJ8).
+You can read more about it [here](https://news.yahoo.com/ukraines-zelenskiy-decries-revolting-practices-235522891.html).
 
 ## Requirements
 - Python 3.8
