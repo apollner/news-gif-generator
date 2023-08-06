@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691334311)
+![Generated GIF](output.gif?raw=true&v=1691336035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WWE SmackDown Results: Winners And Grades Before SummerSlam 2023**
+**Pope visits Portuguese shrine known for apocalyptic prophesy linked to Russia as war rages on**
 
-You can read more about it [here](https://www.forbes.com/sites/alfredkonuwa/2023/08/05/wwe-smackdown-results-winners-and-grades-before-summerslam-2023/).
+You can read more about it [here](https://apnews.com/article/portugal-pope-fatima-world-youth-day-ukraine-russia-5154121a45ae768b21f4e8555b72d9e4).
 
 ## Requirements
 - Python 3.8
