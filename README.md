@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691309331)
+![Generated GIF](output.gif?raw=true&v=1691310864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Voyager 2: NASA restores contact with spacecraft**
+**A judge has ruled Texas' abortion ban is too restrictive for women with pregnancy complications**
 
-You can read more about it [here](https://www.dw.com/en/voyager-2-nasa-restores-contact-with-spacecraft/a-66446550).
+You can read more about it [here](https://apnews.com/article/abortion-texas-lawsuit-ban-exceptions-women-denied-pregnancy-d90f3bce68d86e5eafe3ba4ba5939188).
 
 ## Requirements
 - Python 3.8
