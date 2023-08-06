@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691307219)
+![Generated GIF](output.gif?raw=true&v=1691309331)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida education officials may lift ban on AP psychology course: report**
+**Voyager 2: NASA restores contact with spacecraft**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4138648-florida-education-ap-psychology-course-ban/).
+You can read more about it [here](https://www.dw.com/en/voyager-2-nasa-restores-contact-with-spacecraft/a-66446550).
 
 ## Requirements
 - Python 3.8
