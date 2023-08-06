@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691292856)
+![Generated GIF](output.gif?raw=true&v=1691294935)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Webb telescope captures iconic Ring Nebula in unprecedented detail**
+**Niger coup: Decision time for West Africa as deadline nears**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/world/webb-telescope-ring-nebula-scn/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66405253).
 
 ## Requirements
 - Python 3.8
