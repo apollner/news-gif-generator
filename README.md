@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691359505)
+![Generated GIF](output.gif?raw=true&v=1691361222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukrainian sea drone hits Russian tanker near Crimea Bridge, second such attack in 24 hours**
+**Social media influencer Kai Cenat faces charges of inciting riot after thousands cause mayhem in NYC**
 
-You can read more about it [here](https://thehill.com/policy/international/4139049-ukrainian-sea-drone-hits-russian-tanker-near-crimea-bridge-second-such-attack-in-24-hours/).
+You can read more about it [here](https://apnews.com/article/kai-cenat-twitch-new-york-city-riot-25eed27329bc911ece05fdd92c284fac).
 
 ## Requirements
 - Python 3.8
