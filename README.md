@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691341498)
+![Generated GIF](output.gif?raw=true&v=1691343244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actress Changes Name After Filing for Divorce**
+**Big Ten grabs Oregon, Washington; Big 12 completes Pac-12 raid with Arizona, Arizona State and Utah**
 
-You can read more about it [here](https://www.thedailybeast.com/actress-sophia-bush-to-divorce-husband-grant-hughes-after-one-year-of-marriage).
+You can read more about it [here](https://apnews.com/article/pac12-big-ten-big12-conference-realignment-washington-oregon-f9f066d554b54ab600f798d91193aee4).
 
 ## Requirements
 - Python 3.8
