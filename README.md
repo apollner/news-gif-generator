@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691321646)
+![Generated GIF](output.gif?raw=true&v=1691323909)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors ask judge to issue protective order after Trump post**
+**Two people caught swine flu after visiting pig exhibits at agricultural fairs, CDC reports**
 
-You can read more about it [here](https://www.npr.org/2023/08/05/1192336975/doj-asks-judge-issue-protective-order-after-trump-post).
+You can read more about it [here](https://www.cnn.com/2023/08/04/health/swine-flu-michigan-fair-cdc/index.html).
 
 ## Requirements
 - Python 3.8
