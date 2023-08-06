@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691319947)
+![Generated GIF](output.gif?raw=true&v=1691321646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jey Uso sends one last message to Roman Reigns before SummerSlam: SmackDown highlights, Aug. 4, 2023**
+**Prosecutors ask judge to issue protective order after Trump post**
 
-You can read more about it [here](https://www.youtube.com/watch?v=52mTwztStlw).
+You can read more about it [here](https://www.npr.org/2023/08/05/1192336975/doj-asks-judge-issue-protective-order-after-trump-post).
 
 ## Requirements
 - Python 3.8
