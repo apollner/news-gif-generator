@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691363152)
+![Generated GIF](output.gif?raw=true&v=1691364836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**O'Shae Sibley killing: Teen charged with hate crime after fatal stabbing**
+**Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/05/oshae-sibley-killing-hate-crime-charges/).
+You can read more about it [here](https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358).
 
 ## Requirements
 - Python 3.8
