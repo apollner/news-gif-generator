@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691350441)
+![Generated GIF](output.gif?raw=true&v=1691352354)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jamie Foxx apologizes for apparent antisemitic Instagram post; Jennifer Aniston apologizes for liking it**
+**A few changes to early week storm you should know**
 
-You can read more about it [here](https://ktla.com/entertainment/jamie-foxx-apologizes-for-apparent-antisemitic-instagram-post-jennifer-aniston-apologizes-for-liking-it/).
+You can read more about it [here](https://www.mlive.com/weather/2023/08/a-few-changes-to-early-week-storm-you-should-know.html).
 
 ## Requirements
 - Python 3.8
