@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691300045)
+![Generated GIF](output.gif?raw=true&v=1691302173)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger coup: Decision time for West Africa as deadline nears**
+**Exclusive: UBS nears major investment bank restructuring**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66405253).
+You can read more about it [here](https://www.reuters.com/business/finance/ubs-nears-major-investment-bank-restructuring-sources-2023-08-04/).
 
 ## Requirements
 - Python 3.8
