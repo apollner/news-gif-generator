@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691339762)
+![Generated GIF](output.gif?raw=true&v=1691341498)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope visits Portuguese shrine known for apocalyptic prophesy linked to Russia as war rages on**
+**Actress Changes Name After Filing for Divorce**
 
-You can read more about it [here](https://apnews.com/article/portugal-pope-fatima-world-youth-day-ukraine-russia-5154121a45ae768b21f4e8555b72d9e4).
+You can read more about it [here](https://www.thedailybeast.com/actress-sophia-bush-to-divorce-husband-grant-hughes-after-one-year-of-marriage).
 
 ## Requirements
 - Python 3.8
