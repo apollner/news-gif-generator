@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691298344)
+![Generated GIF](output.gif?raw=true&v=1691300045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Twitch streamer in custody after giveaway draws huge crowds to Union Square in New York City**
+**Niger coup: Decision time for West Africa as deadline nears**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/us/kai-cenat-union-square-nyc-crowds/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66405253).
 
 ## Requirements
 - Python 3.8
