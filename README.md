@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691328833)
+![Generated GIF](output.gif?raw=true&v=1691330716)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Red-hot Japan trounce Norway 3-1 to reach Women’s World Cup quarter-finals**
+**Central Florida school districts respond to AP Psychology guidelines**
 
-You can read more about it [here](https://www.aljazeera.com/sports/2023/8/5/japan-trounce-norway-3-1-reach-womens-world-cup-quarter-finals).
+You can read more about it [here](https://www.wesh.com/article/florida-schools-ap-psychology/44738840).
 
 ## Requirements
 - Python 3.8
