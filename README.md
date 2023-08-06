@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691312708)
+![Generated GIF](output.gif?raw=true&v=1691316387)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida education officials may lift ban on AP psychology course: report**
+**FDA approves first postpartum depression drug, Zurzuvae**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4138648-florida-education-ap-psychology-course-ban/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/).
 
 ## Requirements
 - Python 3.8
