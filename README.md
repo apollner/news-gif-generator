@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691343244)
+![Generated GIF](output.gif?raw=true&v=1691346910)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Big Ten grabs Oregon, Washington; Big 12 completes Pac-12 raid with Arizona, Arizona State and Utah**
+**Berkshire posts record operating profit as rising rates boost Buffett's returns**
 
-You can read more about it [here](https://apnews.com/article/pac12-big-ten-big12-conference-realignment-washington-oregon-f9f066d554b54ab600f798d91193aee4).
+You can read more about it [here](https://www.reuters.com/business/berkshire-posts-record-operating-profit-359-billion-net-income-2023-08-05/).
 
 ## Requirements
 - Python 3.8
