@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691354028)
+![Generated GIF](output.gif?raw=true&v=1691355890)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Imran Khan arrested after Pakistan court sentences ex-prime minister to three years in jail**
+**Search for suspect underway after shooting leaves 2 Orlando officers in critical condition**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/).
+You can read more about it [here](https://www.cnn.com/2023/08/05/us/orlando-police-officers-shot/index.html).
 
 ## Requirements
 - Python 3.8
