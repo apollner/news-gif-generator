@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691288306)
+![Generated GIF](output.gif?raw=true&v=1691289317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**West African leaders make plan for military intervention in Niger**
+**Parkland shooting reenacted using 139 live bullets as part of lawsuit**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/4/west-african-leaders-make-plan-for-military-intervention-in-niger).
+You can read more about it [here](https://www.cbsnews.com/news/parkland-shooting-reenacted-using-139-live-bullets-as-part-of-lawsuit/).
 
 ## Requirements
 - Python 3.8
