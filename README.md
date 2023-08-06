@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691289317)
+![Generated GIF](output.gif?raw=true&v=1691291235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Parkland shooting reenacted using 139 live bullets as part of lawsuit**
+**Ron DeSantis' Florida Is Too Anti-Woke to Teach AP Psychology**
 
-You can read more about it [here](https://www.cbsnews.com/news/parkland-shooting-reenacted-using-139-live-bullets-as-part-of-lawsuit/).
+You can read more about it [here](https://www.thedailybeast.com/ron-desantis-florida-is-too-anti-woke-to-teach-ap-psychology).
 
 ## Requirements
 - Python 3.8
