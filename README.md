@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691357620)
+![Generated GIF](output.gif?raw=true&v=1691359505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Conference realignment winners, losers: Oregon comes up short in Big Ten move, Arizona fits in Big 12**
+**Ukrainian sea drone hits Russian tanker near Crimea Bridge, second such attack in 24 hours**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/conference-realignment-winners-losers-oregon-comes-up-short-in-big-ten-move-arizona-fits-in-big-12/).
+You can read more about it [here](https://thehill.com/policy/international/4139049-ukrainian-sea-drone-hits-russian-tanker-near-crimea-bridge-second-such-attack-in-24-hours/).
 
 ## Requirements
 - Python 3.8
