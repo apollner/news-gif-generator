@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691316387)
+![Generated GIF](output.gif?raw=true&v=1691318026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA approves first postpartum depression drug, Zurzuvae**
+**A judge has ruled Texas' abortion ban is too restrictive for women with pregnancy complications**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/).
+You can read more about it [here](https://apnews.com/article/abortion-texas-lawsuit-ban-exceptions-women-denied-pregnancy-d90f3bce68d86e5eafe3ba4ba5939188).
 
 ## Requirements
 - Python 3.8
