@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691291235)
+![Generated GIF](output.gif?raw=true&v=1691292856)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ron DeSantis' Florida Is Too Anti-Woke to Teach AP Psychology**
+**Webb telescope captures iconic Ring Nebula in unprecedented detail**
 
-You can read more about it [here](https://www.thedailybeast.com/ron-desantis-florida-is-too-anti-woke-to-teach-ap-psychology).
+You can read more about it [here](https://www.cnn.com/2023/08/04/world/webb-telescope-ring-nebula-scn/index.html).
 
 ## Requirements
 - Python 3.8
