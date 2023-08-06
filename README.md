@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691361222)
+![Generated GIF](output.gif?raw=true&v=1691363152)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Social media influencer Kai Cenat faces charges of inciting riot after thousands cause mayhem in NYC**
+**O'Shae Sibley killing: Teen charged with hate crime after fatal stabbing**
 
-You can read more about it [here](https://apnews.com/article/kai-cenat-twitch-new-york-city-riot-25eed27329bc911ece05fdd92c284fac).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/05/oshae-sibley-killing-hate-crime-charges/).
 
 ## Requirements
 - Python 3.8
