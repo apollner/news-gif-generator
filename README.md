@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691278424)
+![Generated GIF](output.gif?raw=true&v=1691281910)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bloomsbury US CEO killed in boating accident on Italy’s Amalfi Coast**
+**Jake Paul vs. Nate Diaz: Fight card, date, odds, PPV price, location, rumors, complete guide**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/us/us-tourist-killed-italy-boating-accident/index.html).
+You can read more about it [here](https://www.cbssports.com/boxing/news/jake-paul-vs-nate-diaz-fight-card-date-odds-ppv-price-location-rumors-complete-guide/).
 
 ## Requirements
 - Python 3.8
