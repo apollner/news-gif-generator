@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691302173)
+![Generated GIF](output.gif?raw=true&v=1691303640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: UBS nears major investment bank restructuring**
+**University of Oregon and University of Washington to Join Big Ten Conference in 2024**
 
-You can read more about it [here](https://www.reuters.com/business/finance/ubs-nears-major-investment-bank-restructuring-sources-2023-08-04/).
+You can read more about it [here](https://bigten.org/news/2023/8/4/general-big-ten.aspx).
 
 ## Requirements
 - Python 3.8
