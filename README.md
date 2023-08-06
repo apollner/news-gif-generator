@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691296436)
+![Generated GIF](output.gif?raw=true&v=1691298344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wells Fargo customers see deposits disappear from accounts**
+**Twitch streamer in custody after giveaway draws huge crowds to Union Square in New York City**
 
-You can read more about it [here](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201).
+You can read more about it [here](https://www.cnn.com/2023/08/04/us/kai-cenat-union-square-nyc-crowds/index.html).
 
 ## Requirements
 - Python 3.8
