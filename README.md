@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691285972)
+![Generated GIF](output.gif?raw=true&v=1691288306)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NBA players' union says Orlando Magic donation to a DeSantis super PAC is 'alarming'**
+**West African leaders make plan for military intervention in Niger**
 
-You can read more about it [here](https://www.npr.org/2023/08/04/1192167673/orlando-magic-desantis-donation-nbpa).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/4/west-african-leaders-make-plan-for-military-intervention-in-niger).
 
 ## Requirements
 - Python 3.8
