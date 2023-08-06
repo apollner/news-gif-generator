@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691330716)
+![Generated GIF](output.gif?raw=true&v=1691332434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Central Florida school districts respond to AP Psychology guidelines**
+**Ukraine hits Russian oil tanker with sea drone hours after attacking naval base**
 
-You can read more about it [here](https://www.wesh.com/article/florida-schools-ap-psychology/44738840).
+You can read more about it [here](https://www.cnn.com/2023/08/05/europe/ukraine-sea-drone-attacks-intl/index.html).
 
 ## Requirements
 - Python 3.8
