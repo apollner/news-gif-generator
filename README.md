@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691327227)
+![Generated GIF](output.gif?raw=true&v=1691328833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger's junta rulers ask for help from Russian group Wagner as it faces military intervention threat**
+**Red-hot Japan trounce Norway 3-1 to reach Women’s World Cup quarter-finals**
 
-You can read more about it [here](https://apnews.com/article/wagner-russia-coup-niger-military-force-e0e1108b58a9e955af465a3efe6605c0).
+You can read more about it [here](https://www.aljazeera.com/sports/2023/8/5/japan-trounce-norway-3-1-reach-womens-world-cup-quarter-finals).
 
 ## Requirements
 - Python 3.8
