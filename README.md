@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691281910)
+![Generated GIF](output.gif?raw=true&v=1691285972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jake Paul vs. Nate Diaz: Fight card, date, odds, PPV price, location, rumors, complete guide**
+**NBA players' union says Orlando Magic donation to a DeSantis super PAC is 'alarming'**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/jake-paul-vs-nate-diaz-fight-card-date-odds-ppv-price-location-rumors-complete-guide/).
+You can read more about it [here](https://www.npr.org/2023/08/04/1192167673/orlando-magic-desantis-donation-nbpa).
 
 ## Requirements
 - Python 3.8
