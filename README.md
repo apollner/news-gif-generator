@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691404497)
+![Generated GIF](output.gif?raw=true&v=1691406317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China floodwater diversions to populated areas unleash wave of online anger**
+**Russians are apartment hunting in occupied Ukraine: BBC**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-floodwater-diversions-populated-areas-unleash-wave-online-anger-2023-08-06/).
+You can read more about it [here](https://www.businessinsider.com/russians-mariupol-apartment-hunting-in-occupied-ukraine-bbc-2023-8).
 
 ## Requirements
 - Python 3.8
