@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691384811)
+![Generated GIF](output.gif?raw=true&v=1691386431)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Legionnaires' disease deaths possibly linked to spa in Richmond**
+**Health officials warn of rise in Valley Fever infections across California**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/legionnaires-disease-deaths-possibly-linked-to-spa-in-richmond-contra-costa-health-says/).
+You can read more about it [here](https://www.nbclosangeles.com/news/health-wellness/health-officials-warn-of-rise-in-valley-fever-infections-across-california/3200352/).
 
 ## Requirements
 - Python 3.8
