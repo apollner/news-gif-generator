@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691449564)
+![Generated GIF](output.gif?raw=true&v=1691451230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch: First look of moon as captured by Chandrayaan-3**
+**Original Raven Returns in Tekken 8 Alongside Coffee-Loving Newcomer Azucena**
 
-You can read more about it [here](https://www.tribuneindia.com/news/science-technology/watch-first-look-of-moon-as-captured-by-chandrayaan-3-532724).
+You can read more about it [here](https://www.pushsquare.com/news/2023/08/original-raven-returns-in-tekken-8-alongside-coffee-loving-newcomer-azucena).
 
 ## Requirements
 - Python 3.8
