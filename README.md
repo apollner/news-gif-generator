@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691438815)
+![Generated GIF](output.gif?raw=true&v=1691440429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What To Do After Market Skids; 5 Stocks Near Buy Points**
+**Watch: First look of moon as captured by Chandrayaan-3**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-as-market-rally-skids-5-stocks-near-buy-points/).
+You can read more about it [here](https://www.tribuneindia.com/news/science-technology/watch-first-look-of-moon-as-captured-by-chandrayaan-3-532724).
 
 ## Requirements
 - Python 3.8
