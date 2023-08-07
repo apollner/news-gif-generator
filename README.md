@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691377696)
+![Generated GIF](output.gif?raw=true&v=1691379238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kentucky voters weigh in on McConnell’s health scare**
+**Russia promises retaliation after Ukrainian drones hit a Russian tanker in 2nd sea attack in a day**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/politics/mitch-mcconnell-fancy-farm/index.html).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-drones-black-sea-crimea-d6ab9c0d71fe9d3d95e1af5953fe8d8a).
 
 ## Requirements
 - Python 3.8
