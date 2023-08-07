@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691445934)
+![Generated GIF](output.gif?raw=true&v=1691447631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**D&D Artist Confirms They Used AI Art in New Sourcebook**
+**Full SummerSlam Results and Highlights: WWE Now, August 6, 2023**
 
-You can read more about it [here](https://gizmodo.com/dnd-ai-art-bigbys-giants-book-artist-generators-wotc-1850710496).
+You can read more about it [here](https://www.youtube.com/watch?v=J2ca3ya2PeU).
 
 ## Requirements
 - Python 3.8
