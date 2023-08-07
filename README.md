@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691442321)
+![Generated GIF](output.gif?raw=true&v=1691444021)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rising Treasury yields spooked the stock market. Now, a key test lies ahead.**
+**Nick Diaz calls to fight Jake Paul or Logan Paul after Nate Diaz’s loss: ‘I’m a lot better than both of these…**
 
-You can read more about it [here](https://www.marketwatch.com/story/rising-treasury-yields-spooked-the-stock-market-now-a-key-test-lies-ahead-bfc12d8b).
+You can read more about it [here](https://www.mmafighting.com/2023/8/6/23822038/nick-diaz-calls-to-fight-jake-paul-or-logan-paul-after-nate-diazs-loss-im-a-lot-better-than-both-of).
 
 ## Requirements
 - Python 3.8
