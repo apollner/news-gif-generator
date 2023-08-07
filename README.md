@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691395848)
+![Generated GIF](output.gif?raw=true&v=1691397264)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winning $82 million Super Lotto Plus ticket sold in Southern California**
+**Mega Millions jackpot jumps to an estimated $1.55 billion, the third-largest in lottery history**
 
-You can read more about it [here](https://ktla.com/news/local-news/winning-82-million-super-lotto-plus-ticket-drawn-in-southern-california/).
+You can read more about it [here](https://www.cbsnews.com/news/mega-millions-jackpot-one-point-five-five-billion-dollars/).
 
 ## Requirements
 - Python 3.8
