@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691368583)
+![Generated GIF](output.gif?raw=true&v=1691373492)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Clarence Thomas purchased his RV with the help of a wealthy friend**
+**Judge temporarily exempts women with complicated pregnancies from Texas abortion ban**
 
-You can read more about it [here](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8).
+You can read more about it [here](https://www.reuters.com/legal/judge-temporarily-exempts-women-with-complicated-pregnancies-texas-abortion-ban-2023-08-05/).
 
 ## Requirements
 - Python 3.8
