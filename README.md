@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691429627)
+![Generated GIF](output.gif?raw=true&v=1691431761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump may have committed 'a technical violation of the Constitution,' not a crime, his lawyer says**
+**Arsenal 1-1 Manchester City (Aug 6, 2023) Game Analysis**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/donald-trump-2020-election-indictment-lawyer-john-lauro-rcna98406).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/670111).
 
 ## Requirements
 - Python 3.8
