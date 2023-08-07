@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691410343)
+![Generated GIF](output.gif?raw=true&v=1691412594)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Simone Biles leaves no doubt with dominating all-around return**
+**Horoscope for Sunday, August 6, 2023**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/olympics/2023/08/05/simone-biles-gymnastics-return/).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/6/23807716/horoscopes-today-sunday-august-6-2023).
 
 ## Requirements
 - Python 3.8
