@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691373492)
+![Generated GIF](output.gif?raw=true&v=1691375213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge temporarily exempts women with complicated pregnancies from Texas abortion ban**
+**After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp - NASASpaceFlight.com**
 
-You can read more about it [here](https://www.reuters.com/legal/judge-temporarily-exempts-women-with-complicated-pregnancies-texas-abortion-ban-2023-08-05/).
+You can read more about it [here](https://www.nasaspaceflight.com/2023/08/msl-11-years/).
 
 ## Requirements
 - Python 3.8
