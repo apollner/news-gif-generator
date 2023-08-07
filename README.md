@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691418833)
+![Generated GIF](output.gif?raw=true&v=1691420824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some states are trying to boost youth voter registration. Here's what they're doing**
+**Ukraine updates: Russia launches dozens of missiles, drones**
 
-You can read more about it [here](https://wusfnews.wusf.usf.edu/2023-08-06/some-states-are-trying-to-boost-youth-voter-registration-heres-what-theyre-doing).
+You can read more about it [here](https://www.dw.com/en/ukraine-updates-russia-launches-dozens-of-missiles-drones/live-66451431).
 
 ## Requirements
 - Python 3.8
