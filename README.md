@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691382832)
+![Generated GIF](output.gif?raw=true&v=1691384811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kentucky Republicans seek to nationalize gubernatorial race as state Democrats keep focus local**
+**Legionnaires' disease deaths possibly linked to spa in Richmond**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/politics/kentucky-govenor-race-andy-beshear-joe-biden/index.html).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/legionnaires-disease-deaths-possibly-linked-to-spa-in-richmond-contra-costa-health-says/).
 
 ## Requirements
 - Python 3.8
