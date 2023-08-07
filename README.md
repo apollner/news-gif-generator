@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691431761)
+![Generated GIF](output.gif?raw=true&v=1691433245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arsenal 1-1 Manchester City (Aug 6, 2023) Game Analysis**
+**Russia launches burst of missile and drone attacks, Ukraine says**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/670111).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-new-burst-missile-drone-attacks-ukrainian-air-force-says-2023-08-06/).
 
 ## Requirements
 - Python 3.8
