@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691444021)
+![Generated GIF](output.gif?raw=true&v=1691445934)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Diaz calls to fight Jake Paul or Logan Paul after Nate Diaz’s loss: ‘I’m a lot better than both of these…**
+**D&D Artist Confirms They Used AI Art in New Sourcebook**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/6/23822038/nick-diaz-calls-to-fight-jake-paul-or-logan-paul-after-nate-diazs-loss-im-a-lot-better-than-both-of).
+You can read more about it [here](https://gizmodo.com/dnd-ai-art-bigbys-giants-book-artist-generators-wotc-1850710496).
 
 ## Requirements
 - Python 3.8
