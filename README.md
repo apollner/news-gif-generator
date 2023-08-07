@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691427930)
+![Generated GIF](output.gif?raw=true&v=1691429627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Extreme heat, the most lethal climate disaster**
+**Trump may have committed 'a technical violation of the Constitution,' not a crime, his lawyer says**
 
-You can read more about it [here](https://www.cbsnews.com/news/extreme-heat-the-most-lethal-climate-disaster/).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/donald-trump-2020-election-indictment-lawyer-john-lauro-rcna98406).
 
 ## Requirements
 - Python 3.8
