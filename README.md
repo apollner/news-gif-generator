@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691415225)
+![Generated GIF](output.gif?raw=true&v=1691417152)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pence Leaves Pro-Trump Hecklers With One Quick Message In Tense Parking Lot Exchange**
+**SummerSlam Rundown: WWE's The Bump, August 6, 2023**
 
-You can read more about it [here](https://www.huffpost.com/entry/mike-pence-trump-hecklers-new-hampshire_n_64cf19c3e4b0334ad275f052).
+You can read more about it [here](https://www.youtube.com/watch?v=W4JwkoVF41M).
 
 ## Requirements
 - Python 3.8
