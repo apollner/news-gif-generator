@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691399296)
+![Generated GIF](output.gif?raw=true&v=1691400825)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kentucky Republicans seek to nationalize gubernatorial race as state Democrats keep focus local**
+**At least 3 killed in shooting on D.C. street**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/politics/kentucky-govenor-race-andy-beshear-joe-biden/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/several-killed-shooting-washington-d-c-street-southeast/).
 
 ## Requirements
 - Python 3.8
