@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691424564)
+![Generated GIF](output.gif?raw=true&v=1691426257)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump attorney says legal team will fight potential protective order in election subversion case**
+**‘Baldur’s Gate 3’ Prepared For 100,000 Concurrent Players, They’ve Gotten 700,000**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/politics/trump-legal-team-protective-order/index.html).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/).
 
 ## Requirements
 - Python 3.8
