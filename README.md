@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691447631)
+![Generated GIF](output.gif?raw=true&v=1691449564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Full SummerSlam Results and Highlights: WWE Now, August 6, 2023**
+**Watch: First look of moon as captured by Chandrayaan-3**
 
-You can read more about it [here](https://www.youtube.com/watch?v=J2ca3ya2PeU).
+You can read more about it [here](https://www.tribuneindia.com/news/science-technology/watch-first-look-of-moon-as-captured-by-chandrayaan-3-532724).
 
 ## Requirements
 - Python 3.8
