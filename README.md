@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691433245)
+![Generated GIF](output.gif?raw=true&v=1691435181)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia launches burst of missile and drone attacks, Ukraine says**
+**Musk says his cage fight with Zuckerberg will be streamed on X**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-new-burst-missile-drone-attacks-ukrainian-air-force-says-2023-08-06/).
+You can read more about it [here](https://apnews.com/article/elon-musk-mark-zuckerberg-cage-fight-28598abc5be6959f01c1b0079211a360).
 
 ## Requirements
 - Python 3.8
