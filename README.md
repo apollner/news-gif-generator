@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691390119)
+![Generated GIF](output.gif?raw=true&v=1691392001)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winning $82 million Super Lotto Plus ticket sold in Southern California**
+**India's space mission Chandrayaan-3 enters Moon's orbit**
 
-You can read more about it [here](https://ktla.com/news/local-news/winning-82-million-super-lotto-plus-ticket-drawn-in-southern-california/).
+You can read more about it [here](https://www.dw.com/en/indias-space-mission-chandrayaan-3-enters-moons-orbit/a-66450517).
 
 ## Requirements
 - Python 3.8
