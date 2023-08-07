@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691406317)
+![Generated GIF](output.gif?raw=true&v=1691408053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russians are apartment hunting in occupied Ukraine: BBC**
+**X will foot legal bills of users unfairly treated by employers for posting or liking content — Elon Musk**
 
-You can read more about it [here](https://www.businessinsider.com/russians-mariupol-apartment-hunting-in-occupied-ukraine-bbc-2023-8).
+You can read more about it [here](https://cointelegraph.com/news/x-will-foot-legal-bills-of-users-unfairly-treated-by-employers-for-posting-or-liking-content-elon-musk).
 
 ## Requirements
 - Python 3.8
