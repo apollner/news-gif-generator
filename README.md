@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691386431)
+![Generated GIF](output.gif?raw=true&v=1691390119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Health officials warn of rise in Valley Fever infections across California**
+**Winning $82 million Super Lotto Plus ticket sold in Southern California**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/health-wellness/health-officials-warn-of-rise-in-valley-fever-infections-across-california/3200352/).
+You can read more about it [here](https://ktla.com/news/local-news/winning-82-million-super-lotto-plus-ticket-drawn-in-southern-california/).
 
 ## Requirements
 - Python 3.8
