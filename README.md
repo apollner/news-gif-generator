@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691489236)
+![Generated GIF](output.gif?raw=true&v=1691490854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi scores 2 goals as Inter Miami beats FC Dallas on penalties in Leagues Cup match**
+**Maryland Town on Edge After Apparent Murder Off Popular Nature Trail**
 
-You can read more about it [here](https://theathletic.com/4754724/2023/08/07/lionel-messi-scores-2-goals-as-inter-miami-beats-fc-dallas-on-penalties-in-leagues-cup-match/).
+You can read more about it [here](https://www.thedailybeast.com/maryland-town-on-edge-after-apparent-murder-of-rachel-morin-off-ma-and-pa-trail).
 
 ## Requirements
 - Python 3.8
