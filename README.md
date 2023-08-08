@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691519665)
+![Generated GIF](output.gif?raw=true&v=1691521528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Johnson III returns to Rams on 1-year deal, source says - ESPN**
+**Niger military deploys reinforcements to capital after ignoring deadline to cede power**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38150034/john-johnson-iii-returns-rams-1-year-deal-source-says).
+You can read more about it [here](https://www.cnn.com/2023/08/07/africa/niger-coup-deadline-intl/index.html).
 
 ## Requirements
 - Python 3.8
