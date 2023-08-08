@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691507184)
+![Generated GIF](output.gif?raw=true&v=1691508846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wisdom tooth extraction is common. Not everyone agrees it's necessary.**
+**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/07/should-you-have-wisdom-teeth-pulled/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
 
 ## Requirements
 - Python 3.8
