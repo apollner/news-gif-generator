@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691471236)
+![Generated GIF](output.gif?raw=true&v=1691472845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortal Kombat 1 Official Reptile, Ashrah, and Havik Reveal Trailer**
+**Ne-Yo doesn't 'understand' parents who let kids make a 'life-changing decision' about their gender identity**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Iv9fx084WnQ).
+You can read more about it [here](https://ew.com/celebrity/ne-yo-parenting-transgender-kids-opinion-doesnt-understand/).
 
 ## Requirements
 - Python 3.8
