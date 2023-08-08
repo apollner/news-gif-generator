@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691476483)
+![Generated GIF](output.gif?raw=true&v=1691478356)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Street Fighter 6 A.K.I Official Teaser Trailer | EVO 2023**
+**Juneau's Mendenhall Glacier flooding sweeps away homes, surprises Alaska capital**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pfcgP65UvrY).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/06/flooding-glacier-juneau-mendenhall-basin/).
 
 ## Requirements
 - Python 3.8
