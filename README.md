@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691535981)
+![Generated GIF](output.gif?raw=true&v=1691537647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US publishing executive killed in Italy boat crash; skipper under investigation**
+**Starliner undergoing three independent investigations as flight slips to 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/07/adrienne-vaughan-accident-boat-italy-skipper-under-investigation/70545932007/).
+You can read more about it [here](https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/).
 
 ## Requirements
 - Python 3.8
