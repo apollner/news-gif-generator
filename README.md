@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691530604)
+![Generated GIF](output.gif?raw=true&v=1691532359)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sandra Bullock's partner Bryan Randall dies after private 3-year battle with ALS**
+**Here's your first live look at the Galaxy Tab S9 Fan Edition tablets - SamMobile**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/sandra-bullock-partner-bryan-randall-dies-als-203845492.html).
+You can read more about it [here](https://www.sammobile.com/news/first-live-look-at-galaxy-tab-s9-fe-tablet/).
 
 ## Requirements
 - Python 3.8
