@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691459777)
+![Generated GIF](output.gif?raw=true&v=1691461541)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mark Zuckerberg says he’s 'ready today' for fight against Elon Musk: ‘Not holding my breath’**
+**US Coast Guard rescues Charles Gregory, who went missing off St. Augustine, Florida, nearly 2 days ago**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/mark-zuckerberg-ready-today-fight-elon-musk-not-holding-my-breath).
+You can read more about it [here](https://www.cnn.com/2023/08/06/us/charles-gregory-missing-st-augustine/index.html).
 
 ## Requirements
 - Python 3.8
