@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691454846)
+![Generated GIF](output.gif?raw=true&v=1691459777)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Final round of Wyndham Championship scheduled to resume - PGA TOUR**
+**Mark Zuckerberg says he’s 'ready today' for fight against Elon Musk: ‘Not holding my breath’**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2023/08/06/wyndham-championship-delayed-thunderstorm-rain-weather-sedgefield-country-club).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/mark-zuckerberg-ready-today-fight-elon-musk-not-holding-my-breath).
 
 ## Requirements
 - Python 3.8
