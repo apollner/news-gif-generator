@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691496758)
+![Generated GIF](output.gif?raw=true&v=1691498965)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New charges against Trump focus on lies. Scholars see an authoritarian playbook**
+**The future is uncertain for the U.S. after crashing out of the Women's World Cup**
 
-You can read more about it [here](https://www.npr.org/2023/08/07/1191813216/new-charges-against-trump-focus-on-lies-scholars-see-an-authoritarian-playbook).
+You can read more about it [here](https://www.npr.org/2023/08/07/1192427581/the-future-is-uncertain-for-the-u-s-after-crashing-out-of-the-womens-world-cup).
 
 ## Requirements
 - Python 3.8
