@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691482227)
+![Generated GIF](output.gif?raw=true&v=1691483684)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors**
+**Street Fighter 6 A.K.I Official Teaser Trailer | EVO 2023**
 
-You can read more about it [here](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors).
+You can read more about it [here](https://www.youtube.com/watch?v=pfcgP65UvrY).
 
 ## Requirements
 - Python 3.8
