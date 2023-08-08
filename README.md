@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691461541)
+![Generated GIF](output.gif?raw=true&v=1691462482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Coast Guard rescues Charles Gregory, who went missing off St. Augustine, Florida, nearly 2 days ago**
+**Conor McGregor criticizes Nate Diaz, prompts ugly back-and-forth tweets with Jake Paul**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/us/charles-gregory-missing-st-augustine/index.html).
+You can read more about it [here](https://mmajunkie.usatoday.com/lists/conor-mcgregor-critcizes-nate-diaz-prompts-ugly-tweets-jake-paul).
 
 ## Requirements
 - Python 3.8
