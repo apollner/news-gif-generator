@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691465646)
+![Generated GIF](output.gif?raw=true&v=1691467761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine hits Chonhar and Henichesk bridges connecting annexed Crimea and Kherson region — Meduza**
+**White mother claims Southwest Airlines thought she was trafficking when traveling with her Black daughter, according to lawsuit**
 
-You can read more about it [here](https://meduza.io/en/news/2023/08/07/ukraine-hits-chonhar-and-henichesk-bridges-connecting-annexed-crimea-and-kherson-region).
+You can read more about it [here](https://www.cnn.com/2023/08/06/us/southwest-airlines-lawsuit-trafficking-accusation/index.html).
 
 ## Requirements
 - Python 3.8
