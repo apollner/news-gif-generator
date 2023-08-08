@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691518204)
+![Generated GIF](output.gif?raw=true&v=1691519665)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft's AI-powered Bing Chat is coming to mobile browsers**
+**John Johnson III returns to Rams on 1-year deal, source says - ESPN**
 
-You can read more about it [here](https://www.theverge.com/2023/8/7/23822773/microsoft-bing-ai-chat-mobile-browsers-google-chrome-safari).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38150034/john-johnson-iii-returns-rams-1-year-deal-source-says).
 
 ## Requirements
 - Python 3.8
