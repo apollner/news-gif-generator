@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691462482)
+![Generated GIF](output.gif?raw=true&v=1691464046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Conor McGregor criticizes Nate Diaz, prompts ugly back-and-forth tweets with Jake Paul**
+**Lionel Messi scores again: Inter Miami up 1-0 on FC Dallas in Leagues Cup: Live updates**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/lists/conor-mcgregor-critcizes-nate-diaz-prompts-ugly-tweets-jake-paul).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/08/06/is-messi-playing-tonight-inter-miami-vs-fc-dallas-live-updates/70539932007/).
 
 ## Requirements
 - Python 3.8
