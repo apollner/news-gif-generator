@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691451230)
+![Generated GIF](output.gif?raw=true&v=1691454846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Original Raven Returns in Tekken 8 Alongside Coffee-Loving Newcomer Azucena**
+**Final round of Wyndham Championship scheduled to resume - PGA TOUR**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/08/original-raven-returns-in-tekken-8-alongside-coffee-loving-newcomer-azucena).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2023/08/06/wyndham-championship-delayed-thunderstorm-rain-weather-sedgefield-country-club).
 
 ## Requirements
 - Python 3.8
