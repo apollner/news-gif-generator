@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691480038)
+![Generated GIF](output.gif?raw=true&v=1691482227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rumor Roundup: Brock Lesnar plan, WWE creative issue, Roman Reigns’ title reign, more!**
+**Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors**
 
-You can read more about it [here](https://www.cagesideseats.com/2023/8/7/23822326/rumor-roundup-aug-7-2023-brock-lesnar-plan-wwe-creative-issue-roman-reigns-title-reign).
+You can read more about it [here](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors).
 
 ## Requirements
 - Python 3.8
