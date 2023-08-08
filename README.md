@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691469231)
+![Generated GIF](output.gif?raw=true&v=1691471236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apparent murder-suicide involving prominent Mt. Sinai Hospital oncologist rocks Westchester County town of Somers**
+**Mortal Kombat 1 Official Reptile, Ashrah, and Havik Reveal Trailer**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/apparent-murder-suicide-involving-prominent-mt-sinai-hospital-oncologist-rocks-westchester-county-town-of-somers/).
+You can read more about it [here](https://www.youtube.com/watch?v=Iv9fx084WnQ).
 
 ## Requirements
 - Python 3.8
