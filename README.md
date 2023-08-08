@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691532359)
+![Generated GIF](output.gif?raw=true&v=1691534050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's your first live look at the Galaxy Tab S9 Fan Edition tablets - SamMobile**
+**Trump argues against more restrictive rules over evidence in 2020 election interference case**
 
-You can read more about it [here](https://www.sammobile.com/news/first-live-look-at-galaxy-tab-s9-fe-tablet/).
+You can read more about it [here](https://www.cnn.com/2023/08/07/politics/trump-protective-order-filing/index.html).
 
 ## Requirements
 - Python 3.8
