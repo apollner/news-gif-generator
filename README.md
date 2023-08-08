@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691508846)
+![Generated GIF](output.gif?raw=true&v=1691510975)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
+**'Bachelor' stars Kaitlyn Bristowe, Jason Tartick split after 4 years**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/07/bachelor-kaitlyn-bristowe-jason-tartick-split-end-engagement/70540941007/).
 
 ## Requirements
 - Python 3.8
