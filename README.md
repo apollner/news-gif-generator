@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691483684)
+![Generated GIF](output.gif?raw=true&v=1691485633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Street Fighter 6 A.K.I Official Teaser Trailer | EVO 2023**
+**Russia retaliates against Ukraine for tanker attack**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pfcgP65UvrY).
+You can read more about it [here](https://www.euronews.com/2023/08/07/russia-retaliates-against-ukraine-for-tanker-attack).
 
 ## Requirements
 - Python 3.8
