@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691500254)
+![Generated GIF](output.gif?raw=true&v=1691501634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Siemens Energy CEO on $2.4 billion wind turbine hit: We were 'going too fast' with new products**
+**As summer winds down, COVID-19 cases tick up slightly in the Chicago area. 'COVID did not go away.'**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/07/siemens-energy-books-2point4-billion-wind-turbine-hit-in-q3-2023-results.html).
+You can read more about it [here](https://www.chicagotribune.com/business/ct-biz-covid-cases-rising-chicago-illinois-20230807-evh4ladwzvffvijriu56mnwp4y-story.html).
 
 ## Requirements
 - Python 3.8
