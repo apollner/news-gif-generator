@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691534050)
+![Generated GIF](output.gif?raw=true&v=1691535981)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump argues against more restrictive rules over evidence in 2020 election interference case**
+**US publishing executive killed in Italy boat crash; skipper under investigation**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/politics/trump-protective-order-filing/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/07/adrienne-vaughan-accident-boat-italy-skipper-under-investigation/70545932007/).
 
 ## Requirements
 - Python 3.8
