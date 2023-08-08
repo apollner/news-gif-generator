@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691464046)
+![Generated GIF](output.gif?raw=true&v=1691465646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi scores again: Inter Miami up 1-0 on FC Dallas in Leagues Cup: Live updates**
+**Ukraine hits Chonhar and Henichesk bridges connecting annexed Crimea and Kherson region — Meduza**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/08/06/is-messi-playing-tonight-inter-miami-vs-fc-dallas-live-updates/70539932007/).
+You can read more about it [here](https://meduza.io/en/news/2023/08/07/ukraine-hits-chonhar-and-henichesk-bridges-connecting-annexed-crimea-and-kherson-region).
 
 ## Requirements
 - Python 3.8
