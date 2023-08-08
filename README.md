@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691478356)
+![Generated GIF](output.gif?raw=true&v=1691480038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Juneau's Mendenhall Glacier flooding sweeps away homes, surprises Alaska capital**
+**Rumor Roundup: Brock Lesnar plan, WWE creative issue, Roman Reigns’ title reign, more!**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/06/flooding-glacier-juneau-mendenhall-basin/).
+You can read more about it [here](https://www.cagesideseats.com/2023/8/7/23822326/rumor-roundup-aug-7-2023-brock-lesnar-plan-wwe-creative-issue-roman-reigns-title-reign).
 
 ## Requirements
 - Python 3.8
