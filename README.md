@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691501634)
+![Generated GIF](output.gif?raw=true&v=1691503517)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As summer winds down, COVID-19 cases tick up slightly in the Chicago area. 'COVID did not go away.'**
+**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
 
-You can read more about it [here](https://www.chicagotribune.com/business/ct-biz-covid-cases-rising-chicago-illinois-20230807-evh4ladwzvffvijriu56mnwp4y-story.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
 
 ## Requirements
 - Python 3.8
