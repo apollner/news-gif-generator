@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691505241)
+![Generated GIF](output.gif?raw=true&v=1691507184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Bachelor' stars Kaitlyn Bristowe, Jason Tartick split after 4 years**
+**Wisdom tooth extraction is common. Not everyone agrees it's necessary.**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/07/bachelor-kaitlyn-bristowe-jason-tartick-split-end-engagement/70540941007/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/07/should-you-have-wisdom-teeth-pulled/).
 
 ## Requirements
 - Python 3.8
