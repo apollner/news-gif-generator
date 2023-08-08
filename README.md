@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691467761)
+![Generated GIF](output.gif?raw=true&v=1691469231)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White mother claims Southwest Airlines thought she was trafficking when traveling with her Black daughter, according to lawsuit**
+**Apparent murder-suicide involving prominent Mt. Sinai Hospital oncologist rocks Westchester County town of Somers**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/us/southwest-airlines-lawsuit-trafficking-accusation/index.html).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/apparent-murder-suicide-involving-prominent-mt-sinai-hospital-oncologist-rocks-westchester-county-town-of-somers/).
 
 ## Requirements
 - Python 3.8
