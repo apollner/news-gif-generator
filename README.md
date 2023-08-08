@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691521528)
+![Generated GIF](output.gif?raw=true&v=1691523241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger military deploys reinforcements to capital after ignoring deadline to cede power**
+**'Barbie' makes history as it hits $1 billion at the box office: All the records broken by the film so far**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/africa/niger-coup-deadline-intl/index.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/barbie-hits-1-billion-box-office-all-the-records-broken-so-far-165214153.html).
 
 ## Requirements
 - Python 3.8
