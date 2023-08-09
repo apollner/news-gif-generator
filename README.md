@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691580875)
+![Generated GIF](output.gif?raw=true&v=1691583195)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Review | 'Only Murders in the Building' regains its cozy confidence**
+**France vs. Morocco live updates: France adds to its lead to make it 4-0 late**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/).
+You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco).
 
 ## Requirements
 - Python 3.8
