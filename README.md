@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691589980)
+![Generated GIF](output.gif?raw=true&v=1691591777)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No quick fix to reverse Antarctic sea ice loss as warming intensifies, scientists say**
+**NFL breakout players for 2023 -- Predicting next wave of stars - ESPN**
 
-You can read more about it [here](https://www.reuters.com/world/no-quick-fix-reverse-antarctic-sea-ice-loss-warming-intensifies-scientists-2023-08-08/).
+You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38149478/predicting-nfl-breakout-players-2023-season-bill-barnwell-next-stars).
 
 ## Requirements
 - Python 3.8
