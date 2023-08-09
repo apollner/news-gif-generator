@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691550485)
+![Generated GIF](output.gif?raw=true&v=1691552046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fans describe chaos and danger at Beyoncé concert as severe weather leads to crowd disaster at FedEx Field**
+**MLB suspends Chicago's Tim Anderson 6 games, Cleveland's José Ramírez 3 for fighting**
 
-You can read more about it [here](https://wjla.com/news/local/beyonce-fans-renaissance-tour-describe-chaos-danger-concert-severe-weather-lightning-leads-crowd-fedex-field-washington-commanders-shelter-in-place-safety-heat-exhaustion).
+You can read more about it [here](https://apnews.com/article/anderson-ramirez-brawl-guardians-white-sox-suspensions-d60a9c11c640cd57c2db99e0b68d8cf2).
 
 ## Requirements
 - Python 3.8
