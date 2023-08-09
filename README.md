@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691579117)
+![Generated GIF](output.gif?raw=true&v=1691580875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman hospitalized after apparent shark attack in Queens**
+**Review | 'Only Murders in the Building' regains its cozy confidence**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2WGOFftsC0c).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/).
 
 ## Requirements
 - Python 3.8
