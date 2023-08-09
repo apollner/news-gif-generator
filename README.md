@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691620433)
+![Generated GIF](output.gif?raw=true&v=1691622363)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arrest warrants issued for 3 men in massive fight at Montgomery riverfront dock**
+**Rivian raises 2023 EV production guidance, posts narrower-than-expected quarterly loss**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/us/montgomery-boat-dock-fight/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/08/rivian-rivn-earnings-report-q2-2023.html).
 
 ## Requirements
 - Python 3.8
