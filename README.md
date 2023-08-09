@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691562917)
+![Generated GIF](output.gif?raw=true&v=1691564782)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ghiroli: Orioles’ unforced error with announcer Kevin Brown dims team’s shine at wrong time**
+**William Friedkin, Oscar-winning director of 'The Exorcist' and 'The French Connection,' dead at 87**
 
-You can read more about it [here](https://theathletic.com/4757354/2023/08/07/ghiroli-orioles-announcer-kevin-brown/).
+You can read more about it [here](https://apnews.com/article/william-friedkin-dead-exorcist-french-connection-director-79c5a8a32479f4accff3533c19c15094).
 
 ## Requirements
 - Python 3.8
