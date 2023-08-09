@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691608023)
+![Generated GIF](output.gif?raw=true&v=1691609629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden announcing historic Grand Canyon monument designation during his Arizona visit**
+**Tesla CFO Departure Means Stock Sales Could Be Coming**
 
-You can read more about it [here](https://apnews.com/article/grand-canyon-national-monument-biden-9382960f18408dce7aec52f103404e11).
+You can read more about it [here](https://www.barrons.com/articles/tesla-cfo-stock-sales-63cc6cba).
 
 ## Requirements
 - Python 3.8
