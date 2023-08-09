@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691570145)
+![Generated GIF](output.gif?raw=true&v=1691572038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger Coup LIVE: Niger appoints former finance Minister Lamine Zeine as new Prime Minister | WION**
+**She’s that girl: Beyoncé pays $100,000 to keep the D.C. Metro running after bad weather delay**
 
-You can read more about it [here](https://www.youtube.com/watch?v=38CdQNhJ2aY).
+You can read more about it [here](https://www.youtube.com/watch?v=7ZJhyH_chqA).
 
 ## Requirements
 - Python 3.8
