@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691588170)
+![Generated GIF](output.gif?raw=true&v=1691589980)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Western allies receive increasingly 'sobering' updates on Ukraine's counteroffensive: 'This is the most difficult time of the war'**
+**No quick fix to reverse Antarctic sea ice loss as warming intensifies, scientists say**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/politics/ukraine-counteroffensive-us-briefings/index.html).
+You can read more about it [here](https://www.reuters.com/world/no-quick-fix-reverse-antarctic-sea-ice-loss-warming-intensifies-scientists-2023-08-08/).
 
 ## Requirements
 - Python 3.8
