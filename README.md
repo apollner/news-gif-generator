@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691568639)
+![Generated GIF](output.gif?raw=true&v=1691570145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bryan Randall death: Sandra Bullock's longterm partner dies aged 57 after ALS diagnosis**
+**Niger Coup LIVE: Niger appoints former finance Minister Lamine Zeine as new Prime Minister | WION**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/bryan-randall-death-sandra-bullock-age-als-b2389268.html).
+You can read more about it [here](https://www.youtube.com/watch?v=38CdQNhJ2aY).
 
 ## Requirements
 - Python 3.8
