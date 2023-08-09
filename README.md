@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691561418)
+![Generated GIF](output.gif?raw=true&v=1691562917)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge in Trump's classified documents case questions use of out-of-district grand jury in probe**
+**Ghiroli: Orioles’ unforced error with announcer Kevin Brown dims team’s shine at wrong time**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-trumps-classified-documents-case-questions-district-grand/story?id=102072911).
+You can read more about it [here](https://theathletic.com/4757354/2023/08/07/ghiroli-orioles-announcer-kevin-brown/).
 
 ## Requirements
 - Python 3.8
