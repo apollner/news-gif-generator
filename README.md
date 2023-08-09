@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691583195)
+![Generated GIF](output.gif?raw=true&v=1691585562)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**France vs. Morocco live updates: France adds to its lead to make it 4-0 late**
+**Bryan Randall, partner of Sandra Bullock, dies aged 57**
 
-You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco).
+You can read more about it [here](https://www.euronews.com/culture/2023/08/08/bryan-randall-partner-of-sandra-bullock-dies-aged-57).
 
 ## Requirements
 - Python 3.8
