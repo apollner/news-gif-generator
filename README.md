@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691609629)
+![Generated GIF](output.gif?raw=true&v=1691611720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla CFO Departure Means Stock Sales Could Be Coming**
+**Eli Lilly Stock Hits Record High As Diabetes Powerhouse Stokes Beat And Raise**
 
-You can read more about it [here](https://www.barrons.com/articles/tesla-cfo-stock-sales-63cc6cba).
+You can read more about it [here](https://www.investors.com/news/technology/eli-lilly-stock-eli-lilly-earnings-q2-2023/).
 
 ## Requirements
 - Python 3.8
