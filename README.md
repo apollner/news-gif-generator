@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691622363)
+![Generated GIF](output.gif?raw=true&v=1691624039)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rivian raises 2023 EV production guidance, posts narrower-than-expected quarterly loss**
+**Why Ron Rivera has given Eric Bieniemy free rein over Commanders offense amid players' intensity concerns**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/rivian-rivn-earnings-report-q2-2023.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/why-ron-rivera-has-given-eric-bieniemy-free-rein-over-commanders-offense-amid-players-intensity-concerns/).
 
 ## Requirements
 - Python 3.8
