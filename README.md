@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691600818)
+![Generated GIF](output.gif?raw=true&v=1691602418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Galaxy Watch 6 series review: refined, but not revolutionary**
+**Dow slides more than 300 points as Moody's bank downgrade adds to August woes: Live updates**
 
-You can read more about it [here](https://www.theverge.com/23818557/samsung-galaxy-watch-6-review-bezels-smartwatch-wearables).
+You can read more about it [here](https://www.cnbc.com/2023/08/07/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
