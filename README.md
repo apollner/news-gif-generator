@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691586823)
+![Generated GIF](output.gif?raw=true&v=1691588170)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Remarkable Chinese Fossil Reveals Reptiles Using Whale-Like Filter Feeding 250 Million Years Ago**
+**Western allies receive increasingly 'sobering' updates on Ukraine's counteroffensive: 'This is the most difficult time of the war'**
 
-You can read more about it [here](https://scitechdaily.com/?p=298851).
+You can read more about it [here](https://www.cnn.com/2023/08/08/politics/ukraine-counteroffensive-us-briefings/index.html).
 
 ## Requirements
 - Python 3.8
