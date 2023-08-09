@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691591777)
+![Generated GIF](output.gif?raw=true&v=1691593693)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL breakout players for 2023 -- Predicting next wave of stars - ESPN**
+**Niger coup: Wagner taking advantage of instability - Antony Blinken**
 
-You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38149478/predicting-nfl-breakout-players-2023-season-bill-barnwell-next-stars).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66436797).
 
 ## Requirements
 - Python 3.8
