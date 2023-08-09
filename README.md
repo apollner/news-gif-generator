@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691564782)
+![Generated GIF](output.gif?raw=true&v=1691566452)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**William Friedkin, Oscar-winning director of 'The Exorcist' and 'The French Connection,' dead at 87**
+**Murder charge against Texas babysitter convicted of toddler's choking death dismissed 20 years later**
 
-You can read more about it [here](https://apnews.com/article/william-friedkin-dead-exorcist-french-connection-director-79c5a8a32479f4accff3533c19c15094).
+You can read more about it [here](https://www.cbsnews.com/news/rosa-jimenez-murder-charge-dismissed-99-year-sentence-babysitter-texas/).
 
 ## Requirements
 - Python 3.8
