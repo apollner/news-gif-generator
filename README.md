@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691546233)
+![Generated GIF](output.gif?raw=true&v=1691547934)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Future of freight in question after trucking company Yellow files for bankruptcy**
+**Apple Music launches a Discovery Station to help you find new songs**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ob36XTjeJ3w).
+You can read more about it [here](https://www.theverge.com/2023/8/7/23823577/apple-music-discovery-station-find-new-songs).
 
 ## Requirements
 - Python 3.8
