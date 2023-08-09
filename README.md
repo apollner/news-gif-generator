@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691537647)
+![Generated GIF](output.gif?raw=true&v=1691541383)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starliner undergoing three independent investigations as flight slips to 2024**
+**Exclusive: Trump ally Bernie Kerik meets with special counsel investigators**
 
-You can read more about it [here](https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/).
+You can read more about it [here](https://www.cnn.com/2023/08/07/politics/bernie-kerik-trump-grand-jury/index.html).
 
 ## Requirements
 - Python 3.8
