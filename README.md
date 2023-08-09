@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691559310)
+![Generated GIF](output.gif?raw=true&v=1691561418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LG’s new M-Series Wireless OLED TVs start at $5,000**
+**Judge in Trump's classified documents case questions use of out-of-district grand jury in probe**
 
-You can read more about it [here](http://www.digitaltrends.com/home-theater/lg-m-series-wireless-m3-oled-price-availability/).
+You can read more about it [here](https://abcnews.go.com/US/judge-trumps-classified-documents-case-questions-district-grand/story?id=102072911).
 
 ## Requirements
 - Python 3.8
