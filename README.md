@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691613239)
+![Generated GIF](output.gif?raw=true&v=1691616846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Uvalde shooter's cousin arrested in San Antonio for threatening to shoot a school**
+**Cousin of Uvalde shooter arrested after allegedly threatening to ‘do the same thing’**
 
-You can read more about it [here](https://www.npr.org/2023/08/08/1192671563/uvalde-shooter-cousin-arrested-threat-school-shooting-san-antonio).
+You can read more about it [here](https://www.youtube.com/watch?v=9TcDa3d69EI).
 
 ## Requirements
 - Python 3.8
