@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691577373)
+![Generated GIF](output.gif?raw=true&v=1691579117)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Covid outbreak 2023: There's a mini 'summer surge' of Covid underway, but experts don't know how bad it is**
+**Woman hospitalized after apparent shark attack in Queens**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/new-covid-symptoms-august-2023-variant-b2389224.html).
+You can read more about it [here](https://www.youtube.com/watch?v=2WGOFftsC0c).
 
 ## Requirements
 - Python 3.8
