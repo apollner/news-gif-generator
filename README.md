@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691554157)
+![Generated GIF](output.gif?raw=true&v=1691555640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sandra Bullock's partner Bryan Randall dies from ALS**
+**It’s not just actors: Over 11,000 city workers will strike in LA on Tuesday**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/07/sandra-bullock-partner-bryan-randall-dead-als/70545768007/).
+You can read more about it [here](https://www.cnn.com/2023/08/07/business/los-angeles-strike-city-workers/index.html).
 
 ## Requirements
 - Python 3.8
