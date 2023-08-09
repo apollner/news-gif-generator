@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691593693)
+![Generated GIF](output.gif?raw=true&v=1691595239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger coup: Wagner taking advantage of instability - Antony Blinken**
+**Twin Russian strikes on Ukrainian city kill civilians, then hit rescuers, official says**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66436797).
+You can read more about it [here](https://www.cnn.com/2023/08/08/europe/pokrovsk-attack-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
