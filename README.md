@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691552046)
+![Generated GIF](output.gif?raw=true&v=1691554157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB suspends Chicago's Tim Anderson 6 games, Cleveland's José Ramírez 3 for fighting**
+**Sandra Bullock's partner Bryan Randall dies from ALS**
 
-You can read more about it [here](https://apnews.com/article/anderson-ramirez-brawl-guardians-white-sox-suspensions-d60a9c11c640cd57c2db99e0b68d8cf2).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/07/sandra-bullock-partner-bryan-randall-dead-als/70545768007/).
 
 ## Requirements
 - Python 3.8
