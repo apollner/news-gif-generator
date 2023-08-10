@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691636864)
+![Generated GIF](output.gif?raw=true&v=1691638456)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump expects new criminal charges from Georgia election probe**
+**Amazon nations seek common voice on climate change, urge developed world to help protect rainforest**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/trump-expects-new-criminal-charges-from-georgia-election-probe.html).
+You can read more about it [here](https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc).
 
 ## Requirements
 - Python 3.8
