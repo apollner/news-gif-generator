@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691696056)
+![Generated GIF](output.gif?raw=true&v=1691697988)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gov. Ron DeSantis suspends second state prosecutor, Monique Worrell**
+**Ex-Raiders player Henry Ruggs sentenced in fatal 2021 Las Vegas DUI crash**
 
-You can read more about it [here](https://abcnews.go.com/Politics/gov-ron-desantis-suspends-state-prosecutor-monique-worrell/story?id=102130647).
+You can read more about it [here](https://www.fox5vegas.com/2023/08/09/former-raiders-player-ruggs-sentenced-3-10-years-prison-deadly-2021-dui-crash/).
 
 ## Requirements
 - Python 3.8
