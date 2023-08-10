@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691633016)
+![Generated GIF](output.gif?raw=true&v=1691634862)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tory Lanez sentenced to 10 years for shooting Megan Thee Stallion in the foot**
+**The Washington Commanders players aren’t ready for Eric Bieniemy**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/tory-lanez-sentenced-10-years-shooting-megan-thee-stallion-foot-rcna98737).
+You can read more about it [here](https://andscape.com/features/the-washington-commanders-players-arent-ready-for-eric-bieniemy/).
 
 ## Requirements
 - Python 3.8
