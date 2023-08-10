@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691676389)
+![Generated GIF](output.gif?raw=true&v=1691678140)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Italian banks recover after government caps windfall tax**
+**Dana White Announces UFC Contract Winners | DWCS - SEASON 7, EPISODE 1 - UFC**
 
-You can read more about it [here](https://www.reuters.com/markets/europe/italy-sets-01-cap-new-bank-tax-after-market-rout-2023-08-09/).
+You can read more about it [here](https://www.youtube.com/watch?v=4jt5SWH8pck).
 
 ## Requirements
 - Python 3.8
