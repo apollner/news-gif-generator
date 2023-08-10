@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691687123)
+![Generated GIF](output.gif?raw=true&v=1691688836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wildfires burn Lahaina, Maui; prompt evacuations across Hawaii**
+**Ron Rivera - 'I put my foot in my mouth' with Eric Bieniemy comments - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/09/wildfires-burn-lahaina-maui-prompt-evacuations-across-hawaii.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38161433/ron-rivera-put-my-foot-my-mouth-eric-bieniemy-comments).
 
 ## Requirements
 - Python 3.8
