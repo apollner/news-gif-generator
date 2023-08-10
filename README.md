@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691652845)
+![Generated GIF](output.gif?raw=true&v=1691655032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billy Porter Slams Bob Iger, Says “I Have to Sell My House” Due to Ongoing Strikes**
+**Report: Penn National will pay ESPN $1.5 billion over 10 years for "ESPN BET"**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/billy-porter-financial-impact-strikes-slams-bob-iger-1235559470/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-penn-national-will-pay-espn-1-5-billion-over-10-years-for-espn-bet).
 
 ## Requirements
 - Python 3.8
