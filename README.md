@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691705140)
+![Generated GIF](output.gif?raw=true&v=1691706829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Special counsel obtained search warrant for Donald Trump’s Twitter account**
+**WHO classifies EG. 5 as COVID-19 'variant of interest'**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/politics/special-counsel-trump-twitter-search-warrant/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=NN6KKz_M4ms).
 
 ## Requirements
 - Python 3.8
