@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691669614)
+![Generated GIF](output.gif?raw=true&v=1691671968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Philippines says 'promise' to remove grounded warship a figment of China's imagination**
+**9 killed in fire at French vacation home hosting people with disabilities**
 
-You can read more about it [here](https://ca.news.yahoo.com/philippines-says-promise-remove-grounded-094026980.html).
+You can read more about it [here](https://www.cnn.com/2023/08/09/europe/france-fire-holiday-home-disabled-people-intl/index.html).
 
 ## Requirements
 - Python 3.8
