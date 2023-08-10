@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691706829)
+![Generated GIF](output.gif?raw=true&v=1691708774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WHO classifies EG. 5 as COVID-19 'variant of interest'**
+**Jay Monahan cites anxiety over PGA Tour-PIF deal for medical leave - ESPN**
 
-You can read more about it [here](https://www.youtube.com/watch?v=NN6KKz_M4ms).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/38162356/jay-monahan-cites-anxiety-pga-tour-pif-deal-medical-leave).
 
 ## Requirements
 - Python 3.8
