@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691660052)
+![Generated GIF](output.gif?raw=true&v=1691662075)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Wednesday, August 9, 2023**
+**What Sonoma County's interim health officer says about new COVID-19 variant EG.5**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/9/23819406/horoscopes-today-wednesday-august-9-2023).
+You can read more about it [here](https://www.pressdemocrat.com/article/news/what-to-know-about-new-covid-19-variant-eg-5/).
 
 ## Requirements
 - Python 3.8
