@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691638456)
+![Generated GIF](output.gif?raw=true&v=1691640579)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon nations seek common voice on climate change, urge developed world to help protect rainforest**
+**49ers Training Camp: San Francisco Is Loaded and May Be Even Better in 2023**
 
-You can read more about it [here](https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc).
+You can read more about it [here](https://www.si.com/nfl/2023/08/08/2023-49ers-training-camp-brandon-aiyuk-christian-mccaffrey-clelin-ferrell).
 
 ## Requirements
 - Python 3.8
