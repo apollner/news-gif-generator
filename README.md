@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691694292)
+![Generated GIF](output.gif?raw=true&v=1691696056)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fire at French vacation home for adults with disabilities leaves 11 dead**
+**Gov. Ron DeSantis suspends second state prosecutor, Monique Worrell**
 
-You can read more about it [here](https://apnews.com/article/france-fire-disabled-holiday-wintzenheim-f9596984346f4fc30b831df834e8e705).
+You can read more about it [here](https://abcnews.go.com/Politics/gov-ron-desantis-suspends-state-prosecutor-monique-worrell/story?id=102130647).
 
 ## Requirements
 - Python 3.8
