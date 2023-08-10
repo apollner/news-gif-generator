@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691688836)
+![Generated GIF](output.gif?raw=true&v=1691690992)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ron Rivera - 'I put my foot in my mouth' with Eric Bieniemy comments - ESPN**
+**Taylor Swift Left Wonderstruck Over 8-Minute Standing Ovation at L.A. Eras Tour Show**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38161433/ron-rivera-put-my-foot-my-mouth-eric-bieniemy-comments).
+You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-standing-ovation-eras-tour-show-reaction-1235388168/).
 
 ## Requirements
 - Python 3.8
