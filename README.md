@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691634862)
+![Generated GIF](output.gif?raw=true&v=1691636864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Washington Commanders players aren’t ready for Eric Bieniemy**
+**Trump expects new criminal charges from Georgia election probe**
 
-You can read more about it [here](https://andscape.com/features/the-washington-commanders-players-arent-ready-for-eric-bieniemy/).
+You can read more about it [here](https://www.cnbc.com/2023/08/08/trump-expects-new-criminal-charges-from-georgia-election-probe.html).
 
 ## Requirements
 - Python 3.8
