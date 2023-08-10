@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691697988)
+![Generated GIF](output.gif?raw=true&v=1691699626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Raiders player Henry Ruggs sentenced in fatal 2021 Las Vegas DUI crash**
+**EG5 now dominant COVID variant in US. Here's what to know**
 
-You can read more about it [here](https://www.fox5vegas.com/2023/08/09/former-raiders-player-ruggs-sentenced-3-10-years-prison-deadly-2021-dui-crash/).
+You can read more about it [here](https://abc7ny.com/new-covid-variant-eg5-omicron-cdc/13619914/).
 
 ## Requirements
 - Python 3.8
