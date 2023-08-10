@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691643994)
+![Generated GIF](output.gif?raw=true&v=1691645632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fulton county prosecutors to seek new 2020 election charges next week**
+**Judge schedules Friday hearing on protective order in election subversion case against Trump**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/08/trump-2020-election-fulton-county-charges-next-week).
+You can read more about it [here](https://www.cnn.com/2023/08/08/politics/trump-protective-order-hearing/index.html).
 
 ## Requirements
 - Python 3.8
