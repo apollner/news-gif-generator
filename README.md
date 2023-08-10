@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691674787)
+![Generated GIF](output.gif?raw=true&v=1691676389)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brain stimulation may help TBI patients with memory recall problems : Shots - Health News**
+**Italian banks recover after government caps windfall tax**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/08/09/1192273583/when-a-brain-injury-impairs-memory-a-pulse-of-electricity-may-help).
+You can read more about it [here](https://www.reuters.com/markets/europe/italy-sets-01-cap-new-bank-tax-after-market-rout-2023-08-09/).
 
 ## Requirements
 - Python 3.8
