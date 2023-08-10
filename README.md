@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691647891)
+![Generated GIF](output.gif?raw=true&v=1691649325)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit's Gmac Cash writes song about Montgomery riverfront brawl**
+**Trump says 'young racist' Georgia DA had an affair with a gang member**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/detroit/2023/08/08/montgomery-riverfront-brawl-rap-song-gmac-cash/70553486007/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-willis-affair-gang-georgia-b2389866.html).
 
 ## Requirements
 - Python 3.8
