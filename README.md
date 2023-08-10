@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691624039)
+![Generated GIF](output.gif?raw=true&v=1691627791)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Ron Rivera has given Eric Bieniemy free rein over Commanders offense amid players' intensity concerns**
+**The GOP's meticulously laid plans for beating Jon Tester could go up in smoke**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/why-ron-rivera-has-given-eric-bieniemy-free-rein-over-commanders-offense-amid-players-intensity-concerns/).
+You can read more about it [here](https://www.politico.com/news/2023/08/08/conservative-roadblock-to-ousting-tester-00110258).
 
 ## Requirements
 - Python 3.8
