@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691649325)
+![Generated GIF](output.gif?raw=true&v=1691651164)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump says 'young racist' Georgia DA had an affair with a gang member**
+**COVID-19 cases, hospitalizations are low but steadily rising across San Diego County**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-willis-affair-gang-georgia-b2389866.html).
+You can read more about it [here](https://www.cbs8.com/article/news/local/covid-cases-hospitalizations-low-steadily-rising-across-county/509-0deb40c2-4832-4f51-936e-6aa1ed1d8de4).
 
 ## Requirements
 - Python 3.8
