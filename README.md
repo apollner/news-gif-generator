@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691662075)
+![Generated GIF](output.gif?raw=true&v=1691663795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Sonoma County's interim health officer says about new COVID-19 variant EG.5**
+**Tory Lanez gets 10 years in prison for shooting Megan Thee Stallion**
 
-You can read more about it [here](https://www.pressdemocrat.com/article/news/what-to-know-about-new-covid-19-variant-eg-5/).
+You can read more about it [here](https://apnews.com/article/tory-lanez-megan-thee-stallion-sentence-shooting-58a042216c01eae44bc2ed22bf45aba2).
 
 ## Requirements
 - Python 3.8
