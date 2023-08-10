@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691681653)
+![Generated GIF](output.gif?raw=true&v=1691683779)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US nurse and daughter released after being kidnapped in Haiti**
+**Forty-one feared dead in migrant shipwreck in central Mediterranean**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/americas/haiti-us-nurse-daughter-freed-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/forty-one-dead-migrant-shipwreck-off-italys-lampedusa-island-ansa-2023-08-09/).
 
 ## Requirements
 - Python 3.8
