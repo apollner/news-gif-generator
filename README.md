@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691656522)
+![Generated GIF](output.gif?raw=true&v=1691658411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**L.A. city workers' one-day strike comes to end after impacting services**
+**Riley Keough On The Last Time She Saw Mom Lisa Marie Presley & Legal Drama With Grandmother Priscilla**
 
-You can read more about it [here](https://www.youtube.com/watch?v=x3H2CVuo_8A).
+You can read more about it [here](https://deadline.com/2023/08/riley-keough-last-time-she-saw-mom-lisa-marie-presley-legal-drama-grandmother-priscilla-1235458098/).
 
 ## Requirements
 - Python 3.8
