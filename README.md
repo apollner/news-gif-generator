@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691640579)
+![Generated GIF](output.gif?raw=true&v=1691642109)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**49ers Training Camp: San Francisco Is Loaded and May Be Even Better in 2023**
+**Trump, Christie feast on insults in New Hampshire**
 
-You can read more about it [here](https://www.si.com/nfl/2023/08/08/2023-49ers-training-camp-brandon-aiyuk-christian-mccaffrey-clelin-ferrell).
+You can read more about it [here](https://www.politico.com/news/2023/08/08/trump-christie-new-hampshire-00110413).
 
 ## Requirements
 - Python 3.8
