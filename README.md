@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691701508)
+![Generated GIF](output.gif?raw=true&v=1691703246)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gov. Ron DeSantis suspends second state prosecutor, Monique Worrell**
+**Teen Rapper Lil Tay Dead**
 
-You can read more about it [here](https://abcnews.go.com/Politics/gov-ron-desantis-suspends-state-prosecutor-monique-worrell/story?id=102130647).
+You can read more about it [here](https://www.eonline.com/news/1382626/teen-rapper-lil-tay-dead).
 
 ## Requirements
 - Python 3.8
