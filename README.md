@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691642109)
+![Generated GIF](output.gif?raw=true&v=1691643994)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump, Christie feast on insults in New Hampshire**
+**Fulton county prosecutors to seek new 2020 election charges next week**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/08/trump-christie-new-hampshire-00110413).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/08/trump-2020-election-fulton-county-charges-next-week).
 
 ## Requirements
 - Python 3.8
