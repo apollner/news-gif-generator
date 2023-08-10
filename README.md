@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691692430)
+![Generated GIF](output.gif?raw=true&v=1691694292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney set to report earnings after the bell. Here's what to expect**
+**Fire at French vacation home for adults with disabilities leaves 11 dead**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/09/disney-dis-earnings-report-q3-2023.html).
+You can read more about it [here](https://apnews.com/article/france-fire-disabled-holiday-wintzenheim-f9596984346f4fc30b831df834e8e705).
 
 ## Requirements
 - Python 3.8
