@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691690992)
+![Generated GIF](output.gif?raw=true&v=1691692430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Left Wonderstruck Over 8-Minute Standing Ovation at L.A. Eras Tour Show**
+**Disney set to report earnings after the bell. Here's what to expect**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-standing-ovation-eras-tour-show-reaction-1235388168/).
+You can read more about it [here](https://www.cnbc.com/2023/08/09/disney-dis-earnings-report-q3-2023.html).
 
 ## Requirements
 - Python 3.8
