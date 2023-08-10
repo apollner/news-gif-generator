@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691651164)
+![Generated GIF](output.gif?raw=true&v=1691652845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID-19 cases, hospitalizations are low but steadily rising across San Diego County**
+**Billy Porter Slams Bob Iger, Says “I Have to Sell My House” Due to Ongoing Strikes**
 
-You can read more about it [here](https://www.cbs8.com/article/news/local/covid-cases-hospitalizations-low-steadily-rising-across-county/509-0deb40c2-4832-4f51-936e-6aa1ed1d8de4).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/billy-porter-financial-impact-strikes-slams-bob-iger-1235559470/).
 
 ## Requirements
 - Python 3.8
