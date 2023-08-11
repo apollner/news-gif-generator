@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691777362)
+![Generated GIF](output.gif?raw=true&v=1691778834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emmys 2023 have been pushed to January 2024, on Martin Luther King Jr. Day**
+**ProPublica report offers broadest look yet at Clarence Thomas’ luxury travel bankrolled by wealthy friends reveals private jet and helicopter rides and VIP sporting event tickets**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/entertainment/emmy-awards-new-date/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/10/politics/clarence-thomas-gifts-hospitality-propublica-report/index.html).
 
 ## Requirements
 - Python 3.8
