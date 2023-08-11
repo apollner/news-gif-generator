@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691753664)
+![Generated GIF](output.gif?raw=true&v=1691755921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
+**Utah man suspected of threatening Biden is shot and killed as FBI served warrant**
 
-You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
+You can read more about it [here](https://www.politico.com/news/2023/08/09/utah-man-threatens-biden-fbi-killed-00110554).
 
 ## Requirements
 - Python 3.8
