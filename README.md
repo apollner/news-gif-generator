@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691773512)
+![Generated GIF](output.gif?raw=true&v=1691775317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Women's World Cup Daily: Quarterfinal preview, predictions - ESPN**
+**Owners of ‘LGBT’ Swatch watches could be jailed for three years in Malaysia**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38164369/womens-world-cup-daily-quarterfinal-preview-predictions).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/10/owners-lgbt-swatch-watches-could-jailed-malaysia).
 
 ## Requirements
 - Python 3.8
