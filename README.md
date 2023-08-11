@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691780704)
+![Generated GIF](output.gif?raw=true&v=1691784451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Staggering Ohio loss ignites an identity crisis within the anti-abortion movement**
+**Anti-corruption presidential candidate is assassinated in Ecuador as country reels from violence**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/10/anti-abortion-movement-defeat-ohio-00110543).
+You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-ee9c726b82c09e16e5dacde2d6f005ff).
 
 ## Requirements
 - Python 3.8
