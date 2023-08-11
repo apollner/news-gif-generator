@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691786047)
+![Generated GIF](output.gif?raw=true&v=1691787904)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside Russia's attempts to hack Ukrainian military operations**
+**Average long-term US mortgage rate climbs to 6.96% this week, matching highest level this year**
 
-You can read more about it [here](https://www.npr.org/2023/08/10/1193167328/russia-hack-ukraine-military).
+You can read more about it [here](https://apnews.com/article/mortgage-interest-rates-housing-loans-real-estate-9056e7dff17c205779a3869eace60def).
 
 ## Requirements
 - Python 3.8
