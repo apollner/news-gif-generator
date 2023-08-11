@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691720113)
+![Generated GIF](output.gif?raw=true&v=1691721239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Picket Line Regulars Bolster Solidarity Among Writers As WGA Strike Hits 100 Days**
+**tvOS 17 Code Confirms A17 Chip for iPhone 15 Pro, A16 for iPhone 15**
 
-You can read more about it [here](https://deadline.com/2023/08/writers-strike-picket-line-regulars-bolster-solidarity-100-days-1235457731/).
+You can read more about it [here](https://www.macrumors.com/2023/08/09/tvos-code-a17-chip-iphone-15/).
 
 ## Requirements
 - Python 3.8
