@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691791513)
+![Generated GIF](output.gif?raw=true&v=1691793251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ocean heat is off the charts, so where are the hurricanes? Forecasters warn a change is coming**
+**Trump valet pleads not guilty in classified documents case; property manager's arraignment postponed**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/weather/hurricane-season-ocean-temperatures-climate/index.html).
+You can read more about it [here](https://apnews.com/article/trump-classified-documents-maralago-arraignment-eaa8eed74b2de9416210cf9f2af15e65).
 
 ## Requirements
 - Python 3.8
