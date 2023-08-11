@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691751911)
+![Generated GIF](output.gif?raw=true&v=1691753664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kim Jong Un fires top general, orders North Korean military to ‘gird for war’**
+**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/asia/north-korea-top-general-replaced-intl-hnk-ml/index.html).
+You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
 
 ## Requirements
 - Python 3.8
