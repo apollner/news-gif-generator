@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691737598)
+![Generated GIF](output.gif?raw=true&v=1691739260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event**
+**Stark: Michael Lorenzen’s no-hitter in second Phillies start was baseball poetry**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html).
+You can read more about it [here](https://theathletic.com/4764078/2023/08/09/michael-lorenzen-no-hitter-phillies-nationals/).
 
 ## Requirements
 - Python 3.8
