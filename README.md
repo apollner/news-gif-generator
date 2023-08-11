@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691758062)
+![Generated GIF](output.gif?raw=true&v=1691759392)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan v Sweden Highlights | 2011 FIFA Women's World Cup**
+**Anti-abortion movement clashes over crushing defeat in Ohio**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ka_xYT9jjkw).
+You can read more about it [here](https://www.politico.com/news/2023/08/10/anti-abortion-movement-defeat-ohio-00110543).
 
 ## Requirements
 - Python 3.8
