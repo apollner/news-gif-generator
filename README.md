@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691793251)
+![Generated GIF](output.gif?raw=true&v=1691795146)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump valet pleads not guilty in classified documents case; property manager's arraignment postponed**
+**Mortgage rates rise to just short of 7%**
 
-You can read more about it [here](https://apnews.com/article/trump-classified-documents-maralago-arraignment-eaa8eed74b2de9416210cf9f2af15e65).
+You can read more about it [here](https://www.cnn.com/2023/08/10/homes/mortgage-rates-august-10/index.html).
 
 ## Requirements
 - Python 3.8
