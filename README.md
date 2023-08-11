@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691771711)
+![Generated GIF](output.gif?raw=true&v=1691773512)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How WeWork is nearing failure after a valuation of $47 billion in 2019**
+**Women's World Cup Daily: Quarterfinal preview, predictions - ESPN**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/how-wework-nears-failure-after-valuation-47-billion-2019).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38164369/womens-world-cup-daily-quarterfinal-preview-predictions).
 
 ## Requirements
 - Python 3.8
