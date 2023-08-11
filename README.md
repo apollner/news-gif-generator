@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691775317)
+![Generated GIF](output.gif?raw=true&v=1691777362)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Owners of ‘LGBT’ Swatch watches could be jailed for three years in Malaysia**
+**Emmys 2023 have been pushed to January 2024, on Martin Luther King Jr. Day**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/10/owners-lgbt-swatch-watches-could-jailed-malaysia).
+You can read more about it [here](https://www.cnn.com/2023/08/10/entertainment/emmy-awards-new-date/index.html).
 
 ## Requirements
 - Python 3.8
