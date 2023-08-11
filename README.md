@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691732042)
+![Generated GIF](output.gif?raw=true&v=1691734215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump on Newsmax reveals he will say next week whether he will debate**
+**Sources: Cal, Stanford to ACC hits 'significant roadblocks' - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/09/donald-trump-newsmax-debate/70563053007/).
+You can read more about it [here](https://www.espn.com/college-sports/story/_/id/38164566/sources-cal-stanford-acc-hits-significant-roadblocks).
 
 ## Requirements
 - Python 3.8
