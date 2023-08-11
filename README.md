@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691768038)
+![Generated GIF](output.gif?raw=true&v=1691770146)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Long-term use of acid reflux drugs linked to higher risk of dementia**
+**How WeWork is nearing failure after a valuation of $47 billion in 2019**
 
-You can read more about it [here](https://www.today.com/video/long-term-use-of-acid-reflux-drugs-linked-to-higher-risk-of-dementia-190534725806).
+You can read more about it [here](https://www.foxbusiness.com/markets/how-wework-nears-failure-after-valuation-47-billion-2019).
 
 ## Requirements
 - Python 3.8
