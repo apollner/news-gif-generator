@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691778834)
+![Generated GIF](output.gif?raw=true&v=1691780704)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ProPublica report offers broadest look yet at Clarence Thomas’ luxury travel bankrolled by wealthy friends reveals private jet and helicopter rides and VIP sporting event tickets**
+**Staggering Ohio loss ignites an identity crisis within the anti-abortion movement**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/politics/clarence-thomas-gifts-hospitality-propublica-report/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/10/anti-abortion-movement-defeat-ohio-00110543).
 
 ## Requirements
 - Python 3.8
