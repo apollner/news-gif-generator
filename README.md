@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691787904)
+![Generated GIF](output.gif?raw=true&v=1691789637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Average long-term US mortgage rate climbs to 6.96% this week, matching highest level this year**
+**Ocean heat is off the charts, so where are the hurricanes? Forecasters warn a change is coming**
 
-You can read more about it [here](https://apnews.com/article/mortgage-interest-rates-housing-loans-real-estate-9056e7dff17c205779a3869eace60def).
+You can read more about it [here](https://www.cnn.com/2023/08/10/weather/hurricane-season-ocean-temperatures-climate/index.html).
 
 ## Requirements
 - Python 3.8
