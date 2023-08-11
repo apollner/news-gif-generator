@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691719190)
+![Generated GIF](output.gif?raw=true&v=1691720113)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney to Significantly Raise Prices of Disney+, Hulu Streaming Services**
+**Picket Line Regulars Bolster Solidarity Among Writers As WGA Strike Hits 100 Days**
 
-You can read more about it [here](https://www.wsj.com/articles/disney-raising-prices-hulu-espn-earnings-call-64ae262).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-picket-line-regulars-bolster-solidarity-100-days-1235457731/).
 
 ## Requirements
 - Python 3.8
