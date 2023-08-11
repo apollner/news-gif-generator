@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691717366)
+![Generated GIF](output.gif?raw=true&v=1691719190)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida's DeSantis replaces elected Democratic prosecutor**
+**Disney to Significantly Raise Prices of Disney+, Hulu Streaming Services**
 
-You can read more about it [here](https://www.reuters.com/world/us/floridas-desantis-replaces-elected-democratic-prosecutor-2023-08-09/).
+You can read more about it [here](https://www.wsj.com/articles/disney-raising-prices-hulu-espn-earnings-call-64ae262).
 
 ## Requirements
 - Python 3.8
