@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691742833)
+![Generated GIF](output.gif?raw=true&v=1691744779)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources: Cal, Stanford to ACC hits 'significant roadblocks' - ESPN**
+**North Korea’s Kim Jong Un sacks top general, calls for more arms production**
 
-You can read more about it [here](https://www.espn.com/college-sports/story/_/id/38164566/sources-cal-stanford-acc-hits-significant-roadblocks).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/10/north-koreas-kim-jong-un-sacks-top-general-calls-for-more-arms-production).
 
 ## Requirements
 - Python 3.8
