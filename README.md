@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691723198)
+![Generated GIF](output.gif?raw=true&v=1691724859)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mars rover finds signs of seasonal floods**
+**She lost more money than anyone on Bloomberg’s billionaires list since Covid. China’s property crisis is to blame**
 
-You can read more about it [here](https://arstechnica.com/science/2023/08/mars-rover-finds-signs-of-seasonal-floods/).
+You can read more about it [here](https://www.cnn.com/2023/08/09/business/country-garden-yang-huiyan-fortune/index.html).
 
 ## Requirements
 - Python 3.8
