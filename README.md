@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691766380)
+![Generated GIF](output.gif?raw=true&v=1691768038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Coach owner creates US luxury giant with $8.5 bln deal for Michael Kors parent**
+**Long-term use of acid reflux drugs linked to higher risk of dementia**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/coach-parent-tapestry-talks-buy-michael-kors-owner-wsj-2023-08-10/).
+You can read more about it [here](https://www.today.com/video/long-term-use-of-acid-reflux-drugs-linked-to-higher-risk-of-dementia-190534725806).
 
 ## Requirements
 - Python 3.8
