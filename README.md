@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691735636)
+![Generated GIF](output.gif?raw=true&v=1691737598)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Robbie Robertson cause of death: The Band frontman dies aged 80**
+**Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/robbie-robertson-dead-cause-of-death-b2390649.html).
+You can read more about it [here](https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
