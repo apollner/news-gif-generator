@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691710441)
+![Generated GIF](output.gif?raw=true&v=1691713710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A lawsuit accuses a Georgia doctor of decapitating a baby during delivery**
+**Disney Earnings: Streaming Losses Subside Even As Disney+ Subscribers Dwindle**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/lawsuit-accuses-georgia-doctor-decapitating-baby-delivery-102143178).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/08/09/disney-earnings-streaming-losses-subside-even-as-disney-subscribers-dwindle/).
 
 ## Requirements
 - Python 3.8
