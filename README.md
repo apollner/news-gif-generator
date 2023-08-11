@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691795146)
+![Generated GIF](output.gif?raw=true&v=1691796846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortgage rates rise to just short of 7%**
+**Overwatch 2: Invasion - Official Illari Gameplay Trailer**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/homes/mortgage-rates-august-10/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=3M5om9-Esaw).
 
 ## Requirements
 - Python 3.8
