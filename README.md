@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691762815)
+![Generated GIF](output.gif?raw=true&v=1691764454)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney to launch cheaper ad-supported service in UK**
+**This common medication may lead to dementia - study**
 
-You can read more about it [here](https://www.bbc.com/news/business-66454314).
+You can read more about it [here](https://www.jpost.com/health-and-wellness/article-754273).
 
 ## Requirements
 - Python 3.8
