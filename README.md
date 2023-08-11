@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691755921)
+![Generated GIF](output.gif?raw=true&v=1691758062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Utah man suspected of threatening Biden is shot and killed as FBI served warrant**
+**Japan v Sweden Highlights | 2011 FIFA Women's World Cup**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/09/utah-man-threatens-biden-fbi-killed-00110554).
+You can read more about it [here](https://www.youtube.com/watch?v=ka_xYT9jjkw).
 
 ## Requirements
 - Python 3.8
