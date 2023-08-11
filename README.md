@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691748412)
+![Generated GIF](output.gif?raw=true&v=1691750035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
+**Lebanon, Kuwait Poised to Ban ‘Barbie’ for Promoting Homosexuality**
 
-You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
+You can read more about it [here](https://variety.com/2023/film/news/lebanon-ban-barbie-homosexuality-1235692863/).
 
 ## Requirements
 - Python 3.8
