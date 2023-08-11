@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691730543)
+![Generated GIF](output.gif?raw=true&v=1691732042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA visits Redmond aerospace company to thank workers on Artemis 1 mission**
+**Trump on Newsmax reveals he will say next week whether he will debate**
 
-You can read more about it [here](https://komonews.com/news/local/nasa-artemis-1-one-aerospace-aircraft-orion-aerojet-redmond-western-washington-seattle-king-county-space-moon-travel-exploration).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/09/donald-trump-newsmax-debate/70563053007/).
 
 ## Requirements
 - Python 3.8
