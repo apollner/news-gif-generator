@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691728458)
+![Generated GIF](output.gif?raw=true&v=1691730543)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**She lost more money than anyone on Bloomberg’s billionaires list since Covid. China’s property crisis is to blame**
+**NASA visits Redmond aerospace company to thank workers on Artemis 1 mission**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/business/country-garden-yang-huiyan-fortune/index.html).
+You can read more about it [here](https://komonews.com/news/local/nasa-artemis-1-one-aerospace-aircraft-orion-aerojet-redmond-western-washington-seattle-king-county-space-moon-travel-exploration).
 
 ## Requirements
 - Python 3.8
