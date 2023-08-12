@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691822044)
+![Generated GIF](output.gif?raw=true&v=1691823894)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Houston Texans vs. New England Patriots Game Highlights | 2023 Preseason Week 1**
+**Supreme Court blocks $6 billion opioid settlement that would have given the Sackler family immunity**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9cmJp7B3uN8).
+You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
 
 ## Requirements
 - Python 3.8
