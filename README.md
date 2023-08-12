@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691856480)
+![Generated GIF](output.gif?raw=true&v=1691858156)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists may be on brink of discovering fifth force of nature**
+**Don’t be fooled by rising consumer price data, take a peek behind the numbers**
 
-You can read more about it [here](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature).
+You can read more about it [here](https://www.cnn.com/2023/08/11/investing/premarket-stocks-trading-inflation/index.html).
 
 ## Requirements
 - Python 3.8
