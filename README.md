@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691865237)
+![Generated GIF](output.gif?raw=true&v=1691867089)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heat can endanger some people faster than others. Are you one of them?**
+**Teen accused of stabbing O'Shae Sibley to death to be arraigned in Brooklyn**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/health/most-at-risk-heat-wave-wellness/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Zo4_spdHt4Q).
 
 ## Requirements
 - Python 3.8
