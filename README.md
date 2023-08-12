@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691807627)
+![Generated GIF](output.gif?raw=true&v=1691809598)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Reward our employees’: UPS drivers to make $170,000 in pay, benefits under new contract**
+**Iran transfers five imprisoned Americans to house arrest**
 
-You can read more about it [here](https://www.kalb.com/2023/08/10/reward-our-employees-ups-drivers-make-170000-pay-benefits-under-new-contract/).
+You can read more about it [here](https://www.ft.com/content/cdc8ca8c-d816-4726-acf8-cea1dc295226).
 
 ## Requirements
 - Python 3.8
