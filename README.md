@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691852828)
+![Generated GIF](output.gif?raw=true&v=1691854516)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Eris’ Is Dominant COVID Subvariant in U.S.: What to Know**
+**Women’s World Cup: Sweden to play Spain in semifinals after impressive victory over Japan**
 
-You can read more about it [here](https://www.wsj.com/articles/eg5-eris-new-covid-19-variant-fa3cc260).
+You can read more about it [here](https://www.cnn.com/2023/08/11/football/japan-sweden-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
