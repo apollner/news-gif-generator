@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691809598)
+![Generated GIF](output.gif?raw=true&v=1691811241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran transfers five imprisoned Americans to house arrest**
+**Heart of Stone Review**
 
-You can read more about it [here](https://www.ft.com/content/cdc8ca8c-d816-4726-acf8-cea1dc295226).
+You can read more about it [here](https://www.ign.com/articles/heart-of-stone-gal-gadot-netflix-review).
 
 ## Requirements
 - Python 3.8
