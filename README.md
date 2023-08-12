@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691796846)
+![Generated GIF](output.gif?raw=true&v=1691800062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Overwatch 2: Invasion - Official Illari Gameplay Trailer**
+**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3M5om9-Esaw).
+You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
 
 ## Requirements
 - Python 3.8
