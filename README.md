@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691863698)
+![Generated GIF](output.gif?raw=true&v=1691865237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lab Tour: See How Samsung Puts Its Galaxy Phones Through the Wringer**
+**Heat can endanger some people faster than others. Are you one of them?**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/how-samsung-puts-its-galaxy-phones-through-the-wringer/).
+You can read more about it [here](https://www.cnn.com/2023/08/11/health/most-at-risk-heat-wave-wellness/index.html).
 
 ## Requirements
 - Python 3.8
