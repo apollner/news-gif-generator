@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691845552)
+![Generated GIF](output.gif?raw=true&v=1691847240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
+**STIs are on the rise in the US. A pill taken after sex could help slow them down**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
+You can read more about it [here](https://www.cnn.com/2023/08/11/health/doxypep-sti-prevention-pill/index.html).
 
 ## Requirements
 - Python 3.8
