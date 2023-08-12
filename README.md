@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691872437)
+![Generated GIF](output.gif?raw=true&v=1691874299)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran claims there will be no restrictions on access to money released in U.S. prisoner exchange**
+**Grand jury indicts Raul Meza Jr. in 2 Austin area murders**
 
-You can read more about it [here](https://www.cbsnews.com/news/iran-prisoner-deal-money-6-billion-restrictions/).
+You can read more about it [here](https://www.kxan.com/news/local/austin/grand-jury-indicts-raul-meza-on-murder-capital-murder-connected-to-66-year-old-womans-death/).
 
 ## Requirements
 - Python 3.8
