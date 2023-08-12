@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691870746)
+![Generated GIF](output.gif?raw=true&v=1691872437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Katharine McPhee leaves Asia shows early due to 'horrible tragedy' in family**
+**Iran claims there will be no restrictions on access to money released in U.S. prisoner exchange**
 
-You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-11/katharine-mcphee-family-tragedy-asia-tour-indonesia-david-foster).
+You can read more about it [here](https://www.cbsnews.com/news/iran-prisoner-deal-money-6-billion-restrictions/).
 
 ## Requirements
 - Python 3.8
