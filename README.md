@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691840125)
+![Generated GIF](output.gif?raw=true&v=1691842268)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court stops Purdue Pharma bankruptcy deal**
+**Japan vs. Sweden live updates: Sweden leads 2-0 early in second half**
 
-You can read more about it [here](https://www.axios.com/2023/08/10/supreme-court-purdue-pharma-bankruptcy).
+You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-japan-sweden).
 
 ## Requirements
 - Python 3.8
