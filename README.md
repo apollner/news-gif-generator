@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691876044)
+![Generated GIF](output.gif?raw=true&v=1691877907)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis is resetting his campaign again. Some Republicans worry his message is getting in the way**
+**Phil Mickelson's alleged gambling habit could contribute to more oversight of all sports**
 
-You can read more about it [here](https://apnews.com/article/desantis-republican-president-iowa-trump-2024-reset-662ac8017fcda6a9e9ede6a6034328ee).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/phil-mickelsons-alleged-gambling-habit-could-contribute-to-more-oversight-of-all-sports).
 
 ## Requirements
 - Python 3.8
