@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691806304)
+![Generated GIF](output.gif?raw=true&v=1691807627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court blocks $6 billion Purdue Pharma opioid settlement and will hear case this fall**
+**‘Reward our employees’: UPS drivers to make $170,000 in pay, benefits under new contract**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
+You can read more about it [here](https://www.kalb.com/2023/08/10/reward-our-employees-ups-drivers-make-170000-pay-benefits-under-new-contract/).
 
 ## Requirements
 - Python 3.8
