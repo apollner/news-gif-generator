@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691816737)
+![Generated GIF](output.gif?raw=true&v=1691818451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPS driver pay, benefits could average $170,000 annually with contract**
+**Long-term use of certain reflux medications is associated with a higher risk of dementia, study suggests**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/10/ups-driver-pay-new-contract/70571518007/).
+You can read more about it [here](https://www.cnn.com/2023/08/09/health/acid-reflux-medication-dementia/index.html).
 
 ## Requirements
 - Python 3.8
