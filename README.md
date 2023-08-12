@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691800062)
+![Generated GIF](output.gif?raw=true&v=1691803674)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
+**Russia’s Luna 25 mission launches to the moon**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
+You can read more about it [here](https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
