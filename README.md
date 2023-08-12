@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691842268)
+![Generated GIF](output.gif?raw=true&v=1691844281)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan vs. Sweden live updates: Sweden leads 2-0 early in second half**
+**iOS 17 updates: iPhone users will soon have to adjust to this small but significant change**
 
-You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-japan-sweden).
+You can read more about it [here](https://6abc.com/apple-iphone-new-ios17-emergency-sos-when-does-the-come-out/13630629/).
 
 ## Requirements
 - Python 3.8
