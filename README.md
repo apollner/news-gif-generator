@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691823894)
+![Generated GIF](output.gif?raw=true&v=1691825629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court blocks $6 billion opioid settlement that would have given the Sackler family immunity**
+**US suicides hit an all-time high last year**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
+You can read more about it [here](https://apnews.com/article/suicides-record-2022-guns-48511d74deb24d933e66cec1b6f2d545).
 
 ## Requirements
 - Python 3.8
