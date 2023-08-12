@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691838279)
+![Generated GIF](output.gif?raw=true&v=1691840125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Biden's executive order means for U.S. investors in China**
+**Supreme Court stops Purdue Pharma bankruptcy deal**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/11/what-bidens-executive-order-means-for-us-investors-in-china-.html).
+You can read more about it [here](https://www.axios.com/2023/08/10/supreme-court-purdue-pharma-bankruptcy).
 
 ## Requirements
 - Python 3.8
