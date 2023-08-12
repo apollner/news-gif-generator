@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691811241)
+![Generated GIF](output.gif?raw=true&v=1691813320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heart of Stone Review**
+**NFL Picks, Odds: Expert Makes Seahawks vs Vikings Prediction (Thursday, Aug. 10)**
 
-You can read more about it [here](https://www.ign.com/articles/heart-of-stone-gal-gadot-netflix-review).
+You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-picks-odds-preseason-previews-texans-vs-patriots-vikings-vs-seahawks).
 
 ## Requirements
 - Python 3.8
