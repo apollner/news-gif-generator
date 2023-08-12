@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691868827)
+![Generated GIF](output.gif?raw=true&v=1691870746)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prince Harry LOSES Title To Prince William In Military Reshuffle**
+**Katharine McPhee leaves Asia shows early due to 'horrible tragedy' in family**
 
-You can read more about it [here](https://www.youtube.com/watch?v=YDC-d7d99mM).
+You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-11/katharine-mcphee-family-tragedy-asia-tour-indonesia-david-foster).
 
 ## Requirements
 - Python 3.8
