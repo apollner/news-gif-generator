@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691805479)
+![Generated GIF](output.gif?raw=true&v=1691806304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phil Mickelson considered a bet on 2012 Ryder Cup, book alleges**
+**Supreme Court blocks $6 billion Purdue Pharma opioid settlement and will hear case this fall**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/golf/phil-mickelson-bet-ryder-cup/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
 
 ## Requirements
 - Python 3.8
