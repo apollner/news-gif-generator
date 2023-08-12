@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691847240)
+![Generated GIF](output.gif?raw=true&v=1691849095)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**STIs are on the rise in the US. A pill taken after sex could help slow them down**
+**Tensions rise as West African nations prepare to send troops to restore democracy in Niger**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/health/doxypep-sti-prevention-pill/index.html).
+You can read more about it [here](https://apnews.com/article/niger-coup-west-africa-bfd1ddcf075379289475d3f72d85fa16).
 
 ## Requirements
 - Python 3.8
