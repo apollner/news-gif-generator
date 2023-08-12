@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691803674)
+![Generated GIF](output.gif?raw=true&v=1691805479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia’s Luna 25 mission launches to the moon**
+**Phil Mickelson considered a bet on 2012 Ryder Cup, book alleges**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/10/golf/phil-mickelson-bet-ryder-cup/index.html).
 
 ## Requirements
 - Python 3.8
