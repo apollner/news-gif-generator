@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691818451)
+![Generated GIF](output.gif?raw=true&v=1691820546)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Long-term use of certain reflux medications is associated with a higher risk of dementia, study suggests**
+**Houston Texans vs. New England Patriots Game Highlights | 2023 Preseason Week 1**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/health/acid-reflux-medication-dementia/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=9cmJp7B3uN8).
 
 ## Requirements
 - Python 3.8
