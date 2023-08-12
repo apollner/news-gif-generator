@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691881513)
+![Generated GIF](output.gif?raw=true&v=1691883232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Intel CPUs Witness Downfall In Performance After “Downfall” Vulnerability Mitigations Applied**
+**Microsoft's Copilot AI can now help deploy (or micromanage) cable technicians**
 
-You can read more about it [here](https://wccftech.com/intel-cpus-witness-downfall-in-performance-after-downfall-vulnerability-mitigations-applied/).
+You can read more about it [here](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers).
 
 ## Requirements
 - Python 3.8
