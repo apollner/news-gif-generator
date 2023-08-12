@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691877907)
+![Generated GIF](output.gif?raw=true&v=1691879644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phil Mickelson's alleged gambling habit could contribute to more oversight of all sports**
+**European markets close lower; UBS ends Credit Suisse protection measures, shares up 4.7%**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/phil-mickelsons-alleged-gambling-habit-could-contribute-to-more-oversight-of-all-sports).
+You can read more about it [here](https://www.cnbc.com/2023/08/11/european-markets-open-to-close-earnings-data-and-news.html).
 
 ## Requirements
 - Python 3.8
