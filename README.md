@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691850832)
+![Generated GIF](output.gif?raw=true&v=1691852828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UBS ends taxpayer backstop granted for Credit Suisse rescue**
+**‘Eris’ Is Dominant COVID Subvariant in U.S.: What to Know**
 
-You can read more about it [here](https://www.reuters.com/business/finance/ubs-terminates-loss-protection-agreement-with-swiss-government-2023-08-11/).
+You can read more about it [here](https://www.wsj.com/articles/eg5-eris-new-covid-19-variant-fa3cc260).
 
 ## Requirements
 - Python 3.8
