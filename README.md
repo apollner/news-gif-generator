@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691834744)
+![Generated GIF](output.gif?raw=true&v=1691836496)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US suicide deaths reached record high in 2022, CDC data shows**
+**Samsung is kicking off its One UI 6 beta program**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-suicide-deaths-reached-record-high-2022-cdc-data-shows-2023-08-11/).
+You can read more about it [here](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23).
 
 ## Requirements
 - Python 3.8
