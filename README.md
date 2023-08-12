@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691858156)
+![Generated GIF](output.gif?raw=true&v=1691859907)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Don’t be fooled by rising consumer price data, take a peek behind the numbers**
+**‘Heart of Stone’ suits up Gal Gadot in a not-so-wonderful spy thriller**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/investing/premarket-stocks-trading-inflation/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/11/movies/heart-of-stone-review/index.html).
 
 ## Requirements
 - Python 3.8
