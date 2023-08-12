@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691861661)
+![Generated GIF](output.gif?raw=true&v=1691863698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 celebrities who don't use an iPhone and the surprising reasons why**
+**Lab Tour: See How Samsung Puts Its Galaxy Phones Through the Wringer**
 
-You can read more about it [here](https://www.phonearena.com/news/5-celebrities-who-dont-use-an-iPhone-and-the-surprising-reasons-why_id149663).
+You can read more about it [here](https://www.cnet.com/tech/mobile/how-samsung-puts-its-galaxy-phones-through-the-wringer/).
 
 ## Requirements
 - Python 3.8
