@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691814859)
+![Generated GIF](output.gif?raw=true&v=1691816737)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Picks, Odds: Expert Makes Seahawks vs Vikings Prediction (Thursday, Aug. 10)**
+**UPS driver pay, benefits could average $170,000 annually with contract**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-picks-odds-preseason-previews-texans-vs-patriots-vikings-vs-seahawks).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/10/ups-driver-pay-new-contract/70571518007/).
 
 ## Requirements
 - Python 3.8
