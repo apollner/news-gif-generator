@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691854516)
+![Generated GIF](output.gif?raw=true&v=1691856480)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Women’s World Cup: Sweden to play Spain in semifinals after impressive victory over Japan**
+**Scientists may be on brink of discovering fifth force of nature**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/football/japan-sweden-womens-world-cup-spt-intl/index.html).
+You can read more about it [here](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature).
 
 ## Requirements
 - Python 3.8
