@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691836496)
+![Generated GIF](output.gif?raw=true&v=1691838279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung is kicking off its One UI 6 beta program**
+**What Biden's executive order means for U.S. investors in China**
 
-You can read more about it [here](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23).
+You can read more about it [here](https://www.cnbc.com/2023/08/11/what-bidens-executive-order-means-for-us-investors-in-china-.html).
 
 ## Requirements
 - Python 3.8
