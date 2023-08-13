@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691960693)
+![Generated GIF](output.gif?raw=true&v=1691962453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump hits out at Fulton County DA decrying expected indictment as 'con job'**
+**3-year-old migrant dies on bus heading from Texas to Chicago, officials say**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-fulton-county-indictment-fani-willis-b2392045.html).
+You can read more about it [here](https://abc7.com/migrant-child-dies-on-bus-texas-asylum-seekers-migrants/13638273/).
 
 ## Requirements
 - Python 3.8
