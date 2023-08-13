@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691951642)
+![Generated GIF](output.gif?raw=true&v=1691953463)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top Stories: iPhone 15 Event Date, Apple Watch and Mac Rumors, and More**
+**Winners & losers from Steelers preseason win over Bucs**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/12/top-stories-iphone-15-event-date-rumor/).
+You can read more about it [here](https://www.behindthesteelcurtain.com/2023/8/12/23829461/steelers-preseason-winners-losers-nick-herbig-anthony-mcfarland-kendrick-green-kwon-alexander).
 
 ## Requirements
 - Python 3.8
