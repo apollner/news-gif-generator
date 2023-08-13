@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691897640)
+![Generated GIF](output.gif?raw=true&v=1691899726)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Preseason Blitz: Jordan Love looks good in first preseason action as Packers starter**
+**Video of New PS5 Slim Model Posted Online**
 
-You can read more about it [here](https://sports.yahoo.com/preseason-blitz-jordan-love-looks-good-in-first-preseason-action-as-packers-starter-002147653.html).
+You can read more about it [here](https://www.pushsquare.com/news/2023/08/video-of-new-ps5-slim-model-posted-online).
 
 ## Requirements
 - Python 3.8
