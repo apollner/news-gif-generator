@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691890406)
+![Generated GIF](output.gif?raw=true&v=1691892836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Viet Dinh, Fox's top lawyer who oversaw its $787 million Dominion settlement, is stepping down**
+**Japan exits the Women's World Cup but sees progress in young squad**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/business/viet-dinh-fox/index.html).
+You can read more about it [here](https://apnews.com/article/womens-world-cup-japan-sweden-endo-cd4a3d5d05968e4b92293baeeadb6dd3).
 
 ## Requirements
 - Python 3.8
