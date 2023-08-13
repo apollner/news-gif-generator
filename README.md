@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691903150)
+![Generated GIF](output.gif?raw=true&v=1691904870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LA Knight drops Top Dolla, then drops bars on The Miz: SmackDown highlights, Aug. 11, 2023**
+**AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week**
 
-You can read more about it [here](https://www.youtube.com/watch?v=I1yF1qGp6PY).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/).
 
 ## Requirements
 - Python 3.8
