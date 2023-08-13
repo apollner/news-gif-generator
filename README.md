@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691904870)
+![Generated GIF](output.gif?raw=true&v=1691906974)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week**
+**New Yorkers feeling the squeeze as Manhattan rents hit new high**
 
-You can read more about it [here](https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/).
+You can read more about it [here](https://www.youtube.com/watch?v=GESOh-uZ63A).
 
 ## Requirements
 - Python 3.8
