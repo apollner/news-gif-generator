@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691955239)
+![Generated GIF](output.gif?raw=true&v=1691957147)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Medical Mysteries: A boy's collapse exposed a heart-stopping discovery**
+**3 injured, 3 missing after apparent house explosion in Pennsylvania**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/12/medical-mysteries-teen-collapse-dizziness/).
+You can read more about it [here](https://abcnews.go.com/US/plum-pennsylvania-house-explosion/story?id=102223890).
 
 ## Requirements
 - Python 3.8
