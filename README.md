@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691940851)
+![Generated GIF](output.gif?raw=true&v=1691942930)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WWE SmackDown Results: Winners And Grades As Jey Uso Leaves WWE**
+**Jordan Love, Matt LaFleur happy with performance in preseason opener**
 
-You can read more about it [here](https://www.forbes.com/sites/alfredkonuwa/2023/08/11/wwe-smackdown-results-winners-and-grades-as-jey-uso-leaves-wwe/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-matt-lafleur-happy-with-performance-in-preseason-opener).
 
 ## Requirements
 - Python 3.8
