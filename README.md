@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691942930)
+![Generated GIF](output.gif?raw=true&v=1691946343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jordan Love, Matt LaFleur happy with performance in preseason opener**
+**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-matt-lafleur-happy-with-performance-in-preseason-opener).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
 
 ## Requirements
 - Python 3.8
