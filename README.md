@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691958832)
+![Generated GIF](output.gif?raw=true&v=1691960693)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hip-Hop 50: Run-DMC, Slick Rick, Doug E. Fresh, Snoop Dogg, Nas, Lauryn Hill Perform at Yankee Stadium**
+**Trump hits out at Fulton County DA decrying expected indictment as 'con job'**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/hip-hop-50-run-dmc-snoop-dogg-slick-rick-doug-e-fresh-nas-1235562276/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-fulton-county-indictment-fani-willis-b2392045.html).
 
 ## Requirements
 - Python 3.8
