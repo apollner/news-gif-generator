@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691899726)
+![Generated GIF](output.gif?raw=true&v=1691901237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video of New PS5 Slim Model Posted Online**
+**David Solomon Scrutiny Spreads From Goldman to Alma Mater**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/08/video-of-new-ps5-slim-model-posted-online).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-11/goldman-sachs-ceo-david-solomon-scrutiny-spreads-to-alma-mater-hamilton-college).
 
 ## Requirements
 - Python 3.8
