@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691950056)
+![Generated GIF](output.gif?raw=true&v=1691951642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**After Moody's cut credit ratings, regional banks are feeling the heat again. However, some smart analysts think there are select bargains in the trash bin.**
+**Top Stories: iPhone 15 Event Date, Apple Watch and Mac Rumors, and More**
 
-You can read more about it [here](https://www.forbes.com/sites/jessicanix/2023/08/12/6-beaten-up-regional-bank-stocks-ready-for-a-rebound/).
+You can read more about it [here](https://www.macrumors.com/2023/08/12/top-stories-iphone-15-event-date-rumor/).
 
 ## Requirements
 - Python 3.8
