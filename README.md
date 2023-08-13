@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691967951)
+![Generated GIF](output.gif?raw=true&v=1691969643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 migrants dead, 50 rescued from capsized boat in the English Channel**
+**Morgan Wallen Debuts Shaved Head at Ohio Concert: 'I Didn't Like My Long Hair Anymore'**
 
-You can read more about it [here](https://www.cbsnews.com/news/6-migrants-dead-50-rescued-from-capsized-boat-in-the-english-channel/).
+You can read more about it [here](https://www.etonline.com/morgan-wallen-debuts-shaved-head-at-ohio-concert-i-didnt-like-my-long-hair-anymore-209651).
 
 ## Requirements
 - Python 3.8
