@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691948063)
+![Generated GIF](output.gif?raw=true&v=1691950056)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung's New Flip Phone Highlights the Clamshell's Comeback**
+**After Moody's cut credit ratings, regional banks are feeling the heat again. However, some smart analysts think there are select bargains in the trash bin.**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/samsungs-new-flip-phone-highlights-the-clamshells-comeback/).
+You can read more about it [here](https://www.forbes.com/sites/jessicanix/2023/08/12/6-beaten-up-regional-bank-stocks-ready-for-a-rebound/).
 
 ## Requirements
 - Python 3.8
