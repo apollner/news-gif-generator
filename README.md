@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691957147)
+![Generated GIF](output.gif?raw=true&v=1691958832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 injured, 3 missing after apparent house explosion in Pennsylvania**
+**Hip-Hop 50: Run-DMC, Slick Rick, Doug E. Fresh, Snoop Dogg, Nas, Lauryn Hill Perform at Yankee Stadium**
 
-You can read more about it [here](https://abcnews.go.com/US/plum-pennsylvania-house-explosion/story?id=102223890).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/hip-hop-50-run-dmc-snoop-dogg-slick-rick-doug-e-fresh-nas-1235562276/).
 
 ## Requirements
 - Python 3.8
