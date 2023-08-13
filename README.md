@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691917524)
+![Generated GIF](output.gif?raw=true&v=1691919310)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US takes $1.2 billion gamble on carbon-sucking vacuums**
+**Australia progresses to Women’s World Cup semifinals after dramatic penalty shootout win over France**
 
-You can read more about it [here](https://www.dw.com/en/us-takes-12-billion-gamble-on-carbon-sucking-vacuums/a-66514147).
+You can read more about it [here](https://www.cnn.com/2023/08/11/football/australia-france-england-colombia-womens-world-cup-quarterfinal-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
