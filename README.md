@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691946343)
+![Generated GIF](output.gif?raw=true&v=1691948063)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
+**Samsung's New Flip Phone Highlights the Clamshell's Comeback**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/samsungs-new-flip-phone-highlights-the-clamshells-comeback/).
 
 ## Requirements
 - Python 3.8
