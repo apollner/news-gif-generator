@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691914152)
+![Generated GIF](output.gif?raw=true&v=1691915642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Musk says proposed Zuckerberg cage fight to be held at ‘epic location’ in Italy**
+**AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/aug/11/elon-musk-mark-zuckerberg-cage-fight-italy-government).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/).
 
 ## Requirements
 - Python 3.8
