@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691894042)
+![Generated GIF](output.gif?raw=true&v=1691896018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Bribery during war is treason’: Ukraine’s Zelenskyy fires army recruiters**
+**Sam Bankman-Fried is sent to jail over alleged witness tampering**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/11/bribery-during-war-is-treason-ukraines-zelenskyy-fires-army-recruiters).
+You can read more about it [here](https://www.cnn.com/2023/08/11/business/sam-bankman-fried-bail-hearing/index.html).
 
 ## Requirements
 - Python 3.8
