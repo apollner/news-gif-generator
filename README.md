@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691892836)
+![Generated GIF](output.gif?raw=true&v=1691894042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan exits the Women's World Cup but sees progress in young squad**
+**‘Bribery during war is treason’: Ukraine’s Zelenskyy fires army recruiters**
 
-You can read more about it [here](https://apnews.com/article/womens-world-cup-japan-sweden-endo-cd4a3d5d05968e4b92293baeeadb6dd3).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/11/bribery-during-war-is-treason-ukraines-zelenskyy-fires-army-recruiters).
 
 ## Requirements
 - Python 3.8
