@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691883232)
+![Generated GIF](output.gif?raw=true&v=1691886627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft's Copilot AI can now help deploy (or micromanage) cable technicians**
+**‘Blue Beetle’ First Reactions: DC’s Latest Praised as ‘Funny,’ ‘Emotional’ and ‘A Love Letter to the Latino Culture’**
 
-You can read more about it [here](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers).
+You can read more about it [here](https://variety.com/2023/film/news/blue-beetle-first-reactions-dc-studios-1235692553/).
 
 ## Requirements
 - Python 3.8
