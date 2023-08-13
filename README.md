@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691964308)
+![Generated GIF](output.gif?raw=true&v=1691966044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3-year-old migrant dies on bus heading from Texas to Chicago, officials say**
+**America's Fastest Growing City Is Embracing 'Yellowstone' Mania**
 
-You can read more about it [here](https://abc7.com/migrant-child-dies-on-bus-texas-asylum-seekers-migrants/13638273/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-12/america-s-fastest-growing-city-is-embracing-yellowstone-mania).
 
 ## Requirements
 - Python 3.8
