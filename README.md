@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691886627)
+![Generated GIF](output.gif?raw=true&v=1691890406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Blue Beetle’ First Reactions: DC’s Latest Praised as ‘Funny,’ ‘Emotional’ and ‘A Love Letter to the Latino Culture’**
+**Viet Dinh, Fox's top lawyer who oversaw its $787 million Dominion settlement, is stepping down**
 
-You can read more about it [here](https://variety.com/2023/film/news/blue-beetle-first-reactions-dc-studios-1235692553/).
+You can read more about it [here](https://www.cnn.com/2023/08/11/business/viet-dinh-fox/index.html).
 
 ## Requirements
 - Python 3.8
