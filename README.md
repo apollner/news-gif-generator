@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692009331)
+![Generated GIF](output.gif?raw=true&v=1692011130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two witnesses to testify Tuesday before Georgia grand jury investigating Trump**
+**Cash donations recommended for Maui as some relief groups overwhelmed**
 
-You can read more about it [here](https://www.cbsnews.com/news/2-witnesses-testify-georgia-fulton-county-grand-jury-trump-investigation-geoff-duncan-george-chidi/).
+You can read more about it [here](https://www.staradvertiser.com/2023/08/12/breaking-news/cash-donations-recommended-for-maui-as-some-relief-groups-overwhelmed/).
 
 ## Requirements
 - Python 3.8
