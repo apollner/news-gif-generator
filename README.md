@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691994848)
+![Generated GIF](output.gif?raw=true&v=1691996805)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerball numbers 8/12/23: Results for $194M lottery drawing jackpot**
+**Trump's Iowa state fair spectacle clouds DeSantis as former president is joined by Florida officials**
 
-You can read more about it [here](https://www.indystar.com/story/news/2023/08/12/powerball-numbers-august-12-2023-results-drawing-lottery-power-ball-lotto-jackpot-8-12-23/70574954007/).
+You can read more about it [here](https://apnews.com/article/trump-desantis-iowa-state-fair-caucus-reynolds-48b2f382e169ee1b9ae8c9d9dc19dedc).
 
 ## Requirements
 - Python 3.8
