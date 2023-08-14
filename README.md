@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691991228)
+![Generated GIF](output.gif?raw=true&v=1691993552)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tom Jones, creator of the longest-running musical ‘The Fantasticks,' dies at 95**
+**Outside Lands dance tent abruptly closed due to safety concern**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/tom-jones-creator-longest-running-musical-fantasticks-dies-102228120).
+You can read more about it [here](https://www.sfgate.com/sf-culture/article/outside-lands-soma-dance-tent-floor-breaks-18292429.php).
 
 ## Requirements
 - Python 3.8
