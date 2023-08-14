@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692011130)
+![Generated GIF](output.gif?raw=true&v=1692012836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cash donations recommended for Maui as some relief groups overwhelmed**
+**Taiwan's Lai Ching-te makes New York City stopover despite Chinese threats - POLITICO**
 
-You can read more about it [here](https://www.staradvertiser.com/2023/08/12/breaking-news/cash-donations-recommended-for-maui-as-some-relief-groups-overwhelmed/).
+You can read more about it [here](https://www.politico.com/news/2023/08/12/taiwans-vp-lai-ching-te-defies-beijings-wishes-with-new-york-city-transit-stop-00110967).
 
 ## Requirements
 - Python 3.8
