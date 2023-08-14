@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692052518)
+![Generated GIF](output.gif?raw=true&v=1692054343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Derek Carr talks Saints Preseason Win vs. Kansas City | Saints-Chiefs Postgame**
+**Russian shelling kills seven, including a baby, in Ukraine's Kherson region**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vIwSgJDLLyI).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-shelling-kills-six-ukraines-kherson-including-baby-minister-2023-08-13/).
 
 ## Requirements
 - Python 3.8
