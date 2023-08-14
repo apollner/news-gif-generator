@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692030958)
+![Generated GIF](output.gif?raw=true&v=1692032715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Personal finance expert explains how to prepare for the end of the federal student loan pause**
+**Space photo of the week: Hubble captures one of our galaxy's oldest objects**
 
-You can read more about it [here](https://www.foxbusiness.com/personal-finance/personal-finance-expert-explains-how-to-prepare-end-federal-student-loan-pause).
+You can read more about it [here](https://www.livescience.com/space/space-photo-of-the-week-hubble-captures-one-of-our-galaxys-oldest-objects).
 
 ## Requirements
 - Python 3.8
