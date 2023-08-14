@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692018600)
+![Generated GIF](output.gif?raw=true&v=1692020049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Damar Hamlin plays in first NFL game since cardiac arrest**
+**Russia's moon craft starts processing first data - space agency**
 
-You can read more about it [here](https://www.cnn.com/2023/08/13/sport/damar-hamlin-nfl-first-game-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/technology/space/russian-scientists-started-processing-data-received-luna-25-craft-space-agency-2023-08-13/).
 
 ## Requirements
 - Python 3.8
