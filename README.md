@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691989601)
+![Generated GIF](output.gif?raw=true&v=1691991228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 FIFA Women's World Cup: Every Goal of the Quarterfinals**
+**Tom Jones, creator of the longest-running musical ‘The Fantasticks,' dies at 95**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bo2CYMKRFt0).
+You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/tom-jones-creator-longest-running-musical-fantasticks-dies-102228120).
 
 ## Requirements
 - Python 3.8
