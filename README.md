@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691982442)
+![Generated GIF](output.gif?raw=true&v=1691984042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Jets Highlights vs. Carolina Panthers | 2023 Preseason Week 1**
+**Person caught watching 'Lord of the Rings' as entire plane views Australia's victory in the Women's World Cup**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9mPDg9yxB8M).
+You can read more about it [here](https://nypost.com/2023/08/12/plane-passenger-watches-lord-of-the-rings-as-australia-goes-nuts-for-matildas/).
 
 ## Requirements
 - Python 3.8
