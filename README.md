@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692047157)
+![Generated GIF](output.gif?raw=true&v=1692048876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Housing market outlook: Where to expect mortgage rates in 2024, according to 8 leading research firms**
+**Heather Dubrow defends Ozempic use among 'Housewives': It’s like ‘Botox’**
 
-You can read more about it [here](https://fortune.com/2023/08/13/housing-market-mortgage-rate-outlook-prediction-2024/).
+You can read more about it [here](https://pagesix.com/2023/08/13/rhoc-star-heather-dubrow-defends-ozempic-use-for-weight-loss-its-like-botox/).
 
 ## Requirements
 - Python 3.8
