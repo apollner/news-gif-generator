@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692025622)
+![Generated GIF](output.gif?raw=true&v=1692027233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger's junta gains the upper hand over the regional bloc threatening military force, analysts say**
+**As death toll from Maui wildfire reaches 93, effort to find and identify the dead is just beginning**
 
-You can read more about it [here](https://apnews.com/article/niger-coup-west-africa-military-jihadis-57900b121d1fa1499354ed21aca994d1).
+You can read more about it [here](https://apnews.com/article/maui-hawaii-lahaina-deadliest-wildfire-fb2ebf6cd39c149a582b82eed6ac3930).
 
 ## Requirements
 - Python 3.8
