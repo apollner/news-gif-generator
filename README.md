@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691993552)
+![Generated GIF](output.gif?raw=true&v=1691994848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Outside Lands dance tent abruptly closed due to safety concern**
+**Powerball numbers 8/12/23: Results for $194M lottery drawing jackpot**
 
-You can read more about it [here](https://www.sfgate.com/sf-culture/article/outside-lands-soma-dance-tent-floor-breaks-18292429.php).
+You can read more about it [here](https://www.indystar.com/story/news/2023/08/12/powerball-numbers-august-12-2023-results-drawing-lottery-power-ball-lotto-jackpot-8-12-23/70574954007/).
 
 ## Requirements
 - Python 3.8
