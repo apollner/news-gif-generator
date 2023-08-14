@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691979609)
+![Generated GIF](output.gif?raw=true&v=1691980450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis vows to slash DC federal workforce in conversation with Iowa governor | USA TODAY**
+**Hunter Biden drama assured to hang over Joe Biden's 2024 campaign with special counsel**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GlC19b8oY6M).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/12/hunter-biden-drama-poised-to-hang-over-joe-bidens-2024-campaign/70581690007/).
 
 ## Requirements
 - Python 3.8
