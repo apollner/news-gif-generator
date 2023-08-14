@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692015188)
+![Generated GIF](output.gif?raw=true&v=1692017291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pisces Horoscope Today: August 13, 2023**
+**iPhone SE 4 Rumored to Feature Action Button, USB-C, Face ID, and More**
 
-You can read more about it [here](https://www.vogue.in/horoscope/product/pisces-horoscope-today-august-13-2023/).
+You can read more about it [here](https://www.macrumors.com/2023/08/13/iphone-se-4-to-feature-action-button-and-more/).
 
 ## Requirements
 - Python 3.8
