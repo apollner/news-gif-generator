@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692005656)
+![Generated GIF](output.gif?raw=true&v=1692007778)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two witnesses to testify Tuesday before Georgia grand jury investigating Trump**
+**Outside Lands dance tent abruptly closed due to safety concern**
 
-You can read more about it [here](https://www.cbsnews.com/news/2-witnesses-testify-georgia-fulton-county-grand-jury-trump-investigation-geoff-duncan-george-chidi/).
+You can read more about it [here](https://www.sfgate.com/sf-culture/article/outside-lands-soma-dance-tent-floor-breaks-18292429.php).
 
 ## Requirements
 - Python 3.8
