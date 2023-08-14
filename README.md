@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692017291)
+![Generated GIF](output.gif?raw=true&v=1692018600)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone SE 4 Rumored to Feature Action Button, USB-C, Face ID, and More**
+**Damar Hamlin plays in first NFL game since cardiac arrest**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/13/iphone-se-4-to-feature-action-button-and-more/).
+You can read more about it [here](https://www.cnn.com/2023/08/13/sport/damar-hamlin-nfl-first-game-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
