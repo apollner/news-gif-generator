@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692023652)
+![Generated GIF](output.gif?raw=true&v=1692025622)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**All boomers need to feel ‘wealthy’ is financial security. The bar is way higher for Gen Z**
+**Niger's junta gains the upper hand over the regional bloc threatening military force, analysts say**
 
-You can read more about it [here](https://fortune.com/2023/08/13/gen-z-boomers-wealth-definition-financial-security/).
+You can read more about it [here](https://apnews.com/article/niger-coup-west-africa-military-jihadis-57900b121d1fa1499354ed21aca994d1).
 
 ## Requirements
 - Python 3.8
