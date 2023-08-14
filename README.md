@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692034448)
+![Generated GIF](output.gif?raw=true&v=1692036585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Morgan Wallen Shaves His Mullet — and Hopefully Kills a Hairstyle That Overstayed Its Welcome**
+**U.S. Steel Explores Strategic Alternatives After Getting Unsolicited Bids**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-country/morgan-wallen-cuts-off-his-mullet-hair-1234806114/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-13/u-s-steel-explores-strategic-alternatives-after-getting-offers).
 
 ## Requirements
 - Python 3.8
