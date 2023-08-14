@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692032715)
+![Generated GIF](output.gif?raw=true&v=1692034448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Space photo of the week: Hubble captures one of our galaxy's oldest objects**
+**Morgan Wallen Shaves His Mullet — and Hopefully Kills a Hairstyle That Overstayed Its Welcome**
 
-You can read more about it [here](https://www.livescience.com/space/space-photo-of-the-week-hubble-captures-one-of-our-galaxys-oldest-objects).
+You can read more about it [here](https://www.rollingstone.com/music/music-country/morgan-wallen-cuts-off-his-mullet-hair-1234806114/).
 
 ## Requirements
 - Python 3.8
