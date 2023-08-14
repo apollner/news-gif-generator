@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692027233)
+![Generated GIF](output.gif?raw=true&v=1692029354)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As death toll from Maui wildfire reaches 93, effort to find and identify the dead is just beginning**
+**Space photo of the week: Hubble captures one of our galaxy's oldest objects**
 
-You can read more about it [here](https://apnews.com/article/maui-hawaii-lahaina-deadliest-wildfire-fb2ebf6cd39c149a582b82eed6ac3930).
+You can read more about it [here](https://www.livescience.com/space/space-photo-of-the-week-hubble-captures-one-of-our-galaxys-oldest-objects).
 
 ## Requirements
 - Python 3.8
