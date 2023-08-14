@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691980450)
+![Generated GIF](output.gif?raw=true&v=1691982442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden drama assured to hang over Joe Biden's 2024 campaign with special counsel**
+**New York Jets Highlights vs. Carolina Panthers | 2023 Preseason Week 1**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/12/hunter-biden-drama-poised-to-hang-over-joe-bidens-2024-campaign/70581690007/).
+You can read more about it [here](https://www.youtube.com/watch?v=9mPDg9yxB8M).
 
 ## Requirements
 - Python 3.8
