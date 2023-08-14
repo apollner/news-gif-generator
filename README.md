@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691978545)
+![Generated GIF](output.gif?raw=true&v=1691979609)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tom Jones Dies: Wrote Book And Lyrics For Long-Running ‘The Fantasticks’, Was 95**
+**DeSantis vows to slash DC federal workforce in conversation with Iowa governor | USA TODAY**
 
-You can read more about it [here](https://deadline.com/2023/08/tom-jones-dead-wrote-book-and-lyrics-for-the-fantasticks-was-95-1235461062/).
+You can read more about it [here](https://www.youtube.com/watch?v=GlC19b8oY6M).
 
 ## Requirements
 - Python 3.8
