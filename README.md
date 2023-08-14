@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691969643)
+![Generated GIF](output.gif?raw=true&v=1691972983)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Morgan Wallen Debuts Shaved Head at Ohio Concert: 'I Didn't Like My Long Hair Anymore'**
+**NFL preseason Week 1 scores, highlights: Anthony Richardson picked on first NFL drive; DJ Moore to the house**
 
-You can read more about it [here](https://www.etonline.com/morgan-wallen-debuts-shaved-head-at-ohio-concert-i-didnt-like-my-long-hair-anymore-209651).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-bryce-young-makes-nfl-debut-cowboys-intercept-trevor-lawrence-early/).
 
 ## Requirements
 - Python 3.8
