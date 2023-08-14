@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1691972983)
+![Generated GIF](output.gif?raw=true&v=1691976680)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL preseason Week 1 scores, highlights: Anthony Richardson picked on first NFL drive; DJ Moore to the house**
+**Indiana COVID hospitalizations jump again: Maps show where it’s worst**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-bryce-young-makes-nfl-debut-cowboys-intercept-trevor-lawrence-early/).
+You can read more about it [here](https://www.wane.com/news/indiana/indiana-covid-hospitalizations-jump-again-maps-show-where-its-worst/).
 
 ## Requirements
 - Python 3.8
