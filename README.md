@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692021967)
+![Generated GIF](output.gif?raw=true&v=1692023652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Space photo of the week: Hubble captures one of our galaxy's oldest objects**
+**All boomers need to feel ‘wealthy’ is financial security. The bar is way higher for Gen Z**
 
-You can read more about it [here](https://www.livescience.com/space/space-photo-of-the-week-hubble-captures-one-of-our-galaxys-oldest-objects).
+You can read more about it [here](https://fortune.com/2023/08/13/gen-z-boomers-wealth-definition-financial-security/).
 
 ## Requirements
 - Python 3.8
