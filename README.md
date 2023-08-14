@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692043617)
+![Generated GIF](output.gif?raw=true&v=1692045244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden's attorney expects 'no new evidence' to be found by special counsel**
+**Rainbow Six Siege - Official 'Ram Takes The Tower Back' Anime Trailer**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/13/hunter-biden-attorney-special-counsel-00110990).
+You can read more about it [here](https://www.youtube.com/watch?v=qZ2hc3KsSwQ).
 
 ## Requirements
 - Python 3.8
