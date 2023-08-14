@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692002045)
+![Generated GIF](output.gif?raw=true&v=1692005656)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taiwan's Lai Ching-te makes New York City stopover despite Chinese threats - POLITICO**
+**Two witnesses to testify Tuesday before Georgia grand jury investigating Trump**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/12/taiwans-vp-lai-ching-te-defies-beijings-wishes-with-new-york-city-transit-stop-00110967).
+You can read more about it [here](https://www.cbsnews.com/news/2-witnesses-testify-georgia-fulton-county-grand-jury-trump-investigation-geoff-duncan-george-chidi/).
 
 ## Requirements
 - Python 3.8
