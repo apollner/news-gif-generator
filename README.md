@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692048876)
+![Generated GIF](output.gif?raw=true&v=1692050724)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heather Dubrow defends Ozempic use among 'Housewives': It’s like ‘Botox’**
+**Small Kansas newspaper says co-owner, 98, collapsed and died after police raid**
 
-You can read more about it [here](https://pagesix.com/2023/08/13/rhoc-star-heather-dubrow-defends-ozempic-use-for-weight-loss-its-like-botox/).
+You can read more about it [here](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/).
 
 ## Requirements
 - Python 3.8
