@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692119120)
+![Generated GIF](output.gif?raw=true&v=1692120950)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team**
+**Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason'**
 
-You can read more about it [here](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service).
+You can read more about it [here](https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21).
 
 ## Requirements
 - Python 3.8
