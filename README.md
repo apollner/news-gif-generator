@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692068885)
+![Generated GIF](output.gif?raw=true&v=1692070451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pennsylvania explosion that leveled several homes leaves 5 dead: 'Looks like a war zone'**
+**Small Kansas newspaper says co-owner, 98, collapsed and died after police raid**
 
-You can read more about it [here](https://www.foxnews.com/us/4-dead-pennsylvania-explosion-leveled-several-homes-1-still-missing-looks-war-zone).
+You can read more about it [here](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/).
 
 ## Requirements
 - Python 3.8
