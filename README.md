@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692110057)
+![Generated GIF](output.gif?raw=true&v=1692111968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Clarence Avant, the 'Godfather of black music', dies at home in Los Angeles at the age of 92**
+**Hunter Biden’s lawyers argue deal to resolve felony gun charge is still ‘valid and binding’ despite collapse of plea talks**
 
-You can read more about it [here](https://www.dailymail.co.uk/news/article-12404985/Clarence-Avant-Godfather-black-music-dies-home-Los-Angeles-age-92.html).
+You can read more about it [here](https://www.cnn.com/2023/08/13/politics/hunter-biden-trial-lawyer/index.html).
 
 ## Requirements
 - Python 3.8
