@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692056038)
+![Generated GIF](output.gif?raw=true&v=1692063030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jet crashes during Thunder Over Michigan air show at Willow Run Airport in Ypsilanti**
+**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2023/08/13/jet-crashes-during-thunder-over-michigan-show-at-willow-run-airport-in-ypsilanti/).
+You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
 
 ## Requirements
 - Python 3.8
