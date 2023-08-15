@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692083171)
+![Generated GIF](output.gif?raw=true&v=1692084825)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Derek Carr throws a TD pass in his Saints debut, a 26-24 preseason win over the Chiefs**
+**Several suffer serious injuries in 'mass casualty' boating incident at Lake Austin**
 
-You can read more about it [here](https://apnews.com/article/saints-chiefs-derek-carr-patrick-mahomes-preseason-913ab8a5f6db8349c8cfe88a4a3de721).
+You can read more about it [here](https://abcnews.go.com/US/suffer-injuries-mass-casualty-boating-incident-lake-austin/story?id=102242695).
 
 ## Requirements
 - Python 3.8
