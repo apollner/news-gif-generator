@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692072605)
+![Generated GIF](output.gif?raw=true&v=1692074029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Steel to explore strategic alternatives after unsolicited bids**
+**Haunting Image Reveals The Ethereal Beauty of Dust in Space**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/us-steel-explore-strategic-alternatives-company-2023-08-13/).
+You can read more about it [here](https://www.sciencealert.com/haunting-image-reveals-the-ethereal-beauty-of-dust-in-space).
 
 ## Requirements
 - Python 3.8
