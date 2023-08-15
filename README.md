@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692097501)
+![Generated GIF](output.gif?raw=true&v=1692099256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Son, father remembered after dying in Plum house explosion**
+**Russia’s ruble hits a 17-month low to the dollar as the Ukraine war bites**
 
-You can read more about it [here](https://www.wtae.com/article/plum-house-explosion-clontz-father-son/44802875).
+You can read more about it [here](https://www.cnn.com/2023/08/14/economy/russia-ruble-slump-ukraine-war/index.html).
 
 ## Requirements
 - Python 3.8
