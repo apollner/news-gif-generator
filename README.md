@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692113651)
+![Generated GIF](output.gif?raw=true&v=1692115761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'He's going to be very surprised': Georgia DA Fani Willis prepares to face off with Trump**
+**Chandrayaan-3 Completes Another Lunar Manoeuvre; Aditya L1 Mission Readying For Launch | Weather.com**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/14/donald-trump-prosecutor-fulton-county-georgia-district-attorney-fani-willis).
+You can read more about it [here](https://weather.com/en-IN/india/space/news/2023-08-14-chandrayaan-3-closer-to-moon-aditya-l1-mission-readying-for-launch).
 
 ## Requirements
 - Python 3.8
