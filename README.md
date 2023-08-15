@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692087016)
+![Generated GIF](output.gif?raw=true&v=1692088453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Argentina radical rightwinger shakes up presidential race with primary win**
+**Asia suffers China blues; dollar hits 2023 top on yen**
 
-You can read more about it [here](https://www.ft.com/content/612a09a1-af5b-4173-8897-0bd516a148e5).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-14/).
 
 ## Requirements
 - Python 3.8
