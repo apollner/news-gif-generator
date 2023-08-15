@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692126301)
+![Generated GIF](output.gif?raw=true&v=1692128058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla cuts prices in China for select Model Y versions**
+**6 ex-officers, some of whom called themselves ‘The Goon Squad,’ plead guilty to state charges in torture of 2 Black men**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/).
+You can read more about it [here](https://www.cnn.com/2023/08/14/us/mississippi-goon-squad-cops-guilty-plea/index.html).
 
 ## Requirements
 - Python 3.8
