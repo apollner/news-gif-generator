@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692084825)
+![Generated GIF](output.gif?raw=true&v=1692087016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several suffer serious injuries in 'mass casualty' boating incident at Lake Austin**
+**Argentina radical rightwinger shakes up presidential race with primary win**
 
-You can read more about it [here](https://abcnews.go.com/US/suffer-injuries-mass-casualty-boating-incident-lake-austin/story?id=102242695).
+You can read more about it [here](https://www.ft.com/content/612a09a1-af5b-4173-8897-0bd516a148e5).
 
 ## Requirements
 - Python 3.8
