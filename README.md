@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692130101)
+![Generated GIF](output.gif?raw=true&v=1692131652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zooey Deschanel and Property Brothers' Jonathan Scott Are Engaged**
+**Trump Georgia probe: Court clerk calls charging document 'fictitious'**
 
-You can read more about it [here](https://www.eonline.com/news/1280621/zooey-deschanel-and-property-brothers-jonathan-scott-are-engaged).
+You can read more about it [here](https://www.cnbc.com/2023/08/14/trump-georgia-indictment-disputed-docket-report-appears-to-list-charges-.html).
 
 ## Requirements
 - Python 3.8
