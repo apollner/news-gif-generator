@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692079801)
+![Generated GIF](output.gif?raw=true&v=1692081241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black Sea: Russian warship fires warning shots at cargo ship**
+**Outside Lands 2023: SOMA Tent now an 'open-air house party' after damage to indoor space**
 
-You can read more about it [here](https://www.dw.com/en/russian-warship-fires-warning-shot-at-black-sea-cargo-ship/a-66522844).
+You can read more about it [here](https://www.sfchronicle.com/entertainment/article/outside-lands-soma-tent-closed-18293888.php).
 
 ## Requirements
 - Python 3.8
