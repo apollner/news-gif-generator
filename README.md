@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692065913)
+![Generated GIF](output.gif?raw=true&v=1692066835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Red, White and Royal Blue' is a cute rom-com with an awful Uma Thurman**
+**🔴 Live: Niger junta says will 'prosecute' President Bazoum for 'high treason'**
 
-You can read more about it [here](https://nypost.com/2023/08/13/red-white-and-royal-blue-is-a-cute-rom-com-with-an-awful-uma-thurman/).
+You can read more about it [here](https://www.france24.com/en/africa/20230813-niger-military-regime-says-will-prosecute-president-bazoum-for-high-treason).
 
 ## Requirements
 - Python 3.8
