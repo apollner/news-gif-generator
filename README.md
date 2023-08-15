@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692137233)
+![Generated GIF](output.gif?raw=true&v=1692138837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Berkshire Hathaway Buys Stake in D.R. Horton Stock, Cuts GM Holding**
+**Study: These Acid Reflux Medications Could Increase Dementia Risk**
 
-You can read more about it [here](https://www.barrons.com/articles/berkshire-hathaway-warren-buffett-13f-dr-horton-gm-stock-dae98afa).
+You can read more about it [here](https://www.prevention.com/health/a44811046/study-acid-reflux-medications-dementia-risk/).
 
 ## Requirements
 - Python 3.8
