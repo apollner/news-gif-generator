@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692094011)
+![Generated GIF](output.gif?raw=true&v=1692095642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine live briefing: 3 injured in Odessa attacks; Russia fired shots at Ukraine-bound cargo ship**
+**Aidan O'Connell leads Raiders over 49ers QBs Trey Lance, Sam Darnold**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/14/russia-ukraine-war-news/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/08/13/aidan-oconnell-leads-raiders-over-49ers-trey-lance-sam-darnold/70586391007/).
 
 ## Requirements
 - Python 3.8
