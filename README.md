@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692075953)
+![Generated GIF](output.gif?raw=true&v=1692077640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WATCH: Orioles' Cedric Mullins robs home run then hits homer in wild Baltimore win over Mariners**
+**Aidan O'Connell leads Raiders over 49ers QBs Trey Lance, Sam Darnold**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/watch-orioles-cedric-mullins-robs-home-run-then-hits-homer-in-wild-baltimore-win-over-mariners/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/08/13/aidan-oconnell-leads-raiders-over-49ers-trey-lance-sam-darnold/70586391007/).
 
 ## Requirements
 - Python 3.8
