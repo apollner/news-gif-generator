@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692128058)
+![Generated GIF](output.gif?raw=true&v=1692130101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 ex-officers, some of whom called themselves ‘The Goon Squad,’ plead guilty to state charges in torture of 2 Black men**
+**Zooey Deschanel and Property Brothers' Jonathan Scott Are Engaged**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/us/mississippi-goon-squad-cops-guilty-plea/index.html).
+You can read more about it [here](https://www.eonline.com/news/1280621/zooey-deschanel-and-property-brothers-jonathan-scott-are-engaged).
 
 ## Requirements
 - Python 3.8
