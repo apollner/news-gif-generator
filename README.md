@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692124436)
+![Generated GIF](output.gif?raw=true&v=1692126301)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden urges Detroit automakers, union to forge deal as deadline looms**
+**Tesla cuts prices in China for select Model Y versions**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/08/14/biden-uaw-negotiations/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/).
 
 ## Requirements
 - Python 3.8
