@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692090409)
+![Generated GIF](output.gif?raw=true&v=1692092120)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asia suffers China blues; dollar hits 2023 top on yen**
+**Outside Lands 2023: New Dolores' provides safe space for queer festivalgoers**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-14/).
+You can read more about it [here](https://www.sfchronicle.com/entertainment/article/outside-lands-dolores-dance-18290338.php).
 
 ## Requirements
 - Python 3.8
