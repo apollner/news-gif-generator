@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692066835)
+![Generated GIF](output.gif?raw=true&v=1692068885)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**🔴 Live: Niger junta says will 'prosecute' President Bazoum for 'high treason'**
+**Pennsylvania explosion that leveled several homes leaves 5 dead: 'Looks like a war zone'**
 
-You can read more about it [here](https://www.france24.com/en/africa/20230813-niger-military-regime-says-will-prosecute-president-bazoum-for-high-treason).
+You can read more about it [here](https://www.foxnews.com/us/4-dead-pennsylvania-explosion-leveled-several-homes-1-still-missing-looks-war-zone).
 
 ## Requirements
 - Python 3.8
