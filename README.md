@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692063030)
+![Generated GIF](output.gif?raw=true&v=1692065913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
+**'Red, White and Royal Blue' is a cute rom-com with an awful Uma Thurman**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
+You can read more about it [here](https://nypost.com/2023/08/13/red-white-and-royal-blue-is-a-cute-rom-com-with-an-awful-uma-thurman/).
 
 ## Requirements
 - Python 3.8
