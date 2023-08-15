@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692106517)
+![Generated GIF](output.gif?raw=true&v=1692108363)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Apple Watch X' will reportedly feature a thinner casing and magnetic bands**
+**Tesla cuts prices in China for some Model Y versions**
 
-You can read more about it [here](https://www.engadget.com/apple-watch-x-will-reportedly-feature-a-thinner-casing-and-magnetic-bands-092419190.html).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/).
 
 ## Requirements
 - Python 3.8
