@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692111968)
+![Generated GIF](output.gif?raw=true&v=1692113651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden’s lawyers argue deal to resolve felony gun charge is still ‘valid and binding’ despite collapse of plea talks**
+**'He's going to be very surprised': Georgia DA Fani Willis prepares to face off with Trump**
 
-You can read more about it [here](https://www.cnn.com/2023/08/13/politics/hunter-biden-trial-lawyer/index.html).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/14/donald-trump-prosecutor-fulton-county-georgia-district-attorney-fani-willis).
 
 ## Requirements
 - Python 3.8
