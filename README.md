@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692131652)
+![Generated GIF](output.gif?raw=true&v=1692133518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump Georgia probe: Court clerk calls charging document 'fictitious'**
+**Coast Guard and Navy rescue 4 divers off coast of Carolinas**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/trump-georgia-indictment-disputed-docket-report-appears-to-list-charges-.html).
+You can read more about it [here](https://www.youtube.com/watch?v=TAP_P-jAAaA).
 
 ## Requirements
 - Python 3.8
