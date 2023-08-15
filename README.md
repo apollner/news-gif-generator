@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692074029)
+![Generated GIF](output.gif?raw=true&v=1692075953)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Haunting Image Reveals The Ethereal Beauty of Dust in Space**
+**WATCH: Orioles' Cedric Mullins robs home run then hits homer in wild Baltimore win over Mariners**
 
-You can read more about it [here](https://www.sciencealert.com/haunting-image-reveals-the-ethereal-beauty-of-dust-in-space).
+You can read more about it [here](https://www.cbssports.com/mlb/news/watch-orioles-cedric-mullins-robs-home-run-then-hits-homer-in-wild-baltimore-win-over-mariners/).
 
 ## Requirements
 - Python 3.8
