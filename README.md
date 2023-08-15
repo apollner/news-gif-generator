@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692120950)
+![Generated GIF](output.gif?raw=true&v=1692122971)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason'**
+**Apple Watch Rumored to Get Major Redesign for Its 10-Year Anniversary**
 
-You can read more about it [here](https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apple-watch-rumored-to-get-major-redesign-for-its-10-year-anniversary/).
 
 ## Requirements
 - Python 3.8
