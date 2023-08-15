@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692081241)
+![Generated GIF](output.gif?raw=true&v=1692083171)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Outside Lands 2023: SOMA Tent now an 'open-air house party' after damage to indoor space**
+**Derek Carr throws a TD pass in his Saints debut, a 26-24 preseason win over the Chiefs**
 
-You can read more about it [here](https://www.sfchronicle.com/entertainment/article/outside-lands-soma-tent-closed-18293888.php).
+You can read more about it [here](https://apnews.com/article/saints-chiefs-derek-carr-patrick-mahomes-preseason-913ab8a5f6db8349c8cfe88a4a3de721).
 
 ## Requirements
 - Python 3.8
