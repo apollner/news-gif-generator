@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692108363)
+![Generated GIF](output.gif?raw=true&v=1692110057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla cuts prices in China for some Model Y versions**
+**Clarence Avant, the 'Godfather of black music', dies at home in Los Angeles at the age of 92**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/).
+You can read more about it [here](https://www.dailymail.co.uk/news/article-12404985/Clarence-Avant-Godfather-black-music-dies-home-Los-Angeles-age-92.html).
 
 ## Requirements
 - Python 3.8
