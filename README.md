@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692115761)
+![Generated GIF](output.gif?raw=true&v=1692117538)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chandrayaan-3 Completes Another Lunar Manoeuvre; Aditya L1 Mission Readying For Launch | Weather.com**
+**CNN announces sweeping new lineup ahead of 2024 election**
 
-You can read more about it [here](https://weather.com/en-IN/india/space/news/2023-08-14-chandrayaan-3-closer-to-moon-aditya-l1-mission-readying-for-launch).
+You can read more about it [here](https://www.cnn.com/2023/08/14/media/cnn-prime-time-lineup/index.html).
 
 ## Requirements
 - Python 3.8
