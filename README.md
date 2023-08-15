@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692140760)
+![Generated GIF](output.gif?raw=true&v=1692142444)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk says he’s going to show up at Mark Zuckerberg’s house to fight**
+**Argentina's markets recoil after shock primary election results**
 
-You can read more about it [here](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity).
+You can read more about it [here](https://www.ft.com/content/df45cf2a-5b51-4d13-bc93-500c07c7d73f).
 
 ## Requirements
 - Python 3.8
