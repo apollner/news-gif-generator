@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692227154)
+![Generated GIF](output.gif?raw=true&v=1692228833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minnesota town's entire police force resigns, leaving chief with 'zero prospects'**
+**Nine riskiest NFL players to pick in 2023 fantasy football drafts**
 
-You can read more about it [here](https://nypost.com/2023/08/15/minnesota-towns-entire-police-force-resigns-leaving-chief-with-zero-prospects/).
+You can read more about it [here](https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts).
 
 ## Requirements
 - Python 3.8
