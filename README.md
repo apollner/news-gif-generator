@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692166226)
+![Generated GIF](output.gif?raw=true&v=1692167619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michael Oher, depicted in ‘The Blind Side,’ alleges he was never adopted by Sean and Leigh Anne Tuohy, but signed into a conservatorship**
+**Editor of Marion County Record discusses possible motives behind police raid of newsroom**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/us/michael-oher-blind-side-tuohy/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qgi8Ogty4NE).
 
 ## Requirements
 - Python 3.8
