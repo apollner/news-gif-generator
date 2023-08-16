@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692164046)
+![Generated GIF](output.gif?raw=true&v=1692166226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Air pollution may be to blame for thousands of dementia cases each year, researchers say**
+**Michael Oher, depicted in ‘The Blind Side,’ alleges he was never adopted by Sean and Leigh Anne Tuohy, but signed into a conservatorship**
 
-You can read more about it [here](https://www.cbsnews.com/news/air-pollution-dementia-cases-study/).
+You can read more about it [here](https://www.cnn.com/2023/08/14/us/michael-oher-blind-side-tuohy/index.html).
 
 ## Requirements
 - Python 3.8
