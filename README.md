@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692155312)
+![Generated GIF](output.gif?raw=true&v=1692156849)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow, S&P Live Updates for August 15**
+**Cleanup, investigation underway after jet crashes at Thunder Over Michigan air show**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-14/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://www.cbsnews.com/detroit/news/cleanup-investigation-underway-after-jet-crashes-at-thunder-over-michigan-air-show/).
 
 ## Requirements
 - Python 3.8
