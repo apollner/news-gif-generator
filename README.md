@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692205523)
+![Generated GIF](output.gif?raw=true&v=1692207239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chandrayaan-3 v Luna 25: The lunar south pole showdown?**
+**How Donald Trump's criminal charges are defining his White House race**
 
-You can read more about it [here](https://www.space.com/chandrayaan-3-vs-luna-25-lunar-pole-showdown).
+You can read more about it [here](https://www.ft.com/content/ddde3d8e-4222-4144-861c-f21714df5d31).
 
 ## Requirements
 - Python 3.8
