@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692171266)
+![Generated GIF](output.gif?raw=true&v=1692173417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Linus admits to “sloppiness” in Gamers Nexus response but lashes out at public criticism**
+**A Judgment Day mistake allows Cody Rhodes to defeat Finn Bálor: Raw highlights, Aug. 14, 2023**
 
-You can read more about it [here](https://www.dexerto.com/tech/linus-admits-to-sloppiness-gamers-nexus-response-lashes-out-public-criticism-2249708/).
+You can read more about it [here](https://www.youtube.com/watch?v=IIMEjVJz4nA).
 
 ## Requirements
 - Python 3.8
