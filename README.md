@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692221630)
+![Generated GIF](output.gif?raw=true&v=1692223550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fitch warns multiple US banks face credit downgrade: report**
+**Disney accused of withholding hundreds of millions of dollars from 'Avatar' sequel financier**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/fitch-warns-multiple-us-banks-face-credit-downgrade-report).
+You can read more about it [here](https://www.cnbc.com/2023/08/15/disney-accused-of-withholding-profits-from-tsg-entertainment.html).
 
 ## Requirements
 - Python 3.8
