@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692207239)
+![Generated GIF](output.gif?raw=true&v=1692209354)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Donald Trump's criminal charges are defining his White House race**
+**US bank stocks fall on prospect of tougher oversight, more downgrades**
 
-You can read more about it [here](https://www.ft.com/content/ddde3d8e-4222-4144-861c-f21714df5d31).
+You can read more about it [here](https://www.reuters.com/markets/us/us-bank-stocks-drop-after-fitch-downgrade-warning-2023-08-15/).
 
 ## Requirements
 - Python 3.8
