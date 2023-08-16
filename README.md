@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692202173)
+![Generated GIF](output.gif?raw=true&v=1692203892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 99 people were killed in Maui’s wildfires. With only 25% of the burn area searched, officials worry the death toll will climb**
+**New Foldable Phones Convinced Me Two Screens Are Better Than One**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/us/hawaii-maui-wildfires-death-toll-tuesday/index.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/new-foldable-phones-convinced-me-2-screens-are-better-than-one/).
 
 ## Requirements
 - Python 3.8
