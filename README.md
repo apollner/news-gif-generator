@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692214440)
+![Generated GIF](output.gif?raw=true&v=1692216479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In video, Rep. Ronny Jackson yells profanities at Texas trooper, is put on ground**
+**Dang, Someone Beat Baldur's Gate 3 In Under 11 Minutes**
 
-You can read more about it [here](https://www.npr.org/2023/08/15/1193883689/in-video-rep-ronny-jackson-yells-profanities-at-texas-trooper-is-put-on-ground).
+You can read more about it [here](https://kotaku.com/baldurs-game-3-speedrun-twitch-streamer-palmer-gale-1850739157).
 
 ## Requirements
 - Python 3.8
