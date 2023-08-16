@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692151262)
+![Generated GIF](output.gif?raw=true&v=1692152261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mount Etna eruption leads to flight cancellations at Sicily's Catania airport**
+**What to know about ABC's 'Golden Bachelor' set to premiere this fall**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/15/mount-etna-eruption-volcano-sicily-catania-airport-closure-volcanic-ash-cloud-flight-cancellations).
+You can read more about it [here](https://www.indystar.com/story/entertainment/2023/08/14/abc-golden-bachelor-premieres-september-what-to-know/70509909007/).
 
 ## Requirements
 - Python 3.8
