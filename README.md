@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692192840)
+![Generated GIF](output.gif?raw=true&v=1692194823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The mother of the Virginia boy who shot his teacher is expected to plead guilty to child neglect today**
+**Huge fire at gas station in Russia's Dagestan kills 35, injures dozens**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/us/virginia-teacher-shooting-mother-guilty/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/15/russia-dagestan-gas-station-fire-explosion/).
 
 ## Requirements
 - Python 3.8
