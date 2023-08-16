@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692149405)
+![Generated GIF](output.gif?raw=true&v=1692151262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDPH COVID: Doctors warn of surge in Chicago COVID cases, encourage people to get new COVID vaccine in fall 2023**
+**Mount Etna eruption leads to flight cancellations at Sicily's Catania airport**
 
-You can read more about it [here](https://abc7chicago.com/idph-covid-cases-new-vaccine-fall-2023-chicago/13648864/).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/15/mount-etna-eruption-volcano-sicily-catania-airport-closure-volcanic-ash-cloud-flight-cancellations).
 
 ## Requirements
 - Python 3.8
