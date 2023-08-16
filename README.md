@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692210840)
+![Generated GIF](output.gif?raw=true&v=1692212698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flash mob robberies: Nike store in East LA 'targeted weekly' by thieves, LASD says**
+**Mother of six-year-old who shot Virginia school teacher pleads guilty**
 
-You can read more about it [here](https://abc7.com/east-la-nike-store-robbery-flash-mob-burglaries-whittier-boulevard/13652545/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66503669).
 
 ## Requirements
 - Python 3.8
