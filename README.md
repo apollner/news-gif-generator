@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692218053)
+![Generated GIF](output.gif?raw=true&v=1692219903)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mother of six-year-old who shot Virginia school teacher pleads guilty**
+**In video, Rep. Ronny Jackson yells profanities at Texas trooper, is put on ground**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66503669).
+You can read more about it [here](https://www.npr.org/2023/08/15/1193883689/in-video-rep-ronny-jackson-yells-profanities-at-texas-trooper-is-put-on-ground).
 
 ## Requirements
 - Python 3.8
