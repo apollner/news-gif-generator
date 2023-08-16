@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692216479)
+![Generated GIF](output.gif?raw=true&v=1692218053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dang, Someone Beat Baldur's Gate 3 In Under 11 Minutes**
+**Mother of six-year-old who shot Virginia school teacher pleads guilty**
 
-You can read more about it [here](https://kotaku.com/baldurs-game-3-speedrun-twitch-streamer-palmer-gale-1850739157).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66503669).
 
 ## Requirements
 - Python 3.8
