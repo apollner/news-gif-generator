@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692153246)
+![Generated GIF](output.gif?raw=true&v=1692155312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zooey Deschanel engaged to 'Property Brothers' star Jonathan Scott: See the ring**
+**Stock Market Today: Dow, S&P Live Updates for August 15**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/14/zooey-deschanel-jonathan-scott-property-brothers-engagement/70591162007/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-14/stock-market-today-dow-s-p-live-updates).
 
 ## Requirements
 - Python 3.8
