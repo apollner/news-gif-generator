@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692173417)
+![Generated GIF](output.gif?raw=true&v=1692176811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Judgment Day mistake allows Cody Rhodes to defeat Finn Bálor: Raw highlights, Aug. 14, 2023**
+**COVID-19 hospitalizations on Long Island more than double in month**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IIMEjVJz4nA).
+You can read more about it [here](https://www.newsday.com/news/health/coronavirus/long-island-covid-19-hospitalizations-xfn8w71e).
 
 ## Requirements
 - Python 3.8
