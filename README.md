@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692219903)
+![Generated GIF](output.gif?raw=true&v=1692221630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In video, Rep. Ronny Jackson yells profanities at Texas trooper, is put on ground**
+**Fitch warns multiple US banks face credit downgrade: report**
 
-You can read more about it [here](https://www.npr.org/2023/08/15/1193883689/in-video-rep-ronny-jackson-yells-profanities-at-texas-trooper-is-put-on-ground).
+You can read more about it [here](https://www.foxbusiness.com/economy/fitch-warns-multiple-us-banks-face-credit-downgrade-report).
 
 ## Requirements
 - Python 3.8
