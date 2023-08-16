@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692223550)
+![Generated GIF](output.gif?raw=true&v=1692225304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney accused of withholding hundreds of millions of dollars from 'Avatar' sequel financier**
+**OpenAI wants GPT-4 to solve the content moderation dilemma**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/15/disney-accused-of-withholding-profits-from-tsg-entertainment.html).
+You can read more about it [here](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta).
 
 ## Requirements
 - Python 3.8
