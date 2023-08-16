@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692158959)
+![Generated GIF](output.gif?raw=true&v=1692160439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**50 Cent says ‘told you LA was finished’ after viral flash mob smash-and-grab at Nordstrom**
+**Zooey Deschanel engaged to 'Property Brothers' star Jonathan Scott: See the ring**
 
-You can read more about it [here](https://www.foxnews.com/us/50-cent-told-you-la-finished-viral-flash-mob-smash-grab-nordstrom).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/14/zooey-deschanel-jonathan-scott-property-brothers-engagement/70591162007/).
 
 ## Requirements
 - Python 3.8
