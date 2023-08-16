@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692198391)
+![Generated GIF](output.gif?raw=true&v=1692200088)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Suits’ Ushers In Streaming Boom As Broadcast & Cable Fall To Record Lows In July, Nielsen Says**
+**'Stop machine' - Russia releases video showing navy boarding cargo ship in Black Sea**
 
-You can read more about it [here](https://deadline.com/2023/08/nielsen-the-gauge-july-2023-suits-streaming-boom-broadcast-cable-record-low-1235519506/).
+You can read more about it [here](https://www.reuters.com/world/europe/stop-machine-russia-releases-video-showing-navy-boarding-cargo-ship-black-sea-2023-08-15/).
 
 ## Requirements
 - Python 3.8
