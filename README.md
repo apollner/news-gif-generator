@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692196436)
+![Generated GIF](output.gif?raw=true&v=1692198391)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Most U.S. adults have a family or personal connection to addiction: poll**
+**‘Suits’ Ushers In Streaming Boom As Broadcast & Cable Fall To Record Lows In July, Nielsen Says**
 
-You can read more about it [here](https://www.axios.com/2023/08/15/drug-addiction-impacting-americans-poll).
+You can read more about it [here](https://deadline.com/2023/08/nielsen-the-gauge-july-2023-suits-streaming-boom-broadcast-cable-record-low-1235519506/).
 
 ## Requirements
 - Python 3.8
