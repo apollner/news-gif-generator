@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692145723)
+![Generated GIF](output.gif?raw=true&v=1692149405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Montana judge hands historic win to young plaintiffs in climate change case**
+**IDPH COVID: Doctors warn of surge in Chicago COVID cases, encourage people to get new COVID vaccine in fall 2023**
 
-You can read more about it [here](https://www.reuters.com/business/environment/montana-judge-hands-historic-win-young-plaintiffs-climate-change-case-2023-08-14/).
+You can read more about it [here](https://abc7chicago.com/idph-covid-cases-new-vaccine-fall-2023-chicago/13648864/).
 
 ## Requirements
 - Python 3.8
