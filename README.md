@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692183992)
+![Generated GIF](output.gif?raw=true&v=1692185664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 Zodiac Signs With Rough Horoscopes On August 15, 2023**
+**Stock futures fall Tuesday as disappointing China data dampens sentiment: Live updates**
 
-You can read more about it [here](https://www.yourtango.com/2023365029/zodiac-signs-rough-horoscopes-august-15-2023).
+You can read more about it [here](https://www.cnbc.com/2023/08/14/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
