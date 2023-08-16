@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692191382)
+![Generated GIF](output.gif?raw=true&v=1692192840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ashley Olsen Gives Birth to First Baby: Everything to Know About Husband Louis Eisner**
+**The mother of the Virginia boy who shot his teacher is expected to plead guilty to child neglect today**
 
-You can read more about it [here](https://www.eonline.com/news/1383046/ashley-olsen-gives-birth-to-first-baby-everything-to-know-about-husband-louis-eisner).
+You can read more about it [here](https://www.cnn.com/2023/08/15/us/virginia-teacher-shooting-mother-guilty/index.html).
 
 ## Requirements
 - Python 3.8
