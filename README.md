@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692272049)
+![Generated GIF](output.gif?raw=true&v=1692274323)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mark Meadows seeks to move Fulton charges to federal court**
+**Sinema takes on Schumer, Jeffries and the White House over the border**
 
-You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
+You can read more about it [here](https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355).
 
 ## Requirements
 - Python 3.8
