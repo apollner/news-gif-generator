@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692255952)
+![Generated GIF](output.gif?raw=true&v=1692257659)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Typhoon Lan hits Japan, evacuation warnings issued for 237,000 people**
+**Maui's displaced grow anxious as wildfire recovery drags on**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/15/japan-typhoon-lan-evacuation-warnings/70599163007/).
+You can read more about it [here](https://www.reuters.com/world/us/maui-officials-urge-patience-search-missing-inches-ahead-2023-08-15/).
 
 ## Requirements
 - Python 3.8
