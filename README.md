@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692284757)
+![Generated GIF](output.gif?raw=true&v=1692286513)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden says he doesn't want to 'get in the way' as Hawaii death toll reaches 101**
+**Teenage smokers have different brains than non-smoking teens, study suggests**
 
-You can read more about it [here](https://www.independent.co.uk/climate-change/news/maui-hawaii-fires-wildfires-cause-travel-update-b2393761.html).
+You can read more about it [here](https://www.cbsnews.com/news/teenage-smokers-study-addiction-nicotine-brain/).
 
 ## Requirements
 - Python 3.8
