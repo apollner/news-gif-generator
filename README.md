@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692228833)
+![Generated GIF](output.gif?raw=true&v=1692232115)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nine riskiest NFL players to pick in 2023 fantasy football drafts**
+**Attorney is dropping representation of Hunter Biden**
 
-You can read more about it [here](https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts).
+You can read more about it [here](https://www.politico.com/news/2023/08/15/hunter-bidens-attorney-will-withdraw-from-tax-case-as-he-prepares-to-potentially-testify-00111284).
 
 ## Requirements
 - Python 3.8
