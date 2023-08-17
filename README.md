@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692299139)
+![Generated GIF](output.gif?raw=true&v=1692300836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cancer among younger Americans is on the rise, new study shows**
+**Pig kidney works in human body for over a month, in latest step forward in animal-human transplants**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/16/young-patients-breast-gastrointestinal-cancer/).
+You can read more about it [here](https://www.cbsnews.com/news/pig-kidney-transplant-animal-human-xenotransplant/).
 
 ## Requirements
 - Python 3.8
