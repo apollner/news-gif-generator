@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692268460)
+![Generated GIF](output.gif?raw=true&v=1692270382)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Liberty win Commissioner's Cup with blowout of rival Aces - ESPN**
+**Trump will take mugshot at Fulton County Jail | FOX 5 News**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/38200114/liberty-win-commissioner-cup-blowout-rival-aces).
+You can read more about it [here](https://www.youtube.com/watch?v=6M-hml8wICA).
 
 ## Requirements
 - Python 3.8
