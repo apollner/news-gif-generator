@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692300836)
+![Generated GIF](output.gif?raw=true&v=1692302816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pig kidney works in human body for over a month, in latest step forward in animal-human transplants**
+**‘Barbie’ tops ‘The Dark Knight’ to become Warner Bros.’ biggest movie ever at the American box office**
 
-You can read more about it [here](https://www.cbsnews.com/news/pig-kidney-transplant-animal-human-xenotransplant/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/media/barbie-box-office/index.html).
 
 ## Requirements
 - Python 3.8
