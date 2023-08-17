@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692235695)
+![Generated GIF](output.gif?raw=true&v=1692237524)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here’s what DeSantis, Christie and other Trump 2024 rivals are saying about the Georgia indictment**
+**Son of 'Teen Mom' cast member found by law enforcement in Brunswick County**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/politics/2024-trump-rivals-georgia-indictment/index.html).
+You can read more about it [here](https://www.wect.com/2023/08/15/son-teen-mom-cast-member-reported-runaway-juvenile-brunswick-county/).
 
 ## Requirements
 - Python 3.8
