@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692277745)
+![Generated GIF](output.gif?raw=true&v=1692279238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How pandemics affected the evolution of human immunity - The Washington Post**
+**Lionel Messi scores ninth goal in six games as Inter Miami advances to Leagues Cup Final**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2023/08/16/plague-pandemics-immune-system-evolution/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/sport/lionel-messi-inter-miami-leagues-cup-final-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
