@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692282844)
+![Generated GIF](output.gif?raw=true&v=1692284757)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Target Sales Are Punished by Pride Month Backlash**
+**Biden says he doesn't want to 'get in the way' as Hawaii death toll reaches 101**
 
-You can read more about it [here](https://www.wsj.com/articles/target-tgt-q2-earnings-report-2023-cc9acf81).
+You can read more about it [here](https://www.independent.co.uk/climate-change/news/maui-hawaii-fires-wildfires-cause-travel-update-b2393761.html).
 
 ## Requirements
 - Python 3.8
