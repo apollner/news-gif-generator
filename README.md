@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692241729)
+![Generated GIF](output.gif?raw=true&v=1692243240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joel Embiid makes curious social media moves as 76ers-James Harden standoff revs up**
+**Meet LG's StanbyMe Go, the Portable Touchscreen TV That's Also a Suitcase**
 
-You can read more about it [here](https://nypost.com/2023/08/15/joel-embiid-removes-philadelphia-location-from-bio-amid-james-harden-standoff/).
+You can read more about it [here](https://www.cnet.com/tech/home-entertainment/meet-lgs-portable-stanbyme-go-the-touchscreen-tv-thats-also-a-suitcase/).
 
 ## Requirements
 - Python 3.8
