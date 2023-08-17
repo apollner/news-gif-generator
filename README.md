@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692286513)
+![Generated GIF](output.gif?raw=true&v=1692288567)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teenage smokers have different brains than non-smoking teens, study suggests**
+**Raquel Leviss Talks ‘Scandoval’ With Bethenny Frankel**
 
-You can read more about it [here](https://www.cbsnews.com/news/teenage-smokers-study-addiction-nicotine-brain/).
+You can read more about it [here](https://www.today.com/popculture/tv/raquel-leviss-talks-scandoval-bethenny-frankel-rcna100154).
 
 ## Requirements
 - Python 3.8
