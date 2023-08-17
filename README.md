@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692263206)
+![Generated GIF](output.gif?raw=true&v=1692264845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine's Powerful 82nd Brigade Has Joined The Counteroffensive**
+**Death toll from the Maui wildfires climbs to 106 as governor warns identifying all the victims will be difficult**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/08/15/ukraines-powerful-82nd-brigade-once-held-in-reserve-has-finally-joined-the-counteroffensive/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/us/hawaii-maui-wildfires-death-toll-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
