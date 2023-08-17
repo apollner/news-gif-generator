@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692270382)
+![Generated GIF](output.gif?raw=true&v=1692272049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump will take mugshot at Fulton County Jail | FOX 5 News**
+**Mark Meadows seeks to move Fulton charges to federal court**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6M-hml8wICA).
+You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
 
 ## Requirements
 - Python 3.8
