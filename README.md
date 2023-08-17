@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692248764)
+![Generated GIF](output.gif?raw=true&v=1692250437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Son of 'Teen Mom' cast member found by law enforcement in Brunswick County**
+**Travis King: North Korea says US soldier blamed discrimination**
 
-You can read more about it [here](https://www.wect.com/2023/08/15/son-teen-mom-cast-member-reported-runaway-juvenile-brunswick-county/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
 
 ## Requirements
 - Python 3.8
