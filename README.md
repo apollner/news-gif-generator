@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692279238)
+![Generated GIF](output.gif?raw=true&v=1692281165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi scores ninth goal in six games as Inter Miami advances to Leagues Cup Final**
+**Sinema takes on Schumer, Jeffries and the White House over the border**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/sport/lionel-messi-inter-miami-leagues-cup-final-spt-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355).
 
 ## Requirements
 - Python 3.8
