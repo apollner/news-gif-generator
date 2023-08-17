@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692288567)
+![Generated GIF](output.gif?raw=true&v=1692290273)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Raquel Leviss Talks ‘Scandoval’ With Bethenny Frankel**
+**Russia hits Ukrainian grain depots again as a foreign ship tries out Kyiv's new Black Sea corridor**
 
-You can read more about it [here](https://www.today.com/popculture/tv/raquel-leviss-talks-scandoval-bethenny-frankel-rcna100154).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-grain-odesa-ship-2a3bceb975a1a398695edf40fdb0870e).
 
 ## Requirements
 - Python 3.8
