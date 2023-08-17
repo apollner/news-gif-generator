@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692306312)
+![Generated GIF](output.gif?raw=true&v=1692308044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marion attorney withdraws search warrant against Kansas newspaper; returns items**
+**Fulton County district attorney wants Trump trial to begin March 4, 2024 – one day before Super Tuesday primaries**
 
-You can read more about it [here](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items).
+You can read more about it [here](https://www.cnn.com/2023/08/16/politics/trump-trial-request-march-4/index.html).
 
 ## Requirements
 - Python 3.8
