@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692281165)
+![Generated GIF](output.gif?raw=true&v=1692282844)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sinema takes on Schumer, Jeffries and the White House over the border**
+**Target Sales Are Punished by Pride Month Backlash**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355).
+You can read more about it [here](https://www.wsj.com/articles/target-tgt-q2-earnings-report-2023-cc9acf81).
 
 ## Requirements
 - Python 3.8
