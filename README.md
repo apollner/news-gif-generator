@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692291911)
+![Generated GIF](output.gif?raw=true&v=1692293639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shoppers are spending big at TJX Companies as Target sales slide**
+**2023 CBS Sports Preseason All-America team: Georgia, Ohio State, Alabama, Michigan lead with most honorees**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/16/tjx-companies-tjx-earnings-q2-2024.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/2023-cbs-sports-preseason-all-america-team-georgia-ohio-state-alabama-michigan-lead-with-most-honorees/).
 
 ## Requirements
 - Python 3.8
