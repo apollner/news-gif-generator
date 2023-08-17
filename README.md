@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692302816)
+![Generated GIF](output.gif?raw=true&v=1692304432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Barbie’ tops ‘The Dark Knight’ to become Warner Bros.’ biggest movie ever at the American box office**
+**Drunk American tourists found sleeping in Eiffel Tower**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/media/barbie-box-office/index.html).
+You can read more about it [here](https://www.washingtonpost.com/travel/2023/08/16/eiffel-tower-american-tourists-drunk/).
 
 ## Requirements
 - Python 3.8
