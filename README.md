@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692304432)
+![Generated GIF](output.gif?raw=true&v=1692306312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drunk American tourists found sleeping in Eiffel Tower**
+**Marion attorney withdraws search warrant against Kansas newspaper; returns items**
 
-You can read more about it [here](https://www.washingtonpost.com/travel/2023/08/16/eiffel-tower-american-tourists-drunk/).
+You can read more about it [here](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items).
 
 ## Requirements
 - Python 3.8
