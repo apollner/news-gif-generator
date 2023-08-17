@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692293639)
+![Generated GIF](output.gif?raw=true&v=1692295840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 CBS Sports Preseason All-America team: Georgia, Ohio State, Alabama, Michigan lead with most honorees**
+**Funny fantasy football team names: The most ridiculous team names you can use in 2023**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/2023-cbs-sports-preseason-all-america-team-georgia-ohio-state-alabama-michigan-lead-with-most-honorees/).
+You can read more about it [here](https://sports.yahoo.com/funny-fantasy-football-team-names-the-most-ridiculous-team-names-you-can-use-in-2023-165119163.html).
 
 ## Requirements
 - Python 3.8
