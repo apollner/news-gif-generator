@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692246894)
+![Generated GIF](output.gif?raw=true&v=1692248764)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mark Meadows seeks to move Georgia prosecution to federal court**
+**Son of 'Teen Mom' cast member found by law enforcement in Brunswick County**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/15/meadows-georgia-case-federal-court-00111382).
+You can read more about it [here](https://www.wect.com/2023/08/15/son-teen-mom-cast-member-reported-runaway-juvenile-brunswick-county/).
 
 ## Requirements
 - Python 3.8
