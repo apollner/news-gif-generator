@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692261248)
+![Generated GIF](output.gif?raw=true&v=1692263206)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fitness earlier in life reduces cancer risk when older, study shows**
+**Ukraine's Powerful 82nd Brigade Has Joined The Counteroffensive**
 
-You can read more about it [here](https://www.theguardian.com/society/2023/aug/15/fitness-earlier-in-life-reduces-cancer-risk-when-older-study-shows).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/08/15/ukraines-powerful-82nd-brigade-once-held-in-reserve-has-finally-joined-the-counteroffensive/).
 
 ## Requirements
 - Python 3.8
