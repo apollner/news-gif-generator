@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692290273)
+![Generated GIF](output.gif?raw=true&v=1692291911)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia hits Ukrainian grain depots again as a foreign ship tries out Kyiv's new Black Sea corridor**
+**Shoppers are spending big at TJX Companies as Target sales slide**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-grain-odesa-ship-2a3bceb975a1a398695edf40fdb0870e).
+You can read more about it [here](https://www.cnbc.com/2023/08/16/tjx-companies-tjx-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
