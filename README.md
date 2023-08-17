@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692238377)
+![Generated GIF](output.gif?raw=true&v=1692239623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Poised To Start Paying $500 Million In ‘BatteryGate’ Lawsuit Payments —Plus Where Other High-Profile Class Action Suits Stand**
+**Meadows trying to move Fulton County case to federal court**
 
-You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2023/08/15/apple-poised-to-start-paying-500-million-in-batterygate-lawsuit-payments--plus-where-other-high-profile-class-action-suits-stand/).
+You can read more about it [here](https://www.cnn.com/2023/08/15/politics/mark-meadows-fulton-case-federal-court/index.html).
 
 ## Requirements
 - Python 3.8
