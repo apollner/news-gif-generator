@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692250437)
+![Generated GIF](output.gif?raw=true&v=1692252585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis King: North Korea says US soldier blamed discrimination**
+**The Taliban believe their rule is open-ended and don't plan to lift the ban on female education**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
+You can read more about it [here](https://apnews.com/article/afghanistan-taliban-women-education-5bc5477a8e4599ac431e4d2e27ebaf85).
 
 ## Requirements
 - Python 3.8
