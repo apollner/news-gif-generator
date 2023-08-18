@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692362832)
+![Generated GIF](output.gif?raw=true&v=1692364176)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rudy Giuliani's former colleagues reflect on his path from law-and-order champion to RICO defendant: "A tragedy"**
+**U.S. 10-year yield at highest since October, drags on shares**
 
-You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-trump-co-defendant-georgia-rico-case/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-17/).
 
 ## Requirements
 - Python 3.8
