@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692380038)
+![Generated GIF](output.gif?raw=true&v=1692383757)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**One thing to watch in each game of preseason Week 2: Bucs QB battle, surprising Chiefs WR take center stage**
+**Cancer cases are rising among younger Americans: 'alarming' trend**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-game-of-preseason-week-2-bucs-qb-battle-surprising-chiefs-wr-take-center-stage/).
+You can read more about it [here](https://nypost.com/2023/08/17/cancer-cases-are-rising-among-younger-americans-new-study/).
 
 ## Requirements
 - Python 3.8
