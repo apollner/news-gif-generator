@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692389199)
+![Generated GIF](output.gif?raw=true&v=1692390830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Razer BlackWidow V4 75% Review: Hot-Swappable Switches From a Familiar Brand**
+**Russian lunar probe enters moon’s orbit, first time since 1976**
 
-You can read more about it [here](https://www.cnet.com/tech/computing/razer-blackwidow-v4-75-review-hot-swappable-switches-from-a-familiar-brand/).
+You can read more about it [here](https://www.foxnews.com/world/russian-lunar-probe-enters-moons-orbit-first-time-since-1976).
 
 ## Requirements
 - Python 3.8
