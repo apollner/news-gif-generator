@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692367640)
+![Generated GIF](output.gif?raw=true&v=1692369235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blasphemous 2 review: Metroidvania with a potent world and weak bosses**
+**Leaked Images of Lenovo's Gaming Handheld Shows Nintendo Switch-Like Design**
 
-You can read more about it [here](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date).
+You can read more about it [here](https://www.ign.com/articles/lenovo-legion-go-handheld-gaming-pc-leaked-images).
 
 ## Requirements
 - Python 3.8
