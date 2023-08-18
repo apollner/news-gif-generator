@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692347636)
+![Generated GIF](output.gif?raw=true&v=1692349640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First Galaxy Z Fold 5 update is as boring as its spec sheet - SamMobile**
+**Haiti gang leader vows to fight any foreign armed force if it commits abuses**
 
-You can read more about it [here](https://www.sammobile.com/news/first-samsung-galaxy-z-fold-5-update-released/).
+You can read more about it [here](https://news.yahoo.com/haiti-gang-leader-vows-fight-211624777.html).
 
 ## Requirements
 - Python 3.8
