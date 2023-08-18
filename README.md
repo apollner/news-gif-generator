@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692349640)
+![Generated GIF](output.gif?raw=true&v=1692351283)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Haiti gang leader vows to fight any foreign armed force if it commits abuses**
+**New York State Department releases guidance after 3 dead from flesh-eating bacteria in New York, Connecticut**
 
-You can read more about it [here](https://news.yahoo.com/haiti-gang-leader-vows-fight-211624777.html).
+You can read more about it [here](https://nypost.com/2023/08/16/ny-health-department-releases-guidance-after-3-die-from-flesh-eating-bacteria/).
 
 ## Requirements
 - Python 3.8
