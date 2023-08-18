@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692336829)
+![Generated GIF](output.gif?raw=true&v=1692339002)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cancer diagnosis rates are going up in younger adults, study finds, driven largely by rises in women and people in their 30s**
+**Updates: SpaceX launches latest Falcon 9 Starlink mission from Cape Canaveral Wednesday**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/health/early-onset-cancer-increase/index.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/16/updates-spacex-launch-falcon-9-starlink-cape-canaveral-space-force-florida/70588838007/).
 
 ## Requirements
 - Python 3.8
