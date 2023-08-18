@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692324068)
+![Generated GIF](output.gif?raw=true&v=1692325114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Appeals court says abortion pill mifepristone should remain on the market but rules in favor of limiting access**
+**Which dehumidifiers have been recalled? See affected brands pulled due to fire, burn hazards**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/politics/abortion-pill-mifepristone-5th-circuit/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/16/dehumidifier-recall-see-affected-brands/70607273007/).
 
 ## Requirements
 - Python 3.8
