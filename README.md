@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692360734)
+![Generated GIF](output.gif?raw=true&v=1692362832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lenovo's leaked Legion Go is part Steam Deck, part Nintendo Switch**
+**Rudy Giuliani's former colleagues reflect on his path from law-and-order champion to RICO defendant: "A tragedy"**
 
-You can read more about it [here](https://www.engadget.com/lenovos-leaked-legion-go-is-part-steam-deck-part-nintendo-switch-102508065.html).
+You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-trump-co-defendant-georgia-rico-case/).
 
 ## Requirements
 - Python 3.8
