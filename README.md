@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692369235)
+![Generated GIF](output.gif?raw=true&v=1692371179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Leaked Images of Lenovo's Gaming Handheld Shows Nintendo Switch-Like Design**
+**Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds**
 
-You can read more about it [here](https://www.ign.com/articles/lenovo-legion-go-handheld-gaming-pc-leaked-images).
+You can read more about it [here](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds).
 
 ## Requirements
 - Python 3.8
