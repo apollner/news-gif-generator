@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692398036)
+![Generated GIF](output.gif?raw=true&v=1692399951)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis debate memo urges him to defend Trump and attack Ramaswamy**
+**With COVID-19 rising in Georgia, what can you do?**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/desantis-debate-memo-urges-defend-trump-attack-ramaswamy-rcna100414).
+You can read more about it [here](https://www.ajc.com/news/health-news/with-covid-19-rising-in-georgia-what-can-you-do/MCARWBMP4RACZFEW6B7DLXBZZQ/).
 
 ## Requirements
 - Python 3.8
