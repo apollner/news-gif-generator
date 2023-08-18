@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692358514)
+![Generated GIF](output.gif?raw=true&v=1692360734)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michael Parkinson, UK chat show host and presenter, dies age 88**
+**Lenovo's leaked Legion Go is part Steam Deck, part Nintendo Switch**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/michael-parkinson-death-intl-scli/index.html).
+You can read more about it [here](https://www.engadget.com/lenovos-leaked-legion-go-is-part-steam-deck-part-nintendo-switch-102508065.html).
 
 ## Requirements
 - Python 3.8
