@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692375037)
+![Generated GIF](output.gif?raw=true&v=1692376639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In ‘Blue Beetle,’ DC bulks up a TV-style superhero origin story for theaters**
+**Leaked Images of Lenovo's Gaming Handheld Shows Nintendo Switch-Like Design**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/blue-beetle-review/index.html).
+You can read more about it [here](https://www.ign.com/articles/lenovo-legion-go-handheld-gaming-pc-leaked-images).
 
 ## Requirements
 - Python 3.8
