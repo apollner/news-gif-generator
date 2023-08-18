@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692344038)
+![Generated GIF](output.gif?raw=true&v=1692346224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Non-native grass species blamed for ferocity of Hawaii wildfires**
+**First Galaxy Z Fold 5 update is as boring as its spec sheet - SamMobile**
 
-You can read more about it [here](https://www.theguardian.com/global-development/2023/aug/16/non-native-grass-species-blamed-for-ferocity-of-hawaii-wildfires).
+You can read more about it [here](https://www.sammobile.com/news/first-samsung-galaxy-z-fold-5-update-released/).
 
 ## Requirements
 - Python 3.8
