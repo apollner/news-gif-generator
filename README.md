@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692364176)
+![Generated GIF](output.gif?raw=true&v=1692365646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. 10-year yield at highest since October, drags on shares**
+**Treasury yields hit 16-year high over fears US interest rates will stay higher for longer**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-17/).
+You can read more about it [here](https://www.ft.com/content/1b6e5631-ae66-462a-a6db-a44174ed76ac).
 
 ## Requirements
 - Python 3.8
