@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692353217)
+![Generated GIF](output.gif?raw=true&v=1692354832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
+**About 1.5 million dehumidifiers recalled; brands include GE and Kenmore**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/16/gree-dehumidifier-recall-ge-kenmore/).
 
 ## Requirements
 - Python 3.8
