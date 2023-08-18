@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692329642)
+![Generated GIF](output.gif?raw=true&v=1692331753)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Publisher of raided Kansas newspaper ‘vindicated’ by prosecutor’s decision to return seized items after backlash**
+**Updates: SpaceX launches latest Falcon 9 Starlink mission from Cape Canaveral Wednesday**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/media/marion-county-record-kansas-newspaper-reliable-sources/index.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/16/updates-spacex-launch-falcon-9-starlink-cape-canaveral-space-force-florida/70588838007/).
 
 ## Requirements
 - Python 3.8
