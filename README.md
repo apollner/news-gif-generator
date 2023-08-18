@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692322177)
+![Generated GIF](output.gif?raw=true&v=1692324068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World Cup: England Lionesses eye glory - but 'no plans' for bank holiday**
+**Appeals court says abortion pill mifepristone should remain on the market but rules in favor of limiting access**
 
-You can read more about it [here](https://www.bbc.com/news/uk-66524191).
+You can read more about it [here](https://www.cnn.com/2023/08/16/politics/abortion-pill-mifepristone-5th-circuit/index.html).
 
 ## Requirements
 - Python 3.8
