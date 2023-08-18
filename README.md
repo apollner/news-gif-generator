@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692396313)
+![Generated GIF](output.gif?raw=true&v=1692398036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Strong earthquake and aftershock shake Colombia's capital and other cities**
+**DeSantis debate memo urges him to defend Trump and attack Ramaswamy**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/strong-earthquake-aftershock-shake-colombias-capital-cities-102349077).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/desantis-debate-memo-urges-defend-trump-attack-ramaswamy-rcna100414).
 
 ## Requirements
 - Python 3.8
