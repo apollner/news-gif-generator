@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692372981)
+![Generated GIF](output.gif?raw=true&v=1692375037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China makes it harder for its Muslim citizens to go to Mecca, or anywhere else**
+**In ‘Blue Beetle,’ DC bulks up a TV-style superhero origin story for theaters**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1189860622/china-muslims-mecca-hajj-travel-surveillance).
+You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/blue-beetle-review/index.html).
 
 ## Requirements
 - Python 3.8
