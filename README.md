@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692342346)
+![Generated GIF](output.gif?raw=true&v=1692344038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asian stocks hit 9-month lows on worries over China, US rates**
+**Non-native grass species blamed for ferocity of Hawaii wildfires**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-17/).
+You can read more about it [here](https://www.theguardian.com/global-development/2023/aug/16/non-native-grass-species-blamed-for-ferocity-of-hawaii-wildfires).
 
 ## Requirements
 - Python 3.8
