@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692399951)
+![Generated GIF](output.gif?raw=true&v=1692401809)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With COVID-19 rising in Georgia, what can you do?**
+**Vlatko Andonovski is out as USWNT manager… now what? Deadlines for clarity are fast approaching**
 
-You can read more about it [here](https://www.ajc.com/news/health-news/with-covid-19-rising-in-georgia-what-can-you-do/MCARWBMP4RACZFEW6B7DLXBZZQ/).
+You can read more about it [here](https://theathletic.com/4784616/2023/08/17/uswnt-coach-search-ussf/).
 
 ## Requirements
 - Python 3.8
