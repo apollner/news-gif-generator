@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692365646)
+![Generated GIF](output.gif?raw=true&v=1692367640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Treasury yields hit 16-year high over fears US interest rates will stay higher for longer**
+**Blasphemous 2 review: Metroidvania with a potent world and weak bosses**
 
-You can read more about it [here](https://www.ft.com/content/1b6e5631-ae66-462a-a6db-a44174ed76ac).
+You can read more about it [here](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date).
 
 ## Requirements
 - Python 3.8
