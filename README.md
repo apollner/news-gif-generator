@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692333235)
+![Generated GIF](output.gif?raw=true&v=1692335155)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Singapore seizes $735m of assets in anti-money laundering probe**
+**Sam Asghari Files for Divorce From Britney Spears - E! Online**
 
-You can read more about it [here](https://www.bbc.com/news/business-66529632).
+You can read more about it [here](https://www.eonline.com/news/1383322/sam-asghari-files-for-divorce-from-britney-spears).
 
 ## Requirements
 - Python 3.8
