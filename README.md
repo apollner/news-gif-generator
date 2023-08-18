@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692351283)
+![Generated GIF](output.gif?raw=true&v=1692353217)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York State Department releases guidance after 3 dead from flesh-eating bacteria in New York, Connecticut**
+**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
 
-You can read more about it [here](https://nypost.com/2023/08/16/ny-health-department-releases-guidance-after-3-die-from-flesh-eating-bacteria/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
 
 ## Requirements
 - Python 3.8
