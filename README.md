@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692371179)
+![Generated GIF](output.gif?raw=true&v=1692372981)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds**
+**China makes it harder for its Muslim citizens to go to Mecca, or anywhere else**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds).
+You can read more about it [here](https://www.npr.org/2023/08/17/1189860622/china-muslims-mecca-hajj-travel-surveillance).
 
 ## Requirements
 - Python 3.8
