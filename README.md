@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692354832)
+![Generated GIF](output.gif?raw=true&v=1692356723)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**About 1.5 million dehumidifiers recalled; brands include GE and Kenmore**
+**Sam Asghari Files for Divorce from Britney Spears**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/16/gree-dehumidifier-recall-ge-kenmore/).
+You can read more about it [here](https://www.tmz.com/2023/08/16/sam-asghari-files-divorce-britney-spears-prenup/).
 
 ## Requirements
 - Python 3.8
