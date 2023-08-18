@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692325114)
+![Generated GIF](output.gif?raw=true&v=1692326043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Which dehumidifiers have been recalled? See affected brands pulled due to fire, burn hazards**
+**Cancer diagnosis rates are going up in younger adults, study finds, driven largely by rises in women and people in their 30s**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/16/dehumidifier-recall-see-affected-brands/70607273007/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/health/early-onset-cancer-increase/index.html).
 
 ## Requirements
 - Python 3.8
