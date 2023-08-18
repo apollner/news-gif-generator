@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692390830)
+![Generated GIF](output.gif?raw=true&v=1692392780)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russian lunar probe enters moon’s orbit, first time since 1976**
+**Magnitude 6.3 quake shakes Colombian capital, buildings evacuated**
 
-You can read more about it [here](https://www.foxnews.com/world/russian-lunar-probe-enters-moons-orbit-first-time-since-1976).
+You can read more about it [here](https://www.reuters.com/world/americas/magnitude-59-quake-shakes-colombian-capital-prompting-evacuations-2023-08-17/).
 
 ## Requirements
 - Python 3.8
