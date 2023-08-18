@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692387223)
+![Generated GIF](output.gif?raw=true&v=1692389199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears and Sam Asghari divorce papers reveal details**
+**Razer BlackWidow V4 75% Review: Hot-Swappable Switches From a Familiar Brand**
 
-You can read more about it [here](https://www.latimes.com/entertainment-arts/story/2023-08-17/britney-spears-sam-asghari-divorce-split-breakup-separation).
+You can read more about it [here](https://www.cnet.com/tech/computing/razer-blackwidow-v4-75-review-hot-swappable-switches-from-a-familiar-brand/).
 
 ## Requirements
 - Python 3.8
