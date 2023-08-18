@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692356723)
+![Generated GIF](output.gif?raw=true&v=1692358514)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Asghari Files for Divorce from Britney Spears**
+**Michael Parkinson, UK chat show host and presenter, dies age 88**
 
-You can read more about it [here](https://www.tmz.com/2023/08/16/sam-asghari-files-divorce-britney-spears-prenup/).
+You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/michael-parkinson-death-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
