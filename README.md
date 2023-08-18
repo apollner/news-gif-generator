@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692394433)
+![Generated GIF](output.gif?raw=true&v=1692396313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Every Detail of the 2023-24 Celtics Schedule**
+**Strong earthquake and aftershock shake Colombia's capital and other cities**
 
-You can read more about it [here](https://www.nba.com/celtics/news/sidebar-081723-every-detail-of-the-2023-24-celtics-schedule).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/strong-earthquake-aftershock-shake-colombias-capital-cities-102349077).
 
 ## Requirements
 - Python 3.8
