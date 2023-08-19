@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692473632)
+![Generated GIF](output.gif?raw=true&v=1692475549)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Coral are going to die’: Maui wildfires take toxic toll on marine ecology**
+**US CDC tracks new lineage of virus that causes COVID**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/18/hawaii-fires-environmental-harm-coral-reefs-grasses).
+You can read more about it [here](https://www.reuters.com/world/us/us-cdc-tracks-new-lineage-virus-that-causes-covid-2023-08-18/).
 
 ## Requirements
 - Python 3.8
