@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692459262)
+![Generated GIF](output.gif?raw=true&v=1692461199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maui’s emergency chief Herman Andaya resigns amid wildfires criticism**
+**Trump indictment: Far-right websites target Georgia grand jurors**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/18/maui-emergency-herman-andaya-resigns-sirens/).
+You can read more about it [here](https://www.npr.org/2023/08/18/1194471162/trump-indictment-fulton-county-grand-jurors-threats).
 
 ## Requirements
 - Python 3.8
