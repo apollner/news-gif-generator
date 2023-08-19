@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692418041)
+![Generated GIF](output.gif?raw=true&v=1692419732)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jeffrey Clark: Trump DOJ official urges judge to reject March 2024 trial date in Georgia case**
+**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/politics/jeffrey-clark-georgia-trial-date/index.html).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
 
 ## Requirements
 - Python 3.8
