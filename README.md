@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692475549)
+![Generated GIF](output.gif?raw=true&v=1692479087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US CDC tracks new lineage of virus that causes COVID**
+**India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video)**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-cdc-tracks-new-lineage-virus-that-causes-covid-2023-08-18/).
+You can read more about it [here](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023).
 
 ## Requirements
 - Python 3.8
