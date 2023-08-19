@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692432531)
+![Generated GIF](output.gif?raw=true&v=1692434029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada wildfire: all 20000 Yellowknife residents evacuating**
+**Merab Dvalishvili steals spotlight wearing jacket he took from Sean O’Malley to UFC 292 pre-fight press confe…**
 
-You can read more about it [here](https://www.reuters.com/world/americas/canada-wildfires-crews-battle-stop-blaze-yellowknife-evacuates-2023-08-17/).
+You can read more about it [here](https://www.mmafighting.com/2023/8/17/23836633/merab-dvalishvili-steals-show-wearing-jacket-he-took-from-sean-omalley-ufc-292-press-conference).
 
 ## Requirements
 - Python 3.8
