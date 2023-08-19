@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692426842)
+![Generated GIF](output.gif?raw=true&v=1692428713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada wildfire: all 20000 Yellowknife residents evacuating**
+**Prosecutors seek 30-year sentences for Proud Boys leaders in Jan. 6 case**
 
-You can read more about it [here](https://www.reuters.com/world/americas/canada-wildfires-crews-battle-stop-blaze-yellowknife-evacuates-2023-08-17/).
+You can read more about it [here](https://www.politico.com/news/2023/08/17/30-year-sentence-proud-boys-jan-6-00111796).
 
 ## Requirements
 - Python 3.8
