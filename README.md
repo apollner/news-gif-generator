@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692482707)
+![Generated GIF](output.gif?raw=true&v=1692484432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ford Unveils 800-HP Race-Inspired Mustang GTD**
+**‘Percy Jackson And The Olympians’ Gets Disney+ Premiere Date, New Teaser**
 
-You can read more about it [here](https://jalopnik.com/ford-unveils-800-hp-race-inspired-mustang-gtd-1850751765).
+You can read more about it [here](https://deadline.com/2023/08/percy-jackson-and-the-olympians-premiere-date-disney-plus-teaser-1235522402/).
 
 ## Requirements
 - Python 3.8
