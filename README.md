@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692414508)
+![Generated GIF](output.gif?raw=true&v=1692416110)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Medical experts offer warning as EG.5 variant has COVID cases rising**
+**Hillsong Church founder found not guilty of concealing his father's child sex crimes**
 
-You can read more about it [here](https://www.local10.com/news/local/2023/08/17/medical-experts-offer-warning-as-eg5-variant-has-covid-cases-rising/).
+You can read more about it [here](https://www.npr.org/2023/08/17/1194499061/hillsong-church-brian-houston-not-guilty-concealing-sex-crimes).
 
 ## Requirements
 - Python 3.8
