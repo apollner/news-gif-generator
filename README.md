@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692444835)
+![Generated GIF](output.gif?raw=true&v=1692447036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GLOBAL MARKETS-Shares hit two-month low as fading Fed cut hope hammers bonds**
+**Britney Spears’ estranged husband Sam Asghari denies he will challenge prenup in their divorce**
 
-You can read more about it [here](https://finance.yahoo.com/news/global-markets-shares-hit-two-084449208.html).
+You can read more about it [here](https://www.theguardian.com/music/2023/aug/18/britney-spears-husband-sam-asghari-divorce-prenup-prenuptial-agreement).
 
 ## Requirements
 - Python 3.8
