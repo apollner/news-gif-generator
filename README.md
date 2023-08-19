@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692457506)
+![Generated GIF](output.gif?raw=true&v=1692459262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bond yields hold the key to an emotional market that can change on a dime, says this strategist**
+**Maui’s emergency chief Herman Andaya resigns amid wildfires criticism**
 
-You can read more about it [here](https://www.marketwatch.com/story/bond-yields-hold-the-key-to-an-emotional-market-that-can-change-on-a-dime-says-this-strategist-5c489623).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/18/maui-emergency-herman-andaya-resigns-sirens/).
 
 ## Requirements
 - Python 3.8
