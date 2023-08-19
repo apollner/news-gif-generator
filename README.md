@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692452044)
+![Generated GIF](output.gif?raw=true&v=1692453905)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine live briefing: Kyiv's counteroffensive won't reach Russian-occupied city of Melitopol, U.S. predicts**
+**Hurricane Hilary strengthens to a Category 4 storm, but is expected to weaken before bringing rain to the Southwest US this weekend**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/18/russia-ukraine-war-news/).
+You can read more about it [here](https://www.cnn.com/2023/08/18/weather/hurricane-hilary-rain-flooding-forecast-friday/index.html).
 
 ## Requirements
 - Python 3.8
