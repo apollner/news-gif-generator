@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692411098)
+![Generated GIF](output.gif?raw=true&v=1692412449)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yellowknife residents evacuate as wildfires draw closer**
+**Hurricane Hilary nearly a major hurricane with ‘significant’ impacts expected in California, Southwest**
 
-You can read more about it [here](https://www.youtube.com/watch?v=eEznXF5B23Y).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-hilary).
 
 ## Requirements
 - Python 3.8
