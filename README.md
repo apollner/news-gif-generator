@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692484432)
+![Generated GIF](output.gif?raw=true&v=1692486309)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Percy Jackson And The Olympians’ Gets Disney+ Premiere Date, New Teaser**
+**Pink shows love for Britney Spears with 'sweet' lyric change amid divorce from Sam Asghari**
 
-You can read more about it [here](https://deadline.com/2023/08/percy-jackson-and-the-olympians-premiere-date-disney-plus-teaser-1235522402/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/08/18/pink-britney-spears-sam-asghari/70619220007/).
 
 ## Requirements
 - Python 3.8
