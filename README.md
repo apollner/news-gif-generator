@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692470036)
+![Generated GIF](output.gif?raw=true&v=1692471855)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Wall Street needs to know about UAW talks, a potential strike, and what it could all cost**
+**‘Blue Beetle’ Bites $3.3M, ‘Strays’ Woofs $1.1M – Thursday Night Box Office Previews**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/18/what-uaw-negotiations-could-cost-gm-ford-and-stellantis.html).
+You can read more about it [here](https://deadline.com/2023/08/box-office-blue-beetle-strays-barbie-1235522235/).
 
 ## Requirements
 - Python 3.8
