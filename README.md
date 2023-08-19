@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692479087)
+![Generated GIF](output.gif?raw=true&v=1692480835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video)**
+**Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI'**
 
-You can read more about it [here](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023).
+You can read more about it [here](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination).
 
 ## Requirements
 - Python 3.8
