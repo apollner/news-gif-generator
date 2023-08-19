@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692455628)
+![Generated GIF](output.gif?raw=true&v=1692457506)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC tracking highly mutated new COVID variant in 3 countries, including US**
+**Bond yields hold the key to an emotional market that can change on a dime, says this strategist**
 
-You can read more about it [here](https://nypost.com/2023/08/18/us-cdc-tracks-new-lineage-of-virus-that-causes-covid/).
+You can read more about it [here](https://www.marketwatch.com/story/bond-yields-hold-the-key-to-an-emotional-market-that-can-change-on-a-dime-says-this-strategist-5c489623).
 
 ## Requirements
 - Python 3.8
