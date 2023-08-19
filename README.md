@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692462959)
+![Generated GIF](output.gif?raw=true&v=1692464761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netherlands says US has approved delivery of F-16s to Ukraine**
+**‘Having an adorable 15lb mutt as a hero made my job a little bit easier’: Strays director Josh Greenbaum**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/netherlands-says-us-has-approved-delivery-of-f-16s-to-ukraine).
+You can read more about it [here](https://www.theguardian.com/film/2023/aug/18/having-an-adorable-15lb-mutt-as-a-hero-made-my-job-a-little-bit-easier-strays-director-josh-greenbaum).
 
 ## Requirements
 - Python 3.8
