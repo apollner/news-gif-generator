@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692471855)
+![Generated GIF](output.gif?raw=true&v=1692473632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Blue Beetle’ Bites $3.3M, ‘Strays’ Woofs $1.1M – Thursday Night Box Office Previews**
+**‘Coral are going to die’: Maui wildfires take toxic toll on marine ecology**
 
-You can read more about it [here](https://deadline.com/2023/08/box-office-blue-beetle-strays-barbie-1235522235/).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/18/hawaii-fires-environmental-harm-coral-reefs-grasses).
 
 ## Requirements
 - Python 3.8
