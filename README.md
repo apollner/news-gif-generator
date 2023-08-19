@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692443128)
+![Generated GIF](output.gif?raw=true&v=1692444835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Highly-mutated strain of new COVID variant reported in Michigan**
+**GLOBAL MARKETS-Shares hit two-month low as fading Fed cut hope hammers bonds**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-ba286-who-monitoring/).
+You can read more about it [here](https://finance.yahoo.com/news/global-markets-shares-hit-two-084449208.html).
 
 ## Requirements
 - Python 3.8
