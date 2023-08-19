@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692408399)
+![Generated GIF](output.gif?raw=true&v=1692410201)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moderna’s updated COVID-19 shot shows ‘significant boost’ in antibodies against ‘Eris’ strain**
+**Biden looks to solidify key ties with Japan and South Korea at Camp David meeting**
 
-You can read more about it [here](https://thehill.com/homenews/4157523-modernas-updated-covid-19-shot-shows-significant-boost-antibodies-against-eris-strain/).
+You can read more about it [here](https://www.cnbc.com/2023/08/17/biden-hosts-leaders-of-japan-and-south-korea-at-camp-david-meeting.html).
 
 ## Requirements
 - Python 3.8
