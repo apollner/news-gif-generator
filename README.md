@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692435926)
+![Generated GIF](output.gif?raw=true&v=1692437637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Merab Dvalishvili steals spotlight wearing jacket he took from Sean O’Malley to UFC 292 pre-fight press confe…**
+**Highly-mutated strain of new COVID variant reported in Michigan**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/17/23836633/merab-dvalishvili-steals-show-wearing-jacket-he-took-from-sean-omalley-ufc-292-press-conference).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-ba286-who-monitoring/).
 
 ## Requirements
 - Python 3.8
