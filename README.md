@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692447036)
+![Generated GIF](output.gif?raw=true&v=1692449101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears’ estranged husband Sam Asghari denies he will challenge prenup in their divorce**
+**The iPhone 15 might support faster charging speeds via USB-C**
 
-You can read more about it [here](https://www.theguardian.com/music/2023/aug/18/britney-spears-husband-sam-asghari-divorce-prenup-prenuptial-agreement).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage).
 
 ## Requirements
 - Python 3.8
