@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692437637)
+![Generated GIF](output.gif?raw=true&v=1692439560)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Highly-mutated strain of new COVID variant reported in Michigan**
+**NFL preseason 2023 Week 2 takeaways and schedule - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-ba286-who-monitoring/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38210608/nfl-preseason-2023-week-2-takeaways-schedule-highlights).
 
 ## Requirements
 - Python 3.8
