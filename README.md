@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692419732)
+![Generated GIF](output.gif?raw=true&v=1692421507)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
+**US reportedly approves sending F-16 jets to Ukraine from Denmark and Netherlands**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/18/us-reportedly-approves-sending-f-16-jets-to-ukraine-from-denmark-and-netherlands).
 
 ## Requirements
 - Python 3.8
