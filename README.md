@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692416110)
+![Generated GIF](output.gif?raw=true&v=1692418041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hillsong Church founder found not guilty of concealing his father's child sex crimes**
+**Jeffrey Clark: Trump DOJ official urges judge to reject March 2024 trial date in Georgia case**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1194499061/hillsong-church-brian-houston-not-guilty-concealing-sex-crimes).
+You can read more about it [here](https://www.cnn.com/2023/08/17/politics/jeffrey-clark-georgia-trial-date/index.html).
 
 ## Requirements
 - Python 3.8
