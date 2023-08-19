@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692461199)
+![Generated GIF](output.gif?raw=true&v=1692462959)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump indictment: Far-right websites target Georgia grand jurors**
+**Netherlands says US has approved delivery of F-16s to Ukraine**
 
-You can read more about it [here](https://www.npr.org/2023/08/18/1194471162/trump-indictment-fulton-county-grand-jurors-threats).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/netherlands-says-us-has-approved-delivery-of-f-16s-to-ukraine).
 
 ## Requirements
 - Python 3.8
