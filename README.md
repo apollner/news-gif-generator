@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692464761)
+![Generated GIF](output.gif?raw=true&v=1692466436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Having an adorable 15lb mutt as a hero made my job a little bit easier’: Strays director Josh Greenbaum**
+**Chandrayaan-3: India's lunar lander Vikram sends close-up photos of Moon**
 
-You can read more about it [here](https://www.theguardian.com/film/2023/aug/18/having-an-adorable-15lb-mutt-as-a-hero-made-my-job-a-little-bit-easier-strays-director-josh-greenbaum).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-66541956).
 
 ## Requirements
 - Python 3.8
