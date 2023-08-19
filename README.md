@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692428713)
+![Generated GIF](output.gif?raw=true&v=1692430437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors seek 30-year sentences for Proud Boys leaders in Jan. 6 case**
+**Eagles' Tyrie Cleveland, Moro Ojomo suffer neck injuries, carted off field - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/17/30-year-sentence-proud-boys-jan-6-00111796).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38212927/eagles-tyrie-cleveland-moro-ojomo-suffer-neck-injuries-carted-field).
 
 ## Requirements
 - Python 3.8
