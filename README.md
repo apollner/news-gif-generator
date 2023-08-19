@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692404834)
+![Generated GIF](output.gif?raw=true&v=1692408399)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Strong earthquake and aftershock shake Colombia's capital and other cities**
+**Moderna’s updated COVID-19 shot shows ‘significant boost’ in antibodies against ‘Eris’ strain**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/strong-earthquake-aftershock-shake-colombias-capital-cities-102349077).
+You can read more about it [here](https://thehill.com/homenews/4157523-modernas-updated-covid-19-shot-shows-significant-boost-antibodies-against-eris-strain/).
 
 ## Requirements
 - Python 3.8
