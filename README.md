@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692480835)
+![Generated GIF](output.gif?raw=true&v=1692482707)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI'**
+**Ford Unveils 800-HP Race-Inspired Mustang GTD**
 
-You can read more about it [here](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination).
+You can read more about it [here](https://jalopnik.com/ford-unveils-800-hp-race-inspired-mustang-gtd-1850751765).
 
 ## Requirements
 - Python 3.8
