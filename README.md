@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692498821)
+![Generated GIF](output.gif?raw=true&v=1692500788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Asghari Not ‘Threatening to Exploit’ Britney Spears or Challenge Prenup, Rep Says**
+**Palo Alto shares rise on earnings beat, surprising investors who worried about a Friday report**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-divorce-sam-asghari-not-challenging-prenup-1234808908/).
+You can read more about it [here](https://www.cnbc.com/2023/08/18/palo-alto-networks-panw-earnings-report-q4-2023.html).
 
 ## Requirements
 - Python 3.8
