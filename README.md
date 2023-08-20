@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692533495)
+![Generated GIF](output.gif?raw=true&v=1692535448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI joins investigation of threats to grand jurors in Trump Georgia case**
+**‘Things I think’ after Giants-Panthers preseason game**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/08/18/fbi-joins-investigation-threats-grand-jurors-trump-georgia-case/).
+You can read more about it [here](https://www.bigblueview.com/2023/8/18/23837759/things-i-think-after-giants-panthers-preseason-game).
 
 ## Requirements
 - Python 3.8
