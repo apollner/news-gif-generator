@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692538452)
+![Generated GIF](output.gif?raw=true&v=1692540441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 292 Embedded: Vlog Series - Episode 6**
+**Bijan Robinson "felt awesome" with 12-yard run, one-handed catch in preseason debut**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lIC-ineSvWo).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-felt-awesome-with-12-yard-run-one-handed-catch-in-preseason-debut).
 
 ## Requirements
 - Python 3.8
