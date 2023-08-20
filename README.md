@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692551112)
+![Generated GIF](output.gif?raw=true&v=1692552834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January**
+**Box Office: ‘Blue Beetle’ Buzzing Above ‘Barbie’ After $10 Million Opening Day, ‘Strays’ Looking Hangdog**
 
-You can read more about it [here](https://www.foxnews.com/us/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january).
+You can read more about it [here](https://variety.com/2023/film/box-office/blue-beetle-opening-day-strays-barbie-fifth-weekend-1235699962/).
 
 ## Requirements
 - Python 3.8
