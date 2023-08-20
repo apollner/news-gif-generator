@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692495252)
+![Generated GIF](output.gif?raw=true&v=1692497673)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia steps up investigation into threats against Trump grand jurors**
+**What is dengue fever? What to know as virus cases are confirmed in Florida**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/18/georgia-trump-grand-jury-threats-investigation).
+You can read more about it [here](https://www.cbsnews.com/news/what-is-dengue-fever-virus-symptoms-vaccine-treatment/).
 
 ## Requirements
 - Python 3.8
