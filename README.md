@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692515123)
+![Generated GIF](output.gif?raw=true&v=1692516820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maui emergency chief quits in wake of warning siren controversy**
+**Giants-Panthers final score: New York defeats Carolina, 21-19**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2UN9CeItbCE).
+You can read more about it [here](https://www.bigblueview.com/2023/8/18/23837696/giants-panthers-final-score-new-york-defeats-carolina-21-19-nfl-preseason).
 
 ## Requirements
 - Python 3.8
