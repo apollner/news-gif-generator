@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692525982)
+![Generated GIF](output.gif?raw=true&v=1692527629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears speaks out after Sam Asghari files for divorce: 'Couldn't take the pain anymore'**
+**Hurricane Hilary prompts historic tropical storm warning for California as Southwest braces for dangerous rain, flooding**
 
-You can read more about it [here](https://nypost.com/2023/08/19/britney-spears-speaks-out-after-sam-asghari-divorce-filing-couldnt-take-the-pain-anymore/).
+You can read more about it [here](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html).
 
 ## Requirements
 - Python 3.8
