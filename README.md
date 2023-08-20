@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692554829)
+![Generated GIF](output.gif?raw=true&v=1692556569)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Apple Exclusive Reveals iPhone 15 Design Shock**
+**Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January**
 
-You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/08/19/apple-iphone-15-pro-max-usb-c-thunderbolt4-fast-charging-new-iphone-release/).
+You can read more about it [here](https://www.foxnews.com/us/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january).
 
 ## Requirements
 - Python 3.8
