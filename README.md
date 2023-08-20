@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692488030)
+![Generated GIF](output.gif?raw=true&v=1692491503)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**American Airlines sues a travel site to crack down on consumers who use this trick to save money**
+***NSYNC Expected to Reunite for New Song in 'Trolls Band Together': Source (Exclusive)**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/american-airlines-sues-travel-site-crack-consumers-trick-102381339).
+You can read more about it [here](https://www.etonline.com/nsync-expected-to-reunite-for-new-song-in-trolls-band-together-source-exclusive-209997).
 
 ## Requirements
 - Python 3.8
