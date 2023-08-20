@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692547608)
+![Generated GIF](output.gif?raw=true&v=1692551112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Studios Make Latest Offer to Writers Guild, Negotiations to Resume Next Week**
+**Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-strike-studios-latest-offer-talks-resume-next-week-1235570471/).
+You can read more about it [here](https://www.foxnews.com/us/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january).
 
 ## Requirements
 - Python 3.8
