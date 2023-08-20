@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692552834)
+![Generated GIF](output.gif?raw=true&v=1692554829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Blue Beetle’ Buzzing Above ‘Barbie’ After $10 Million Opening Day, ‘Strays’ Looking Hangdog**
+**New Apple Exclusive Reveals iPhone 15 Design Shock**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/blue-beetle-opening-day-strays-barbie-fifth-weekend-1235699962/).
+You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/08/19/apple-iphone-15-pro-max-usb-c-thunderbolt4-fast-charging-new-iphone-release/).
 
 ## Requirements
 - Python 3.8
