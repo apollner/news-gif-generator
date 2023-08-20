@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692507959)
+![Generated GIF](output.gif?raw=true&v=1692509638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ECOWAS defence chiefs agree ‘D-day’ for Niger military intervention**
+**Baldur's Gate 3 on the Steam Deck plays better than it looks**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/ecowas-defence-chiefs-agree-d-day-for-niger-military-intervention).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great).
 
 ## Requirements
 - Python 3.8
