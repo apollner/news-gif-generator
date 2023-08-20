@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692497673)
+![Generated GIF](output.gif?raw=true&v=1692498821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is dengue fever? What to know as virus cases are confirmed in Florida**
+**Sam Asghari Not ‘Threatening to Exploit’ Britney Spears or Challenge Prenup, Rep Says**
 
-You can read more about it [here](https://www.cbsnews.com/news/what-is-dengue-fever-virus-symptoms-vaccine-treatment/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-divorce-sam-asghari-not-challenging-prenup-1234808908/).
 
 ## Requirements
 - Python 3.8
