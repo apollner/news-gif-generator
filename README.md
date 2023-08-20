@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692560027)
+![Generated GIF](output.gif?raw=true&v=1692561947)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First U.S. case of mutating COVID variant found in Michigan**
+**Sweden-Australia highlights: 2023 Women's World Cup's third-place game**
 
-You can read more about it [here](https://www.mlive.com/coronavirus/2023/08/first-us-case-of-mutating-covid-variant-found-in-michigan.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/worldcup/2023/08/19/sweden-defeats-australia-to-take-third-place-at-2023-womens-world-cup/70630695007/).
 
 ## Requirements
 - Python 3.8
