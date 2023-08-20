@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692504451)
+![Generated GIF](output.gif?raw=true&v=1692506044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon relaunches shipping service that competes with FedEx and UPS**
+**ECOWAS defence chiefs agree ‘D-day’ for Niger military intervention**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/amazon-relaunches-shipping-service-competes-fedex-ups-102383448).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/ecowas-defence-chiefs-agree-d-day-for-niger-military-intervention).
 
 ## Requirements
 - Python 3.8
