@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692561947)
+![Generated GIF](output.gif?raw=true&v=1692563716)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sweden-Australia highlights: 2023 Women's World Cup's third-place game**
+**U.S, Japan and South Korea pledge close cooperation at historic summit**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/worldcup/2023/08/19/sweden-defeats-australia-to-take-third-place-at-2023-womens-world-cup/70630695007/).
+You can read more about it [here](https://www.axios.com/2023/08/18/us-japan-south-korea-trilateral-summit-camp-david).
 
 ## Requirements
 - Python 3.8
