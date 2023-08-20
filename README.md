@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692543902)
+![Generated GIF](output.gif?raw=true&v=1692545637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears speaks out after Sam Asghari files for divorce: 'Couldn't take the pain anymore'**
+**Ukraine war: Five people killed and more than 30 injured in Chernihiv attack**
 
-You can read more about it [here](https://nypost.com/2023/08/19/britney-spears-speaks-out-after-sam-asghari-divorce-filing-couldnt-take-the-pain-anymore/).
+You can read more about it [here](https://www.youtube.com/watch?v=tqsgbMpa2I8).
 
 ## Requirements
 - Python 3.8
