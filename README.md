@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692500788)
+![Generated GIF](output.gif?raw=true&v=1692502439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palo Alto shares rise on earnings beat, surprising investors who worried about a Friday report**
+**Samsung Slim S Pen Case Hands-on—Not for Everyone**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/18/palo-alto-networks-panw-earnings-report-q4-2023.html).
+You can read more about it [here](https://gizmodo.com/samsung-slim-s-pen-case-hands-on-not-for-everyone-1850753066).
 
 ## Requirements
 - Python 3.8
