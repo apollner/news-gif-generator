@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692491503)
+![Generated GIF](output.gif?raw=true&v=1692495252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-***NSYNC Expected to Reunite for New Song in 'Trolls Band Together': Source (Exclusive)**
+**Georgia steps up investigation into threats against Trump grand jurors**
 
-You can read more about it [here](https://www.etonline.com/nsync-expected-to-reunite-for-new-song-in-trolls-band-together-source-exclusive-209997).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/18/georgia-trump-grand-jury-threats-investigation).
 
 ## Requirements
 - Python 3.8
