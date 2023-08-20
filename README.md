@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692518924)
+![Generated GIF](output.gif?raw=true&v=1692520427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Hilary prompts historic tropical storm warning for California as Southwest braces for dangerous rain, flooding**
+**Bijan Robinson debut: A look at how the Falcons rookie running back fared in first preseason game**
 
-You can read more about it [here](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bijan-robinson-debut-a-look-at-how-the-falcons-rookie-running-back-fared-in-first-preseason-game/).
 
 ## Requirements
 - Python 3.8
