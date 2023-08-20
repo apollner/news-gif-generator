@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692535448)
+![Generated GIF](output.gif?raw=true&v=1692536740)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Things I think’ after Giants-Panthers preseason game**
+**2024 Mercedes-AMG GT Coupe Debuts With 2+2 Seats, AWD, And 577 HP**
 
-You can read more about it [here](https://www.bigblueview.com/2023/8/18/23837759/things-i-think-after-giants-panthers-preseason-game).
+You can read more about it [here](https://www.motor1.com/news/682416/2024-amg-gt-reveal-specs/).
 
 ## Requirements
 - Python 3.8
