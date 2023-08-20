@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692502439)
+![Generated GIF](output.gif?raw=true&v=1692504451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Slim S Pen Case Hands-on—Not for Everyone**
+**Amazon relaunches shipping service that competes with FedEx and UPS**
 
-You can read more about it [here](https://gizmodo.com/samsung-slim-s-pen-case-hands-on-not-for-everyone-1850753066).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/amazon-relaunches-shipping-service-competes-fedex-ups-102383448).
 
 ## Requirements
 - Python 3.8
