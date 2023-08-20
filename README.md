@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692511745)
+![Generated GIF](output.gif?raw=true&v=1692513229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Those $1,000 diet drugs cost less than $100 abroad**
+**‘You Are So Not Invited To My Bat Mitzvah’ Review: It’s An Adam Sandler Family Affair, But The Kids Steal This Funny And Poignant Coming-Of-Age Teen Comedy**
 
-You can read more about it [here](https://ktla.com/news/money-smart/those-1000-diet-drugs-cost-less-than-100-abroad/).
+You can read more about it [here](https://deadline.com/2023/08/you-are-so-not-invited-to-my-bat-mitzvah-review-adam-sandler-family-affair-1235522878/).
 
 ## Requirements
 - Python 3.8
