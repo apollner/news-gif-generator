@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692648433)
+![Generated GIF](output.gif?raw=true&v=1692650065)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 292, The Morning After: “The Future” Ian Garry arrives**
+**Ecuadorians vote for new president in election marred by candidate’s murder**
 
-You can read more about it [here](https://www.mmamania.com/2023/8/20/23838820/ufc-292-the-morning-after-the-future-ian-garry-arrives-espn-mma-welterweight-neil-magny).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/20/ecuadoreans-vote-for-new-president-in-election-marred-by-candidates).
 
 ## Requirements
 - Python 3.8
