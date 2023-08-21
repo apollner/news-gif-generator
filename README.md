@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692583281)
+![Generated GIF](output.gif?raw=true&v=1692584364)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A raid on a Kansas newspaper likely broke the law, experts say. But which one?**
+**Dealer Who Sold Fentanyl-Laced Heroin to ‘The Wire’s’ Michael K. Williams Sentenced to 10 Years**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/19/kansas-newspaper-raid-00111975).
+You can read more about it [here](https://www.yahoo.com/entertainment/dealer-sold-fentanyl-laced-heroin-004432794.html).
 
 ## Requirements
 - Python 3.8
