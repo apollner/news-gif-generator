@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692653638)
+![Generated GIF](output.gif?raw=true&v=1692655556)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine ‘sky shield getting stronger’ as allies supply coveted F-16s**
+**2023 Fantasy football draft prep: Rankings, advice, rookies, strategy, top 150 players from NFL experts**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/20/kyiv-hails-dutch-danish-decision-to-supply-f-16-jets-to-ukraine).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/2023-fantasy-football-draft-prep-rankings-advice-rookies-strategy-top-150-players-from-nfl-experts/).
 
 ## Requirements
 - Python 3.8
