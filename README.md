@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692574426)
+![Generated GIF](output.gif?raw=true&v=1692577760)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nissan recall check: '20-'22 Sentras recalled for steering issue**
+**'Blue Beetle' Box Office Earns $10 Million on Opening Day**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/recalls/2023/08/19/nissan-recall-check-20-22-sentras-recall-steering-issue-tie-rods/70632457007/).
+You can read more about it [here](http://www.vulture.com/2023/08/blue-beetle-box-office.html).
 
 ## Requirements
 - Python 3.8
