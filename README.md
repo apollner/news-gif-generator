@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692635843)
+![Generated GIF](output.gif?raw=true&v=1692637621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wordle today: Here's the answer and hints for August 20**
+**Biden to visit Maui as wildfire survivors question government response - The Washington Post**
 
-You can read more about it [here](https://mashable.com/article/wordle-today-answer-august-20-2023).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/20/biden-hawaii-wildfires/).
 
 ## Requirements
 - Python 3.8
