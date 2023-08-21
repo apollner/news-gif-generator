@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692585226)
+![Generated GIF](output.gif?raw=true&v=1692587296)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Washington state wildfire leaves one dead and nearly 200 structures destroyed**
+**Deciphering Quantum Complexity: A Pioneering Algorithm for Accurate Qubit Calculation**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/20/washington-state-wildfire-leaves-one-dead-and-nearly-200-structures-destroyed).
+You can read more about it [here](https://scitechdaily.com/deciphering-quantum-complexity-a-pioneering-algorithm-for-accurate-qubit-calculation/).
 
 ## Requirements
 - Python 3.8
