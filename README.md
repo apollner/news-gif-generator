@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692612466)
+![Generated GIF](output.gif?raw=true&v=1692614062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daily horoscope for August 20, 2023**
+**Ukraine is working with Sweden to produce more CV90 combat vehicles**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-08202023-20230820-2x3ln3vbfrc3xlwccavsj4kg6u-story.html).
+You can read more about it [here](https://www.businessinsider.com/zelenskyy-ukraine-partner-sweden-produce-more-cv90-combat-vehicle-2023-8).
 
 ## Requirements
 - Python 3.8
