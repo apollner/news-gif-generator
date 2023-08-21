@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692588837)
+![Generated GIF](output.gif?raw=true&v=1692590971)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘This Is Us’ Family Mourns Ron Cephas Jones: Show Creator Dan Fogelman Remembers The Actor**
+**Dealer Who Sold Fentanyl-Laced Heroin to ‘The Wire’s’ Michael K. Williams Sentenced to 10 Years**
 
-You can read more about it [here](https://deadline.com/2023/08/this-is-us-family-mourns-ron-cephas-jones-death-reactions-1235523403/).
+You can read more about it [here](https://www.yahoo.com/entertainment/dealer-sold-fentanyl-laced-heroin-004432794.html).
 
 ## Requirements
 - Python 3.8
