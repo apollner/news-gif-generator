@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692646571)
+![Generated GIF](output.gif?raw=true&v=1692648433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flesh-eating bacteria kills eight in US, prompting warnings of swimming in sea and eating shellfish**
+**UFC 292, The Morning After: “The Future” Ian Garry arrives**
 
-You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/20/flesh-eating-bacteria-deaths-us-florida-new-york/).
+You can read more about it [here](https://www.mmamania.com/2023/8/20/23838820/ufc-292-the-morning-after-the-future-ian-garry-arrives-espn-mma-welterweight-neil-magny).
 
 ## Requirements
 - Python 3.8
