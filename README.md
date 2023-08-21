@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692615947)
+![Generated GIF](output.gif?raw=true&v=1692617642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California DMV requests Cruise to halve driverless car fleet after collision with firetruck in San Francisco**
+**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/california-dmv-requests-cruise-halve-driverless-car-fleet-after-collision-with-firetruck-san-francisco).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
