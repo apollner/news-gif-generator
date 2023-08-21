@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692605453)
+![Generated GIF](output.gif?raw=true&v=1692606852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winning numbers for Powerball Jackpot August 19 drawing**
+**Niger coup leader proposes three-year transition to civilian rule**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/19/powerball-winning-numbers-august-19-jackpot/70632258007/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/20/niger-coup-leader-proposes-three-year-transition-to-civilian-rule).
 
 ## Requirements
 - Python 3.8
