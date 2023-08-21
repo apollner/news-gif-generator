@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692642829)
+![Generated GIF](output.gif?raw=true&v=1692644710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tish Cyrus marries ‘Prison Break’ star Dominic Purcell with daughter Miley as her Maid of Honor**
+**Zelenskyy hails F-16 commitment on visit to Netherlands**
 
-You can read more about it [here](https://pagesix.com/2023/08/20/tish-cyrus-marries-prison-break-star-dominic-purcell-with-daughter-miley-as-her-maid-of-honor/).
+You can read more about it [here](https://www.politico.eu/article/volodymyr-zelenskyy-mark-rutte-netherlands-ukraine-hails-f-16-commitment-on-visit-to-netherlands/).
 
 ## Requirements
 - Python 3.8
