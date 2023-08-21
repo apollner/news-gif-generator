@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692622188)
+![Generated GIF](output.gif?raw=true&v=1692623423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First on CNN: Biden wades into GOP primary with $25 million ad blitz, starting with economy focus**
+**The Netherlands and Denmark will give F-16 fighter jets to Ukraine, the Dutch prime minister says**
 
-You can read more about it [here](https://www.cnn.com/2023/08/20/politics/joe-biden-2024-republican-primary/index.html).
+You can read more about it [here](https://news.yahoo.com/ukraines-zelenskyy-netherlands-us-approved-101925319.html).
 
 ## Requirements
 - Python 3.8
