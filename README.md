@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692659283)
+![Generated GIF](output.gif?raw=true&v=1692660861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jerome Powell at Jackson Hole: Expect push-back on rate cuts, bond yield comments**
+**Donald Trump says he will not appear in Republican primary debates**
 
-You can read more about it [here](https://seekingalpha.com/news/4004096-federal-reserve-jerome-powell-jackson-hole-preview).
+You can read more about it [here](https://www.ft.com/content/598f408e-107e-4df5-b144-8460648801b1).
 
 ## Requirements
 - Python 3.8
