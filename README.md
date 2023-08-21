@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692650065)
+![Generated GIF](output.gif?raw=true&v=1692651982)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ecuadorians vote for new president in election marred by candidate’s murder**
+**Tori Spelling Hospitalized Amid Split with Dean McDermott**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/20/ecuadoreans-vote-for-new-president-in-election-marred-by-candidates).
+You can read more about it [here](https://www.tmz.com/2023/08/20/tori-spelling-hospitalized-amid-split-with-dean-mcdermott/).
 
 ## Requirements
 - Python 3.8
