@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692594518)
+![Generated GIF](output.gif?raw=true&v=1692596032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Couple found alive in Alaskan wilderness had chaotic past with drugs, filmed bizarre Youtube videos**
+**Taylor Swift seen at Long Beach Island wedding Friday**
 
-You can read more about it [here](https://nypost.com/2023/08/19/couple-found-alive-in-alaskan-wilderness-had-chaotic-past/).
+You can read more about it [here](https://pressofatlanticcity.com/news/local/taylor-swift-long-beach-island-lbi-wedding/article_6612fe76-3e98-11ee-a7d4-87c495012f2d.html).
 
 ## Requirements
 - Python 3.8
