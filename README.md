@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692624843)
+![Generated GIF](output.gif?raw=true&v=1692626759)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lotus Type 66 (2024) - pictures, information & specs**
+**Spain vs. England: How to Watch FIFA Women's World Cup 2023 Final Live From Anywhere**
 
-You can read more about it [here](https://www.netcarshow.com/lotus/2024-type_66/).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/spain-vs-england-how-to-watch-fifa-womens-world-cup-2023-final-live-from-anywhere/).
 
 ## Requirements
 - Python 3.8
