@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692608853)
+![Generated GIF](output.gif?raw=true&v=1692610453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia's Luna-25 lander reports 'emergency' before moon landing - The Washington Post**
+**Daily horoscope for August 20, 2023**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/19/russia-luna-25-moon-emergency/).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-08202023-20230820-2x3ln3vbfrc3xlwccavsj4kg6u-story.html).
 
 ## Requirements
 - Python 3.8
