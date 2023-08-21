@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692617642)
+![Generated GIF](output.gif?raw=true&v=1692620034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
+**The Bucks county commission race will tell us which party will has the upper hand in 2024 - POLITICO**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
+You can read more about it [here](https://www.politico.com/news/2023/08/20/bucks-county-pennsylvania-2024-00111933).
 
 ## Requirements
 - Python 3.8
