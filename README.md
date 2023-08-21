@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692581436)
+![Generated GIF](output.gif?raw=true&v=1692583281)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deciphering Quantum Complexity: A Pioneering Algorithm for Accurate Qubit Calculation**
+**A raid on a Kansas newspaper likely broke the law, experts say. But which one?**
 
-You can read more about it [here](https://scitechdaily.com/deciphering-quantum-complexity-a-pioneering-algorithm-for-accurate-qubit-calculation/).
+You can read more about it [here](https://www.politico.com/news/2023/08/19/kansas-newspaper-raid-00111975).
 
 ## Requirements
 - Python 3.8
