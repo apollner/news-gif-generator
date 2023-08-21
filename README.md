@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692651982)
+![Generated GIF](output.gif?raw=true&v=1692653638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tori Spelling Hospitalized Amid Split with Dean McDermott**
+**Ukraine ‘sky shield getting stronger’ as allies supply coveted F-16s**
 
-You can read more about it [here](https://www.tmz.com/2023/08/20/tori-spelling-hospitalized-amid-split-with-dean-mcdermott/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/20/kyiv-hails-dutch-danish-decision-to-supply-f-16-jets-to-ukraine).
 
 ## Requirements
 - Python 3.8
