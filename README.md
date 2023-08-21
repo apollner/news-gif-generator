@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692592454)
+![Generated GIF](output.gif?raw=true&v=1692594518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tourists asked to stay away after fire at Harborside Inn on Block Island**
+**Couple found alive in Alaskan wilderness had chaotic past with drugs, filmed bizarre Youtube videos**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/fire-harborside-inn-block-island/).
+You can read more about it [here](https://nypost.com/2023/08/19/couple-found-alive-in-alaskan-wilderness-had-chaotic-past/).
 
 ## Requirements
 - Python 3.8
