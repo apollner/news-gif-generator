@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692637621)
+![Generated GIF](output.gif?raw=true&v=1692639244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden to visit Maui as wildfire survivors question government response - The Washington Post**
+**Physicists Identify a Strange New Form of Superconductivity**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/20/biden-hawaii-wildfires/).
+You can read more about it [here](https://www.sciencealert.com/physicists-identify-a-strange-new-form-of-superconductivity).
 
 ## Requirements
 - Python 3.8
