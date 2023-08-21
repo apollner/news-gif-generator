@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692620034)
+![Generated GIF](output.gif?raw=true&v=1692622188)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Bucks county commission race will tell us which party will has the upper hand in 2024 - POLITICO**
+**First on CNN: Biden wades into GOP primary with $25 million ad blitz, starting with economy focus**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/20/bucks-county-pennsylvania-2024-00111933).
+You can read more about it [here](https://www.cnn.com/2023/08/20/politics/joe-biden-2024-republican-primary/index.html).
 
 ## Requirements
 - Python 3.8
