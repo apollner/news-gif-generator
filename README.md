@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692598249)
+![Generated GIF](output.gif?raw=true&v=1692599683)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada's British Columbia declares state of emergency as thousands are forced to evacuate Kelowna**
+**Deciphering Quantum Complexity: A Pioneering Algorithm for Accurate Qubit Calculation**
 
-You can read more about it [here](https://www.foxnews.com/world/canadas-british-columbia-declares-state-emergency-thousands-forced-evacuate-kelowna).
+You can read more about it [here](https://scitechdaily.com/deciphering-quantum-complexity-a-pioneering-algorithm-for-accurate-qubit-calculation/).
 
 ## Requirements
 - Python 3.8
