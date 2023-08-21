@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692634165)
+![Generated GIF](output.gif?raw=true&v=1692635843)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears breaks silence on 'shocking' divorce**
+**Wordle today: Here's the answer and hints for August 20**
 
-You can read more about it [here](https://www.thepinknews.com/2023/08/20/britney-spears-divorce-sam-asghari-marriage/).
+You can read more about it [here](https://mashable.com/article/wordle-today-answer-august-20-2023).
 
 ## Requirements
 - Python 3.8
