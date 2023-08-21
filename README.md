@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692606852)
+![Generated GIF](output.gif?raw=true&v=1692608853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Niger coup leader proposes three-year transition to civilian rule**
+**Russia's Luna-25 lander reports 'emergency' before moon landing - The Washington Post**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/20/niger-coup-leader-proposes-three-year-transition-to-civilian-rule).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/19/russia-luna-25-moon-emergency/).
 
 ## Requirements
 - Python 3.8
