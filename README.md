@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692644710)
+![Generated GIF](output.gif?raw=true&v=1692646571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zelenskyy hails F-16 commitment on visit to Netherlands**
+**Flesh-eating bacteria kills eight in US, prompting warnings of swimming in sea and eating shellfish**
 
-You can read more about it [here](https://www.politico.eu/article/volodymyr-zelenskyy-mark-rutte-netherlands-ukraine-hails-f-16-commitment-on-visit-to-netherlands/).
+You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/20/flesh-eating-bacteria-deaths-us-florida-new-york/).
 
 ## Requirements
 - Python 3.8
