@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692639244)
+![Generated GIF](output.gif?raw=true&v=1692641213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Physicists Identify a Strange New Form of Superconductivity**
+**Flesh-eating bacteria kills eight in US, prompting warnings of swimming in sea and eating shellfish**
 
-You can read more about it [here](https://www.sciencealert.com/physicists-identify-a-strange-new-form-of-superconductivity).
+You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/20/flesh-eating-bacteria-deaths-us-florida-new-york/).
 
 ## Requirements
 - Python 3.8
