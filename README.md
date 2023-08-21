@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692641213)
+![Generated GIF](output.gif?raw=true&v=1692642829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flesh-eating bacteria kills eight in US, prompting warnings of swimming in sea and eating shellfish**
+**Tish Cyrus marries ‘Prison Break’ star Dominic Purcell with daughter Miley as her Maid of Honor**
 
-You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/20/flesh-eating-bacteria-deaths-us-florida-new-york/).
+You can read more about it [here](https://pagesix.com/2023/08/20/tish-cyrus-marries-prison-break-star-dominic-purcell-with-daughter-miley-as-her-maid-of-honor/).
 
 ## Requirements
 - Python 3.8
