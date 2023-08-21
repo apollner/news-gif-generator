@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692626759)
+![Generated GIF](output.gif?raw=true&v=1692628451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spain vs. England: How to Watch FIFA Women's World Cup 2023 Final Live From Anywhere**
+**Britney Spears says Sam Asghari divorce is 'nobody's business'**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/spain-vs-england-how-to-watch-fifa-womens-world-cup-2023-final-live-from-anywhere/).
+You can read more about it [here](https://www.insider.com/britney-spears-sam-asghari-divorce-shocked-nobodys-business-2023-8).
 
 ## Requirements
 - Python 3.8
