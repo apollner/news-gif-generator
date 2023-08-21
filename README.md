@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692630410)
+![Generated GIF](output.gif?raw=true&v=1692632052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CBS News poll finds Trump's big lead grows, as GOP voters dismiss indictments**
+**Wordle today: Here's the answer and hints for August 20**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-poll-indictments-2023-08-20/).
+You can read more about it [here](https://mashable.com/article/wordle-today-answer-august-20-2023).
 
 ## Requirements
 - Python 3.8
