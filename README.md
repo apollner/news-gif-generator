@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692603233)
+![Generated GIF](output.gif?raw=true&v=1692605453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden's lawyers threatened to put president on the stand: report**
+**Winning numbers for Powerball Jackpot August 19 drawing**
 
-You can read more about it [here](https://nypost.com/2023/08/19/hunter-bidens-lawyers-threatened-to-put-president-on-the-stand-before-plea-deal-fell-apart-report/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/19/powerball-winning-numbers-august-19-jackpot/70632258007/).
 
 ## Requirements
 - Python 3.8
