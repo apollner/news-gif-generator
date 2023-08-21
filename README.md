@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692614062)
+![Generated GIF](output.gif?raw=true&v=1692615947)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine is working with Sweden to produce more CV90 combat vehicles**
+**California DMV requests Cruise to halve driverless car fleet after collision with firetruck in San Francisco**
 
-You can read more about it [here](https://www.businessinsider.com/zelenskyy-ukraine-partner-sweden-produce-more-cv90-combat-vehicle-2023-8).
+You can read more about it [here](https://www.foxbusiness.com/markets/california-dmv-requests-cruise-halve-driverless-car-fleet-after-collision-with-firetruck-san-francisco).
 
 ## Requirements
 - Python 3.8
