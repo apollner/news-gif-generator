@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692657225)
+![Generated GIF](output.gif?raw=true&v=1692659283)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**State of emergency declared for Clark County as Hurricane Hilary approaches**
+**Jerome Powell at Jackson Hole: Expect push-back on rate cuts, bond yield comments**
 
-You can read more about it [here](https://news3lv.com/news/local/officials-declare-state-of-emergency-for-clark-county).
+You can read more about it [here](https://seekingalpha.com/news/4004096-federal-reserve-jerome-powell-jackson-hole-preview).
 
 ## Requirements
 - Python 3.8
