@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692727760)
+![Generated GIF](output.gif?raw=true&v=1692729216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Many long-covid symptoms linger even after two years, new study shows**
+**Nintendo Confirms Charles Martinet Is Not Involved in Super Mario Bros. Wonder**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/08/21/long-covid-lingering-effects-two-years-later/).
+You can read more about it [here](https://www.ign.com/articles/nintendo-confirms-charles-martinet-is-not-involved-in-super-mario-bros-wonder).
 
 ## Requirements
 - Python 3.8
