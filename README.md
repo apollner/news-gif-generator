@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692709823)
+![Generated GIF](output.gif?raw=true&v=1692711239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Covid-19 linked with higher risk of high blood pressure, study finds**
+**2023 BMW Championship leaderboard: Viktor Hovland breaks course record, surges past Scottie Scheffler for win**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/health/covid-high-blood-pressure/index.html).
+You can read more about it [here](https://www.cbssports.com/golf/news/2023-bmw-championship-leaderboard-viktor-hovland-breaks-course-record-surges-past-scottie-scheffler-for-win/live/).
 
 ## Requirements
 - Python 3.8
