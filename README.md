@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692723954)
+![Generated GIF](output.gif?raw=true&v=1692725632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's SpaceX Crew-7 Mission to the Space Station (Official Trailer)**
+**Amazon: Ecuadorians vote to ban oil drilling in 'historic' referendum**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LapcNp5La48).
+You can read more about it [here](https://www.cnn.com/2023/08/21/americas/ecuador-oil-drilling-amazon-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
