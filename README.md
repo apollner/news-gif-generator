@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692678835)
+![Generated GIF](output.gif?raw=true&v=1692680762)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Franklin forms in Atlantic**
+**Court documents suggest reason for police raid of Kansas newspaper**
 
-You can read more about it [here](https://www.wesh.com/article/tropical-storm-franklin/44860851).
+You can read more about it [here](https://www.politico.com/news/2023/08/20/court-documents-police-raid-kansas-newspaper-00112035).
 
 ## Requirements
 - Python 3.8
