@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692680762)
+![Generated GIF](output.gif?raw=true&v=1692682438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Court documents suggest reason for police raid of Kansas newspaper**
+**NASCAR takeaways: Kevin Harvick, Brad Keselowski clinch playoff spots**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/20/court-documents-police-raid-kansas-newspaper-00112035).
+You can read more about it [here](https://www.foxsports.com/stories/nascar/kevin-harvick-brad-keselowski-clinch-cup-series-playoff-spots).
 
 ## Requirements
 - Python 3.8
