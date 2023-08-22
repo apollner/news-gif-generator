@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692684603)
+![Generated GIF](output.gif?raw=true&v=1692686044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spanish soccer president Luis Rubiales kisses player during World Cup celebrations, prompting outcry**
+**Trump says he won't take part in Republican debates**
 
-You can read more about it [here](https://sports.yahoo.com/spain-kiss-womens-world-cup-luis-rubiales-jenni-hermoso-001714063.html).
+You can read more about it [here](https://www.reuters.com/world/us/trump-says-he-wont-take-part-republican-debates-2023-08-21/).
 
 ## Requirements
 - Python 3.8
