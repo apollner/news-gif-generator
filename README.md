@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692714834)
+![Generated GIF](output.gif?raw=true&v=1692716811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stocks making the biggest premarket moves: Palo Alto Networks, Earthstone Energy, Nvidia, VMware and more**
+**Sean O'Malley is a star - Dana White reveals new champ made UFC 292 break records**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/21/stocks-making-the-biggest-premarket-moves-.html).
+You can read more about it [here](https://bloodyelbow.com/2023/08/21/sean-omalley-ufc-292-record-breaker/).
 
 ## Requirements
 - Python 3.8
