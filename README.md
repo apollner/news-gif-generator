@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692687968)
+![Generated GIF](output.gif?raw=true&v=1692689642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Interview: Maui Fire Chief Brad Ventura discusses Lahaina wildfire response**
+**Scientists Discover That Extremely Rare Collection of 160-Million-Year-Old Sea Spider Fossils Are Closely Related to Living Species**
 
-You can read more about it [here](https://mauinow.com).
+You can read more about it [here](https://scitechdaily.com/scientists-discover-that-extremely-rare-collection-of-160-million-year-old-sea-spider-fossils-are-closely-related-to-living-species/).
 
 ## Requirements
 - Python 3.8
