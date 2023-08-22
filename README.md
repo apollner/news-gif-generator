@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692731245)
+![Generated GIF](output.gif?raw=true&v=1692732816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nintendo Confirms Charles Martinet Is Not Involved in Super Mario Bros. Wonder**
+**‘Historic’: Ecuador voters reject oil drilling in Amazon protected area**
 
-You can read more about it [here](https://www.ign.com/articles/nintendo-confirms-charles-martinet-is-not-involved-in-super-mario-bros-wonder).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/21/historic-ecuador-voters-reject-oil-drilling-in-amazon-protected-area).
 
 ## Requirements
 - Python 3.8
