@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692698842)
+![Generated GIF](output.gif?raw=true&v=1692700438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Be Very Careful': Four Human Cases Of West Nile Virus Confirmed In Oklahoma**
+**Leftist leads Ecuador presidential poll count amid spike in violence**
 
-You can read more about it [here](https://www.newson6.com/story/64e2a6b1b322f407b1d9bdab/be-very-careful:-four-human-cases-of-west-nile-virus-confirmed-in-oklahoma).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-66564320).
 
 ## Requirements
 - Python 3.8
