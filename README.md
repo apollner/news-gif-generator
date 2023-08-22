@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692743627)
+![Generated GIF](output.gif?raw=true&v=1692745551)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football: What we learned from NFL preseason Week 2**
+**SoftBank-backed chip designer Arm files for Nasdaq IPO**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-what-we-learned-from-nfl-preseason-week-2-165803166.html).
+You can read more about it [here](https://www.ft.com/content/36bc706f-66a1-48e3-8c20-ab4966cb0fce).
 
 ## Requirements
 - Python 3.8
