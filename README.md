@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692713158)
+![Generated GIF](output.gif?raw=true&v=1692714834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**British nurse to spend rest of her life in prison for murdering seven babies**
+**Stocks making the biggest premarket moves: Palo Alto Networks, Earthstone Energy, Nvidia, VMware and more**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/uk/lucy-letby-nurse-sentence-intl-gbr/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/21/stocks-making-the-biggest-premarket-moves-.html).
 
 ## Requirements
 - Python 3.8
