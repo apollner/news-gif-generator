@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692677366)
+![Generated GIF](output.gif?raw=true&v=1692678835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 futures are little changed Sunday after another losing week: Live updates**
+**Tropical Storm Franklin forms in Atlantic**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.wesh.com/article/tropical-storm-franklin/44860851).
 
 ## Requirements
 - Python 3.8
