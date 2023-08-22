@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692740042)
+![Generated GIF](output.gif?raw=true&v=1692741962)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oliver Anthony Music’s ‘Rich Men North of Richmond’ Debuts at No. 1 on Billboard Hot 100**
+**Storm Hilary aftermath: 10,000 without power, Palm Springs declares emergency and new storm heads for Texas – live**
 
-You can read more about it [here](https://www.billboard.com/music/chart-beat/oliver-anthony-music-rich-men-north-of-richmond-number-one-debut-hot-100-1235396681/).
+You can read more about it [here](https://www.theguardian.com/us-news/live/2023/aug/21/hilary-tropical-storm-california-flood-warnings-live-updates).
 
 ## Requirements
 - Python 3.8
