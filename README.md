@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692664142)
+![Generated GIF](output.gif?raw=true&v=1692667904)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saints vs. Chargers odds, spread, line: 2023 NFL preseason Week 2 picks, predictions from expert on 44-29 roll**
+**Biden administration to urge Americans get new COVID-19 boosters**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saints-vs-chargers-odds-spread-line-2023-nfl-preseason-week-2-picks-predictions-from-expert-on-44-29-roll/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
 
 ## Requirements
 - Python 3.8
