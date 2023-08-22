@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692689642)
+![Generated GIF](output.gif?raw=true&v=1692691890)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists Discover That Extremely Rare Collection of 160-Million-Year-Old Sea Spider Fossils Are Closely Related to Living Species**
+**‘This Is Us’ Family Mourns Ron Cephas Jones: Mandy Moore, Chrissy Metz, Susan Kelechi Watson, Show Creator & More Remember The Actor**
 
-You can read more about it [here](https://scitechdaily.com/scientists-discover-that-extremely-rare-collection-of-160-million-year-old-sea-spider-fossils-are-closely-related-to-living-species/).
+You can read more about it [here](https://deadline.com/2023/08/this-is-us-family-mourns-ron-cephas-jones-death-reactions-1235523403/).
 
 ## Requirements
 - Python 3.8
