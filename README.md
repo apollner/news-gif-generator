@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692696838)
+![Generated GIF](output.gif?raw=true&v=1692698842)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists Discover That Extremely Rare Collection of 160-Million-Year-Old Sea Spider Fossils Are Closely Related to Living Species**
+**'Be Very Careful': Four Human Cases Of West Nile Virus Confirmed In Oklahoma**
 
-You can read more about it [here](https://scitechdaily.com/scientists-discover-that-extremely-rare-collection-of-160-million-year-old-sea-spider-fossils-are-closely-related-to-living-species/).
+You can read more about it [here](https://www.newson6.com/story/64e2a6b1b322f407b1d9bdab/be-very-careful:-four-human-cases-of-west-nile-virus-confirmed-in-oklahoma).
 
 ## Requirements
 - Python 3.8
