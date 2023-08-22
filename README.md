@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692741962)
+![Generated GIF](output.gif?raw=true&v=1692743627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Storm Hilary aftermath: 10,000 without power, Palm Springs declares emergency and new storm heads for Texas – live**
+**Fantasy Football: What we learned from NFL preseason Week 2**
 
-You can read more about it [here](https://www.theguardian.com/us-news/live/2023/aug/21/hilary-tropical-storm-california-flood-warnings-live-updates).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-what-we-learned-from-nfl-preseason-week-2-165803166.html).
 
 ## Requirements
 - Python 3.8
