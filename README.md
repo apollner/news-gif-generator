@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692734808)
+![Generated GIF](output.gif?raw=true&v=1692736440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hilary causes chaos in California and Nevada as flash flooding destroys roads, strands residents**
+**Lucy Letby: killer nurse jailed for rest of her life by UK court**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hilary-california-catastrophic-flooding-water-rescues).
+You can read more about it [here](https://www.reuters.com/world/uk/killer-uk-nurse-lucy-letby-jailed-rest-her-life-2023-08-21/).
 
 ## Requirements
 - Python 3.8
