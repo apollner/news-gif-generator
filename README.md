@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692732816)
+![Generated GIF](output.gif?raw=true&v=1692734808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Historic’: Ecuador voters reject oil drilling in Amazon protected area**
+**Hilary causes chaos in California and Nevada as flash flooding destroys roads, strands residents**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/21/historic-ecuador-voters-reject-oil-drilling-in-amazon-protected-area).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hilary-california-catastrophic-flooding-water-rescues).
 
 ## Requirements
 - Python 3.8
