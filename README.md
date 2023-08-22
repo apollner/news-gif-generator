@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692671611)
+![Generated GIF](output.gif?raw=true&v=1692673641)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aljamain Sterling regrets trying to have an exciting fight with Sean O’Malley: ‘I made the mistake … I paid f…**
+**NASA’s STEREO-A flies by Earth after a 17-year trip around the sun**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/20/23838913/aljamain-sterling-regrets-trying-to-have-exciting-fight-sean-omalley-i-made-mistake-i-paid-for-it).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/20/nasa-stereo-a-earth-flyby/).
 
 ## Requirements
 - Python 3.8
