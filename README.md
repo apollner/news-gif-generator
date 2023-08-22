@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692682438)
+![Generated GIF](output.gif?raw=true&v=1692684603)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASCAR takeaways: Kevin Harvick, Brad Keselowski clinch playoff spots**
+**Spanish soccer president Luis Rubiales kisses player during World Cup celebrations, prompting outcry**
 
-You can read more about it [here](https://www.foxsports.com/stories/nascar/kevin-harvick-brad-keselowski-clinch-cup-series-playoff-spots).
+You can read more about it [here](https://sports.yahoo.com/spain-kiss-womens-world-cup-luis-rubiales-jenni-hermoso-001714063.html).
 
 ## Requirements
 - Python 3.8
