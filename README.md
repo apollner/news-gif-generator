@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692700438)
+![Generated GIF](output.gif?raw=true&v=1692702379)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Leftist leads Ecuador presidential poll count amid spike in violence**
+**Meta may launch a Threads web version early this week**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-66564320).
+You can read more about it [here](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week).
 
 ## Requirements
 - Python 3.8
