@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692670879)
+![Generated GIF](output.gif?raw=true&v=1692671611)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hilary live updates: Tropical storm hits California with rain, flooding - The Washington Post**
+**Aljamain Sterling regrets trying to have an exciting fight with Sean O’Malley: ‘I made the mistake … I paid f…**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/08/20/hilary-tropical-storm-hurricane-live-updates/).
+You can read more about it [here](https://www.mmafighting.com/2023/8/20/23838913/aljamain-sterling-regrets-trying-to-have-exciting-fight-sean-omalley-i-made-mistake-i-paid-for-it).
 
 ## Requirements
 - Python 3.8
