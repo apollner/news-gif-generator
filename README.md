@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692702379)
+![Generated GIF](output.gif?raw=true&v=1692704066)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meta may launch a Threads web version early this week**
+**Moon landing anticipation builds for India after Russia's crash**
 
-You can read more about it [here](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week).
+You can read more about it [here](https://www.reuters.com/world/india/moon-landing-anticipation-builds-india-after-russias-crash-2023-08-21/).
 
 ## Requirements
 - Python 3.8
