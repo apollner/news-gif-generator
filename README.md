@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692718426)
+![Generated GIF](output.gif?raw=true&v=1692720564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Surprise Tactic That Helped Djokovic Beat Alcaraz In Epic Cincinnati Final**
+**4 cases of Powassan virus confirmed in CT**
 
-You can read more about it [here](https://www.atptour.com/en/news/alcaraz-djokovic-cincinnati-2023-final-brain-game).
+You can read more about it [here](https://www.wfsb.com/2023/08/21/4-cases-powassan-virus-confirmed-ct/).
 
 ## Requirements
 - Python 3.8
