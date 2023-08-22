@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692706363)
+![Generated GIF](output.gif?raw=true&v=1692708522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean O'Malley is a star - Dana White reveals new champ made UFC 292 break records**
+**Anti-graft crusader wins Guatemala presidency**
 
-You can read more about it [here](https://bloodyelbow.com/2023/08/21/sean-omalley-ufc-292-record-breaker/).
+You can read more about it [here](https://www.youtube.com/watch?v=wQLhPbLBTiw).
 
 ## Requirements
 - Python 3.8
