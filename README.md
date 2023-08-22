@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692745551)
+![Generated GIF](output.gif?raw=true&v=1692747240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SoftBank-backed chip designer Arm files for Nasdaq IPO**
+**Goldman Weighs Options for Investment-Adviser Business**
 
-You can read more about it [here](https://www.ft.com/content/36bc706f-66a1-48e3-8c20-ab4966cb0fce).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-21-2023).
 
 ## Requirements
 - Python 3.8
