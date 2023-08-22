@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692736440)
+![Generated GIF](output.gif?raw=true&v=1692738305)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lucy Letby: killer nurse jailed for rest of her life by UK court**
+**Snapchat is expanding further into generative AI with ‘Dreams’**
 
-You can read more about it [here](https://www.reuters.com/world/uk/killer-uk-nurse-lucy-letby-jailed-rest-her-life-2023-08-21/).
+You can read more about it [here](https://techcrunch.com/2023/08/21/snapchat-is-expanding-further-into-generative-ai-with-dreams/).
 
 ## Requirements
 - Python 3.8
