@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692722225)
+![Generated GIF](output.gif?raw=true&v=1692723954)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia's first lunar mission in decades crashes into the moon**
+**NASA's SpaceX Crew-7 Mission to the Space Station (Official Trailer)**
 
-You can read more about it [here](https://www.cnn.com/2023/08/20/world/luna-25-spacecraft-moon-collision-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=LapcNp5La48).
 
 ## Requirements
 - Python 3.8
