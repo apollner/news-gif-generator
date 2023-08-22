@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692667904)
+![Generated GIF](output.gif?raw=true&v=1692669811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden administration to urge Americans get new COVID-19 boosters**
+**NASA’s STEREO-A flies by Earth after a 17-year trip around the sun**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/20/nasa-stereo-a-earth-flyby/).
 
 ## Requirements
 - Python 3.8
