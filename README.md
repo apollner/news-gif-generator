@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692725632)
+![Generated GIF](output.gif?raw=true&v=1692727760)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon: Ecuadorians vote to ban oil drilling in 'historic' referendum**
+**Many long-covid symptoms linger even after two years, new study shows**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/americas/ecuador-oil-drilling-amazon-climate-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/21/long-covid-lingering-effects-two-years-later/).
 
 ## Requirements
 - Python 3.8
