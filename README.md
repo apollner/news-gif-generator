@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692691890)
+![Generated GIF](output.gif?raw=true&v=1692693243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘This Is Us’ Family Mourns Ron Cephas Jones: Mandy Moore, Chrissy Metz, Susan Kelechi Watson, Show Creator & More Remember The Actor**
+**'Be Very Careful': Four Human Cases Of West Nile Virus Confirmed In Oklahoma**
 
-You can read more about it [here](https://deadline.com/2023/08/this-is-us-family-mourns-ron-cephas-jones-death-reactions-1235523403/).
+You can read more about it [here](https://www.newson6.com/story/64e2a6b1b322f407b1d9bdab/be-very-careful:-four-human-cases-of-west-nile-virus-confirmed-in-oklahoma).
 
 ## Requirements
 - Python 3.8
