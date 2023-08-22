@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692711239)
+![Generated GIF](output.gif?raw=true&v=1692713158)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 BMW Championship leaderboard: Viktor Hovland breaks course record, surges past Scottie Scheffler for win**
+**British nurse to spend rest of her life in prison for murdering seven babies**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2023-bmw-championship-leaderboard-viktor-hovland-breaks-course-record-surges-past-scottie-scheffler-for-win/live/).
+You can read more about it [here](https://www.cnn.com/2023/08/21/uk/lucy-letby-nurse-sentence-intl-gbr/index.html).
 
 ## Requirements
 - Python 3.8
