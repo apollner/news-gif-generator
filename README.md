@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692821097)
+![Generated GIF](output.gif?raw=true&v=1692822841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Half-Life 2 RTX Lights Up City 17 With Full Ray Tracing**
+**Source: Idina Menzel Is No Longer Being Managed by Scooter Braun (Exclusive)**
 
-You can read more about it [here](https://www.gamespot.com/articles/half-life-2-rtx-lights-up-city-17-with-full-ray-tracing/1100-6517051/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/idina-menzel-no-longer-being-managed-scooter-braun-1235572089/).
 
 ## Requirements
 - Python 3.8
