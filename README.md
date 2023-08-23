@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692812090)
+![Generated GIF](output.gif?raw=true&v=1692814177)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US FAA holding runway safety meetings after close call incidents**
+**UPDATE: Student killed, over 20 other students injured after school bus crash in Clark Co.**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-faa-holding-runway-safety-meetings-after-close-call-incidents-2023-08-22/).
+You can read more about it [here](https://www.whio.com/news/local/multiple-injuries-reported-after-school-bus-crash-clark-county/YWQRFROXCVDWVGR4PFVE2QVIQE/).
 
 ## Requirements
 - Python 3.8
