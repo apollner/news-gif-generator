@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692806960)
+![Generated GIF](output.gif?raw=true&v=1692810275)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wagner Group Prigozhin chief posts first video since failed Russian mutiny, hints he is in Africa**
+**Former PM Thaksin Shinawatra returns to a politically divided Thailand after 15 years of self-exile**
 
-You can read more about it [here](https://nypost.com/2023/08/22/russias-prigozhin-posts-first-video-since-mutiny-hints-he-is-in-africa/).
+You can read more about it [here](https://www.cnn.com/2023/08/21/asia/thaksin-shinawatra-return-thailand-parliament-vote-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
