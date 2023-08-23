@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692781614)
+![Generated GIF](output.gif?raw=true&v=1692783249)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former PM Thaksin Shinawatra returns to a politically divided Thailand after 15 years of self-exile**
+**DeSantis heads to first 2024 debate looking for a big win**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/asia/thaksin-shinawatra-return-thailand-parliament-vote-intl-hnk/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/21/needs-a-breakout-moment-desantis-heads-to-debate-looking-for-a-big-win-00112197).
 
 ## Requirements
 - Python 3.8
