@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692824729)
+![Generated GIF](output.gif?raw=true&v=1692826459)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US FAA holding runway safety meetings after close call incidents**
+**Dramatic photos show moment after Ukrainian drone reportedly destroyed Russian supersonic bomber**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-faa-holding-runway-safety-meetings-after-close-call-incidents-2023-08-22/).
+You can read more about it [here](https://nypost.com/2023/08/22/ukrainian-drone-reportedly-destroys-russian-supersonic-plane/).
 
 ## Requirements
 - Python 3.8
