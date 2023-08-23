@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692778216)
+![Generated GIF](output.gif?raw=true&v=1692779701)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerball winning numbers for Aug. 21. Jackpot grows to $291 million.**
+**Laura Carleton news: Travis Ikeguchi, 27, named as gunman who killed California store owner over Pride flag**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/21/powerball-winning-numbers-aug-21/70646741007/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/laura-carleton-travis-ikeguchi-california-pride-flag-b2397016.html).
 
 ## Requirements
 - Python 3.8
