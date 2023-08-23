@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692754211)
+![Generated GIF](output.gif?raw=true&v=1692756079)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iowa GOP divided on Trump remaining leader of party: poll**
+**$750,000 raised through Maui Ola benefit concert for victims of Hawaii wildfires**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4163296-iowa-gop-divided-on-trump-remaining-leader-of-party-poll/).
+You can read more about it [here](https://www.youtube.com/watch?v=X7ZyQOnZsH4).
 
 ## Requirements
 - Python 3.8
