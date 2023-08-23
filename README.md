@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692790604)
+![Generated GIF](output.gif?raw=true&v=1692792780)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15 Pro Models Expected to Be $100 to $200 More Expensive**
+**Charles Martinet, longtime voice of Mario, retires after 27 years**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/22/iphone-15-pro-models-expected-to-be-more-expensive/).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/mario-voice-charles-martinet-nintendo-b2397132.html).
 
 ## Requirements
 - Python 3.8
