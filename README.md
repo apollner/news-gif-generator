@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692786844)
+![Generated GIF](output.gif?raw=true&v=1692788704)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Franklin menaces Haiti, Dominican Republic. Will Harold form in the Gulf?**
+**Shh! Don't say 'abortion.' Texas quietly softens its ban on the procedure : Shots - Health News**
 
-You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/americas/haiti/article278458819.html).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/08/22/1195115865/texas-abortion-bans-softened-quietly).
 
 ## Requirements
 - Python 3.8
