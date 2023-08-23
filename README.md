@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692796206)
+![Generated GIF](output.gif?raw=true&v=1692797715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ariana Grande And Demi Lovato Have Reportedly Cut Ties With Scooter Braun**
+**Poland's leader says Russia's moving tactical nuclear weapons to Belarus, shifting regional security**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/ariana-grande-demi-lovato-cut-ties-scooter-braun-report).
+You can read more about it [here](https://news.yahoo.com/polands-leader-says-russias-moving-135008837.html).
 
 ## Requirements
 - Python 3.8
