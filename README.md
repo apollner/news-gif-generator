@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692760051)
+![Generated GIF](output.gif?raw=true&v=1692761645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**BA.2.86 shows just how risky slacking off on COVID monitoring is**
+**Iowa GOP divided on Trump remaining leader of party: poll**
 
-You can read more about it [here](https://arstechnica.com/health/2023/08/ba-2-86-shows-just-how-risky-slacking-off-on-covid-monitoring-is/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4163296-iowa-gop-divided-on-trump-remaining-leader-of-party-poll/).
 
 ## Requirements
 - Python 3.8
