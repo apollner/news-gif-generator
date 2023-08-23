@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692814177)
+![Generated GIF](output.gif?raw=true&v=1692815729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPDATE: Student killed, over 20 other students injured after school bus crash in Clark Co.**
+**Who is Oliver Anthony? Unknown musician rockets to No. 1 on Billboard Hot 100 chart**
 
-You can read more about it [here](https://www.whio.com/news/local/multiple-injuries-reported-after-school-bus-crash-clark-county/YWQRFROXCVDWVGR4PFVE2QVIQE/).
+You can read more about it [here](https://nypost.com/2023/08/22/who-is-oliver-anthony-unknown-musician-ranks-no-1-on-charts/).
 
 ## Requirements
 - Python 3.8
