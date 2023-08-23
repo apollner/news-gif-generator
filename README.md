@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692788704)
+![Generated GIF](output.gif?raw=true&v=1692790604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shh! Don't say 'abortion.' Texas quietly softens its ban on the procedure : Shots - Health News**
+**iPhone 15 Pro Models Expected to Be $100 to $200 More Expensive**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/08/22/1195115865/texas-abortion-bans-softened-quietly).
+You can read more about it [here](https://www.macrumors.com/2023/08/22/iphone-15-pro-models-expected-to-be-more-expensive/).
 
 ## Requirements
 - Python 3.8
