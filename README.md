@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692779701)
+![Generated GIF](output.gif?raw=true&v=1692781614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Laura Carleton news: Travis Ikeguchi, 27, named as gunman who killed California store owner over Pride flag**
+**Former PM Thaksin Shinawatra returns to a politically divided Thailand after 15 years of self-exile**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/laura-carleton-travis-ikeguchi-california-pride-flag-b2397016.html).
+You can read more about it [here](https://www.cnn.com/2023/08/21/asia/thaksin-shinawatra-return-thailand-parliament-vote-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
