@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692768848)
+![Generated GIF](output.gif?raw=true&v=1692771019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Game over: voice of Mario retiring after three decades, Nintendo announces**
+**In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires**
 
-You can read more about it [here](https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo).
+You can read more about it [here](https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/).
 
 ## Requirements
 - Python 3.8
