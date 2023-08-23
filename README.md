@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692815729)
+![Generated GIF](output.gif?raw=true&v=1692819247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Oliver Anthony? Unknown musician rockets to No. 1 on Billboard Hot 100 chart**
+**Ahsoka First Reviews: Series Honors the Star Wars Universe, Critics Say**
 
-You can read more about it [here](https://nypost.com/2023/08/22/who-is-oliver-anthony-unknown-musician-ranks-no-1-on-charts/).
+You can read more about it [here](https://editorial.rottentomatoes.com/article/star-wars-ahsoka-first-reviews/).
 
 ## Requirements
 - Python 3.8
