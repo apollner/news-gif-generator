@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692826459)
+![Generated GIF](output.gif?raw=true&v=1692828344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dramatic photos show moment after Ukrainian drone reportedly destroyed Russian supersonic bomber**
+**Jonathan Taylor landing spots: Colts give disgruntled star RB permission to seek trade; Dolphins interested?**
 
-You can read more about it [here](https://nypost.com/2023/08/22/ukrainian-drone-reportedly-destroys-russian-supersonic-plane/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-landing-spots-colts-give-disgruntled-star-rb-permission-to-seek-trade-dolphins-interested/).
 
 ## Requirements
 - Python 3.8
