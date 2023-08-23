@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692830020)
+![Generated GIF](output.gif?raw=true&v=1692831957)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jonathan Taylor landing spots: Colts give disgruntled star RB permission to seek trade; Dolphins interested?**
+**Scorching heat in central U.S. brings warnings and tragedy as 1-year-old girl dies in hot car**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-landing-spots-colts-give-disgruntled-star-rb-permission-to-seek-trade-dolphins-interested/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/1-year-dies-after-left-hot-day-care-102454686).
 
 ## Requirements
 - Python 3.8
