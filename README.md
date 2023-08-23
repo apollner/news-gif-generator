@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692772434)
+![Generated GIF](output.gif?raw=true&v=1692776087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Fantasy Football Quarterback Preview: Sleepers, breakouts, busts, projections and more**
+**DeSantis heads to first 2024 debate looking for a big win**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/2023-fantasy-football-quarterback-preview-sleepers-breakouts-busts-projections-and-more/).
+You can read more about it [here](https://www.politico.com/news/2023/08/21/needs-a-breakout-moment-desantis-heads-to-debate-looking-for-a-big-win-00112197).
 
 ## Requirements
 - Python 3.8
