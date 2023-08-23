@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692783249)
+![Generated GIF](output.gif?raw=true&v=1692785222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis heads to first 2024 debate looking for a big win**
+**Commanders end Ravens' record 24-game preseason win streak - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/21/needs-a-breakout-moment-desantis-heads-to-debate-looking-for-a-big-win-00112197).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38236614/joey-slye-commanders-end-ravens-nfl-record-preseason-win-streak-24-games).
 
 ## Requirements
 - Python 3.8
