@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692822841)
+![Generated GIF](output.gif?raw=true&v=1692824729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Source: Idina Menzel Is No Longer Being Managed by Scooter Braun (Exclusive)**
+**US FAA holding runway safety meetings after close call incidents**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/idina-menzel-no-longer-being-managed-scooter-braun-1235572089/).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-faa-holding-runway-safety-meetings-after-close-call-incidents-2023-08-22/).
 
 ## Requirements
 - Python 3.8
