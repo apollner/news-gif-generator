@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692797715)
+![Generated GIF](output.gif?raw=true&v=1692799603)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Poland's leader says Russia's moving tactical nuclear weapons to Belarus, shifting regional security**
+**Rescue on after children trapped in cable car dangling over Pakistan ravine**
 
-You can read more about it [here](https://news.yahoo.com/polands-leader-says-russias-moving-135008837.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/22/rescue-on-after-children-trapped-in-cable-car-dangling-over-pakistan-ravine).
 
 ## Requirements
 - Python 3.8
