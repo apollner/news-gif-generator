@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692763818)
+![Generated GIF](output.gif?raw=true&v=1692765312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MRI scan could screen men for prostate cancer**
+**Sources - Colts grant RB Jonathan Taylor OK to seek trade - ESPN**
 
-You can read more about it [here](https://www.bbc.com/news/health-66507893).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38235314/sources-colts-grant-rb-jonathan-taylor-ok-seek-trade).
 
 ## Requirements
 - Python 3.8
