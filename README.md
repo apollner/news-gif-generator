@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692785222)
+![Generated GIF](output.gif?raw=true&v=1692786844)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Commanders end Ravens' record 24-game preseason win streak - ESPN**
+**Tropical Storm Franklin menaces Haiti, Dominican Republic. Will Harold form in the Gulf?**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38236614/joey-slye-commanders-end-ravens-nfl-record-preseason-win-streak-24-games).
+You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/americas/haiti/article278458819.html).
 
 ## Requirements
 - Python 3.8
