@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692757059)
+![Generated GIF](output.gif?raw=true&v=1692758035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is BRICS, which countries want to join and why?**
+**Iowa GOP divided on Trump remaining leader of party: poll**
 
-You can read more about it [here](https://www.reuters.com/world/what-is-brics-who-are-its-members-2023-08-21/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4163296-iowa-gop-divided-on-trump-remaining-leader-of-party-poll/).
 
 ## Requirements
 - Python 3.8
