@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692831957)
+![Generated GIF](output.gif?raw=true&v=1692833619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scorching heat in central U.S. brings warnings and tragedy as 1-year-old girl dies in hot car**
+**Fantasy Football Rankings: Quarterback draft tiers, including salary cap values**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/1-year-dies-after-left-hot-day-care-102454686).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-rankings-quarterback-draft-tiers-including-salary-cap-values-224615684.html).
 
 ## Requirements
 - Python 3.8
