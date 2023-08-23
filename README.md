@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692819247)
+![Generated GIF](output.gif?raw=true&v=1692821097)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ahsoka First Reviews: Series Honors the Star Wars Universe, Critics Say**
+**Half-Life 2 RTX Lights Up City 17 With Full Ray Tracing**
 
-You can read more about it [here](https://editorial.rottentomatoes.com/article/star-wars-ahsoka-first-reviews/).
+You can read more about it [here](https://www.gamespot.com/articles/half-life-2-rtx-lights-up-city-17-with-full-ray-tracing/1100-6517051/).
 
 ## Requirements
 - Python 3.8
