@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692799603)
+![Generated GIF](output.gif?raw=true&v=1692801247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rescue on after children trapped in cable car dangling over Pakistan ravine**
+**Ariana Grande and Demi Lovato latest to split from manager Scooter Braun**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/22/rescue-on-after-children-trapped-in-cable-car-dangling-over-pakistan-ravine).
+You can read more about it [here](https://www.theguardian.com/music/2023/aug/22/ariana-grande-and-demi-lovato-latest-to-split-from-manager-scooter-braun).
 
 ## Requirements
 - Python 3.8
