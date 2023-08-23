@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692803154)
+![Generated GIF](output.gif?raw=true&v=1692804836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Neural Navigators: How MIT Cracked the Code That Relates Brain and Behavior in a Simple Animal**
+**Russia’s lander crashing into the moon may signal another shift in the space race, experts say**
 
-You can read more about it [here](https://scitechdaily.com/?p=302831).
+You can read more about it [here](https://www.cnn.com/2023/08/22/world/russia-luna-25-chandrayaan-3-global-space-race-scn/index.html).
 
 ## Requirements
 - Python 3.8
