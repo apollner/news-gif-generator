@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692767149)
+![Generated GIF](output.gif?raw=true&v=1692768848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources - Colts grant RB Jonathan Taylor OK to seek trade - ESPN**
+**Game over: voice of Mario retiring after three decades, Nintendo announces**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38235314/sources-colts-grant-rb-jonathan-taylor-ok-seek-trade).
+You can read more about it [here](https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo).
 
 ## Requirements
 - Python 3.8
