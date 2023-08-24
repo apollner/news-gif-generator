@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692916425)
+![Generated GIF](output.gif?raw=true&v=1692918385)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maui resident responds to Biden's 'build back better' speech after wildfires: 'There's no better'**
+**Oklahoma authorities name the BTK killer as the 'prime suspect' in at least two unsolved cases**
 
-You can read more about it [here](https://www.foxnews.com/media/maui-resident-responds-bidens-build-back-better-speech-after-wildfires-theres-no-better).
+You can read more about it [here](https://apnews.com/article/btk-serial-killer-investigation-161ee1a8d405a0a2d6ae87db85d643af).
 
 ## Requirements
 - Python 3.8
