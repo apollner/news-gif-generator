@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692895081)
+![Generated GIF](output.gif?raw=true&v=1692896747)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears considering reconciling with 'ill' dad Jamie Spears: report**
+**Peloton Stock Plunges 20% as It Warns of Continued Losses**
 
-You can read more about it [here](https://pagesix.com/2023/08/23/britney-spears-considering-reconciling-with-ill-dad-jamie-spears-report/).
+You can read more about it [here](https://www.wsj.com/business/earnings/peloton-interactive-pton-q4-earnings-report-2023-89922868).
 
 ## Requirements
 - Python 3.8
