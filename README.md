@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692882614)
+![Generated GIF](output.gif?raw=true&v=1692884077)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war: Russian air forces chief fired, grain infrastructure hit, Moscow drone attack**
+**Stocks making the biggest moves premarket: Nvidia, Foot Locker, Safehold, Kohl's and more**
 
-You can read more about it [here](https://www.euronews.com/2023/08/23/ukraine-war-grain-infrastructure-hit-6th-consecutive-attack-on-moscow-donetsk-civilians-ki).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/stocks-making-the-biggest-moves-premarket-nvidia-foot-locker-safehold-kohls-and-more.html).
 
 ## Requirements
 - Python 3.8
