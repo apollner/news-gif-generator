@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692842475)
+![Generated GIF](output.gif?raw=true&v=1692843483)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Half-Life 2 RTX Remaster Announced At Gamescom - IGN Daily Fix**
+**Teamster members ratify deal at UPS, putting strike threat to rest**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KEwS3y7H7ng).
+You can read more about it [here](https://www.cnn.com/2023/08/22/business/ups-strike-vote-teamsters-union/index.html).
 
 ## Requirements
 - Python 3.8
