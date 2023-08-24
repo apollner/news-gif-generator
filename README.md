@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692914830)
+![Generated GIF](output.gif?raw=true&v=1692916425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets WR Corey Davis 'stepping away' from NFL at age 28 - ESPN**
+**Maui resident responds to Biden's 'build back better' speech after wildfires: 'There's no better'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38245846/jets-wr-corey-davis-stepping-away-nfl-age-28).
+You can read more about it [here](https://www.foxnews.com/media/maui-resident-responds-bidens-build-back-better-speech-after-wildfires-theres-no-better).
 
 ## Requirements
 - Python 3.8
