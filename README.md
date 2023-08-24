@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692862435)
+![Generated GIF](output.gif?raw=true&v=1692864695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Hegemonism not in China’s DNA’: Xi calls for BRICS expansion**
+**Russia launches cargo ship to the International Space Station – Spaceflight Now**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2023/8/23/hegemonism-not-in-chinas-dna-xi-calls-for-brics-expansion).
+You can read more about it [here](https://spaceflightnow.com/2023/08/23/live-coverage-russia-to-launch-cargo-to-the-international-space-station/).
 
 ## Requirements
 - Python 3.8
