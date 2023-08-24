@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692858888)
+![Generated GIF](output.gif?raw=true&v=1692860758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaii officials urge families of people missing after deadly fires to give DNA samples**
+**Special counsel investigating false statements made by Trump employees in classified documents case**
 
-You can read more about it [here](https://apnews.com/article/maui-fire-missing-list-lahaina-e6909a2be7860fc7f9062c886a15f979).
+You can read more about it [here](https://www.cnn.com/2023/08/22/politics/special-counsel-trump-documents-investigation/index.html).
 
 ## Requirements
 - Python 3.8
