@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692905641)
+![Generated GIF](output.gif?raw=true&v=1692907598)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nike falls for record 10th straight day as Foot Locker woes, China slowdown hit stock**
+**India becomes first country to land near Moon’s south pole**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/why-is-nikes-stock-down-foot-locker-woes-china-slowdown-hit-shares.html).
+You can read more about it [here](https://www.youtube.com/watch?v=mepc_H_iM_0).
 
 ## Requirements
 - Python 3.8
