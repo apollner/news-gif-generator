@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692887643)
+![Generated GIF](output.gif?raw=true&v=1692889602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
+**India becomes fourth country to land on the moon, first on the south pole, with Chandrayaan-3 spacecraft**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html).
 
 ## Requirements
 - Python 3.8
