@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692848113)
+![Generated GIF](output.gif?raw=true&v=1692850149)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Buyout firm Roark sets conditions to clinch $9 bln-plus Subway deal-sources**
+**White Sox fire vice president Ken Williams, GM Rick Hahn - ESPN**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/buyout-firm-roark-sets-conditions-clinch-9-bln-plus-subway-deal-sources-2023-08-23/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38241494/white-sox-fire-vice-president-ken-williams-gm-rick-hahn).
 
 ## Requirements
 - Python 3.8
