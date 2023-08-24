@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692871619)
+![Generated GIF](output.gif?raw=true&v=1692873282)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White Sox chairman Jerry Reinsdorf stunningly caves in to reason, fires Ken Williams and Rick Hahn**
+**India moon landing: Chandrayaan-3 could make history in space today - here's what you need to know**
 
-You can read more about it [here](https://chicago.suntimes.com/white-sox/2023/8/22/23842416/white-sox-chairman-jerry-reinsdorf-stunningly-caves-into-reason-fires-ken-williams-rick-hahn).
+You can read more about it [here](https://news.sky.com/story/india-moon-landing-chandrayaan-3-could-make-history-in-space-today-heres-what-you-need-to-know-12945160).
 
 ## Requirements
 - Python 3.8
