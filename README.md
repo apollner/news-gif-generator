@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692864695)
+![Generated GIF](output.gif?raw=true&v=1692866042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia launches cargo ship to the International Space Station – Spaceflight Now**
+**Hutchinson predicts GOP contest will be a ‘late-deciding race’**
 
-You can read more about it [here](https://spaceflightnow.com/2023/08/23/live-coverage-russia-to-launch-cargo-to-the-international-space-station/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4165566-hutchinson-predicts-gop-contest-will-be-a-late-deciding-race/).
 
 ## Requirements
 - Python 3.8
