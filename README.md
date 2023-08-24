@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692911118)
+![Generated GIF](output.gif?raw=true&v=1692912853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about the RSV vaccine — before a 'tripledemic' strikes**
+**India becomes 4th nation to land on moon**
 
-You can read more about it [here](https://nypost.com/2023/08/23/what-to-know-about-the-rsv-vaccine-before-a-tripledemic-strikes/).
+You can read more about it [here](https://www.youtube.com/watch?v=PU3728O0iHo).
 
 ## Requirements
 - Python 3.8
