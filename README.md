@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692860758)
+![Generated GIF](output.gif?raw=true&v=1692862435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Special counsel investigating false statements made by Trump employees in classified documents case**
+**‘Hegemonism not in China’s DNA’: Xi calls for BRICS expansion**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/politics/special-counsel-trump-documents-investigation/index.html).
+You can read more about it [here](https://www.aljazeera.com/economy/2023/8/23/hegemonism-not-in-chinas-dna-xi-calls-for-brics-expansion).
 
 ## Requirements
 - Python 3.8
