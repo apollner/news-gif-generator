@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692855230)
+![Generated GIF](output.gif?raw=true&v=1692857411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ElevenLabs’ voice-generating tools launch out of beta**
+**Investors look to AI-darling Nvidia's earnings as US stocks rally wobbles**
 
-You can read more about it [here](https://techcrunch.com/2023/08/22/elevenlabs-voice-generating-tools-launch-out-of-beta/).
+You can read more about it [here](https://www.reuters.com/technology/investors-look-ai-darling-nvidias-earnings-us-stocks-rally-wobbles-2023-08-23/).
 
 ## Requirements
 - Python 3.8
