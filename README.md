@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692881313)
+![Generated GIF](output.gif?raw=true&v=1692882614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In deadly Maui fires, many had no warning and no way out. Those who dodged barricades survived**
+**Ukraine war: Russian air forces chief fired, grain infrastructure hit, Moscow drone attack**
 
-You can read more about it [here](https://apnews.com/article/hawaii-fires-timeline-maui-lahaina-road-block-c8522222f6de587bd14b2da0020c40e9).
+You can read more about it [here](https://www.euronews.com/2023/08/23/ukraine-war-grain-infrastructure-hit-6th-consecutive-attack-on-moscow-donetsk-civilians-ki).
 
 ## Requirements
 - Python 3.8
