@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692875108)
+![Generated GIF](output.gif?raw=true&v=1692876994)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**100+ people evacuated due to flash flooding at Grand Canyon's South Rim**
+**Mizoram, India: Under construction bridge collapses, killing at least 17**
 
-You can read more about it [here](https://www.azfamily.com/2023/08/23/100-people-evacuated-due-flash-flooding-grand-canyons-south-rim/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/india/india-bridge-collapse-mizoram-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
