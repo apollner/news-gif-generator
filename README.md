@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692896747)
+![Generated GIF](output.gif?raw=true&v=1692898478)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Peloton Stock Plunges 20% as It Warns of Continued Losses**
+**South Carolina's new all-male highest court reverses course on abortion, upholding strict 6-week ban**
 
-You can read more about it [here](https://www.wsj.com/business/earnings/peloton-interactive-pton-q4-earnings-report-2023-89922868).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/south-carolinas-new-male-highest-court-reverses-abortion-102480714).
 
 ## Requirements
 - Python 3.8
