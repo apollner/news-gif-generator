@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692902173)
+![Generated GIF](output.gif?raw=true&v=1692903893)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
+**Stock Market Today: Dow, S&P 500 Rise Ahead of Nvidia Earnings -- Live Updates**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-23-2023).
 
 ## Requirements
 - Python 3.8
