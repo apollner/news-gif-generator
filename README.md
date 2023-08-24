@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692889602)
+![Generated GIF](output.gif?raw=true&v=1692891236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India becomes fourth country to land on the moon, first on the south pole, with Chandrayaan-3 spacecraft**
+**How Oklahoma Superintendent Ryan Walters is pushing Christianity in schools**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/ryan-walters-oklahoma-schools-superintendent-tulsa-rcna101235).
 
 ## Requirements
 - Python 3.8
