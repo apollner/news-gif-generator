@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692912853)
+![Generated GIF](output.gif?raw=true&v=1692914830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India becomes 4th nation to land on moon**
+**Jets WR Corey Davis 'stepping away' from NFL at age 28 - ESPN**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PU3728O0iHo).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38245846/jets-wr-corey-davis-stepping-away-nfl-age-28).
 
 ## Requirements
 - Python 3.8
