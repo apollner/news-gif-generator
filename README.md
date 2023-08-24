@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692907598)
+![Generated GIF](output.gif?raw=true&v=1692909234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India becomes first country to land near Moon’s south pole**
+**Scooter Braun controversy: Demi Lovato and Ariana Grande part ways with the manager**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mepc_H_iM_0).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/scooter-braun-latest-news-clients-justin-bieber-b2397865.html).
 
 ## Requirements
 - Python 3.8
