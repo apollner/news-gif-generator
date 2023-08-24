@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692869633)
+![Generated GIF](output.gif?raw=true&v=1692871619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukrainian strikes reportedly hit bases in Russia housing supersonic warplanes**
+**White Sox chairman Jerry Reinsdorf stunningly caves in to reason, fires Ken Williams and Rick Hahn**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/europe/ukraine-strike-russian-air-base-supersonic-warplanes-intl/index.html).
+You can read more about it [here](https://chicago.suntimes.com/white-sox/2023/8/22/23842416/white-sox-chairman-jerry-reinsdorf-stunningly-caves-into-reason-fires-ken-williams-rick-hahn).
 
 ## Requirements
 - Python 3.8
