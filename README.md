@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692844541)
+![Generated GIF](output.gif?raw=true&v=1692846492)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cramer says tech has a 'well-deserved premium' because of stocks like Nvidia**
+**Scooter Braun jokes he's no longer managing himself after Demi Lovato, Idina Menzel departures**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/22/cramer-cites-nvidia-for-well-deserved-premium-of-tech-stocks.html).
+You can read more about it [here](https://www.cnn.com/2023/08/22/entertainment/scooter-braun-client-roster/index.html).
 
 ## Requirements
 - Python 3.8
