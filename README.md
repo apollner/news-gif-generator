@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692876994)
+![Generated GIF](output.gif?raw=true&v=1692879182)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mizoram, India: Under construction bridge collapses, killing at least 17**
+**Horoscope for Wednesday, August 23, 2023**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/india/india-bridge-collapse-mizoram-intl-hnk/index.html).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/23/23836449/horoscopes-today-wednesday-august-23-2023).
 
 ## Requirements
 - Python 3.8
