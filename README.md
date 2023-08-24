@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692850149)
+![Generated GIF](output.gif?raw=true&v=1692851641)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White Sox fire vice president Ken Williams, GM Rick Hahn - ESPN**
+**Five potential trade destinations for Colts RB Jonathan Taylor**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38241494/white-sox-fire-vice-president-ken-williams-gm-rick-hahn).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/five-potential-trade-destinations-for-colts-rb-jonathan-taylor).
 
 ## Requirements
 - Python 3.8
