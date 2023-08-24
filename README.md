@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692900572)
+![Generated GIF](output.gif?raw=true&v=1692902173)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sony Details New PlayStation Pulse Elite Headset And Pulse Explore Earbuds**
+**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
 
-You can read more about it [here](https://www.gameinformer.com/news/2023/08/23/sony-details-new-playstation-pulse-elite-headset-and-pulse-explore-earbuds).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
