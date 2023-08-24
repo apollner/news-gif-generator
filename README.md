@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692873282)
+![Generated GIF](output.gif?raw=true&v=1692875108)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India moon landing: Chandrayaan-3 could make history in space today - here's what you need to know**
+**100+ people evacuated due to flash flooding at Grand Canyon's South Rim**
 
-You can read more about it [here](https://news.sky.com/story/india-moon-landing-chandrayaan-3-could-make-history-in-space-today-heres-what-you-need-to-know-12945160).
+You can read more about it [here](https://www.azfamily.com/2023/08/23/100-people-evacuated-due-flash-flooding-grand-canyons-south-rim/).
 
 ## Requirements
 - Python 3.8
