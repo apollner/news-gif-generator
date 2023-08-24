@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692918385)
+![Generated GIF](output.gif?raw=true&v=1692920052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oklahoma authorities name the BTK killer as the 'prime suspect' in at least two unsolved cases**
+**Woman with paralysis speaks through avatar thanks to brain implant**
 
-You can read more about it [here](https://apnews.com/article/btk-serial-killer-investigation-161ee1a8d405a0a2d6ae87db85d643af).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/paralyzed-woman-speaks-through-avatar-with-brain-implants-rcna101420).
 
 ## Requirements
 - Python 3.8
