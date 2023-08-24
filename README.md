@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692898478)
+![Generated GIF](output.gif?raw=true&v=1692900572)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Carolina's new all-male highest court reverses course on abortion, upholding strict 6-week ban**
+**Sony Details New PlayStation Pulse Elite Headset And Pulse Explore Earbuds**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/south-carolinas-new-male-highest-court-reverses-abortion-102480714).
+You can read more about it [here](https://www.gameinformer.com/news/2023/08/23/sony-details-new-playstation-pulse-elite-headset-and-pulse-explore-earbuds).
 
 ## Requirements
 - Python 3.8
