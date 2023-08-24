@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692846492)
+![Generated GIF](output.gif?raw=true&v=1692848113)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scooter Braun jokes he's no longer managing himself after Demi Lovato, Idina Menzel departures**
+**Buyout firm Roark sets conditions to clinch $9 bln-plus Subway deal-sources**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/entertainment/scooter-braun-client-roster/index.html).
+You can read more about it [here](https://www.reuters.com/markets/deals/buyout-firm-roark-sets-conditions-clinch-9-bln-plus-subway-deal-sources-2023-08-23/).
 
 ## Requirements
 - Python 3.8
