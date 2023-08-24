@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692885962)
+![Generated GIF](output.gif?raw=true&v=1692887643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What’s this new COVID variant and is another vaccine coming?**
+**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
 
-You can read more about it [here](https://www.mlive.com/public-interest/2023/08/whats-this-new-covid-variant-and-is-another-vaccine-coming.html).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
