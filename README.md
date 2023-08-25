@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692958018)
+![Generated GIF](output.gif?raw=true&v=1692959639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In Memoriam: A list of victims killed in Maui fires**
+**Takeaways from the first Republican presidential debate**
 
-You can read more about it [here](https://www.staradvertiser.com/2023/08/23/breaking-news/in-memoriam-a-list-of-victims-killed-in-maui-fires/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/takeaways-republican-debate/index.html).
 
 ## Requirements
 - Python 3.8
