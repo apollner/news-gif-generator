@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692932851)
+![Generated GIF](output.gif?raw=true&v=1692934431)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New PlayStation Portal Details, Pricing and More Revealed - IGN Daily Fix**
+**Why have conservatives turned on 'Rich Men North of Richmond' singer Oliver Anthony**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QZ8s_IHY0E8).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/oliver-anthony-republican-accent-revealed-b2398458.html).
 
 ## Requirements
 - Python 3.8
