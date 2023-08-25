@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692972355)
+![Generated GIF](output.gif?raw=true&v=1692974030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sony's PlayStation Portal Sounds Close To Useless For $200**
+**Everything you need to know about Shohei Ohtani's UCL tear, what's next, free-agency impact**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/24/sonys-playstation-portal-sounds-close-to-useless-for-200/).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/everything-you-need-to-know-about-shohei-ohtanis-ucl-tear-whats-next-free-agency-impact).
 
 ## Requirements
 - Python 3.8
