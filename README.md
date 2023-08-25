@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692983137)
+![Generated GIF](output.gif?raw=true&v=1692986993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin says Prigozhin is dead in first Kremlin reaction to plane crash**
+**Retired Ventura police sergeant named as shooter at O.C. biker bar**
 
-You can read more about it [here](https://www.ft.com/content/af341ede-933c-4bbc-b804-3ecbe5a66827).
+You can read more about it [here](https://www.vcstar.com/story/news/2023/08/23/authorities-say-4-people-dead-in-shooting-at-california-biker-bar/70666072007/).
 
 ## Requirements
 - Python 3.8
