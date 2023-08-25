@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692965536)
+![Generated GIF](output.gif?raw=true&v=1692967677)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FC Cincinnati 3-3 Inter Miami CF (Aug 23, 2023) Game Analysis**
+**Prigozhin plane crash live updates: No confirmation of Wagner chief’s death**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/670651).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/prigozhin-plane-crash-wagner-russia-live-updates/).
 
 ## Requirements
 - Python 3.8
