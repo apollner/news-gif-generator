@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692988435)
+![Generated GIF](output.gif?raw=true&v=1692990308)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump replaces top Georgia lawyer ahead of surrender**
+**SpaceX to launch Crew-7 astronauts to ISS for NASA before dawn on Aug. 25. Here's how to watch online for free.**
 
-You can read more about it [here](https://www.cnn.com/2023/08/24/politics/trump-georgia-lawyer/index.html).
+You can read more about it [here](https://www.space.com/spacex-crew-7-international-space-station-launch-livestream).
 
 ## Requirements
 - Python 3.8
