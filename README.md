@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692976016)
+![Generated GIF](output.gif?raw=true&v=1692977645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Which NFL teams can carry strong 2022 stretch runs into 2023? 8 units to watch**
+**What time will SpaceX launch the Crew-7 astronauts for NASA on Aug. 25?**
 
-You can read more about it [here](https://theathletic.com/4743688/2023/08/24/nfl-eagles-bengals-jaguars-49ers-momentum/).
+You can read more about it [here](https://www.space.com/spacex-crew-7-astronaut-launch-what-time).
 
 ## Requirements
 - Python 3.8
