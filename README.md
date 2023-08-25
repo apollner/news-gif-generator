@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692930887)
+![Generated GIF](output.gif?raw=true&v=1692932851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suspect in hourslong Pittsburgh standoff after deputies tried to evict him is dead, police say**
+**New PlayStation Portal Details, Pricing and More Revealed - IGN Daily Fix**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/us/pittsburgh-police-shooting-garfield/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=QZ8s_IHY0E8).
 
 ## Requirements
 - Python 3.8
