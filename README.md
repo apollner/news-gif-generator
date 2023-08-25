@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692970432)
+![Generated GIF](output.gif?raw=true&v=1692972355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Six countries to join BRICS group; China labels expansion 'historic'**
+**Sony's PlayStation Portal Sounds Close To Useless For $200**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/brics-china-russia-expansion/).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/24/sonys-playstation-portal-sounds-close-to-useless-for-200/).
 
 ## Requirements
 - Python 3.8
