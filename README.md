@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693001136)
+![Generated GIF](output.gif?raw=true&v=1693002834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shohei Ohtani injury: Five biggest questions about future of MLB's best player**
+**Boyfriend arrested in murder of missing North Carolina woman, police say they believe they found remains**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-injury-five-biggest-questions-about-future-of-mlbs-best-player/).
+You can read more about it [here](https://abcnews.go.com/US/boyfriend-arrested-murder-missing-north-carolina-woman-police/story?id=102538208).
 
 ## Requirements
 - Python 3.8
