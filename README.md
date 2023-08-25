@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692959639)
+![Generated GIF](output.gif?raw=true&v=1692961499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Takeaways from the first Republican presidential debate**
+**Mandel: ACC adding Stanford, Cal and SMU makes perfect sense and no sense at all**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://theathletic.com/4801435/2023/08/23/acc-stanford-cal-smu/).
 
 ## Requirements
 - Python 3.8
