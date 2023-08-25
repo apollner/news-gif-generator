@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692977645)
+![Generated GIF](output.gif?raw=true&v=1692979778)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What time will SpaceX launch the Crew-7 astronauts for NASA on Aug. 25?**
+**Six countries to join BRICS group; China labels expansion 'historic'**
 
-You can read more about it [here](https://www.space.com/spacex-crew-7-astronaut-launch-what-time).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/brics-china-russia-expansion/).
 
 ## Requirements
 - Python 3.8
