@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692920052)
+![Generated GIF](output.gif?raw=true&v=1692923355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman with paralysis speaks through avatar thanks to brain implant**
+**Prosecutor says 3 men accused in plot to kidnap Michigan Gov. Whitmer wanted to start a civil war**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/paralyzed-woman-speaks-through-avatar-with-brain-implants-rcna101420).
+You can read more about it [here](https://apnews.com/article/whitmer-kidnapping-plot-trial-michigan-governor-fc00d15f2151c3df8ab97fb41728d810).
 
 ## Requirements
 - Python 3.8
