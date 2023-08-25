@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692934431)
+![Generated GIF](output.gif?raw=true&v=1692936555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why have conservatives turned on 'Rich Men North of Richmond' singer Oliver Anthony**
+**Vivek Ramaswamy calls climate change a 'hoax' during debate**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/oliver-anthony-republican-accent-revealed-b2398458.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/23/candidates-clash-over-climate-change-00112637).
 
 ## Requirements
 - Python 3.8
