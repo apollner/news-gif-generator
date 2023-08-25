@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692974030)
+![Generated GIF](output.gif?raw=true&v=1692976016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Everything you need to know about Shohei Ohtani's UCL tear, what's next, free-agency impact**
+**Which NFL teams can carry strong 2022 stretch runs into 2023? 8 units to watch**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/everything-you-need-to-know-about-shohei-ohtanis-ucl-tear-whats-next-free-agency-impact).
+You can read more about it [here](https://theathletic.com/4743688/2023/08/24/nfl-eagles-bengals-jaguars-49ers-momentum/).
 
 ## Requirements
 - Python 3.8
