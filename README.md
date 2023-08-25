@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692927126)
+![Generated GIF](output.gif?raw=true&v=1692929066)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Darnold named 49ers' No. 2 QB; Trey Lance given 'a big chance to win' backup spot, Kyle Shanahan says**
+**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/sam-darnold-named-49ers-no-2-qb-trey-lance-given-a-big-chance-to-win-backup-spot-kyle-shanahan-says/).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
 
 ## Requirements
 - Python 3.8
