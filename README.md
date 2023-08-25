@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692954369)
+![Generated GIF](output.gif?raw=true&v=1692956033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Riverdale’: Behind The Surprise Cameos From Former Warner Bros. TV Group Chairman Peter Roth In Final Season**
+**6 Injured, 4 Dead In Mass Shooting At Famous Orange County Biker Bar**
 
-You can read more about it [here](https://deadline.com/2023/08/riverdale-peter-roth-cameos-series-finale-the-cw-1235526565/).
+You can read more about it [here](https://deadline.com/2023/08/mass-shooting-orange-county-biker-bar-cooks-corner-1235526821/).
 
 ## Requirements
 - Python 3.8
