@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692967677)
+![Generated GIF](output.gif?raw=true&v=1692969033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prigozhin plane crash live updates: No confirmation of Wagner chief’s death**
+**Turkey surprises with bigger-than-expected interest rate hike to 25% in bid to tame inflation**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/prigozhin-plane-crash-wagner-russia-live-updates/).
+You can read more about it [here](https://www.cnbc.com/2023/08/24/turkish-central-bank-announces-bigger-than-expected-rate-hike-.html).
 
 ## Requirements
 - Python 3.8
