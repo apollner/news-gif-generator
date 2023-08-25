@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692936555)
+![Generated GIF](output.gif?raw=true&v=1692938072)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vivek Ramaswamy calls climate change a 'hoax' during debate**
+**Fukushima nuclear waste water: Japan to release treated water despite China's opposition**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/23/candidates-clash-over-climate-change-00112637).
+You can read more about it [here](https://www.cnn.com/2023/08/23/asia/japan-fukushima-water-release-thursday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
