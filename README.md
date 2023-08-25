@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692923355)
+![Generated GIF](output.gif?raw=true&v=1692927126)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutor says 3 men accused in plot to kidnap Michigan Gov. Whitmer wanted to start a civil war**
+**Sam Darnold named 49ers' No. 2 QB; Trey Lance given 'a big chance to win' backup spot, Kyle Shanahan says**
 
-You can read more about it [here](https://apnews.com/article/whitmer-kidnapping-plot-trial-michigan-governor-fc00d15f2151c3df8ab97fb41728d810).
+You can read more about it [here](https://www.cbssports.com/nfl/news/sam-darnold-named-49ers-no-2-qb-trey-lance-given-a-big-chance-to-win-backup-spot-kyle-shanahan-says/).
 
 ## Requirements
 - Python 3.8
