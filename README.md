@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692956033)
+![Generated GIF](output.gif?raw=true&v=1692958018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 Injured, 4 Dead In Mass Shooting At Famous Orange County Biker Bar**
+**In Memoriam: A list of victims killed in Maui fires**
 
-You can read more about it [here](https://deadline.com/2023/08/mass-shooting-orange-county-biker-bar-cooks-corner-1235526821/).
+You can read more about it [here](https://www.staradvertiser.com/2023/08/23/breaking-news/in-memoriam-a-list-of-victims-killed-in-maui-fires/).
 
 ## Requirements
 - Python 3.8
