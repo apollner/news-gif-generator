@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693004753)
+![Generated GIF](output.gif?raw=true&v=1693006627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fed's Harker expects no more rate hikes needed this year, in CNBC interview**
+**Writers Guild Replies to Studios’ Counter Offer: Not “Nearly Enough”**
 
-You can read more about it [here](https://www.reuters.com/markets/us/feds-harker-tells-cnbc-he-expects-no-more-rate-cuts-this-year-2023-08-24/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/).
 
 ## Requirements
 - Python 3.8
