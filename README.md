@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692938072)
+![Generated GIF](output.gif?raw=true&v=1692940084)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fukushima nuclear waste water: Japan to release treated water despite China's opposition**
+**North Korea says its spy satellite launch has failed, again**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/asia/japan-fukushima-water-release-thursday-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/23/asia/north-korea-second-satellite-launch-fails-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
