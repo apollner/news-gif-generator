@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692999241)
+![Generated GIF](output.gif?raw=true&v=1693001136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fed's Harker expects no more rate hikes needed this year, in CNBC interview**
+**Shohei Ohtani injury: Five biggest questions about future of MLB's best player**
 
-You can read more about it [here](https://www.reuters.com/markets/us/feds-harker-tells-cnbc-he-expects-no-more-rate-cuts-this-year-2023-08-24/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-injury-five-biggest-questions-about-future-of-mlbs-best-player/).
 
 ## Requirements
 - Python 3.8
