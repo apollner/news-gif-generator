@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692941638)
+![Generated GIF](output.gif?raw=true&v=1692943873)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kyle Shanahan gave Trey Lance the day off after conversation about depth chart**
+**Rudy Giuliani surrenders in Georgia 2020 election case**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-gave-trey-lance-the-day-off-after-conversation-about-depth-chart).
+You can read more about it [here](https://www.axios.com/2023/08/23/rudy-giuliani-surrender-mugshot-georgia-election-charges).
 
 ## Requirements
 - Python 3.8
