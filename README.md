@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692961499)
+![Generated GIF](output.gif?raw=true&v=1692963232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mandel: ACC adding Stanford, Cal and SMU makes perfect sense and no sense at all**
+**Moon rover exits India's Chandrayaan-3 spacecraft to explore lunar surface**
 
-You can read more about it [here](https://theathletic.com/4801435/2023/08/23/acc-stanford-cal-smu/).
+You can read more about it [here](https://www.reuters.com/technology/space/moon-rover-exits-indias-chandrayaan-3-spacecraft-explore-lunar-surface-tv-2023-08-24/).
 
 ## Requirements
 - Python 3.8
