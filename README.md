@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692929066)
+![Generated GIF](output.gif?raw=true&v=1692930887)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
+**Suspect in hourslong Pittsburgh standoff after deputies tried to evict him is dead, police say**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
+You can read more about it [here](https://www.cnn.com/2023/08/23/us/pittsburgh-police-shooting-garfield/index.html).
 
 ## Requirements
 - Python 3.8
