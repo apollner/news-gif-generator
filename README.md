@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692990308)
+![Generated GIF](output.gif?raw=true&v=1692992046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX to launch Crew-7 astronauts to ISS for NASA before dawn on Aug. 25. Here's how to watch online for free.**
+**YouTube tests a new hum-to-search feature on Android**
 
-You can read more about it [here](https://www.space.com/spacex-crew-7-international-space-station-launch-livestream).
+You can read more about it [here](https://www.theverge.com/2023/8/24/23844501/youtube-tests-hum-to-search-feature-android-google).
 
 ## Requirements
 - Python 3.8
