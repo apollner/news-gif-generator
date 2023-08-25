@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1692963232)
+![Generated GIF](output.gif?raw=true&v=1692965536)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moon rover exits India's Chandrayaan-3 spacecraft to explore lunar surface**
+**FC Cincinnati 3-3 Inter Miami CF (Aug 23, 2023) Game Analysis**
 
-You can read more about it [here](https://www.reuters.com/technology/space/moon-rover-exits-indias-chandrayaan-3-spacecraft-explore-lunar-surface-tv-2023-08-24/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/670651).
 
 ## Requirements
 - Python 3.8
