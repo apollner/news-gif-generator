@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693031672)
+![Generated GIF](output.gif?raw=true&v=1693033498)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New details emerge in mass shooting at popular Southern California bar that left 3 dead, 6 injured**
+**Tropical development possible in the Gulf. Here's when Coastal Georgia, Lowcountry could be impacted**
 
-You can read more about it [here](https://abcnews.go.com/US/multiple-people-shot-bar-orange-county-california-trabuco-canyon/story?id=102520201).
+You can read more about it [here](https://www.wjcl.com/article/gulf-of-mexico-tropics-idalia/44902983).
 
 ## Requirements
 - Python 3.8
