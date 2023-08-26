@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693066037)
+![Generated GIF](output.gif?raw=true&v=1693067718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaii names 388 people still unaccounted for after Maui fire**
+**'I will not resign,' says defiant Spanish soccer boss Luis Rubiales following week of fierce criticism for unwanted kiss on star player**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjMvMDgvMjUvbWF1aS1maXJlcy1oYXdhaWktdW5hY2NvdW50ZWQtZm9yLW1pc3Npbmcv0gEA?oc=5).
+You can read more about it [here](https://www.cnn.com/2023/08/25/football/luis-rubiales-defiant-speech-spain-world-cup-kiss-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
