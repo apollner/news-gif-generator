@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693074845)
+![Generated GIF](output.gif?raw=true&v=1693076690)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jonathan Taylor trade rumors: Five potential proposals for disgruntled Colts running back**
+**Vishal Garg, the CEO who mass-sacked employees over Zoom, suffers epic SPAC disaster as Better.com shares nosedive over 90%**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-five-potential-proposals-for-disgruntled-colts-running-back/).
+You can read more about it [here](https://fortune.com/2023/08/25/better-vishal-garg-spac-stock-crash/).
 
 ## Requirements
 - Python 3.8
