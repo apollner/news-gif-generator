@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693087507)
+![Generated GIF](output.gif?raw=true&v=1693089233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powell Says Fed Will 'Proceed Carefully' on Further Rate Rises**
+**UAW members approve possible strikes at GM, Ford and Stellantis**
 
-You can read more about it [here](https://www.wsj.com/economy/central-banking/powell-says-fed-will-proceed-carefully-on-any-further-rate-rises-31b6fc6a).
+You can read more about it [here](https://www.cnn.com/2023/08/25/business/uaw-strike-vote-gm-ford-stellantis/index.html).
 
 ## Requirements
 - Python 3.8
