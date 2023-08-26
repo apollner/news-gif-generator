@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693062313)
+![Generated GIF](output.gif?raw=true&v=1693064022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google adds first-gen indoor Nest cameras to its Home app**
+**Russia hits out at Biden's 'unacceptable' Wagner boss dig at Putin – Ukraine war live**
 
-You can read more about it [here](https://www.engadget.com/google-adds-first-gen-indoor-nest-cameras-to-its-home-app-065924878.html).
+You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399184.html).
 
 ## Requirements
 - Python 3.8
