@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693049637)
+![Generated GIF](output.gif?raw=true&v=1693051885)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As COVID numbers increase, mask mandates return in some places**
+**700k without power as Great Lakes slammed with tornadoes, 75 mph winds**
 
-You can read more about it [here](https://www.fox5ny.com/news/as-covid-numbers-increase-mask-mandates-return-in-some-places).
+You can read more about it [here](https://www.foxweather.com/weather-news/storms-great-lakes-rain-northeast-weekend).
 
 ## Requirements
 - Python 3.8
