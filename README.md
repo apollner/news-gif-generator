@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693056834)
+![Generated GIF](output.gif?raw=true&v=1693058695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable**
+**Area to enter Gulf, may strengthen into tropical system and impact Florida**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/).
+You can read more about it [here](https://www.wptv.com/weather/tropical-weather/area-to-enter-gulf-of-mexico-may-strengthen-into-tropical-system-and-impact-florida).
 
 ## Requirements
 - Python 3.8
