@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693071234)
+![Generated GIF](output.gif?raw=true&v=1693073284)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jonathan Taylor trade rumors: Five potential proposals for disgruntled Colts running back**
+**UAW members approve possible strikes at GM, Ford and Stellantis**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-five-potential-proposals-for-disgruntled-colts-running-back/).
+You can read more about it [here](https://www.cnn.com/2023/08/25/business/uaw-strike-vote-gm-ford-stellantis/index.html).
 
 ## Requirements
 - Python 3.8
