@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693020888)
+![Generated GIF](output.gif?raw=true&v=1693022898)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OC bar shooter who killed 3 identified as an ex-SoCal police officer**
+**Digestion issues could be warning sign of Parkinson’s disease, research suggests**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/local/oc-bar-shooter-mass-shooting-suspect-trabuco-canyon-orange-county-cooks-corner-john-snowling/3212437/).
+You can read more about it [here](https://www.theguardian.com/society/2023/aug/24/digestion-issues-could-be-warning-sign-of-parkinsons-disease-research-suggests).
 
 ## Requirements
 - Python 3.8
