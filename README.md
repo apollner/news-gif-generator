@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693022898)
+![Generated GIF](output.gif?raw=true&v=1693024425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Digestion issues could be warning sign of Parkinson’s disease, research suggests**
+**New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know.**
 
-You can read more about it [here](https://www.theguardian.com/society/2023/aug/24/digestion-issues-could-be-warning-sign-of-parkinsons-disease-research-suggests).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/).
 
 ## Requirements
 - Python 3.8
