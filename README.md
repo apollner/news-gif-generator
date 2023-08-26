@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693089233)
+![Generated GIF](output.gif?raw=true&v=1693091130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW members approve possible strikes at GM, Ford and Stellantis**
+**Britney Spears Reportedly ‘Needed Stitches’ After ‘Explosive’ Fight With Sam Asghari**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/business/uaw-strike-vote-gm-ford-stellantis/index.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/britney-spears-reportedly-needed-stitches-154504650.html).
 
 ## Requirements
 - Python 3.8
