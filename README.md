@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693046043)
+![Generated GIF](output.gif?raw=true&v=1693047912)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ramaswamy and Haley show the GOP's divergent paths coming out of the debate**
+**Eagles overreactions, reality checks after third preseason game: Do Eli Ricks, Devon Allen make final 53?**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/24/republican-presidential-debate-ramaswamy-haley/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-overreactions-reality-checks-after-third-preseason-game-do-eli-ricks-devon-allen-make-final-53/).
 
 ## Requirements
 - Python 3.8
