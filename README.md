@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693040747)
+![Generated GIF](output.gif?raw=true&v=1693044363)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. agrees to train Ukraine’s F-16 pilots in Arizona**
+**Upset Over Divorce, Ex-US Cop Opens Fire At Wife, Others At Bar, Kills 3**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/08/24/ukraine-f-16-training-arizona/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXBzZXQtb3Zlci1kaXZvcmNlLWV4LXVzLWNvcC1vcGVucy1maXJlLWF0LXdpZmUtb3RoZXJzLWF0LWJhci1raWxscy0zLTQzMjc3MTfSAXNodHRwczovL3d3dy5uZHR2LmNvbS93b3JsZC1uZXdzL3Vwc2V0LW92ZXItZGl2b3JjZS1leC11cy1jb3Atb3BlbnMtZmlyZS1hdC13aWZlLW90aGVycy1hdC1iYXIta2lsbHMtMy00MzI3NzE3L2FtcC8x?oc=5).
 
 ## Requirements
 - Python 3.8
