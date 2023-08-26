@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693085647)
+![Generated GIF](output.gif?raw=true&v=1693087507)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
+**Powell Says Fed Will 'Proceed Carefully' on Further Rate Rises**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/powell-says-fed-will-proceed-carefully-on-any-further-rate-rises-31b6fc6a).
 
 ## Requirements
 - Python 3.8
