@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693058695)
+![Generated GIF](output.gif?raw=true&v=1693060433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Area to enter Gulf, may strengthen into tropical system and impact Florida**
+**Prigozhin would be latest in line of Putin critics who met an early death**
 
-You can read more about it [here](https://www.wptv.com/weather/tropical-weather/area-to-enter-gulf-of-mexico-may-strengthen-into-tropical-system-and-impact-florida).
+You can read more about it [here](https://www.cnn.com/2023/08/24/europe/putin-critics-dead-yevgeny-prigozhin-intl/index.html).
 
 ## Requirements
 - Python 3.8
