@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693015108)
+![Generated GIF](output.gif?raw=true&v=1693016104)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fukushima nuclear plant releases treated radioactive water into Pacific**
+**Actual SEALs Fume at DeSantis' Navy Service Claims**
 
-You can read more about it [here](https://www.youtube.com/watch?v=t1YtIZkyn3k).
+You can read more about it [here](https://www.thedailybeast.com/actual-seals-fume-at-ron-desantis-navy-service-claims).
 
 ## Requirements
 - Python 3.8
