@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693035225)
+![Generated GIF](output.gif?raw=true&v=1693037342)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kim Cattrall's And Just Like That… cameo had improvised moment**
+**The Far Right Turns on 'Rich Men North of Richmond' Singer for Touting Diversity**
 
-You can read more about it [here](https://www.digitalspy.com/tv/ustv/a44904252/ajlt-kim-cattrall-cameo-improvised-moment/).
+You can read more about it [here](https://www.thedailybeast.com/the-far-right-turns-on-oliver-anthony-rich-men-north-of-richmond-singer-for-touting-diversity).
 
 ## Requirements
 - Python 3.8
