@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693026379)
+![Generated GIF](output.gif?raw=true&v=1693028026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bray Wyatt, WWE Superstar, Dies at 36**
+**Weigh-In Results | UFC Fight Night: Holloway vs The Korean Zombie**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
+You can read more about it [here](https://www.ufc.com/news/weigh-results-ufc-fight-night-singapore-holloway-vs-korean-zombie).
 
 ## Requirements
 - Python 3.8
