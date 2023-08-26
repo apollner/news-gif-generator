@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693013326)
+![Generated GIF](output.gif?raw=true&v=1693015108)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Writers Guild Replies to Studios’ Counter Offer: Not “Nearly Enough”**
+**Fukushima nuclear plant releases treated radioactive water into Pacific**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/).
+You can read more about it [here](https://www.youtube.com/watch?v=t1YtIZkyn3k).
 
 ## Requirements
 - Python 3.8
