@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693047912)
+![Generated GIF](output.gif?raw=true&v=1693049637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles overreactions, reality checks after third preseason game: Do Eli Ricks, Devon Allen make final 53?**
+**As COVID numbers increase, mask mandates return in some places**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-overreactions-reality-checks-after-third-preseason-game-do-eli-ricks-devon-allen-make-final-53/).
+You can read more about it [here](https://www.fox5ny.com/news/as-covid-numbers-increase-mask-mandates-return-in-some-places).
 
 ## Requirements
 - Python 3.8
