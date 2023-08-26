@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693067718)
+![Generated GIF](output.gif?raw=true&v=1693069501)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'I will not resign,' says defiant Spanish soccer boss Luis Rubiales following week of fierce criticism for unwanted kiss on star player**
+**Surfer attacked in Australia by suspected great white shark hospitalized, clinging to life**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/football/luis-rubiales-defiant-speech-spain-world-cup-kiss-spt-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/25/surfer-attacked-by-great-white-shark-in-australia/70677040007/).
 
 ## Requirements
 - Python 3.8
