@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693064022)
+![Generated GIF](output.gif?raw=true&v=1693066037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia hits out at Biden's 'unacceptable' Wagner boss dig at Putin – Ukraine war live**
+**Hawaii names 388 people still unaccounted for after Maui fire**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399184.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjMvMDgvMjUvbWF1aS1maXJlcy1oYXdhaWktdW5hY2NvdW50ZWQtZm9yLW1pc3Npbmcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
