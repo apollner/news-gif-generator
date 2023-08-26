@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693069501)
+![Generated GIF](output.gif?raw=true&v=1693071234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Surfer attacked in Australia by suspected great white shark hospitalized, clinging to life**
+**Jonathan Taylor trade rumors: Five potential proposals for disgruntled Colts running back**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/25/surfer-attacked-by-great-white-shark-in-australia/70677040007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-five-potential-proposals-for-disgruntled-colts-running-back/).
 
 ## Requirements
 - Python 3.8
