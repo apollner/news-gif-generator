@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693082046)
+![Generated GIF](output.gif?raw=true&v=1693083908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rachel Sennott talks comedy, acting ahead of ‘Bottoms’ movie release**
+**2023 Tour Championship TV schedule, coverage, live stream, watch online, channel, tee times for FedEx Playoffs**
 
-You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/25/rachel-sennott-comedian-actress/).
+You can read more about it [here](https://www.cbssports.com/golf/news/2023-tour-championship-tv-schedule-coverage-live-stream-watch-online-channel-tee-times-for-fedex-playoffs/).
 
 ## Requirements
 - Python 3.8
