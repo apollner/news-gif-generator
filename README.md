@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693006627)
+![Generated GIF](output.gif?raw=true&v=1693009669)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Writers Guild Replies to Studios’ Counter Offer: Not “Nearly Enough”**
+**Shohei Ohtani injury: Angels superstar suffers UCL tear, won't pitch again this season, but could still hit**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-injury-angels-superstar-suffers-ucl-tear-wont-pitch-again-this-season-but-could-still-hit/).
 
 ## Requirements
 - Python 3.8
