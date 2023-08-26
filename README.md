@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693083908)
+![Generated GIF](output.gif?raw=true&v=1693085647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Tour Championship TV schedule, coverage, live stream, watch online, channel, tee times for FedEx Playoffs**
+**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2023-tour-championship-tv-schedule-coverage-live-stream-watch-online-channel-tee-times-for-fedex-playoffs/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
 
 ## Requirements
 - Python 3.8
