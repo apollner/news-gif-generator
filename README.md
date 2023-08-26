@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693028026)
+![Generated GIF](output.gif?raw=true&v=1693030179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weigh-In Results | UFC Fight Night: Holloway vs The Korean Zombie**
+**The Next Full Moon is a Supermoon and a Blue Moon – NASA Solar System Exploration**
 
-You can read more about it [here](https://www.ufc.com/news/weigh-results-ufc-fight-night-singapore-holloway-vs-korean-zombie).
+You can read more about it [here](https://solarsystem.nasa.gov/news/2367/the-next-full-moon-is-a-supermoon-and-a-blue-moon/).
 
 ## Requirements
 - Python 3.8
