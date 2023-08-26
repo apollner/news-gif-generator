@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693078433)
+![Generated GIF](output.gif?raw=true&v=1693080382)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Storms leave over 55,000 without power in Lansing region**
+**Evacuations underway after chemical leak, fire at Louisiana refinery**
 
-You can read more about it [here](https://www.lansingstatejournal.com/story/news/local/2023/08/25/lansing-power-outages-bwl-consumers-tornado-thunderstorms/70677647007/).
+You can read more about it [here](https://abcnews.go.com/US/evacuations-underway-after-chemical-leak-fire-louisiana-refinery/story?id=102565484).
 
 ## Requirements
 - Python 3.8
