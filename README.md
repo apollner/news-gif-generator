@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693055185)
+![Generated GIF](output.gif?raw=true&v=1693056834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ramaswamy and Haley show the GOP's divergent paths coming out of the debate**
+**Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/24/republican-presidential-debate-ramaswamy-haley/).
+You can read more about it [here](https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/).
 
 ## Requirements
 - Python 3.8
