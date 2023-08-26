@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693033498)
+![Generated GIF](output.gif?raw=true&v=1693035225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical development possible in the Gulf. Here's when Coastal Georgia, Lowcountry could be impacted**
+**Kim Cattrall's And Just Like That… cameo had improvised moment**
 
-You can read more about it [here](https://www.wjcl.com/article/gulf-of-mexico-tropics-idalia/44902983).
+You can read more about it [here](https://www.digitalspy.com/tv/ustv/a44904252/ajlt-kim-cattrall-cameo-improvised-moment/).
 
 ## Requirements
 - Python 3.8
