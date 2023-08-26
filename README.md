@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693080382)
+![Generated GIF](output.gif?raw=true&v=1693082046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Evacuations underway after chemical leak, fire at Louisiana refinery**
+**Rachel Sennott talks comedy, acting ahead of ‘Bottoms’ movie release**
 
-You can read more about it [here](https://abcnews.go.com/US/evacuations-underway-after-chemical-leak-fire-louisiana-refinery/story?id=102565484).
+You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/25/rachel-sennott-comedian-actress/).
 
 ## Requirements
 - Python 3.8
