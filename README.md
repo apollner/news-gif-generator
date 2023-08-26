@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693091130)
+![Generated GIF](output.gif?raw=true&v=1693092845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears Reportedly ‘Needed Stitches’ After ‘Explosive’ Fight With Sam Asghari**
+**Martino: Lionel Messi in doubt to make MLS debut Saturday**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/britney-spears-reportedly-needed-stitches-154504650.html).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38259083/lionel-messi-doubt-make-mls-debut-saturday-martino).
 
 ## Requirements
 - Python 3.8
