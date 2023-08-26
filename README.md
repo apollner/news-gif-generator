@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693053879)
+![Generated GIF](output.gif?raw=true&v=1693055185)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Report: Colts, Dolphins continue to negotiate potential Jonathan Taylor trade**
+**Ramaswamy and Haley show the GOP's divergent paths coming out of the debate**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-dolphins-continue-to-negotiate-potential-jonathan-taylor-trade).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/24/republican-presidential-debate-ramaswamy-haley/).
 
 ## Requirements
 - Python 3.8
