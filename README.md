@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693030179)
+![Generated GIF](output.gif?raw=true&v=1693031672)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Next Full Moon is a Supermoon and a Blue Moon – NASA Solar System Exploration**
+**New details emerge in mass shooting at popular Southern California bar that left 3 dead, 6 injured**
 
-You can read more about it [here](https://solarsystem.nasa.gov/news/2367/the-next-full-moon-is-a-supermoon-and-a-blue-moon/).
+You can read more about it [here](https://abcnews.go.com/US/multiple-people-shot-bar-orange-county-california-trabuco-canyon/story?id=102520201).
 
 ## Requirements
 - Python 3.8
