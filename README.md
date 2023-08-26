@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693051885)
+![Generated GIF](output.gif?raw=true&v=1693053879)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**700k without power as Great Lakes slammed with tornadoes, 75 mph winds**
+**Report: Colts, Dolphins continue to negotiate potential Jonathan Taylor trade**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/storms-great-lakes-rain-northeast-weekend).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-dolphins-continue-to-negotiate-potential-jonathan-taylor-trade).
 
 ## Requirements
 - Python 3.8
