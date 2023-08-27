@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693141574)
+![Generated GIF](output.gif?raw=true&v=1693143221)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amid Bethenny Frankel Fight, Bravo Clarifies Claim That Reality Stars Are Being ‘Silenced’ By NDAs (EXCLUSIVE)**
+**College football schedule, games 2023: What to watch in Week 0, TV channels, Saturday kickoff times**
 
-You can read more about it [here](https://variety.com/2023/tv/news/bethenny-frankel-reality-star-legal-fight-bravo-response-ndas-1235704905/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-schedule-games-2023-what-to-watch-in-week-0-tv-channels-saturday-kickoff-times/).
 
 ## Requirements
 - Python 3.8
