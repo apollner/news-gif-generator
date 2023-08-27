@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693168427)
+![Generated GIF](output.gif?raw=true&v=1693170306)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
+**Max Holloway knocks out 'Korean Zombie' Chan Sung Jung at UFC Singapore**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
+You can read more about it [here](https://sports.yahoo.com/max-holloway-knocks-out-korean-zombie-chan-sung-jung-at-ufc-singapore-154322380.html).
 
 ## Requirements
 - Python 3.8
