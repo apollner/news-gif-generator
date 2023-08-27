@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693092845)
+![Generated GIF](output.gif?raw=true&v=1693096269)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Martino: Lionel Messi in doubt to make MLS debut Saturday**
+**Who is Vivek Ramaswamy, the rising Republican presidential candidate?**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38259083/lionel-messi-doubt-make-mls-debut-saturday-martino).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/25/who-is-vivek-ramaswamy-the-rising-republican-presidential-candidate).
 
 ## Requirements
 - Python 3.8
