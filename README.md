@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693110896)
+![Generated GIF](output.gif?raw=true&v=1693112744)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Talks Between Writers, Studios at a Standstill After Week of Trading Barbs**
+**Man in jail for allegedly holding woman captive in makeshift dungeon caught trying to escape cell**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/writers-studios-standstill-1235575169/).
+You can read more about it [here](https://www.cnn.com/2023/08/25/us/negasi-zuberi-dungeon-kidnap-suspect-jail-escape/index.html).
 
 ## Requirements
 - Python 3.8
