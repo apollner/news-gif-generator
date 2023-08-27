@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693150442)
+![Generated GIF](output.gif?raw=true&v=1693152442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Take a look at the $63M F-16 fighter jet the West's pledged to Ukraine**
+**Flu shot recommendations from the CDC: 'Vaccination should continue throughout the season'**
 
-You can read more about it [here](https://www.businessinsider.com/f-16-fighter-jets-russia-ukraine-war-2023-8).
+You can read more about it [here](https://www.foxnews.com/health/flu-shot-recommendations-cdc-vaccination-continue-throughout-season).
 
 ## Requirements
 - Python 3.8
