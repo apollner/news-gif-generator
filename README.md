@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693100134)
+![Generated GIF](output.gif?raw=true&v=1693102556)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources: QB Trey Lance dealt from 49ers to Cowboys for 4th-rounder - ESPN**
+**Fed's Powell: higher rates may be needed, will move 'carefully'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38259989/qb-trey-lance-dealt-49ers-cowboys-4th-rounder).
+You can read more about it [here](https://www.reuters.com/markets/us/fed-registers-gains-powell-may-take-lay-low-approach-2023-08-25/).
 
 ## Requirements
 - Python 3.8
