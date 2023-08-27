@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693121636)
+![Generated GIF](output.gif?raw=true&v=1693123775)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The science behind the Fukushima waste water release**
+**UAW members authorize strikes against Detroit automakers. What it means**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66610977).
+You can read more about it [here](https://www.detroitnews.com/story/business/autos/2023/08/25/uaw-strike-authorization-vote/70659992007/).
 
 ## Requirements
 - Python 3.8
