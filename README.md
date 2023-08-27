@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693114426)
+![Generated GIF](output.gif?raw=true&v=1693116638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tornados confirmed in Michigan after storms leave at least 5 dead**
+**Zendaya Proves Tom Holland Is a Baller Boyfriend in Rare Photo - E! Online**
 
-You can read more about it [here](https://www.cbsnews.com/news/michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-tornadoes-reported-several-people-are-killed/).
+You can read more about it [here](https://www.eonline.com/news/1384133/zendaya-proves-tom-holland-is-a-baller-boyfriend-in-rare-photo).
 
 ## Requirements
 - Python 3.8
