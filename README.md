@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693166757)
+![Generated GIF](output.gif?raw=true&v=1693168427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Athletes break out in rashes, fever after Tough Mudder race**
+**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
 
-You can read more about it [here](https://www.foxnews.com/health/athletes-break-rashes-fever-tough-mudder-race).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
 
 ## Requirements
 - Python 3.8
