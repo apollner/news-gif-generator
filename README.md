@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693103679)
+![Generated GIF](output.gif?raw=true&v=1693105654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia hits out at Biden's 'unacceptable' Wagner boss dig at Putin – Ukraine war live**
+**See stunning footage captured by India’s Chandrayaan-3 lunar lander**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399184.html).
+You can read more about it [here](https://www.cnn.com/2023/08/25/world/india-chandrayaan-3-lander-rover-images-scn/index.html).
 
 ## Requirements
 - Python 3.8
