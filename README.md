@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693161304)
+![Generated GIF](output.gif?raw=true&v=1693163091)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Athletes break out in rashes, fever after Tough Mudder race**
+**New crew for the space station launches with 4 astronauts from 4 countries**
 
-You can read more about it [here](https://www.foxnews.com/health/athletes-break-rashes-fever-tough-mudder-race).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/new-crew-space-station-launches-4-astronauts-4-102583145).
 
 ## Requirements
 - Python 3.8
