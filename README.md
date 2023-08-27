@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693163091)
+![Generated GIF](output.gif?raw=true&v=1693164829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New crew for the space station launches with 4 astronauts from 4 countries**
+**Ukrainian pilot who led push for F-16s dies in training exercise**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/new-crew-space-station-launches-4-astronauts-4-102583145).
+You can read more about it [here](https://www.ft.com/content/36f8a478-f29b-4d5a-8c4a-64add04897fd).
 
 ## Requirements
 - Python 3.8
