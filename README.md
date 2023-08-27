@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693136041)
+![Generated GIF](output.gif?raw=true&v=1693138273)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DTE Outages: More than 147K customers without power in SE Michigan**
+**India’s lunar rover goes down a ramp to the moon’s surface and takes a walk**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2023/08/26/dte-outages-more-than-154k-customers-without-power-in-se-michigan/).
+You can read more about it [here](https://www.cnbc.com/2023/08/26/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.html).
 
 ## Requirements
 - Python 3.8
