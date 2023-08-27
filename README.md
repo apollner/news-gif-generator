@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693140293)
+![Generated GIF](output.gif?raw=true&v=1693141574)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fact Check Team: Maui government, residents sue Hawaiian power company over alleged involv**
+**Amid Bethenny Frankel Fight, Bravo Clarifies Claim That Reality Stars Are Being ‘Silenced’ By NDAs (EXCLUSIVE)**
 
-You can read more about it [here](https://thenationaldesk.com/news/fact-check-team/fact-check-team-maui-government-residents-sue-hawaiian-power-company-over-alleged-involvement-in-wildfires-electric-transmission-lines-utility-poles-electricity-litigation-class-action-lawsuit-protocol-shutoff-california-camp-fire).
+You can read more about it [here](https://variety.com/2023/tv/news/bethenny-frankel-reality-star-legal-fight-bravo-response-ndas-1235704905/).
 
 ## Requirements
 - Python 3.8
