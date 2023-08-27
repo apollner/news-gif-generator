@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693138273)
+![Generated GIF](output.gif?raw=true&v=1693140293)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India’s lunar rover goes down a ramp to the moon’s surface and takes a walk**
+**Fact Check Team: Maui government, residents sue Hawaiian power company over alleged involv**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/26/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.html).
+You can read more about it [here](https://thenationaldesk.com/news/fact-check-team/fact-check-team-maui-government-residents-sue-hawaiian-power-company-over-alleged-involvement-in-wildfires-electric-transmission-lines-utility-poles-electricity-litigation-class-action-lawsuit-protocol-shutoff-california-camp-fire).
 
 ## Requirements
 - Python 3.8
