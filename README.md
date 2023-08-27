@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693155903)
+![Generated GIF](output.gif?raw=true&v=1693157636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The ADHD drug market is already stretched thin. Now it's facing a back-to-school supply strain**
+**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/26/adhd-drug-market-back-to-school-supply-strain.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
 
 ## Requirements
 - Python 3.8
