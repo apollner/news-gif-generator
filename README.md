@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693159641)
+![Generated GIF](output.gif?raw=true&v=1693161304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jackson Hole: Fed policy collides with reality in the most unequal county in America**
+**Athletes break out in rashes, fever after Tough Mudder race**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/investing/premarket-stocks-trading/index.html).
+You can read more about it [here](https://www.foxnews.com/health/athletes-break-rashes-fever-tough-mudder-race).
 
 ## Requirements
 - Python 3.8
