@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693148715)
+![Generated GIF](output.gif?raw=true&v=1693150442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump's trial run: How an onslaught of court dates could sideline him from the campaign trail**
+**Take a look at the $63M F-16 fighter jet the West's pledged to Ukraine**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/26/trump-trials-primary-calendar-00113090).
+You can read more about it [here](https://www.businessinsider.com/f-16-fighter-jets-russia-ukraine-war-2023-8).
 
 ## Requirements
 - Python 3.8
