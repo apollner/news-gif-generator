@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693116638)
+![Generated GIF](output.gif?raw=true&v=1693118042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zendaya Proves Tom Holland Is a Baller Boyfriend in Rare Photo - E! Online**
+**Noah Lyles wins sprint double; Sha'Carri Richardson gets bronze in 200**
 
-You can read more about it [here](https://www.eonline.com/news/1384133/zendaya-proves-tom-holland-is-a-baller-boyfriend-in-rare-photo).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2023/08/25/noah-lyles-sprint-double-shacarri-richardson-bronze-200-world-championships/70681320007/).
 
 ## Requirements
 - Python 3.8
