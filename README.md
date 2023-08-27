@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693173915)
+![Generated GIF](output.gif?raw=true&v=1693175635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaii wildfire missing people list includes many who say they're safe**
+**SpaceX's Crew-7 Dragon capsule to dock at ISS with four astronauts aboard. Here's how to watch it live online.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/26/hawaii-wildfire-missing-people-list-includes-many-who-say-theyre-safe/70690347007/).
+You can read more about it [here](https://www.space.com/spacex-crew-7-space-station-docking).
 
 ## Requirements
 - Python 3.8
