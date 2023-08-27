@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693125241)
+![Generated GIF](output.gif?raw=true&v=1693127244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia hits out at Biden's 'unacceptable' Wagner boss dig at Putin – Ukraine war live**
+**NFL Underdog Fantasy Plays for Patriots vs Titans, Chargers vs 49ers Include Elijah Dotson, More**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399184.html).
+You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-underdog-fantasy-plays-for-patriots-vs-titans-chargers-vs-49ers-include-sam-darnold-trey-lance).
 
 ## Requirements
 - Python 3.8
