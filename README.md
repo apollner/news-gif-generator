@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693128819)
+![Generated GIF](output.gif?raw=true&v=1693132463)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Vanderpump Rules’ Stars & Other Reality TV Participants Can Break NDAs To Reveal “Unlawful Acts,” Bravo Says, As Potential Lawsuits Loom**
+**Russia destroys drone near Moscow in latest attack on Russian capital**
 
-You can read more about it [here](https://deadline.com/2023/08/vanderpump-rules-reality-tv-nda-lawsuit-bravo-1235528642/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/26/russia-destroys-drone-near-moscow-in-latest-attack-on-russian-capital).
 
 ## Requirements
 - Python 3.8
