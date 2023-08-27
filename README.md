@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693127244)
+![Generated GIF](output.gif?raw=true&v=1693128819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Underdog Fantasy Plays for Patriots vs Titans, Chargers vs 49ers Include Elijah Dotson, More**
+**‘Vanderpump Rules’ Stars & Other Reality TV Participants Can Break NDAs To Reveal “Unlawful Acts,” Bravo Says, As Potential Lawsuits Loom**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-underdog-fantasy-plays-for-patriots-vs-titans-chargers-vs-49ers-include-sam-darnold-trey-lance).
+You can read more about it [here](https://deadline.com/2023/08/vanderpump-rules-reality-tv-nda-lawsuit-bravo-1235528642/).
 
 ## Requirements
 - Python 3.8
