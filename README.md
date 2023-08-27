@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693109287)
+![Generated GIF](output.gif?raw=true&v=1693110896)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Instacart Files for IPO, Shows Growing Profitability**
+**Talks Between Writers, Studios at a Standstill After Week of Trading Barbs**
 
-You can read more about it [here](https://www.wsj.com/finance/instacart-files-for-ipo-shows-growing-profitability-97027acf).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/writers-studios-standstill-1235575169/).
 
 ## Requirements
 - Python 3.8
