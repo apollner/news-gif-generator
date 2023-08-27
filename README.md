@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693172035)
+![Generated GIF](output.gif?raw=true&v=1693173915)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
+**Hawaii wildfire missing people list includes many who say they're safe**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/26/hawaii-wildfire-missing-people-list-includes-many-who-say-theyre-safe/70690347007/).
 
 ## Requirements
 - Python 3.8
