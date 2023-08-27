@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693096269)
+![Generated GIF](output.gif?raw=true&v=1693100134)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Vivek Ramaswamy, the rising Republican presidential candidate?**
+**Sources: QB Trey Lance dealt from 49ers to Cowboys for 4th-rounder - ESPN**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/25/who-is-vivek-ramaswamy-the-rising-republican-presidential-candidate).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38259989/qb-trey-lance-dealt-49ers-cowboys-4th-rounder).
 
 ## Requirements
 - Python 3.8
