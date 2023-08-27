@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693102556)
+![Generated GIF](output.gif?raw=true&v=1693103679)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fed's Powell: higher rates may be needed, will move 'carefully'**
+**Russia hits out at Biden's 'unacceptable' Wagner boss dig at Putin – Ukraine war live**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-registers-gains-powell-may-take-lay-low-approach-2023-08-25/).
+You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399184.html).
 
 ## Requirements
 - Python 3.8
