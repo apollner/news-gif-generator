@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693152442)
+![Generated GIF](output.gif?raw=true&v=1693154078)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flu shot recommendations from the CDC: 'Vaccination should continue throughout the season'**
+**Where Trey Lance and 49ers rank among worst draft trades in NFL history**
 
-You can read more about it [here](https://www.foxnews.com/health/flu-shot-recommendations-cdc-vaccination-continue-throughout-season).
+You can read more about it [here](https://www.cbssports.com/nfl/news/where-trey-lance-and-49ers-rank-among-worst-draft-trades-in-nfl-history/).
 
 ## Requirements
 - Python 3.8
