@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693119899)
+![Generated GIF](output.gif?raw=true&v=1693121636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Noah Lyles wins sprint double; Sha'Carri Richardson gets bronze in 200**
+**The science behind the Fukushima waste water release**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2023/08/25/noah-lyles-sprint-double-shacarri-richardson-bronze-200-world-championships/70681320007/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66610977).
 
 ## Requirements
 - Python 3.8
