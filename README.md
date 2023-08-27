@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693132463)
+![Generated GIF](output.gif?raw=true&v=1693134298)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia destroys drone near Moscow in latest attack on Russian capital**
+**Higher chance Florida-bound tropical system will form, hurricane center says**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/26/russia-destroys-drone-near-moscow-in-latest-attack-on-russian-capital).
+You can read more about it [here](http://www.orlandosentinel.com/2023/08/25/florida-could-be-in-sights-of-tropical-system-brewing-hurricane-center-says/).
 
 ## Requirements
 - Python 3.8
