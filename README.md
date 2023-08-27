@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693154078)
+![Generated GIF](output.gif?raw=true&v=1693155903)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Where Trey Lance and 49ers rank among worst draft trades in NFL history**
+**The ADHD drug market is already stretched thin. Now it's facing a back-to-school supply strain**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/where-trey-lance-and-49ers-rank-among-worst-draft-trades-in-nfl-history/).
+You can read more about it [here](https://www.cnbc.com/2023/08/26/adhd-drug-market-back-to-school-supply-strain.html).
 
 ## Requirements
 - Python 3.8
