@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693177541)
+![Generated GIF](output.gif?raw=true&v=1693179226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 tweaks to make the most of your Samsung Galaxy Z Fold 5**
+**SpaceX's Crew-7 Dragon capsule to dock at ISS with four astronauts aboard. Here's how to watch it live online.**
 
-You can read more about it [here](https://www.xda-developers.com/five-tweaks-recommend-make-most-galaxy-z-fold-5/).
+You can read more about it [here](https://www.space.com/spacex-crew-7-space-station-docking).
 
 ## Requirements
 - Python 3.8
