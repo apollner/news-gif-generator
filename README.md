@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693260370)
+![Generated GIF](output.gif?raw=true&v=1693262030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UNBELIEVABLE ENDING 😱🚨 CALIFORNIA WINS LLWS WITH WALKOFF HR‼**
+**College student fatally shot in South Carolina after trying to enter wrong house: Police**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0gkGyrulOXU).
+You can read more about it [here](https://abcnews.go.com/US/college-student-fatally-shot-south-carolina-after-enter/story?id=102601998).
 
 ## Requirements
 - Python 3.8
