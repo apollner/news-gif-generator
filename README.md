@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693203100)
+![Generated GIF](output.gif?raw=true&v=1693204503)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thousands gather in Washington D.C. to mark 60th anniversary of MLK's "I Have A Dream" speech**
+**This is Important: GN's Goals, Scope, Approach, & Reporting Stances & Policies**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OwJJt3c7ne8).
+You can read more about it [here](https://www.youtube.com/watch?v=Ot6roLarLHo).
 
 ## Requirements
 - Python 3.8
