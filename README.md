@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693254885)
+![Generated GIF](output.gif?raw=true&v=1693256738)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bob Barker, dapper 'Price Is Right' and 'Truth or Consequences' host and animal advocate, dies at 99**
+**Fed's Powell leaves investors with a cloud of uncertainty. Why the U.S. stock market faces a difficult week ahead.**
 
-You can read more about it [here](https://apnews.com/article/bob-barker-dead-f47644de8696496b980306f4cd6907f4).
+You can read more about it [here](https://www.marketwatch.com/story/fed-powells-ambivalent-stance-leaves-investors-with-a-cloud-of-uncertainty-why-the-u-s-stock-market-faces-a-difficult-week-ahead-e4cdf43e).
 
 ## Requirements
 - Python 3.8
