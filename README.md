@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693217317)
+![Generated GIF](output.gif?raw=true&v=1693218948)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Cuts Tax on Stock Trading to Boost Market Confidence**
+**Honoring the legacy of game show host and activist Bob Barker**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-27/china-cuts-tax-on-stock-trading-to-boost-market-confidence).
+You can read more about it [here](https://www.cnn.com/2023/08/26/us/iyw-bob-barker-legacy-article/index.html).
 
 ## Requirements
 - Python 3.8
