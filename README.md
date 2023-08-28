@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693229637)
+![Generated GIF](output.gif?raw=true&v=1693231573)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Credit Suisse posted $4 billion loss in second quarter, Sonntagszeitung reports**
+**US military personnel in Australia air crash, no deaths reported**
 
-You can read more about it [here](https://www.reuters.com/business/finance/credit-suisse-posted-4-billion-loss-2q-sonntagszeitung-2023-08-27/).
+You can read more about it [here](https://www.reuters.com/world/aircraft-with-us-military-personnel-crashes-australia-defence-ministry-2023-08-27/).
 
 ## Requirements
 - Python 3.8
