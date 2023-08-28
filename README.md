@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693256738)
+![Generated GIF](output.gif?raw=true&v=1693258456)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fed's Powell leaves investors with a cloud of uncertainty. Why the U.S. stock market faces a difficult week ahead.**
+**Zimbabwe opposition cries foul after leader Mnangagwa wins second term**
 
-You can read more about it [here](https://www.marketwatch.com/story/fed-powells-ambivalent-stance-leaves-investors-with-a-cloud-of-uncertainty-why-the-u-s-stock-market-faces-a-difficult-week-ahead-e4cdf43e).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/27/zimbabwe-election-nelson-chamisa-emmerson-mnangagwa/).
 
 ## Requirements
 - Python 3.8
