@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693210255)
+![Generated GIF](output.gif?raw=true&v=1693211674)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers caps brief New York Jets preseason debut with touchdown pass**
+**Are We Watching the End of Russia's Space Ambitions?**
 
-You can read more about it [here](https://www.theguardian.com/sport/2023/aug/26/aaron-rodgers-preseason-new-york-jets-debut).
+You can read more about it [here](https://www.thedailybeast.com/are-we-watching-the-end-of-russias-roscosmos-space-ambitions).
 
 ## Requirements
 - Python 3.8
