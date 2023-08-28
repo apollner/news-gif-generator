@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693226993)
+![Generated GIF](output.gif?raw=true&v=1693228254)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sixty years after the March on Washington, attendees renew the call for King's "dream"**
+**SpaceX Falcon 9 launches 22 Starlink satellites from Cape Canaveral – Spaceflight Now**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/us/march-on-washington-sixtieth-anniversary/index.html).
+You can read more about it [here](https://spaceflightnow.com/2023/08/26/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-cape-canaveral/).
 
 ## Requirements
 - Python 3.8
