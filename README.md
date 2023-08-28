@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693206409)
+![Generated GIF](output.gif?raw=true&v=1693210255)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA astronaut and 3 international crewmates blast off and head for space station**
+**Aaron Rodgers caps brief New York Jets preseason debut with touchdown pass**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-astronaut-and-three-international-crewmates-blast-off-head-for-space-station/).
+You can read more about it [here](https://www.theguardian.com/sport/2023/aug/26/aaron-rodgers-preseason-new-york-jets-debut).
 
 ## Requirements
 - Python 3.8
