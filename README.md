@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693238967)
+![Generated GIF](output.gif?raw=true&v=1693242306)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weekly Horoscopes for the Week of August 28 by the Cut**
+**Ramaswamy doubles down on calling Pressley part of 'modern KKK'**
 
-You can read more about it [here](http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-28-by-the-cut.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/27/ramaswamy-pressley-modern-kkk-00113122).
 
 ## Requirements
 - Python 3.8
