@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693192263)
+![Generated GIF](output.gif?raw=true&v=1693193667)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bob Barker, dapper 'Price Is Right' and 'Truth or Consequences' host and animal advocate, dies at 99**
+**Arrests made, firearms recovered after 8 shot in Dorchester**
 
-You can read more about it [here](https://apnews.com/article/bob-barker-dead-f47644de8696496b980306f4cd6907f4).
+You can read more about it [here](https://www.boston25news.com/news/local/four-arrests-made-firearms-recovered-after-8-shot-dorchester/QJSODZXAH5B27MM6UOUCBZZEXU/).
 
 ## Requirements
 - Python 3.8
