@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693251252)
+![Generated GIF](output.gif?raw=true&v=1693253220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bob Barker, dapper 'Price Is Right' and 'Truth or Consequences' host and animal advocate, dies at 99**
+**The only Blue Moon of 2023 rises this week**
 
-You can read more about it [here](https://apnews.com/article/bob-barker-dead-f47644de8696496b980306f4cd6907f4).
+You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-one-week-away).
 
 ## Requirements
 - Python 3.8
