@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693182620)
+![Generated GIF](output.gif?raw=true&v=1693186372)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Depression 10: Track and spaghetti models**
+**Bob Barker, dapper 'Price Is Right' and 'Truth or Consequences' host and animal advocate, dies at 99**
 
-You can read more about it [here](https://www.wyff4.com/article/tropical-depression-10-idalia-track/44917770).
+You can read more about it [here](https://apnews.com/article/bob-barker-dead-f47644de8696496b980306f4cd6907f4).
 
 ## Requirements
 - Python 3.8
