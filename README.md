@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693231573)
+![Generated GIF](output.gif?raw=true&v=1693233241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US military personnel in Australia air crash, no deaths reported**
+**Ramaswamy doubles down on calling Pressley part of 'modern KKK'**
 
-You can read more about it [here](https://www.reuters.com/world/aircraft-with-us-military-personnel-crashes-australia-defence-ministry-2023-08-27/).
+You can read more about it [here](https://www.politico.com/news/2023/08/27/ramaswamy-pressley-modern-kkk-00113122).
 
 ## Requirements
 - Python 3.8
