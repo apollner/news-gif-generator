@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693246189)
+![Generated GIF](output.gif?raw=true&v=1693247652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Idalia could threaten the Gulf Coast and Florida this week**
+**The Fulton County charges against Donald Trump face a major test Monday. Here's what to watch for**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/weather/tropical-depression-storm-gulf-climate-sunday/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/27/politics/trump-meadows-georgia-hearing/index.html).
 
 ## Requirements
 - Python 3.8
