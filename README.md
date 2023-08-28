@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693222447)
+![Generated GIF](output.gif?raw=true&v=1693224793)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wagner boss Prigozhin confirmed dead in plane crash - Moscow**
+**The 'Fidelity Mafia' Behind Big Crypto - WSJ**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66632924).
+You can read more about it [here](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e).
 
 ## Requirements
 - Python 3.8
