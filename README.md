@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693228254)
+![Generated GIF](output.gif?raw=true&v=1693229637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon 9 launches 22 Starlink satellites from Cape Canaveral – Spaceflight Now**
+**Credit Suisse posted $4 billion loss in second quarter, Sonntagszeitung reports**
 
-You can read more about it [here](https://spaceflightnow.com/2023/08/26/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-cape-canaveral/).
+You can read more about it [here](https://www.reuters.com/business/finance/credit-suisse-posted-4-billion-loss-2q-sonntagszeitung-2023-08-27/).
 
 ## Requirements
 - Python 3.8
