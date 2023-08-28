@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693213719)
+![Generated GIF](output.gif?raw=true&v=1693215243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump scores huge mug shot windfall**
+**College football Week 0 winners, losers: USC, Notre Dame, UMass, Navy**
 
-You can read more about it [here](https://www.axios.com/2023/08/27/trump-campaign-fundraising-mug-shot).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/08/27/college-football-week-0-winners-losers-usc-notre-dame-navy/70692458007/).
 
 ## Requirements
 - Python 3.8
