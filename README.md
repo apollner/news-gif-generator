@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693197240)
+![Generated GIF](output.gif?raw=true&v=1693199210)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin orders Wagner fighters to sign oath of allegiance after Prigozhin death – live**
+**Thousands gather in Washington D.C. to mark 60th anniversary of MLK's "I Have A Dream" speech**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399927.html).
+You can read more about it [here](https://www.youtube.com/watch?v=OwJJt3c7ne8).
 
 ## Requirements
 - Python 3.8
