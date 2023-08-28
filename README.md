@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693235294)
+![Generated GIF](output.gif?raw=true&v=1693236867)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lionel Messi scores on his MLS debut for Inter Miami**
+**Tropical Storm Idalia heading toward Florida, US NHC says**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/sport/lionel-messi-goal-mls-debut-inter-miami-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/tropical-storm-idalia-heading-toward-florida-us-nhc-says-2023-08-27/).
 
 ## Requirements
 - Python 3.8
