@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693195788)
+![Generated GIF](output.gif?raw=true&v=1693197240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup win kiss**
+**Putin orders Wagner fighters to sign oath of allegiance after Prigozhin death – live**
 
-You can read more about it [here](https://ktla.com/sports/ap-sports/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/).
+You can read more about it [here](https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399927.html).
 
 ## Requirements
 - Python 3.8
