@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693215243)
+![Generated GIF](output.gif?raw=true&v=1693217317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 0 winners, losers: USC, Notre Dame, UMass, Navy**
+**China Cuts Tax on Stock Trading to Boost Market Confidence**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/08/27/college-football-week-0-winners-losers-usc-notre-dame-navy/70692458007/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-27/china-cuts-tax-on-stock-trading-to-boost-market-confidence).
 
 ## Requirements
 - Python 3.8
