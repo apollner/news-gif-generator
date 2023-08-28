@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693247652)
+![Generated GIF](output.gif?raw=true&v=1693249491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Fulton County charges against Donald Trump face a major test Monday. Here's what to watch for**
+**Russia says genetic tests confirm Prigozhin died in plane crash**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/politics/trump-meadows-georgia-hearing/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/russias-investigators-confirm-wagner-mercenary-chief-prigozhin-died-plane-crash-2023-08-27/).
 
 ## Requirements
 - Python 3.8
