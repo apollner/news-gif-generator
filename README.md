@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693337635)
+![Generated GIF](output.gif?raw=true&v=1693339613)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida fire rescue helicopter crashes into apartment complex, 2 dead**
+**What time is the Super Blue Moon of 2023?**
 
-You can read more about it [here](https://abcnews.go.com/US/fire-rescue-helicopter-crashes-florida-2-hospitalized/story?id=102617239).
+You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-what-time).
 
 ## Requirements
 - Python 3.8
