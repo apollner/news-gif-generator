@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693335908)
+![Generated GIF](output.gif?raw=true&v=1693337635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dolby Atmos will use your TV to expand living room speaker setups**
+**Florida fire rescue helicopter crashes into apartment complex, 2 dead**
 
-You can read more about it [here](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html).
+You can read more about it [here](https://abcnews.go.com/US/fire-rescue-helicopter-crashes-florida-2-hospitalized/story?id=102617239).
 
 ## Requirements
 - Python 3.8
