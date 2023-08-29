@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693280049)
+![Generated GIF](output.gif?raw=true&v=1693282186)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Adele Stops Las Vegas Show to Scold Security for “Bothering” a Fan: “Leave Him Alone”**
+**Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/adele-stops-las-vegas-show-scold-security-bothering-fane-1235575779/).
+You can read more about it [here](https://news.yahoo.com/japanese-nuclear-plant-controversial-treated-143448442.html).
 
 ## Requirements
 - Python 3.8
