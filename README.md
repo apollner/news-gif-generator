@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693308845)
+![Generated GIF](output.gif?raw=true&v=1693311166)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 things to know before the stock market opens Monday**
+**'Every flight is a learning event': why the V-22 Osprey aircraft won't be grounded despite dozens of crashes and 54 fatalities**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/28/5-things-to-know-before-the-stock-market-opens-monday-august-28.html).
+You can read more about it [here](https://theconversation.com/every-flight-is-a-learning-event-why-the-v-22-osprey-aircraft-wont-be-grounded-despite-dozens-of-crashes-and-54-fatalities-212358).
 
 ## Requirements
 - Python 3.8
