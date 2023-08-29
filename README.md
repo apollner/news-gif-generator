@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693328759)
+![Generated GIF](output.gif?raw=true&v=1693330439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PFF Team of the 2023 NFL Preseason & Player Awards | NFL News, Rankings and Statistics**
+**iPhone 15 Pro Max Shipments to Apple Expected to Ramp Up This Week**
 
-You can read more about it [here](https://www.pff.com/news/nfl-preseason-pff-team-of-the-preseason-player-awards-2023).
+You can read more about it [here](https://www.macrumors.com/2023/08/28/iphone-15-pro-max-mass-shipments/).
 
 ## Requirements
 - Python 3.8
