@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693282186)
+![Generated GIF](output.gif?raw=true&v=1693283654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater**
+**Simone Biles: the GOAT cruises to record-smashing EIGHTH National Championship | NBC Sports**
 
-You can read more about it [here](https://news.yahoo.com/japanese-nuclear-plant-controversial-treated-143448442.html).
+You can read more about it [here](https://www.youtube.com/watch?v=QQYoRoOQyvA).
 
 ## Requirements
 - Python 3.8
