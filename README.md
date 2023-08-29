@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693334052)
+![Generated GIF](output.gif?raw=true&v=1693335908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Analogue is making a “highly limited” Pocket that glows in the dark**
+**Dolby Atmos will use your TV to expand living room speaker setups**
 
-You can read more about it [here](https://www.theverge.com/2023/8/28/23848739/analogue-pocket-glow-in-the-dark-preorders).
+You can read more about it [here](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html).
 
 ## Requirements
 - Python 3.8
