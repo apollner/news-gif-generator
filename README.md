@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693321630)
+![Generated GIF](output.gif?raw=true&v=1693323253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mark Meadows Heads to Court in Early Test for District Attorney Fani Willis**
+**iPhone 15 Pro Max starting 'mass shipments' this week, says Kuo**
 
-You can read more about it [here](https://www.wsj.com/us-news/law/mark-meadows-heads-to-court-in-early-test-for-district-attorney-fani-willis-aa42a7f7).
+You can read more about it [here](https://9to5mac.com/2023/08/28/iphone-15-pro-max-shipments/).
 
 ## Requirements
 - Python 3.8
