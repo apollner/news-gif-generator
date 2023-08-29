@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693290909)
+![Generated GIF](output.gif?raw=true&v=1693292750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Sister Wives' star Kody Brown calls Christine Brown 'Machiavellian'**
+**3 U.S. Marines killed in Osprey aircraft crash in Australia**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-calls-christine-brown-machiavellian-2023-8).
+You can read more about it [here](https://www.cbsnews.com/news/marines-killed-osprey-aircraft-crash-australia/).
 
 ## Requirements
 - Python 3.8
