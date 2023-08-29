@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693278003)
+![Generated GIF](output.gif?raw=true&v=1693278810)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California's Louis Lappe launches walk-off HR to win LLBWS - ESPN**
+**‘Hannah Montana’ Alum Mitchel Musso Arrested For Public Intoxication & Theft, Report**
 
-You can read more about it [here](https://www.espn.com/espn/story/_/id/38272957/california-louis-lappe-launches-walk-hr-win-llws).
+You can read more about it [here](https://deadline.com/2023/08/hannah-montana-mitchel-musso-arrested-report-1235529197/).
 
 ## Requirements
 - Python 3.8
