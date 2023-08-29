@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693346758)
+![Generated GIF](output.gif?raw=true&v=1693348448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin, stained by Prigozhin's death, faces calls for military funeral**
+**Google announces new $1.7 billion investment in Ohio**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/28/prigozhin-putin-state-funeral-wagner/).
+You can read more about it [here](https://www.dispatch.com/story/business/economy/2023/08/28/google-to-announce-new-ohio-investment-on-monday/70680474007/).
 
 ## Requirements
 - Python 3.8
