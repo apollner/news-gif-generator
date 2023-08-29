@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693285572)
+![Generated GIF](output.gif?raw=true&v=1693287244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Adele Stops Las Vegas Show to Scold Security for “Bothering” a Fan: “Leave Him Alone”**
+**iPad Pro looks set for first major update since 2018**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/adele-stops-las-vegas-show-scold-security-bothering-fane-1235575779/).
+You can read more about it [here](https://www.digitaltrends.com/mobile/ipad-pro-looks-set-for-first-major-update-in-five-years/).
 
 ## Requirements
 - Python 3.8
