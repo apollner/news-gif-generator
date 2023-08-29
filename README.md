@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693344857)
+![Generated GIF](output.gif?raw=true&v=1693346758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon raises free shipping minimum to $35 for some users**
+**Putin, stained by Prigozhin's death, faces calls for military funeral**
 
-You can read more about it [here](https://www.theverge.com/2023/8/28/23849452/amazon-prime-free-shipping-minimum-order-price-increase).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/28/prigozhin-putin-state-funeral-wagner/).
 
 ## Requirements
 - Python 3.8
