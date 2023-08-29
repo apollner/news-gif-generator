@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693327112)
+![Generated GIF](output.gif?raw=true&v=1693328759)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4 injured when a fire rescue helicopter crashes in Pompano Beach, Florida**
+**PFF Team of the 2023 NFL Preseason & Player Awards | NFL News, Rankings and Statistics**
 
-You can read more about it [here](https://www.cnn.com/2023/08/28/us/helicopter-crash-pompano-beach-florida/index.html).
+You can read more about it [here](https://www.pff.com/news/nfl-preseason-pff-team-of-the-preseason-player-awards-2023).
 
 ## Requirements
 - Python 3.8
