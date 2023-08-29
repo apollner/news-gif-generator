@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693292750)
+![Generated GIF](output.gif?raw=true&v=1693294438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 U.S. Marines killed in Osprey aircraft crash in Australia**
+**'Hannah Montana' actor Mitchel Musso arrested on charges of public intoxication, theft**
 
-You can read more about it [here](https://www.cbsnews.com/news/marines-killed-osprey-aircraft-crash-australia/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/27/mitchel-musso-arrest-public-intoxication-hannah-montana/70696668007/).
 
 ## Requirements
 - Python 3.8
