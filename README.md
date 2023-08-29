@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693266192)
+![Generated GIF](output.gif?raw=true&v=1693268976)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jacksonville gunman in racially motivated attack legally bought two weapons earlier this year, sheriff says**
+**Zimbabwe opposition cries foul after leader Mnangagwa wins second term**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/us/jacksonville-florida-shooting-sunday/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/27/zimbabwe-election-nelson-chamisa-emmerson-mnangagwa/).
 
 ## Requirements
 - Python 3.8
