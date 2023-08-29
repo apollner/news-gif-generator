@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693319636)
+![Generated GIF](output.gif?raw=true&v=1693321630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mississippi alligator hunters catch 14-foot, 800-pound state record**
+**Mark Meadows Heads to Court in Early Test for District Attorney Fani Willis**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/28/massive-alligator-captured-mississippi-breaks-record/70697288007/).
+You can read more about it [here](https://www.wsj.com/us-news/law/mark-meadows-heads-to-court-in-early-test-for-district-attorney-fani-willis-aa42a7f7).
 
 ## Requirements
 - Python 3.8
