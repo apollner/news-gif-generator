@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693276515)
+![Generated GIF](output.gif?raw=true&v=1693278003)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saints vs. Texans odds, spread, line: 2023 NFL preseason Week 3 picks, predictions from expert on 44-29 roll**
+**California's Louis Lappe launches walk-off HR to win LLBWS - ESPN**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saints-vs-texans-odds-spread-line-2023-nfl-preseason-week-3-picks-predictions-from-expert-on-44-29-roll/).
+You can read more about it [here](https://www.espn.com/espn/story/_/id/38272957/california-louis-lappe-launches-walk-hr-win-llws).
 
 ## Requirements
 - Python 3.8
