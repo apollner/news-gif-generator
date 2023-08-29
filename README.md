@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693330439)
+![Generated GIF](output.gif?raw=true&v=1693332624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15 Pro Max Shipments to Apple Expected to Ramp Up This Week**
+**Estimated Lifetime Gained With Cancer Screening Tests: A Meta-Analysis of Randomized Clinical Trials | Cancer Screening, Prevention, Control | JAMA Internal Medicine**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/28/iphone-15-pro-max-mass-shipments/).
+You can read more about it [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2808648).
 
 ## Requirements
 - Python 3.8
