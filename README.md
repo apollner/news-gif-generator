@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693339613)
+![Generated GIF](output.gif?raw=true&v=1693341235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What time is the Super Blue Moon of 2023?**
+**'Hannah Montana's Mitchel Musso arrested for public intoxication**
 
-You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-what-time).
+You can read more about it [here](https://www.nydailynews.com/snyde/ny-hannah-montana-star-mitchel-musso-arrested-public-intoxication-20230828-vkzgqto66ree7pxoze37pk5se4-story.html).
 
 ## Requirements
 - Python 3.8
