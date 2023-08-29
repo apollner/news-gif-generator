@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693314674)
+![Generated GIF](output.gif?raw=true&v=1693316048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Korea’s seafood sellers reel as science fails to ease Fukushima fears**
+**iPhone 14 Pro Max tops global smartphone shipments as people shun budget phones for top-end devices**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2023/8/28/south-koreas-seafood-sellers-reel-as-science-fails-to-ease-fukushima-fears).
+You can read more about it [here](https://www.cnbc.com/2023/08/28/apple-iphone-14-pro-max-tops-smartphone-shipments-globally-omdia-says.html).
 
 ## Requirements
 - Python 3.8
