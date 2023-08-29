@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693325371)
+![Generated GIF](output.gif?raw=true&v=1693327112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google might recreate Apple's satellite SOS on Android**
+**4 injured when a fire rescue helicopter crashes in Pompano Beach, Florida**
 
-You can read more about it [here](https://www.theverge.com/2023/8/28/23848719/google-messages-satellite-emergency-services-garmin-rumor).
+You can read more about it [here](https://www.cnn.com/2023/08/28/us/helicopter-crash-pompano-beach-florida/index.html).
 
 ## Requirements
 - Python 3.8
