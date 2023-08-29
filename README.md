@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693317962)
+![Generated GIF](output.gif?raw=true&v=1693319636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horrifying moment Florida air rescue helicopter falls out of the sky and crashes into apartments near a school**
+**Mississippi alligator hunters catch 14-foot, 800-pound state record**
 
-You can read more about it [here](https://www.dailymail.co.uk/news/article-12453331/Air-rescue-helicopter-crashes-apartment-building-Florida-losing-tail.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/28/massive-alligator-captured-mississippi-breaks-record/70697288007/).
 
 ## Requirements
 - Python 3.8
