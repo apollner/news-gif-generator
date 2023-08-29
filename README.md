@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693287244)
+![Generated GIF](output.gif?raw=true&v=1693289416)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPad Pro looks set for first major update since 2018**
+**Asia shares rally as China measures boost market**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/ipad-pro-looks-set-for-first-major-update-in-five-years/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-28/).
 
 ## Requirements
 - Python 3.8
