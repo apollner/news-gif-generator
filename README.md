@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693348448)
+![Generated GIF](output.gif?raw=true&v=1693350286)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google announces new $1.7 billion investment in Ohio**
+**Federal judge sets Trump trial date in election interference case**
 
-You can read more about it [here](https://www.dispatch.com/story/business/economy/2023/08/28/google-to-announce-new-ohio-investment-on-monday/70680474007/).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/federal-judge-set-trump-trial-date-election-interference-case-rcna101669).
 
 ## Requirements
 - Python 3.8
