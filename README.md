@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693313376)
+![Generated GIF](output.gif?raw=true&v=1693314674)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 Things People On Ozempic Or Wegovy Wish You'd Stop Believing**
+**South Korea’s seafood sellers reel as science fails to ease Fukushima fears**
 
-You can read more about it [here](https://www.huffpost.com/entry/ozempic-wegovy-what-to-know_l_64e3dd19e4b0306c321b1156).
+You can read more about it [here](https://www.aljazeera.com/economy/2023/8/28/south-koreas-seafood-sellers-reel-as-science-fails-to-ease-fukushima-fears).
 
 ## Requirements
 - Python 3.8
