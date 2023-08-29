@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693332624)
+![Generated GIF](output.gif?raw=true&v=1693334052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Estimated Lifetime Gained With Cancer Screening Tests: A Meta-Analysis of Randomized Clinical Trials | Cancer Screening, Prevention, Control | JAMA Internal Medicine**
+**Analogue is making a “highly limited” Pocket that glows in the dark**
 
-You can read more about it [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2808648).
+You can read more about it [here](https://www.theverge.com/2023/8/28/23848739/analogue-pocket-glow-in-the-dark-preorders).
 
 ## Requirements
 - Python 3.8
