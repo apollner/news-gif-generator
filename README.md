@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693311166)
+![Generated GIF](output.gif?raw=true&v=1693313376)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Every flight is a learning event': why the V-22 Osprey aircraft won't be grounded despite dozens of crashes and 54 fatalities**
+**5 Things People On Ozempic Or Wegovy Wish You'd Stop Believing**
 
-You can read more about it [here](https://theconversation.com/every-flight-is-a-learning-event-why-the-v-22-osprey-aircraft-wont-be-grounded-despite-dozens-of-crashes-and-54-fatalities-212358).
+You can read more about it [here](https://www.huffpost.com/entry/ozempic-wegovy-what-to-know_l_64e3dd19e4b0306c321b1156).
 
 ## Requirements
 - Python 3.8
