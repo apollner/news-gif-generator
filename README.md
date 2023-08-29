@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693268976)
+![Generated GIF](output.gif?raw=true&v=1693272808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zimbabwe opposition cries foul after leader Mnangagwa wins second term**
+**Thousands lose power as cold front brings wind gusts to Central Texas**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/27/zimbabwe-election-nelson-chamisa-emmerson-mnangagwa/).
+You can read more about it [here](https://www.kvue.com/article/news/local/sunday-power-outages-cold-front/269-fbc8ae7b-a859-4c25-8738-d2a6ca0aed4e).
 
 ## Requirements
 - Python 3.8
