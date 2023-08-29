@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693283654)
+![Generated GIF](output.gif?raw=true&v=1693285572)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Simone Biles: the GOAT cruises to record-smashing EIGHTH National Championship | NBC Sports**
+**Adele Stops Las Vegas Show to Scold Security for “Bothering” a Fan: “Leave Him Alone”**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QQYoRoOQyvA).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/adele-stops-las-vegas-show-scold-security-bothering-fane-1235575779/).
 
 ## Requirements
 - Python 3.8
