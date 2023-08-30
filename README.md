@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693386412)
+![Generated GIF](output.gif?raw=true&v=1693388075)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Still alive and wriggling:' Doctors remove 3-inch parasitic worm from woman's brain in world first**
+**Coco Gauff gets US Open first round win over Laura Siegemund**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/australia/australia-parasitic-worm-brain-scn-intl-hnk/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/tennis/2023/08/28/coco-gauff-gets-us-open-first-round-win-over-laura-siegemund/70704578007/).
 
 ## Requirements
 - Python 3.8
