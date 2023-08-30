@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693375843)
+![Generated GIF](output.gif?raw=true&v=1693377282)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis booed at Jacksonville vigil after 3 killed in 'racially motivated' shooting**
+**UNC-Chapel Hill faculty member killed in shooting, sparking campus lockdown**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/jacksonville-shooting-florida-racism-dollar-general-b2400780.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/28/unc-shooting-faculty-member-killed/).
 
 ## Requirements
 - Python 3.8
