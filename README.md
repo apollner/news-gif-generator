@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693422315)
+![Generated GIF](output.gif?raw=true&v=1693424046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prigozhin buried in private funeral - Wagner chief's press service**
+**Here are the three most used drugs on the Medicare price negotiation list**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66649570).
+You can read more about it [here](https://www.cnbc.com/2023/08/29/most-used-drugs-on-medicare-price-negotiation-list-see-the-top-three.html).
 
 ## Requirements
 - Python 3.8
