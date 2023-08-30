@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693365028)
+![Generated GIF](output.gif?raw=true&v=1693366441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wall Street ends higher as investors await US inflation, jobs data**
+**‘The Idol’ Canceled: Controversial Series From Sam Levinson and the Weeknd Won’t Get Season 2**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-higher-focus-shifts-inflation-jobs-data-2023-08-28/).
+You can read more about it [here](https://variety.com/2023/tv/news/the-idol-canceled-the-weeknd-hbo-season-2-1235706540/).
 
 ## Requirements
 - Python 3.8
