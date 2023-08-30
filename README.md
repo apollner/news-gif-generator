@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693434861)
+![Generated GIF](output.gif?raw=true&v=1693438443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patriots waive backup QBs Bailey Zappe, Malik Cunningham in surprising cutdown day cuts**
+**Greece struggles to contain Europe's largest wildfire on record**
 
-You can read more about it [here](https://www.nfl.com/news/patriots-waive-backup-qbs-bailey-zappe-malik-cunningham-in-surprising-cutdown-da).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/29/greece-wildfire-largest-recorded-europe/).
 
 ## Requirements
 - Python 3.8
