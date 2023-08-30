@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693362838)
+![Generated GIF](output.gif?raw=true&v=1693365028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ULA delays Atlas V launch to roll the rocket back ahead of Tropical Storm Idalia**
+**Wall Street ends higher as investors await US inflation, jobs data**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/28/tropical-storm-idalia-united-launch-alliance-rocket-atlas-v-cape-canaveral-space-force-nro-florida/70695897007/).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-higher-focus-shifts-inflation-jobs-data-2023-08-28/).
 
 ## Requirements
 - Python 3.8
