@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693427630)
+![Generated GIF](output.gif?raw=true&v=1693429544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bob Dylan Gave Post Malone Some Lyrics to Record. Then Things Got Weird**
+**WATCH: Fireball in sky caught on police bodycam**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-features/bob-dylan-post-malone-collaboration-1234813148/).
+You can read more about it [here](https://fox8.com/news/watch-fireball-in-sky-caught-on-police-bodycam/).
 
 ## Requirements
 - Python 3.8
