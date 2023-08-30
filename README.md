@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693397565)
+![Generated GIF](output.gif?raw=true&v=1693399786)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The rare Super Blue Moon rises on Aug. 30 and you can watch it online for free**
+**Spanish football federation now calls for resignation of its president Luis Rubiales | DW News**
 
-You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-livestream).
+You can read more about it [here](https://www.youtube.com/watch?v=Blt7XagFMvM).
 
 ## Requirements
 - Python 3.8
