@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693418987)
+![Generated GIF](output.gif?raw=true&v=1693420466)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former 'Bachelorette' Contestant Josh Seiter Dead at 36 After Discussing Mental Health Struggles**
+**Tracking all of the big NFL cuts and trades, plus Bills lead way as we unveil our All-AFC East team**
 
-You can read more about it [here](https://people.com/former-bachelorette-contestant-josh-seiter-dead-at-36-7910779).
+You can read more about it [here](https://www.cbssports.com/nfl/news/tracking-all-of-the-big-nfl-cuts-and-trades-plus-bills-lead-way-as-we-unveil-our-all-afc-east-team/).
 
 ## Requirements
 - Python 3.8
