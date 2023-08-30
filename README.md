@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693368567)
+![Generated GIF](output.gif?raw=true&v=1693370038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerful quake and aftershocks rock Indonesia's Bali and Java islands. No casualties reported**
+**US spy satellite agency isn't so silent about new “Silent Barker” mission**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/powerful-earthquakes-rock-indonesias-bali-java-islands-casualties-102631451).
+You can read more about it [here](https://arstechnica.com/space/2023/08/us-spy-satellite-agency-isnt-so-silent-about-new-silent-barker-mission/).
 
 ## Requirements
 - Python 3.8
