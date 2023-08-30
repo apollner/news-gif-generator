@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693415124)
+![Generated GIF](output.gif?raw=true&v=1693416814)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bills LB Von Miller to begin 2023 NFL season on PUP, out at least four games**
+**More than 60 people arrested at a gay wedding in southern Nigeria**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9iaWxscy1sYi12b24tbWlsbGVyLXRvLWJlZ2luLTIwMjMtbmZsLXNlYXNvbi1vbi1wdXAtb3V0LWF0LWxlYXN0LWZvdXItZ2FtZXPSAQA?oc=5).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
 
 ## Requirements
 - Python 3.8
