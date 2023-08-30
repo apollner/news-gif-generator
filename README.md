@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693371986)
+![Generated GIF](output.gif?raw=true&v=1693373683)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ESPN’s Dan Orlovsky Talks Trey Lance, Dak, Rodgers, Jags & More with Rich Eisen | Full Interview**
+**Browns acquire kicker Dustin Hopkins from Chargers: Why both teams made the trade**
 
-You can read more about it [here](https://www.youtube.com/watch?v=niWCNmS8Pgk).
+You can read more about it [here](https://theathletic.com/4813005/2023/08/28/dustin-hopkins-trade-chargers-browns/).
 
 ## Requirements
 - Python 3.8
