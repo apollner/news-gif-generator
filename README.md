@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693416814)
+![Generated GIF](output.gif?raw=true&v=1693418987)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 60 people arrested at a gay wedding in southern Nigeria**
+**Former 'Bachelorette' Contestant Josh Seiter Dead at 36 After Discussing Mental Health Struggles**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
+You can read more about it [here](https://people.com/former-bachelorette-contestant-josh-seiter-dead-at-36-7910779).
 
 ## Requirements
 - Python 3.8
