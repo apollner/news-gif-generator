@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693393529)
+![Generated GIF](output.gif?raw=true&v=1693395241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RFEF regional leaders request Luis Rubiales to resign as president after Jenni Hermoso kiss**
+**Stock Market Today: Dow Futures Hover -- Live Updates**
 
-You can read more about it [here](https://theathletic.com/4812462/2023/08/28/luis-rubiales-spain-fa-resign/).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-29-2023).
 
 ## Requirements
 - Python 3.8
