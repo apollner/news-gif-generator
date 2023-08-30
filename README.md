@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693379201)
+![Generated GIF](output.gif?raw=true&v=1693380841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justice Amy Coney Barrett says she welcomes public scrutiny of Supreme Court**
+**Browns acquire kicker Dustin Hopkins from Chargers: Why both teams made the trade**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/28/justice-amy-coney-barrett-says-she-welcomes-public-scrutiny-of-supreme-court-00113269).
+You can read more about it [here](https://theathletic.com/4813005/2023/08/28/dustin-hopkins-trade-chargers-browns/).
 
 ## Requirements
 - Python 3.8
