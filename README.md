@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693408026)
+![Generated GIF](output.gif?raw=true&v=1693409627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dow Jones Futures Fall Amid Key Economic Data; Nio Skids, Pinduoduo Soars On Earnings**
+**What to Expect From the Next iPad Mini, iPad Air, and Entry-Level iPad**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-economic-data-nio-stock-skids-pinduoduo-soars-on-earnings/).
+You can read more about it [here](https://www.macrumors.com/2023/08/29/what-to-expect-from-next-ipad-mini-and-air/).
 
 ## Requirements
 - Python 3.8
