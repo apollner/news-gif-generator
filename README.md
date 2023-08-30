@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693373683)
+![Generated GIF](output.gif?raw=true&v=1693375843)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Browns acquire kicker Dustin Hopkins from Chargers: Why both teams made the trade**
+**DeSantis booed at Jacksonville vigil after 3 killed in 'racially motivated' shooting**
 
-You can read more about it [here](https://theathletic.com/4813005/2023/08/28/dustin-hopkins-trade-chargers-browns/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/jacksonville-shooting-florida-racism-dollar-general-b2400780.html).
 
 ## Requirements
 - Python 3.8
