@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693395241)
+![Generated GIF](output.gif?raw=true&v=1693397565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow Futures Hover -- Live Updates**
+**The rare Super Blue Moon rises on Aug. 30 and you can watch it online for free**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-29-2023).
+You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-livestream).
 
 ## Requirements
 - Python 3.8
