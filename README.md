@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693352040)
+![Generated GIF](output.gif?raw=true&v=1693355367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**APH: 33% increase in COVID-19 cases in past week as new strain emerges nationally**
+**DeSantis booed at Jacksonville vigil after 3 killed in 'racially motivated' shooting**
 
-You can read more about it [here](https://www.kxan.com/news/coronavirus/aph-33-increase-in-covid-19-cases-in-past-week-as-new-strain-emerges-nationally/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/jacksonville-shooting-florida-racism-dollar-general-b2400780.html).
 
 ## Requirements
 - Python 3.8
