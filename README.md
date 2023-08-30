@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693377282)
+![Generated GIF](output.gif?raw=true&v=1693379201)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UNC-Chapel Hill faculty member killed in shooting, sparking campus lockdown**
+**Justice Amy Coney Barrett says she welcomes public scrutiny of Supreme Court**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/28/unc-shooting-faculty-member-killed/).
+You can read more about it [here](https://www.politico.com/news/2023/08/28/justice-amy-coney-barrett-says-she-welcomes-public-scrutiny-of-supreme-court-00113269).
 
 ## Requirements
 - Python 3.8
