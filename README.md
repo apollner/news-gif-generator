@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693433159)
+![Generated GIF](output.gif?raw=true&v=1693434861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge who'll decide future of Mark Meadows' Georgia trial asks both sides for additional briefing**
+**Patriots waive backup QBs Bailey Zappe, Malik Cunningham in surprising cutdown day cuts**
 
-You can read more about it [here](https://abcnews.go.com/US/defendant-georgia-election-case-pleads-guilty-ahead-scheduled/story?id=102644771).
+You can read more about it [here](https://www.nfl.com/news/patriots-waive-backup-qbs-bailey-zappe-malik-cunningham-in-surprising-cutdown-da).
 
 ## Requirements
 - Python 3.8
