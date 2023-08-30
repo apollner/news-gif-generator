@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693401041)
+![Generated GIF](output.gif?raw=true&v=1693402439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nathaniel Lowe hits go-ahead single in Rangers' comeback win**
+**AI images are getting harder to spot. Google thinks it has a solution.**
 
-You can read more about it [here](https://www.mlb.com/news/nathaniel-lowe-hits-go-ahead-single-in-rangers-comeback-win).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/).
 
 ## Requirements
 - Python 3.8
