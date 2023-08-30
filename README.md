@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693429544)
+![Generated GIF](output.gif?raw=true&v=1693431239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WATCH: Fireball in sky caught on police bodycam**
+**Judge who'll decide future of Mark Meadows' Georgia trial asks both sides for additional briefing**
 
-You can read more about it [here](https://fox8.com/news/watch-fireball-in-sky-caught-on-police-bodycam/).
+You can read more about it [here](https://abcnews.go.com/US/defendant-georgia-election-case-pleads-guilty-ahead-scheduled/story?id=102644771).
 
 ## Requirements
 - Python 3.8
