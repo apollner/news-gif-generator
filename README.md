@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693399786)
+![Generated GIF](output.gif?raw=true&v=1693401041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spanish football federation now calls for resignation of its president Luis Rubiales | DW News**
+**Nathaniel Lowe hits go-ahead single in Rangers' comeback win**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Blt7XagFMvM).
+You can read more about it [here](https://www.mlb.com/news/nathaniel-lowe-hits-go-ahead-single-in-rangers-comeback-win).
 
 ## Requirements
 - Python 3.8
