@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693370038)
+![Generated GIF](output.gif?raw=true&v=1693371986)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US spy satellite agency isn't so silent about new “Silent Barker” mission**
+**ESPN’s Dan Orlovsky Talks Trey Lance, Dak, Rodgers, Jags & More with Rich Eisen | Full Interview**
 
-You can read more about it [here](https://arstechnica.com/space/2023/08/us-spy-satellite-agency-isnt-so-silent-about-new-silent-barker-mission/).
+You can read more about it [here](https://www.youtube.com/watch?v=niWCNmS8Pgk).
 
 ## Requirements
 - Python 3.8
