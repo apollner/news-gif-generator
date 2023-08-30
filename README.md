@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693390118)
+![Generated GIF](output.gif?raw=true&v=1693391670)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eminem asks Ramaswamy to stop using his music after "Lose Yourself" performance**
+**Why Jessica Simpson Left Hollywood With Her Family and Moved to Nashville for the Summer**
 
-You can read more about it [here](https://www.cnn.com/2023/08/28/politics/vivek-ramaswamy-eminem/index.html).
+You can read more about it [here](https://www.eonline.com/news/1384290/why-jessica-simpson-left-hollywood-with-her-family-and-moved-to-nashville-for-the-summer).
 
 ## Requirements
 - Python 3.8
