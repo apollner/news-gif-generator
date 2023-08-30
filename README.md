@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693402439)
+![Generated GIF](output.gif?raw=true&v=1693404355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AI images are getting harder to spot. Google thinks it has a solution.**
+**What’s going on with China’s economic slowdown?**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/).
+You can read more about it [here](https://www.vox.com/world-politics/2023/8/29/23845841/chinas-economy-xi-expert).
 
 ## Requirements
 - Python 3.8
