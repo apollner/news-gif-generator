@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693510450)
+![Generated GIF](output.gif?raw=true&v=1693512450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL practice squad tracker: Team-by-team roster signings ahead of 2023 season**
+**Packers talked Jonathan Taylor trade with Colts, sources say**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-practice-squad-tracker-team-by-team-roster-signings-ahead-of-2023-season).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38290790/packers-talked-jonathan-taylor-trade-colts-sources-say).
 
 ## Requirements
 - Python 3.8
