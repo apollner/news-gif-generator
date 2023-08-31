@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693492447)
+![Generated GIF](output.gif?raw=true&v=1693494422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war: Wave of drone strikes hits several Russian regions**
+**CNN hires Mark Thompson as new chief executive, replacing Chris Licht**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66654125).
+You can read more about it [here](https://www.washingtonpost.com/media/2023/08/30/mark-thompson-cnn-new-ceo/).
 
 ## Requirements
 - Python 3.8
