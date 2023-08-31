@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693505445)
+![Generated GIF](output.gif?raw=true&v=1693506909)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Randy Johnson's Gophers-Nebraska prediction: Who wins Thursday's opener and why?**
+**Fantasy Football Rankings 2023: Breakouts from advanced NFL model that nailed Dameon Pierce's huge season**
 
-You can read more about it [here](https://www.startribune.com/gophers-football-nebraska-prediction-matt-rhule-jeff-sims-athan-kaliakmanis/600300830/).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2023-breakouts-from-advanced-nfl-model-that-nailed-dameon-pierces-huge-season/).
 
 ## Requirements
 - Python 3.8
