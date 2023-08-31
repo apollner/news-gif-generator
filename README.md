@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693445624)
+![Generated GIF](output.gif?raw=true&v=1693449236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon CEO: It’s ‘past the time’ to disagree with return to office policy**
+**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
 
-You can read more about it [here](https://thehill.com/business/4178038-amazon-ceo-its-past-the-time-to-disagree-with-return-to-office-policy/).
+You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
 
 ## Requirements
 - Python 3.8
