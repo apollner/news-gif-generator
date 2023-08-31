@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693515980)
+![Generated GIF](output.gif?raw=true&v=1693517645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Packers talked Jonathan Taylor trade with Colts, sources say**
+**McConnell appears to freeze while speaking with reporters in Kentucky**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38290790/packers-talked-jonathan-taylor-trade-colts-sources-say).
+You can read more about it [here](https://www.cnn.com/2023/08/30/politics/mitch-mcconnell/index.html).
 
 ## Requirements
 - Python 3.8
