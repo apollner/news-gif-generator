@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693465658)
+![Generated GIF](output.gif?raw=true&v=1693467236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See Selena Gomez's Sister Gracie Shave Brooklyn Beckham's Head**
+**As search in Maui nears end, it's unclear how many lost their lives**
 
-You can read more about it [here](https://www.eonline.com/news/1384395/see-selena-gomezs-sister-gracie-shave-brooklyn-beckhams-head).
+You can read more about it [here](https://www.politico.com/news/2023/08/29/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives-00113434).
 
 ## Requirements
 - Python 3.8
