@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693501522)
+![Generated GIF](output.gif?raw=true&v=1693503238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Damien Chazelle Shows Support for Hollywood Strikes as Venice Jury President: ‘Art Over Content’**
+**Hurricane Idalia turns deadly, pummeling Florida with record-breaking storm surge and catastrophic flooding. And more dangers loom**
 
-You can read more about it [here](https://variety.com/2023/film/global/damien-chazelle-strikes-venice-film-festival-jury-president-1235708051/).
+You can read more about it [here](https://www.cnn.com/2023/08/30/weather/florida-hurricane-idalia-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
