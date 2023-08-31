@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693488938)
+![Generated GIF](output.gif?raw=true&v=1693490808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CNN hires Mark Thompson as new chief executive, replacing Chris Licht**
+**Burger King Faces Whopper Lawsuit As More Customers Challenge Fast Food Giants Over Portion Sizes—Including McDonald’s, Wendy’s**
 
-You can read more about it [here](https://www.washingtonpost.com/media/2023/08/30/mark-thompson-cnn-new-ceo/).
+You can read more about it [here](https://www.forbes.com/sites/roberthart/2023/08/30/burger-king-faces-whopper-lawsuit-as-more-customers-challenge-fast-food-giants-over-portion-sizes-including-mcdonalds-wendys/).
 
 ## Requirements
 - Python 3.8
