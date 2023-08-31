@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693478091)
+![Generated GIF](output.gif?raw=true&v=1693479956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SEC's first deadlines to approve 7 Bitcoin ETFs coming over the next week**
+**Massachusetts sees first two cases of deadly West Nile virus**
 
-You can read more about it [here](https://cointelegraph.com/news/sec-decisions-on-seven-bitcoin-etfs-in-six-days).
+You can read more about it [here](https://www.foxnews.com/health/massachusetts-sees-first-two-cases-deadly-west-nile-virus).
 
 ## Requirements
 - Python 3.8
