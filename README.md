@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693472838)
+![Generated GIF](output.gif?raw=true&v=1693474430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
+**'Wonderful human being': Colleagues remember UNC professor Zijie Yan who was killed in shooting**
 
-You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
+You can read more about it [here](https://abc11.com/dr-zijie-yan-unc-shooting-professor-killed-campus/13716130/).
 
 ## Requirements
 - Python 3.8
