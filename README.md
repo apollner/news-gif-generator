@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693438443)
+![Generated GIF](output.gif?raw=true&v=1693445624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Greece struggles to contain Europe's largest wildfire on record**
+**Amazon CEO: It’s ‘past the time’ to disagree with return to office policy**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/29/greece-wildfire-largest-recorded-europe/).
+You can read more about it [here](https://thehill.com/business/4178038-amazon-ceo-its-past-the-time-to-disagree-with-return-to-office-policy/).
 
 ## Requirements
 - Python 3.8
