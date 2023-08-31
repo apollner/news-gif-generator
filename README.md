@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693503238)
+![Generated GIF](output.gif?raw=true&v=1693505445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Idalia turns deadly, pummeling Florida with record-breaking storm surge and catastrophic flooding. And more dangers loom**
+**Randy Johnson's Gophers-Nebraska prediction: Who wins Thursday's opener and why?**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/weather/florida-hurricane-idalia-wednesday/index.html).
+You can read more about it [here](https://www.startribune.com/gophers-football-nebraska-prediction-matt-rhule-jeff-sims-athan-kaliakmanis/600300830/).
 
 ## Requirements
 - Python 3.8
