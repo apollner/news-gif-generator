@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693490808)
+![Generated GIF](output.gif?raw=true&v=1693492447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Burger King Faces Whopper Lawsuit As More Customers Challenge Fast Food Giants Over Portion Sizes—Including McDonald’s, Wendy’s**
+**Ukraine war: Wave of drone strikes hits several Russian regions**
 
-You can read more about it [here](https://www.forbes.com/sites/roberthart/2023/08/30/burger-king-faces-whopper-lawsuit-as-more-customers-challenge-fast-food-giants-over-portion-sizes-including-mcdonalds-wendys/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66654125).
 
 ## Requirements
 - Python 3.8
