@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693460029)
+![Generated GIF](output.gif?raw=true&v=1693462392)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fergie and Josh Duhamel's Son Looks Like Dad In New Pic: Meet Axl Jack**
+**See Selena Gomez's Sister Gracie Shave Brooklyn Beckham's Head**
 
-You can read more about it [here](https://www.today.com/parents/fergie-josh-duhamel-son-axl-jack-rcna102467).
+You can read more about it [here](https://www.eonline.com/news/1384395/see-selena-gomezs-sister-gracie-shave-brooklyn-beckhams-head).
 
 ## Requirements
 - Python 3.8
