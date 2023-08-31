@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693474430)
+![Generated GIF](output.gif?raw=true&v=1693476403)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Wonderful human being': Colleagues remember UNC professor Zijie Yan who was killed in shooting**
+**Gabon military officers claim to have seized power after election**
 
-You can read more about it [here](https://abc11.com/dr-zijie-yan-unc-shooting-professor-killed-campus/13716130/).
+You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
