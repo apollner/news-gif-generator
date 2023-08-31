@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693470853)
+![Generated GIF](output.gif?raw=true&v=1693472838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As search in Maui nears end, it's unclear how many lost their lives**
+**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/29/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives-00113434).
+You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
 
 ## Requirements
 - Python 3.8
