@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693476403)
+![Generated GIF](output.gif?raw=true&v=1693478091)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gabon military officers claim to have seized power after election**
+**SEC's first deadlines to approve 7 Bitcoin ETFs coming over the next week**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
+You can read more about it [here](https://cointelegraph.com/news/sec-decisions-on-seven-bitcoin-etfs-in-six-days).
 
 ## Requirements
 - Python 3.8
