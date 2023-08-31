@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693517645)
+![Generated GIF](output.gif?raw=true&v=1693519565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McConnell appears to freeze while speaking with reporters in Kentucky**
+**As new COVID variant arrives in NYC, here's how to track the back-to-school surge**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/politics/mitch-mcconnell/index.html).
+You can read more about it [here](https://gothamist.com/news/as-new-covid-variant-arrives-in-nyc-heres-how-to-track-the-back-to-school-surge).
 
 ## Requirements
 - Python 3.8
