@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693449236)
+![Generated GIF](output.gif?raw=true&v=1693451247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
+**For travelers who want to avoid babies and kids, one airline will test an adults-only section**
 
-You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/travelers-avoid-babies-kids-airline-test-adults-section-102659108).
 
 ## Requirements
 - Python 3.8
