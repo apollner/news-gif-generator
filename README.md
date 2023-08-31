@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693498173)
+![Generated GIF](output.gif?raw=true&v=1693501522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eris COVID subvariant: What to know about the latest strain spreading across the U.S.**
+**Damien Chazelle Shows Support for Hollywood Strikes as Venice Jury President: ‘Art Over Content’**
 
-You can read more about it [here](https://www.nj.com/coronavirus/2023/08/eris-covid-subvariant-what-to-know-about-the-latest-strain-spreading-across-the-us.html).
+You can read more about it [here](https://variety.com/2023/film/global/damien-chazelle-strikes-venice-film-festival-jury-president-1235708051/).
 
 ## Requirements
 - Python 3.8
