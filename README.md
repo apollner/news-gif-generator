@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693451247)
+![Generated GIF](output.gif?raw=true&v=1693452853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**For travelers who want to avoid babies and kids, one airline will test an adults-only section**
+**Angels place RHP Lucas Giolito, 4 others on waivers as playoff bid falters: What this means for the players**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/travelers-avoid-babies-kids-airline-test-adults-section-102659108).
+You can read more about it [here](https://theathletic.com/4816858/2023/08/29/angels-waivers-lucas-giolito/).
 
 ## Requirements
 - Python 3.8
