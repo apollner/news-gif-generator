@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693452853)
+![Generated GIF](output.gif?raw=true&v=1693455013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Angels place RHP Lucas Giolito, 4 others on waivers as playoff bid falters: What this means for the players**
+**Monroe County sees small surge in COVID cases; doctors urge citizens to stay aware**
 
-You can read more about it [here](https://theathletic.com/4816858/2023/08/29/angels-waivers-lucas-giolito/).
+You can read more about it [here](https://13wham.com/news/local/monroe-county-sees-small-surge-in-covid-cases-doctors-urge-citizens-to-stay-aware).
 
 ## Requirements
 - Python 3.8
