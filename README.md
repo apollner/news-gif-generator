@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693458356)
+![Generated GIF](output.gif?raw=true&v=1693460029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UNC-Chapel Hill grad student Tailei Qi charged with murder in shooting death of professor Zijie Yan**
+**Fergie and Josh Duhamel's Son Looks Like Dad In New Pic: Meet Axl Jack**
 
-You can read more about it [here](https://www.cbsnews.com/news/tailei-qi-unc-chapel-hill-grad-student-charged-murder-shooting-of-faculty-member/).
+You can read more about it [here](https://www.today.com/parents/fergie-josh-duhamel-son-axl-jack-rcna102467).
 
 ## Requirements
 - Python 3.8
