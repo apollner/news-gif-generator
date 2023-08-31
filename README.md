@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693523204)
+![Generated GIF](output.gif?raw=true&v=1693524845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rare 'blue supermoon' rises over Israel, won't return until 2037**
+**Stocks making the biggest moves after hours: Salesforce, Okta, CrowdStrike, Five Below and more**
 
-You can read more about it [here](https://www.jpost.com/science/the-natural-world/article-756913).
+You can read more about it [here](https://www.cnbc.com/2023/08/30/stocks-making-the-biggest-moves-after-hours-crm-okta-crwd-five.html).
 
 ## Requirements
 - Python 3.8
