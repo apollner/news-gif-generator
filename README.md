@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693521234)
+![Generated GIF](output.gif?raw=true&v=1693523204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Proud Boys sentencing over January 6 riot rescheduled**
+**Rare 'blue supermoon' rises over Israel, won't return until 2037**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/politics/proud-boys-sentencing/index.html).
+You can read more about it [here](https://www.jpost.com/science/the-natural-world/article-756913).
 
 ## Requirements
 - Python 3.8
