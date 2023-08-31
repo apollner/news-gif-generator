@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693469424)
+![Generated GIF](output.gif?raw=true&v=1693470853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL cuts tracker 2023: Live roster updates for all 32 teams - ESPN**
+**As search in Maui nears end, it's unclear how many lost their lives**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38259317/nfl-cuts-tracker-2023-live-roster-updates-all-32-teams).
+You can read more about it [here](https://www.politico.com/news/2023/08/29/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives-00113434).
 
 ## Requirements
 - Python 3.8
