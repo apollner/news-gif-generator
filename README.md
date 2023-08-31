@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693506909)
+![Generated GIF](output.gif?raw=true&v=1693508737)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings 2023: Breakouts from advanced NFL model that nailed Dameon Pierce's huge season**
+**Packers talked Jonathan Taylor trade with Colts, sources say - ESPN**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2023-breakouts-from-advanced-nfl-model-that-nailed-dameon-pierces-huge-season/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38290790/packers-talked-jonathan-taylor-trade-colts-sources-say).
 
 ## Requirements
 - Python 3.8
