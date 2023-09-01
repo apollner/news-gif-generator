@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693524845)
+![Generated GIF](output.gif?raw=true&v=1693528341)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stocks making the biggest moves after hours: Salesforce, Okta, CrowdStrike, Five Below and more**
+**Theodore McCarrick 93-year-old ex-Catholic cardinal not fit for sex abuse trial, says judge**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/30/stocks-making-the-biggest-moves-after-hours-crm-okta-crwd-five.html).
+You can read more about it [here](https://www.youtube.com/watch?v=VLfLktwi79k).
 
 ## Requirements
 - Python 3.8
