@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693609560)
+![Generated GIF](output.gif?raw=true&v=1693611251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Clarence Thomas officially discloses private trips on GOP donor Harlan Crow's plane**
+**Manhunt underway for 'extremely dangerous' escaped murderer in Pennsylvania**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/politics/thomas-alito-supreme-court-disclosures/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/manhunt-underway-extremely-dangerous-escaped-murderer-pennsylvania-rcna102832).
 
 ## Requirements
 - Python 3.8
