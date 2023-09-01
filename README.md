@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693604057)
+![Generated GIF](output.gif?raw=true&v=1693607646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift announces Eras Tour movie with AMC**
+**Starfield Makes Xbox Game Pass an Incredible Value**
 
-You can read more about it [here](https://www.washingtonpost.com/lifestyle/2023/08/31/taylor-swift-eras-tour-amc-tickets/).
+You can read more about it [here](https://www.cnet.com/tech/gaming/starfield-makes-game-pass-an-incredible-value/).
 
 ## Requirements
 - Python 3.8
