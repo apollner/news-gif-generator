@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693607646)
+![Generated GIF](output.gif?raw=true&v=1693609560)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starfield Makes Xbox Game Pass an Incredible Value**
+**Clarence Thomas officially discloses private trips on GOP donor Harlan Crow's plane**
 
-You can read more about it [here](https://www.cnet.com/tech/gaming/starfield-makes-game-pass-an-incredible-value/).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/thomas-alito-supreme-court-disclosures/index.html).
 
 ## Requirements
 - Python 3.8
