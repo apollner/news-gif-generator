@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693570374)
+![Generated GIF](output.gif?raw=true&v=1693572522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Biden is now routinely taking the short stairs up to Air Force One**
+**Ukraine live briefing: U.S. warns of Russia-North Korea arms negotiations; Wagner commander buried**
 
-You can read more about it [here](https://www.npr.org/2023/08/31/1196803354/biden-air-force-one-short-stairs).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/31/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
