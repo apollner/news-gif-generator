@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693534805)
+![Generated GIF](output.gif?raw=true&v=1693535872)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marijuana users found to have lead in their blood and urine**
+**Sony Raises Price of PlayStation Plus 1-Year Subscriptions - IGN Daily Fix**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/marijuana-users-lead-heavy-metal-in-blood-urine-rcna102431).
+You can read more about it [here](https://www.youtube.com/watch?v=v7bZL941iD8).
 
 ## Requirements
 - Python 3.8
