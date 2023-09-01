@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693573827)
+![Generated GIF](output.gif?raw=true&v=1693575253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock futures mixed ahead of key PCE inflation data: Stock market news today**
+**Watch: How Chandrayaan-3 Rover and Lander help each other find Sulphur on the Moon**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-futures-mixed-ahead-of-key-pce-inflation-data-stock-market-news-today-105251410.html).
+You can read more about it [here](https://timesofindia.indiatimes.com/videos/toi-original/watch-how-chandrayaan-3-rover-and-lander-help-each-other-find-sulphur-on-the-moon/videoshow/103247319.cms).
 
 ## Requirements
 - Python 3.8
