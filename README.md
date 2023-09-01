@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693595112)
+![Generated GIF](output.gif?raw=true&v=1693596861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White House calls on Congress to pass a short-term spending bill**
+**'Summer House' Stars Carl Radke and Lindsay Hubbard Call Off Engagement (Exclusive)**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/politics/white-house-short-term-government-funding/index.html).
+You can read more about it [here](https://www.etonline.com/summer-house-stars-carl-radke-and-lindsay-hubbard-call-off-engagement-exclusive-210637).
 
 ## Requirements
 - Python 3.8
