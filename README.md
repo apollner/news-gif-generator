@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693553644)
+![Generated GIF](output.gif?raw=true&v=1693559220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA conducts crucial drop test ahead of Sept. 24 arrival of OSIRIS-REx asteroid sample**
+**US health department recommends looser restrictions on cannabis**
 
-You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-arrival-drop-test).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66667191).
 
 ## Requirements
 - Python 3.8
