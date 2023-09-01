@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693542846)
+![Generated GIF](output.gif?raw=true&v=1693544772)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Selena Gomez Seemingly Takes Down Instagram Post After Getting Accused of Breaking SAG-AFTRA Strike Rules**
+**Swimmer in Texas dies after infection caused by brain-eating amoeba**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/selena-gomez-takes-down-instagram-post-sag-aftra-strike-rules-1235403711/).
+You can read more about it [here](https://www.cbsnews.com/news/texas-swimmer-dies-after-infection-caused-by-brain-eating-amoeba/).
 
 ## Requirements
 - Python 3.8
