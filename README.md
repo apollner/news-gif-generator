@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693535872)
+![Generated GIF](output.gif?raw=true&v=1693537753)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sony Raises Price of PlayStation Plus 1-Year Subscriptions - IGN Daily Fix**
+**Without Zendaya, Venice Opening Night Movie Lands Soft 90-Second Standing Ovation**
 
-You can read more about it [here](https://www.youtube.com/watch?v=v7bZL941iD8).
+You can read more about it [here](https://variety.com/2023/film/global/venice-film-festival-opening-zendaya-comandante-ovation-1235708425/).
 
 ## Requirements
 - Python 3.8
