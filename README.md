@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693528341)
+![Generated GIF](output.gif?raw=true&v=1693532352)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Theodore McCarrick 93-year-old ex-Catholic cardinal not fit for sex abuse trial, says judge**
+**Messi, Inter Miami vs. Nashville SC live updates: Score, highlights**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VLfLktwi79k).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/08/30/messi-inter-miami-vs-nashville-sc-live-updates-score-highlights/70719316007/).
 
 ## Requirements
 - Python 3.8
