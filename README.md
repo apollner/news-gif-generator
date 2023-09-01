@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693586351)
+![Generated GIF](output.gif?raw=true&v=1693588008)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What precautions should people take for Labor Day and back-to-school? A doctor explains**
+**When experts opened a West Point time capsule, they found nothing. The box turned out to hold hidden treasure after all.**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/health/labor-day-coronavirus-increase-wellness/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/west-point-time-capsule-hidden-treasure-coins-medal/).
 
 ## Requirements
 - Python 3.8
