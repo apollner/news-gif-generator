@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693577196)
+![Generated GIF](output.gif?raw=true&v=1693578858)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What precautions should people take for Labor Day and back-to-school? A doctor explains**
+**Photos: Rare super blue moon rises and lights up skies worldwide**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/health/labor-day-coronavirus-increase-wellness/index.html).
+You can read more about it [here](https://www.aljazeera.com/gallery/2023/8/31/photos-rare-super-blue-moon-rises-and-lights-up-skies-worldwide).
 
 ## Requirements
 - Python 3.8
