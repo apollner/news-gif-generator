@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693539255)
+![Generated GIF](output.gif?raw=true&v=1693541401)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Selena Gomez Seemingly Takes Down Instagram Post After Getting Accused of Breaking SAG-AFTRA Strike Rules**
+**Jacksonville Shooter Wanted Eminem and Machine Gun Kelly ‘to be Killed On Sight,’ His Writings Reveal**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/selena-gomez-takes-down-instagram-post-sag-aftra-strike-rules-1235403711/).
+You can read more about it [here](https://www.rollingstone.com/politics/politics-features/jacksonville-shooter-wanted-eminem-machine-gun-kelly-killed-on-sight-writings-reveal-1234815684/).
 
 ## Requirements
 - Python 3.8
