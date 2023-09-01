@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693593248)
+![Generated GIF](output.gif?raw=true&v=1693595112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Last Super Blue Moon until 2037 lights up skies around the world (photos)**
+**White House calls on Congress to pass a short-term spending bill**
 
-You can read more about it [here](https://www.space.com/rare-super-blue-moon-2023-photos).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/white-house-short-term-government-funding/index.html).
 
 ## Requirements
 - Python 3.8
