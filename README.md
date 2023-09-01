@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693548655)
+![Generated GIF](output.gif?raw=true&v=1693550179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID cases rise in California**
+**Florida Gators announce captains for season opener against Utah**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wTu0xw68-cw).
+You can read more about it [here](https://247sports.com/college/florida/article/florida-football-gators-reveal-captains-thursday-game-utah-season-opener-billy-napier-215052027/).
 
 ## Requirements
 - Python 3.8
