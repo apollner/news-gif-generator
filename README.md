@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693584574)
+![Generated GIF](output.gif?raw=true&v=1693586351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Grant Shapps gets defence job in mini reshuffle**
+**What precautions should people take for Labor Day and back-to-school? A doctor explains**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-66668941).
+You can read more about it [here](https://www.cnn.com/2023/08/31/health/labor-day-coronavirus-increase-wellness/index.html).
 
 ## Requirements
 - Python 3.8
