@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693566329)
+![Generated GIF](output.gif?raw=true&v=1693570374)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Kimmel Says He Was “Very Intent on Retiring” Before Writers Strike Started**
+**Why Biden is now routinely taking the short stairs up to Air Force One**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-retiring-before-writers-strike-started-1235578483/).
+You can read more about it [here](https://www.npr.org/2023/08/31/1196803354/biden-air-force-one-short-stairs).
 
 ## Requirements
 - Python 3.8
