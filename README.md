@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693589693)
+![Generated GIF](output.gif?raw=true&v=1693591795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Africa fire: What are Johannesburg's hijacked buildings?**
+**Meet the health-focused, anti-Apple Watch you’ll be proud to wear**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66674284).
+You can read more about it [here](https://www.digitaltrends.com/mobile/withings-scanwatch-2-scanwatch-light-news-and-interview/).
 
 ## Requirements
 - Python 3.8
