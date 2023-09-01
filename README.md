@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693560856)
+![Generated GIF](output.gif?raw=true&v=1693566329)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UBS posts $29 billion second-quarter profit in first results since Credit Suisse takeover**
+**Jimmy Kimmel Says He Was “Very Intent on Retiring” Before Writers Strike Started**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/31/ubs-posts-29-billion-second-quarter-profit-in-first-results-since-credit-suisse-takeover.html).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-retiring-before-writers-strike-started-1235578483/).
 
 ## Requirements
 - Python 3.8
