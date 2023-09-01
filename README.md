@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693532352)
+![Generated GIF](output.gif?raw=true&v=1693534805)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Messi, Inter Miami vs. Nashville SC live updates: Score, highlights**
+**Marijuana users found to have lead in their blood and urine**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/08/30/messi-inter-miami-vs-nashville-sc-live-updates-score-highlights/70719316007/).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/marijuana-users-lead-heavy-metal-in-blood-urine-rcna102431).
 
 ## Requirements
 - Python 3.8
