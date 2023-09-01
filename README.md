@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693591795)
+![Generated GIF](output.gif?raw=true&v=1693593248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meet the health-focused, anti-Apple Watch you’ll be proud to wear**
+**Last Super Blue Moon until 2037 lights up skies around the world (photos)**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/withings-scanwatch-2-scanwatch-light-news-and-interview/).
+You can read more about it [here](https://www.space.com/rare-super-blue-moon-2023-photos).
 
 ## Requirements
 - Python 3.8
