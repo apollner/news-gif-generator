@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693663577)
+![Generated GIF](output.gif?raw=true&v=1693665240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Archaeologists in Turkey have identified massive structures below a Roman-era castle**
+**Hurricane Idalia leaves Horseshoe Beach's homes, history in ruins**
 
-You can read more about it [here](https://www.wbur.org/npr/1191263572/turkey-archaeology-zerzevan-castle-discoveries).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/01/hurricane-idalia-wrecked-horseshoe-beach-as-it-neared-keaton-beach-florida-weather-big-bend/70733502007/).
 
 ## Requirements
 - Python 3.8
