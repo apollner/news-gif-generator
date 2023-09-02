@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693661674)
+![Generated GIF](output.gif?raw=true&v=1693663577)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Walgreens CEO Roz Brewer steps down after more than 2 years in the role**
+**Archaeologists in Turkey have identified massive structures below a Roman-era castle**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/01/walgreens-ceo-roz-brewer-steps-down.html).
+You can read more about it [here](https://www.wbur.org/npr/1191263572/turkey-archaeology-zerzevan-castle-discoveries).
 
 ## Requirements
 - Python 3.8
