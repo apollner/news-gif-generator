@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693654491)
+![Generated GIF](output.gif?raw=true&v=1693656704)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war: Drone attack on Pskov airbase from inside Russia - Kyiv**
+**SpaceX launch from Canaveral equals record – Orlando Sentinel**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66682503).
+You can read more about it [here](http://www.orlandosentinel.com/2023/08/31/spacex-could-set-record-if-it-knocks-out-2-planned-launches-today/).
 
 ## Requirements
 - Python 3.8
