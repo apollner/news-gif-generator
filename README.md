@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693614520)
+![Generated GIF](output.gif?raw=true&v=1693618137)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition**
+**Former Proud Boys leaders Joseph Biggs, Zachary Rehl sentenced for Jan. 6 sedition**
 
-You can read more about it [here](https://www.science.org/doi/10.1126/science.abq7487).
+You can read more about it [here](https://abcnews.go.com/Politics/proud-boy-leaders-joe-biggs-zachary-rehl-sentenced/story?id=102832655).
 
 ## Requirements
 - Python 3.8
