@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693640042)
+![Generated GIF](output.gif?raw=true&v=1693642192)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lenovo's new Legion 9i is a liquid-cooled, Mini LED, RGB monstrosity**
+**Houston hospital reports Texas' first case of COVID, BA.2.86 variant**
 
-You can read more about it [here](https://www.theverge.com/2023/9/1/23853318/lenovo-legion-9i-gaming-laptop-price-release-date-specs-features-intel).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/trending/article/fourth-new-covid-variant-case-found-in-houston-18340782.php).
 
 ## Requirements
 - Python 3.8
