@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693611251)
+![Generated GIF](output.gif?raw=true&v=1693614520)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Manhunt underway for 'extremely dangerous' escaped murderer in Pennsylvania**
+**Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/manhunt-underway-extremely-dangerous-escaped-murderer-pennsylvania-rcna102832).
+You can read more about it [here](https://www.science.org/doi/10.1126/science.abq7487).
 
 ## Requirements
 - Python 3.8
