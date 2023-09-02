@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693631163)
+![Generated GIF](output.gif?raw=true&v=1693633264)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Philippines, Taiwan, Malaysia reject China's latest South China Sea map**
+**Orlovsky: Trey Lance more to blame than Kyle Shanahan for struggles with 49ers**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/01/philippines-taiwan-malaysia-reject-chinas-latest-south-china-sea-map.html).
+You can read more about it [here](https://www.49erswebzone.com/articles/171419-orlovsky-trey-lance-more-blame-shanahan-struggles-49ers/).
 
 ## Requirements
 - Python 3.8
