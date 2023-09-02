@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693668851)
+![Generated GIF](output.gif?raw=true&v=1693670846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NOT REAL NEWS: A look at what didn't happen this week**
+**Wes Anderson Talks Strikes & Controversial Roald Dahl Book Edits: “I Don’t Even Want The Artist To Modify Their Work” — Venice**
 
-You can read more about it [here](https://www.aol.com/news/not-real-news-look-didnt-130728672.html).
+You can read more about it [here](https://deadline.com/2023/09/wes-anderson-venice-roald-dahl-netflix-1235533638/).
 
 ## Requirements
 - Python 3.8
