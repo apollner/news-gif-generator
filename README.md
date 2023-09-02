@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693638323)
+![Generated GIF](output.gif?raw=true&v=1693640042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The iPhone 15's USB-C upgrade is more game-changing than you think. Here's why**
+**Lenovo's new Legion 9i is a liquid-cooled, Mini LED, RGB monstrosity**
 
-You can read more about it [here](https://www.zdnet.com/article/the-iphone-15s-usb-c-upgrade-is-more-game-changing-than-you-think-heres-why/).
+You can read more about it [here](https://www.theverge.com/2023/9/1/23853318/lenovo-legion-9i-gaming-laptop-price-release-date-specs-features-intel).
 
 ## Requirements
 - Python 3.8
