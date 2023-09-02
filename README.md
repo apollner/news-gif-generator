@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693627774)
+![Generated GIF](output.gif?raw=true&v=1693629267)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida vs. Utah live stream, watch online, TV channel, prediction, pick, spread, football game odds**
+**The US military has been waiting for a drone war like one in Ukraine**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/florida-utah-live-stream-watch-online-tv-channel-prediction-pick-spread-football-game-odds/).
+You can read more about it [here](https://www.businessinsider.com/russia-ukraine-fighting-drone-war-us-military-was-waiting-for-2023-8).
 
 ## Requirements
 - Python 3.8
