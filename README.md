@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693670846)
+![Generated GIF](output.gif?raw=true&v=1693672511)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wes Anderson Talks Strikes & Controversial Roald Dahl Book Edits: “I Don’t Even Want The Artist To Modify Their Work” — Venice**
+**‘Taylor Swift: Eras Tour’ Film Earns Record-Breaking $26 Million in Presales at AMC Theatres**
 
-You can read more about it [here](https://deadline.com/2023/09/wes-anderson-venice-roald-dahl-netflix-1235533638/).
+You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-film-record-breaking-presales-1235710568/).
 
 ## Requirements
 - Python 3.8
