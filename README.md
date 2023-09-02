@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693620822)
+![Generated GIF](output.gif?raw=true&v=1693622040)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A convicted murderer escaped from the Chester County Prison early Thursday, police say**
+**Kevin Costner's ex breaks down in court as actor accuses her of 'relentless jihad' ahead of proceedings**
 
-You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-escape-chester-county-prison-murder-20230831.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/kevin-costners-ex-breaks-down-court-actor-accuses-her-relentless-jihad-ahead-proceedings).
 
 ## Requirements
 - Python 3.8
