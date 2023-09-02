@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693624049)
+![Generated GIF](output.gif?raw=true&v=1693625692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**7 photos of last night's dazzling blue supermoon in the Iowa sky**
+**Idalia live updates: One death in Florida; Biden will visit area; storm heads out to sea**
 
-You can read more about it [here](https://www.kcci.com/article/blue-supermoon-photos-2023-iowa/44961438).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/31/hurricane-tropical-storm-idalia-live-updates-path-damage-flooding/70725736007/).
 
 ## Requirements
 - Python 3.8
