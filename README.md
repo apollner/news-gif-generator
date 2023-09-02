@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693695913)
+![Generated GIF](output.gif?raw=true&v=1693697634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emma Stone’s Graphic ‘Poor Things’ Sex Scenes Make Venice Erupt in 8-Minute Standing Ovation for Yorgos Lanthimos**
+**No power and nowhere to stay as rural Florida starts recovering from Hurricane Idalia**
 
-You can read more about it [here](https://variety.com/2023/film/news/emma-stone-poor-things-sex-nudity-venice-standing-ovation-1235695885/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/residents-return-find-homes-towns-devastated-path-idalia-102853501).
 
 ## Requirements
 - Python 3.8
