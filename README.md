@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693690453)
+![Generated GIF](output.gif?raw=true&v=1693692326)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emma Stone’s Graphic ‘Poor Things’ Sex Scenes Make Venice Erupt in 8-Minute Standing Ovation for Yorgos Lanthimos**
+**Over-the-counter Narcan: Availability, cost, and how to administer**
 
-You can read more about it [here](https://variety.com/2023/film/news/emma-stone-poor-things-sex-nudity-venice-standing-ovation-1235695885/).
+You can read more about it [here](https://www.vox.com/23855543/narcan-naloxone-over-the-counter-walgreens-cost-use-overdose-opioid).
 
 ## Requirements
 - Python 3.8
