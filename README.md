@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693633264)
+![Generated GIF](output.gif?raw=true&v=1693636438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orlovsky: Trey Lance more to blame than Kyle Shanahan for struggles with 49ers**
+**Utah Utes vs. Florida Gators: Live college football updates**
 
-You can read more about it [here](https://www.49erswebzone.com/articles/171419-orlovsky-trey-lance-more-blame-shanahan-struggles-49ers/).
+You can read more about it [here](https://www.sltrib.com/sports/utah-utes/2023/08/31/utes-stars-cam-rising-brant-kuithe/).
 
 ## Requirements
 - Python 3.8
