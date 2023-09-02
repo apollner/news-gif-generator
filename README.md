@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693667146)
+![Generated GIF](output.gif?raw=true&v=1693668851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dire Straits guitarist Jack Sonni dies age 68**
+**NOT REAL NEWS: A look at what didn't happen this week**
 
-You can read more about it [here](https://www.cnn.com/2023/09/01/entertainment/dire-straits-jack-sonni-dies-intl-scli/index.html).
+You can read more about it [here](https://www.aol.com/news/not-real-news-look-didnt-130728672.html).
 
 ## Requirements
 - Python 3.8
