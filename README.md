@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693618137)
+![Generated GIF](output.gif?raw=true&v=1693619953)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Proud Boys leaders Joseph Biggs, Zachary Rehl sentenced for Jan. 6 sedition**
+**First Qi2 chargers look to expand MagSafe-like wireless charging beyond Apple**
 
-You can read more about it [here](https://abcnews.go.com/Politics/proud-boy-leaders-joe-biggs-zachary-rehl-sentenced/story?id=102832655).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/08/first-qi2-chargers-could-bring-15-w-wireless-charging-to-more-apple-users/).
 
 ## Requirements
 - Python 3.8
