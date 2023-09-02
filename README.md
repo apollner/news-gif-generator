@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693629267)
+![Generated GIF](output.gif?raw=true&v=1693631163)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The US military has been waiting for a drone war like one in Ukraine**
+**Philippines, Taiwan, Malaysia reject China's latest South China Sea map**
 
-You can read more about it [here](https://www.businessinsider.com/russia-ukraine-fighting-drone-war-us-military-was-waiting-for-2023-8).
+You can read more about it [here](https://www.cnbc.com/2023/09/01/philippines-taiwan-malaysia-reject-chinas-latest-south-china-sea-map.html).
 
 ## Requirements
 - Python 3.8
