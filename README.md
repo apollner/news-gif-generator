@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693665240)
+![Generated GIF](output.gif?raw=true&v=1693667146)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Idalia leaves Horseshoe Beach's homes, history in ruins**
+**Dire Straits guitarist Jack Sonni dies age 68**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/01/hurricane-idalia-wrecked-horseshoe-beach-as-it-neared-keaton-beach-florida-weather-big-bend/70733502007/).
+You can read more about it [here](https://www.cnn.com/2023/09/01/entertainment/dire-straits-jack-sonni-dies-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
