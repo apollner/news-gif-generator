@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693642192)
+![Generated GIF](output.gif?raw=true&v=1693643639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Houston hospital reports Texas' first case of COVID, BA.2.86 variant**
+**Pope Francis arrives in Mongolia**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/trending/article/fourth-new-covid-variant-case-found-in-houston-18340782.php).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2023-09/pope-arrival-mongolia-apostolic-visit.html).
 
 ## Requirements
 - Python 3.8
