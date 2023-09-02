@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693652701)
+![Generated GIF](output.gif?raw=true&v=1693654491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gaming on the Go: Lenovo Unveils a New Legion Gaming Handheld Device and Accessories that Untether PC Gaming**
+**Ukraine war: Drone attack on Pskov airbase from inside Russia - Kyiv**
 
-You can read more about it [here](https://news.lenovo.com/pressroom/press-releases/legion-go-gaming-handheld-device-and-accessories/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66682503).
 
 ## Requirements
 - Python 3.8
