@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693625692)
+![Generated GIF](output.gif?raw=true&v=1693627774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Idalia live updates: One death in Florida; Biden will visit area; storm heads out to sea**
+**Florida vs. Utah live stream, watch online, TV channel, prediction, pick, spread, football game odds**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/31/hurricane-tropical-storm-idalia-live-updates-path-damage-flooding/70725736007/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/florida-utah-live-stream-watch-online-tv-channel-prediction-pick-spread-football-game-odds/).
 
 ## Requirements
 - Python 3.8
