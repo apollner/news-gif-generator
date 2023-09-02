@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693643639)
+![Generated GIF](output.gif?raw=true&v=1693645566)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis arrives in Mongolia**
+**Clarence Thomas discloses flights provided by Dallas mogul Harlan Crow**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2023-09/pope-arrival-mongolia-apostolic-visit.html).
+You can read more about it [here](https://www.dallasnews.com/news/2023/08/31/clarence-thomas-makes-first-disclosure-of-trips-from-crow-plus-2014-sale-of-moms-house/).
 
 ## Requirements
 - Python 3.8
