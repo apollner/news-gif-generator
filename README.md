@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693619953)
+![Generated GIF](output.gif?raw=true&v=1693620822)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First Qi2 chargers look to expand MagSafe-like wireless charging beyond Apple**
+**A convicted murderer escaped from the Chester County Prison early Thursday, police say**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/08/first-qi2-chargers-could-bring-15-w-wireless-charging-to-more-apple-users/).
+You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-escape-chester-county-prison-murder-20230831.html).
 
 ## Requirements
 - Python 3.8
