@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693683263)
+![Generated GIF](output.gif?raw=true&v=1693685156)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nikki Haley reacts to McConnell freezing for second time**
+**Kenneth Chesebro, architect of fake electors plot, pleads not guilty in Georgia election case**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/01/nikki-haley-reacts-mcconnell-freezing-senate/70736918007/).
+You can read more about it [here](https://www.cnn.com/2023/09/01/politics/georgia-fulton-county-plead-kenneth-chesebro/index.html).
 
 ## Requirements
 - Python 3.8
