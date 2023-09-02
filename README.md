@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693686835)
+![Generated GIF](output.gif?raw=true&v=1693690453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A pregnant Ohio mother's death by police sparked outrage. What we know about Ta'Kiya Young**
+**Emma Stone’s Graphic ‘Poor Things’ Sex Scenes Make Venice Erupt in 8-Minute Standing Ovation for Yorgos Lanthimos**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/01/takiya-young-ohio-police-shooting-death-what-to-know/70738170007/).
+You can read more about it [here](https://variety.com/2023/film/news/emma-stone-poor-things-sex-nudity-venice-standing-ovation-1235695885/).
 
 ## Requirements
 - Python 3.8
