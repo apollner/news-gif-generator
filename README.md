@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693650841)
+![Generated GIF](output.gif?raw=true&v=1693652701)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miley Cyrus Says This Moment With Taylor Swift and Demi Lovato Shows She's Bisexual**
+**Gaming on the Go: Lenovo Unveils a New Legion Gaming Handheld Device and Accessories that Untether PC Gaming**
 
-You can read more about it [here](https://www.eonline.com/news/1384622/miley-cyrus-says-this-moment-with-taylor-swift-and-demi-lovato-shows-shes-bisexual).
+You can read more about it [here](https://news.lenovo.com/pressroom/press-releases/legion-go-gaming-handheld-device-and-accessories/).
 
 ## Requirements
 - Python 3.8
