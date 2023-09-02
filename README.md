@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693636438)
+![Generated GIF](output.gif?raw=true&v=1693638323)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Utah Utes vs. Florida Gators: Live college football updates**
+**The iPhone 15's USB-C upgrade is more game-changing than you think. Here's why**
 
-You can read more about it [here](https://www.sltrib.com/sports/utah-utes/2023/08/31/utes-stars-cam-rising-brant-kuithe/).
+You can read more about it [here](https://www.zdnet.com/article/the-iphone-15s-usb-c-upgrade-is-more-game-changing-than-you-think-heres-why/).
 
 ## Requirements
 - Python 3.8
