@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693692326)
+![Generated GIF](output.gif?raw=true&v=1693694050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Over-the-counter Narcan: Availability, cost, and how to administer**
+**Both iPhone 15 Pro Max and iPhone 15 Ultra are coming, claims sketchy rumor**
 
-You can read more about it [here](https://www.vox.com/23855543/narcan-naloxone-over-the-counter-walgreens-cost-use-overdose-opioid).
+You can read more about it [here](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor).
 
 ## Requirements
 - Python 3.8
