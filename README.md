@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693645566)
+![Generated GIF](output.gif?raw=true&v=1693649154)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Clarence Thomas discloses flights provided by Dallas mogul Harlan Crow**
+**Braves' Ronald Acuña ties knot, becomes MLB's 1st 30-60 player - ESPN**
 
-You can read more about it [here](https://www.dallasnews.com/news/2023/08/31/clarence-thomas-makes-first-disclosure-of-trips-from-crow-plus-2014-sale-of-moms-house/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38302725/with-grand-slam-braves-acuna-records-mlb-1st-ever-30-60-season).
 
 ## Requirements
 - Python 3.8
