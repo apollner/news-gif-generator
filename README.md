@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693649154)
+![Generated GIF](output.gif?raw=true&v=1693650841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Braves' Ronald Acuña ties knot, becomes MLB's 1st 30-60 player - ESPN**
+**Miley Cyrus Says This Moment With Taylor Swift and Demi Lovato Shows She's Bisexual**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38302725/with-grand-slam-braves-acuna-records-mlb-1st-ever-30-60-season).
+You can read more about it [here](https://www.eonline.com/news/1384622/miley-cyrus-says-this-moment-with-taylor-swift-and-demi-lovato-shows-shes-bisexual).
 
 ## Requirements
 - Python 3.8
