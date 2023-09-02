@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693622040)
+![Generated GIF](output.gif?raw=true&v=1693624049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kevin Costner's ex breaks down in court as actor accuses her of 'relentless jihad' ahead of proceedings**
+**7 photos of last night's dazzling blue supermoon in the Iowa sky**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kevin-costners-ex-breaks-down-court-actor-accuses-her-relentless-jihad-ahead-proceedings).
+You can read more about it [here](https://www.kcci.com/article/blue-supermoon-photos-2023-iowa/44961438).
 
 ## Requirements
 - Python 3.8
