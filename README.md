@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693674316)
+![Generated GIF](output.gif?raw=true&v=1693679648)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wes Anderson Talks Strikes & Controversial Roald Dahl Book Edits: “I Don’t Even Want The Artist To Modify Their Work” — Venice**
+**Russia moon probe crash likely left 33-foot-wide crater on the lunar surface, NASA images show**
 
-You can read more about it [here](https://deadline.com/2023/09/wes-anderson-venice-roald-dahl-netflix-1235533638/).
+You can read more about it [here](https://www.cbsnews.com/news/russia-luna-25-space-crash-crater-moon-nasa-images/).
 
 ## Requirements
 - Python 3.8
