@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693724756)
+![Generated GIF](output.gif?raw=true&v=1693726458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Walgreens CEO Rosalind Brewer steps down**
+**Ruby Franke: '8 Passengers' parenting mum arrested on child abuse suspicion**
 
-You can read more about it [here](https://chicago.suntimes.com/business/2023/9/1/23855354/rosalind-brewer-ceo-walgreens-boots-alliance-deerfield).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66651506).
 
 ## Requirements
 - Python 3.8
