@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693697634)
+![Generated GIF](output.gif?raw=true&v=1693701151)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No power and nowhere to stay as rural Florida starts recovering from Hurricane Idalia**
+**Dan Patrick Reacts To News That SMU, Cal and Stanford Will Join The ACC | 09/01/23**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/residents-return-find-homes-towns-devastated-path-idalia-102853501).
+You can read more about it [here](https://www.youtube.com/watch?v=rCb1UwW5LDE).
 
 ## Requirements
 - Python 3.8
