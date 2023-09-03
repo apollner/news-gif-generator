@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693753515)
+![Generated GIF](output.gif?raw=true&v=1693755228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How To Handle This Market; 7 Titans Are Near Buy Points**
+**Biden heads to Florida to tour Idalia damage as presidential politics swirl**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-how-to-handle-this-market-rally-magnificent-7-all-near-buy-points/).
+You can read more about it [here](https://www.cnn.com/2023/09/02/politics/joe-biden-florida-trip-hurricane-idalia-ron-desantis/index.html).
 
 ## Requirements
 - Python 3.8
