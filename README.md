@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693710436)
+![Generated GIF](output.gif?raw=true&v=1693712073)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New COVID variant BA.2.86 is now in 5 states. Here's what to know**
+**Kevin Costner Breaks Silence On ‘Yellowstone’ Feud, Threatens Lawsuit**
 
-You can read more about it [here](https://abcnews.go.com/Health/new-covid-variant-ba286-now-5-states/story?id=102858143).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/kevin-costner-yellowstone-7-seasons-1235580306/).
 
 ## Requirements
 - Python 3.8
