@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693773253)
+![Generated GIF](output.gif?raw=true&v=1693775110)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Intact 1881 'Trinidad' shipwreck found in Wisconsin waters by historians - The Washington Post**
+**Ahead of big sports weekend, dispute with Disney leaves millions of cable subscribers in the dark**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/02/trinidad-schooner-shipwreck-maritime/).
+You can read more about it [here](https://www.wlwt.com/article/sports-dispute-disney-millions-cable-subscribers-dark-ohio/44980715).
 
 ## Requirements
 - Python 3.8
