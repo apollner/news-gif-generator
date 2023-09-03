@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693748057)
+![Generated GIF](output.gif?raw=true&v=1693750041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC Paris: Fight Day Focus - Ciryl Gane vs Sergey Spivac!**
+**Pac-12 Loses Stanford, Cal To ACC, All But Killing 108-Year-Old Conference**
 
-You can read more about it [here](https://www.youtube.com/watch?v=r9lWBPhrHUY).
+You can read more about it [here](https://deadline.com/2023/09/pac-12-loses-stanford-cal-to-acc-killing-108-year-old-west-coast-conference-1235534601/).
 
 ## Requirements
 - Python 3.8
