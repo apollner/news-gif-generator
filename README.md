@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693717555)
+![Generated GIF](output.gif?raw=true&v=1693719236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stanford, Cal, SMU catch last train into the Power Four, but it's hardly the end of conference realignment**
+**Kevin Costner Breaks Silence On ‘Yellowstone’ Feud, Threatens Lawsuit**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/stanford-cal-smu-catch-last-train-into-the-power-four-but-its-hardly-the-end-of-conference-realignment/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/kevin-costner-yellowstone-7-seasons-1235580306/).
 
 ## Requirements
 - Python 3.8
