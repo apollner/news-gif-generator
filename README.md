@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693714163)
+![Generated GIF](output.gif?raw=true&v=1693715682)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Students react to UNC Chapel Hill campus shooting**
+**How to watch ESPN amid Spectrum blackout**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OBby1xNbncM).
+You can read more about it [here](https://www.democratandchronicle.com/story/news/2023/09/01/how-to-watch-espn-during-spectrum-blackout/70740985007/).
 
 ## Requirements
 - Python 3.8
