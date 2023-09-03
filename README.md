@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693746394)
+![Generated GIF](output.gif?raw=true&v=1693748057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas AG Ken Paxton's impeachment trial is in the hands of Republicans who have been by his side**
+**UFC Paris: Fight Day Focus - Ciryl Gane vs Sergey Spivac!**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/02/texas-ag-ken-paxtons-impeachment-trial-is-in-the-hands-of-republicans-who-have-been-by-his-side-00113827).
+You can read more about it [here](https://www.youtube.com/watch?v=r9lWBPhrHUY).
 
 ## Requirements
 - Python 3.8
