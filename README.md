@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693728599)
+![Generated GIF](output.gif?raw=true&v=1693730054)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Impact Crater From Russia's Luna 25 Crash Spied by NASA's Lunar Orbiter**
+**Gabon coup: Military chief says suspension of democracy only 'temporary'**
 
-You can read more about it [here](https://scitechdaily.com/impact-crater-from-russias-luna-25-crash-spied-by-nasas-lunar-orbiter/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66691766).
 
 ## Requirements
 - Python 3.8
