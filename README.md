@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693771576)
+![Generated GIF](output.gif?raw=true&v=1693773253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chester County Prison escape: Danelo Cavalcante sighted 1.5 miles away**
+**Intact 1881 'Trinidad' shipwreck found in Wisconsin waters by historians - The Washington Post**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/chester-county-prison-escape-pennsylvania-danelo-cavalcante-sighting-pocopson-township/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/02/trinidad-schooner-shipwreck-maritime/).
 
 ## Requirements
 - Python 3.8
