@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693740989)
+![Generated GIF](output.gif?raw=true&v=1693745165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**BMW unveils Vision Neue Klasse concept car as it touts the dawn of a new EV era**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2023/09/02/vision-neue-klasse-german-automaker-bmw-unveils-new-ev-concept-car.html).
 
 ## Requirements
 - Python 3.8
