@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693708451)
+![Generated GIF](output.gif?raw=true&v=1693710436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blink-182 postpones concerts in Europe as Travis Barker returns stateside for 'urgent family matter'**
+**New COVID variant BA.2.86 is now in 5 states. Here's what to know**
 
-You can read more about it [here](https://www.cnn.com/2023/09/01/entertainment/travis-barker-blink-182-urgent-family-matter/index.html).
+You can read more about it [here](https://abcnews.go.com/Health/new-covid-variant-ba286-now-5-states/story?id=102858143).
 
 ## Requirements
 - Python 3.8
