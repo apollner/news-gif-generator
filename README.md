@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693764505)
+![Generated GIF](output.gif?raw=true&v=1693766108)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Richardson, a veteran diplomat and former governor, dead at 75**
+**Tropical Storm Katia forms, Idalia hits Bermuda while new system could target Caribbean**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/02/bill-richardson-dead-at-75/70750485007/).
+You can read more about it [here](http://www.orlandosentinel.com/2023/09/02/tropical-storm-katia-forms-idalia-hits-bermuda-while-new-system-could-target-caribbean/).
 
 ## Requirements
 - Python 3.8
