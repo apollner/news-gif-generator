@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693778727)
+![Generated GIF](output.gif?raw=true&v=1693780450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mountain West made pitches to Oregon State, Washington State - ESPN**
+**Gabon coup will not end rule by Bongo clan - presidential source**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38314274/mountain-west-made-pitches-oregon-state-washington-state).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66693997).
 
 ## Requirements
 - Python 3.8
