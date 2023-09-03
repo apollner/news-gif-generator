@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693766108)
+![Generated GIF](output.gif?raw=true&v=1693767891)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Katia forms, Idalia hits Bermuda while new system could target Caribbean**
+**Top Stories: Apple Event Announced for iPhone 15, New Apple Watches, USB-C AirPods, and More**
 
-You can read more about it [here](http://www.orlandosentinel.com/2023/09/02/tropical-storm-katia-forms-idalia-hits-bermuda-while-new-system-could-target-caribbean/).
+You can read more about it [here](https://www.macrumors.com/2023/09/02/top-stories-apple-iphone-15-event-announced/).
 
 ## Requirements
 - Python 3.8
