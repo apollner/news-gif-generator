@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693735593)
+![Generated GIF](output.gif?raw=true&v=1693737304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The former Chester County Prison warden retired the day before a convicted murderer escaped, officials said**
+**Mohamed Al Fayed: Former Harrods owner dies at 94**
 
-You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-chester-county-prison-escape-20230901.html).
+You can read more about it [here](https://www.bbc.com/news/uk-66690623).
 
 ## Requirements
 - Python 3.8
