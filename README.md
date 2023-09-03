@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693737304)
+![Generated GIF](output.gif?raw=true&v=1693739104)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mohamed Al Fayed: Former Harrods owner dies at 94**
+**Kevin Costner Speaks Out About ‘Yellowstone’ Exit, Threatens to Sue Producers Over Salary**
 
-You can read more about it [here](https://www.bbc.com/news/uk-66690623).
+You can read more about it [here](https://variety.com/2023/tv/news/kevin-costner-yellowstone-exit-salary-1235711604/).
 
 ## Requirements
 - Python 3.8
