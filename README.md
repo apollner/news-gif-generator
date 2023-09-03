@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693715682)
+![Generated GIF](output.gif?raw=true&v=1693717555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch ESPN amid Spectrum blackout**
+**Stanford, Cal, SMU catch last train into the Power Four, but it's hardly the end of conference realignment**
 
-You can read more about it [here](https://www.democratandchronicle.com/story/news/2023/09/01/how-to-watch-espn-during-spectrum-blackout/70740985007/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/stanford-cal-smu-catch-last-train-into-the-power-four-but-its-hardly-the-end-of-conference-realignment/).
 
 ## Requirements
 - Python 3.8
