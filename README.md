@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693822222)
+![Generated GIF](output.gif?raw=true&v=1693823748)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**16-year-old student killed in shooting at Louisiana high school football game**
+**Maui firefighters faced blackout conditions, limited water, extreme wind during deadly Aug. 8 Lahaina wildfire**
 
-You can read more about it [here](https://nypost.com/2023/09/02/louisana-high-school-student-killed-in-football-game-shooting/).
+You can read more about it [here](https://mauinow.com).
 
 ## Requirements
 - Python 3.8
