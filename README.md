@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693845421)
+![Generated GIF](output.gif?raw=true&v=1693847136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Full WWE Payback Results and Highlights: WWE Now, September 2, 2023**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CDl6J9_4BGk).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
