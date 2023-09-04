@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693863254)
+![Generated GIF](output.gif?raw=true&v=1693865174)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minnesota prison on emergency lockdown after about 100 inmates 'refuse' to return to cells**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-prison-emergency-lockdown-after-100-inmates-refuse-102895704).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
