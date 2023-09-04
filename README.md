@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693802075)
+![Generated GIF](output.gif?raw=true&v=1693804025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**BMW Unveils Electric Car To Take On Tesla, China's BYD**
+**Drew Allar impresses as No. 7 Penn State knocks off West Virginia, 38-15**
 
-You can read more about it [here](https://www.ndtv.com/world-news/bmw-unveils-electric-car-to-take-on-tesla-chinas-byd-4354679).
+You can read more about it [here](https://sports.yahoo.com/drew-allar-impresses-as-no-7-penn-state-knocks-off-west-virginia-38-15-024857957.html).
 
 ## Requirements
 - Python 3.8
