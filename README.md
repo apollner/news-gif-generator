@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693798484)
+![Generated GIF](output.gif?raw=true&v=1693800651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google Pixel 8 Pro to launch new Night Sight for videos feature and with SIM card slot globally**
+**Neighbors say they tried to help Ruby Franke’s kids before YouTuber’s arrest on child abuse charges**
 
-You can read more about it [here](https://www.notebookcheck.net/Google-Pixel-8-Pro-to-launch-new-Night-Sight-for-videos-feature-and-with-SIM-card-slot-globally.745776.0.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/neighbors-say-tried-help-ruby-frankes-kids-youtubers-arrest-child-abus-rcna103145).
 
 ## Requirements
 - Python 3.8
