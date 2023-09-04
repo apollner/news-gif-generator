@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693812834)
+![Generated GIF](output.gif?raw=true&v=1693815068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Typhoon Haikui 2023 LIVE | Thousands Evacuated, Flights Cancelled As Taiwan Girds For Typhoon Haikui**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=l8Q62Sgwbn8).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
