@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693811258)
+![Generated GIF](output.gif?raw=true&v=1693812834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fans flock to Jimmy Buffett's eateries to toast the Mayor of Margaritaville**
+**Typhoon Haikui 2023 LIVE | Thousands Evacuated, Flights Cancelled As Taiwan Girds For Typhoon Haikui**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/fans-flock-jimmy-buffetts-eateries-toast-mayor-margaritaville-rcna103158).
+You can read more about it [here](https://www.youtube.com/watch?v=l8Q62Sgwbn8).
 
 ## Requirements
 - Python 3.8
