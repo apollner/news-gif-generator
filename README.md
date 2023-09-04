@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693787509)
+![Generated GIF](output.gif?raw=true&v=1693791239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis makes historic trip to Mongolia amid tensions with neighboring China and Russia**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/asia/pope-francis-mongolia-trip-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
