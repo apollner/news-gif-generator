@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693784027)
+![Generated GIF](output.gif?raw=true&v=1693787509)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deion Sanders full press conference after Colorado's 45-42 upset win over No. 17 TCU**
+**Pope Francis makes historic trip to Mongolia amid tensions with neighboring China and Russia**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SgUCfbE0858).
+You can read more about it [here](https://www.cnn.com/2023/09/02/asia/pope-francis-mongolia-trip-intl/index.html).
 
 ## Requirements
 - Python 3.8
