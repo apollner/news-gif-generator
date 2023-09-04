@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693834468)
+![Generated GIF](output.gif?raw=true&v=1693838062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football scores: Top 25 rankings, schedule, results for Week 1**
+**'There's a powerful argument' Trump is disqualified for presidency under 14th Amendment: Kaine**
 
-You can read more about it [here](https://www.ncaa.com/news/football/article/2023-09-03/college-football-scores-top-25-rankings-schedule-results-week-1).
+You can read more about it [here](https://abcnews.go.com/Politics/powerful-argument-trump-disqualified-presidency-14th-amendment-kaine/story?id=102886037).
 
 ## Requirements
 - Python 3.8
