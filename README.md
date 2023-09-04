@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693854321)
+![Generated GIF](output.gif?raw=true&v=1693856107)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More unmarried couples are buying homes together. What to know before you do**
+**Kevin Costner’s Accountant Alleges Christine Baumgartner Pays a Jaw-Dropping Monthly Amount on Designer Clothes**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/03/more-unmarried-couples-are-buying-homes-together.html).
+You can read more about it [here](https://www.sheknows.com/entertainment/articles/2837577/kevin-costner-accountant-christine-baumgartner-monthly-amount-clothes/).
 
 ## Requirements
 - Python 3.8
