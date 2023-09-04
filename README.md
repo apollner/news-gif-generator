@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693809359)
+![Generated GIF](output.gif?raw=true&v=1693811258)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Threats, insults, and Kremlin 'robots': How Russian diplomacy died under Putin**
+**Fans flock to Jimmy Buffett's eateries to toast the Mayor of Margaritaville**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66509180).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/fans-flock-jimmy-buffetts-eateries-toast-mayor-margaritaville-rcna103158).
 
 ## Requirements
 - Python 3.8
