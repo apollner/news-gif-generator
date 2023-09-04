@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693800651)
+![Generated GIF](output.gif?raw=true&v=1693802075)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Neighbors say they tried to help Ruby Franke’s kids before YouTuber’s arrest on child abuse charges**
+**BMW Unveils Electric Car To Take On Tesla, China's BYD**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/neighbors-say-tried-help-ruby-frankes-kids-youtubers-arrest-child-abus-rcna103145).
+You can read more about it [here](https://www.ndtv.com/world-news/bmw-unveils-electric-car-to-take-on-tesla-chinas-byd-4354679).
 
 ## Requirements
 - Python 3.8
