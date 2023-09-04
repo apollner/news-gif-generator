@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693848885)
+![Generated GIF](output.gif?raw=true&v=1693850986)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel’s Netanyahu calls for deportation of Eritrean refugee ‘rioters’**
+**‘Drake was Drake’ as UNC beat South Carolina. And now it looks like he has plenty of help**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/3/israels-netanyahu-calls-for-immediate-deportation-of-eritrean-refugees).
+You can read more about it [here](https://www.newsobserver.com/sports/college/acc/unc/article278913794.html).
 
 ## Requirements
 - Python 3.8
