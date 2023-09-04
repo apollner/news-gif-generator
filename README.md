@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693847136)
+![Generated GIF](output.gif?raw=true&v=1693848885)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Israel’s Netanyahu calls for deportation of Eritrean refugee ‘rioters’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/3/israels-netanyahu-calls-for-immediate-deportation-of-eritrean-refugees).
 
 ## Requirements
 - Python 3.8
