@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693825514)
+![Generated GIF](output.gif?raw=true&v=1693827227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Carolina vs. South Carolina Game Highlights | 2023 ACC Football**
+**Chester County Prison escape: Danelo Cavalcante sighted 1.5 miles away**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B9loEvyb9Dk).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/chester-county-prison-escape-pennsylvania-danelo-cavalcante-sighting-pocopson-township/).
 
 ## Requirements
 - Python 3.8
