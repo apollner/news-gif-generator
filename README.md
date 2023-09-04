@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693841679)
+![Generated GIF](output.gif?raw=true&v=1693843765)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Housing market affordability is so strained that couples want down payment cash rather than a wedding gift**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://fortune.com/2023/09/03/housing-market-affordability-couples-want-down-payment-cash-for-wedding-gift/).
 
 ## Requirements
 - Python 3.8
