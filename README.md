@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693918185)
+![Generated GIF](output.gif?raw=true&v=1693919478)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California woman accused in $2 million murder-for-hire plot to kill husband**
+**Early-childhood screen time linked to developmental delays in study - The Washington Post**
 
-You can read more about it [here](https://www.cbsnews.com/news/tatyana-remley-accused-offering-2-million-to-have-husband-mark-remley-killed/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/toddler-screen-time-developmental-delays/).
 
 ## Requirements
 - Python 3.8
