@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693924445)
+![Generated GIF](output.gif?raw=true&v=1693926435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Injured pickup truck driver rescued after 5 days trapped at bottom of 100-foot ravine in California**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/driver-rescued-5-days-trapped-ravine-sheeps-trail-stallion-springs-california/).
 
 ## Requirements
 - Python 3.8
