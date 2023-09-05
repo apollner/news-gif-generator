@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693913665)
+![Generated GIF](output.gif?raw=true&v=1693915988)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Early-childhood screen time linked to developmental delays in study - The Washington Post**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/toddler-screen-time-developmental-delays/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
