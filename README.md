@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693933707)
+![Generated GIF](output.gif?raw=true&v=1693935260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Military junta leader is sworn in as Gabon's interim president**
+**Biden is selling an economy on the rise. Voters aren't buying it so far.**
 
-You can read more about it [here](https://www.cnn.com/2023/09/04/africa/gabon-junta-leader-nguema-sworn-in-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/09/04/biden-economy-voters-00113877).
 
 ## Requirements
 - Python 3.8
