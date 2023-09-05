@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693873762)
+![Generated GIF](output.gif?raw=true&v=1693877455)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astronauts set for 'splashdown' off the coast of Florida**
+**Pope gives 'noble' Chinese people a shoutout at Mass in Mongolia**
 
-You can read more about it [here](https://thehill.com/homenews/space/4185609-astronauts-set-for-splashdown-off-the-coast-of-florida/).
+You can read more about it [here](https://www.politico.com/news/2023/09/03/pope-mongolia-china-catholic-mass-00113856).
 
 ## Requirements
 - Python 3.8
