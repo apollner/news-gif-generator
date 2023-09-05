@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693935260)
+![Generated GIF](output.gif?raw=true&v=1693937402)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden is selling an economy on the rise. Voters aren't buying it so far.**
+**Ukraine claims Russian drones crashed on Romanian territory**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/04/biden-economy-voters-00113877).
+You can read more about it [here](https://www.ft.com/content/4ff04e76-6369-45b8-adc5-092cf08f5e78).
 
 ## Requirements
 - Python 3.8
