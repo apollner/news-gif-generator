@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693895692)
+![Generated GIF](output.gif?raw=true&v=1693897696)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Public health experts weigh in on COVID hospitalization surge in Texas**
+**Chester County Prison escape: What you need to know**
 
-You can read more about it [here](https://www.wfaa.com/article/news/health/coronavirus/public-health-experts-covid-hospitalization-surge-texas/287-80cd6153-34f0-4c28-9162-7c6554b5fc80).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/chester-prison-escape-update-danelo-cavalcante/).
 
 ## Requirements
 - Python 3.8
