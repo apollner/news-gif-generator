@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693881246)
+![Generated GIF](output.gif?raw=true&v=1693884892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Americans brace for holiday travel crush as Labor Day weekend wraps up**
+**Top 5 Neuroscience Discoveries of the Week - September 3, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=U5qL4XFeNHA).
+You can read more about it [here](https://neurosciencenews.com/neuroscience-news-weekly-sep-3-2023/).
 
 ## Requirements
 - Python 3.8
