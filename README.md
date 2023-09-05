@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693955181)
+![Generated GIF](output.gif?raw=true&v=1693956909)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran Has Detained EU Official Since April 2022**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/iran-has-detained-eu-official-since-april-2022-8ead0b34).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
