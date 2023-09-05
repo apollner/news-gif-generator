@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693940720)
+![Generated GIF](output.gif?raw=true&v=1693942446)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is Merkel cell cancer? Rare skin cancer that caused Jimmy Buffett's death, explained.**
+**Dodgers P Julio Urías arrested on domestic violence charges - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/what-is-merkel-cell-cancer-jimmy-buffett-death/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38328539/dodgers-p-julio-urias-arrested-domestic-violence-charges).
 
 ## Requirements
 - Python 3.8
