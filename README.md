@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693947985)
+![Generated GIF](output.gif?raw=true&v=1693949655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California jewelry store owners fight back during attempted smash-and-grab by suspect in Trump mask**
+**What to know about Merkel cell carcinoma, Jimmy Buffett’s rare cancer**
 
-You can read more about it [here](https://www.foxnews.com/us/california-jewelry-store-owners-fight-back-during-attempted-smash-grab-suspect-trump-mask).
+You can read more about it [here](https://www.cnn.com/2023/09/04/health/jimmy-buffett-rare-merkel-cell-carcinoma/index.html).
 
 ## Requirements
 - Python 3.8
