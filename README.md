@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693949655)
+![Generated GIF](output.gif?raw=true&v=1693951570)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about Merkel cell carcinoma, Jimmy Buffett’s rare cancer**
+**Jimmy Buffett had been fighting skin cancer for 4 years before his death**
 
-You can read more about it [here](https://www.cnn.com/2023/09/04/health/jimmy-buffett-rare-merkel-cell-carcinoma/index.html).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/jimmy-buffett-had-been-fighting-skin-cancer-for-4-years-before-his-death/).
 
 ## Requirements
 - Python 3.8
