@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693926435)
+![Generated GIF](output.gif?raw=true&v=1693928051)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Injured pickup truck driver rescued after 5 days trapped at bottom of 100-foot ravine in California**
+**Woody Allen Avoids Controversial Questions at ‘Coup de Chance’ Press Conference in Venice, Teases Possible New York Film**
 
-You can read more about it [here](https://www.cbsnews.com/news/driver-rescued-5-days-trapped-ravine-sheeps-trail-stallion-springs-california/).
+You can read more about it [here](https://variety.com/2023/film/global/woody-allen-sexual-abuse-controversy-coup-de-chance-press-conference-venice-film-festival-1235712748/).
 
 ## Requirements
 - Python 3.8
