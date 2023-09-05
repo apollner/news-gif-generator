@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693938902)
+![Generated GIF](output.gif?raw=true&v=1693940720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2 dead, 3 injured in Birmingham club shooting; Shots fired outside UAB Hospital**
+**What is Merkel cell cancer? Rare skin cancer that caused Jimmy Buffett's death, explained.**
 
-You can read more about it [here](https://www.wvtm13.com/article/birmingham-labor-day-shooting-uab-hospital/44989804).
+You can read more about it [here](https://www.cbsnews.com/news/what-is-merkel-cell-cancer-jimmy-buffett-death/).
 
 ## Requirements
 - Python 3.8
