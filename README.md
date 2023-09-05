@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693899261)
+![Generated GIF](output.gif?raw=true&v=1693902852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India's moon rover completes its walk. Scientists analyzing data looking for signs of frozen water**
+**Taiwan: Typhoon Haikui makes second landfall**
 
-You can read more about it [here](https://www.ksl.com/article/50722530/indias-moon-rover-completes-its-walk-scientists-analyzing-data-looking-for-signs-of-frozen-water).
+You can read more about it [here](https://www.dw.com/en/taiwan-typhoon-haikui-makes-second-landfall/a-66705629).
 
 ## Requirements
 - Python 3.8
