@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693904890)
+![Generated GIF](output.gif?raw=true&v=1693906598)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Russia says it will not let foreign banks exit the market easily**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.businessinsider.com/russia-foreign-banks-exit-not-easy-unfreeze-russian-assets-sanctions-2023-9).
 
 ## Requirements
 - Python 3.8
