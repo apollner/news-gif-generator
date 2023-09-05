@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693915988)
+![Generated GIF](output.gif?raw=true&v=1693918185)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**California woman accused in $2 million murder-for-hire plot to kill husband**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/tatyana-remley-accused-offering-2-million-to-have-husband-mark-remley-killed/).
 
 ## Requirements
 - Python 3.8
