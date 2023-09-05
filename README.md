@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693928051)
+![Generated GIF](output.gif?raw=true&v=1693930192)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woody Allen Avoids Controversial Questions at ‘Coup de Chance’ Press Conference in Venice, Teases Possible New York Film**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2023/film/global/woody-allen-sexual-abuse-controversy-coup-de-chance-press-conference-venice-film-festival-1235712748/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
