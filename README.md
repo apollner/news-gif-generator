@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693942446)
+![Generated GIF](output.gif?raw=true&v=1693944479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dodgers P Julio Urías arrested on domestic violence charges - ESPN**
+**ESA to set target for first Ariane 6 launch after upcoming tests**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38328539/dodgers-p-julio-urias-arrested-domestic-violence-charges).
+You can read more about it [here](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/).
 
 ## Requirements
 - Python 3.8
