@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693919478)
+![Generated GIF](output.gif?raw=true&v=1693920856)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Early-childhood screen time linked to developmental delays in study - The Washington Post**
+**Injured pickup truck driver rescued after 5 days trapped at bottom of 100-foot ravine in California**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/toddler-screen-time-developmental-delays/).
+You can read more about it [here](https://www.cbsnews.com/news/driver-rescued-5-days-trapped-ravine-sheeps-trail-stallion-springs-california/).
 
 ## Requirements
 - Python 3.8
