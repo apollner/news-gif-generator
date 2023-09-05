@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693911926)
+![Generated GIF](output.gif?raw=true&v=1693913665)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ken Paxton’s affair will be focus of impeachment trial**
+**Early-childhood screen time linked to developmental delays in study - The Washington Post**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/04/ken-paxton-affair-impeachment-trial-marriage/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/toddler-screen-time-developmental-delays/).
 
 ## Requirements
 - Python 3.8
