@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693944479)
+![Generated GIF](output.gif?raw=true&v=1693946102)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ESA to set target for first Ariane 6 launch after upcoming tests**
+**Starfield Doesn't Require Fast Travel After All...Sort Of**
 
-You can read more about it [here](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/).
+You can read more about it [here](https://kotaku.com/starfield-bethesda-space-rpg-fast-travel-alanah-pearce-1850801976).
 
 ## Requirements
 - Python 3.8
