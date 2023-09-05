@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693884892)
+![Generated GIF](output.gif?raw=true&v=1693890417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top 5 Neuroscience Discoveries of the Week - September 3, 2023**
+**Second quarter updates, stream: Florida State Seminoles vs. LSU Tigers**
 
-You can read more about it [here](https://neurosciencenews.com/neuroscience-news-weekly-sep-3-2023/).
+You can read more about it [here](https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/2023/9/3/23849609/lsu-orlando-score-live-free-tigers-watch-stream-sec-acc-jordan-travis-daniels-norvell-kelly-abc).
 
 ## Requirements
 - Python 3.8
