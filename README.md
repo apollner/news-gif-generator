@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693879356)
+![Generated GIF](output.gif?raw=true&v=1693880411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PM Update: 'Hot Weather Emergency' declared; Labor Day heat index likely to top 100**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/09/03/pm-update-hot-weather-emergency-declared-labor-day-heat-index-likely-top-100/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
