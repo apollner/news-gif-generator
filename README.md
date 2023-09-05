@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693946102)
+![Generated GIF](output.gif?raw=true&v=1693947985)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starfield Doesn't Require Fast Travel After All...Sort Of**
+**California jewelry store owners fight back during attempted smash-and-grab by suspect in Trump mask**
 
-You can read more about it [here](https://kotaku.com/starfield-bethesda-space-rpg-fast-travel-alanah-pearce-1850801976).
+You can read more about it [here](https://www.foxnews.com/us/california-jewelry-store-owners-fight-back-during-attempted-smash-grab-suspect-trump-mask).
 
 ## Requirements
 - Python 3.8
