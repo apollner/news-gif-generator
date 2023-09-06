@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694012943)
+![Generated GIF](output.gif?raw=true&v=1694014505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thursday Night Football Week 1 Best Bets: Chiefs vs Lions**
+**Danelo Cavalcante press conference livestream: Police give updates on escaped Pennsylvania prisoner**
 
-You can read more about it [here](https://www.nbcsports.com/betting/nfl/news/thursday-night-football-week-1-best-bets-chiefs-vs-lions).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/05/danelo-cavalcante-press-conference-pennsylvania-prisoner/70763664007/).
 
 ## Requirements
 - Python 3.8
