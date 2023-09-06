@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693998318)
+![Generated GIF](output.gif?raw=true&v=1694000046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starlink satellites spotted above Pittsburgh area**
+**Congress returns to avoid shutdown and health questions swirl around McConnell**
 
-You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/starlink-satellites-pittsburgh-area-line-of-dots-in-sky/).
+You can read more about it [here](https://www.npr.org/2023/09/05/1196342529/senate-returns-shutdown-mcconnell-impeachment).
 
 ## Requirements
 - Python 3.8
