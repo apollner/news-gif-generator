@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694032456)
+![Generated GIF](output.gif?raw=true&v=1694034381)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alex Murdaugh's attorneys accuse clerk of court of jury tampering in motion seeking new murder trial**
+**National Hurricane Center tracking Tropical Depression 13 in Atlantic**
 
-You can read more about it [here](https://www.cnn.com/2023/09/05/us/alex-murdaugh-new-trial-request/index.html).
+You can read more about it [here](https://www.wpbf.com/article/florida-tracking-tropics/44999200).
 
 ## Requirements
 - Python 3.8
