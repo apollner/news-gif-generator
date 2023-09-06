@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693969731)
+![Generated GIF](output.gif?raw=true&v=1693971246)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wegovy: Weight-loss drug firm becomes Europe's most valuable**
+**Steve Harwell, former Smash Mouth frontman, dies at 56, representative says**
 
-You can read more about it [here](https://www.bbc.com/news/business-66714128).
+You can read more about it [here](https://www.cbsnews.com/news/steve-harwell-dies-smash-mouth-frontman-steve-harwell-dies-representative-says/).
 
 ## Requirements
 - Python 3.8
