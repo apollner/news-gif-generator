@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694037967)
+![Generated GIF](output.gif?raw=true&v=1694039652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Huawei's New Smartphone Shows China's Chip Progress. What It Means for Intel.**
+**Alex Murdaugh seeks new trial, alleges jury tampering in bombshell motion**
 
-You can read more about it [here](https://www.barrons.com/articles/intel-tsmc-stock-price-china-huawei-chips-e9d70703).
+You can read more about it [here](https://www.foxnews.com/us/alex-murdaugh-seeks-new-trial-alleges-jury-tampering-bombshell-motion).
 
 ## Requirements
 - Python 3.8
