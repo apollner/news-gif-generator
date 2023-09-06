@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694034381)
+![Generated GIF](output.gif?raw=true&v=1694036041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**National Hurricane Center tracking Tropical Depression 13 in Atlantic**
+**UW Madison pier collapse is second in 20 years**
 
-You can read more about it [here](https://www.wpbf.com/article/florida-tracking-tropics/44999200).
+You can read more about it [here](https://www.jsonline.com/story/news/education/2023/09/05/uw-madison-pier-collapse-memorial-union-terrace-is-second-in-20-years/70766874007/).
 
 ## Requirements
 - Python 3.8
