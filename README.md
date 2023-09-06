@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694004597)
+![Generated GIF](output.gif?raw=true&v=1694006035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jill Biden positive for COVID, President Biden tests negative -White House**
+**COVID is on the rise in Florida: What to know about hospitalizations, testing**
 
-You can read more about it [here](https://www.reuters.com/world/us/jill-biden-positive-covid-president-biden-tests-negative-white-house-2023-09-05/).
+You can read more about it [here](https://www.floridatoday.com/story/news/2023/09/04/covid-is-on-the-rise-in-florida-what-to-know-about-hospitalizations-testing/70700735007/).
 
 ## Requirements
 - Python 3.8
