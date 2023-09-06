@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694018245)
+![Generated GIF](output.gif?raw=true&v=1694019968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**“We’re not ‘gatekeepers’,” Apple and Microsoft tell European Union**
+**Great Wall of China damaged by workers allegedly looking for shortcut for their excavator**
 
-You can read more about it [here](https://www.ft.com/content/137d655b-c264-460f-bbe8-a269f0a3d8ac).
+You can read more about it [here](https://www.cbsnews.com/news/great-wall-of-china-damage-construction-workers-excavator-shortcut/).
 
 ## Requirements
 - Python 3.8
