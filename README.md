@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694030862)
+![Generated GIF](output.gif?raw=true&v=1694032456)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Four-person crew returns to Earth aboard SpaceX’s Dragon capsule**
+**Alex Murdaugh's attorneys accuse clerk of court of jury tampering in motion seeking new murder trial**
 
-You can read more about it [here](https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/).
+You can read more about it [here](https://www.cnn.com/2023/09/05/us/alex-murdaugh-new-trial-request/index.html).
 
 ## Requirements
 - Python 3.8
