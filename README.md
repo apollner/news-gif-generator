@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694016599)
+![Generated GIF](output.gif?raw=true&v=1694018245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beyoncé's Birthday Concerts: Here's Every Star Who Attended in L.A.**
+**“We’re not ‘gatekeepers’,” Apple and Microsoft tell European Union**
 
-You can read more about it [here](https://www.etonline.com/beyonces-birthday-concerts-heres-every-star-who-attended-the-renaissance-world-tour-in-los-angeles).
+You can read more about it [here](https://www.ft.com/content/137d655b-c264-460f-bbe8-a269f0a3d8ac).
 
 ## Requirements
 - Python 3.8
