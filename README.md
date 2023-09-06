@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694036041)
+![Generated GIF](output.gif?raw=true&v=1694037967)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UW Madison pier collapse is second in 20 years**
+**Huawei's New Smartphone Shows China's Chip Progress. What It Means for Intel.**
 
-You can read more about it [here](https://www.jsonline.com/story/news/education/2023/09/05/uw-madison-pier-collapse-memorial-union-terrace-is-second-in-20-years/70766874007/).
+You can read more about it [here](https://www.barrons.com/articles/intel-tsmc-stock-price-china-huawei-chips-e9d70703).
 
 ## Requirements
 - Python 3.8
