@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694027125)
+![Generated GIF](output.gif?raw=true&v=1694028849)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Huawei's New Smartphone Shows China's Chip Progress. What It Means for Intel.**
+**Kylie Jenner and Timothée Chalamet Make First Public Appearance at Beyoncé Concert**
 
-You can read more about it [here](https://www.barrons.com/articles/intel-tsmc-stock-price-china-huawei-chips-e9d70703).
+You can read more about it [here](https://www.youtube.com/watch?v=QBy9QdPuUrQ).
 
 ## Requirements
 - Python 3.8
