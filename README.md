@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693978462)
+![Generated GIF](output.gif?raw=true&v=1693980643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An Australian who fell ill at a remote Antarctic base is rescued, authorities say**
+**'Absolute standoff' between Pence, Ramaswamy in New Hampshire**
 
-You can read more about it [here](https://www.npr.org/2023/09/05/1197572856/an-australian-who-fell-ill-at-a-remote-antarctic-base-is-rescued-authorities-say).
+You can read more about it [here](https://www.politico.com/news/2023/09/04/pence-vs-ramaswamy-is-quickly-becoming-the-hottest-undercard-feud-of-2024-00113908).
 
 ## Requirements
 - Python 3.8
