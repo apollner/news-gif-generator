@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694007304)
+![Generated GIF](output.gif?raw=true&v=1694009214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In EV Transition, German Carmakers Lag Behind Tesla and China**
+**An angelfish at the Denver Zoo was "swimming abnormally." A special CT scan revealed the reason why.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvYXV0b3MvaW4tZXYtdHJhbnNpdGlvbi1nZXJtYW4tY2FybWFrZXJzLWxhZy1iZWhpbmQtdGVzbGEtYW5kLWNoaW5hLTVmNjBhOTlm0gEA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/angelfish-denver-zoo-swimming-with-tilt-ct-scan/).
 
 ## Requirements
 - Python 3.8
