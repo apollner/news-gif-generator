@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693992837)
+![Generated GIF](output.gif?raw=true&v=1693994890)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tomorrow's Top 25 Today: Florida State, Alabama rise as Colorado, Duke crash new college football rankings**
+**Starlink satellites spotted above Pittsburgh area**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/tomorrows-top-25-today-florida-state-alabama-rise-as-colorado-duke-crash-new-college-football-rankings/).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/starlink-satellites-pittsburgh-area-line-of-dots-in-sky/).
 
 ## Requirements
 - Python 3.8
