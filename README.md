@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694010953)
+![Generated GIF](output.gif?raw=true&v=1694012943)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID is on the rise in Florida: What to know about hospitalizations, testing**
+**Thursday Night Football Week 1 Best Bets: Chiefs vs Lions**
 
-You can read more about it [here](https://www.floridatoday.com/story/news/2023/09/04/covid-is-on-the-rise-in-florida-what-to-know-about-hospitalizations-testing/70700735007/).
+You can read more about it [here](https://www.nbcsports.com/betting/nfl/news/thursday-night-football-week-1-best-bets-chiefs-vs-lions).
 
 ## Requirements
 - Python 3.8
