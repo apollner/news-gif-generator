@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694014505)
+![Generated GIF](output.gif?raw=true&v=1694016599)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danelo Cavalcante press conference livestream: Police give updates on escaped Pennsylvania prisoner**
+**Beyoncé's Birthday Concerts: Here's Every Star Who Attended in L.A.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/05/danelo-cavalcante-press-conference-pennsylvania-prisoner/70763664007/).
+You can read more about it [here](https://www.etonline.com/beyonces-birthday-concerts-heres-every-star-who-attended-the-renaissance-world-tour-in-los-angeles).
 
 ## Requirements
 - Python 3.8
