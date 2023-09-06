@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693985691)
+![Generated GIF](output.gif?raw=true&v=1693987845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emergency responders at Hampton Beach report an increase of rescue calls this summer**
+**Who is Rustem Umerov, Zelensky's pick for Ukraine defense minister?**
 
-You can read more about it [here](https://www.wmur.com/article/hampton-new-hampshire-rescue-calls-increase/44991858).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/04/umerov-defense-minister-ukraine/).
 
 ## Requirements
 - Python 3.8
