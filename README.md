@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694028849)
+![Generated GIF](output.gif?raw=true&v=1694030862)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kylie Jenner and Timothée Chalamet Make First Public Appearance at Beyoncé Concert**
+**Four-person crew returns to Earth aboard SpaceX’s Dragon capsule**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QBy9QdPuUrQ).
+You can read more about it [here](https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/).
 
 ## Requirements
 - Python 3.8
