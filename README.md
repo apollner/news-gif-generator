@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694000046)
+![Generated GIF](output.gif?raw=true&v=1694002399)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Congress returns to avoid shutdown and health questions swirl around McConnell**
+**Texas Republicans put Trump ally Attorney General Ken Paxton on trial**
 
-You can read more about it [here](https://www.npr.org/2023/09/05/1196342529/senate-returns-shutdown-mcconnell-impeachment).
+You can read more about it [here](https://www.nbcnews.com/politics/politics-news/texas-republicans-trump-ally-attorney-general-ken-paxton-impeachment-rcna102601).
 
 ## Requirements
 - Python 3.8
