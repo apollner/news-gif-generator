@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694021694)
+![Generated GIF](output.gif?raw=true&v=1694023838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow Slips, Nasdaq Edges Higher; Warner Bros., Airbnb Stocks in Focus**
+**Taylor Swift Box Office: Theater Owners Predict Record $100M Opening for Eras Tour Concert Pic**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-05-2023).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-movie-1235581725/).
 
 ## Requirements
 - Python 3.8
