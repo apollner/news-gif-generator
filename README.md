@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694006035)
+![Generated GIF](output.gif?raw=true&v=1694007304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID is on the rise in Florida: What to know about hospitalizations, testing**
+**In EV Transition, German Carmakers Lag Behind Tesla and China**
 
-You can read more about it [here](https://www.floridatoday.com/story/news/2023/09/04/covid-is-on-the-rise-in-florida-what-to-know-about-hospitalizations-testing/70700735007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvYXV0b3MvaW4tZXYtdHJhbnNpdGlvbi1nZXJtYW4tY2FybWFrZXJzLWxhZy1iZWhpbmQtdGVzbGEtYW5kLWNoaW5hLTVmNjBhOTlm0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
