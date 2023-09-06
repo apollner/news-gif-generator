@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693987845)
+![Generated GIF](output.gif?raw=true&v=1693989311)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Rustem Umerov, Zelensky's pick for Ukraine defense minister?**
+**Starlink satellites spotted above Pittsburgh area**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/04/umerov-defense-minister-ukraine/).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/starlink-satellites-pittsburgh-area-line-of-dots-in-sky/).
 
 ## Requirements
 - Python 3.8
