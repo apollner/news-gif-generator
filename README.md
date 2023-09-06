@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1693980643)
+![Generated GIF](output.gif?raw=true&v=1693984043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Absolute standoff' between Pence, Ramaswamy in New Hampshire**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/04/pence-vs-ramaswamy-is-quickly-becoming-the-hottest-undercard-feud-of-2024-00113908).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
