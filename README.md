@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694090962)
+![Generated GIF](output.gif?raw=true&v=1694092320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC warns about rising RSV cases in Southeastern U.S.**
+**Three rescued after sharks attack inflatable yacht off Australian coast**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/09/06/cdc-rsv-vaccine-guidelines/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90aHJlZS1yZXNjdWVkLWFmdGVyLXNoYXJrcy1hdHRhY2steWFjaHQtb2ZmLWF1c3RyYWxpYW4tY29hc3QtMjAyMy0wOS0wNi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
