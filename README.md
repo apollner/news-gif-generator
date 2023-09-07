@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694084737)
+![Generated GIF](output.gif?raw=true&v=1694086459)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Manhunt for escaped killer continues for 6th day, leaving school districts closed and a Pennsylvania community on edge**
+**Vast Bubble of Galaxies Discovered – Believed To Be a Remnant From the Universe's Inception**
 
-You can read more about it [here](https://www.cnn.com/2023/09/05/us/danelo-cavalcante-fugitive-news-tuesday/index.html).
+You can read more about it [here](https://scitechdaily.com/?p=307076).
 
 ## Requirements
 - Python 3.8
