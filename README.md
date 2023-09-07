@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694086459)
+![Generated GIF](output.gif?raw=true&v=1694088788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vast Bubble of Galaxies Discovered – Believed To Be a Remnant From the Universe's Inception**
+**State to supply COVID-19 tests, masks in schools**
 
-You can read more about it [here](https://scitechdaily.com/?p=307076).
+You can read more about it [here](https://www.mynbc5.com/article/state-supply-covid-tests-in-schools/45019735).
 
 ## Requirements
 - Python 3.8
