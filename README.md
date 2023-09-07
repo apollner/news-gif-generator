@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694063262)
+![Generated GIF](output.gif?raw=true&v=1694067044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Goldman Sachs chief economist: US consumer won't break in 2024**
+**New Covid variant drives up Covid cases around U.S.**
 
-You can read more about it [here](https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-consumer-wont-break-in-2024-212928011.html).
+You can read more about it [here](https://www.youtube.com/watch?v=8yrPUZCyFiY).
 
 ## Requirements
 - Python 3.8
