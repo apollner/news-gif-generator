@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694068555)
+![Generated GIF](output.gif?raw=true&v=1694070380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NYPD changes policy on ‘kettling’ after civil liberties groups sue**
+**'Price Is Right' Host Bob Barker's Cause of Death Revealed**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/05/new-york-police-changes-force/).
+You can read more about it [here](https://people.com/bob-barker-cause-of-death-7965776).
 
 ## Requirements
 - Python 3.8
