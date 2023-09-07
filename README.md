@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694079263)
+![Generated GIF](output.gif?raw=true&v=1694081362)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC warns about rising RSV cases in Southeastern U.S.**
+**20-year-old Ben Shelton upsets Frances Tiafoe to advance to US Open semifinal**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/09/06/cdc-rsv-vaccine-guidelines/).
+You can read more about it [here](https://www.cnn.com/2023/09/06/tennis/ben-shelton-frances-tiafoe-us-open-spt/index.html).
 
 ## Requirements
 - Python 3.8
