@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694128031)
+![Generated GIF](output.gif?raw=true&v=1694129713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kourtney Kardashian Reveals She Had Urgent Fetal Surgery: ‘Forever Grateful to My Doctors for Saving Our Baby’s Life’**
+**Flooding in Greece, Turkey, Bulgaria: Death toll up to 14**
 
-You can read more about it [here](https://variety.com/2023/tv/news/kourtney-kardashian-fetal-surgery-baby-safe-travis-barker-1235715436/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/06/greece-turkey-flooding-deaths-bulgaria/70778476007/).
 
 ## Requirements
 - Python 3.8
