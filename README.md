@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694054052)
+![Generated GIF](output.gif?raw=true&v=1694056134)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sen. McConnell's health episodes show no evidence of stroke or seizure disorder but questions linger**
+**Fantasy football superflex rankings 2023: Week 1 QB, RB, WR, TE**
 
-You can read more about it [here](https://apnews.com/article/mitch-mcconnell-health-senate-doctor-162087fbf0d0c1dfa2c19beca1bd380f).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/id/38284782/fantasy-football-superflex-rankings-2023-qb-rb-wr-te-week-1).
 
 ## Requirements
 - Python 3.8
