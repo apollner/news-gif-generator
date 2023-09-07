@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694046575)
+![Generated GIF](output.gif?raw=true&v=1694050370)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Russian Army Quadrupled The Size Of Its Minefields**
+**Google's Android 14 release plans may have hit a snag**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/09/05/to-slow-the-ukrainian-counteroffensive-the-russian-army-quadrupled-the-size-of-its-minefields/).
+You can read more about it [here](https://www.androidpolice.com/android-14-delay-rumors-b/).
 
 ## Requirements
 - Python 3.8
