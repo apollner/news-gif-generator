@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694113522)
+![Generated GIF](output.gif?raw=true&v=1694115311)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lawsuit filed to remove Trump from ballot in CO under 14th Amendment - CREW**
+**Judge 'very skeptical' of DA's push to try Trump, 18 co-defendants together in Georgia election case**
 
-You can read more about it [here](https://www.citizensforethics.org/news/press-releases/lawsuit-filed-to-remove-trump-from-ballot-in-co-under-14th-amendment/).
+You can read more about it [here](https://abcnews.go.com/US/fulton-county-judge-hears-arguments-splitting-election-interference/story?id=102947647).
 
 ## Requirements
 - Python 3.8
