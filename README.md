@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694043252)
+![Generated GIF](output.gif?raw=true&v=1694046575)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York attorney general asks judge to fine Trump for 'frivolous' legal arguments**
+**The Russian Army Quadrupled The Size Of Its Minefields**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/05/trump-civil-fraud-lawsuit-sanctions-00114054).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/09/05/to-slow-the-ukrainian-counteroffensive-the-russian-army-quadrupled-the-size-of-its-minefields/).
 
 ## Requirements
 - Python 3.8
