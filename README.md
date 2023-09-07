@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694111650)
+![Generated GIF](output.gif?raw=true&v=1694113522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump is liable in the second E. Jean Carroll defamation case, judge rules; January trial will determine damages**
+**Lawsuit filed to remove Trump from ballot in CO under 14th Amendment - CREW**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.citizensforethics.org/news/press-releases/lawsuit-filed-to-remove-trump-from-ballot-in-co-under-14th-amendment/).
 
 ## Requirements
 - Python 3.8
