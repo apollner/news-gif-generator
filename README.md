@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694115311)
+![Generated GIF](output.gif?raw=true&v=1694117233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge 'very skeptical' of DA's push to try Trump, 18 co-defendants together in Georgia election case**
+**A UAW strike at Detroit’s Big 3 could be a ‘nightmare scenario’ for Ford and GM, top analyst Dan Ives warns**
 
-You can read more about it [here](https://abcnews.go.com/US/fulton-county-judge-hears-arguments-splitting-election-interference/story?id=102947647).
+You can read more about it [here](https://fortune.com/2023/09/06/uaw-strike-nightmare-scenario-for-carmakers-detroit-big-3-union/).
 
 ## Requirements
 - Python 3.8
