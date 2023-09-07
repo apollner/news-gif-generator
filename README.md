@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694093716)
+![Generated GIF](output.gif?raw=true&v=1694095605)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID-19 booster shots expected as early as next week**
+**Sailors rescued after several shark attacks damage inflatable catamaran in Coral Sea: Video**
 
-You can read more about it [here](https://abcnews.go.com/Health/covid-19-booster-shots-expected-early-week/story?id=102943545).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDkvMDYvY2F0YW1hcmFuLXNoYXJrLWF0dGFja3MtY29yYWwtc2VhLXZpZGVvLzcwNzc0NDA3MDA3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
