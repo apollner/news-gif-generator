@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694077636)
+![Generated GIF](output.gif?raw=true&v=1694079263)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Xi, Putin missing G20 summit not unusual, India's foreign minister says**
+**CDC warns about rising RSV cases in Southeastern U.S.**
 
-You can read more about it [here](https://www.reuters.com/world/india/xi-putin-missing-g20-summit-not-unusual-indias-foreign-minister-says-2023-09-06/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/09/06/cdc-rsv-vaccine-guidelines/).
 
 ## Requirements
 - Python 3.8
