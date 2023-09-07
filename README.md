@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694059847)
+![Generated GIF](output.gif?raw=true&v=1694061318)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NYPD changes policy on ‘kettling’ after civil liberties groups sue**
+**Brazilian state reels after its worst cyclone disaster**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/05/new-york-police-changes-force/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-66725124).
 
 ## Requirements
 - Python 3.8
