@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694100857)
+![Generated GIF](output.gif?raw=true&v=1694102993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AMD Radeon RX 7800 XT GPU Review & Benchmarks vs. RX 6800 XT, RTX 4070, & More**
+**Ukraine war: 16 killed in missile attack on market**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8qBQ0eZEnbY).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66731927).
 
 ## Requirements
 - Python 3.8
