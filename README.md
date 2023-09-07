@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694124370)
+![Generated GIF](output.gif?raw=true&v=1694126045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple is reportedly spending “millions of dollars a day” training AI**
+**Source - 49ers' Nick Bosa is highest-paid defensive player - ESPN**
 
-You can read more about it [here](https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38340390/source-49ers-nick-bosa-highest-paid-defensive-player).
 
 ## Requirements
 - Python 3.8
