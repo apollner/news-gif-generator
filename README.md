@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694095605)
+![Generated GIF](output.gif?raw=true&v=1694099224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sailors rescued after several shark attacks damage inflatable catamaran in Coral Sea: Video**
+**Mortgage demand drops to 27-year low as interest rates pull back**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDkvMDYvY2F0YW1hcmFuLXNoYXJrLWF0dGFja3MtY29yYWwtc2VhLXZpZGVvLzcwNzc0NDA3MDA3L9IBAA?oc=5).
+You can read more about it [here](https://www.cnbc.com/2023/09/06/mortgage-demand-drops-to-27-year-low-as-interest-rates-pull-back.html).
 
 ## Requirements
 - Python 3.8
