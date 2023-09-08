@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694133018)
+![Generated GIF](output.gif?raw=true&v=1694136781)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings**
+**Voters sue to kick Trump off ballot in Colorado, citing 14th Amendment theory**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/).
+You can read more about it [here](https://www.cnbc.com/2023/09/06/gop-voters-in-colorado-sue-to-kick-trump-off-ballot.html).
 
 ## Requirements
 - Python 3.8
