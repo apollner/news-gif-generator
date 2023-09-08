@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694194454)
+![Generated GIF](output.gif?raw=true&v=1694196607)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Polaroid Launches New I-2 Instant Camera**
+**Miami school board again shuts down LGBTQ month recognition**
 
-You can read more about it [here](https://hypebeast.com/2023/9/polaroid-launches-new-polaroid-i-2-instant-camera).
+You can read more about it [here](https://www.politico.com/news/2023/09/07/miami-school-board-lgbtq-month-dont-say-gay-00114496).
 
 ## Requirements
 - Python 3.8
