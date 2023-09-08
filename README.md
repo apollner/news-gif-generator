@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694189366)
+![Generated GIF](output.gif?raw=true&v=1694191084)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Remains of Netflix software engineer Yohanes Stefanos Kidane found in San Francisco Bay, police say**
+**Hurricane Lee: Projected path, maps and hurricane tracker**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/remains-netflix-software-engineer-found-san-francisco-bay-police-say-rcna103821).
+You can read more about it [here](https://abcnews.go.com/US/tropical-storm-lee-projected-path-maps-hurricane-tracker/story?id=102954151).
 
 ## Requirements
 - Python 3.8
