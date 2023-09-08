@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694142510)
+![Generated GIF](output.gif?raw=true&v=1694144047)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Will Nick Bosa deal break the impasse between Chris Jones, Chiefs?**
+**Is India changing its name to Bharat? G20 invite controversy explained**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-nick-bosa-deal-break-the-impasse-between-chris-jones-chiefs).
+You can read more about it [here](https://www.reuters.com/world/india/is-india-changing-its-name-bharat-g20-invite-controversy-explained-2023-09-06/).
 
 ## Requirements
 - Python 3.8
