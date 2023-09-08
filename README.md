@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694162044)
+![Generated GIF](output.gif?raw=true&v=1694164050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Jonas and Sophie Turner say they made a ‘united decision’ to divorce**
+**Indian PM arrives in Jakarta for ASEAN Summit and the East Asia Summit | Latest News | WION**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/entertainment/joe-jonas-sophie-turner-divorce-split-marriage/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qgBcQB6qPc0).
 
 ## Requirements
 - Python 3.8
