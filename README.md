@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694191084)
+![Generated GIF](output.gif?raw=true&v=1694192768)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Lee: Projected path, maps and hurricane tracker**
+**Biden, COVID and mask mandates are a timely test for the 2024 election. Here's what's at stake**
 
-You can read more about it [here](https://abcnews.go.com/US/tropical-storm-lee-projected-path-maps-hurricane-tracker/story?id=102954151).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/07/biden-covid-mask-mandates-2024/70771151007/).
 
 ## Requirements
 - Python 3.8
