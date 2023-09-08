@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694144047)
+![Generated GIF](output.gif?raw=true&v=1694147675)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Is India changing its name to Bharat? G20 invite controversy explained**
+**Heat wave leads some schools to close or dismiss classes early**
 
-You can read more about it [here](https://www.reuters.com/world/india/is-india-changing-its-name-bharat-g20-invite-controversy-explained-2023-09-06/).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/06/schools-heat-wave-closures-early-dismissals/).
 
 ## Requirements
 - Python 3.8
