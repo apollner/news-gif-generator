@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694156824)
+![Generated GIF](output.gif?raw=true&v=1694158474)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Bosa’s deal brings boost of confidence — and levity — to 49ers locker room**
+**Pennsylvania inmate escaped by crab-walking up a prison wall, video shows**
 
-You can read more about it [here](https://theathletic.com/4839773/2023/09/06/nick-bosa-extension-49ers-reaction/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOS8wNy8xMTk4MDYzNTA0L3Blbm5zeWx2YW5pYS1pbm1hdGUtZXNjYXBlZC1ieS1jcmFiLXdhbGtpbmctdXAtYS1wcmlzb24td2FsbC12aWRlby1zaG93c9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
