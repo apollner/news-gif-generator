@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694183650)
+![Generated GIF](output.gif?raw=true&v=1694185604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sudanese Refugee Camps In Chad**
+**Can a $599 camera bring Polaroid back?**
 
-You can read more about it [here](https://www.npr.org/2023/09/07/1197992318/sudanese-refugees-in-chad-scramble-to-survive).
+You can read more about it [here](https://www.youtube.com/watch?v=3sooI3ZFw_Q).
 
 ## Requirements
 - Python 3.8
