@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694205272)
+![Generated GIF](output.gif?raw=true&v=1694207118)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The View' hosts call out media 'spin' on Joe Jonas, Sophie Turner divorce**
+**Texas electricity grid to be constrained again today. ERCOT issues conservation appeal.**
 
-You can read more about it [here](https://ew.com/tv/the-view-joe-jonas-sophie-turner-divorce-sexist-undertones/).
+You can read more about it [here](https://www.expressnews.com/business/article/led-ercot-s-grid-emergency-hasn-t-explained-18352254.php).
 
 ## Requirements
 - Python 3.8
