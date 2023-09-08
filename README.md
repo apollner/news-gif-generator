@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694129713)
+![Generated GIF](output.gif?raw=true&v=1694133018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flooding in Greece, Turkey, Bulgaria: Death toll up to 14**
+**Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/06/greece-turkey-flooding-deaths-bulgaria/70778476007/).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/).
 
 ## Requirements
 - Python 3.8
