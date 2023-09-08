@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694208858)
+![Generated GIF](output.gif?raw=true&v=1694210755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Abortions have increased significantly in states that border those with bans, new analysis finds**
+**Hurricane Lee rapidly intensifies into major Category 4 storm, on track to be dangerous Category 5 on Friday**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/health/abortion-state-borders-guttmacher/index.html).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
 
 ## Requirements
 - Python 3.8
