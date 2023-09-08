@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694192768)
+![Generated GIF](output.gif?raw=true&v=1694194454)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden, COVID and mask mandates are a timely test for the 2024 election. Here's what's at stake**
+**Polaroid Launches New I-2 Instant Camera**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/07/biden-covid-mask-mandates-2024/70771151007/).
+You can read more about it [here](https://hypebeast.com/2023/9/polaroid-launches-new-polaroid-i-2-instant-camera).
 
 ## Requirements
 - Python 3.8
