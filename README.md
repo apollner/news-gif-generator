@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694181973)
+![Generated GIF](output.gif?raw=true&v=1694183650)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch the NFL season opener between the Kansas City Chiefs and the Detroit Lions**
+**Sudanese Refugee Camps In Chad**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/sport/nfl-season-opener-lions-chiefs-spt-intl/index.html).
+You can read more about it [here](https://www.npr.org/2023/09/07/1197992318/sudanese-refugees-in-chad-scramble-to-survive).
 
 ## Requirements
 - Python 3.8
