@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694171249)
+![Generated GIF](output.gif?raw=true&v=1694172844)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
+**Ukraine drone attack causes explosion near Russian military HQ**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
+You can read more about it [here](https://www.cnn.com/2023/09/07/europe/ukraine-russia-rostov-military-drone-strike-intl/index.html).
 
 ## Requirements
 - Python 3.8
