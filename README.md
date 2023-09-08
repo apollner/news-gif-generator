@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694185604)
+![Generated GIF](output.gif?raw=true&v=1694189366)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Can a $599 camera bring Polaroid back?**
+**Remains of Netflix software engineer Yohanes Stefanos Kidane found in San Francisco Bay, police say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3sooI3ZFw_Q).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/remains-netflix-software-engineer-found-san-francisco-bay-police-say-rcna103821).
 
 ## Requirements
 - Python 3.8
