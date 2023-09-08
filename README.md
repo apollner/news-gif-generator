@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694200051)
+![Generated GIF](output.gif?raw=true&v=1694201651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami school board again shuts down LGBTQ month recognition**
+**Peter Navarro convicted of contempt for defying Jan. 6 committee subpoena**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/07/miami-school-board-lgbtq-month-dont-say-gay-00114496).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/07/peter-navarro-guilty-contempt/).
 
 ## Requirements
 - Python 3.8
