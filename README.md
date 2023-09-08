@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694154912)
+![Generated GIF](output.gif?raw=true&v=1694156824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida sees uptick in COVID cases. What's causing the surge?**
+**Nick Bosa’s deal brings boost of confidence — and levity — to 49ers locker room**
 
-You can read more about it [here](https://www.heraldtribune.com/story/news/local/2023/09/05/florida-sees-uptick-in-coronavirus-cases-whats-causing-the-surge/70739099007/).
+You can read more about it [here](https://theathletic.com/4839773/2023/09/06/nick-bosa-extension-49ers-reaction/).
 
 ## Requirements
 - Python 3.8
