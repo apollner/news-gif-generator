@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694212457)
+![Generated GIF](output.gif?raw=true&v=1694214357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brett Kavanaugh says justices are working on ‘concrete steps’ on ethics**
+**Covid is surging again—you may want to mask up in these 3 scenarios, says infectious diseases doctor**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/politics/supreme-court-ethics-kavanaugh-speech/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/07/covid-19-consider-masking-again-in-these-situations-says-doctor.html).
 
 ## Requirements
 - Python 3.8
