@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694207118)
+![Generated GIF](output.gif?raw=true&v=1694208858)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas electricity grid to be constrained again today. ERCOT issues conservation appeal.**
+**Abortions have increased significantly in states that border those with bans, new analysis finds**
 
-You can read more about it [here](https://www.expressnews.com/business/article/led-ercot-s-grid-emergency-hasn-t-explained-18352254.php).
+You can read more about it [here](https://www.cnn.com/2023/09/07/health/abortion-state-borders-guttmacher/index.html).
 
 ## Requirements
 - Python 3.8
