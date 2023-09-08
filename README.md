@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694169282)
+![Generated GIF](output.gif?raw=true&v=1694171249)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lions vs Chiefs Player Props: The David Montgomery Bet for Thursday Night Football**
+**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/lions-vs-chiefs-player-props-david-montgomery-thursday-sept-7).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
 
 ## Requirements
 - Python 3.8
