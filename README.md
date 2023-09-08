@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694214357)
+![Generated GIF](output.gif?raw=true&v=1694216048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Covid is surging again—you may want to mask up in these 3 scenarios, says infectious diseases doctor**
+**Video: NASA's latest MOXIE experiment offers hope for human exploration on Mars**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/07/covid-19-consider-masking-again-in-these-situations-says-doctor.html).
+You can read more about it [here](https://www.cnn.com/videos/business/2023/09/07/nasa-moxie-mars-perseverance-rover-oxygen-ctw-vpx.cnn).
 
 ## Requirements
 - Python 3.8
