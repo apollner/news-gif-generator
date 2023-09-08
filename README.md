@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694164050)
+![Generated GIF](output.gif?raw=true&v=1694165676)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Indian PM arrives in Jakarta for ASEAN Summit and the East Asia Summit | Latest News | WION**
+**San Francisco 49ers’ Nick Bosa reportedly becomes highest paid NFL defensive player ever**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qgBcQB6qPc0).
+You can read more about it [here](https://www.cnn.com/2023/09/06/sport/nfl-nick-bosa-49ers-record-contract-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
