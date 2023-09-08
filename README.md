@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694201651)
+![Generated GIF](output.gif?raw=true&v=1694205272)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Peter Navarro convicted of contempt for defying Jan. 6 committee subpoena**
+**'The View' hosts call out media 'spin' on Joe Jonas, Sophie Turner divorce**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/07/peter-navarro-guilty-contempt/).
+You can read more about it [here](https://ew.com/tv/the-view-joe-jonas-sophie-turner-divorce-sexist-undertones/).
 
 ## Requirements
 - Python 3.8
