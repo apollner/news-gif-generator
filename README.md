@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694237645)
+![Generated GIF](output.gif?raw=true&v=1694239819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Goff and the Lions stun Mahomes and the Chiefs at home - ESPN**
+**North Korea says it has produced a 'tactical nuclear attack submarine'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38349585/goff-lions-stun-mahomes-chiefs-home).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/07/north-korea-says-it-has-produced-tactical-nuclear-attack-submarine/).
 
 ## Requirements
 - Python 3.8
