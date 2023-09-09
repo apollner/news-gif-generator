@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694257494)
+![Generated GIF](output.gif?raw=true&v=1694259253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China's Huawei launches Mate 60 Pro+ smartphone for presale**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
