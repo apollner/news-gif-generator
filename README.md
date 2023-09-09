@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694230463)
+![Generated GIF](output.gif?raw=true&v=1694232571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Preserved Roman swords dating back 1900 years found hidden deep in Dead Sea cave**
+**Hong Kong's heaviest rain in at least 140 years floods city streets, metro**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/07/roman-swords-found-in-dead-sea-cave/70788523007/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/hong-kongs-heaviest-rain-least-140-years-floods-city-streets-metro-2023-09-08/).
 
 ## Requirements
 - Python 3.8
