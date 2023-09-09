@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694243142)
+![Generated GIF](output.gif?raw=true&v=1694244900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Toyota Century, the new high end hybrid SUV, has a $170,000 price tag**
+**FDA could greenlight new Covid boosters, but they won't be free for everyone**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/09/07/toyota-century-suv-price-features-luxury-market/70790299007/).
+You can read more about it [here](https://www.youtube.com/watch?v=y6TlWoGb7rs).
 
 ## Requirements
 - Python 3.8
