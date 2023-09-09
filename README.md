@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694241254)
+![Generated GIF](output.gif?raw=true&v=1694243142)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Burrow extension: Bengals make star QB highest-paid player in NFL history with five-year, $275M contract**
+**Toyota Century, the new high end hybrid SUV, has a $170,000 price tag**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/joe-burrow-extension-bengals-make-star-qb-highest-paid-player-in-nfl-history-with-five-year-275m-contract/).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/09/07/toyota-century-suv-price-features-luxury-market/70790299007/).
 
 ## Requirements
 - Python 3.8
