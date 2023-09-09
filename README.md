@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694277336)
+![Generated GIF](output.gif?raw=true&v=1694279120)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple issues emergency patch after Pegasus spyware breach**
+**Oklahoma country music star Zach Bryan arrested in Craig County**
 
-You can read more about it [here](https://www.ft.com/content/a0e75b32-8f95-4869-af94-e5f44f0f7961).
+You can read more about it [here](https://www.koco.com/article/oklahoma-craig-county-zach-bryan-arrested/45041599).
 
 ## Requirements
 - Python 3.8
