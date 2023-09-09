@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694263518)
+![Generated GIF](output.gif?raw=true&v=1694264793)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iOS 16.6.1 fixes a big iPhone security vulnerability used to install Pegasus spyware**
+**The Situation Room got a makeover. Here's what it looks like now**
 
-You can read more about it [here](https://www.theverge.com/2023/9/8/23864150/ios-16-6-1-iphone-security-vulnerability-0-day-exploit-patch-update).
+You can read more about it [here](https://www.npr.org/2023/09/08/1198343428/white-house-situation-room-makeover).
 
 ## Requirements
 - Python 3.8
