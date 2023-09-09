@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694234066)
+![Generated GIF](output.gif?raw=true&v=1694235950)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rescuers rush to save American man trapped in deep cave in Turkey**
+**Fantasy Football Week 1 PPR Cheat Sheet: Player ratings to help make your toughest lineup calls**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/middleeast/turkey-american-cave-rescue-scli-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-1-ppr-cheat-sheet-player-ratings-to-help-make-your-toughest-lineup-calls/).
 
 ## Requirements
 - Python 3.8
