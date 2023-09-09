@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694239819)
+![Generated GIF](output.gif?raw=true&v=1694241254)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea says it has produced a 'tactical nuclear attack submarine'**
+**Joe Burrow extension: Bengals make star QB highest-paid player in NFL history with five-year, $275M contract**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/07/north-korea-says-it-has-produced-tactical-nuclear-attack-submarine/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/joe-burrow-extension-bengals-make-star-qb-highest-paid-player-in-nfl-history-with-five-year-275m-contract/).
 
 ## Requirements
 - Python 3.8
