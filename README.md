@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694270043)
+![Generated GIF](output.gif?raw=true&v=1694271928)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China's Xi to skip G20, giving Biden and Modi and opening**
+**US Open: Coco Gauff wins semifinal delayed by climate protest; will face Sabalenka in the final**
 
-You can read more about it [here](https://www.axios.com/2023/09/08/g20-xi-china-modi-india-biden-supply-chains).
+You can read more about it [here](https://abc7ny.com/us-open-climate-protest-coco-gauff-semifinal/13752703/).
 
 ## Requirements
 - Python 3.8
