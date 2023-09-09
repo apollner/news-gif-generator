@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694225718)
+![Generated GIF](output.gif?raw=true&v=1694226892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Fallon Apologizes to Staffers Following Report of Toxic Workplace Behavior: ‘It’s Embarrassing And I Feel So Bad’**
+**Hollywood Strikes Shift Spotlight to Local Filmmakers at TIFF**
 
-You can read more about it [here](https://variety.com/2023/tv/news/jimmy-fallon-apologizes-abuse-tonight-show-1235716206/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/tiff-toronto-film-festival-hollywood-strikes-local-filmmakers-focus-1235571949/).
 
 ## Requirements
 - Python 3.8
