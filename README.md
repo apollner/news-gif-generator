@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694284443)
+![Generated GIF](output.gif?raw=true&v=1694286324)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lindsey Graham among those who Georgia special grand jury recommended for charges in 2020 election probe**
+**Danelo Cavalcante prison escape: Updates, search area, sightings in Chester County**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-release-findings-georgia-special-grand-jury-investigated/story?id=103027242).
+You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230908.html).
 
 ## Requirements
 - Python 3.8
