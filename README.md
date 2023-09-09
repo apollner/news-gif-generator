@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694271928)
+![Generated GIF](output.gif?raw=true&v=1694273701)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Open: Coco Gauff wins semifinal delayed by climate protest; will face Sabalenka in the final**
+**Apple Event 2023: iPhone 15 Pro Max, AirPods, Watch Series 9, Products to Expect**
 
-You can read more about it [here](https://abc7ny.com/us-open-climate-protest-coco-gauff-semifinal/13752703/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-08/apple-event-2023-iphone-15-pro-max-airpods-watch-series-9-products-to-expect).
 
 ## Requirements
 - Python 3.8
