@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694253958)
+![Generated GIF](output.gif?raw=true&v=1694255649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Becomes the Biggest U.S.-China Pawn Yet**
+**Gov. Kristi Noem to endorse Trump during South Dakota campaign rally**
 
-You can read more about it [here](https://www.wsj.com/tech/apple-becomes-the-biggest-u-s-china-pawn-yet-ad093256).
+You can read more about it [here](https://www.politico.com/news/2023/09/07/gov-kristi-noem-to-endorse-trump-during-south-dakota-campaign-rally-00114648).
 
 ## Requirements
 - Python 3.8
