@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694268321)
+![Generated GIF](output.gif?raw=true&v=1694270043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hong Kong paralyzed by flash flooding after heaviest rainfall since 1884**
+**China's Xi to skip G20, giving Biden and Modi and opening**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/asia/hong-kong-black-rainstorm-flooding-intl-hnk/index.html).
+You can read more about it [here](https://www.axios.com/2023/09/08/g20-xi-china-modi-india-biden-supply-chains).
 
 ## Requirements
 - Python 3.8
