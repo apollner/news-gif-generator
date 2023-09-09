@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694288058)
+![Generated GIF](output.gif?raw=true&v=1694289972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Migrants NYC: Mayor Eric Adams says asylum seeker crisis 'will destroy New York City'**
+**Kroger Says Supermarket Sales Are Under Pressure as Shoppers Pull Back**
 
-You can read more about it [here](https://abc7ny.com/eric-adams-migrant-crisis-nyc-immigration/13752264/).
+You can read more about it [here](https://www.wsj.com/business/retail/kroger-kr-2q-earnings-report-2023-e40fab70).
 
 ## Requirements
 - Python 3.8
