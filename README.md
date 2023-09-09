@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694297121)
+![Generated GIF](output.gif?raw=true&v=1694298851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stellantis offers 14.5% pay increase to UAW, days before possible strike**
+**Fulton County special grand jury recommended charges against Lindsey Graham, David Perdue and Kelly Loeffler**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/08/stellantis-offers-pay-increase-to-uaw-days-before-possible-strike.html).
+You can read more about it [here](https://www.cnn.com/2023/09/08/politics/fulton-county-special-grand-jury-report/index.html).
 
 ## Requirements
 - Python 3.8
