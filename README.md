@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694219394)
+![Generated GIF](output.gif?raw=true&v=1694222990)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
+**Mexico is likely to get its first female president: Mexico City Mayor Claudia Sheinbaum or Xóchitl Gálvez**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/07/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
+You can read more about it [here](https://abc7.com/mexico-president-woman-election/13749403/).
 
 ## Requirements
 - Python 3.8
