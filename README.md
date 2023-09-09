@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694273701)
+![Generated GIF](output.gif?raw=true&v=1694275860)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Event 2023: iPhone 15 Pro Max, AirPods, Watch Series 9, Products to Expect**
+**Covid worries linger at colleges, but little appetite for tighter controls**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-08/apple-event-2023-iphone-15-pro-max-airpods-watch-series-9-products-to-expect).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/08/colleges-covid-surge-fall-semester/).
 
 ## Requirements
 - Python 3.8
