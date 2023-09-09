@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694224801)
+![Generated GIF](output.gif?raw=true&v=1694225718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
+**Jimmy Fallon Apologizes to Staffers Following Report of Toxic Workplace Behavior: ‘It’s Embarrassing And I Feel So Bad’**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/07/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
+You can read more about it [here](https://variety.com/2023/tv/news/jimmy-fallon-apologizes-abuse-tonight-show-1235716206/).
 
 ## Requirements
 - Python 3.8
