@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694255649)
+![Generated GIF](output.gif?raw=true&v=1694257494)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gov. Kristi Noem to endorse Trump during South Dakota campaign rally**
+**China's Huawei launches Mate 60 Pro+ smartphone for presale**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/07/gov-kristi-noem-to-endorse-trump-during-south-dakota-campaign-rally-00114648).
+You can read more about it [here](https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/).
 
 ## Requirements
 - Python 3.8
