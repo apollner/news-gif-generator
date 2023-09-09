@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694232571)
+![Generated GIF](output.gif?raw=true&v=1694234066)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hong Kong's heaviest rain in at least 140 years floods city streets, metro**
+**Rescuers rush to save American man trapped in deep cave in Turkey**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/hong-kongs-heaviest-rain-least-140-years-floods-city-streets-metro-2023-09-08/).
+You can read more about it [here](https://www.cnn.com/2023/09/07/middleeast/turkey-american-cave-rescue-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
