@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694280859)
+![Generated GIF](output.gif?raw=true&v=1694282956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Burrow reportedly signs 5-year, $275 million contract extension with Bengals**
+**Elon Musk gave biographer top Ukrainian official's private messages without permission**
 
-You can read more about it [here](https://sports.yahoo.com/joe-burrow-5-year-275-million-contract-extension-bengals-report-120104430.html).
+You can read more about it [here](https://www.ft.com/content/b38367f0-c70f-4a26-b9fa-8bf160e1803a).
 
 ## Requirements
 - Python 3.8
