@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694286324)
+![Generated GIF](output.gif?raw=true&v=1694288058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danelo Cavalcante prison escape: Updates, search area, sightings in Chester County**
+**Migrants NYC: Mayor Eric Adams says asylum seeker crisis 'will destroy New York City'**
 
-You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230908.html).
+You can read more about it [here](https://abc7ny.com/eric-adams-migrant-crisis-nyc-immigration/13752264/).
 
 ## Requirements
 - Python 3.8
