@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694282956)
+![Generated GIF](output.gif?raw=true&v=1694284443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk gave biographer top Ukrainian official's private messages without permission**
+**Lindsey Graham among those who Georgia special grand jury recommended for charges in 2020 election probe**
 
-You can read more about it [here](https://www.ft.com/content/b38367f0-c70f-4a26-b9fa-8bf160e1803a).
+You can read more about it [here](https://abcnews.go.com/US/judge-release-findings-georgia-special-grand-jury-investigated/story?id=103027242).
 
 ## Requirements
 - Python 3.8
