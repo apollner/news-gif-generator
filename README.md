@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694216048)
+![Generated GIF](output.gif?raw=true&v=1694219394)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video: NASA's latest MOXIE experiment offers hope for human exploration on Mars**
+**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
 
-You can read more about it [here](https://www.cnn.com/videos/business/2023/09/07/nasa-moxie-mars-perseverance-rover-oxygen-ctw-vpx.cnn).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/07/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
 
 ## Requirements
 - Python 3.8
