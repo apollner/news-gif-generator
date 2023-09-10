@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694387177)
+![Generated GIF](output.gif?raw=true&v=1694388834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FACT SHEET: World Leaders Launch a Landmark India-Middle East-Europe Economic Corridor**
+**Spectrum arranges free Fubo trials for customers who want ESPN channels**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spectrum-arranges-free-fubo-trials-for-customers-who-want-espn-channels).
 
 ## Requirements
 - Python 3.8
