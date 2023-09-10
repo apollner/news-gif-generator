@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694385242)
+![Generated GIF](output.gif?raw=true&v=1694387177)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 2 top plays: Ohio State, Texas-Alabama, more**
+**FACT SHEET: World Leaders Launch a Landmark India-Middle East-Europe Economic Corridor**
 
-You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-2-top-plays).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/).
 
 ## Requirements
 - Python 3.8
