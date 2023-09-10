@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694340372)
+![Generated GIF](output.gif?raw=true&v=1694342156)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft offers legal protection for AI copyright infringement challenges**
+**DeSantis camp on Iowa: A 'strong second' is good enough**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2023/09/microsoft-offers-legal-protection-for-ai-copyright-infringement-challenges/).
+You can read more about it [here](https://www.politico.com/news/2023/09/08/desantis-campaign-lowers-expectations-in-iowa-strong-second-good-enough-00114856).
 
 ## Requirements
 - Python 3.8
