@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694342156)
+![Generated GIF](output.gif?raw=true&v=1694343907)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis camp on Iowa: A 'strong second' is good enough**
+**Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/08/desantis-campaign-lowers-expectations-in-iowa-strong-second-good-enough-00114856).
+You can read more about it [here](https://news.yahoo.com/updated-covid-shots-coming-theyre-042914969.html).
 
 ## Requirements
 - Python 3.8
