@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694318960)
+![Generated GIF](output.gif?raw=true&v=1694320443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pennsylvania prison guard on duty when convicted murderer escaped is fired**
+**Nearly 300 killed as powerful earthquake strikes Morocco**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/pennsylvania-prison-guard-duty-convicted-murderer-escaped-fired-rcna104154).
+You can read more about it [here](https://www.cnn.com/2023/09/08/africa/morocco-6-8-magnitude-earthquake-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
