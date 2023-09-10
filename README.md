@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694322477)
+![Generated GIF](output.gif?raw=true&v=1694324048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Fain sees movement from Detroit 3 but criticizes Stellantis wage offer**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.detroitnews.com/story/business/autos/chrysler/2023/09/08/stellantis-offer-uaw-wage-increase-contract-negotiations-strike/70795639007/).
 
 ## Requirements
 - Python 3.8
