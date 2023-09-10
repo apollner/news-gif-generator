@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694358397)
+![Generated GIF](output.gif?raw=true&v=1694360052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Something Weird Is Going on With the Asteroid NASA Smashed**
+**College football schedule, games 2023: What to watch in Week 2, TV channels, Saturday kickoff times**
 
-You can read more about it [here](https://futurism.com/the-byte/dart-nasa-asteroid-orbit).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-schedule-games-2023-what-to-watch-in-week-2-tv-channels-saturday-kickoff-times/).
 
 ## Requirements
 - Python 3.8
