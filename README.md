@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694374492)
+![Generated GIF](output.gif?raw=true&v=1694376397)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jet Service JSX Lands at Center of Pilot Fight**
+**I review PCs for a living — here are the apps I install on every device**
 
-You can read more about it [here](https://www.wsj.com/business/airlines/jet-service-jsx-lands-at-center-of-pilot-fight-86a4f669).
+You can read more about it [here](https://www.digitaltrends.com/computing/as-a-reviewer-here-are-the-apps-i-install-on-every-new-pc-i-use/).
 
 ## Requirements
 - Python 3.8
