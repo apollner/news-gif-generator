@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694363823)
+![Generated GIF](output.gif?raw=true&v=1694365527)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden super PAC ad campaign begins in swing states - POLITICO**
+**Top Stories: Apple Event Expectations for iPhone 15, Apple Watch, and More**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/09/what-an-unprecedented-biden-ad-blitz-says-about-his-reelection-fight-00114838).
+You can read more about it [here](https://www.macrumors.com/2023/09/09/top-stories-iphone-15-event-preview/).
 
 ## Requirements
 - Python 3.8
