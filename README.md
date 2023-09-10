@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694347898)
+![Generated GIF](output.gif?raw=true&v=1694349920)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerful Hurricane Lee will create dangerous conditions along the East Coast, regardless of its uncertain final track**
+**African Union to become permanent member of G20, India’s Modi says**
 
-You can read more about it [here](https://www.cnn.com/2023/09/09/weather/hurricane-lee-path-saturday-climate/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/09/india/india-african-union-g20-permanent-member-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
