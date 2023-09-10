@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694338462)
+![Generated GIF](output.gif?raw=true&v=1694340372)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MOXIE, an oxygen generator on Mars Perseverance Rover produced oxygen**
+**Microsoft offers legal protection for AI copyright infringement challenges**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/08/mars-rover-perseverance-moxie-oxygen-generator/70795806007/).
+You can read more about it [here](https://arstechnica.com/information-technology/2023/09/microsoft-offers-legal-protection-for-ai-copyright-infringement-challenges/).
 
 ## Requirements
 - Python 3.8
