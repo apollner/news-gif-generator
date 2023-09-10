@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694370895)
+![Generated GIF](output.gif?raw=true&v=1694372706)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID-19, flu and RSV vaccines are all available this fall: See what some doctors recommend and why**
+**Colorado vs. Nebraska live stream, watch online, TV channel, prediction, pick, spread, football game odds**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/covid-19-flu-rsv-vaccines-available-this-fall-see-doctors-recommend-why).
+You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-nebraska-live-stream-watch-online-tv-channel-prediction-pick-spread-football-game-odds/).
 
 ## Requirements
 - Python 3.8
