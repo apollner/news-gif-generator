@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694331271)
+![Generated GIF](output.gif?raw=true&v=1694333414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Paul Reubens' official cause of death confirmed | EW.com**
+**Apple's China Dependency Spooks Investors After Ban**
 
-You can read more about it [here](https://ew.com/celebrity/paul-reubens-official-cause-of-death-certificate/).
+You can read more about it [here](https://www.wsj.com/tech/apples-china-dependency-spooks-investors-after-ban-3ad4f23c).
 
 ## Requirements
 - Python 3.8
