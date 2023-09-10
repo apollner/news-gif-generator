@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694362053)
+![Generated GIF](output.gif?raw=true&v=1694363823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google's Defense in Landmark Antitrust Case Hinges on Lawyers Who Took on Microsoft**
+**Biden super PAC ad campaign begins in swing states - POLITICO**
 
-You can read more about it [here](https://www.wsj.com/tech/googles-defense-in-landmark-antitrust-case-hinges-on-lawyers-who-took-on-microsoft-3c1d5059).
+You can read more about it [here](https://www.politico.com/news/2023/09/09/what-an-unprecedented-biden-ad-blitz-says-about-his-reelection-fight-00114838).
 
 ## Requirements
 - Python 3.8
