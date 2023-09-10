@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694309860)
+![Generated GIF](output.gif?raw=true&v=1694312256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football schedule, games 2023: What to watch in Week 2, TV channels, Saturday kickoff times**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-schedule-games-2023-what-to-watch-in-week-2-tv-channels-saturday-kickoff-times/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
