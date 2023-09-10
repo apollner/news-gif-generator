@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694383508)
+![Generated GIF](output.gif?raw=true&v=1694385242)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘The Nun II’ Scares Away ‘Equalizer 3’ With $13 Million Opening Day**
+**College football Week 2 top plays: Ohio State, Texas-Alabama, more**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/the-nun-2-opening-day-taissa-farmiga-1235718588/).
+You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-2-top-plays).
 
 ## Requirements
 - Python 3.8
