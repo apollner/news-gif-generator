@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694302501)
+![Generated GIF](output.gif?raw=true&v=1694305906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pennsylvania prison fires tower guard on duty when killer escaped as hundreds of officers scramble to find missing inmate**
+**Ashton Kutcher & Mila Kunis' Letters For Danny Masterson's Rape Trial Just Leaked**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/us/danelo-cavalcante-inmate-search-pennsylvania-friday/index.html).
+You can read more about it [here](https://stylecaster.com/lists/mila-kunis-ashton-kutcher-letters-danny-masterson/).
 
 ## Requirements
 - Python 3.8
