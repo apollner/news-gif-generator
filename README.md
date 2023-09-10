@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694351169)
+![Generated GIF](output.gif?raw=true&v=1694352852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Open 2023: Daniil Medvedev upsets Carlos Alcaraz, will face Novak Djokovic in finals**
+**How to watch the US Open women’s final as Coco Gauff chases glory on home soil**
 
-You can read more about it [here](https://www.foxnews.com/sports/us-open-2023-daniil-medvedev-upsets-carlos-alcaraz-novak-djokovic-finals).
+You can read more about it [here](https://www.cnn.com/2023/09/09/tennis/us-open-final-coco-gauff-aryna-sabalenka-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
