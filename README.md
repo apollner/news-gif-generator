@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694326261)
+![Generated GIF](output.gif?raw=true&v=1694327640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ben Shelton Had an Epic Response to Novak Djokovic Trolling His Celebration at U.S. Open**
+**Judge denies Mark Meadows' bid to remove his Georgia election case to federal court**
 
-You can read more about it [here](https://www.si.com/extra-mustard/2023/09/09/ben-shelton-epic-response-novak-djokovic-trolling-celebration-us-open).
+You can read more about it [here](https://abcnews.go.com/US/judge-denies-mark-meadows-bid-remove-georgia-election/story?id=103041811).
 
 ## Requirements
 - Python 3.8
