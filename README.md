@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694381644)
+![Generated GIF](output.gif?raw=true&v=1694383508)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FACT SHEET: World Leaders Launch a Landmark India-Middle East-Europe Economic Corridor**
+**Box Office: ‘The Nun II’ Scares Away ‘Equalizer 3’ With $13 Million Opening Day**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/).
+You can read more about it [here](https://variety.com/2023/film/box-office/the-nun-2-opening-day-taissa-farmiga-1235718588/).
 
 ## Requirements
 - Python 3.8
