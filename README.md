@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694327640)
+![Generated GIF](output.gif?raw=true&v=1694329579)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge denies Mark Meadows' bid to remove his Georgia election case to federal court**
+**5th circuit rules against Biden administration for social media contact**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-denies-mark-meadows-bid-remove-georgia-election/story?id=103041811).
+You can read more about it [here](https://www.npr.org/2023/09/08/1197971952/biden-administration-fifth-circuit-ruling-social-media-injunction).
 
 ## Requirements
 - Python 3.8
