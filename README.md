@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694343907)
+![Generated GIF](output.gif?raw=true&v=1694345654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses**
+**Carmelo Anthony reacts to Team USA's loss to Germany, explores the return of NBA superstars**
 
-You can read more about it [here](https://news.yahoo.com/updated-covid-shots-coming-theyre-042914969.html).
+You can read more about it [here](https://basketnews.com/news-194449-carmelo-anthony-reacts-to-team-usas-loss-to-germany-explores-the-return-of-nba-superstars.html).
 
 ## Requirements
 - Python 3.8
