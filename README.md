@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694349920)
+![Generated GIF](output.gif?raw=true&v=1694351169)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**African Union to become permanent member of G20, India’s Modi says**
+**US Open 2023: Daniil Medvedev upsets Carlos Alcaraz, will face Novak Djokovic in finals**
 
-You can read more about it [here](https://www.cnn.com/2023/09/09/india/india-african-union-g20-permanent-member-intl-hnk/index.html).
+You can read more about it [here](https://www.foxnews.com/sports/us-open-2023-daniil-medvedev-upsets-carlos-alcaraz-novak-djokovic-finals).
 
 ## Requirements
 - Python 3.8
