@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694315255)
+![Generated GIF](output.gif?raw=true&v=1694316871)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ashton Kutcher & Mila Kunis' Letters For Danny Masterson's Rape Trial Just Leaked**
+**[Removed]**
 
-You can read more about it [here](https://stylecaster.com/lists/mila-kunis-ashton-kutcher-letters-danny-masterson/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
