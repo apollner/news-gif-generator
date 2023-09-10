@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694365527)
+![Generated GIF](output.gif?raw=true&v=1694367235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top Stories: Apple Event Expectations for iPhone 15, Apple Watch, and More**
+**Colorado vs. Nebraska live stream, watch online, TV channel, prediction, pick, spread, football game odds**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/09/top-stories-iphone-15-event-preview/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-nebraska-live-stream-watch-online-tv-channel-prediction-pick-spread-football-game-odds/).
 
 ## Requirements
 - Python 3.8
