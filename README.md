@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694428548)
+![Generated GIF](output.gif?raw=true&v=1694430317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gun rights group sues New Mexico over order banning guns in public in Albuquerque**
+**Nick Saban postgame news conference: Everything Alabama coach said after Texas loss**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4196309-gun-rights-group-sues-over-new-mexico-gun-order/).
+You can read more about it [here](https://www.tuscaloosanews.com/story/sports/college/sec/2023/09/09/nick-saban-postgame-news-conference-alabama-coach-texas-loss/70814933007/).
 
 ## Requirements
 - Python 3.8
