@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694423357)
+![Generated GIF](output.gif?raw=true&v=1694424870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rescue operation to save American caver in Turkey is underway**
+**UN atomic watchdog warns of threat to nuclear safety as fighting spikes near a plant in Ukraine**
 
-You can read more about it [here](https://www.youtube.com/watch?v=yFgm5_tbu_o).
+You can read more about it [here](https://www.politico.com/news/2023/09/09/un-atomic-watchdog-nuclear-safety-00114884).
 
 ## Requirements
 - Python 3.8
