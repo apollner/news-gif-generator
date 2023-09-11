@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694434451)
+![Generated GIF](output.gif?raw=true&v=1694436620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US, Russia praise G20 summit declaration as meeting heads to close**
+**Sean Strickland upsets Israel Adesanya to take UFC middleweight title**
 
-You can read more about it [here](https://www.reuters.com/world/russia-says-g20-declaration-balanced-summit-moves-final-day-2023-09-10/).
+You can read more about it [here](https://www.aljazeera.com/sports/2023/9/10/sean-strickland-upsets-israel-adesanya-to-take-ufc-middleweight-title).
 
 ## Requirements
 - Python 3.8
