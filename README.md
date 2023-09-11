@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694421319)
+![Generated GIF](output.gif?raw=true&v=1694423357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nervous Moroccans spend a second night in streets after powerful earthquake kills more than 2,000**
+**Rescue operation to save American caver in Turkey is underway**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/africa/morocco-earthquake-day-two-intl-hnk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=yFgm5_tbu_o).
 
 ## Requirements
 - Python 3.8
