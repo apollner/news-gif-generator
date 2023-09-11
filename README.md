@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694451978)
+![Generated GIF](output.gif?raw=true&v=1694453662)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL player props, odds, expert picks, bets for Week 1, 2023: J.K. Dobbins goes over 56.5 rushing yards**
+**Revisit the 10 Best 'X-Files' Episodes, According to Fans**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-player-props-odds-expert-picks-bets-for-week-1-2023-j-k-dobbins-goes-over-56-5-rushing-yards/).
+You can read more about it [here](https://www.tvinsider.com/1104198/the-x-files-best-episodes-fans/).
 
 ## Requirements
 - Python 3.8
