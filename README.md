@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694473749)
+![Generated GIF](output.gif?raw=true&v=1694475234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Football season begins: Chicago Bears take on Green Bay Packers at Soldier Field to kick off week one of NFL season**
+**Stock futures are little changed ahead of key inflation data: Live updates**
 
-You can read more about it [here](https://abc7chicago.com/chicago-bears-green-bay-packers-nfl-season-week-one/13762470/).
+You can read more about it [here](https://www.cnbc.com/2023/09/10/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
