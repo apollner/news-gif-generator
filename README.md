@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694412667)
+![Generated GIF](output.gif?raw=true&v=1694414154)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several wounded when gunmen open fire on convoy in Mexican border town**
+**UN atomic watchdog warns of threat to nuclear safety as fighting spikes near a plant in Ukraine**
 
-You can read more about it [here](https://www.cbsnews.com/news/shooting-convoy-mexico-border-town-miguel-aleman-several-hurt-tamaulipas-roma-texas/).
+You can read more about it [here](https://www.politico.com/news/2023/09/09/un-atomic-watchdog-nuclear-safety-00114884).
 
 ## Requirements
 - Python 3.8
