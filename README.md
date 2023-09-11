@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694471653)
+![Generated GIF](output.gif?raw=true&v=1694473749)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These 5 steps can help you build a better body: ‘It’s not rocket science’**
+**Football season begins: Chicago Bears take on Green Bay Packers at Soldier Field to kick off week one of NFL season**
 
-You can read more about it [here](https://www.foxnews.com/health/5-steps-help-build-better-body-not-rocket-science).
+You can read more about it [here](https://abc7chicago.com/chicago-bears-green-bay-packers-nfl-season-week-one/13762470/).
 
 ## Requirements
 - Python 3.8
