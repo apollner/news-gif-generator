@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694424870)
+![Generated GIF](output.gif?raw=true&v=1694426926)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UN atomic watchdog warns of threat to nuclear safety as fighting spikes near a plant in Ukraine**
+**Unpacking Kevin Costner's Surprisingly Messy Divorce From Christine Baumgartner**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/09/un-atomic-watchdog-nuclear-safety-00114884).
+You can read more about it [here](https://www.eonline.com/news/1385048/unpacking-kevin-costners-surprisingly-messy-divorce-from-christine-baumgartner).
 
 ## Requirements
 - Python 3.8
