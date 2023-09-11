@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694410473)
+![Generated GIF](output.gif?raw=true&v=1694412667)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deion Sanders’ Colorado looks, acts and plays like Prime Time in win over Nebraska**
+**Several wounded when gunmen open fire on convoy in Mexican border town**
 
-You can read more about it [here](https://theathletic.com/4848186/2023/09/09/deion-sanders-colorado-nebraska-football/).
+You can read more about it [here](https://www.cbsnews.com/news/shooting-convoy-mexico-border-town-miguel-aleman-several-hurt-tamaulipas-roma-texas/).
 
 ## Requirements
 - Python 3.8
