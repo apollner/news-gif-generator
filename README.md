@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694388834)
+![Generated GIF](output.gif?raw=true&v=1694392223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spectrum arranges free Fubo trials for customers who want ESPN channels**
+**Prime Time: Deion Sanders dance lives on as son Shedeur leads Colorado**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spectrum-arranges-free-fubo-trials-for-customers-who-want-espn-channels).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/09/09/shedeur-deion-sanders-dance-colorado-win/70810915007/).
 
 ## Requirements
 - Python 3.8
