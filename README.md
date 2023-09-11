@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694396057)
+![Generated GIF](output.gif?raw=true&v=1694398625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Pee-wee Herman' actor Paul Reubens' cause of death revealed**
+**Mexico shooting: US citizens among 7 injured in border city of Miguel Aleman, officials say**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/pee-wee-herman-actor-paul-reubens-cause-death-revealed).
+You can read more about it [here](https://abc7.com/mexico-shooting-us-citizens-border/13759212/).
 
 ## Requirements
 - Python 3.8
