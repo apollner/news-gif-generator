@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694405398)
+![Generated GIF](output.gif?raw=true&v=1694406853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists in China may have just reinvented the toilet bowl**
+**Ashton Kutcher and Mila Kunis apologize over letters of support for Danny Masterson**
 
-You can read more about it [here](https://bgr.com/science/scientists-in-china-may-have-just-reinvented-the-toilet-bowl/).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/ashton-kutcher-mila-kunis-apologize-letters-support-danny/story?id=103057481).
 
 ## Requirements
 - Python 3.8
