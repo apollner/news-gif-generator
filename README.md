@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694416048)
+![Generated GIF](output.gif?raw=true&v=1694417689)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starfield player wows fans with their ultimate “space Lamborghini” build**
+**Daily horoscope for September 10, 2023**
 
-You can read more about it [here](https://www.dexerto.com/starfield/starfield-player-wows-fans-with-their-ultimate-space-lamborghini-build-2286572/).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html).
 
 ## Requirements
 - Python 3.8
