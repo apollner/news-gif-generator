@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694437901)
+![Generated GIF](output.gif?raw=true&v=1694441190)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Five key takeaways from G20 summit: ‘We need bolder action’**
+**High interest rates mean a boom for fixed-income investments, but taxes may be a buzzkill.**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/10/five-key-takeaways-from-the-final-g20-session).
+You can read more about it [here](https://www.usatoday.com/story/money/personalfinance/2023/09/10/high-interest-rates-fixed-income-investments-effect/70790845007/).
 
 ## Requirements
 - Python 3.8
