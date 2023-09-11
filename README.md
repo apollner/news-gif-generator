@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694406853)
+![Generated GIF](output.gif?raw=true&v=1694408847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ashton Kutcher and Mila Kunis apologize over letters of support for Danny Masterson**
+**Starfield player wows fans with their ultimate “space Lamborghini” build**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/ashton-kutcher-mila-kunis-apologize-letters-support-danny/story?id=103057481).
+You can read more about it [here](https://www.dexerto.com/starfield/starfield-player-wows-fans-with-their-ultimate-space-lamborghini-build-2286572/).
 
 ## Requirements
 - Python 3.8
