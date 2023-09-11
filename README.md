@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694442916)
+![Generated GIF](output.gif?raw=true&v=1694444901)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starfield pilot in awe after discovering rare solar eclipse**
+**Five key takeaways from G20 summit: ‘We need bolder action’**
 
-You can read more about it [here](https://www.dexerto.com/starfield/starfield-pilot-in-awe-after-discovering-rare-solar-eclipse-2286681/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/10/five-key-takeaways-from-the-final-g20-session).
 
 ## Requirements
 - Python 3.8
