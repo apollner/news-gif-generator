@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694464704)
+![Generated GIF](output.gif?raw=true&v=1694466354)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Youngkin pardons father of girl sexually assaulted at Loudoun school**
+**Lil Nas X’s Toronto Film Festival documentary premiere delayed due to threat from a ‘passerby,’ police say**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/entertainment/lil-nas-x-tiff-premiere-threat/index.html).
 
 ## Requirements
 - Python 3.8
