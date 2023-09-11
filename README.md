@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694448617)
+![Generated GIF](output.gif?raw=true&v=1694450350)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IMF chief says new Biden-backed economic corridor should not exclude any countries**
+**'Jawan' Global Box Office Delivers Record-Breaking Debut for Bollywood**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/10/imfs-georgieva-biden-backed-economic-corridor-should-not-exclude-anyone.html).
+You can read more about it [here](https://collider.com/jawan-global-box-office-46-million/).
 
 ## Requirements
 - Python 3.8
