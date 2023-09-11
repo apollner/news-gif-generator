@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694450350)
+![Generated GIF](output.gif?raw=true&v=1694451978)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Jawan' Global Box Office Delivers Record-Breaking Debut for Bollywood**
+**NFL player props, odds, expert picks, bets for Week 1, 2023: J.K. Dobbins goes over 56.5 rushing yards**
 
-You can read more about it [here](https://collider.com/jawan-global-box-office-46-million/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-player-props-odds-expert-picks-bets-for-week-1-2023-j-k-dobbins-goes-over-56-5-rushing-yards/).
 
 ## Requirements
 - Python 3.8
