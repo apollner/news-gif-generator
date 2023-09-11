@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694459112)
+![Generated GIF](output.gif?raw=true&v=1694460846)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**49ers have plan for Nick Bosa playing time vs. Steelers**
+**Youngkin pardons father of girl sexually assaulted at Loudoun school**
 
-You can read more about it [here](https://ninerswire.usatoday.com/2023/09/10/nick-bosa-playing-time-49ers-steelers/).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
 
 ## Requirements
 - Python 3.8
