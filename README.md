@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694460846)
+![Generated GIF](output.gif?raw=true&v=1694462834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Youngkin pardons father of girl sexually assaulted at Loudoun school**
+**Hurricane Lee is forecast to restrengthen as East Coast faces hazardous beach conditions this week**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/weather/hurricane-lee-path-sunday-climate/index.html).
 
 ## Requirements
 - Python 3.8
