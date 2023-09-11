@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694392223)
+![Generated GIF](output.gif?raw=true&v=1694396057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prime Time: Deion Sanders dance lives on as son Shedeur leads Colorado**
+**'Pee-wee Herman' actor Paul Reubens' cause of death revealed**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/09/09/shedeur-deion-sanders-dance-colorado-win/70810915007/).
+You can read more about it [here](https://www.foxnews.com/entertainment/pee-wee-herman-actor-paul-reubens-cause-death-revealed).
 
 ## Requirements
 - Python 3.8
