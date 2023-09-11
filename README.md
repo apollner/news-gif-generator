@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694403252)
+![Generated GIF](output.gif?raw=true&v=1694405398)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden greets Saudi Crown Prince MBS he once ripped as 'pariah' with warm handshake at G20 summit**
+**Scientists in China may have just reinvented the toilet bowl**
 
-You can read more about it [here](https://nypost.com/2023/09/09/biden-greets-saudi-pariah-with-handshake-at-g20-summit/).
+You can read more about it [here](https://bgr.com/science/scientists-in-china-may-have-just-reinvented-the-toilet-bowl/).
 
 ## Requirements
 - Python 3.8
