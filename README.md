@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694417689)
+![Generated GIF](output.gif?raw=true&v=1694419878)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daily horoscope for September 10, 2023**
+**[Removed]**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
