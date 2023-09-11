@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694446444)
+![Generated GIF](output.gif?raw=true&v=1694448617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danelo Cavalcante prison escape: Updates, search area, sightings in Chester County**
+**IMF chief says new Biden-backed economic corridor should not exclude any countries**
 
-You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230910.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/10/imfs-georgieva-biden-backed-economic-corridor-should-not-exclude-anyone.html).
 
 ## Requirements
 - Python 3.8
