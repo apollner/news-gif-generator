@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694426926)
+![Generated GIF](output.gif?raw=true&v=1694428548)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unpacking Kevin Costner's Surprisingly Messy Divorce From Christine Baumgartner**
+**Gun rights group sues New Mexico over order banning guns in public in Albuquerque**
 
-You can read more about it [here](https://www.eonline.com/news/1385048/unpacking-kevin-costners-surprisingly-messy-divorce-from-christine-baumgartner).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4196309-gun-rights-group-sues-over-new-mexico-gun-order/).
 
 ## Requirements
 - Python 3.8
