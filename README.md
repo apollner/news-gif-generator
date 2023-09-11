@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694398625)
+![Generated GIF](output.gif?raw=true&v=1694399662)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mexico shooting: US citizens among 7 injured in border city of Miguel Aleman, officials say**
+**Mila Kunis and Ashton Kutcher say they 'support victims' following backlash over their Danny Masterson letters**
 
-You can read more about it [here](https://abc7.com/mexico-shooting-us-citizens-border/13759212/).
+You can read more about it [here](https://www.yahoo.com/entertainment/mila-kunis-and-ashton-kutcher-apologize-danny-masterson-rape-conviction-211100132.html).
 
 ## Requirements
 - Python 3.8
