@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694457338)
+![Generated GIF](output.gif?raw=true&v=1694459112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rescuers scramble to find survivors in Morocco after powerful earthquake kills more than 2,000**
+**49ers have plan for Nick Bosa playing time vs. Steelers**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/africa/morocco-earthquake-day-two-intl-hnk/index.html).
+You can read more about it [here](https://ninerswire.usatoday.com/2023/09/10/nick-bosa-playing-time-49ers-steelers/).
 
 ## Requirements
 - Python 3.8
