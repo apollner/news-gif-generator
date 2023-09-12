@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694559964)
+![Generated GIF](output.gif?raw=true&v=1694561661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.K. Arrests Parliamentary Researcher in China Spy Probe**
+**GOP senators: Next move to avert shutdown is on McCarthy**
 
-You can read more about it [here](https://www.wsj.com/world/china/u-k-arrests-parliamentary-researcher-in-china-spy-probe-d098d169).
+You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
 
 ## Requirements
 - Python 3.8
