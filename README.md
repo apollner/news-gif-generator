@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694475234)
+![Generated GIF](output.gif?raw=true&v=1694478528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock futures are little changed ahead of key inflation data: Live updates**
+**The Nun II Scares Its Way to a $32.6 Million Domestic Weekend Box Office Victory**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/10/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.ign.com/articles/the-nun-ii-scares-its-way-to-a-326-million-domestic-weekend-box-office-victory).
 
 ## Requirements
 - Python 3.8
