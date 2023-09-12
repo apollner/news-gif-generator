@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694542202)
+![Generated GIF](output.gif?raw=true&v=1694543689)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Photos: America marks the 22nd anniversary of the 9/11 terrorist attacks**
+**More than 2,000 people feared dead in Libya after ‘catastrophic and unprecedented’ flooding**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/11/photos-america-marks-the-22nd-anniversary-of-the-9/11-terror-attacks-.html).
+You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
