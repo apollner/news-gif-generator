@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694493280)
+![Generated GIF](output.gif?raw=true&v=1694495239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Country Garden faces fresh test for onshore bond extensions**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/china/country-garden-faces-fresh-test-onshore-bond-extensions-2023-09-11/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
