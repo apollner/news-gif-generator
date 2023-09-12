@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694540056)
+![Generated GIF](output.gif?raw=true&v=1694542202)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Escaped Pennsylvania killer stole a van over the weekend and tried to contact acquaintances, police say. Here’s where the search stands**
+**Photos: America marks the 22nd anniversary of the 9/11 terrorist attacks**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/us/danelo-cavalcante-inmate-search-pennsylvania-monday/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/11/photos-america-marks-the-22nd-anniversary-of-the-9/11-terror-attacks-.html).
 
 ## Requirements
 - Python 3.8
