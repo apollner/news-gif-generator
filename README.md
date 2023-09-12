@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694509646)
+![Generated GIF](output.gif?raw=true&v=1694511318)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump is explaining exactly how wild and extreme his second term would be**
+**Las Vegas Raiders vs. Denver Broncos Game Highlights | NFL 2023 Week 1**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/politics/trump-wild-rhetoric-2024/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=JEVmIDXz8GM).
 
 ## Requirements
 - Python 3.8
