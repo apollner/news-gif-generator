@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694538422)
+![Generated GIF](output.gif?raw=true&v=1694540056)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Event: Recapping Last-Minute Rumors for iPhone 15 and More**
+**Escaped Pennsylvania killer stole a van over the weekend and tried to contact acquaintances, police say. Here’s where the search stands**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/11/apple-event-iphone-15-last-minute-rumors/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/us/danelo-cavalcante-inmate-search-pennsylvania-monday/index.html).
 
 ## Requirements
 - Python 3.8
