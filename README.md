@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694491786)
+![Generated GIF](output.gif?raw=true&v=1694493280)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 1 grades: Cowboys get an 'A' for destroying Giants, Bengals get an 'F' for blowout loss to Browns**
+**Country Garden faces fresh test for onshore bond extensions**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-1-grades-cowboys-get-an-a-for-destroying-giants-bengals-get-an-f-for-blowout-loss-to-browns/).
+You can read more about it [here](https://www.reuters.com/world/china/country-garden-faces-fresh-test-onshore-bond-extensions-2023-09-11/).
 
 ## Requirements
 - Python 3.8
