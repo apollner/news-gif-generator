@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694495239)
+![Generated GIF](output.gif?raw=true&v=1694496849)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**How 60 Minutes reported on the September 11th terrorist attacks**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/60-minutes-reporting-september-11-archive/).
 
 ## Requirements
 - Python 3.8
