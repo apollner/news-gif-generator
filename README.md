@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694504067)
+![Generated GIF](output.gif?raw=true&v=1694506287)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Monday, September 11, 2023**
+**Kylie Jenner, Timothee Chalamet pack on the PDA at US Open. Watch**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/11/23859127/horoscopes-today-monday-september-11-2023).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-timothee-chalamet-pack-on-the-pda-at-us-open-101694402962271.html).
 
 ## Requirements
 - Python 3.8
