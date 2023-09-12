@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694500521)
+![Generated GIF](output.gif?raw=true&v=1694502407)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rock County community holds Tractor Drive to support little boy with cancer - Channel3000.com**
+**Giants vs. Cowboys, Week 1: Live updates!**
 
-You can read more about it [here](https://www.channel3000.com/news/rock-county-community-holds-tractor-drive-to-support-little-boy-with-cancer/article_688dbc08-502d-11ee-b2a7-574cf1979c88.html).
+You can read more about it [here](https://www.bigblueview.com/2023/9/10/23865602/new-york-giants-vs-dalllas-cowboys-week-1-live-updates-nfl-sunday-night-football).
 
 ## Requirements
 - Python 3.8
