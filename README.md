@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694502407)
+![Generated GIF](output.gif?raw=true&v=1694504067)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giants vs. Cowboys, Week 1: Live updates!**
+**Horoscope for Monday, September 11, 2023**
 
-You can read more about it [here](https://www.bigblueview.com/2023/9/10/23865602/new-york-giants-vs-dalllas-cowboys-week-1-live-updates-nfl-sunday-night-football).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/11/23859127/horoscopes-today-monday-september-11-2023).
 
 ## Requirements
 - Python 3.8
