@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694516715)
+![Generated GIF](output.gif?raw=true&v=1694518479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kylie Jenner, Timothee Chalamet pack on the PDA at US Open. Watch**
+**Hurricane Lee to bring dangerous rip currents to Maryland beaches**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-timothee-chalamet-pack-on-the-pda-at-us-open-101694402962271.html).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/lee-to-bring-dangerous-rip-currents-to-maryland-beaches-weather-baltimore/).
 
 ## Requirements
 - Python 3.8
