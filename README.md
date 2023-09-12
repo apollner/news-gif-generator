@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694507711)
+![Generated GIF](output.gif?raw=true&v=1694509646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Mexico gun owners are up in arms over governor's recent action**
+**Trump is explaining exactly how wild and extreme his second term would be**
 
-You can read more about it [here](https://www.koat.com/article/new-mexico-gun-owners-frustrations-governor/45072213).
+You can read more about it [here](https://www.cnn.com/2023/09/11/politics/trump-wild-rhetoric-2024/index.html).
 
 ## Requirements
 - Python 3.8
