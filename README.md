@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694558052)
+![Generated GIF](output.gif?raw=true&v=1694559964)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**J.M. Smucker to buy Twinkies maker Hostess Brands in $5.6 billion deal**
+**U.K. Arrests Parliamentary Researcher in China Spy Probe**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/jm-smucker-nears-deal-buy-twinkies-owner-hostess-brands-wsj-2023-09-11/).
+You can read more about it [here](https://www.wsj.com/world/china/u-k-arrests-parliamentary-researcher-in-china-spy-probe-d098d169).
 
 ## Requirements
 - Python 3.8
