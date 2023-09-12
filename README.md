@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694534985)
+![Generated GIF](output.gif?raw=true&v=1694536718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm to supply Apple with 5G chips until 2026 under new deal**
+**Morocco earthquake: Rescuers race to find survivors**
 
-You can read more about it [here](https://www.reuters.com/technology/qualcomm-supply-apple-with-5g-chips-until-2026-under-new-deal-2023-09-11/).
+You can read more about it [here](https://www.reuters.com/world/africa/rescuers-race-find-survivors-over-48-hours-after-morocco-quake-2023-09-11/).
 
 ## Requirements
 - Python 3.8
