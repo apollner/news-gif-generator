@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694489647)
+![Generated GIF](output.gif?raw=true&v=1694491786)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Novak Djokovic beats Daniil Medvedev to win US Open men’s final, extending his record grand slam titles to 24**
+**NFL Week 1 grades: Cowboys get an 'A' for destroying Giants, Bengals get an 'F' for blowout loss to Browns**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/tennis/novak-djokovic-daniil-medvedev-us-open-spt-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-1-grades-cowboys-get-an-a-for-destroying-giants-bengals-get-an-f-for-blowout-loss-to-browns/).
 
 ## Requirements
 - Python 3.8
