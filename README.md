@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694484142)
+![Generated GIF](output.gif?raw=true&v=1694485218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Fans Crushed the Bears After They Got Destroyed by Jordan Love-Led Packers**
+**Sunday Night Football live updates: Cowboys vs. Giants highlights, biggest plays and more**
 
-You can read more about it [here](https://www.si.com/extra-mustard/2023/09/11/nfl-fans-crushed-the-bears-after-they-got-destroyed-by-jordan-love-led-packers).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/09/10/cowboys-giants-sunday-night-football-live-updates/70796318007/).
 
 ## Requirements
 - Python 3.8
