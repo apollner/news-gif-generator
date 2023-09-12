@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694543689)
+![Generated GIF](output.gif?raw=true&v=1694545522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 2,000 people feared dead in Libya after ‘catastrophic and unprecedented’ flooding**
+**The origin of Elon Musk’s feud with Bill Gates, according to Musk’s new biography**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/11/tech/elon-musk-bill-gates-isaacson-book/index.html).
 
 ## Requirements
 - Python 3.8
