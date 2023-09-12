@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694482249)
+![Generated GIF](output.gif?raw=true&v=1694484142)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Youngkin pardons father of girl sexually assaulted at Loudoun school**
+**NFL Fans Crushed the Bears After They Got Destroyed by Jordan Love-Led Packers**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
+You can read more about it [here](https://www.si.com/extra-mustard/2023/09/11/nfl-fans-crushed-the-bears-after-they-got-destroyed-by-jordan-love-led-packers).
 
 ## Requirements
 - Python 3.8
