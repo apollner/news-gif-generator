@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694499032)
+![Generated GIF](output.gif?raw=true&v=1694500521)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asia stocks start the week mostly lower, ahead of key data from China and India this week**
+**Rock County community holds Tractor Drive to support little boy with cancer - Channel3000.com**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/11/asia-stock-markets-today-live-updates.html).
+You can read more about it [here](https://www.channel3000.com/news/rock-county-community-holds-tractor-drive-to-support-little-boy-with-cancer/article_688dbc08-502d-11ee-b2a7-574cf1979c88.html).
 
 ## Requirements
 - Python 3.8
