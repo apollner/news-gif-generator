@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694556298)
+![Generated GIF](output.gif?raw=true&v=1694558052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McCarthy juggles a government shutdown and a Biden impeachment inquiry as the House returns for fall**
+**J.M. Smucker to buy Twinkies maker Hostess Brands in $5.6 billion deal**
 
-You can read more about it [here](https://apnews.com/article/mccarthy-speaker-biden-impeachment-republicans-shutdown-4d8c314763252429a6f87e7d13ad2b43).
+You can read more about it [here](https://www.reuters.com/markets/deals/jm-smucker-nears-deal-buy-twinkies-owner-hostess-brands-wsj-2023-09-11/).
 
 ## Requirements
 - Python 3.8
