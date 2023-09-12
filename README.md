@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694550864)
+![Generated GIF](output.gif?raw=true&v=1694552727)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Forget cash back: Microsoft's Xbox Mastercard exclusively earns game discounts**
+**Storm Daniel causes deadly flooding in Libya’s Derna**
 
-You can read more about it [here](https://www.engadget.com/forget-cash-back-microsofts-xbox-mastercard-exclusively-earns-game-discounts-185141446.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
 
 ## Requirements
 - Python 3.8
