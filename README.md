@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694514963)
+![Generated GIF](output.gif?raw=true&v=1694516715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaii's Kilauea volcano erupts third time this year**
+**Kylie Jenner, Timothee Chalamet pack on the PDA at US Open. Watch**
 
-You can read more about it [here](https://www.reuters.com/world/us/hawaiis-kilauea-volcano-erupts-third-time-this-year-2023-09-11/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-timothee-chalamet-pack-on-the-pda-at-us-open-101694402962271.html).
 
 ## Requirements
 - Python 3.8
