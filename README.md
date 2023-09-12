@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694547255)
+![Generated GIF](output.gif?raw=true&v=1694549259)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Storm Daniel causes deadly flooding in Libya’s Derna**
+**Danelo Cavalcante updates: Search for escaped murderer now in Day 12; search area shifts after weekend sighting**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
+You can read more about it [here](https://6abc.com/danelo-cavalcante-updates-today-phoenixville-search-east-pikeland-township-nantmeal/13767862/).
 
 ## Requirements
 - Python 3.8
