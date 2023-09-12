@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694511318)
+![Generated GIF](output.gif?raw=true&v=1694513341)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Las Vegas Raiders vs. Denver Broncos Game Highlights | NFL 2023 Week 1**
+**Hawaii's Kilauea volcano erupts third time this year**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JEVmIDXz8GM).
+You can read more about it [here](https://www.reuters.com/world/us/hawaiis-kilauea-volcano-erupts-third-time-this-year-2023-09-11/).
 
 ## Requirements
 - Python 3.8
