@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694554507)
+![Generated GIF](output.gif?raw=true&v=1694556298)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mark Meadows requests emergency stay in Georgia election interference case**
+**McCarthy juggles a government shutdown and a Biden impeachment inquiry as the House returns for fall**
 
-You can read more about it [here](https://abcnews.go.com/US/mark-meadows-requests-emergency-stay-georgia-election-interference/story?id=103091247).
+You can read more about it [here](https://apnews.com/article/mccarthy-speaker-biden-impeachment-republicans-shutdown-4d8c314763252429a6f87e7d13ad2b43).
 
 ## Requirements
 - Python 3.8
