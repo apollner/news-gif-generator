@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694529269)
+![Generated GIF](output.gif?raw=true&v=1694531264)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several workers injured in explosion at Archer Daniels Midland facility in Illinois**
+**Kim Jong Un to visit Russia at Vladimir Putin’s invitation**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/several-workers-injured-explosion-archer-daniels-midland-facility-illi-rcna104338).
+You can read more about it [here](https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
