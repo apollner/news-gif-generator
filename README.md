@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694532845)
+![Generated GIF](output.gif?raw=true&v=1694534985)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine and the U.S. appear at odds over Russia offensive**
+**Qualcomm to supply Apple with 5G chips until 2026 under new deal**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/ukraine-russia-milley-offensive-winter-weather-g20-rcna104327).
+You can read more about it [here](https://www.reuters.com/technology/qualcomm-supply-apple-with-5g-chips-until-2026-under-new-deal-2023-09-11/).
 
 ## Requirements
 - Python 3.8
