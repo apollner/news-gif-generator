@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694603125)
+![Generated GIF](output.gif?raw=true&v=1694604851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**American rescued from cave in Turkey and said to be doing well after more than a week trapped underground**
+**Smurfit Kappa, WestRock agree merger to create $20 bln packaging giant**
 
-You can read more about it [here](https://www.cbsnews.com/news/mark-dickey-american-explorer-rescued-cave-turkey/).
+You can read more about it [here](https://www.reuters.com/markets/deals/smurfit-kappa-westrock-agree-combine-create-20-bln-packaging-giant-2023-09-12/).
 
 ## Requirements
 - Python 3.8
