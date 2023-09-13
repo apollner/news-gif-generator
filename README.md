@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694565084)
+![Generated GIF](output.gif?raw=true&v=1694568908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**U.S. advances deal with Iran to swap prisoners, free frozen oil funds**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/09/11/us-iran-prisoner-exchange/).
 
 ## Requirements
 - Python 3.8
