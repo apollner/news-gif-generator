@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694571377)
+![Generated GIF](output.gif?raw=true&v=1694572487)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Josh Duhamel And Audra Mari Are Expecting A Baby, And Fergie Had The Sweetest Message For Her Ex-Husband**
+**Twinkies maker Hostess bought by food giant Smucker for $5.6bn**
 
-You can read more about it [here](https://www.buzzfeed.com/josephlongo/audra-mari-josh-duhamel-pregnancy-announcement).
+You can read more about it [here](https://www.bbc.com/news/business-66782253).
 
 ## Requirements
 - Python 3.8
