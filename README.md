@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694572487)
+![Generated GIF](output.gif?raw=true&v=1694574538)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Twinkies maker Hostess bought by food giant Smucker for $5.6bn**
+**WATCH: Biden claims without evidence he was at Ground Zero on day after 9/11 attacks**
 
-You can read more about it [here](https://www.bbc.com/news/business-66782253).
+You can read more about it [here](https://www.foxnews.com/politics/biden-claims-without-evidence-he-was-at-ground-zero-day-after-9-11-attacks).
 
 ## Requirements
 - Python 3.8
