@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694615677)
+![Generated GIF](output.gif?raw=true&v=1694617671)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Smurfit Kappa, WestRock agree merger to create $20 bln packaging giant**
+**MTV VMAs: Awards return with an all-female artist of the year category**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/smurfit-kappa-westrock-agree-combine-create-20-bln-packaging-giant-2023-09-12/).
+You can read more about it [here](https://apnews.com/article/mtv-vmas-video-music-awards-2023-c87e781121d85201653c72df3c1781aa).
 
 ## Requirements
 - Python 3.8
