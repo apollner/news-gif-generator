@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694631921)
+![Generated GIF](output.gif?raw=true&v=1694633712)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drew Barrymore’s show is not the only talk show returning amid strikes**
+**Stock Market Today: Dow, S&P 500 Open Lower; Apple, Oracle Stocks in Focus**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/entertainment/drew-barrymore-shows-strikes/index.html).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-12-2023).
 
 ## Requirements
 - Python 3.8
