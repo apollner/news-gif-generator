@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694626444)
+![Generated GIF](output.gif?raw=true&v=1694628612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple unveils iPhone 15 Pro with titanium case, mobile gaming**
+**Red wine floods city streets in Portugal after a breach at a distillery**
 
-You can read more about it [here](https://www.reuters.com/technology/apples-iphone-15-launch-clouded-by-china-problems-2023-09-12/).
+You can read more about it [here](https://www.npr.org/2023/09/12/1198913626/red-wine-flood-city-portugal).
 
 ## Requirements
 - Python 3.8
