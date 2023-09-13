@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694613982)
+![Generated GIF](output.gif?raw=true&v=1694615677)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers feared to have torn Achilles: Ranking Jets options, including luring Tom Brady out of retirement**
+**Smurfit Kappa, WestRock agree merger to create $20 bln packaging giant**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-rodgers-out-for-season-with-achilles-ranking-jets-options-including-luring-tom-brady-out-of-retirement/).
+You can read more about it [here](https://www.reuters.com/markets/deals/smurfit-kappa-westrock-agree-combine-create-20-bln-packaging-giant-2023-09-12/).
 
 ## Requirements
 - Python 3.8
