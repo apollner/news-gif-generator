@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694609508)
+![Generated GIF](output.gif?raw=true&v=1694610716)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to spot green comet Nishimura in the skies this week**
+**The Google Pixel Watch's September 2023 update is here**
 
-You can read more about it [here](https://www.newscientist.com/article/2391582-how-to-spot-green-comet-nishimura-in-the-skies-this-week/).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-watch-september-2023-update-here/).
 
 ## Requirements
 - Python 3.8
