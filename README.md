@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694610716)
+![Generated GIF](output.gif?raw=true&v=1694612056)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Google Pixel Watch's September 2023 update is here**
+**September 2023 Apple Event Spoiler-Free Video Stream**
 
-You can read more about it [here](https://www.androidpolice.com/google-pixel-watch-september-2023-update-here/).
+You can read more about it [here](https://www.macrumors.com/2023/09/12/september-2023-spoiler-free/).
 
 ## Requirements
 - Python 3.8
