@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694628612)
+![Generated GIF](output.gif?raw=true&v=1694630107)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Red wine floods city streets in Portugal after a breach at a distillery**
+**Republicans slam Biden administration for prisoner swap deal with Iran**
 
-You can read more about it [here](https://www.npr.org/2023/09/12/1198913626/red-wine-flood-city-portugal).
+You can read more about it [here](https://www.nbcnews.com/politics/national-security/republicans-slam-us-prisoner-swap-deal-iran-rcna104616).
 
 ## Requirements
 - Python 3.8
