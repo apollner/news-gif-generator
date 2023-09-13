@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694597659)
+![Generated GIF](output.gif?raw=true&v=1694599678)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why the LaBrant Family's Song "Like Taylor Swift" Is Dividing Fans**
+**The DOJ's antitrust trial against Google over its search dominance begins**
 
-You can read more about it [here](https://www.eonline.com/news/1385250/jojo-siwa-defends-influencer-everleigh-labrant-after-like-taylor-swift-song-controversy).
+You can read more about it [here](https://www.npr.org/2023/09/12/1198558372/doj-google-monopoly-antitrust-trial-search-engine).
 
 ## Requirements
 - Python 3.8
