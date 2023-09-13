@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694601317)
+![Generated GIF](output.gif?raw=true&v=1694603125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nobel laureate Maria Ressa acquitted in Philippines tax evasion case**
+**American rescued from cave in Turkey and said to be doing well after more than a week trapped underground**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/12/nobel-laureate-maria-ressa-acquitted-in-philippines-tax-evasion-case).
+You can read more about it [here](https://www.cbsnews.com/news/mark-dickey-american-explorer-rescued-cave-turkey/).
 
 ## Requirements
 - Python 3.8
