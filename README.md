@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694574538)
+![Generated GIF](output.gif?raw=true&v=1694576114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WATCH: Biden claims without evidence he was at Ground Zero on day after 9/11 attacks**
+**Josh Duhamel And Audra Mari Are Expecting A Baby, And Fergie Had The Sweetest Message For Her Ex-Husband**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-claims-without-evidence-he-was-at-ground-zero-day-after-9-11-attacks).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/audra-mari-josh-duhamel-pregnancy-announcement).
 
 ## Requirements
 - Python 3.8
