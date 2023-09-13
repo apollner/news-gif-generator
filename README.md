@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694592648)
+![Generated GIF](output.gif?raw=true&v=1694594149)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla shares jump after Morgan Stanley predicts Dojo supercomputer could add $500 billion in market value**
+**Danelo Cavalcante armed, police pursue escaped Pennsylvania killer**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/danelo-cavalcante-armed-pursued-police-pennsylvania-escape-rcna104566).
 
 ## Requirements
 - Python 3.8
