@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694583238)
+![Generated GIF](output.gif?raw=true&v=1694585512)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP senators: Next move to avert shutdown is on McCarthy**
+**World Sepsis Day 2023 Theme: History, Significance and Ideas To Celebrate**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
+You can read more about it [here](https://www.thequint.com/fit/world-sepsis-day-2023-theme-history-significance-and-ideas-to-celebrate).
 
 ## Requirements
 - Python 3.8
