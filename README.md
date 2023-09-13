@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694579661)
+![Generated GIF](output.gif?raw=true&v=1694581634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Staying up late may put you at greater risk of diabetes, a new study finds**
+**Danelo Cavalcante prison escape: Updates, search area, Chester County sightings**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/diabetes-risk-higher-late-night-early-risers-rcna104343).
+You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html).
 
 ## Requirements
 - Python 3.8
