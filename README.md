@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694623038)
+![Generated GIF](output.gif?raw=true&v=1694624759)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McCarthy calls for formal impeachment inquiry into Biden**
+**The opioid crisis is still very real, despite less pain pills in the US**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/politics/biden-impeachment-house-gop/index.html).
+You can read more about it [here](https://www.washingtonpost.com/investigations/2023/09/12/us-overdose-deaths-opioid-crisis/).
 
 ## Requirements
 - Python 3.8
