@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694596078)
+![Generated GIF](output.gif?raw=true&v=1694597659)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More**
+**Why the LaBrant Family's Song "Like Taylor Swift" Is Dividing Fans**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/).
+You can read more about it [here](https://www.eonline.com/news/1385250/jojo-siwa-defends-influencer-everleigh-labrant-after-like-taylor-swift-song-controversy).
 
 ## Requirements
 - Python 3.8
