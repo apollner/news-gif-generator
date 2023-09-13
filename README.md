@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694585512)
+![Generated GIF](output.gif?raw=true&v=1694586944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World Sepsis Day 2023 Theme: History, Significance and Ideas To Celebrate**
+**Those who stay up late may be at greater risk of diabetes**
 
-You can read more about it [here](https://www.thequint.com/fit/world-sepsis-day-2023-theme-history-significance-and-ideas-to-celebrate).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/diabetes-risk-higher-late-night-early-risers-rcna104343).
 
 ## Requirements
 - Python 3.8
