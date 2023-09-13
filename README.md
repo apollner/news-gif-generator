@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694612056)
+![Generated GIF](output.gif?raw=true&v=1694613982)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**September 2023 Apple Event Spoiler-Free Video Stream**
+**Aaron Rodgers feared to have torn Achilles: Ranking Jets options, including luring Tom Brady out of retirement**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/12/september-2023-spoiler-free/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-rodgers-out-for-season-with-achilles-ranking-jets-options-including-luring-tom-brady-out-of-retirement/).
 
 ## Requirements
 - Python 3.8
