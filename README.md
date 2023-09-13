@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694617671)
+![Generated GIF](output.gif?raw=true&v=1694619244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MTV VMAs: Awards return with an all-female artist of the year category**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/mtv-vmas-video-music-awards-2023-c87e781121d85201653c72df3c1781aa).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
