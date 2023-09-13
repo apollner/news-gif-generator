@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694604851)
+![Generated GIF](output.gif?raw=true&v=1694607201)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Smurfit Kappa, WestRock agree merger to create $20 bln packaging giant**
+**Biden admin takes step advancing deal to free Americans held in Iran by issuing waiver for transfer of restricted Iranian funds to Qatar**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/smurfit-kappa-westrock-agree-combine-create-20-bln-packaging-giant-2023-09-12/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/politics/us-waiver-iran-funds/index.html).
 
 ## Requirements
 - Python 3.8
