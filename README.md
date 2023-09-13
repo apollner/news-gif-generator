@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694607201)
+![Generated GIF](output.gif?raw=true&v=1694609508)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden admin takes step advancing deal to free Americans held in Iran by issuing waiver for transfer of restricted Iranian funds to Qatar**
+**How to spot green comet Nishimura in the skies this week**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/politics/us-waiver-iran-funds/index.html).
+You can read more about it [here](https://www.newscientist.com/article/2391582-how-to-spot-green-comet-nishimura-in-the-skies-this-week/).
 
 ## Requirements
 - Python 3.8
