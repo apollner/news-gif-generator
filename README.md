@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694646375)
+![Generated GIF](output.gif?raw=true&v=1694648042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Webb Spots Intriguing Molecular Signals on Possible Water World**
+**Kearse on Cowboys defense: 'It's a bunch of dogs'**
 
-You can read more about it [here](https://gizmodo.com/webb-telescope-hycean-water-world-dimethyl-sulfide-1850830564).
+You can read more about it [here](https://www.dallascowboys.com/news/kearse-on-cowboys-defense-it-s-a-bunch-of-dogs).
 
 ## Requirements
 - Python 3.8
