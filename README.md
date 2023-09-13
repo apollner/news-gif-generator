@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694588809)
+![Generated GIF](output.gif?raw=true&v=1694590484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to Watch the 2023 MTV VMAs, Online Streaming Options**
+**FDA greenlights fall COVID boosters amid uptick in cases. Here's who is eligible**
 
-You can read more about it [here](http://www.vulture.com/2023/09/mtv-vmas-2023-how-to-watch.html).
+You can read more about it [here](https://www.nbcchicago.com/news/local/fda-greenlights-fall-covid-boosters-amid-uptick-in-cases-heres-who-is-eligible/3225376/).
 
 ## Requirements
 - Python 3.8
