@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694642763)
+![Generated GIF](output.gif?raw=true&v=1694646375)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"Indiana Jones of the Art World" helps Dutch police recover stolen van Gogh painting**
+**Webb Spots Intriguing Molecular Signals on Possible Water World**
 
-You can read more about it [here](https://www.cbsnews.com/news/art-detective-arthur-brand-finds-stolen-van-gogh-painting-dutch-police/).
+You can read more about it [here](https://gizmodo.com/webb-telescope-hycean-water-world-dimethyl-sulfide-1850830564).
 
 ## Requirements
 - Python 3.8
