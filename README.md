@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694568908)
+![Generated GIF](output.gif?raw=true&v=1694571377)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. advances deal with Iran to swap prisoners, free frozen oil funds**
+**Josh Duhamel And Audra Mari Are Expecting A Baby, And Fergie Had The Sweetest Message For Her Ex-Husband**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/09/11/us-iran-prisoner-exchange/).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/audra-mari-josh-duhamel-pregnancy-announcement).
 
 ## Requirements
 - Python 3.8
