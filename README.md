@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694624759)
+![Generated GIF](output.gif?raw=true&v=1694626444)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The opioid crisis is still very real, despite less pain pills in the US**
+**Apple unveils iPhone 15 Pro with titanium case, mobile gaming**
 
-You can read more about it [here](https://www.washingtonpost.com/investigations/2023/09/12/us-overdose-deaths-opioid-crisis/).
+You can read more about it [here](https://www.reuters.com/technology/apples-iphone-15-launch-clouded-by-china-problems-2023-09-12/).
 
 ## Requirements
 - Python 3.8
