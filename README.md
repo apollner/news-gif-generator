@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694578209)
+![Generated GIF](output.gif?raw=true&v=1694579661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla shares jump after Morgan Stanley predicts Dojo supercomputer could add $500 billion in market value**
+**Staying up late may put you at greater risk of diabetes, a new study finds**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/diabetes-risk-higher-late-night-early-risers-rcna104343).
 
 ## Requirements
 - Python 3.8
