@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694590484)
+![Generated GIF](output.gif?raw=true&v=1694592648)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA greenlights fall COVID boosters amid uptick in cases. Here's who is eligible**
+**Tesla shares jump after Morgan Stanley predicts Dojo supercomputer could add $500 billion in market value**
 
-You can read more about it [here](https://www.nbcchicago.com/news/local/fda-greenlights-fall-covid-boosters-amid-uptick-in-cases-heres-who-is-eligible/3225376/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html).
 
 ## Requirements
 - Python 3.8
