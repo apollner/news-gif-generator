@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694586944)
+![Generated GIF](output.gif?raw=true&v=1694588809)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Those who stay up late may be at greater risk of diabetes**
+**How to Watch the 2023 MTV VMAs, Online Streaming Options**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/diabetes-risk-higher-late-night-early-risers-rcna104343).
+You can read more about it [here](http://www.vulture.com/2023/09/mtv-vmas-2023-how-to-watch.html).
 
 ## Requirements
 - Python 3.8
