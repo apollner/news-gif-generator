@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694576114)
+![Generated GIF](output.gif?raw=true&v=1694578209)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Josh Duhamel And Audra Mari Are Expecting A Baby, And Fergie Had The Sweetest Message For Her Ex-Husband**
+**Tesla shares jump after Morgan Stanley predicts Dojo supercomputer could add $500 billion in market value**
 
-You can read more about it [here](https://www.buzzfeed.com/josephlongo/audra-mari-josh-duhamel-pregnancy-announcement).
+You can read more about it [here](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html).
 
 ## Requirements
 - Python 3.8
