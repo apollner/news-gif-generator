@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694599678)
+![Generated GIF](output.gif?raw=true&v=1694601317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The DOJ's antitrust trial against Google over its search dominance begins**
+**Nobel laureate Maria Ressa acquitted in Philippines tax evasion case**
 
-You can read more about it [here](https://www.npr.org/2023/09/12/1198558372/doj-google-monopoly-antitrust-trial-search-engine).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/12/nobel-laureate-maria-ressa-acquitted-in-philippines-tax-evasion-case).
 
 ## Requirements
 - Python 3.8
