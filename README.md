@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694637249)
+![Generated GIF](output.gif?raw=true&v=1694639136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA astronaut Frank Rubio breaks U.S. record for longest spaceflight**
+**Kim Jong Un arrives in Russia ahead of meeting with Vladimir Putin**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/nasa-astronaut-frank-rubio-breaks-us-record-longest-spaceflight-rcna104645).
+You can read more about it [here](https://abcnews.go.com/International/train-carrying-kim-jong-enters-russia-en-route/story?id=103110493).
 
 ## Requirements
 - Python 3.8
