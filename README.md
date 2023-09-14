@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694702067)
+![Generated GIF](output.gif?raw=true&v=1694705648)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Still dangerous Hurricane Lee may have reached its peak intensity**
+**Rep. Lauren Boebert was escorted out of 'Beetlejuice' over reports of rude behavior**
 
-You can read more about it [here](http://www.sun-sentinel.com/2023/09/13/hurricane-margot-forms-and-hurricane-lee-slows-before-expected-turn-north/).
+You can read more about it [here](https://www.npr.org/2023/09/13/1199188010/lauren-boebert-theater-beetlejuice-denver).
 
 ## Requirements
 - Python 3.8
