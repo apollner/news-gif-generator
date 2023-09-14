@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694697115)
+![Generated GIF](output.gif?raw=true&v=1694698631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**David Stearns to be hired as Mets president of baseball operations**
+**Here's everything Apple announced at its 2023 event: iPhone 15 models, new Apple Watch, updated AirPods**
 
-You can read more about it [here](https://www.mlb.com/news/david-stearns-mets-president-of-baseball-operations).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html).
 
 ## Requirements
 - Python 3.8
