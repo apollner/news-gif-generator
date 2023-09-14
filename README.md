@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694669692)
+![Generated GIF](output.gif?raw=true&v=1694671865)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Korea and Japan say that North Korea has fired what appears to be a ballistic missile**
+**1 student dead, 2 others injured in school shooting in Greensburg, Louisiana**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_qaoPLgv_a4).
+You can read more about it [here](https://abcnews.go.com/US/student-dead-2-injured-school-shooting-greensburg-louisiana/story?id=103074748).
 
 ## Requirements
 - Python 3.8
