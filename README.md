@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694715016)
+![Generated GIF](output.gif?raw=true&v=1694716441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teen's hands, feet amputated after 'flu-like symptoms'**
+**S&P 500 rises Wednesday as traders shake off hotter core inflation print: Live updates**
 
-You can read more about it [here](https://www.foxnews.com/us/teens-hands-feet-amputated-after-flu-like-symptoms).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
