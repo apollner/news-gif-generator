@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694680431)
+![Generated GIF](output.gif?raw=true&v=1694682426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Mexico attorney general won't defend governor's gun ban**
+**Putin signals willingness to assist Kim as two leaders meet for expected weapons talks**
 
-You can read more about it [here](https://www.nbcnews.com/politics/politics-news/new-mexico-attorney-general-wont-defend-governors-gun-ban-rcna104771).
+You can read more about it [here](https://www.cnn.com/2023/09/12/asia/kim-jong-un-putin-meeting-russia-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
