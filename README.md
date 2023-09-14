@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694648042)
+![Generated GIF](output.gif?raw=true&v=1694651406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kearse on Cowboys defense: 'It's a bunch of dogs'**
+**Shares of TKO, New Parent Company of WWE and UFC, Climb 2.4% in Stock Market Debut**
 
-You can read more about it [here](https://www.dallascowboys.com/news/kearse-on-cowboys-defense-it-s-a-bunch-of-dogs).
+You can read more about it [here](https://variety.com/2023/tv/news/tko-shares-rise-wwe-ufc-endeavor-1235720965/).
 
 ## Requirements
 - Python 3.8
