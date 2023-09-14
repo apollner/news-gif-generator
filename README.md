@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694695770)
+![Generated GIF](output.gif?raw=true&v=1694697115)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ancient-human fossils sent to space: researchers slam 'publicity stunt'**
+**David Stearns to be hired as Mets president of baseball operations**
 
-You can read more about it [here](https://www.nature.com/articles/d41586-023-02882-1).
+You can read more about it [here](https://www.mlb.com/news/david-stearns-mets-president-of-baseball-operations).
 
 ## Requirements
 - Python 3.8
