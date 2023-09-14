@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694712909)
+![Generated GIF](output.gif?raw=true&v=1694715016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lauren Boebert: Republican lawmaker kicked out of Beetlejuice show for disturbance**
+**Teen's hands, feet amputated after 'flu-like symptoms'**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66798627).
+You can read more about it [here](https://www.foxnews.com/us/teens-hands-feet-amputated-after-flu-like-symptoms).
 
 ## Requirements
 - Python 3.8
