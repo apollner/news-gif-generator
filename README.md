@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694720061)
+![Generated GIF](output.gif?raw=true&v=1694722076)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans scramble to avert disaster on defense spending bill - POLITICO**
+**‘All clear’ issued at UNC-Chapel Hill after reports of ‘armed, dangerous person’**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/13/defense-bill-house-republicans-00115530).
+You can read more about it [here](https://thehill.com/homenews/4202411-all-clear-issued-at-unc-chapel-hill-after-reports-of-armed-dangerous-person/).
 
 ## Requirements
 - Python 3.8
