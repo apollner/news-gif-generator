@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694682426)
+![Generated GIF](output.gif?raw=true&v=1694684045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin signals willingness to assist Kim as two leaders meet for expected weapons talks**
+**Selena Gomez Is RED HOT at the 2023 MTV Video Music Awards | E! News**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/asia/kim-jong-un-putin-meeting-russia-intl-hnk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=9DZ-l1O15hQ).
 
 ## Requirements
 - Python 3.8
