@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694664595)
+![Generated GIF](output.gif?raw=true&v=1694666103)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden White House deletes post after misidentifying major Vietnamese leader**
+**CDC Recommends Updated COVID-19 Vaccine for Fall/Winter Virus Season | CDC Online Newsroom**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-white-house-deletes-post-misidentifying-major-vietnamese-leader).
+You can read more about it [here](https://www.cdc.gov/media/releases/2023/p0912-COVID-19-Vaccine.html).
 
 ## Requirements
 - Python 3.8
