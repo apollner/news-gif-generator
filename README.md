@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694730842)
+![Generated GIF](output.gif?raw=true&v=1694732872)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eastern equine encephalitis virus found in more Massachusetts mosquitoes, raising levels**
+**Democrats mock Biden impeachment, but it could affect re-election bid**
 
-You can read more about it [here](https://www.wcvb.com/article/eastern-equine-encephalitis-virus-mosquitoes-massachusetts-eee/45125328).
+You can read more about it [here](https://www.reuters.com/world/us/democrats-mock-biden-impeachment-it-will-impact-2024-race-2023-09-13/).
 
 ## Requirements
 - Python 3.8
