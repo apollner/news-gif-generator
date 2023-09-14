@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694673339)
+![Generated GIF](output.gif?raw=true&v=1694675247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A popular nasal decongestant doesn't actually relieve congestion, FDA advisers say**
+**Judge rejects Trump request to move Colorado ballot case to federal court**
 
-You can read more about it [here](https://www.npr.org/2023/09/12/1199159009/a-popular-nasal-decongestant-doesnt-actually-relieve-congestion-fda-advisers-say).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/judge-rejects-trump-request-move-colorado-ballot-case-federal-court-rcna104758).
 
 ## Requirements
 - Python 3.8
