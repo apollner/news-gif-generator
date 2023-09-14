@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694705648)
+![Generated GIF](output.gif?raw=true&v=1694707788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. Lauren Boebert was escorted out of 'Beetlejuice' over reports of rude behavior**
+**Sean Penn Slams Will Smith, AI In Hollywood, The Oscars, And More**
 
-You can read more about it [here](https://www.npr.org/2023/09/13/1199188010/lauren-boebert-theater-beetlejuice-denver).
+You can read more about it [here](https://variety.com/2023/film/features/sean-penn-slams-will-smith-slap-ai-oscars-1235720417/).
 
 ## Requirements
 - Python 3.8
