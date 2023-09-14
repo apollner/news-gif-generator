@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694675247)
+![Generated GIF](output.gif?raw=true&v=1694676860)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge rejects Trump request to move Colorado ballot case to federal court**
+**Live news: Missiles strike Russian navy shipyard in occupied Sevastopol**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/judge-rejects-trump-request-move-colorado-ballot-case-federal-court-rcna104758).
+You can read more about it [here](https://www.ft.com/content/41ac0f30-489a-4306-bc5a-76f92249eab1).
 
 ## Requirements
 - Python 3.8
