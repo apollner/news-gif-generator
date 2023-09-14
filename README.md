@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694651406)
+![Generated GIF](output.gif?raw=true&v=1694655131)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shares of TKO, New Parent Company of WWE and UFC, Climb 2.4% in Stock Market Debut**
+**More than 5,000 presumed dead in Libya after ‘catastrophic’ flooding breaks dams and sweeps away homes**
 
-You can read more about it [here](https://variety.com/2023/tv/news/tko-shares-rise-wwe-ufc-endeavor-1235720965/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
