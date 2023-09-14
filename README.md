@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694727269)
+![Generated GIF](output.gif?raw=true&v=1694729174)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW preparing to strike against Detroit Three automakers, rejects offers**
+**Apple (AAPL) iPhone 15 Event: Company Pivots Toward Making Vision Pro Its Future**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-president-lot-work-remaining-reach-auto-labor-deals-2023-09-13/).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-09-13/apple-aapl-iphone-15-event-company-pivots-toward-making-vision-pro-its-future).
 
 ## Requirements
 - Python 3.8
