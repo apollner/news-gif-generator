@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694709509)
+![Generated GIF](output.gif?raw=true&v=1694711165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean Penn Slams Will Smith, AI In Hollywood, The Oscars, And More**
+**Apple announces iOS 17 release date**
 
-You can read more about it [here](https://variety.com/2023/film/features/sean-penn-slams-will-smith-slap-ai-oscars-1235720417/).
+You can read more about it [here](https://www.cnbc.com/2023/09/13/apple-announces-ios-17-release-date-.html).
 
 ## Requirements
 - Python 3.8
