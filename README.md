@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694666103)
+![Generated GIF](output.gif?raw=true&v=1694668033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC Recommends Updated COVID-19 Vaccine for Fall/Winter Virus Season | CDC Online Newsroom**
+**Five former Memphis police officers indicted in Tyre Nichols killing**
 
-You can read more about it [here](https://www.cdc.gov/media/releases/2023/p0912-COVID-19-Vaccine.html).
+You can read more about it [here](https://www.reuters.com/world/us/five-former-memphis-police-officers-indicted-over-tyre-nichols-death-filing-2023-09-12/).
 
 ## Requirements
 - Python 3.8
