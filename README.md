@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694729174)
+![Generated GIF](output.gif?raw=true&v=1694730842)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple (AAPL) iPhone 15 Event: Company Pivots Toward Making Vision Pro Its Future**
+**Eastern equine encephalitis virus found in more Massachusetts mosquitoes, raising levels**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-09-13/apple-aapl-iphone-15-event-company-pivots-toward-making-vision-pro-its-future).
+You can read more about it [here](https://www.wcvb.com/article/eastern-equine-encephalitis-virus-mosquitoes-massachusetts-eee/45125328).
 
 ## Requirements
 - Python 3.8
