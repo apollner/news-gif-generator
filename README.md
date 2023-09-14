@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694700400)
+![Generated GIF](output.gif?raw=true&v=1694702067)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ancient-human fossils sent to space: researchers slam 'publicity stunt'**
+**Still dangerous Hurricane Lee may have reached its peak intensity**
 
-You can read more about it [here](https://www.nature.com/articles/d41586-023-02882-1).
+You can read more about it [here](http://www.sun-sentinel.com/2023/09/13/hurricane-margot-forms-and-hurricane-lee-slows-before-expected-turn-north/).
 
 ## Requirements
 - Python 3.8
