@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694660903)
+![Generated GIF](output.gif?raw=true&v=1694662460)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**International Friendly: USMNT vs. Oman - Starting XI, How to Watch & Stream, Start Time | U.S. Soccer Official Website**
+**Five former Memphis police officers indicted in Tyre Nichols killing**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2023/09/international-friendly-usmnt-vs-oman-starting-xi-lineup-notes-how-to-watch-stream-start-time).
+You can read more about it [here](https://www.reuters.com/world/us/five-former-memphis-police-officers-indicted-over-tyre-nichols-death-filing-2023-09-12/).
 
 ## Requirements
 - Python 3.8
