@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694732872)
+![Generated GIF](output.gif?raw=true&v=1694734451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Democrats mock Biden impeachment, but it could affect re-election bid**
+**Most of Kansas at high risk for West Nile virus**
 
-You can read more about it [here](https://www.reuters.com/world/us/democrats-mock-biden-impeachment-it-will-impact-2024-race-2023-09-13/).
+You can read more about it [here](https://www.kake.com/story/49646120/most-of-kansas-at-high-risk-for-west-nile-virus).
 
 ## Requirements
 - Python 3.8
