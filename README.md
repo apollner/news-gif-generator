@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694668033)
+![Generated GIF](output.gif?raw=true&v=1694669692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Five former Memphis police officers indicted in Tyre Nichols killing**
+**South Korea and Japan say that North Korea has fired what appears to be a ballistic missile**
 
-You can read more about it [here](https://www.reuters.com/world/us/five-former-memphis-police-officers-indicted-over-tyre-nichols-death-filing-2023-09-12/).
+You can read more about it [here](https://www.youtube.com/watch?v=_qaoPLgv_a4).
 
 ## Requirements
 - Python 3.8
