@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694734451)
+![Generated GIF](output.gif?raw=true&v=1694737816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Most of Kansas at high risk for West Nile virus**
+**Jets QB Aaron Rodgers 'heartbroken' in wake of Achilles tear - ESPN**
 
-You can read more about it [here](https://www.kake.com/story/49646120/most-of-kansas-at-high-risk-for-west-nile-virus).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38394550/jets-qb-aaron-rodgers-first-comments-achilles-tear-says-shall-rise-yet-again).
 
 ## Requirements
 - Python 3.8
