@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694751032)
+![Generated GIF](output.gif?raw=true&v=1694752565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Lee continues churn towards east coast of US and Canada**
+**FBI agent involved in Hunter Biden probe does not believe politics were involved**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66800664).
+You can read more about it [here](https://www.foxnews.com/politics/fbi-agent-involved-in-hunter-biden-probe-says-politics-were-not-involved-in-decision-making-testimony).
 
 ## Requirements
 - Python 3.8
