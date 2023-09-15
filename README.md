@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694806451)
+![Generated GIF](output.gif?raw=true&v=1694808476)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why has Ukraine stepped up its strikes on occupied Crimea?**
+**The Mookie Betts trade defined, and ultimately doomed, Chaim Bloom: McCullough**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/europe/ukraine-crimea-missile-strike-explainer-intl/index.html).
+You can read more about it [here](https://theathletic.com/4863711/2023/09/14/mccullough-chaim-bloom-mookie-betts-deal/).
 
 ## Requirements
 - Python 3.8
