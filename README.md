@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694744369)
+![Generated GIF](output.gif?raw=true&v=1694745313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actors, writers fill Los Angeles streets in show of unity amid strike**
+**Jets QB Aaron Rodgers 'heartbroken' in wake of Achilles tear - ESPN**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/09/13/hollywood-strike-rally/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38394550/jets-qb-aaron-rodgers-first-comments-achilles-tear-says-shall-rise-yet-again).
 
 ## Requirements
 - Python 3.8
