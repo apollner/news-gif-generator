@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694780034)
+![Generated GIF](output.gif?raw=true&v=1694782160)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CFB Insider Bruce Feldman Talks Deion, Longhorns, Alabama & More with Rich Eisen | Full Interview**
+**Braves win sixth-straight NL East title; first team to punch ticket to MLB Postseason**
 
-You can read more about it [here](https://www.youtube.com/watch?v=32Vzo9Upatk).
+You can read more about it [here](https://www.foxnews.com/sports/braves-win-sixth-straight-nl-east-title-first-team-punch-ticket-mlb-postseason).
 
 ## Requirements
 - Python 3.8
