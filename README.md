@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694817241)
+![Generated GIF](output.gif?raw=true&v=1694819164)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Death toll soars to 11300 from flooding in Libyan coastal city of Derna**
+**Apple's iPhone 15 Pro Max Starts at $1199, but You Can't Get 128GB**
 
-You can read more about it [here](https://www.npr.org/2023/09/14/1199555068/death-toll-soars-to-11-300-from-flooding-in-libyan-coastal-city-of-derna).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apples-iphone-15-pro-max-starts-at-1199-but-you-cant-get-128gb/).
 
 ## Requirements
 - Python 3.8
