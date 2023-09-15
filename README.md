@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694788443)
+![Generated GIF](output.gif?raw=true&v=1694790415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pence responds to Romney remarks on viability in 2024 GOP race: ‘I’m running to win’**
+**Danelo Cavalcante: Dog captures crawling Pennsylvania murderer**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4203635-pence-responds-to-romney-remarks-on-viability-in-2024-gop-race-im-running-to-win/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66800144).
 
 ## Requirements
 - Python 3.8
