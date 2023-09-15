@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694765436)
+![Generated GIF](output.gif?raw=true&v=1694766878)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**For stocks this was 'the worst part' of inflation report, says First Trust**
+**Aaron Rodgers vows to 'rise yet again' after season-ending Achilles tear**
 
-You can read more about it [here](https://www.marketwatch.com/story/for-stocks-this-was-the-worst-part-of-inflation-report-says-first-trust-9db6ac4f).
+You can read more about it [here](https://www.nbcnews.com/news/sports/aaron-rodgers-achilles-tear-new-york-jets-comeback-rcna104975).
 
 ## Requirements
 - Python 3.8
