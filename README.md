@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694758262)
+![Generated GIF](output.gif?raw=true&v=1694759729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Federal court rules against Obama-era DACA immigration policy protecting 'Dreamers'**
+**The House has rested its case against Ken Paxton after a chaotic day for the prosecution**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/13/daca-dreamers-andrew-handed/70847429007/).
+You can read more about it [here](https://www.texastribune.org/2023/09/13/ken-paxton-impeachment-trial-laura-olson-drew-wicker/).
 
 ## Requirements
 - Python 3.8
