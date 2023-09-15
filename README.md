@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694777644)
+![Generated GIF](output.gif?raw=true&v=1694780034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**CFB Insider Bruce Feldman Talks Deion, Longhorns, Alabama & More with Rich Eisen | Full Interview**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=32Vzo9Upatk).
 
 ## Requirements
 - Python 3.8
