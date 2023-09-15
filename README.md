@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694766878)
+![Generated GIF](output.gif?raw=true&v=1694768924)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers vows to 'rise yet again' after season-ending Achilles tear**
+**Massive Hurricane Lee prompts tropical storm and hurricane watches for coastal New England as threat grows**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/aaron-rodgers-achilles-tear-new-york-jets-comeback-rcna104975).
+You can read more about it [here](https://www.cnn.com/2023/09/13/weather/hurricane-lee-path-wednesday-climate/index.html).
 
 ## Requirements
 - Python 3.8
