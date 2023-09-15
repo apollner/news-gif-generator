@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694763268)
+![Generated GIF](output.gif?raw=true&v=1694765436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden brushes off House impeachment inquiry and says Republicans want to shut down the government**
+**For stocks this was 'the worst part' of inflation report, says First Trust**
 
-You can read more about it [here](https://apnews.com/article/mccarthy-biden-impeachment-government-shutdown-051edf97ad8938e77f41ab57be631f8a).
+You can read more about it [here](https://www.marketwatch.com/story/for-stocks-this-was-the-worst-part-of-inflation-report-says-first-trust-9db6ac4f).
 
 ## Requirements
 - Python 3.8
