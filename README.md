@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694783457)
+![Generated GIF](output.gif?raw=true&v=1694784847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Braves win sixth-straight NL East title; first team to punch ticket to MLB Postseason**
+**All iPhone 15 Models Support DisplayPort for Up to 4K HDR Video Output to External Display**
 
-You can read more about it [here](https://www.foxnews.com/sports/braves-win-sixth-straight-nl-east-title-first-team-punch-ticket-mlb-postseason).
+You can read more about it [here](https://www.macrumors.com/2023/09/13/all-iphone-15-models-support-displayport/).
 
 ## Requirements
 - Python 3.8
