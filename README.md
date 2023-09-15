@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694819164)
+![Generated GIF](output.gif?raw=true&v=1694820852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple's iPhone 15 Pro Max Starts at $1199, but You Can't Get 128GB**
+**The Mookie Betts trade defined, and ultimately doomed, Chaim Bloom: McCullough**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apples-iphone-15-pro-max-starts-at-1199-but-you-cant-get-128gb/).
+You can read more about it [here](https://theathletic.com/4863711/2023/09/14/mccullough-chaim-bloom-mookie-betts-deal/).
 
 ## Requirements
 - Python 3.8
