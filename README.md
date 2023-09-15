@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694752565)
+![Generated GIF](output.gif?raw=true&v=1694754417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI agent involved in Hunter Biden probe does not believe politics were involved**
+**New Mexico Democrat governor's sweeping gun order hits major temporary roadblock**
 
-You can read more about it [here](https://www.foxnews.com/politics/fbi-agent-involved-in-hunter-biden-probe-says-politics-were-not-involved-in-decision-making-testimony).
+You can read more about it [here](https://www.foxnews.com/politics/new-mexico-democrat-governors-sweeping-gun-order-hits-major-temporary-roadblock).
 
 ## Requirements
 - Python 3.8
