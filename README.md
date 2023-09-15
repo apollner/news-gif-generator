@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694737816)
+![Generated GIF](output.gif?raw=true&v=1694741664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets QB Aaron Rodgers 'heartbroken' in wake of Achilles tear - ESPN**
+**Mitt Romney announces he won’t seek reelection as he calls for ‘new generation of leaders’**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38394550/jets-qb-aaron-rodgers-first-comments-achilles-tear-says-shall-rise-yet-again).
+You can read more about it [here](https://www.cnn.com/2023/09/13/politics/mitt-romney-not-running-reelection/index.html).
 
 ## Requirements
 - Python 3.8
