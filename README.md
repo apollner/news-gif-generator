@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694784847)
+![Generated GIF](output.gif?raw=true&v=1694786854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**All iPhone 15 Models Support DisplayPort for Up to 4K HDR Video Output to External Display**
+**I returned to Nicaragua, where I was born, and found a country steeped in fear**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/13/all-iphone-15-models-support-displayport/).
+You can read more about it [here](https://wusfnews.wusf.usf.edu/2023-09-14/i-returned-to-nicaragua-where-i-was-born-and-found-a-country-steeped-in-fear).
 
 ## Requirements
 - Python 3.8
