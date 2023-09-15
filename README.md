@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694759729)
+![Generated GIF](output.gif?raw=true&v=1694761562)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The House has rested its case against Ken Paxton after a chaotic day for the prosecution**
+**Biden brushes off House impeachment inquiry and says Republicans want to shut down the government**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/13/ken-paxton-impeachment-trial-laura-olson-drew-wicker/).
+You can read more about it [here](https://apnews.com/article/mccarthy-biden-impeachment-government-shutdown-051edf97ad8938e77f41ab57be631f8a).
 
 ## Requirements
 - Python 3.8
