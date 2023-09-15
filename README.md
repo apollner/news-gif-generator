@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694802914)
+![Generated GIF](output.gif?raw=true&v=1694806451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden indicted by special counsel on felony gun charges**
+**Why has Ukraine stepped up its strikes on occupied Crimea?**
 
-You can read more about it [here](https://abcnews.go.com/US/hunter-biden-indicted-special-counsel-felony-gun-charges/story?id=103168312).
+You can read more about it [here](https://www.cnn.com/2023/09/14/europe/ukraine-crimea-missile-strike-explainer-intl/index.html).
 
 ## Requirements
 - Python 3.8
