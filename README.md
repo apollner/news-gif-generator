@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694815553)
+![Generated GIF](output.gif?raw=true&v=1694817241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Mookie Betts trade defined, and ultimately doomed, Chaim Bloom: McCullough**
+**Death toll soars to 11300 from flooding in Libyan coastal city of Derna**
 
-You can read more about it [here](https://theathletic.com/4863711/2023/09/14/mccullough-chaim-bloom-mookie-betts-deal/).
+You can read more about it [here](https://www.npr.org/2023/09/14/1199555068/death-toll-soars-to-11-300-from-flooding-in-libyan-coastal-city-of-derna).
 
 ## Requirements
 - Python 3.8
