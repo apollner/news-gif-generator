@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694794170)
+![Generated GIF](output.gif?raw=true&v=1694795864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado State coach 'tired' of all the Colorado and Deion Sanders hype ahead of Rocky Mountain Showdown**
+**Mario vs. Donkey Kong - Nintendo Direct 9.14.2023**
 
-You can read more about it [here](https://sports.yahoo.com/jay-norvell-colorado-state-coach-deion-sanders-hype--rocky-ountain-showdown-155239368.html).
+You can read more about it [here](https://www.youtube.com/watch?v=5sPwqplxHXc).
 
 ## Requirements
 - Python 3.8
