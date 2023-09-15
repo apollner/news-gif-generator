@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694774121)
+![Generated GIF](output.gif?raw=true&v=1694775921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Astronaut Breaks NASA Record For Longest Single Spaceflight**
+**CFB Insider Bruce Feldman Talks Deion, Longhorns, Alabama & More with Rich Eisen | Full Interview**
 
-You can read more about it [here](https://www.sciencealert.com/us-astronaut-breaks-nasa-record-for-longest-single-spaceflight).
+You can read more about it [here](https://www.youtube.com/watch?v=32Vzo9Upatk).
 
 ## Requirements
 - Python 3.8
