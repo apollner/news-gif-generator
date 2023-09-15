@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694747306)
+![Generated GIF](output.gif?raw=true&v=1694748992)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets QB Aaron Rodgers 'heartbroken' in wake of Achilles tear - ESPN**
+**Federal court rules against Obama-era DACA immigration policy protecting 'Dreamers'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38394550/jets-qb-aaron-rodgers-first-comments-achilles-tear-says-shall-rise-yet-again).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/13/daca-dreamers-andrew-handed/70847429007/).
 
 ## Requirements
 - Python 3.8
