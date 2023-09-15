@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694792043)
+![Generated GIF](output.gif?raw=true&v=1694794170)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Lee timeline tracker: When and where to expect impacts in New England, Maine**
+**Colorado State coach 'tired' of all the Colorado and Deion Sanders hype ahead of Rocky Mountain Showdown**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/hurricane-lee-timeline-tracker-when-where-impacts-new-england-maine).
+You can read more about it [here](https://sports.yahoo.com/jay-norvell-colorado-state-coach-deion-sanders-hype--rocky-ountain-showdown-155239368.html).
 
 ## Requirements
 - Python 3.8
