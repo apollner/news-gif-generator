@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694820852)
+![Generated GIF](output.gif?raw=true&v=1694824200)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Mookie Betts trade defined, and ultimately doomed, Chaim Bloom: McCullough**
+**Hurricane Lee path tracker: New England bracing for heavy rain, wind**
 
-You can read more about it [here](https://theathletic.com/4863711/2023/09/14/mccullough-chaim-bloom-mookie-betts-deal/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/14/hurricane-lee-path-tracker/70843497007/).
 
 ## Requirements
 - Python 3.8
