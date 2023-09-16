@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694853241)
+![Generated GIF](output.gif?raw=true&v=1694855113)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China's defence minister, not seen in weeks, skipped Vietnam meet**
+**Hunter Biden indicted on gun charges**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/chinas-defence-minister-not-seen-weeks-skipped-vietnam-meet-2023-09-14/).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
 
 ## Requirements
 - Python 3.8
