@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694824200)
+![Generated GIF](output.gif?raw=true&v=1694827885)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Lee path tracker: New England bracing for heavy rain, wind**
+**Netflix's live-action One Piece to set sail with even more episodes**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/14/hurricane-lee-path-tracker/70843497007/).
+You can read more about it [here](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement).
 
 ## Requirements
 - Python 3.8
