@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694878449)
+![Generated GIF](output.gif?raw=true&v=1694880447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Katharine McPhee, David Foster talk death of their nanny**
+**Covid, RSV and flu vaccines are now available — here's how to decide whether to get them together**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/09/15/katharine-mcphee-david-foster-nanny-death/70861552007/).
+You can read more about it [here](https://www.cnbc.com/2023/09/15/covid-rsv-flu-vaccines-how-to-decide-whether-to-get-them-together.html).
 
 ## Requirements
 - Python 3.8
