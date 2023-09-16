@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694885652)
+![Generated GIF](output.gif?raw=true&v=1694887875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Noche UFC: GRASSO vs SHEVCHENKO 2 | COLD OPEN**
+**Parts of coastal New England and Atlantic Canada are under tropical storm warnings as Hurricane Lee nears**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rDkOrJz6m2o).
+You can read more about it [here](https://www.cnn.com/2023/09/15/weather/hurricane-lee-new-england-forecast-friday/index.html).
 
 ## Requirements
 - Python 3.8
