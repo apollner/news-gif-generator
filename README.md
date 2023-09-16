@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694905534)
+![Generated GIF](output.gif?raw=true&v=1694907247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wisconsin Republicans try to oust election official, redo maps**
+**Alexander Mattison, Vikings, NFLPA address racist messages from fans after 'TNF' loss to Eagles**
 
-You can read more about it [here](https://www.npr.org/2023/09/15/1199740670/wisconsin-election-battles-protasiewicz-wolfe-republicans).
+You can read more about it [here](https://sports.yahoo.com/alexander-mattison-vikings-nflpa-address-racist-messages-from-fans-after-tnf-loss-to-eagles-190635118.html).
 
 ## Requirements
 - Python 3.8
