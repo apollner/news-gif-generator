@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694876805)
+![Generated GIF](output.gif?raw=true&v=1694878449)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Indianapolis gets partial solar eclipse October 14, 2023. How to watch**
+**Katharine McPhee, David Foster talk death of their nanny**
 
-You can read more about it [here](https://www.indystar.com/story/news/2023/09/15/indianapolis-gets-partial-solar-eclipse-october-14-2023-how-to-watch/70853753007/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/09/15/katharine-mcphee-david-foster-nanny-death/70861552007/).
 
 ## Requirements
 - Python 3.8
