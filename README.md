@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694864054)
+![Generated GIF](output.gif?raw=true&v=1694866348)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles overreactions, reality checks after Week 2 win over Vikings: Jalen Hurts, A.J. Brown drama overblown?**
+**Your daily horoscope: September 15**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-overreactions-reality-checks-after-week-2-win-over-vikings-jalen-hurts-a-j-brown-drama-overblown/).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-15-5/).
 
 ## Requirements
 - Python 3.8
