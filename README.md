@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694882108)
+![Generated GIF](output.gif?raw=true&v=1694883910)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Striking Hollywood writers, studios to resume negotiations next week**
+**Eagles improve to 2-0 with win over Vikings, behind NFL's best offensive line**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/striking-hollywood-writers-studios-resume-negotiations-week-103207055).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9lYWdsZXMtYmVhdC12aWtpbmdzLW5mbC0yMDIzLTEyNDIzNDgxOC5odG1s0gFMaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvZWFnbGVzLWJlYXQtdmlraW5ncy1uZmwtMjAyMy0xMjQyMzQ4MTguaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
