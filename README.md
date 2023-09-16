@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694851769)
+![Generated GIF](output.gif?raw=true&v=1694853241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Contract talks to resume between striking Hollywood writers and studios**
+**China's defence minister, not seen in weeks, skipped Vietnam meet**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/09/14/hollywood-strikes-talks-resume/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/chinas-defence-minister-not-seen-weeks-skipped-vietnam-meet-2023-09-14/).
 
 ## Requirements
 - Python 3.8
