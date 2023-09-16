@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694829693)
+![Generated GIF](output.gif?raw=true&v=1694831687)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TIFF Audience Award Predictions: What Movie Will Get an Oscar Boost?**
+**Stunning James Webb Space Telescope image shows young star blasting supersonic jets**
 
-You can read more about it [here](https://variety.com/2023/film/awards/tiff-audiance-award-predictions-holdovers-boy-and-the-heron-origin-1235723932/).
+You can read more about it [here](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope).
 
 ## Requirements
 - Python 3.8
