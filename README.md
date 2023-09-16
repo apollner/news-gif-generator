@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694838932)
+![Generated GIF](output.gif?raw=true&v=1694840720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hunter Biden indicted on gun charges**
+**Strike against automakers could slow US economy, trigger job losses**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
+You can read more about it [here](https://abcnews.go.com/Business/strike-automakers-slow-us-economy-trigger-job-losses/story?id=103182031).
 
 ## Requirements
 - Python 3.8
