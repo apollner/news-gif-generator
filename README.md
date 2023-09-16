@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694871250)
+![Generated GIF](output.gif?raw=true&v=1694873164)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers says surgery ‘went great’ following season-ending Achilles injury**
+**Watch NASA astronaut Loral O'Hara, two Russians launch to ISS today**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/sport/aaron-rodgers-surgery-great-following-injury-spt-intl/index.html).
+You can read more about it [here](https://www.space.com/nasa-astronaut-loral-ohara-russian-soyuz-iss-launch-livestream).
 
 ## Requirements
 - Python 3.8
