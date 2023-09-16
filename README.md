@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694842447)
+![Generated GIF](output.gif?raw=true&v=1694844597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Fourth wave’ of fentanyl overdose deaths has gripped the nation, experts say: ‘The norm, not the exception’**
+**Hunter Biden indicted on gun charges**
 
-You can read more about it [here](https://www.foxnews.com/health/fourth-wave-fentanyl-overdose-deaths-gripped-nation-experts-say-norm-not-exception).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
 
 ## Requirements
 - Python 3.8
