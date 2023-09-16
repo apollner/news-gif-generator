@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694873164)
+![Generated GIF](output.gif?raw=true&v=1694874847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch NASA astronaut Loral O'Hara, two Russians launch to ISS today**
+**Cyberpunk 2077's free 2.0 update arrives September 21**
 
-You can read more about it [here](https://www.space.com/nasa-astronaut-loral-ohara-russian-soyuz-iss-launch-livestream).
+You can read more about it [here](https://www.engadget.com/cyberpunk-2077s-free-20-update-arrives-september-21-064242975.html).
 
 ## Requirements
 - Python 3.8
