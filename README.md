@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694831687)
+![Generated GIF](output.gif?raw=true&v=1694833713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stunning James Webb Space Telescope image shows young star blasting supersonic jets**
+**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
 
-You can read more about it [here](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
 
 ## Requirements
 - Python 3.8
