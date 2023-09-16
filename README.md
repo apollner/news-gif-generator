@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694883910)
+![Generated GIF](output.gif?raw=true&v=1694885652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles improve to 2-0 with win over Vikings, behind NFL's best offensive line**
+**Noche UFC: GRASSO vs SHEVCHENKO 2 | COLD OPEN**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9lYWdsZXMtYmVhdC12aWtpbmdzLW5mbC0yMDIzLTEyNDIzNDgxOC5odG1s0gFMaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvZWFnbGVzLWJlYXQtdmlraW5ncy1uZmwtMjAyMy0xMjQyMzQ4MTguaHRtbA?oc=5).
+You can read more about it [here](https://www.youtube.com/watch?v=rDkOrJz6m2o).
 
 ## Requirements
 - Python 3.8
