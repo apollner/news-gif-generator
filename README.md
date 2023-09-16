@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694866348)
+![Generated GIF](output.gif?raw=true&v=1694868316)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your daily horoscope: September 15**
+**LeSean McCoy Had Epic Message for D’Andre Swift After Huge Game on ‘TNF’**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-15-5/).
+You can read more about it [here](https://www.si.com/extra-mustard/2023/09/15/lesean-mccoy-epic-message-eagles-dandre-swift).
 
 ## Requirements
 - Python 3.8
