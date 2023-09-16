@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694874847)
+![Generated GIF](output.gif?raw=true&v=1694876805)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cyberpunk 2077's free 2.0 update arrives September 21**
+**Indianapolis gets partial solar eclipse October 14, 2023. How to watch**
 
-You can read more about it [here](https://www.engadget.com/cyberpunk-2077s-free-20-update-arrives-september-21-064242975.html).
+You can read more about it [here](https://www.indystar.com/story/news/2023/09/15/indianapolis-gets-partial-solar-eclipse-october-14-2023-how-to-watch/70853753007/).
 
 ## Requirements
 - Python 3.8
