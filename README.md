@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694837363)
+![Generated GIF](output.gif?raw=true&v=1694838932)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stunning James Webb Space Telescope image shows young star blasting supersonic jets**
+**Hunter Biden indicted on gun charges**
 
-You can read more about it [here](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
 
 ## Requirements
 - Python 3.8
