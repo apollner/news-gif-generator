@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694880447)
+![Generated GIF](output.gif?raw=true&v=1694882108)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Covid, RSV and flu vaccines are now available — here's how to decide whether to get them together**
+**Striking Hollywood writers, studios to resume negotiations next week**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/15/covid-rsv-flu-vaccines-how-to-decide-whether-to-get-them-together.html).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/striking-hollywood-writers-studios-resume-negotiations-week-103207055).
 
 ## Requirements
 - Python 3.8
