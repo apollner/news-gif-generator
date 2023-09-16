@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694894772)
+![Generated GIF](output.gif?raw=true&v=1694896445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Biden urges UAW and carmakers to resume negotiations to end strike**
+**Planet Fitness stock plunges as CEO abruptly steps down, surprising Wall Street**
 
-You can read more about it [here](https://www.ft.com/content/f5f280d2-3e8d-44b1-b259-52cbbb64347b).
+You can read more about it [here](https://finance.yahoo.com/news/planet-fitness-stock-plunges-as-ceo-abruptly-steps-down-surprising-wall-street-165959495.html).
 
 ## Requirements
 - Python 3.8
