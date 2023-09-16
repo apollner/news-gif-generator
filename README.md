@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694827885)
+![Generated GIF](output.gif?raw=true&v=1694829693)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netflix's live-action One Piece to set sail with even more episodes**
+**TIFF Audience Award Predictions: What Movie Will Get an Oscar Boost?**
 
-You can read more about it [here](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement).
+You can read more about it [here](https://variety.com/2023/film/awards/tiff-audiance-award-predictions-holdovers-boy-and-the-heron-origin-1235723932/).
 
 ## Requirements
 - Python 3.8
