@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694833713)
+![Generated GIF](output.gif?raw=true&v=1694835256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
+**GOP-led Wisconsin Senate votes to remove chief elections official**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
+You can read more about it [here](https://www.nbcnews.com/politics/politics-news/gop-led-wisconsin-senate-votes-remove-chief-elections-official-rcna105146).
 
 ## Requirements
 - Python 3.8
