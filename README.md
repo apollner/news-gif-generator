@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694840720)
+![Generated GIF](output.gif?raw=true&v=1694842447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Strike against automakers could slow US economy, trigger job losses**
+**‘Fourth wave’ of fentanyl overdose deaths has gripped the nation, experts say: ‘The norm, not the exception’**
 
-You can read more about it [here](https://abcnews.go.com/Business/strike-automakers-slow-us-economy-trigger-job-losses/story?id=103182031).
+You can read more about it [here](https://www.foxnews.com/health/fourth-wave-fentanyl-overdose-deaths-gripped-nation-experts-say-norm-not-exception).
 
 ## Requirements
 - Python 3.8
