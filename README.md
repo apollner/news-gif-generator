@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694903647)
+![Generated GIF](output.gif?raw=true&v=1694905534)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**16th Street Baptist Church commemoration service 60 years after bombing**
+**Wisconsin Republicans try to oust election official, redo maps**
 
-You can read more about it [here](https://www.wvtm13.com/article/16th-street-baptist-church-bomb-60-commemoration/45153318).
+You can read more about it [here](https://www.npr.org/2023/09/15/1199740670/wisconsin-election-battles-protasiewicz-wolfe-republicans).
 
 ## Requirements
 - Python 3.8
