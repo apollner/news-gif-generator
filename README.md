@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694955981)
+![Generated GIF](output.gif?raw=true&v=1694957647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hugh Jackman’s ‘crush’ on Deborra-lee turned into 27-year romance; star once talked her out of leaving**
+**Oops! I called my boss 'dude.' Career coaches weigh in on tricky workplace dilemmas**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/hugh-jackman-crush-deborra-lee-turned-27-year-romance-star-once-talking-her-out-leaving).
+You can read more about it [here](https://www.npr.org/2023/09/16/1199740381/career-coaches-ageism-burnout-tricky-workplace-dilemmas).
 
 ## Requirements
 - Python 3.8
