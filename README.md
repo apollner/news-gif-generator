@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694977475)
+![Generated GIF](output.gif?raw=true&v=1694979243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK will ban American XL Bully dogs after series of recent attacks**
+**Escaped Pa. prisoner Danelo Cavalcante capture: DEA releases thermal imaging video that led to arrest**
 
-You can read more about it [here](https://www.foxnews.com/world/uk-will-ban-american-xl-bully-dogs-series-recent-attacks).
+You can read more about it [here](https://6abc.com/pa-prisoner-heat-video-thermal-imaging-dea-plane-danelo-cavalcante-arrest/13790547/).
 
 ## Requirements
 - Python 3.8
