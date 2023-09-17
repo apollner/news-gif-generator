@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694968499)
+![Generated GIF](output.gif?raw=true&v=1694970325)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Disaster of epic proportions’: Libya prosecutor probes deadly dam collapse**
+**Lagarde seized ECB colleagues' handsets to prevent leaks**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/16/disaster-of-epic-proportions-libya-prosecutor-probes-deadly-dam-collapse).
+You can read more about it [here](https://www.reuters.com/world/europe/lagarde-seized-ecb-colleagues-handsets-prevent-leaks-sources-2023-09-16/).
 
 ## Requirements
 - Python 3.8
