@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694907247)
+![Generated GIF](output.gif?raw=true&v=1694910733)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alexander Mattison, Vikings, NFLPA address racist messages from fans after 'TNF' loss to Eagles**
+**McDonald's franchisee group says new California fast-food bill will cause 'devastating financial blow'**
 
-You can read more about it [here](https://sports.yahoo.com/alexander-mattison-vikings-nflpa-address-racist-messages-from-fans-after-tnf-loss-to-eagles-190635118.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/15/mcdonalds-advocacy-group-criticizes-new-california-fast-food-bill.html).
 
 ## Requirements
 - Python 3.8
