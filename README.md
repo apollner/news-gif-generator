@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694963212)
+![Generated GIF](output.gif?raw=true&v=1694964899)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Boebert apologizes for vaping and disrupting 'Beetlejuice' musical**
+**Septic shock nearly killed me. I want others to know its red flags.**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/15/lauren-boebert-beetlejuice-theater/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/16/sepsis-septic-shock-experience-near-death/).
 
 ## Requirements
 - Python 3.8
