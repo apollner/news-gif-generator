@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694979243)
+![Generated GIF](output.gif?raw=true&v=1694981195)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Escaped Pa. prisoner Danelo Cavalcante capture: DEA releases thermal imaging video that led to arrest**
+**It’s baby boomers’ world. Millennials and Gen Zers fear for their financial future because they’re still living in it**
 
-You can read more about it [here](https://6abc.com/pa-prisoner-heat-video-thermal-imaging-dea-plane-danelo-cavalcante-arrest/13790547/).
+You can read more about it [here](https://fortune.com/2023/09/16/millennials-gen-z-worry-baby-boomer-impact-financial-future/).
 
 ## Requirements
 - Python 3.8
