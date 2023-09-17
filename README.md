@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694941515)
+![Generated GIF](output.gif?raw=true&v=1694943252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'An unfillable void': Grad student's family speaks out as outrage over Seattle officer body camera video grows**
+**Apple promises software update to lower the iPhone 12's radiation in France - GSMArena.com news**
 
-You can read more about it [here](https://abcnews.go.com/US/unfillable-void-grad-students-family-speaks-outrage-seattle/story?id=103218537).
+You can read more about it [here](https://www.gsmarena.com/apple_promises_software_update_to_lower_the_iphone_12s_radiation_in_france-news-59920.php).
 
 ## Requirements
 - Python 3.8
