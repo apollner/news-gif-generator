@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694982852)
+![Generated GIF](output.gif?raw=true&v=1694984718)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**It’s baby boomers’ world. Millennials and Gen Zers fear for their financial future because they’re still living in it**
+**Republicans run a big risk with impeachment**
 
-You can read more about it [here](https://fortune.com/2023/09/16/millennials-gen-z-worry-baby-boomer-impact-financial-future/).
+You can read more about it [here](https://www.npr.org/2023/09/16/1199818085/republicans-impeachment-polling-biden-mccarthy).
 
 ## Requirements
 - Python 3.8
