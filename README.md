@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694939633)
+![Generated GIF](output.gif?raw=true&v=1694941515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Speculation grows over whereabouts of China's Defense Minister Li Shangfu**
+**'An unfillable void': Grad student's family speaks out as outrage over Seattle officer body camera video grows**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/china/li-shangfu-china-defense-minister-whereabouts-intl-hnk/index.html).
+You can read more about it [here](https://abcnews.go.com/US/unfillable-void-grad-students-family-speaks-outrage-seattle/story?id=103218537).
 
 ## Requirements
 - Python 3.8
