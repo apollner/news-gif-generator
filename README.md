@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694917033)
+![Generated GIF](output.gif?raw=true&v=1694918063)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan jury acquits three men in plot to kidnap Gov. Gretchen Whitmer**
+**1 child dead, 3 others hospitalized following incident at daycare in the Bronx**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/15/gretchen-whitmer-kidnapping-aquittal/).
+You can read more about it [here](https://abc7ny.com/bronx-daycare-incident-day-care/13787482/).
 
 ## Requirements
 - Python 3.8
