@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694961233)
+![Generated GIF](output.gif?raw=true&v=1694963212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine live briefing: 3 nations block Ukrainian grain; Kim Jong Un views missiles in Vladivostok**
+**Boebert apologizes for vaping and disrupting 'Beetlejuice' musical**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/16/russia-ukraine-war-news/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/15/lauren-boebert-beetlejuice-theater/).
 
 ## Requirements
 - Python 3.8
