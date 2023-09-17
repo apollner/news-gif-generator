@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694988320)
+![Generated GIF](output.gif?raw=true&v=1694990035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fans Are Reacting After Halle Berry Called Out Drake For Using Her Image Without Permission**
+**Texas Lt. Gov. Dan Patrick blasts House for handling of Paxton impeachment process**
 
-You can read more about it [here](https://www.buzzfeed.com/mychalthompson/halle-berry-drake-album-art-fan-reactions).
+You can read more about it [here](https://www.youtube.com/watch?v=SVhR53YgOIM).
 
 ## Requirements
 - Python 3.8
