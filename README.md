@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694966851)
+![Generated GIF](output.gif?raw=true&v=1694968499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Senators end deliberations on Paxton impeachment; will vote soon**
+**‘Disaster of epic proportions’: Libya prosecutor probes deadly dam collapse**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/16/ken-paxton-impeachment-vote-deliberations/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/16/disaster-of-epic-proportions-libya-prosecutor-probes-deadly-dam-collapse).
 
 ## Requirements
 - Python 3.8
