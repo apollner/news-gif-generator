@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694918063)
+![Generated GIF](output.gif?raw=true&v=1694920168)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**1 child dead, 3 others hospitalized following incident at daycare in the Bronx**
+**Ashton Kutcher resigns from anti-child abuse charity over support for rapist Danny Masterson**
 
-You can read more about it [here](https://abc7ny.com/bronx-daycare-incident-day-care/13787482/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66827692).
 
 ## Requirements
 - Python 3.8
