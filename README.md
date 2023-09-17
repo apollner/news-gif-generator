@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694986450)
+![Generated GIF](output.gif?raw=true&v=1694988320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia-Ukraine war news: Russia-Ukraine war news: Kim views missiles in Vladivostok; five injured in Kharkiv strike**
+**Fans Are Reacting After Halle Berry Called Out Drake For Using Her Image Without Permission**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/16/russia-ukraine-war-news/).
+You can read more about it [here](https://www.buzzfeed.com/mychalthompson/halle-berry-drake-album-art-fan-reactions).
 
 ## Requirements
 - Python 3.8
