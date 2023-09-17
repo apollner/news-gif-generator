@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694950443)
+![Generated GIF](output.gif?raw=true&v=1694952731)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Speculation grows over whereabouts of China’s Defense Minister Li Shangfu**
+**The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/china/li-shangfu-china-defense-minister-whereabouts-intl-hnk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=7d-xW-wQJ6s).
 
 ## Requirements
 - Python 3.8
