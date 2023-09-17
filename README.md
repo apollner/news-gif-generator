@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694990035)
+![Generated GIF](output.gif?raw=true&v=1694991944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Lt. Gov. Dan Patrick blasts House for handling of Paxton impeachment process**
+**FANS STORM THE FIELD AFTER MISSOURI'S 61 YARD WALK-OFF FIELD GOAL VS. KANSAS STATE 🤯**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SVhR53YgOIM).
+You can read more about it [here](https://www.youtube.com/watch?v=y4W54aFDB9A).
 
 ## Requirements
 - Python 3.8
