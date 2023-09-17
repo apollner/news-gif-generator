@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694954730)
+![Generated GIF](output.gif?raw=true&v=1694955981)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Senate deliberations in AG Paxton impeachment trial spill into second day**
+**Hugh Jackman’s ‘crush’ on Deborra-lee turned into 27-year romance; star once talked her out of leaving**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/politics/ken-paxton-impeachment-texas-attorney-general/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/hugh-jackman-crush-deborra-lee-turned-27-year-romance-star-once-talking-her-out-leaving).
 
 ## Requirements
 - Python 3.8
