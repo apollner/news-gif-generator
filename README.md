@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694952731)
+![Generated GIF](output.gif?raw=true&v=1694954730)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023**
+**Texas Senate deliberations in AG Paxton impeachment trial spill into second day**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7d-xW-wQJ6s).
+You can read more about it [here](https://www.cnn.com/2023/09/15/politics/ken-paxton-impeachment-texas-attorney-general/index.html).
 
 ## Requirements
 - Python 3.8
