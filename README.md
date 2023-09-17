@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694925292)
+![Generated GIF](output.gif?raw=true&v=1694927158)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Devastation grips Libya after catastrophic flooding**
+**Fantasy Football Week 2 injuries: Travis Kelce, Mark Andrews, Aaron Jones, Puka Nacua questionable**
 
-You can read more about it [here](https://www.youtube.com/watch?v=oQ2jhOsXVhA).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-2-injuries-travis-kelce-mark-andrews-aaron-jones-puka-nacua-questionable/).
 
 ## Requirements
 - Python 3.8
