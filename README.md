@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694928848)
+![Generated GIF](output.gif?raw=true&v=1694930986)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sprawling Hurricane Lee's impacts begin as winds, power outages increase in New England**
+**Jury clears 3 men in the last trial tied to the plot to kidnap Michigan Gov. Gretchen Whitmer**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/hurricane-lee-landfall-impacts-new-england).
+You can read more about it [here](https://www.politico.com/news/2023/09/15/whitmer-kidnappers-trial-acquittal-ap-00116359).
 
 ## Requirements
 - Python 3.8
