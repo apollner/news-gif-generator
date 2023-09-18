@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695008063)
+![Generated GIF](output.gif?raw=true&v=1695010224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In Three Days, Ukrainian Drones Ran Down Four Russian Patrol Boats**
+**Libya floods death toll rises to 11,300 in Derna, UN says**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/09/16/in-three-days-ukrainian-drones-ran-down-four-of-the-russian-fleets-patrol-boats/).
+You can read more about it [here](https://www.cnn.com/2023/09/16/world/libya-flood-death-toll-rise-derna-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
