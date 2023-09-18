@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695074774)
+![Generated GIF](output.gif?raw=true&v=1695076457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The UAW strike came to their hometown so this church turned to prayer**
+**Kansas City Chiefs vs. Jacksonville Jaguars | 2023 Week 2 Game Highlights**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/auto-leadership/2023/09/17/uaw-strike-wayne-michigan-assembly-st-mary-catholic-church/70884576007/).
+You can read more about it [here](https://www.youtube.com/watch?v=_3mDT2ZKbbo).
 
 ## Requirements
 - Python 3.8
