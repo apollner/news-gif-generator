@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695062183)
+![Generated GIF](output.gif?raw=true&v=1695063933)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chiefs vs. Jaguars odds, picks, line, how to watch, live stream: Model reveals 2023 Week 2 NFL predictions**
+**Fans go WILD as Adele calls Rich Paul her ‘husband in Las Vegas show**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-jaguars-odds-picks-line-how-to-watch-live-stream-model-reveals-2023-week-2-nfl-predictions/).
+You can read more about it [here](https://www.geo.tv/latest/510385-fans-go-wild-as-adele-calls-rich-paul-her-husband-in-las-vegas-show).
 
 ## Requirements
 - Python 3.8
