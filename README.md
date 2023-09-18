@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695015248)
+![Generated GIF](output.gif?raw=true&v=1695017454)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Attorney General Ken Paxton acquitted in impeachment trial**
+**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
 
-You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
 
 ## Requirements
 - Python 3.8
