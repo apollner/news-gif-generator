@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695071211)
+![Generated GIF](output.gif?raw=true&v=1695072861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Packers lose lead and game to Falcons, 25-24**
+**‘The Jennifer Hudson Show’ Pushes Back Return Amid Writers Strike**
 
-You can read more about it [here](https://www.packers.com/news/packers-falcons-week-2-2023-in-game-updates).
+You can read more about it [here](https://variety.com/2023/tv/news/the-jennifer-hudson-show-return-postponed-strike-1235725861/).
 
 ## Requirements
 - Python 3.8
