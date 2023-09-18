@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695006562)
+![Generated GIF](output.gif?raw=true&v=1695008063)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at country club splash pad**
+**In Three Days, Ukrainian Drones Ran Down Four Russian Patrol Boats**
 
-You can read more about it [here](https://www.foxnews.com/health/arkansas-toddler-dies-rare-brain-eating-amoeba-infection-likely-contracted-splash-pad-country-club).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/09/16/in-three-days-ukrainian-drones-ran-down-four-of-the-russian-fleets-patrol-boats/).
 
 ## Requirements
 - Python 3.8
