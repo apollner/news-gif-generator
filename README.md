@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695020901)
+![Generated GIF](output.gif?raw=true&v=1695022434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California lawsuit says oil giants deceived public on climate, seeks funds for storm damage**
+**iPhone 15's USB-C Port: 4.5W Charging for Accessories, USB 3.2 Gen 2 for Pro Models, and More**
 
-You can read more about it [here](https://apnews.com/article/climate-oil-gas-california-lawsuit-newsom-212d6d9873352f28094173a1974e3d90).
+You can read more about it [here](https://www.macrumors.com/2023/09/16/iphone-15-usb-c-port-details/).
 
 ## Requirements
 - Python 3.8
