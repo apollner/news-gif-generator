@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695028118)
+![Generated GIF](output.gif?raw=true&v=1695029703)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Plane crash in Brazil's Amazon state leaves 14 dead**
+**Idaho student murders suspect Bryan Kohberger followed victims on Instagram, says family**
 
-You can read more about it [here](https://www.reuters.com/world/americas/plane-crash-brazils-amazon-state-leaves-14-dead-cnn-2023-09-16/).
+You can read more about it [here](https://www.cbsnews.com/news/idaho-student-murders-bryan-kohberger-followed-victims-on-instagram-says-family/).
 
 ## Requirements
 - Python 3.8
