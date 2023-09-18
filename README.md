@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695046027)
+![Generated GIF](output.gif?raw=true&v=1695047685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukrainian drones strike Crimea, Moscow: Russia**
+**Science news this week: A giant gator and a wobbly asteroid**
 
-You can read more about it [here](https://thehill.com/policy/international/4208680-ukrainian-drones-strike-crimea-moscow-russia/).
+You can read more about it [here](https://www.livescience.com/space/science-news-this-week-a-giant-gator-and-a-wobbly-asteroid).
 
 ## Requirements
 - Python 3.8
