@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695055152)
+![Generated GIF](output.gif?raw=true&v=1695056780)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**United Auto Workers strike enters third day: Live updates**
+**Gloria Steinem on the history of Ms. Magazine**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/ford-uaw-strike-stellantis-09-17-23/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=vwV9P36OyGo).
 
 ## Requirements
 - Python 3.8
