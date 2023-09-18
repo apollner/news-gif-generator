@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695058443)
+![Generated GIF](output.gif?raw=true&v=1695060633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billy Miller, ‘Young and the Restless’ Daytime Emmy Winner, Dies at 43**
+**Trump refuses to say in a TV interview how he watched the Jan. 6 attack unfold at the US Capitol**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/billy-miller-dead-young-and-the-restless-general-hospital-1235592419/).
+You can read more about it [here](https://news.yahoo.com/trump-refuses-tv-interview-watched-142211512.html).
 
 ## Requirements
 - Python 3.8
