@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695060633)
+![Generated GIF](output.gif?raw=true&v=1695062183)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump refuses to say in a TV interview how he watched the Jan. 6 attack unfold at the US Capitol**
+**Chiefs vs. Jaguars odds, picks, line, how to watch, live stream: Model reveals 2023 Week 2 NFL predictions**
 
-You can read more about it [here](https://news.yahoo.com/trump-refuses-tv-interview-watched-142211512.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-jaguars-odds-picks-line-how-to-watch-live-stream-model-reveals-2023-week-2-nfl-predictions/).
 
 ## Requirements
 - Python 3.8
