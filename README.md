@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695065651)
+![Generated GIF](output.gif?raw=true&v=1695067671)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**49ers vs. Rams Livestream: How to Watch NFL Week 2 Online Today**
+**New York Jets vs. Dallas Cowboys Game Inactives - Week 2 2023**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/49ers-vs-rams-livestream-how-to-watch-nfl-week-2-online-today/).
+You can read more about it [here](https://www.newyorkjets.com/news/jets-at-cowboys-2023-week-2-inactives).
 
 ## Requirements
 - Python 3.8
