@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695031887)
+![Generated GIF](output.gif?raw=true&v=1695033412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rolling Stone Founder Jann Wenner Apologizes For “Badly Chosen Words” About Black & Female Musicians**
+**India's Predicted XI vs Sri Lanka, Asia Cup 2023 Final: Will Mohammed Shami Get A Chance?**
 
-You can read more about it [here](https://deadline.com/2023/09/rolling-stone-founder-jann-apologizes-black-female-musicians-1235548727/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-39324587).
 
 ## Requirements
 - Python 3.8
