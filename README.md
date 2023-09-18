@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695053392)
+![Generated GIF](output.gif?raw=true&v=1695055152)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bank of Montreal to close retail auto finance business, flags job losses**
+**United Auto Workers strike enters third day: Live updates**
 
-You can read more about it [here](https://www.reuters.com/business/finance/canadian-lender-bmo-wind-down-retail-auto-finance-business-2023-09-17/).
+You can read more about it [here](https://www.cnn.com/business/live-news/ford-uaw-strike-stellantis-09-17-23/index.html).
 
 ## Requirements
 - Python 3.8
