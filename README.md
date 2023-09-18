@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695047685)
+![Generated GIF](output.gif?raw=true&v=1695049696)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Science news this week: A giant gator and a wobbly asteroid**
+**Fatigue patient’s case prompts discovery that may help with long covid**
 
-You can read more about it [here](https://www.livescience.com/space/science-news-this-week-a-giant-gator-and-a-wobbly-asteroid).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/09/17/fatigue-cfs-longcovid-mitochondria/).
 
 ## Requirements
 - Python 3.8
