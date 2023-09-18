@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695013631)
+![Generated GIF](output.gif?raw=true&v=1695015248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Saban noncommittal about starter after more QB struggles - ESPN**
+**Texas Attorney General Ken Paxton acquitted in impeachment trial**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38416826/nick-saban-noncommittal-starter-more-qb-struggles).
+You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
 
 ## Requirements
 - Python 3.8
