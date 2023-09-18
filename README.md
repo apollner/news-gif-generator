@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695063933)
+![Generated GIF](output.gif?raw=true&v=1695065651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fans go WILD as Adele calls Rich Paul her ‘husband in Las Vegas show**
+**49ers vs. Rams Livestream: How to Watch NFL Week 2 Online Today**
 
-You can read more about it [here](https://www.geo.tv/latest/510385-fans-go-wild-as-adele-calls-rich-paul-her-husband-in-las-vegas-show).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/49ers-vs-rams-livestream-how-to-watch-nfl-week-2-online-today/).
 
 ## Requirements
 - Python 3.8
