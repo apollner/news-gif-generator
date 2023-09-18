@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695067671)
+![Generated GIF](output.gif?raw=true&v=1695069250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Jets vs. Dallas Cowboys Game Inactives - Week 2 2023**
+**Billy Miller, ‘The Young and the Restless’ and ‘General Hospital’ Actor, Dies at 43**
 
-You can read more about it [here](https://www.newyorkjets.com/news/jets-at-cowboys-2023-week-2-inactives).
+You can read more about it [here](https://variety.com/2023/tv/news/billy-miller-dead-the-young-and-the-restless-1235725784/).
 
 ## Requirements
 - Python 3.8
