@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695041559)
+![Generated GIF](output.gif?raw=true&v=1695042753)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Youth Summit announces Lauren Boebert as speaker after 'Beetlejuice' controversy**
+**Here is what Detroit automakers have to give the UAW to get a deal, experts say**
 
-You can read more about it [here](https://www.businessinsider.com/texas-youth-summit-lauren-boebert-beetlejuice-christian-values-2023-9).
+You can read more about it [here](https://www.freep.com/story/money/cars/2023/09/17/what-detroit-3-have-to-give-the-uaw-to-get-a-deal-experts-say/70868385007/).
 
 ## Requirements
 - Python 3.8
