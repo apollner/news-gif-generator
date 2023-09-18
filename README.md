@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695017454)
+![Generated GIF](output.gif?raw=true&v=1695018937)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
+**TikTok is tracking return-to-office attendance with surveillance tool**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
+You can read more about it [here](https://www.businessinsider.com/tiktok-tracking-employees-return-to-office-surveillance-tool-myrto-2023-9).
 
 ## Requirements
 - Python 3.8
