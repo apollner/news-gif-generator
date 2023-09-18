@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695018937)
+![Generated GIF](output.gif?raw=true&v=1695020901)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TikTok is tracking return-to-office attendance with surveillance tool**
+**California lawsuit says oil giants deceived public on climate, seeks funds for storm damage**
 
-You can read more about it [here](https://www.businessinsider.com/tiktok-tracking-employees-return-to-office-surveillance-tool-myrto-2023-9).
+You can read more about it [here](https://apnews.com/article/climate-oil-gas-california-lawsuit-newsom-212d6d9873352f28094173a1974e3d90).
 
 ## Requirements
 - Python 3.8
