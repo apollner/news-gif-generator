@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695003381)
+![Generated GIF](output.gif?raw=true&v=1695004446)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Retiring Mitt Romney embraced moderate conservatism — he fears the GOP has lost its way**
+**Lee makes landfall with near-hurricane strength in Canada after moving up Atlantic Ocean**
 
-You can read more about it [here](https://www.ksl.com/article/50731391/retiring-mitt-romney-embraced-moderate-conservatism--he-fears-the-gop-has-lost-its-way).
+You can read more about it [here](https://www.cbsnews.com/news/hurricane-lee-path-landfall-canada-new-england/).
 
 ## Requirements
 - Python 3.8
