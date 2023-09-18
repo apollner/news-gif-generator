@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695039378)
+![Generated GIF](output.gif?raw=true&v=1695041559)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heatwaves, wildfires, air chaos and overcrowding. How this year’s summer vacations fell apart**
+**Texas Youth Summit announces Lauren Boebert as speaker after 'Beetlejuice' controversy**
 
-You can read more about it [here](https://www.cnn.com/travel/2023-summer-from-hell/index.html).
+You can read more about it [here](https://www.businessinsider.com/texas-youth-summit-lauren-boebert-beetlejuice-christian-values-2023-9).
 
 ## Requirements
 - Python 3.8
