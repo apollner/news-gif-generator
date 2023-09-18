@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695004446)
+![Generated GIF](output.gif?raw=true&v=1695006562)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lee makes landfall with near-hurricane strength in Canada after moving up Atlantic Ocean**
+**Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at country club splash pad**
 
-You can read more about it [here](https://www.cbsnews.com/news/hurricane-lee-path-landfall-canada-new-england/).
+You can read more about it [here](https://www.foxnews.com/health/arkansas-toddler-dies-rare-brain-eating-amoeba-infection-likely-contracted-splash-pad-country-club).
 
 ## Requirements
 - Python 3.8
