@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695035157)
+![Generated GIF](output.gif?raw=true&v=1695036899)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Is one of Russia’s oldest allies slipping from the Kremlin’s orbit?**
+**Wartime Pope Pius XII Knew About Holocaust, Letter Suggests**
 
-You can read more about it [here](https://www.cnn.com/2023/09/17/world/armenia-russia-kremlin-us-intl/index.html).
+You can read more about it [here](https://www.wsj.com/world/europe/wartime-pope-pius-xii-knew-about-holocaust-letter-suggests-159856ca).
 
 ## Requirements
 - Python 3.8
