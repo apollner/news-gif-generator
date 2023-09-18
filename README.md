@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1694993654)
+![Generated GIF](output.gif?raw=true&v=1694997044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple says iPhone 15 Pro will be 'the best game console' as A17 Pro packs major GPU upgrades**
+**Lee makes landfall with near-hurricane strength in Canada after moving up Atlantic Ocean**
 
-You can read more about it [here](https://9to5mac.com/2023/09/16/iphone-15-pro-gaming-a17-pro-interview/).
+You can read more about it [here](https://www.cbsnews.com/news/hurricane-lee-path-landfall-canada-new-england/).
 
 ## Requirements
 - Python 3.8
