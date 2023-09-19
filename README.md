@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695154080)
+![Generated GIF](output.gif?raw=true&v=1695155638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Maher Delays Start of ‘Real Time,’ Citing Strike Negotiations**
+**Ukraine sues Poland, Hungary and Slovakia over unilateral grain bans**
 
-You can read more about it [here](https://variety.com/2023/tv/news/bill-maher-real-time-delay-writers-strike-1235726462/).
+You can read more about it [here](https://www.euronews.com/my-europe/2023/09/18/ukraine-files-wto-case-against-poland-hungary-and-slovakia-over-their-unilateral-grain-ban).
 
 ## Requirements
 - Python 3.8
