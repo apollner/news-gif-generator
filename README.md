@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695114476)
+![Generated GIF](output.gif?raw=true&v=1695116050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants**
+**Tyreek Hill: New England fans are some of the worst fans in the NFL**
 
-You can read more about it [here](https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-new-england-fans-are-some-of-the-worst-fans-in-the-nfl).
 
 ## Requirements
 - Python 3.8
