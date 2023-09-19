@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695080046)
+![Generated GIF](output.gif?raw=true&v=1695083445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teyana Taylor and Iman Shumpert Break Up After 7 Years of Marriage - E! Online**
+**A third of voters think Biden would finish a second term if reelected: poll**
 
-You can read more about it [here](https://www.eonline.com/news/1385742/teyana-taylor-and-iman-shumpert-break-up-after-7-years-of-marriage).
+You can read more about it [here](https://thehill.com/homenews/campaign/4209033-a-third-of-voters-think-biden-would-finish-a-second-term-if-re-elected-poll/).
 
 ## Requirements
 - Python 3.8
