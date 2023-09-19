@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695157570)
+![Generated GIF](output.gif?raw=true&v=1695159312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Benched Rams RB Cam Akers subject of trade talks**
+**Iran prisoner swap: US citizens freed in $6bn deal**
 
-You can read more about it [here](https://www.nfl.com/news/benched-rams-rb-cam-akers-subject-of-trade-talks).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-66841137).
 
 ## Requirements
 - Python 3.8
