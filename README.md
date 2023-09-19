@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695103909)
+![Generated GIF](output.gif?raw=true&v=1695105344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**$250K reward offered for assailant who shot Los Angeles County sheriff's deputy**
+**Jets' Breece Hall has simple reason for run game struggles in 30-10 loss at Cowboys: 'I only got four touches'**
 
-You can read more about it [here](https://www.npr.org/2023/09/17/1200073197/-250k-reward-offered-for-assailant-who-shot-los-angeles-county-sheriffs-deputy).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jets-breece-hall-has-simple-reason-for-run-game-struggles-in-30-10-loss-at-cowboys-i-only-got-four-touches/).
 
 ## Requirements
 - Python 3.8
