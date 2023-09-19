@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695108925)
+![Generated GIF](output.gif?raw=true&v=1695111085)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asus ROG Ally (Ryzen Z1) review: no man's land**
+**'I Don't Care!' Dak Exceptional in Cowboys' Win vs. Jets**
 
-You can read more about it [here](https://www.digitaltrends.com/gaming/asus-rog-ally-z1-review/).
+You can read more about it [here](https://www.si.com/nfl/cowboys/news/dak-prescott-stats-dallas-cowboys-new-york-jets-recap).
 
 ## Requirements
 - Python 3.8
