@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695083445)
+![Generated GIF](output.gif?raw=true&v=1695087301)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A third of voters think Biden would finish a second term if reelected: poll**
+**NFL scores today: Week 2 live updates, highlights, picks**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4209033-a-third-of-voters-think-biden-would-finish-a-second-term-if-re-elected-poll/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/09/17/nfl-week-2-live-updates-scores-highlights/70835200007/).
 
 ## Requirements
 - Python 3.8
