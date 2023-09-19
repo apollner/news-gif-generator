@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695111085)
+![Generated GIF](output.gif?raw=true&v=1695112513)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'I Don't Care!' Dak Exceptional in Cowboys' Win vs. Jets**
+**4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants**
 
-You can read more about it [here](https://www.si.com/nfl/cowboys/news/dak-prescott-stats-dallas-cowboys-new-york-jets-recap).
+You can read more about it [here](https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/).
 
 ## Requirements
 - Python 3.8
