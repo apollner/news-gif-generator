@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695150315)
+![Generated GIF](output.gif?raw=true&v=1695154080)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How did Ohio colleges, universities rank using U.S. News' new metrics?**
+**Bill Maher Delays Start of ‘Real Time,’ Citing Strike Negotiations**
 
-You can read more about it [here](https://www.dispatch.com/story/news/education/2023/09/18/how-did-ohio-colleges-universities-rank-using-u-s-news-new-metrics/70884020007/).
+You can read more about it [here](https://variety.com/2023/tv/news/bill-maher-real-time-delay-writers-strike-1235726462/).
 
 ## Requirements
 - Python 3.8
