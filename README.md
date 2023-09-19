@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695141729)
+![Generated GIF](output.gif?raw=true&v=1695143169)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Around 64,000 portable generators recalled over burn injury risk**
+**British police urged to investigate sexual assault allegations against Russell Brand**
 
-You can read more about it [here](https://www.npr.org/2023/09/18/1200123328/generac-portable-generators-recall-fire-burn-hazard).
+You can read more about it [here](https://www.nbcnews.com/news/world/british-police-urged-investigate-sexual-assault-allegations-russell-br-rcna105577).
 
 ## Requirements
 - Python 3.8
