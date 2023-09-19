@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695101636)
+![Generated GIF](output.gif?raw=true&v=1695103909)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Early galaxies from soon after the Big Bang cause drama : Short Wave**
+**$250K reward offered for assailant who shot Los Angeles County sheriff's deputy**
 
-You can read more about it [here](https://www.npr.org/2023/09/18/1198748542/why-the-earliest-galaxies-are-sparking-drama-and-controversy-among-astronomers).
+You can read more about it [here](https://www.npr.org/2023/09/17/1200073197/-250k-reward-offered-for-assailant-who-shot-los-angeles-county-sheriffs-deputy).
 
 ## Requirements
 - Python 3.8
