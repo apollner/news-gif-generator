@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695100017)
+![Generated GIF](output.gif?raw=true&v=1695101636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami Dolphins vs. New England Patriots | 2023 Week 2 Game Highlights**
+**Early galaxies from soon after the Big Bang cause drama : Short Wave**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Wvadap4QRSQ).
+You can read more about it [here](https://www.npr.org/2023/09/18/1198748542/why-the-earliest-galaxies-are-sparking-drama-and-controversy-among-astronomers).
 
 ## Requirements
 - Python 3.8
