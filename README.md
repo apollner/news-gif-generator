@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695105344)
+![Generated GIF](output.gif?raw=true&v=1695107224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets' Breece Hall has simple reason for run game struggles in 30-10 loss at Cowboys: 'I only got four touches'**
+**Tackles Jake Curhan & Stone Forsythe “Did A Phenomenal Job” In Seahawks' Overtime Win Over Lions**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jets-breece-hall-has-simple-reason-for-run-game-struggles-in-30-10-loss-at-cowboys-i-only-got-four-touches/).
+You can read more about it [here](https://www.seahawks.com/news/tackles-jake-curhan-stone-forsythe-did-a-phenomenal-job-in-seahawks-overtime-win).
 
 ## Requirements
 - Python 3.8
