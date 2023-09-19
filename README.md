@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695139804)
+![Generated GIF](output.gif?raw=true&v=1695141729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Intel Unveils Industry-Leading Glass Substrates to Meet Demand for More Powerful Compute**
+**Around 64,000 portable generators recalled over burn injury risk**
 
-You can read more about it [here](https://www.intc.com/news-events/press-releases/detail/1647/intel-unveils-industry-leading-glass-substrates-to-meet).
+You can read more about it [here](https://www.npr.org/2023/09/18/1200123328/generac-portable-generators-recall-fire-burn-hazard).
 
 ## Requirements
 - Python 3.8
