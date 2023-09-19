@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695094442)
+![Generated GIF](output.gif?raw=true&v=1695096600)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Donald Trump calls six-week abortion bans 'terrible' - The Washington Post**
+**Libyan flood survivors weigh water shortages against landmine risk**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/17/trump-abortion/).
+You can read more about it [here](https://www.reuters.com/world/africa/libyan-flood-survivors-weigh-water-shortages-against-landmine-risk-2023-09-17/).
 
 ## Requirements
 - Python 3.8
