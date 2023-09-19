@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695116050)
+![Generated GIF](output.gif?raw=true&v=1695118122)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyreek Hill: New England fans are some of the worst fans in the NFL**
+**Rifle, fur hat, drones: North Korea's Kim returns with gifts from Russia**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-new-england-fans-are-some-of-the-worst-fans-in-the-nfl).
+You can read more about it [here](https://www.reuters.com/world/rifle-fur-hat-drones-north-koreas-kim-returns-with-gifts-russia-2023-09-18/).
 
 ## Requirements
 - Python 3.8
