@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695118122)
+![Generated GIF](output.gif?raw=true&v=1695119921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rifle, fur hat, drones: North Korea's Kim returns with gifts from Russia**
+**Jaguars Head Coach Reflects on Week 2 Game vs. Chiefs**
 
-You can read more about it [here](https://www.reuters.com/world/rifle-fur-hat-drones-north-koreas-kim-returns-with-gifts-russia-2023-09-18/).
+You can read more about it [here](https://www.jaguars.com/news/coach-pederson-speaks-on-jaguars-chiefs-loss-2023).
 
 ## Requirements
 - Python 3.8
