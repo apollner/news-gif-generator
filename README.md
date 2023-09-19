@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695123241)
+![Generated GIF](output.gif?raw=true&v=1695125644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US shutdown looms: Top House Republican Kevin McCarthy faces crucial test**
+**Unity apologizes and promises to change its controversial game install fee policy**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-shutdown-looms-top-house-republican-kevin-mccarthy-faces-crucial-test-2023-09-18/).
+You can read more about it [here](https://www.engadget.com/unity-apologizes-and-promises-to-change-its-controversial-game-install-fee-policy-082408455.html).
 
 ## Requirements
 - Python 3.8
