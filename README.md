@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695107224)
+![Generated GIF](output.gif?raw=true&v=1695108925)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tackles Jake Curhan & Stone Forsythe “Did A Phenomenal Job” In Seahawks' Overtime Win Over Lions**
+**Asus ROG Ally (Ryzen Z1) review: no man's land**
 
-You can read more about it [here](https://www.seahawks.com/news/tackles-jake-curhan-stone-forsythe-did-a-phenomenal-job-in-seahawks-overtime-win).
+You can read more about it [here](https://www.digitaltrends.com/gaming/asus-rog-ally-z1-review/).
 
 ## Requirements
 - Python 3.8
