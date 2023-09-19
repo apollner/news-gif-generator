@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695121519)
+![Generated GIF](output.gif?raw=true&v=1695123241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Five Americans detained in Iran expected to be freed Monday, Iranian foreign ministry says**
+**US shutdown looms: Top House Republican Kevin McCarthy faces crucial test**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/politics/iran-us-prisoner-release-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/us-shutdown-looms-top-house-republican-kevin-mccarthy-faces-crucial-test-2023-09-18/).
 
 ## Requirements
 - Python 3.8
