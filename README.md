@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695164800)
+![Generated GIF](output.gif?raw=true&v=1695166452)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York is cracking down on illegal weed stores as legal market struggles to take hold**
+**Taylor Swift's 'Blank Space' Referenced in Travis Kelce Game**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/18/legal-weed-new-york-cracks-down-on-illegal-marijuana-stores.html).
+You can read more about it [here](http://www.vulture.com/2023/09/taylor-swift-travis-kelce-dating-rumors.html).
 
 ## Requirements
 - Python 3.8
