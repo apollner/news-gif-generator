@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695162844)
+![Generated GIF](output.gif?raw=true&v=1695164800)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shannon Beador, ‘Real Housewives’ cast member, arrested for DUI and hit-and-run**
+**New York is cracking down on illegal weed stores as legal market struggles to take hold**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/entertainment/shannon-beador-arrested/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/18/legal-weed-new-york-cracks-down-on-illegal-marijuana-stores.html).
 
 ## Requirements
 - Python 3.8
