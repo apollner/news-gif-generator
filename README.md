@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695092968)
+![Generated GIF](output.gif?raw=true&v=1695094442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California could raise health care workers' minimum wage to $25 an hour**
+**Donald Trump calls six-week abortion bans 'terrible' - The Washington Post**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/california-could-raise-health-care-workers-minimum-wage-25-hour).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/17/trump-abortion/).
 
 ## Requirements
 - Python 3.8
