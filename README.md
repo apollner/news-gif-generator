@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695155638)
+![Generated GIF](output.gif?raw=true&v=1695157570)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine sues Poland, Hungary and Slovakia over unilateral grain bans**
+**Benched Rams RB Cam Akers subject of trade talks**
 
-You can read more about it [here](https://www.euronews.com/my-europe/2023/09/18/ukraine-files-wto-case-against-poland-hungary-and-slovakia-over-their-unilateral-grain-ban).
+You can read more about it [here](https://www.nfl.com/news/benched-rams-rb-cam-akers-subject-of-trade-talks).
 
 ## Requirements
 - Python 3.8
