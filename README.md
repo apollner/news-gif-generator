@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695089853)
+![Generated GIF](output.gif?raw=true&v=1695090968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL scores today: Week 2 live updates, highlights, picks**
+**iOS 17 Launching Tomorrow for iPhones With These 10 New Features**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/09/17/nfl-week-2-live-updates-scores-highlights/70835200007/).
+You can read more about it [here](https://www.macrumors.com/2023/09/17/ios-17-launching-tomorrow-feature-list/).
 
 ## Requirements
 - Python 3.8
