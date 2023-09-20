@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695247659)
+![Generated GIF](output.gif?raw=true&v=1695249236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alabama band director tased by police for not stopping his students' performance**
+**Danish artist who ignored job and gave museum blank canvases ordered to give back over $70,000**
 
-You can read more about it [here](https://www.npr.org/2023/09/19/1200145239/alabama-band-director-tased-by-police-for-not-stopping-his-students-performance).
+You can read more about it [here](https://www.nbcnews.com/news/world/danish-artist-ignored-job-gave-museum-blank-canvases-ordered-give-back-rcna105841).
 
 ## Requirements
 - Python 3.8
