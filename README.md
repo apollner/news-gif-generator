@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695214268)
+![Generated GIF](output.gif?raw=true&v=1695215525)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who was Hardeep Singh Nijjar, the Sikh activist killed in Canada?**
+**Horoscope for Tuesday, September 19, 2022**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/19/who-is-hardeep-singh-nijjar-sikh-canada-killed/).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/19/23879502/horoscopea-today-tuesday-september-19-2022).
 
 ## Requirements
 - Python 3.8
