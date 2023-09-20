@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695186398)
+![Generated GIF](output.gif?raw=true&v=1695188119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**After U.S. News college ranking changes, many public universities rose on lists**
+**New Orleans Saints vs. Carolina Panthers | 2023 Week 2 Game Highlights**
 
-You can read more about it [here](https://www.washingtonpost.com/education/2023/09/18/us-news-college-rankings-methodology-changes/).
+You can read more about it [here](https://www.youtube.com/watch?v=haL3wiTxTOQ).
 
 ## Requirements
 - Python 3.8
