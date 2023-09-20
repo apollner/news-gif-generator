@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695249236)
+![Generated GIF](output.gif?raw=true&v=1695251212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danish artist who ignored job and gave museum blank canvases ordered to give back over $70,000**
+**FTX Sues Sam Bankman-Fried's Parents to Recover 'Misappropriated Funds'**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/danish-artist-ignored-job-gave-museum-blank-canvases-ordered-give-back-rcna105841).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-19-2023).
 
 ## Requirements
 - Python 3.8
