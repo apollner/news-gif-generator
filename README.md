@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695193571)
+![Generated GIF](output.gif?raw=true&v=1695195246)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Browns' Nick Chubb expected to miss rest of season after suffering 'significant knee injury' against Steelers**
+**Proper treatment for hypertension could avert 76 million deaths globally by 2050, WHO says**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/browns-nick-chubb-expected-to-miss-rest-of-season-after-suffering-significant-knee-injury-against-steelers/).
+You can read more about it [here](https://www.cnn.com/2023/09/19/health/high-blood-pressure-who-report/index.html).
 
 ## Requirements
 - Python 3.8
