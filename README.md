@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695191747)
+![Generated GIF](output.gif?raw=true&v=1695193571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean Penn gives firsthand account of war in Ukraine**
+**Browns' Nick Chubb expected to miss rest of season after suffering 'significant knee injury' against Steelers**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bJyWTcqOU3Y).
+You can read more about it [here](https://www.cbssports.com/nfl/news/browns-nick-chubb-expected-to-miss-rest-of-season-after-suffering-significant-knee-injury-against-steelers/).
 
 ## Requirements
 - Python 3.8
