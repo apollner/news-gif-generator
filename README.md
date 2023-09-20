@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695236729)
+![Generated GIF](output.gif?raw=true&v=1695238505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Major Xbox plans leaked in emails made public on Microsoft’s FTC case**
+**Gun used in ambush killing of LA sheriff's deputy appears to have been purchased legally: Officials**
 
-You can read more about it [here](https://www.nbcnews.com/tech/video-games/microsofts-xbox-plans-revealed-emails-tied-ftc-case-rcna105766).
+You can read more about it [here](https://abcnews.go.com/US/gun-ambush-killing-la-sheriffs-deputy-appears-purchased/story?id=103314420).
 
 ## Requirements
 - Python 3.8
