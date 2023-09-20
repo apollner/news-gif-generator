@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695222484)
+![Generated GIF](output.gif?raw=true&v=1695224143)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's OSIRIS-REx asteroid sample return to Earth: Live updates**
+**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
 
-You can read more about it [here](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates).
+You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
 
 ## Requirements
 - Python 3.8
