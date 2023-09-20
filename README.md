@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695238505)
+![Generated GIF](output.gif?raw=true&v=1695240496)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gun used in ambush killing of LA sheriff's deputy appears to have been purchased legally: Officials**
+**Nick Chubb injury: Browns' Jerome Ford in line to be 'featured back;' Kareem Hunt reportedly visits Cleveland**
 
-You can read more about it [here](https://abcnews.go.com/US/gun-ambush-killing-la-sheriffs-deputy-appears-purchased/story?id=103314420).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nick-chubb-out-for-season-browns-rb-options-as-kareem-hunt-visits-jerome-ford-to-be-featured-back/).
 
 ## Requirements
 - Python 3.8
