@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695212031)
+![Generated GIF](output.gif?raw=true&v=1695214268)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rudy Giuliani sued by longtime former lawyer over alleged unpaid bills**
+**Who was Hardeep Singh Nijjar, the Sikh activist killed in Canada?**
 
-You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-sued-robert-costello-former-lawyer-unpaid-bills/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/19/who-is-hardeep-singh-nijjar-sikh-canada-killed/).
 
 ## Requirements
 - Python 3.8
