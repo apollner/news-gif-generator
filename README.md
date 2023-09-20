@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695243977)
+![Generated GIF](output.gif?raw=true&v=1695245655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RNA Recovered From an Extinct Species for the First Time**
+**Why UAW strike support is a political no-brainer for Biden before 2024**
 
-You can read more about it [here](https://gizmodo.com/rna-recovery-extinct-species-thylacine-tasmanian-tiger-1850853441).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/19/biden-supporting-uaw-strike-2024-election-effect/70892207007/).
 
 ## Requirements
 - Python 3.8
