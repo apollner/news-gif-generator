@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695220530)
+![Generated GIF](output.gif?raw=true&v=1695222484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blasts rock Nagorno-Karabakh as Azerbaijan launches military operation**
+**NASA's OSIRIS-REx asteroid sample return to Earth: Live updates**
 
-You can read more about it [here](https://www.france24.com/en/asia-pacific/20230919-azerbaijan-says-it-has-begun-anti-terrorist-operations-in-nagorno-karabakh).
+You can read more about it [here](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates).
 
 ## Requirements
 - Python 3.8
