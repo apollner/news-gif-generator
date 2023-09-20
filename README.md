@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695204541)
+![Generated GIF](output.gif?raw=true&v=1695206218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
+**Tensions flare inside House GOP as moderates explore new plan to avoid shutdown**
 
-You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
+You can read more about it [here](https://www.cnn.com/2023/09/18/politics/house-republican-infighting-government-funding/index.html).
 
 ## Requirements
 - Python 3.8
