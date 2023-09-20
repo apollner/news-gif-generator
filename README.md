@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695184496)
+![Generated GIF](output.gif?raw=true&v=1695186398)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patrick Mahomes restructures contract for record 4-year deal**
+**After U.S. News college ranking changes, many public universities rose on lists**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/football/patrick-mahomes-record-contract-deal/index.html).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/18/us-news-college-rankings-methodology-changes/).
 
 ## Requirements
 - Python 3.8
