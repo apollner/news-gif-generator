@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695215525)
+![Generated GIF](output.gif?raw=true&v=1695216845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Tuesday, September 19, 2022**
+**The moon's south pole is a mystery. This image offers a stunning new glimpse**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/19/23879502/horoscopea-today-tuesday-september-19-2022).
+You can read more about it [here](https://www.nationalgeographic.com/science/article/exploring-moon-permanently-shadowed-regions-water-ice).
 
 ## Requirements
 - Python 3.8
