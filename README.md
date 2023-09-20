@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695209707)
+![Generated GIF](output.gif?raw=true&v=1695212031)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vance: Biden EV agenda threatens U.S. auto industry**
+**Rudy Giuliani sued by longtime former lawyer over alleged unpaid bills**
 
-You can read more about it [here](https://www.toledoblade.com/opinion/columnists/2023/09/19/vance-biden-ev-agenda-threatens-us-auto-industry/stories/20230919029).
+You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-sued-robert-costello-former-lawyer-unpaid-bills/).
 
 ## Requirements
 - Python 3.8
