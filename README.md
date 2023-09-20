@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695195246)
+![Generated GIF](output.gif?raw=true&v=1695197469)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Proper treatment for hypertension could avert 76 million deaths globally by 2050, WHO says**
+**Justin Trudeau says 'credible allegations' link India to Sikh leader's murder in Canada**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/health/high-blood-pressure-who-report/index.html).
+You can read more about it [here](https://www.ft.com/content/eca1a914-33a0-498e-955f-09f1b2fe887c).
 
 ## Requirements
 - Python 3.8
