@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695227964)
+![Generated GIF](output.gif?raw=true&v=1695229570)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blasts rock Nagorno-Karabakh as Azerbaijan launches military operation**
+**Steelers' Minkah Fitzpatrick released from hospital after suffering chest injury vs. Browns, per report**
 
-You can read more about it [here](https://www.france24.com/en/asia-pacific/20230919-azerbaijan-says-it-has-begun-anti-terrorist-operations-in-nagorno-karabakh).
+You can read more about it [here](https://www.cbssports.com/nfl/news/steelers-minkah-fitzpatrick-released-from-hospital-after-suffering-chest-injury-vs-browns-per-report/).
 
 ## Requirements
 - Python 3.8
