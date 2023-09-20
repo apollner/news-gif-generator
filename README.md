@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695240496)
+![Generated GIF](output.gif?raw=true&v=1695242049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Chubb injury: Browns' Jerome Ford in line to be 'featured back;' Kareem Hunt reportedly visits Cleveland**
+**'Real Housewives of O.C.' star Shannon Beador arrested on suspicion of DUI, hit-and-run in Newport Beach**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nick-chubb-out-for-season-browns-rb-options-as-kareem-hunt-visits-jerome-ford-to-be-featured-back/).
+You can read more about it [here](https://www.latimes.com/socal/daily-pilot/news/story/2023-09-19/real-housewives-of-o-c-star-shannon-beador-arrested-dui-hit-and-run).
 
 ## Requirements
 - Python 3.8
