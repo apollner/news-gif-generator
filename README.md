@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695197469)
+![Generated GIF](output.gif?raw=true&v=1695198924)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justin Trudeau says 'credible allegations' link India to Sikh leader's murder in Canada**
+**Jerome Ford is the No. 1 option to replace Nick Chubb - Joe Buck | SC with SVP**
 
-You can read more about it [here](https://www.ft.com/content/eca1a914-33a0-498e-955f-09f1b2fe887c).
+You can read more about it [here](https://www.youtube.com/watch?v=aUD7Hb2wG20).
 
 ## Requirements
 - Python 3.8
