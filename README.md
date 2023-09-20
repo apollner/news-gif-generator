@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695166452)
+![Generated GIF](output.gif?raw=true&v=1695169822)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift's 'Blank Space' Referenced in Travis Kelce Game**
+**Hurricane Nigel spins in Atlantic, forecast to become a major storm**
 
-You can read more about it [here](http://www.vulture.com/2023/09/taylor-swift-travis-kelce-dating-rumors.html).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/18/hurricane-nigel-atlantic-path/70892280007/).
 
 ## Requirements
 - Python 3.8
