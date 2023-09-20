@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695231238)
+![Generated GIF](output.gif?raw=true&v=1695233428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Major Xbox plans leaked in emails made public on Microsoft’s FTC case**
+**iOS 17 Cheat Sheet: What to Know About the New iPhone Update**
 
-You can read more about it [here](https://www.nbcnews.com/tech/video-games/microsofts-xbox-plans-revealed-emails-tied-ftc-case-rcna105766).
+You can read more about it [here](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-the-new-iphone-update/).
 
 ## Requirements
 - Python 3.8
