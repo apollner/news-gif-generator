@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695173608)
+![Generated GIF](output.gif?raw=true&v=1695176190)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple iPhone 15 vs. Samsung Galaxy S23: Flagship fight**
+**Canada expels Indian diplomat over ‘credible allegations’ linking India’s government to killing on Canadian soil**
 
-You can read more about it [here](https://www.androidpolice.com/apple-iphone-15-vs-samsung-galaxy-s23/).
+You can read more about it [here](https://www.cnn.com/2023/09/18/americas/canada-hardeep-singh-nijjar-india-intl/index.html).
 
 ## Requirements
 - Python 3.8
