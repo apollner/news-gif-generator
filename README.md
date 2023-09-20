@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695169822)
+![Generated GIF](output.gif?raw=true&v=1695173608)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Nigel spins in Atlantic, forecast to become a major storm**
+**Apple iPhone 15 vs. Samsung Galaxy S23: Flagship fight**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/18/hurricane-nigel-atlantic-path/70892280007/).
+You can read more about it [here](https://www.androidpolice.com/apple-iphone-15-vs-samsung-galaxy-s23/).
 
 ## Requirements
 - Python 3.8
