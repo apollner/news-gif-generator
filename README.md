@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695188119)
+![Generated GIF](output.gif?raw=true&v=1695190270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Orleans Saints vs. Carolina Panthers | 2023 Week 2 Game Highlights**
+**US-bound plane leaves Doha with five Americans freed by Iran**
 
-You can read more about it [here](https://www.youtube.com/watch?v=haL3wiTxTOQ).
+You can read more about it [here](https://www.reuters.com/world/south-korea-working-unfreeze-tehrans-funds-us-iran-detainee-deal-2023-09-18/).
 
 ## Requirements
 - Python 3.8
