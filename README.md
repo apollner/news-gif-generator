@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695242049)
+![Generated GIF](output.gif?raw=true&v=1695243977)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Real Housewives of O.C.' star Shannon Beador arrested on suspicion of DUI, hit-and-run in Newport Beach**
+**RNA Recovered From an Extinct Species for the First Time**
 
-You can read more about it [here](https://www.latimes.com/socal/daily-pilot/news/story/2023-09-19/real-housewives-of-o-c-star-shannon-beador-arrested-dui-hit-and-run).
+You can read more about it [here](https://gizmodo.com/rna-recovery-extinct-species-thylacine-tasmanian-tiger-1850853441).
 
 ## Requirements
 - Python 3.8
