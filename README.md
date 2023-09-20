@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695216845)
+![Generated GIF](output.gif?raw=true&v=1695218848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The moon's south pole is a mystery. This image offers a stunning new glimpse**
+**Hundreds protest against Libyan authorities in flood-ravaged Derna**
 
-You can read more about it [here](https://www.nationalgeographic.com/science/article/exploring-moon-permanently-shadowed-regions-water-ice).
+You can read more about it [here](https://www.cnn.com/2023/09/19/africa/libya-derna-flood-protests-intl/index.html).
 
 ## Requirements
 - Python 3.8
