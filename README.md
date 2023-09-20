@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695224143)
+![Generated GIF](output.gif?raw=true&v=1695226212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
+**Hundreds protest against Libyan authorities in flood-ravaged Derna**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/19/africa/libya-derna-flood-protests-intl/index.html).
 
 ## Requirements
 - Python 3.8
