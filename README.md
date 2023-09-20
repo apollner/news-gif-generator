@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695245655)
+![Generated GIF](output.gif?raw=true&v=1695247659)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why UAW strike support is a political no-brainer for Biden before 2024**
+**Alabama band director tased by police for not stopping his students' performance**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/19/biden-supporting-uaw-strike-2024-election-effect/70892207007/).
+You can read more about it [here](https://www.npr.org/2023/09/19/1200145239/alabama-band-director-tased-by-police-for-not-stopping-his-students-performance).
 
 ## Requirements
 - Python 3.8
