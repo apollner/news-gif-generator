@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695207926)
+![Generated GIF](output.gif?raw=true&v=1695209707)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW president announces new strike deadline for Detroit Big Three automakers**
+**Vance: Biden EV agenda threatens U.S. auto industry**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2023/09/19/uaw-president-announce-new-strike-deadline-for-detroit-big-3-automakers/).
+You can read more about it [here](https://www.toledoblade.com/opinion/columnists/2023/09/19/vance-biden-ev-agenda-threatens-us-auto-industry/stories/20230919029).
 
 ## Requirements
 - Python 3.8
