@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695234924)
+![Generated GIF](output.gif?raw=true&v=1695236729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pence echoes Trump, links UAW strikes to Biden EV push: 'Good for Beijing, bad for Detroit'**
+**Major Xbox plans leaked in emails made public on Microsoft’s FTC case**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/19/pence-echoes-trump-on-uaw-strikes-to-biden-ev-push-china.html).
+You can read more about it [here](https://www.nbcnews.com/tech/video-games/microsofts-xbox-plans-revealed-emails-tied-ftc-case-rcna105766).
 
 ## Requirements
 - Python 3.8
