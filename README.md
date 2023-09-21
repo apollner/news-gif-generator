@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695294332)
+![Generated GIF](output.gif?raw=true&v=1695296063)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bijou Phillips to divorce Danny Masterson after rape sentencing - reports**
+**Balance of power tightens at New Hampshire state House after special election in Northwood, Nottingham**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66862067).
+You can read more about it [here](https://www.wmur.com/article/nh-house-election-results-northwood-nottingham-23/45213577).
 
 ## Requirements
 - Python 3.8
