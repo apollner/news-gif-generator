@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695337664)
+![Generated GIF](output.gif?raw=true&v=1695339238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Merrick Garland testifies, faces questions on Hunter Biden, Trump trials: live updates - The Washington Post**
+**Americans can again order free COVID tests as Biden administration revives program**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/09/20/merrick-garland-attorney-general-testimony-house-judiciary/).
+You can read more about it [here](https://www.adn.com/nation-world/2023/09/20/americans-can-again-order-free-covid-tests-as-biden-administration-revives-program/).
 
 ## Requirements
 - Python 3.8
