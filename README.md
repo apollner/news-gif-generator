@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695263644)
+![Generated GIF](output.gif?raw=true&v=1695265711)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Group sues West Point, seeking to ban affirmative action in admissions**
+**Bijou Phillips files for divorce from Danny Masterson after rape sentence**
 
-You can read more about it [here](https://www.npr.org/2023/09/19/1200400504/west-point-affirmative-action).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/danny-masterson-wife-bijou-phillips-divorce-rape-conviction-rcna105920).
 
 ## Requirements
 - Python 3.8
