@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695290887)
+![Generated GIF](output.gif?raw=true&v=1695292554)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'It was a horrifying situation': Minor High School band director speaks after arrest**
+**Fantasy Football's Week 3 Burning Start/Sit Questions: Top Players Include D'Andre Swift, Jerome Ford, and Zay Flowers**
 
-You can read more about it [here](https://www.wvtm13.com/article/band-director-tased-minor-high-school-arrest/45211738).
+You can read more about it [here](https://www.profootballnetwork.com/fantasy-footballs-week-3-burning-start-sit-questions-2023/).
 
 ## Requirements
 - Python 3.8
