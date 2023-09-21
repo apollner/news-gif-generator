@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695281682)
+![Generated GIF](output.gif?raw=true&v=1695283870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Massive Next-Gen Xbox Leaks, AMD Zen 6, Elder Scrolls VI, Navi 5, & More**
+**An anti-affirmative action group is suing the US Military Academy at West Point over race-based admissions policies**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2Ay5Qh1e-iY).
+You can read more about it [here](https://www.cnn.com/2023/09/19/us/west-point-affirmative-action-lawsuit/index.html).
 
 ## Requirements
 - Python 3.8
