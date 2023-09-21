@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695310448)
+![Generated GIF](output.gif?raw=true&v=1695312612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kareem Hunt returns to Browns after Nick Chubb's knee injury - ESPN**
+**Instacart stock subdued as debut enthusiasm loses steam**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38445817/source-kareem-hunt-back-browns-nick-chubb-injury).
+You can read more about it [here](https://www.reuters.com/markets/us/instacart-stock-subdued-debut-enthusiasm-loses-steam-2023-09-20/).
 
 ## Requirements
 - Python 3.8
