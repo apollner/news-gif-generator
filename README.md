@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695321285)
+![Generated GIF](output.gif?raw=true&v=1695323160)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**September Fed meeting will be one of the least important ones of this cycle: Goldman Sachs' Fine**
+**Kraft Heinz is recalling some American cheese slices because the wrappers could pose choking hazard**
 
-You can read more about it [here](https://www.youtube.com/watch?v=u6t29XNVK08).
+You can read more about it [here](https://www.woodtv.com/business/ap-business/ap-kraft-heinz-is-recalling-some-american-cheese-slices-because-the-wrappers-could-pose-choking-hazard/).
 
 ## Requirements
 - Python 3.8
