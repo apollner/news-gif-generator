@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695330358)
+![Generated GIF](output.gif?raw=true&v=1695332069)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cingulate dynamics track depression recovery with deep brain stimulation**
+**Klaviyo Shares Soar in Debut, Pointing to IPO Resurgence**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06541-3).
+You can read more about it [here](https://www.wsj.com/finance/stocks/klaviyo-shares-surge-in-trading-debut-6928fff2).
 
 ## Requirements
 - Python 3.8
