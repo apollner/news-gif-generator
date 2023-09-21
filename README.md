@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695285304)
+![Generated GIF](output.gif?raw=true&v=1695287237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy football waiver wire, Week 3 picks: Players to add, targets include C.J. Stroud and Jayden Reed**
+**Massive Next-Gen Xbox Leaks, AMD Zen 6, Elder Scrolls VI, Navi 5, & More**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-waiver-wire-week-3-picks-players-to-add-targets-include-c-j-stroud-and-jayden-reed/).
+You can read more about it [here](https://www.youtube.com/watch?v=2Ay5Qh1e-iY).
 
 ## Requirements
 - Python 3.8
