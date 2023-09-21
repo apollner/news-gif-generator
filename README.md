@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695305198)
+![Generated GIF](output.gif?raw=true&v=1695306888)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘We’re in the abyss’: How the UAW strike could hit the economy**
+**Here are the new Apple Shortcuts app features in iOS 17**
 
-You can read more about it [here](https://thehill.com/business/4212323-were-in-the-abyss-uaw-strikes-economic-impact-remains-open-question/).
+You can read more about it [here](https://9to5mac.com/2023/09/19/whats-new-shortcuts-app-ios-17/).
 
 ## Requirements
 - Python 3.8
