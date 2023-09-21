@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695317655)
+![Generated GIF](output.gif?raw=true&v=1695319828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: Qatar PM touts ‘better environment’ after US-Iran prisoner deal**
+**Prisco's Week 3 NFL picks: Patriots' nightmare start continues with loss to Jets; Eagles hold off feisty Bucs**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/world/qatar-thani-amanpour-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-patriots-nightmare-start-continues-with-loss-to-jets-eagles-hold-off-feisty-bucs/).
 
 ## Requirements
 - Python 3.8
