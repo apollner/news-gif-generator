@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695308814)
+![Generated GIF](output.gif?raw=true&v=1695310448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britain set to roll back climate pledges, enraging campaigners and auto groups**
+**Kareem Hunt returns to Browns after Nick Chubb's knee injury - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/20/uk-automakers-hit-back-as-reports-say-pm-sunak-will-dilute-green-policies.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38445817/source-kareem-hunt-back-browns-nick-chubb-injury).
 
 ## Requirements
 - Python 3.8
