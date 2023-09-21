@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695280054)
+![Generated GIF](output.gif?raw=true&v=1695281682)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Azerbaijan launches operation against Nagorno-Karabakh and demands surrender**
+**Massive Next-Gen Xbox Leaks, AMD Zen 6, Elder Scrolls VI, Navi 5, & More**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66851975).
+You can read more about it [here](https://www.youtube.com/watch?v=2Ay5Qh1e-iY).
 
 ## Requirements
 - Python 3.8
