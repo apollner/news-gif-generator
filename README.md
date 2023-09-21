@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695265711)
+![Generated GIF](output.gif?raw=true&v=1695267258)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bijou Phillips files for divorce from Danny Masterson after rape sentence**
+**Live Coverage: SpaceX to launch Falcon 9 on record-breaking 17th flight for booster – Spaceflight Now**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/danny-masterson-wife-bijou-phillips-divorce-rape-conviction-rcna105920).
+You can read more about it [here](https://spaceflightnow.com/2023/09/20/live-coverage-spacex-to-launch-falcon-9-on-record-breaking-17th-flight-for-booster/).
 
 ## Requirements
 - Python 3.8
