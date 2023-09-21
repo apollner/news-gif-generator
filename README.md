@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695288858)
+![Generated GIF](output.gif?raw=true&v=1695290887)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**1-Year-Old Dies After Eating Fentanyl At US Daycare, Owner Arrested: Cops**
+**'It was a horrifying situation': Minor High School band director speaks after arrest**
 
-You can read more about it [here](https://www.ndtv.com/world-news/1-year-old-dies-after-eating-fentanyl-at-us-daycare-owner-arrested-cops-4405737).
+You can read more about it [here](https://www.wvtm13.com/article/band-director-tased-minor-high-school-arrest/45211738).
 
 ## Requirements
 - Python 3.8
