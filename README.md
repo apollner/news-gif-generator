@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695292554)
+![Generated GIF](output.gif?raw=true&v=1695294332)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football's Week 3 Burning Start/Sit Questions: Top Players Include D'Andre Swift, Jerome Ford, and Zay Flowers**
+**Bijou Phillips to divorce Danny Masterson after rape sentencing - reports**
 
-You can read more about it [here](https://www.profootballnetwork.com/fantasy-footballs-week-3-burning-start-sit-questions-2023/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66862067).
 
 ## Requirements
 - Python 3.8
