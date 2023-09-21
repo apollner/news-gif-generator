@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695300689)
+![Generated GIF](output.gif?raw=true&v=1695301913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPhone 15 Models Finally Show Battery's Cycle Count**
+**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/20/iphone-15-shows-battery-cycle-count/).
+You can read more about it [here](https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/).
 
 ## Requirements
 - Python 3.8
