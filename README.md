@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695324856)
+![Generated GIF](output.gif?raw=true&v=1695326864)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kraft Heinz is recalling some American cheese slices because the wrappers could pose choking hazard**
+**Taylor Swift, Travis Kelce dating rumors intensify after Eagles' Jason Kelce jokes they are '100 percent true'**
 
-You can read more about it [here](https://www.woodtv.com/business/ap-business/ap-kraft-heinz-is-recalling-some-american-cheese-slices-because-the-wrappers-could-pose-choking-hazard/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-travis-kelce-dating-rumors-intensify-after-eagles-jason-kelce-jokes-they-are-100-percent-true/).
 
 ## Requirements
 - Python 3.8
