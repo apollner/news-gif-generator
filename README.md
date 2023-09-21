@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695261927)
+![Generated GIF](output.gif?raw=true&v=1695263644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maui firefighters share harrowing battle against the Lahaina inferno**
+**Group sues West Point, seeking to ban affirmative action in admissions**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/firefighters-battle-lahaina-maui-fire-rcna105142).
+You can read more about it [here](https://www.npr.org/2023/09/19/1200400504/west-point-affirmative-action).
 
 ## Requirements
 - Python 3.8
