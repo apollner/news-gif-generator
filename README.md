@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695326864)
+![Generated GIF](output.gif?raw=true&v=1695328445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift, Travis Kelce dating rumors intensify after Eagles' Jason Kelce jokes they are '100 percent true'**
+**Prisco's Week 3 NFL picks: Patriots' nightmare start continues with loss to Jets; Eagles hold off feisty Bucs**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-travis-kelce-dating-rumors-intensify-after-eagles-jason-kelce-jokes-they-are-100-percent-true/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-patriots-nightmare-start-continues-with-loss-to-jets-eagles-hold-off-feisty-bucs/).
 
 ## Requirements
 - Python 3.8
