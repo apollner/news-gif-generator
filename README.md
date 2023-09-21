@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695332069)
+![Generated GIF](output.gif?raw=true&v=1695333966)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Klaviyo Shares Soar in Debut, Pointing to IPO Resurgence**
+**NASA set to deliver biggest asteroid sample yet: What you need to know**
 
-You can read more about it [here](https://www.wsj.com/finance/stocks/klaviyo-shares-surge-in-trading-debut-6928fff2).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/20/nasa-set-to-deliver-biggest-asteroid-sample-yet-what-you-need-to-know).
 
 ## Requirements
 - Python 3.8
