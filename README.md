@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695270906)
+![Generated GIF](output.gif?raw=true&v=1695272816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Evil cannot be trusted': Biden, Zelenskyy decry Russian aggression at UN. Live updates**
+**Ohtani has elbow surgery, expected to hit in '24, pitch by '25**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/09/19/ukraine-russia-war-live-updates/70898448007/).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-surgery-update).
 
 ## Requirements
 - Python 3.8
