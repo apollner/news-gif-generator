@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695328445)
+![Generated GIF](output.gif?raw=true&v=1695330358)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prisco's Week 3 NFL picks: Patriots' nightmare start continues with loss to Jets; Eagles hold off feisty Bucs**
+**Cingulate dynamics track depression recovery with deep brain stimulation**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-patriots-nightmare-start-continues-with-loss-to-jets-eagles-hold-off-feisty-bucs/).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06541-3).
 
 ## Requirements
 - Python 3.8
