@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695252846)
+![Generated GIF](output.gif?raw=true&v=1695256265)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your iPhone can now restore your Apple TV if the streaming box has problems**
+**Maui firefighters share harrowing battle against the Lahaina inferno**
 
-You can read more about it [here](https://www.theverge.com/2023/9/19/23880671/apple-tv-4k-hd-iphone-restore-recovery).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/firefighters-battle-lahaina-maui-fire-rcna105142).
 
 ## Requirements
 - Python 3.8
