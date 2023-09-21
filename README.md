@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695276650)
+![Generated GIF](output.gif?raw=true&v=1695278199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
+**'Evil cannot be trusted': Biden, Zelenskyy decry Russian aggression at UN. Live updates**
 
-You can read more about it [here](https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/09/19/ukraine-russia-war-live-updates/70898448007/).
 
 ## Requirements
 - Python 3.8
