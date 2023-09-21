@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695333966)
+![Generated GIF](output.gif?raw=true&v=1695337664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA set to deliver biggest asteroid sample yet: What you need to know**
+**Merrick Garland testifies, faces questions on Hunter Biden, Trump trials: live updates - The Washington Post**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/20/nasa-set-to-deliver-biggest-asteroid-sample-yet-what-you-need-to-know).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/09/20/merrick-garland-attorney-general-testimony-house-judiciary/).
 
 ## Requirements
 - Python 3.8
