@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695283870)
+![Generated GIF](output.gif?raw=true&v=1695285304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An anti-affirmative action group is suing the US Military Academy at West Point over race-based admissions policies**
+**Fantasy football waiver wire, Week 3 picks: Players to add, targets include C.J. Stroud and Jayden Reed**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/us/west-point-affirmative-action-lawsuit/index.html).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-waiver-wire-week-3-picks-players-to-add-targets-include-c-j-stroud-and-jayden-reed/).
 
 ## Requirements
 - Python 3.8
