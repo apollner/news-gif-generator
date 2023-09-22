@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695388270)
+![Generated GIF](output.gif?raw=true&v=1695389654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump steamrolls anti-abortion groups - POLITICO**
+**Giants vs 49ers Odds, Pick, Prediction: NFL Thursday Night Football Preview**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/21/trump-anti-abortion-groups-00117260).
+You can read more about it [here](https://www.actionnetwork.com/nfl/giants-vs-49ers-odds-pick-prediction-nfl-thursday-night-football).
 
 ## Requirements
 - Python 3.8
