@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695384837)
+![Generated GIF](output.gif?raw=true&v=1695386948)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**K-Pop Group Stray Kids' Lee Know, Hyunjin and Seungmin Involved in Car Accident**
+**Russia strikes Ukrainian energy facilities in biggest attack in weeks**
 
-You can read more about it [here](https://www.eonline.com/news/1386054/k-pop-group-stray-kids-lee-know-hyunjin-and-seungmin-involved-in-car-accident).
+You can read more about it [here](https://www.reuters.com/world/europe/blasts-heard-kyiv-other-parts-ukraine-2023-09-21/).
 
 ## Requirements
 - Python 3.8
