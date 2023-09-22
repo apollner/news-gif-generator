@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695360855)
+![Generated GIF](output.gif?raw=true&v=1695363076)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan's Toshiba set to end 74-year stock market history**
+**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
 
-You can read more about it [here](https://www.bbc.com/news/business-66874016).
+You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
 
 ## Requirements
 - Python 3.8
