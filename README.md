@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695363076)
+![Generated GIF](output.gif?raw=true&v=1695364571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
+**Elijah McClain pleaded 'I can't breathe' before he died, trial hears**
 
-You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66870245).
 
 ## Requirements
 - Python 3.8
