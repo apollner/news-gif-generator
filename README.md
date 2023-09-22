@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695366386)
+![Generated GIF](output.gif?raw=true&v=1695368057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hollywood's writers' strike might come to an end soon**
+**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
 
-You can read more about it [here](https://www.theverge.com/2023/9/21/23882218/wga-negotiations-hollywood-writers-strike-2023).
+You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
 
 ## Requirements
 - Python 3.8
