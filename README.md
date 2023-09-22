@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695411252)
+![Generated GIF](output.gif?raw=true&v=1695413254)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cowboys star CB Trevon Diggs suffers torn ACL, sources say - ESPN**
+**Does Ozempic have mental health side effects? : Shots - Health News**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38455269/cowboys-trevon-diggs-hurts-knee-practice-seen-crutches).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/09/21/1200201186/as-ozempic-use-grows-so-do-reports-of-possible-mental-health-side-effects).
 
 ## Requirements
 - Python 3.8
