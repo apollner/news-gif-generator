@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695380854)
+![Generated GIF](output.gif?raw=true&v=1695382474)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World's oldest wooden structure found in Zambia**
+**WR Fantasy Injury Report Week 3: Latest on Amari Cooper, Brandon Aiyuk, Amon-Ra St. Brown, and Others**
 
-You can read more about it [here](https://www.dw.com/en/worlds-oldest-wooden-structure-found-in-zambia/a-66878895).
+You can read more about it [here](https://www.profootballnetwork.com/wr-fantasy-injury-report-cooper-aiyuk-st-brown-week-3-2023/).
 
 ## Requirements
 - Python 3.8
