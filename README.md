@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695406217)
+![Generated GIF](output.gif?raw=true&v=1695407686)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce, Taylor Swift Are ‘Seeing Where Things Go,’ per Report**
+**How to Fix the Most Annoying iOS 17 Features on Your iPhone**
 
-You can read more about it [here](https://www.si.com/nfl/2023/09/21/travis-kelce-taylor-swift-dating-latest-news).
+You can read more about it [here](https://www.cnet.com/tech/mobile/how-to-fix-the-most-annoying-ios-17-features-on-your-iphone/).
 
 ## Requirements
 - Python 3.8
