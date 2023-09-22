@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695402365)
+![Generated GIF](output.gif?raw=true&v=1695404039)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vikings OC Wes Phillips: Cam Akers trade not a sign of lost confidence in Alexander Mattison**
+**Greeny GOES OFF on the Bears 🔥 RUINING Justin Fields! COMPLETE ORGANIZATIONAL INCOMPETENCE! | Get Up**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-oc-wes-phillips-cam-akers-trade-not-a-sign-of-lost-confidence-in-alexander-mattison).
+You can read more about it [here](https://www.youtube.com/watch?v=tkCmOk3Axuw).
 
 ## Requirements
 - Python 3.8
