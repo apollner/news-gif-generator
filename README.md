@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695382474)
+![Generated GIF](output.gif?raw=true&v=1695384837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WR Fantasy Injury Report Week 3: Latest on Amari Cooper, Brandon Aiyuk, Amon-Ra St. Brown, and Others**
+**K-Pop Group Stray Kids' Lee Know, Hyunjin and Seungmin Involved in Car Accident**
 
-You can read more about it [here](https://www.profootballnetwork.com/wr-fantasy-injury-report-cooper-aiyuk-st-brown-week-3-2023/).
+You can read more about it [here](https://www.eonline.com/news/1386054/k-pop-group-stray-kids-lee-know-hyunjin-and-seungmin-involved-in-car-accident).
 
 ## Requirements
 - Python 3.8
