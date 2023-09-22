@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695400710)
+![Generated GIF](output.gif?raw=true&v=1695402365)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft’s Surface Laptop Studio 2 has upgraded chips and ports**
+**Vikings OC Wes Phillips: Cam Akers trade not a sign of lost confidence in Alexander Mattison**
 
-You can read more about it [here](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-oc-wes-phillips-cam-akers-trade-not-a-sign-of-lost-confidence-in-alexander-mattison).
 
 ## Requirements
 - Python 3.8
