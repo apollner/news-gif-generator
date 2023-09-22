@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695420361)
+![Generated GIF](output.gif?raw=true&v=1695422054)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ranking NFL panic meters for Week 3: Levels high for Bears' Justin Fields and Chargers' Brandon Staley**
+**Obesity is becoming more common in a growing number of states, CDC data show**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ranking-nfl-panic-meters-for-week-3-levels-high-for-bears-justin-fields-and-chargers-brandon-staley/).
+You can read more about it [here](https://www.cnn.com/2023/09/21/health/obesity-more-common-states-cdc-data/index.html).
 
 ## Requirements
 - Python 3.8
