@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695389654)
+![Generated GIF](output.gif?raw=true&v=1695391573)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giants vs 49ers Odds, Pick, Prediction: NFL Thursday Night Football Preview**
+**Ron DeSantis' descent continues, unabated by the debate and time on the trail**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/giants-vs-49ers-odds-pick-prediction-nfl-thursday-night-football).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/ron-desantis-descent-continues-unabated-debate-time-trail-rcna108101).
 
 ## Requirements
 - Python 3.8
