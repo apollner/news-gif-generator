@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695346435)
+![Generated GIF](output.gif?raw=true&v=1695348993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inter Miami vs. Toronto FC live updates: Lionel Messi starts but leaves game in first half**
+**'Stop the war' and Zelenskiy need not speak, UN Security Council chair tells Russia**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/09/20/messi-inter-miami-vs-toronto-fc-live-updates-score-highlights/70913216007/).
+You can read more about it [here](https://www.reuters.com/world/stop-war-zelenskiy-wont-speak-un-security-council-chair-tells-russia-2023-09-20/).
 
 ## Requirements
 - Python 3.8
