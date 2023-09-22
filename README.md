@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695414853)
+![Generated GIF](output.gif?raw=true&v=1695416750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Does Ozempic have mental health side effects? : Shots - Health News**
+**Layoffs, work stoppages mount in UAW strike against Big Three**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/09/21/1200201186/as-ozempic-use-grows-so-do-reports-of-possible-mental-health-side-effects).
+You can read more about it [here](https://www.foxbusiness.com/economy/layoffs-work-stoppages-mount-uaw-strike-against-big-three).
 
 ## Requirements
 - Python 3.8
