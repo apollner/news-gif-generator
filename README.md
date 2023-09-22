@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695357826)
+![Generated GIF](output.gif?raw=true&v=1695359238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity**
+**Writers Guild and AMPTP Issue Rare Joint Statement on Renewed Negotiations**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-amptp-rare-joint-statement-renewed-negotiations-1235595410/).
 
 ## Requirements
 - Python 3.8
