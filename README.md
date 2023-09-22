@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695373665)
+![Generated GIF](output.gif?raw=true&v=1695375248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
+**One of Ukraine's strongest allies says it will no longer supply Kyiv with weapons**
 
-You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
+You can read more about it [here](https://www.cnbc.com/2023/09/21/poland-says-it-will-no-longer-supply-kyiv-with-weapons.html).
 
 ## Requirements
 - Python 3.8
