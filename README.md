@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695391573)
+![Generated GIF](output.gif?raw=true&v=1695393261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ron DeSantis' descent continues, unabated by the debate and time on the trail**
+**Eagle Pass issues disaster declaration as more than 4000 migrants cross over two days**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/ron-desantis-descent-continues-unabated-debate-time-trail-rcna108101).
+You can read more about it [here](https://www.tpr.org/border-immigration/2023-09-20/eagle-pass-issues-disaster-declaration-as-more-than-4-000-migrants-cross-over-two-days).
 
 ## Requirements
 - Python 3.8
