@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695409515)
+![Generated GIF](output.gif?raw=true&v=1695411252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to Fix the Most Annoying iOS 17 Features on Your iPhone**
+**Cowboys star CB Trevon Diggs suffers torn ACL, sources say - ESPN**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/how-to-fix-the-most-annoying-ios-17-features-on-your-iphone/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38455269/cowboys-trevon-diggs-hurts-knee-practice-seen-crutches).
 
 ## Requirements
 - Python 3.8
