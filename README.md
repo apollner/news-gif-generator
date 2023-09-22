@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695386948)
+![Generated GIF](output.gif?raw=true&v=1695388270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia strikes Ukrainian energy facilities in biggest attack in weeks**
+**Trump steamrolls anti-abortion groups - POLITICO**
 
-You can read more about it [here](https://www.reuters.com/world/europe/blasts-heard-kyiv-other-parts-ukraine-2023-09-21/).
+You can read more about it [here](https://www.politico.com/news/2023/09/21/trump-anti-abortion-groups-00117260).
 
 ## Requirements
 - Python 3.8
