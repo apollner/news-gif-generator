@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695393261)
+![Generated GIF](output.gif?raw=true&v=1695395256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagle Pass issues disaster declaration as more than 4000 migrants cross over two days**
+**As Ukraine's war drags on and a D.C. shutdown looms, Zelenskyy makes his case for aid**
 
-You can read more about it [here](https://www.tpr.org/border-immigration/2023-09-20/eagle-pass-issues-disaster-declaration-as-more-than-4-000-migrants-cross-over-two-days).
+You can read more about it [here](https://www.npr.org/2023/09/21/1200674632/zelenskyy-washington-ukraine-funding-shutdown).
 
 ## Requirements
 - Python 3.8
