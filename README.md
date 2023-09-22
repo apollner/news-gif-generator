@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695404039)
+![Generated GIF](output.gif?raw=true&v=1695406217)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Greeny GOES OFF on the Bears 🔥 RUINING Justin Fields! COMPLETE ORGANIZATIONAL INCOMPETENCE! | Get Up**
+**Travis Kelce, Taylor Swift Are ‘Seeing Where Things Go,’ per Report**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tkCmOk3Axuw).
+You can read more about it [here](https://www.si.com/nfl/2023/09/21/travis-kelce-taylor-swift-dating-latest-news).
 
 ## Requirements
 - Python 3.8
