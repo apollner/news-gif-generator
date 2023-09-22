@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695398993)
+![Generated GIF](output.gif?raw=true&v=1695400710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cisco Buys AI Firm Splunk In $28 Billion Cash Deal**
+**Microsoft’s Surface Laptop Studio 2 has upgraded chips and ports**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/09/21/cisco-buys-ai-firm-splunk-in-28-billion-cash-deal/).
+You can read more about it [here](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date).
 
 ## Requirements
 - Python 3.8
