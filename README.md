@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695339238)
+![Generated GIF](output.gif?raw=true&v=1695342626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Americans can again order free COVID tests as Biden administration revives program**
+**Top Authors Join Lawsuit Against OpenAI Over “Mass-Scale Copyright Infringement” of Novels**
 
-You can read more about it [here](https://www.adn.com/nation-world/2023/09/20/americans-can-again-order-free-covid-tests-as-biden-administration-revives-program/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/top-authors-join-lawsuit-against-openai-over-mass-scale-copyright-infringement-of-novels-1235595123/).
 
 ## Requirements
 - Python 3.8
