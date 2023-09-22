@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695355798)
+![Generated GIF](output.gif?raw=true&v=1695357826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon Announces Alexa With Generative AI, New Echo Devices, eero Max 7 With Wi-Fi 7 Support and More**
+**OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/20/amazon-alexa-generative-ai/).
+You can read more about it [here](https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/).
 
 ## Requirements
 - Python 3.8
