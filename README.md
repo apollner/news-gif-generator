@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695449448)
+![Generated GIF](output.gif?raw=true&v=1695450908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Giants vs. San Fransisco 49ers | 2023 Week 3 Game Highlights**
+**‘Expend4bles’ Review: Jason Statham and Sylvester Stallone Take the Franchise to New Lows**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ihjw0UClLnM).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-reviews/expend4bles-review-jason-statham-sylvester-stallone-1235594968/).
 
 ## Requirements
 - Python 3.8
