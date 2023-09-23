@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695477901)
+![Generated GIF](output.gif?raw=true&v=1695479649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Waiting for him to drop out': DeSantis' influence nosedives in Florida**
+**UAW Strike Announcement Today Could Escalate Battle Between Workers, Car Makers**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/22/desantis-florida-republicans-governor-elections-00117514).
+You can read more about it [here](https://www.barrons.com/articles/uaw-strike-announcement-update-b2bddb5a).
 
 ## Requirements
 - Python 3.8
