@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695473135)
+![Generated GIF](output.gif?raw=true&v=1695474374)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit Three automakers enter final hours to avoid wider UAW strike**
+**CDC data shows obesity prevalence more common in a growing number of states**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/detroit-three-automakers-enter-final-hours-avoid-wider-uaw-strike-2023-09-22/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4217623-cdc-data-shows-obesity-prevalence-more-common-in-a-growing-number-of-states/).
 
 ## Requirements
 - Python 3.8
