@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695425639)
+![Generated GIF](output.gif?raw=true&v=1695429011)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden taps Harris to lead new federal office of gun violence prevention**
+**Fantasy Football Week 3: New York Giants vs. San Francisco 49ers start 'em, sit 'em, how to watch TNF and more**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/21/kamala-harris-lead-office-gun-violence-prevention-00117497).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-3-new-york-giants-vs-san-francisco-49ers-start-em-sit-em-how-to-watch-tnf-and-more-152637525.html).
 
 ## Requirements
 - Python 3.8
