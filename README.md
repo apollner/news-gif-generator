@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695463725)
+![Generated GIF](output.gif?raw=true&v=1695465311)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia-Ukraine war news: Zelensky in Canada to visit Trudeau, give speech to Parliament**
+**Microsoft's Activision Deal Set to Clear Final UK Hurdle**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/22/russia-ukraine-war-news-zelensky-canada-visit/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-22/microsoft-s-activision-deal-set-to-get-uk-s-cma-approval).
 
 ## Requirements
 - Python 3.8
