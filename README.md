@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695461650)
+![Generated GIF](output.gif?raw=true&v=1695463725)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Notre Dame Pushing Hard For Running Back Daniel Anderson Heading Into Ohio State Visit**
+**Russia-Ukraine war news: Zelensky in Canada to visit Trudeau, give speech to Parliament**
 
-You can read more about it [here](https://www.si.com/college/notredame/recruiting/notre-dame-pushing-hard-for-running-back-daniel-anderson-heading-into-ohio-state-visit).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/22/russia-ukraine-war-news-zelensky-canada-visit/).
 
 ## Requirements
 - Python 3.8
