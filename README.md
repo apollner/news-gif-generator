@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695435447)
+![Generated GIF](output.gif?raw=true&v=1695437125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cowboys star CB Trevon Diggs suffers torn ACL - ESPN**
+**Ukraine war live updates: Russian barrage brings death, ruin, fury**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38455269/cowboys-trevon-diggs-hurts-knee-practice-seen-crutches).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/21/ukraine-russia-war-live-updates/70920184007/).
 
 ## Requirements
 - Python 3.8
