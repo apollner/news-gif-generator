@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695494037)
+![Generated GIF](output.gif?raw=true&v=1695495911)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 3 bold predictions: Jets end Bill Belichick's reign of terror over franchise, Jordan Love historic**
+**Travis Kelce on Taylor Swift: ‘I threw the ball in her court’**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-bold-predictions-jets-end-bill-belichicks-reign-of-terror-over-franchise-jordan-love-historic/).
+You can read more about it [here](https://www.cnn.com/2023/09/22/entertainment/travice-kelce-taylor-swift/index.html).
 
 ## Requirements
 - Python 3.8
