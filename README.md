@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695443673)
+![Generated GIF](output.gif?raw=true&v=1695445560)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hardeep Singh Nijjar killing: India suspends visa services in Canada as rift widens**
+**McCarthy visibly frustrated after GOP hardliners put his plan to avoid a shutdown on ice**
 
-You can read more about it [here](https://apnews.com/article/india-canada-visas-sikh-activist-killing-381e973e84f8d0c10b0bd53b03ccbdf2).
+You can read more about it [here](https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html).
 
 ## Requirements
 - Python 3.8
