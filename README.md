@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695476033)
+![Generated GIF](output.gif?raw=true&v=1695477901)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alarm bells ring as lawmakers prep for possible shutdown**
+**'Waiting for him to drop out': DeSantis' influence nosedives in Florida**
 
-You can read more about it [here](https://thehill.com/business/budget/4217537-alarm-bells-ring-as-lawmakers-prep-for-possible-shutdown/).
+You can read more about it [here](https://www.politico.com/news/2023/09/22/desantis-florida-republicans-governor-elections-00117514).
 
 ## Requirements
 - Python 3.8
