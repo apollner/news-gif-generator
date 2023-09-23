@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695445560)
+![Generated GIF](output.gif?raw=true&v=1695447252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McCarthy visibly frustrated after GOP hardliners put his plan to avoid a shutdown on ice**
+**Wildfire-prone California to consider new rules for property insurance pricing**
 
-You can read more about it [here](https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/wildfire-prone-california-new-rules-property-insurance-pricing-103394813).
 
 ## Requirements
 - Python 3.8
