@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695450908)
+![Generated GIF](output.gif?raw=true&v=1695452713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Expend4bles’ Review: Jason Statham and Sylvester Stallone Take the Franchise to New Lows**
+**Poland announces stop to supplying arms to Ukraine, says modernizing its own weapons**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-reviews/expend4bles-review-jason-statham-sylvester-stallone-1235594968/).
+You can read more about it [here](https://www.foxnews.com/world/poland-announces-stop-supplying-arms-ukraine-modernizing-own-weapons).
 
 ## Requirements
 - Python 3.8
