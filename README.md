@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695434473)
+![Generated GIF](output.gif?raw=true&v=1695435447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
+**Cowboys star CB Trevon Diggs suffers torn ACL - ESPN**
 
-You can read more about it [here](https://theathletic.com/4880188/2023/09/21/fantasy-football-rankings-week-3-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38455269/cowboys-trevon-diggs-hurts-knee-practice-seen-crutches).
 
 ## Requirements
 - Python 3.8
