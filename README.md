@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695459936)
+![Generated GIF](output.gif?raw=true&v=1695461650)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada's Trudeau wants India to cooperate in murder probe, declines to release evidence**
+**Notre Dame Pushing Hard For Running Back Daniel Anderson Heading Into Ohio State Visit**
 
-You can read more about it [here](https://www.reuters.com/world/canadas-trudeau-wants-india-cooperate-murder-probe-wont-release-evidence-2023-09-21/).
+You can read more about it [here](https://www.si.com/college/notredame/recruiting/notre-dame-pushing-hard-for-running-back-daniel-anderson-heading-into-ohio-state-visit).
 
 ## Requirements
 - Python 3.8
