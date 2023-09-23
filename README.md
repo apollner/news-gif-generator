@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695465311)
+![Generated GIF](output.gif?raw=true&v=1695467109)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft's Activision Deal Set to Clear Final UK Hurdle**
+**McCarthy visibly frustrated after GOP hardliners put his plan to avoid a shutdown on ice**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-22/microsoft-s-activision-deal-set-to-get-uk-s-cma-approval).
+You can read more about it [here](https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html).
 
 ## Requirements
 - Python 3.8
