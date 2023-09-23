@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695499605)
+![Generated GIF](output.gif?raw=true&v=1695501260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why the CDC recommends that everyone over the age of 6 months get the updated COVID vaccine**
+**Dallas Mayor Eric Johnson switches to Republican Party**
 
-You can read more about it [here](https://abcnews.go.com/Health/cdc-recommends-age-6-months-updated-covid-vaccine/story?id=103287593).
+You can read more about it [here](https://www.texastribune.org/2023/09/22/dallas-mayor-eric-johnson-republican/).
 
 ## Requirements
 - Python 3.8
