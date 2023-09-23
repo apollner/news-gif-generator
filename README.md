@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695474374)
+![Generated GIF](output.gif?raw=true&v=1695476033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC data shows obesity prevalence more common in a growing number of states**
+**Alarm bells ring as lawmakers prep for possible shutdown**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4217623-cdc-data-shows-obesity-prevalence-more-common-in-a-growing-number-of-states/).
+You can read more about it [here](https://thehill.com/business/budget/4217537-alarm-bells-ring-as-lawmakers-prep-for-possible-shutdown/).
 
 ## Requirements
 - Python 3.8
