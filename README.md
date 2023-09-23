@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695503104)
+![Generated GIF](output.gif?raw=true&v=1695504848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**10yr Treasury Yield Isn't Done Rising. Buy Bonds Anyway.**
+**Sophie Turner suing estranged husband Joe Jonas**
 
-You can read more about it [here](https://www.barrons.com/articles/10yr-treasury-yields-bond-c59a9389).
+You can read more about it [here](https://www.youtube.com/watch?v=9AyS6BNJVRo).
 
 ## Requirements
 - Python 3.8
