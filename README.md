@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695440041)
+![Generated GIF](output.gif?raw=true&v=1695442165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists Make Breakthrough in Undoing Spine Injuries**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://themessenger.com/health/spine-injury-neurons-cure-restore-walking).
+You can read more about it [here](https://www.cnbc.com/2023/09/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
