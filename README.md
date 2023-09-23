@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695492549)
+![Generated GIF](output.gif?raw=true&v=1695494037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kyle Shanahan: Brock Purdy's career night in 49ers' win over Giants 'definitely wasn't his best game'**
+**NFL Week 3 bold predictions: Jets end Bill Belichick's reign of terror over franchise, Jordan Love historic**
 
-You can read more about it [here](https://www.nfl.com/news/kyle-shanahan-brock-purdy-49ers-win-giants-definitely-wasnt-best-game).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-bold-predictions-jets-end-bill-belichicks-reign-of-terror-over-franchise-jordan-love-historic/).
 
 ## Requirements
 - Python 3.8
