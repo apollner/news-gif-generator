@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695490458)
+![Generated GIF](output.gif?raw=true&v=1695492549)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine launched a missile strike on Russia’s Black Sea Fleet headquarters**
+**Kyle Shanahan: Brock Purdy's career night in 49ers' win over Giants 'definitely wasn't his best game'**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-fcab4c6f0bd3738b34f9032cbef0833f).
+You can read more about it [here](https://www.nfl.com/news/kyle-shanahan-brock-purdy-49ers-win-giants-definitely-wasnt-best-game).
 
 ## Requirements
 - Python 3.8
