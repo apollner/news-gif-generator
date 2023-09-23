@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695429011)
+![Generated GIF](output.gif?raw=true&v=1695432673)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 3: New York Giants vs. San Francisco 49ers start 'em, sit 'em, how to watch TNF and more**
+**Sophie Turner Sues Joe Jonas, Demands Kids Be Returned to England amid Split**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-3-new-york-giants-vs-san-francisco-49ers-start-em-sit-em-how-to-watch-tnf-and-more-152637525.html).
+You can read more about it [here](https://people.com/sophie-turner-sues-joe-jonas-demands-kids-be-returned-to-england-amid-split-7972708).
 
 ## Requirements
 - Python 3.8
