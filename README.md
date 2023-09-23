@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695501260)
+![Generated GIF](output.gif?raw=true&v=1695503104)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dallas Mayor Eric Johnson switches to Republican Party**
+**10yr Treasury Yield Isn't Done Rising. Buy Bonds Anyway.**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/22/dallas-mayor-eric-johnson-republican/).
+You can read more about it [here](https://www.barrons.com/articles/10yr-treasury-yields-bond-c59a9389).
 
 ## Requirements
 - Python 3.8
