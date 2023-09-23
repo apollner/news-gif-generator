@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695483255)
+![Generated GIF](output.gif?raw=true&v=1695485279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft one step closer to UK approval of Activision Blizzard deal**
+**Tropical storm warnings in place on the East Coast as system sets up to deliver a wet and windy weekend**
 
-You can read more about it [here](https://finance.yahoo.com/news/microsoft-one-step-closer-to-uk-approval-of-activision-blizzard-deal-115942118.html).
+You can read more about it [here](https://www.cnn.com/2023/09/22/weather/east-coast-tropical-storm-threat-friday/index.html).
 
 ## Requirements
 - Python 3.8
