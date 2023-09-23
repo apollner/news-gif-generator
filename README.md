@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695468906)
+![Generated GIF](output.gif?raw=true&v=1695471111)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit Three automakers enter final hours to avoid wider UAW strike**
+**Canada says India helped assassinate a Sikh activist: Who was Hardeep Singh Nijjar? Rift between the countries widens**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/detroit-three-automakers-enter-final-hours-avoid-wider-uaw-strike-2023-09-22/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/21/hardeep-singh-nijjar-who-is-sikh-activist-canada-says-india-killed/70907343007/).
 
 ## Requirements
 - Python 3.8
