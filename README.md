@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695456595)
+![Generated GIF](output.gif?raw=true&v=1695458042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden announces $325M aid package to Ukraine after meeting with Zelenskyy**
+**Canada's Trudeau wants India to cooperate in murder probe, declines to release evidence**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-announces-aid-package-ukraine-meeting-zelenskyy).
+You can read more about it [here](https://www.reuters.com/world/canadas-trudeau-wants-india-cooperate-murder-probe-wont-release-evidence-2023-09-21/).
 
 ## Requirements
 - Python 3.8
