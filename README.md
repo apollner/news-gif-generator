@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695447252)
+![Generated GIF](output.gif?raw=true&v=1695449448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wildfire-prone California to consider new rules for property insurance pricing**
+**New York Giants vs. San Fransisco 49ers | 2023 Week 3 Game Highlights**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/wildfire-prone-california-new-rules-property-insurance-pricing-103394813).
+You can read more about it [here](https://www.youtube.com/watch?v=Ihjw0UClLnM).
 
 ## Requirements
 - Python 3.8
