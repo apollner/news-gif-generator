@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695585994)
+![Generated GIF](output.gif?raw=true&v=1695587652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
+**Duchess Meghan Embraces Fall Vibes in a Cozy Herringbone Wrap Coat**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
+You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a45278489/meghan-markle-herringbone-wrap-coat-santa-barbara/).
 
 ## Requirements
 - Python 3.8
