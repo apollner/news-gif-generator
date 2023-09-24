@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695567960)
+![Generated GIF](output.gif?raw=true&v=1695569640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your daily horoscope: September 23, 2023**
+**Google Pixel 8's amazing new camera features shown off in leaked teaser video**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-23-2023/).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-8-amazing-new-camera-features-leaked-teaser-video/).
 
 ## Requirements
 - Python 3.8
