@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695575143)
+![Generated GIF](output.gif?raw=true&v=1695576848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trudeau pledges Canada's support for Ukraine and punishment for Russia**
+**Pope Francis says migration is a reality in call for action during France visit**
 
-You can read more about it [here](https://apnews.com/article/ukraine-canada-trudeau-russia-war-617bed2c975833c9c5e2038c8582b2ab).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66900525).
 
 ## Requirements
 - Python 3.8
