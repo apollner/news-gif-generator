@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695594847)
+![Generated GIF](output.gif?raw=true&v=1695596748)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon Prime Video to include ads in 2024 — unless users pay $2.99 a month to get rid of them**
+**Has distrust in COVID vaccines caused same skepticism in flu shots?**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-prime-video-include-ads-2024-unless-users-pay-2-99-month-get-rid).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/22/flu-vaccine-rates-after-covid-shot-concerns/70924839007/).
 
 ## Requirements
 - Python 3.8
