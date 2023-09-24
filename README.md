@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695580446)
+![Generated GIF](output.gif?raw=true&v=1695582308)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Home explosion in West Milford, New Jersey, leaves 5 hospitalized**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/23/new-jersey-home-explosion/70944780007/).
 
 ## Requirements
 - Python 3.8
