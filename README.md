@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695548037)
+![Generated GIF](output.gif?raw=true&v=1695550010)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Panic in Nagorno-Karabakh but Azerbaijan rejects fears of ethnic cleansing**
+**Five Clues to Where the UAW Strike Is Headed Next**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66888945).
+You can read more about it [here](https://www.wsj.com/business/autos/uaw-strike-labor-negotiations-5-things-323de258).
 
 ## Requirements
 - Python 3.8
