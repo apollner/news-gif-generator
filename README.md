@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695533638)
+![Generated GIF](output.gif?raw=true&v=1695535803)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers making progress on Achilles rehab: ‘I'm going to put myself in position to be able to play again’**
+**Sen. Bob Menendez and wife indicted on bribery charges; DOJ seizes gold bars and $500,000**
 
-You can read more about it [here](https://sports.yahoo.com/aaron-rodgers-making-progress-on-achilles-rehab-im-going-to-put-myself-in-position-to-be-able-to-play-again-223732941.html).
+You can read more about it [here](https://www.cnn.com/2023/09/22/politics/bob-menendez-charges/index.html).
 
 ## Requirements
 - Python 3.8
