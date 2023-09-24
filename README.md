@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695571660)
+![Generated GIF](output.gif?raw=true&v=1695573316)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis says migration is a reality in call for action during France visit**
+**Gameday Central: Is FSU vs. Clemson a preview of ACC Championship game? — Previews, predictions, odds**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66900525).
+You can read more about it [here](https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/2023/9/23/23886216/watch-tv-channel-clemson-tigers-college-live-stream-game-espn-odds-travis-norvell-free-score-bet).
 
 ## Requirements
 - Python 3.8
