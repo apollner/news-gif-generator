@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695564312)
+![Generated GIF](output.gif?raw=true&v=1695566044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM, Stellantis dealers and customers face dwindling parts as UAW strike expands**
+**Fantasy Football Week 3 injuries: Aaron Jones, Christian Watson, Amon-Ra St. Brown, Jaylen Waddle questionable**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-stellantis-dealers-customers-face-dwindling-parts-uaw-strike-expands-2023-09-23/).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-3-injuries-aaron-jones-christian-watson-amon-ra-st-brown-jaylen-waddle-questionable/).
 
 ## Requirements
 - Python 3.8
