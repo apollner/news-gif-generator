@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695530052)
+![Generated GIF](output.gif?raw=true&v=1695531965)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 4**
+**Sen. Bob Menendez and wife indicted on bribery charges; DOJ seizes gold bars and $500,000**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-4/).
+You can read more about it [here](https://www.cnn.com/2023/09/22/politics/bob-menendez-charges/index.html).
 
 ## Requirements
 - Python 3.8
