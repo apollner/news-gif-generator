@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695591256)
+![Generated GIF](output.gif?raw=true&v=1695593186)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Has distrust in COVID vaccines caused same skepticism in flu shots?**
+**Rep. Andy Kim announces he’ll run against NJ Sen. Bob Menendez in wake of his indictment**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/22/flu-vaccine-rates-after-covid-shot-concerns/70924839007/).
+You can read more about it [here](https://www.cnn.com/2023/09/23/politics/menendez-andy-kim-senate/index.html).
 
 ## Requirements
 - Python 3.8
