@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695526438)
+![Generated GIF](output.gif?raw=true&v=1695528698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC recommends first vaccine to protect infants from RSV**
+**Brock Purdy could go from Mr. Irrelevant to Mr. MVP**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/health/rsv-vaccine-infants-pfizer-cdc/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-could-go-from-mr-irrelevant-to-mr-mvp).
 
 ## Requirements
 - Python 3.8
