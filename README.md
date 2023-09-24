@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695587652)
+![Generated GIF](output.gif?raw=true&v=1695589504)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Duchess Meghan Embraces Fall Vibes in a Cozy Herringbone Wrap Coat**
+**2023 NCAA college football season: How to watch the Ohio State vs. Notre Dame game today**
 
-You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a45278489/meghan-markle-herringbone-wrap-coat-santa-barbara/).
+You can read more about it [here](https://sports.yahoo.com/watch-ohio-state-notre-dame-game-tonight-ncaa-college-football-2023-schedule-time-channel-140003834.html).
 
 ## Requirements
 - Python 3.8
