@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695512116)
+![Generated GIF](output.gif?raw=true&v=1695515537)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC recommends first vaccine to protect infants from RSV**
+**NFL Week 3 games could be affected by tropical storm**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/health/rsv-vaccine-infants-pfizer-cdc/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/09/21/tropical-storm-nfl-impact-week-3/70923437007/).
 
 ## Requirements
 - Python 3.8
