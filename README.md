@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695566044)
+![Generated GIF](output.gif?raw=true&v=1695567960)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 3 injuries: Aaron Jones, Christian Watson, Amon-Ra St. Brown, Jaylen Waddle questionable**
+**Your daily horoscope: September 23, 2023**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-3-injuries-aaron-jones-christian-watson-amon-ra-st-brown-jaylen-waddle-questionable/).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-23-2023/).
 
 ## Requirements
 - Python 3.8
