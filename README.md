@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695539175)
+![Generated GIF](output.gif?raw=true&v=1695540840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hardeep Singh Nijjar's killing: On Canada’s charges, India reaches out to US, others**
+**Lachlan Murdoch will be fully in charge of Fox. Will viewers notice?**
 
-You can read more about it [here](https://www.tribuneindia.com/news/india/on-canadas-charges-india-reaches-out-to-us-others-546829).
+You can read more about it [here](https://www.washingtonpost.com/style/media/2023/09/22/lachlan-murdoch-fox-news-future/).
 
 ## Requirements
 - Python 3.8
