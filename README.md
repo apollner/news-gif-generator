@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695584147)
+![Generated GIF](output.gif?raw=true&v=1695585994)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 NCAA college football season: How to watch the Ohio State vs. Notre Dame game today**
+**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
 
-You can read more about it [here](https://sports.yahoo.com/watch-ohio-state-notre-dame-game-tonight-ncaa-college-football-2023-schedule-time-channel-140003834.html).
+You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
 
 ## Requirements
 - Python 3.8
