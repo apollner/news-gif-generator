@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695522880)
+![Generated GIF](output.gif?raw=true&v=1695524836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Braves' Ronald Acuña becomes 5th player ever with 40-40 season - ESPN**
+**Biden to walk the picket line in Michigan to support UAW strikers**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38464599/braves-ronald-acuna-becomes-5th-player-ever-40-40-season).
+You can read more about it [here](https://www.cnn.com/2023/09/22/politics/joe-biden-michigan-trip-uaw/index.html).
 
 ## Requirements
 - Python 3.8
