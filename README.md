@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695537313)
+![Generated GIF](output.gif?raw=true&v=1695539175)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WGA and AMPTP Move Closer to Deal as Third Day of Marathon Negotiations Ends**
+**Hardeep Singh Nijjar's killing: On Canada’s charges, India reaches out to US, others**
 
-You can read more about it [here](https://variety.com/2023/tv/news/wga-amptp-talks-still-going-friday-night-1235733166/).
+You can read more about it [here](https://www.tribuneindia.com/news/india/on-canadas-charges-india-reaches-out-to-us-others-546829).
 
 ## Requirements
 - Python 3.8
