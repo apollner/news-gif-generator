@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695521850)
+![Generated GIF](output.gif?raw=true&v=1695522880)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Farmingdale bus crash: Grief counselors on hand after bus crash kills two, including band director**
+**Braves' Ronald Acuña becomes 5th player ever with 40-40 season - ESPN**
 
-You can read more about it [here](https://abc7ny.com/orange-county-bus-crash-farmingdale-school-band/13813596/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38464599/braves-ronald-acuna-becomes-5th-player-ever-40-40-season).
 
 ## Requirements
 - Python 3.8
