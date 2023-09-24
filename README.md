@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695562438)
+![Generated GIF](output.gif?raw=true&v=1695564312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 iOS 0-days, a cellular network compromise, and HTTP used to infect an iPhone**
+**GM, Stellantis dealers and customers face dwindling parts as UAW strike expands**
 
-You can read more about it [here](https://arstechnica.com/security/2023/09/how-the-iphone-of-a-presidential-candidate-in-egypt-got-hacked-for-the-2nd-time/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-stellantis-dealers-customers-face-dwindling-parts-uaw-strike-expands-2023-09-23/).
 
 ## Requirements
 - Python 3.8
