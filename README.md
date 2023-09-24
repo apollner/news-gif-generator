@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695593186)
+![Generated GIF](output.gif?raw=true&v=1695594847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. Andy Kim announces he’ll run against NJ Sen. Bob Menendez in wake of his indictment**
+**Amazon Prime Video to include ads in 2024 — unless users pay $2.99 a month to get rid of them**
 
-You can read more about it [here](https://www.cnn.com/2023/09/23/politics/menendez-andy-kim-senate/index.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-prime-video-include-ads-2024-unless-users-pay-2-99-month-get-rid).
 
 ## Requirements
 - Python 3.8
