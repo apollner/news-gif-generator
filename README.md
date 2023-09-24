@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695519477)
+![Generated GIF](output.gif?raw=true&v=1695521850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unity U-turns on controversial runtime fee and begs forgiveness**
+**Farmingdale bus crash: Grief counselors on hand after bus crash kills two, including band director**
 
-You can read more about it [here](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/).
+You can read more about it [here](https://abc7ny.com/orange-county-bus-crash-farmingdale-school-band/13813596/).
 
 ## Requirements
 - Python 3.8
