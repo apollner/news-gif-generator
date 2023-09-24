@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695550010)
+![Generated GIF](output.gif?raw=true&v=1695551682)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Five Clues to Where the UAW Strike Is Headed Next**
+**Never ‘insult Poles again,’ Poland’s prime minister tells Ukraine’s Zelensky**
 
-You can read more about it [here](https://www.wsj.com/business/autos/uaw-strike-labor-negotiations-5-things-323de258).
+You can read more about it [here](https://www.cnn.com/2023/09/23/europe/morawiecki-ukraine-zelensky-insult-poland-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
