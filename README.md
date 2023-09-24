@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695528698)
+![Generated GIF](output.gif?raw=true&v=1695530052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brock Purdy could go from Mr. Irrelevant to Mr. MVP**
+**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 4**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-could-go-from-mr-irrelevant-to-mr-mvp).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-4/).
 
 ## Requirements
 - Python 3.8
