@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695647573)
+![Generated GIF](output.gif?raw=true&v=1695648850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Consumers seeking COVID vaccine face insurance denials, cancellations**
+**Northeast, New England feel impacts from Ophelia after storm batters mid-Atlantic with flooding, strong winds**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/23/covid-vaccine-insurance-denials-cancellations/70918394007/).
+You can read more about it [here](https://www.foxweather.com/weather-news/ophelia-northeast-new-england-mid-atlantic).
 
 ## Requirements
 - Python 3.8
