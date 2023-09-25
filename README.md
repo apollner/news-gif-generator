@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695634468)
+![Generated GIF](output.gif?raw=true&v=1695636522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**It’s not the end of Chandrayaan-3 story as lots of data to be processed: Ex-Isro chief K Sivan**
+**Israeli forces destroy war room, explosives in West Bank refugee camp**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/india/its-not-the-end-of-chandrayaan-3-story-as-lots-of-data-to-be-processed-ex-isro-chief-k-sivan/articleshow/103897723.cms).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-760297).
 
 ## Requirements
 - Python 3.8
