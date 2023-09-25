@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695616451)
+![Generated GIF](output.gif?raw=true&v=1695618430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis campaign pre-debate memo criticizes Trump, is dismissive of other rivals despite polling gap closing**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/desantis-campaign-pre-debate-memo-criticizes-trump/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
