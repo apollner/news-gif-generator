@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695602031)
+![Generated GIF](output.gif?raw=true&v=1695605724)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Newsom vetoes bill requiring gender identity to be considered in custody battles**
+**Notre Dame vs. Ohio State score: Live game updates, college football scores, NCAA top 25 highlights in Week 4**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4219960-newsom-vetoes-bill-gender-identity-custody-battles/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-ohio-state-score-live-game-updates-college-football-scores-ncaa-top-25-highlights-in-week-4/live/).
 
 ## Requirements
 - Python 3.8
