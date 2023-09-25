@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695618430)
+![Generated GIF](output.gif?raw=true&v=1695620070)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Russian foreign minister attacks West as ‘empire of lies’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/09/23/world/lavrov-unga-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
