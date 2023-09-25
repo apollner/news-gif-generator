@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695641646)
+![Generated GIF](output.gif?raw=true&v=1695644030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-***NSYNC, Backstreet Boys, Destiny's Child Not In Talks for Super Bowl LVIII Performance**
+**[Removed]**
 
-You can read more about it [here](https://www.tmz.com/2023/09/24/nsync-backstreet-boys-destinys-child-not-talks-super-bowl-performance/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
