@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695629476)
+![Generated GIF](output.gif?raw=true&v=1695630950)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Sunday, September 24, 2023**
+**Ryan Day Blasts Former Notre Dame Coach Lou Holtz in Wake of Ohio State’s Stunning Win Over Notre Dame**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/24/23881188/horoscopes-today-sunday-september-24-2023).
+You can read more about it [here](https://www.si.com/college/2023/09/24/ryan-day-blasts-former-notre-dame-coach-lou-holtz-in-wake-of-ohio-states-stunning-win-over-notre-dame).
 
 ## Requirements
 - Python 3.8
