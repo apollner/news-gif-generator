@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695625625)
+![Generated GIF](output.gif?raw=true&v=1695627250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Troubles for Biden not just his age in reelection campaign: POLL**
+**Colorado's Deion Sanders says no excuses after 'butt kicking' by Oregon - ESPN**
 
-You can read more about it [here](https://abcnews.go.com/Politics/troubles-biden-age-reelection-campaign-poll/story?id=103436611).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38474519/colorado-deion-sanders-says-no-excuses-butt-kicking-oregon).
 
 ## Requirements
 - Python 3.8
