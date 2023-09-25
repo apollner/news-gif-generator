@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695660126)
+![Generated GIF](output.gif?raw=true&v=1695661580)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least four killed as gunmen battle police in Kosovo monastery siege**
+**NFL Week 3 weather update: Rain could impact Bills at Commanders, Colts at Ravens, Patriots at Jets**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/24/one-police-officer-killed-in-kosovo-attack-blamed-on-serbia).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-weather-rain-could-impact-bills-at-commanders-colts-at-ravens-patriots-at-jets/).
 
 ## Requirements
 - Python 3.8
