@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695630950)
+![Generated GIF](output.gif?raw=true&v=1695632957)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ryan Day Blasts Former Notre Dame Coach Lou Holtz in Wake of Ohio State’s Stunning Win Over Notre Dame**
+**Pope Francis insists Europe doesn't have a migrant emergency and challenges countries to open ports**
 
-You can read more about it [here](https://www.si.com/college/2023/09/24/ryan-day-blasts-former-notre-dame-coach-lou-holtz-in-wake-of-ohio-states-stunning-win-over-notre-dame).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/pope-francis-insists-europe-migrant-emergency-challenges-countries-103430932).
 
 ## Requirements
 - Python 3.8
