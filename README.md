@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695615012)
+![Generated GIF](output.gif?raw=true&v=1695616451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch landing live: NASA's OSIRIS-REx returns to Earth from the asteroid Bennu**
+**DeSantis campaign pre-debate memo criticizes Trump, is dismissive of other rivals despite polling gap closing**
 
-You can read more about it [here](https://www.usatoday.com/story/news/2023/09/23/osiris-rex-bennu-landing-watch-nasa-livestream/70928642007/).
+You can read more about it [here](https://www.cbsnews.com/news/desantis-campaign-pre-debate-memo-criticizes-trump/).
 
 ## Requirements
 - Python 3.8
