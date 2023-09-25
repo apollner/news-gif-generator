@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695672521)
+![Generated GIF](output.gif?raw=true&v=1695674102)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock investors' wall of worry keeps growing, creating the need for protection**
+**A long-awaited asteroid sample has landed in the US**
 
-You can read more about it [here](https://www.marketwatch.com/story/stock-investors-face-a-wall-of-worry-into-the-year-end-creating-the-need-for-protection-82081d88).
+You can read more about it [here](https://www.cnn.com/2023/09/24/world/osiris-rex-asteroid-sample-return-scn/index.html).
 
 ## Requirements
 - Python 3.8
