@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695683197)
+![Generated GIF](output.gif?raw=true&v=1695684857)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans appeal to far right to avert US government shutdown**
+**Houston Texans vs. Jacksonville Jaguars | 2023 Week 3 Game Highlights**
 
-You can read more about it [here](https://www.reuters.com/world/us/republicans-appeal-far-right-conservatives-avert-us-government-shutdown-2023-09-24/).
+You can read more about it [here](https://www.youtube.com/watch?v=gTE1VHo727s).
 
 ## Requirements
 - Python 3.8
