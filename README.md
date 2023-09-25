@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695608266)
+![Generated GIF](output.gif?raw=true&v=1695609321)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deion Sanders' message after Colorado's blowout loss at Oregon: 'You better get me right now'**
+**Watch landing live: NASA's OSIRIS-REx returns to Earth from the asteroid Bennu**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/pac12/2023/09/23/deion-sanders-colorado-oregon-message/70950881007/).
+You can read more about it [here](https://www.usatoday.com/story/news/2023/09/23/osiris-rex-bennu-landing-watch-nasa-livestream/70928642007/).
 
 ## Requirements
 - Python 3.8
