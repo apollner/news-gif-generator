@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695623795)
+![Generated GIF](output.gif?raw=true&v=1695625625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**People looking to get new COVID vaccine getting hit with $190 fees: report**
+**Troubles for Biden not just his age in reelection campaign: POLL**
 
-You can read more about it [here](https://nypost.com/2023/09/23/people-looking-to-get-new-covid-vaccine-getting-hit-with-190-fees-report/).
+You can read more about it [here](https://abcnews.go.com/Politics/troubles-biden-age-reelection-campaign-poll/story?id=103436611).
 
 ## Requirements
 - Python 3.8
