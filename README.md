@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695622271)
+![Generated GIF](output.gif?raw=true&v=1695623795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman's body found in jaws of Florida alligator**
+**People looking to get new COVID vaccine getting hit with $190 fees: report**
 
-You can read more about it [here](https://www.cbsnews.com/news/body-found-jaws-of-alligator-tampa-bay-largo-florida-canal/).
+You can read more about it [here](https://nypost.com/2023/09/23/people-looking-to-get-new-covid-vaccine-getting-hit-with-190-fees-report/).
 
 ## Requirements
 - Python 3.8
