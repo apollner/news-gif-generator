@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695656174)
+![Generated GIF](output.gif?raw=true&v=1695658198)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 3 weather update: Rain could impact Bills at Commanders, Colts at Ravens, Patriots at Jets**
+**What I like and hate about iPhone 15 Pro as an Android user**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-weather-rain-could-impact-bills-at-commanders-colts-at-ravens-patriots-at-jets/).
+You can read more about it [here](https://9to5google.com/2023/09/24/iphone-15-pro-impressions-android/).
 
 ## Requirements
 - Python 3.8
