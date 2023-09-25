@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695644030)
+![Generated GIF](output.gif?raw=true&v=1695646249)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**D.C.-area forecast: Rain tapers to drizzle today; cloudy and cool through midweek**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/09/24/dc-area-forecast-ophelia-showers/).
 
 ## Requirements
 - Python 3.8
