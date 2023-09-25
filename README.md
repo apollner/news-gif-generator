@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695605724)
+![Generated GIF](output.gif?raw=true&v=1695608266)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Notre Dame vs. Ohio State score: Live game updates, college football scores, NCAA top 25 highlights in Week 4**
+**Deion Sanders' message after Colorado's blowout loss at Oregon: 'You better get me right now'**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-ohio-state-score-live-game-updates-college-football-scores-ncaa-top-25-highlights-in-week-4/live/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/pac12/2023/09/23/deion-sanders-colorado-oregon-message/70950881007/).
 
 ## Requirements
 - Python 3.8
