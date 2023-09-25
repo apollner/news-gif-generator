@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695666947)
+![Generated GIF](output.gif?raw=true&v=1695670444)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA capsule brings home asteroid samples dating back to the birth of the solar system**
+**Usher to Headline 2024 Apple Music Super Bowl Halftime Show**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-asteroid-samples-landing-osiris-rex-bennu/).
+You can read more about it [here](https://www.billboard.com/music/music-news/usher-super-bowl-halftime-show-2024-headline-1235419754/).
 
 ## Requirements
 - Python 3.8
