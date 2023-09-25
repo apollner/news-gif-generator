@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695681247)
+![Generated GIF](output.gif?raw=true&v=1695683197)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**El Paso opens new shelter, busses migrants to other cities amid surge**
+**Republicans appeal to far right to avert US government shutdown**
 
-You can read more about it [here](https://www.axios.com/2023/09/24/border-crossings-el-paso-texas-migrants).
+You can read more about it [here](https://www.reuters.com/world/us/republicans-appeal-far-right-conservatives-avert-us-government-shutdown-2023-09-24/).
 
 ## Requirements
 - Python 3.8
