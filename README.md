@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695627250)
+![Generated GIF](output.gif?raw=true&v=1695629476)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado's Deion Sanders says no excuses after 'butt kicking' by Oregon - ESPN**
+**Horoscope for Sunday, September 24, 2023**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38474519/colorado-deion-sanders-says-no-excuses-butt-kicking-oregon).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/24/23881188/horoscopes-today-sunday-september-24-2023).
 
 ## Requirements
 - Python 3.8
