@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695654483)
+![Generated GIF](output.gif?raw=true&v=1695656174)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gold Outlook: Are Prices Set to Rise or Drop?**
+**NFL Week 3 weather update: Rain could impact Bills at Commanders, Colts at Ravens, Patriots at Jets**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-24/gold-outlook-are-prices-set-to-rise-or-drop).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-weather-rain-could-impact-bills-at-commanders-colts-at-ravens-patriots-at-jets/).
 
 ## Requirements
 - Python 3.8
