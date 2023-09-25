@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695661580)
+![Generated GIF](output.gif?raw=true&v=1695663244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 3 weather update: Rain could impact Bills at Commanders, Colts at Ravens, Patriots at Jets**
+**NASA capsule brings home asteroid samples dating back to the birth of the solar system**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-weather-rain-could-impact-bills-at-commanders-colts-at-ravens-patriots-at-jets/).
+You can read more about it [here](https://www.cbsnews.com/news/nasa-asteroid-samples-landing-osiris-rex-bennu/).
 
 ## Requirements
 - Python 3.8
