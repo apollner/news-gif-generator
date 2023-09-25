@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695611347)
+![Generated GIF](output.gif?raw=true&v=1695612857)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia accuses West of fueling conflict, avoids discussing Ukraine in speech on day 5 at UN General Assembly**
+**Pope Francis insists Europe doesn't have a migrant emergency and challenges countries to open ports**
 
-You can read more about it [here](https://www.foxnews.com/world/russia-accuses-west-fueling-conflict-avoids-discussing-ukraine-speech-day-five-united-nations-general-assembly).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/pope-francis-insists-europe-migrant-emergency-challenges-countries-103430932).
 
 ## Requirements
 - Python 3.8
