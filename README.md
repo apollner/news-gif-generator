@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695632957)
+![Generated GIF](output.gif?raw=true&v=1695634468)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis insists Europe doesn't have a migrant emergency and challenges countries to open ports**
+**It’s not the end of Chandrayaan-3 story as lots of data to be processed: Ex-Isro chief K Sivan**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/pope-francis-insists-europe-migrant-emergency-challenges-countries-103430932).
+You can read more about it [here](https://timesofindia.indiatimes.com/india/its-not-the-end-of-chandrayaan-3-story-as-lots-of-data-to-be-processed-ex-isro-chief-k-sivan/articleshow/103897723.cms).
 
 ## Requirements
 - Python 3.8
