@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695648850)
+![Generated GIF](output.gif?raw=true&v=1695650868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northeast, New England feel impacts from Ophelia after storm batters mid-Atlantic with flooding, strong winds**
+**[Removed]**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/ophelia-northeast-new-england-mid-atlantic).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
