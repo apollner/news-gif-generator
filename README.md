@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695697701)
+![Generated GIF](output.gif?raw=true&v=1695699250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Philippines condemns Chinese 'floating barrier' in South China Sea**
+**Serb gunmen battle police in Kosovo monastery siege; four dead**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippines-condemns-chinese-floating-barrier-south-china-sea-2023-09-24/).
+You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
 
 ## Requirements
 - Python 3.8
