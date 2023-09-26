@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695760524)
+![Generated GIF](output.gif?raw=true&v=1695762374)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war effort aided by arrival of U.S. Abrams tanks as Ukraine claims to kill Russian fleet commander**
+**NFL Week 4 early odds: Dolphins underdogs vs. Bills after 70-point game, Cowboys TD favorite following loss**
 
-You can read more about it [here](https://www.cbsnews.com/news/ukraine-war-russia-us-abrams-tanks-black-sea-fleet/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-early-odds-dolphins-underdogs-vs-bills-after-70-point-game-cowboys-td-favorite-following-loss/).
 
 ## Requirements
 - Python 3.8
