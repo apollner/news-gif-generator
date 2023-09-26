@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695742595)
+![Generated GIF](output.gif?raw=true&v=1695744627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Film legend Sophia Loren has successful surgery after fracturing a leg in a fall at home, agent says**
+**LGBTQ rights bolstered in California with new bills signed by Newsom**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/film-legend-sophia-loren-successful-surgery-after-fracturing-103460633).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/25/lgbtq-rights-laws-signed-california-governor-gavin-newsom/70959138007/).
 
 ## Requirements
 - Python 3.8
