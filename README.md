@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695695788)
+![Generated GIF](output.gif?raw=true&v=1695697701)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear**
+**Philippines condemns Chinese 'floating barrier' in South China Sea**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippines-condemns-chinese-floating-barrier-south-china-sea-2023-09-24/).
 
 ## Requirements
 - Python 3.8
