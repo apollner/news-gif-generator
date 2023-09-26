@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695765978)
+![Generated GIF](output.gif?raw=true&v=1695767709)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ford 'pausing' construction of Marshall EV battery plant**
+**ChatGPT has gone full virtual assistant with voice and image recognition**
 
-You can read more about it [here](https://www.detroitnews.com/story/business/autos/ford/2023/09/25/ford-motor-company-electric-vehicle-battery-plant-marshall-pausing/70963467007/).
+You can read more about it [here](https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/).
 
 ## Requirements
 - Python 3.8
