@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695726329)
+![Generated GIF](output.gif?raw=true&v=1695728067)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sophia Loren Hospitalized After Fall, Has Several Fractures**
+**Perspective | What the egg-freezing process feels like: One woman's fertility journey**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sophia-loren-hospitalized-injuries-fall-at-home-1235597900/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/25/egg-freezing-fertility-motherhood-emotions/).
 
 ## Requirements
 - Python 3.8
