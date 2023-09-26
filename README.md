@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695722867)
+![Generated GIF](output.gif?raw=true&v=1695724708)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Italian Mafia boss Messina Denaro dies of cancer months after capture**
+**National Hurricane Center tracking 2 tropical disturbances**
 
-You can read more about it [here](https://www.reuters.com/world/europe/jailed-italian-mafia-boss-messina-denaro-dies-afp-citing-italian-media-2023-09-25/).
+You can read more about it [here](https://www.wesh.com/article/tropical-disturbances-track/45292205).
 
 ## Requirements
 - Python 3.8
