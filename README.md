@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695701388)
+![Generated GIF](output.gif?raw=true&v=1695702860)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pittsburgh Steelers vs. Las Vegas Raiders | 2023 Week 3 Game Highlights**
+**Rapid Recap: Bears fall to Chiefs in Kansas City**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ce-Jbe-p0ow).
+You can read more about it [here](https://www.chicagobears.com/news/rapid-recap-bears-fall-to-chiefs-in-kansas-city-2023-week-3).
 
 ## Requirements
 - Python 3.8
