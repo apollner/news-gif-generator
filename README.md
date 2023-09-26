@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695704837)
+![Generated GIF](output.gif?raw=true&v=1695706457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada lawmaker apologizes for praising Ukrainian who fought for Nazis**
+**France will end its military presence in Niger by the end of 2023, Macron says**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/24/canadian-speaker-apologizes-ukrainian-nazi/).
+You can read more about it [here](https://www.cnn.com/2023/09/24/europe/france-end-military-presence-niger-intl/index.html).
 
 ## Requirements
 - Python 3.8
