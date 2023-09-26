@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695769576)
+![Generated GIF](output.gif?raw=true&v=1695771251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California weather: Where rain will be heaviest Monday**
+**Defying the “Impossible” – Reversing Paralysis Through Spinal Cord Regeneration**
 
-You can read more about it [here](https://www.sfchronicle.com/weather-forecast/article/bay-area-rain-september-18385506.php).
+You can read more about it [here](https://scitechdaily.com/?p=311208).
 
 ## Requirements
 - Python 3.8
