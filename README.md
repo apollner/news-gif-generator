@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695748054)
+![Generated GIF](output.gif?raw=true&v=1695749645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dolphins' Tyreek Hill, Devon Archane, Raheem Mostert have NFL's fastest recorded speeds**
+**Apple's Eddy Cue will take the stand Tuesday in the Google antitrust case**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-tyreek-hill-devon-archane-raheem-mostert-have-nfls-fastest-recorded-speeds).
+You can read more about it [here](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled).
 
 ## Requirements
 - Python 3.8
