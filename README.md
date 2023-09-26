@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695764044)
+![Generated GIF](output.gif?raw=true&v=1695765978)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple executives break down AirPods’ new features**
+**Ford 'pausing' construction of Marshall EV battery plant**
 
-You can read more about it [here](https://techcrunch.com/2023/09/25/apple-executives-break-down-airpods-new-features/).
+You can read more about it [here](https://www.detroitnews.com/story/business/autos/ford/2023/09/25/ford-motor-company-electric-vehicle-battery-plant-marshall-pausing/70963467007/).
 
 ## Requirements
 - Python 3.8
