@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695717333)
+![Generated GIF](output.gif?raw=true&v=1695719261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kansas City Chiefs make swift work of the Chicago Bears in Week 3 win at Arrowhead**
+**Ophelia's storm path floods mid-Atlantic coast. See aftermath photos.**
 
-You can read more about it [here](https://www.kmbc.com/article/live-game-score-chiefs-bears-week-3-kansas-city/45292323).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/24/tropical-storm-ophelia-impact-photos/70954240007/).
 
 ## Requirements
 - Python 3.8
