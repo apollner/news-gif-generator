@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695744627)
+![Generated GIF](output.gif?raw=true&v=1695746395)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LGBTQ rights bolstered in California with new bills signed by Newsom**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/25/lgbtq-rights-laws-signed-california-governor-gavin-newsom/70959138007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
