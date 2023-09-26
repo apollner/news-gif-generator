@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695767709)
+![Generated GIF](output.gif?raw=true&v=1695769576)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ChatGPT has gone full virtual assistant with voice and image recognition**
+**California weather: Where rain will be heaviest Monday**
 
-You can read more about it [here](https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/).
+You can read more about it [here](https://www.sfchronicle.com/weather-forecast/article/bay-area-rain-september-18385506.php).
 
 ## Requirements
 - Python 3.8
