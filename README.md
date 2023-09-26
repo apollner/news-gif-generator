@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695762374)
+![Generated GIF](output.gif?raw=true&v=1695764044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 4 early odds: Dolphins underdogs vs. Bills after 70-point game, Cowboys TD favorite following loss**
+**Apple executives break down AirPods’ new features**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-early-odds-dolphins-underdogs-vs-bills-after-70-point-game-cowboys-td-favorite-following-loss/).
+You can read more about it [here](https://techcrunch.com/2023/09/25/apple-executives-break-down-airpods-new-features/).
 
 ## Requirements
 - Python 3.8
