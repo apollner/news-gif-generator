@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695758893)
+![Generated GIF](output.gif?raw=true&v=1695760524)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift and Travis Kelce timeline: From dating rumors to the Kansas City Chiefs game**
+**Ukraine war effort aided by arrival of U.S. Abrams tanks as Ukraine claims to kill Russian fleet commander**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/taylor-swift-travis-kelce-timeline-dating-chiefs-game-rcna117188).
+You can read more about it [here](https://www.cbsnews.com/news/ukraine-war-russia-us-abrams-tanks-black-sea-fleet/).
 
 ## Requirements
 - Python 3.8
