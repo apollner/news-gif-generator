@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695755124)
+![Generated GIF](output.gif?raw=true&v=1695756865)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sophie Turner and Joe Jonas Reach Temporary Agreement Over 2 Kids Amid Lawsuit**
+**Kerry Washington shares her journey of self-discovery in 'Thicker than Water'**
 
-You can read more about it [here](https://www.eonline.com/news/1386320/sophie-turner-and-joe-jonas-reach-temporary-agreement-over-2-kids-amid-lawsuit).
+You can read more about it [here](https://www.npr.org/2023/09/25/1201488524/kerry-washington-thicker-than-water-memoir).
 
 ## Requirements
 - Python 3.8
