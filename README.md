@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695751811)
+![Generated GIF](output.gif?raw=true&v=1695755124)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court's interpretation of the word "and" could affect thousands of prison sentences each year**
+**Sophie Turner and Joe Jonas Reach Temporary Agreement Over 2 Kids Amid Lawsuit**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-interpretation-word-and-could-affect-thousands-prison-sentences/).
+You can read more about it [here](https://www.eonline.com/news/1386320/sophie-turner-and-joe-jonas-reach-temporary-agreement-over-2-kids-amid-lawsuit).
 
 ## Requirements
 - Python 3.8
