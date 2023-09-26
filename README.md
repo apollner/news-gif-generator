@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695708667)
+![Generated GIF](output.gif?raw=true&v=1695710153)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Union Members Poke Fun At “Best And Final Offer” Line From AMPTP**
+**[Removed]**
 
-You can read more about it [here](https://deadline.com/2023/09/wga-strike-amptp-statement-best-and-final-offer-1235554911/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
