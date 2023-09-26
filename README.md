@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695688245)
+![Generated GIF](output.gif?raw=true&v=1695692097)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans appeal to far right to avert US government shutdown**
+**Serb gunmen battle police in Kosovo monastery siege; four dead**
 
-You can read more about it [here](https://www.reuters.com/world/us/republicans-appeal-far-right-conservatives-avert-us-government-shutdown-2023-09-24/).
+You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
 
 ## Requirements
 - Python 3.8
