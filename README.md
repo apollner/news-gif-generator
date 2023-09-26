@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695719261)
+![Generated GIF](output.gif?raw=true&v=1695720914)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ophelia's storm path floods mid-Atlantic coast. See aftermath photos.**
+**Lego axes plan to make bricks from recycled bottles**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/24/tropical-storm-ophelia-impact-photos/70954240007/).
+You can read more about it [here](https://www.bbc.com/news/business-66910573).
 
 ## Requirements
 - Python 3.8
