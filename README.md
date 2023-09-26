@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695715910)
+![Generated GIF](output.gif?raw=true&v=1695717333)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 people dead, including 3 children, after a train hit an SUV, smashing it ‘like a soft drink can,’ Florida sheriff says**
+**Kansas City Chiefs make swift work of the Chicago Bears in Week 3 win at Arrowhead**
 
-You can read more about it [here](https://www.cnn.com/2023/09/24/us/florida-hillsborough-train-hits-vehicle/index.html).
+You can read more about it [here](https://www.kmbc.com/article/live-game-score-chiefs-bears-week-3-kansas-city/45292323).
 
 ## Requirements
 - Python 3.8
