@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695738930)
+![Generated GIF](output.gif?raw=true&v=1695742595)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift cheers on Travis Kelce at Kansas City Chiefs game**
+**Film legend Sophia Loren has successful surgery after fracturing a leg in a fall at home, agent says**
 
-You can read more about it [here](https://www.cnn.com/2023/09/24/entertainment/taylor-swift-travis-kelce-chiefs-game/index.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/film-legend-sophia-loren-successful-surgery-after-fracturing-103460633).
 
 ## Requirements
 - Python 3.8
