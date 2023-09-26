@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695728067)
+![Generated GIF](output.gif?raw=true&v=1695731792)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Perspective | What the egg-freezing process feels like: One woman's fertility journey**
+**Ukraine war live updates: Russia inflicts 'significant damage' on Odesa in attack; Poland tries to ease tensions with Kyiv**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/25/egg-freezing-fertility-motherhood-emotions/).
+You can read more about it [here](https://www.cnbc.com/2023/09/25/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
