@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695724708)
+![Generated GIF](output.gif?raw=true&v=1695726329)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**National Hurricane Center tracking 2 tropical disturbances**
+**Sophia Loren Hospitalized After Fall, Has Several Fractures**
 
-You can read more about it [here](https://www.wesh.com/article/tropical-disturbances-track/45292205).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sophia-loren-hospitalized-injuries-fall-at-home-1235597900/).
 
 ## Requirements
 - Python 3.8
