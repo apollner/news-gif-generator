@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695756865)
+![Generated GIF](output.gif?raw=true&v=1695758893)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kerry Washington shares her journey of self-discovery in 'Thicker than Water'**
+**Taylor Swift and Travis Kelce timeline: From dating rumors to the Kansas City Chiefs game**
 
-You can read more about it [here](https://www.npr.org/2023/09/25/1201488524/kerry-washington-thicker-than-water-memoir).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/taylor-swift-travis-kelce-timeline-dating-chiefs-game-rcna117188).
 
 ## Requirements
 - Python 3.8
