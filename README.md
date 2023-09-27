@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695785652)
+![Generated GIF](output.gif?raw=true&v=1695787800)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden fumbles acronym during Pacific Islands forum speech: 'Doesn’t matter what we call it,' he jokes**
+**Taylor Swift effect: Travis Kelce sees huge spike in jersey sales amid romance rumors with pop star**
 
-You can read more about it [here](https://nypost.com/2023/09/25/biden-fumbles-acronym-during-pacific-islands-forum-speech/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-effect-travis-kelce-sees-huge-spike-in-jersey-sales-amid-romance-rumors-with-pop-star/).
 
 ## Requirements
 - Python 3.8
