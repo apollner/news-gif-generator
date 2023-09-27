@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695816828)
+![Generated GIF](output.gif?raw=true&v=1695819046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What debate? Trump is crushing it in California.**
+**Seven Candidates Qualify For Next Republican Debate At Reagan Library**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/26/trump-california-2024-republican-debate-00118063).
+You can read more about it [here](https://deadline.com/2023/09/republican-debate-fox-business-candidates-qualify-1235556055/).
 
 ## Requirements
 - Python 3.8
