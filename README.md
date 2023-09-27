@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695802284)
+![Generated GIF](output.gif?raw=true&v=1695803727)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift’s attendance at Chiefs game brings a spike in Travis Kelce jersey sales**
+**Joe Burrow plays through calf injury, leads Bengals to first win - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/09/25/business/taylor-swift-travis-kelce-jersey-sales/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38493990/joe-burrow-plays-calf-injury-leads-bengals-first-win).
 
 ## Requirements
 - Python 3.8
