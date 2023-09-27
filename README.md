@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695782102)
+![Generated GIF](output.gif?raw=true&v=1695784172)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gov. Newsom signs bill to classify child sex trafficking as a serious felony in California**
+**NFL Week 3 Monday Night Football: Eagles take on Bucs, Joe Burrow to play for Bengals vs. Rams**
 
-You can read more about it [here](https://www.kcra.com/article/california-bill-child-sex-trafficking-felony-signed/45310822).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-3-monday-night-football-eagles-take-on-bucs-joe-burrow-to-play-for-bengals-vs-rams-215012693.html).
 
 ## Requirements
 - Python 3.8
