@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695838206)
+![Generated GIF](output.gif?raw=true&v=1695839785)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Ariana Grande and Ethan Slater's First Public Outing Amid Divorce Drama**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ariana-grande-and-ethan-slater-public-outing-after-divorce).
 
 ## Requirements
 - Python 3.8
