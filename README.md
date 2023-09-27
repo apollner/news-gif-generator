@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695812754)
+![Generated GIF](output.gif?raw=true&v=1695814453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pre-order Pixel 8 Pro in U.S. get free Pixel Watch 2; major Google Store Pixel 8 leak**
+**Joe Burrow good enough, but calf concerns persist in Bengals win over Rams**
 
-You can read more about it [here](https://www.phonearena.com/news/pre-order-pixel-8-pro-get-free-pixel-watch-2_id150965).
+You can read more about it [here](https://sports.yahoo.com/bengals-joe-burrow-win-rams-calf-concerns-121318859.html).
 
 ## Requirements
 - Python 3.8
