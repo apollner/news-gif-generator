@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695778491)
+![Generated GIF](output.gif?raw=true&v=1695781015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce sees jersey sales soar after Taylor Swift showed up at Chiefs' game**
+**Gov. Newsom signs bill to classify child sex trafficking as a serious felony in California**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2023/09/25/travis-kelce-jersey-sales-soar-with-taylor-swift/70965826007/).
+You can read more about it [here](https://www.kcra.com/article/california-bill-child-sex-trafficking-felony-signed/45310822).
 
 ## Requirements
 - Python 3.8
