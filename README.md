@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695850444)
+![Generated GIF](output.gif?raw=true&v=1695852353)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House and Senate on collision course as shutdown nears**
+**Target closing 3 Bay Area stores due to retail theft, company announces**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/politics/mccarthy-government-shutdown-latest/index.html).
+You can read more about it [here](https://abc7news.com/target-closing-stores-retail-theft-bay-area/13831482/).
 
 ## Requirements
 - Python 3.8
