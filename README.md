@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695834379)
+![Generated GIF](output.gif?raw=true&v=1695836038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RSV vaccines for baby, pregnancy: What to get this season and when**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/26/rsv-vaccines-for-baby-pregnancy/70960060007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
