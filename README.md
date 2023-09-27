@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695846830)
+![Generated GIF](output.gif?raw=true&v=1695848763)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge orders migrant shelter to close**
+**India's Moon Lander Appears to Have Died**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KX_RkN_GSu0).
+You can read more about it [here](https://futurism.com/the-byte/indias-moon-lander-appears-died).
 
 ## Requirements
 - Python 3.8
