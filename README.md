@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695784172)
+![Generated GIF](output.gif?raw=true&v=1695785652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 3 Monday Night Football: Eagles take on Bucs, Joe Burrow to play for Bengals vs. Rams**
+**Biden fumbles acronym during Pacific Islands forum speech: 'Doesn’t matter what we call it,' he jokes**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-3-monday-night-football-eagles-take-on-bucs-joe-burrow-to-play-for-bengals-vs-rams-215012693.html).
+You can read more about it [here](https://nypost.com/2023/09/25/biden-fumbles-acronym-during-pacific-islands-forum-speech/).
 
 ## Requirements
 - Python 3.8
