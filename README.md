@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695771251)
+![Generated GIF](output.gif?raw=true&v=1695774661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Defying the “Impossible” – Reversing Paralysis Through Spinal Cord Regeneration**
+**Taylor Swift, Travis Kelce romance rumors: Chiefs star rents out restaurant for private party with pop singer**
 
-You can read more about it [here](https://scitechdaily.com/?p=311208).
+You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-travis-kelce-romance-rumors-chiefs-star-rents-out-restaurant-for-private-party-with-pop-singer/).
 
 ## Requirements
 - Python 3.8
