@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695823640)
+![Generated GIF](output.gif?raw=true&v=1695825279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DraftKings pops as JPMorgan says stock is undervalued**
+**PFT's Week 4 2023 NFL power rankings**
 
-You can read more about it [here](https://finance.yahoo.com/news/draftkings-pops-as-jpmorgan-says-stock-is-undervalued-132401308.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2023-nfl-power-rankings).
 
 ## Requirements
 - Python 3.8
