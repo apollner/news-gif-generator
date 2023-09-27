@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695820356)
+![Generated GIF](output.gif?raw=true&v=1695821658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Seven Candidates Qualify For Next Republican Debate At Reagan Library**
+**OpenAI introduces voice and image prompts to ChatGPT**
 
-You can read more about it [here](https://deadline.com/2023/09/republican-debate-fox-business-candidates-qualify-1235556055/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/26/openai-introduces-voice-and-image-prompts-to-chatgpt).
 
 ## Requirements
 - Python 3.8
