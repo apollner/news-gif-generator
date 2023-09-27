@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695787800)
+![Generated GIF](output.gif?raw=true&v=1695789250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift effect: Travis Kelce sees huge spike in jersey sales amid romance rumors with pop star**
+**Nagorno-Karabakh: Thousands of ethnic Armenians flee after breakaway region's defeat**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-effect-travis-kelce-sees-huge-spike-in-jersey-sales-amid-romance-rumors-with-pop-star/).
+You can read more about it [here](https://www.cnn.com/2023/09/25/europe/nagorno-karabakh-ethnic-armenians-evacuation-intl/index.html).
 
 ## Requirements
 - Python 3.8
