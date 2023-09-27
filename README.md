@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695807250)
+![Generated GIF](output.gif?raw=true&v=1695809327)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google Pixel Watch 2's features and fancy new straps shown off in leaked commercial**
+**Jamie Dimon on interest rates: 'I am not sure the world is prepared for 7%'**
 
-You can read more about it [here](https://www.androidpolice.com/google-pixel-watch-2-features-fancy-new-straps-shown-off-leaked-commercial/).
+You can read more about it [here](https://www.marketwatch.com/story/jamie-dimon-on-interest-rates-i-am-not-sure-the-world-is-prepared-for-7-17bcf4ed).
 
 ## Requirements
 - Python 3.8
