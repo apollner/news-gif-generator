@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695839785)
+![Generated GIF](output.gif?raw=true&v=1695841570)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ariana Grande and Ethan Slater's First Public Outing Amid Divorce Drama**
+**Microsoft is going nuclear to power its AI ambitions**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ariana-grande-and-ethan-slater-public-outing-after-divorce).
+You can read more about it [here](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring).
 
 ## Requirements
 - Python 3.8
