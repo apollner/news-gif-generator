@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695792962)
+![Generated GIF](output.gif?raw=true&v=1695795054)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Abrams Tanks Reach Ukraine. Is It a Case of Too Little, Too Late?**
+**Here's who made the second Republican presidential debate**
 
-You can read more about it [here](https://www.wsj.com/world/u-s-abrams-tanks-reach-ukraine-is-it-a-case-of-too-little-too-late-f1fb5061).
+You can read more about it [here](https://www.politico.com/news/2023/09/25/rnc-announces-candidates-for-another-trump-less-debate-00118087).
 
 ## Requirements
 - Python 3.8
