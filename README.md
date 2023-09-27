@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695796563)
+![Generated GIF](output.gif?raw=true&v=1695798469)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Senator Menendez rejects calls to step down from Congress**
+**Pretty Little Liars' Torrey DeVitto Is Engaged to Jared LaPine: See Her Gorgeous Ring**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senator-menendez-vows-stay-congress-fight-bribery-charges-2023-09-25/).
+You can read more about it [here](https://www.eonline.com/news/1386377/pretty-little-liars-torrey-devitto-is-engaged-to-jared-lapine-see-her-gorgeous-ring).
 
 ## Requirements
 - Python 3.8
