@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695795054)
+![Generated GIF](output.gif?raw=true&v=1695796563)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's who made the second Republican presidential debate**
+**US Senator Menendez rejects calls to step down from Congress**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/25/rnc-announces-candidates-for-another-trump-less-debate-00118087).
+You can read more about it [here](https://www.reuters.com/world/us/us-senator-menendez-vows-stay-congress-fight-bribery-charges-2023-09-25/).
 
 ## Requirements
 - Python 3.8
