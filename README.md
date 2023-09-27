@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695825279)
+![Generated GIF](output.gif?raw=true&v=1695827238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PFT's Week 4 2023 NFL power rankings**
+**French authorities received a software update for Apple's iPhone 12 - ministry source**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2023-nfl-power-rankings).
+You can read more about it [here](https://www.reuters.com/technology/french-authorities-received-software-update-apples-iphone-12-ministry-source-2023-09-26/).
 
 ## Requirements
 - Python 3.8
