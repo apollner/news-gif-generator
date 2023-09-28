@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695919114)
+![Generated GIF](output.gif?raw=true&v=1695920761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Ryder Cup: How to watch the golf tournament, full TV schedule, team info and more**
+**Nearly half of Nagorno-Karabakh’s population has fled. What happens next?**
 
-You can read more about it [here](https://sports.yahoo.com/watch-ryder-cup-2023-golf-tournament-time-schedule-124530546.html).
+You can read more about it [here](https://www.cnn.com/2023/09/27/europe/nagorno-karabakh-exodus-armenia-explainer-intl/index.html).
 
 ## Requirements
 - Python 3.8
