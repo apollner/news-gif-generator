@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695920761)
+![Generated GIF](output.gif?raw=true&v=1695922485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nearly half of Nagorno-Karabakh’s population has fled. What happens next?**
+**WGA ends strike, releases details on tentative deal with studios**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/europe/nagorno-karabakh-exodus-armenia-explainer-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/wga-ends-strike-releases-details-on-tentative-deal-with-studios-writers-hollywood/).
 
 ## Requirements
 - Python 3.8
