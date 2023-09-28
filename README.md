@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695905404)
+![Generated GIF](output.gif?raw=true&v=1695906686)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tony D & Stacks host a dinner for their enemies: NXT highlights, Sept. 26, 2023**
+**Baltimore police searching for ‘extremely dangerous’ ex-con in killing of 26-year-old female tech CEO**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-6x5OxSHyto).
+You can read more about it [here](https://www.cnn.com/2023/09/27/us/baltimore-tech-ceo-murder-suspect-pava-lapere-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
