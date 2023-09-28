@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695908168)
+![Generated GIF](output.gif?raw=true&v=1695909986)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sen. Bob Menendez to be arraigned as resignation calls grow louder**
+**Canada's House speaker resigns after inviting a man who fought for the Nazis to Parliament: 'Profound regret'**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/sen-bob-menendez-arraigned-resignation-calls-grow-louder-rcna117438).
+You can read more about it [here](https://www.foxnews.com/world/canadas-house-speaker-resigns-inviting-man-fought-nazis-parliament-profound-regret).
 
 ## Requirements
 - Python 3.8
