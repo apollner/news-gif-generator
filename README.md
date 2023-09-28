@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695911676)
+![Generated GIF](output.gif?raw=true&v=1695913670)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Crystal Rogers case: Former boyfriend Brooks Houck arrested in her 2015 disappearance**
+**Dan Harmon Is Ready to Talk About All of It (Including the Justin Roiland Drama)**
 
-You can read more about it [here](https://www.wlky.com/article/crystal-rogers-brooks-houck-arrest-bardstown-fbi-kentucky/45337010).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/dan-harmon-interview-rick-morty-community-krapopolis-justin-roiland-1235600699/).
 
 ## Requirements
 - Python 3.8
