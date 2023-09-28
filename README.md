@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695900835)
+![Generated GIF](output.gif?raw=true&v=1695903211)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google's 25th birthday: Surprise Doodle and Easter eggs to look for**
+**Tony D & Stacks host a dinner for their enemies: NXT highlights, Sept. 26, 2023**
 
-You can read more about it [here](https://www.usatoday.com/story/news/2023/09/27/google-doodle-birthday-surprise-translate/70960063007/).
+You can read more about it [here](https://www.youtube.com/watch?v=-6x5OxSHyto).
 
 ## Requirements
 - Python 3.8
