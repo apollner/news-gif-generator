@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695895813)
+![Generated GIF](output.gif?raw=true&v=1695897431)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Goldy Brar building hideout in California': Dossier on Khalistani terrorists**
+**Asteroid ‘dust, debris’ likely found as returned NASA space capsule opened**
 
-You can read more about it [here](https://www.hindustantimes.com/india-news/goldy-brar-building-hideout-in-california-indias-dossier-on-khalistani-terrorists-101695784913766.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/27/asteroid-dust-debris-likely-found-as-returned-nasa-space-capsule-opened).
 
 ## Requirements
 - Python 3.8
