@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695942405)
+![Generated GIF](output.gif?raw=true&v=1695944037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WGA Leaders David Goodman, Chris Keyser and Meredith Stiehm on How the Deal Was Done: ‘We Got Something for Every Sector of the Guild’**
+**Meta Connect 2023: Everything you need to know about Quest 3 VR, Ray-Ban smart glasses and Meta AI**
 
-You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-goodman-keyser-stiehm-amptp-contract-1235737384/).
+You can read more about it [here](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/).
 
 ## Requirements
 - Python 3.8
