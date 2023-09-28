@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695872048)
+![Generated GIF](output.gif?raw=true&v=1695874199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The new WGA contract will change how Hollywood works**
+**How to watch the last supermoon of 2023**
 
-You can read more about it [here](https://www.theverge.com/2023/9/26/23891835/wga-contract-summary-ai-streaming-data).
+You can read more about it [here](https://abcnews.go.com/GMA/Living/watch-supermoon-2023/story?id=103506084).
 
 ## Requirements
 - Python 3.8
