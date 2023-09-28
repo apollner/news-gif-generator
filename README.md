@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695913670)
+![Generated GIF](output.gif?raw=true&v=1695915383)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dan Harmon Is Ready to Talk About All of It (Including the Justin Roiland Drama)**
+**North Korea has decided to ‘expel’ US soldier Travis King, state media reports**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/dan-harmon-interview-rick-morty-community-krapopolis-justin-roiland-1235600699/).
+You can read more about it [here](https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html).
 
 ## Requirements
 - Python 3.8
