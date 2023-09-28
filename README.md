@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695935122)
+![Generated GIF](output.gif?raw=true&v=1695936837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OpenAI Employee Discovers Eliza Effect, Gets Emotional**
+**Russia accuses Ukraine's Western allies of helping attack its Black Sea Fleet headquarters**
 
-You can read more about it [here](https://gizmodo.com/openai-employee-discovers-eliza-effect-gets-emotional-1850877739).
+You can read more about it [here](https://news.yahoo.com/russia-accuses-ukraines-western-allies-103300415.html).
 
 ## Requirements
 - Python 3.8
