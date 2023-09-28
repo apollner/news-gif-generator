@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695868478)
+![Generated GIF](output.gif?raw=true&v=1695870547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iraq fire: At least 100 killed in blaze at wedding party in Nineveh**
+**Florida man gets bitten by rabies-infested otter while feeding ducks: officials**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-66932327).
+You can read more about it [here](https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials).
 
 ## Requirements
 - Python 3.8
