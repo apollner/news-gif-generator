@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695917382)
+![Generated GIF](output.gif?raw=true&v=1695919114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Good news is bad news for the stock market, and now bad news is bad news, too.**
+**2023 Ryder Cup: How to watch the golf tournament, full TV schedule, team info and more**
 
-You can read more about it [here](https://www.marketwatch.com/story/the-stock-market-cant-catch-a-break-good-news-is-bad-news-and-now-bad-news-is-bad-news-too-fe9d8183).
+You can read more about it [here](https://sports.yahoo.com/watch-ryder-cup-2023-golf-tournament-time-schedule-124530546.html).
 
 ## Requirements
 - Python 3.8
