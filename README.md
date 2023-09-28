@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695940439)
+![Generated GIF](output.gif?raw=true&v=1695942405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ray-Ban Meta smart glasses livestream to Instagram and Facebook**
+**WGA Leaders David Goodman, Chris Keyser and Meredith Stiehm on How the Deal Was Done: ‘We Got Something for Every Sector of the Guild’**
 
-You can read more about it [here](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/).
+You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-goodman-keyser-stiehm-amptp-contract-1235737384/).
 
 ## Requirements
 - Python 3.8
