@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695915383)
+![Generated GIF](output.gif?raw=true&v=1695917382)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea has decided to ‘expel’ US soldier Travis King, state media reports**
+**Good news is bad news for the stock market, and now bad news is bad news, too.**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/the-stock-market-cant-catch-a-break-good-news-is-bad-news-and-now-bad-news-is-bad-news-too-fe9d8183).
 
 ## Requirements
 - Python 3.8
