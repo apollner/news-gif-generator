@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695877609)
+![Generated GIF](output.gif?raw=true&v=1695879232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida man gets bitten by rabies-infested otter while feeding ducks: officials**
+**Who is Jason Billingsley, accused of killing Baltimore tech CEO Pava Marie LaPere?**
 
-You can read more about it [here](https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials).
+You can read more about it [here](https://www.foxnews.com/us/jason-billingsley-accused-killing-baltimore-tech-ceo-pava-marie-lapere).
 
 ## Requirements
 - Python 3.8
