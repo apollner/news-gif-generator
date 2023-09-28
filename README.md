@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695857645)
+![Generated GIF](output.gif?raw=true&v=1695861115)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Target closing 3 Bay Area stores due to retail theft, company announces**
+**Husband of owner of Bronx day care where child died of fentanyl arrested in Mexico: Sources**
 
-You can read more about it [here](https://abc7news.com/target-closing-stores-retail-theft-bay-area/13831482/).
+You can read more about it [here](https://abcnews.go.com/US/husband-owner-bronx-day-care-child-died-fentanyl/story?id=103505245).
 
 ## Requirements
 - Python 3.8
