@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695938755)
+![Generated GIF](output.gif?raw=true&v=1695940439)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW again threatens to expand strikes at Detroit automakers if progress isn't made by Friday**
+**Ray-Ban Meta smart glasses livestream to Instagram and Facebook**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/27/uaw-threatens-to-expand-strikes-again-at-gm-ford-stellantis.html).
+You can read more about it [here](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/).
 
 ## Requirements
 - Python 3.8
