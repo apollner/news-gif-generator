@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695922485)
+![Generated GIF](output.gif?raw=true&v=1695924609)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WGA ends strike, releases details on tentative deal with studios**
+**Travis Kelce Talks Taylor Swift Romance Rumors on His Podcast: 'I Did This to Myself'**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/wga-ends-strike-releases-details-on-tentative-deal-with-studios-writers-hollywood/).
+You can read more about it [here](https://people.com/travis-kelce-teases-romance-taylor-swift-podcast-7975299).
 
 ## Requirements
 - Python 3.8
