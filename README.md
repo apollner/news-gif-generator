@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695890117)
+![Generated GIF](output.gif?raw=true&v=1695892009)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Dancing With the Stars' season 32 premiere elimination revealed**
+**'Goldy Brar building hideout in California': Dossier on Khalistani terrorists**
 
-You can read more about it [here](https://ew.com/tv/recaps/dancing-with-the-stars-season-32-premiere-recap/).
+You can read more about it [here](https://www.hindustantimes.com/india-news/goldy-brar-building-hideout-in-california-indias-dossier-on-khalistani-terrorists-101695784913766.html).
 
 ## Requirements
 - Python 3.8
