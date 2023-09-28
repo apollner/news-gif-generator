@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695909986)
+![Generated GIF](output.gif?raw=true&v=1695911676)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada's House speaker resigns after inviting a man who fought for the Nazis to Parliament: 'Profound regret'**
+**Crystal Rogers case: Former boyfriend Brooks Houck arrested in her 2015 disappearance**
 
-You can read more about it [here](https://www.foxnews.com/world/canadas-house-speaker-resigns-inviting-man-fought-nazis-parliament-profound-regret).
+You can read more about it [here](https://www.wlky.com/article/crystal-rogers-brooks-houck-arrest-bardstown-fbi-kentucky/45337010).
 
 ## Requirements
 - Python 3.8
