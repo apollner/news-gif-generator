@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695893628)
+![Generated GIF](output.gif?raw=true&v=1695895813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brooks Robinson, Baltimore Orioles legend and 18-time MLB All-Star, dies at 86**
+**'Goldy Brar building hideout in California': Dossier on Khalistani terrorists**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/brooks-robinson-baltimore-orioles-legend-and-18-time-mlb-all-star-dies-at-86/).
+You can read more about it [here](https://www.hindustantimes.com/india-news/goldy-brar-building-hideout-in-california-indias-dossier-on-khalistani-terrorists-101695784913766.html).
 
 ## Requirements
 - Python 3.8
