@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695864876)
+![Generated GIF](output.gif?raw=true&v=1695867378)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russian appeals court upholds opposition leader Alexei Navalny's 19-year prison term**
+**Week 4 NFL power rankings: Miami Dolphins overtake Kansas City Chiefs**
 
-You can read more about it [here](https://www.npr.org/2023/09/26/1201839908/alexei-navalny-russia-putin-prison-sentence-upheld-appeal).
+You can read more about it [here](https://www.arrowheadpride.com/2023/9/26/23891032/week-4-nfl-power-rankings-dolphins-chiefs).
 
 ## Requirements
 - Python 3.8
