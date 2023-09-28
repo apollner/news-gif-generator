@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695861115)
+![Generated GIF](output.gif?raw=true&v=1695864876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Husband of owner of Bronx day care where child died of fentanyl arrested in Mexico: Sources**
+**Russian appeals court upholds opposition leader Alexei Navalny's 19-year prison term**
 
-You can read more about it [here](https://abcnews.go.com/US/husband-owner-bronx-day-care-child-died-fentanyl/story?id=103505245).
+You can read more about it [here](https://www.npr.org/2023/09/26/1201839908/alexei-navalny-russia-putin-prison-sentence-upheld-appeal).
 
 ## Requirements
 - Python 3.8
