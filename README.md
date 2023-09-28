@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695870547)
+![Generated GIF](output.gif?raw=true&v=1695872048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida man gets bitten by rabies-infested otter while feeding ducks: officials**
+**The new WGA contract will change how Hollywood works**
 
-You can read more about it [here](https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials).
+You can read more about it [here](https://www.theverge.com/2023/9/26/23891835/wga-contract-summary-ai-streaming-data).
 
 ## Requirements
 - Python 3.8
