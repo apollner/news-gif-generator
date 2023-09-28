@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695897431)
+![Generated GIF](output.gif?raw=true&v=1695899203)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asteroid ‘dust, debris’ likely found as returned NASA space capsule opened**
+**26-year-old tech CEO Pava LaPere found dead at Baltimore apartment building; homicide investigation underway**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/27/asteroid-dust-debris-likely-found-as-returned-nasa-space-capsule-opened).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/baltimore-police-identify-26-year-old-woman-killed-in-mount-vernon/).
 
 ## Requirements
 - Python 3.8
