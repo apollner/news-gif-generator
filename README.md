@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695933244)
+![Generated GIF](output.gif?raw=true&v=1695935122)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**😤 Mad Dog's had it with Taylor Swift & Travis Kelce: 'Lemme watch the football!' 🗣️ | First Take**
+**OpenAI Employee Discovers Eliza Effect, Gets Emotional**
 
-You can read more about it [here](https://www.youtube.com/watch?v=b9VOFweRdJo).
+You can read more about it [here](https://gizmodo.com/openai-employee-discovers-eliza-effect-gets-emotional-1850877739).
 
 ## Requirements
 - Python 3.8
