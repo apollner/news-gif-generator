@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695899203)
+![Generated GIF](output.gif?raw=true&v=1695900835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**26-year-old tech CEO Pava LaPere found dead at Baltimore apartment building; homicide investigation underway**
+**Google's 25th birthday: Surprise Doodle and Easter eggs to look for**
 
-You can read more about it [here](https://www.cbsnews.com/baltimore/news/baltimore-police-identify-26-year-old-woman-killed-in-mount-vernon/).
+You can read more about it [here](https://www.usatoday.com/story/news/2023/09/27/google-doodle-birthday-surprise-translate/70960063007/).
 
 ## Requirements
 - Python 3.8
