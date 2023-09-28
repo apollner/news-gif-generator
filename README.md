@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695874199)
+![Generated GIF](output.gif?raw=true&v=1695875643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch the last supermoon of 2023**
+**New Jersey Sen. Cory Booker joins calls for Bob Menendez to resign as pressure escalates**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Living/watch-supermoon-2023/story?id=103506084).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/pressure-escalates-fellow-new-jersey-sen-cory-booker-joins-calls-bob-m-rcna117366).
 
 ## Requirements
 - Python 3.8
