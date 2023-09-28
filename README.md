@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695906686)
+![Generated GIF](output.gif?raw=true&v=1695908168)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baltimore police searching for ‘extremely dangerous’ ex-con in killing of 26-year-old female tech CEO**
+**Sen. Bob Menendez to be arraigned as resignation calls grow louder**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/us/baltimore-tech-ceo-murder-suspect-pava-lapere-wednesday/index.html).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/sen-bob-menendez-arraigned-resignation-calls-grow-louder-rcna117438).
 
 ## Requirements
 - Python 3.8
