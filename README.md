@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696019620)
+![Generated GIF](output.gif?raw=true&v=1696021602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CS:GO vets slam Counter-Strike 2’s “underwhelming” launch**
+**Lina Khan Once Went Big Against Amazon. As FTC Chair, She Changed Tack.**
 
-You can read more about it [here](https://www.dexerto.com/counter-strike-2/csgo-vets-slam-counter-strike-2s-underwhelming-launch-2314507/).
+You can read more about it [here](https://www.wsj.com/tech/in-suing-amazon-ftcs-lina-khan-turns-her-earlier-pricing-argument-on-its-head-e45b91e9).
 
 ## Requirements
 - Python 3.8
