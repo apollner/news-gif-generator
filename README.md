@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695944037)
+![Generated GIF](output.gif?raw=true&v=1695947429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meta Connect 2023: Everything you need to know about Quest 3 VR, Ray-Ban smart glasses and Meta AI**
+**Trump loses bid to recuse judge from federal election interference case**
 
-You can read more about it [here](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/).
+You can read more about it [here](https://www.cnbc.com/2023/09/27/trump-loses-bid-to-recuse-judge-from-federal-election-case.html).
 
 ## Requirements
 - Python 3.8
