@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696016088)
+![Generated GIF](output.gif?raw=true&v=1696018080)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SARS-CoV-2 infects coronary arteries, increases plaque inflammation**
+**UAW Targets 30% Wage Bump to Satisfy Workers, Woo New Members**
 
-You can read more about it [here](https://www.nih.gov/news-events/news-releases/sars-cov-2-infects-coronary-arteries-increases-plaque-inflammation).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-28/uaw-targets-30-wage-bump-to-satisfy-workers-woo-new-members).
 
 ## Requirements
 - Python 3.8
