@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695982079)
+![Generated GIF](output.gif?raw=true&v=1695983722)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado Mom Suzanne Morphew's Remains Found 3 Years After She Vanished**
+**‘Survivor’ Season 45 Launches With Bruce’s Surprisingly Controversial Return and a Shocking First Tribal**
 
-You can read more about it [here](https://www.thedailybeast.com/suzanne-morphews-remains-found-three-years-after-she-vanished-in-colorado).
+You can read more about it [here](https://variety.com/2023/tv/news/survivor-premiere-recap-emily-bruce-hannah-quits-1235736369/).
 
 ## Requirements
 - Python 3.8
