@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696028748)
+![Generated GIF](output.gif?raw=true&v=1696030513)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tensions erupt between McCarthy and Gaetz at closed-door House GOP meeting as shutdown nears**
+**NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson, Lions' David Montgomery active for Thursday night**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/politics/shutdown-latest-government-funding/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-injuries-colts-anthony-richardson-practices-fully-again-austin-ekeler-eyes-return-to-lineup/).
 
 ## Requirements
 - Python 3.8
