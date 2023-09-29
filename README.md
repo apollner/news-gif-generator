@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695994420)
+![Generated GIF](output.gif?raw=true&v=1695996429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suspect arrested in murder of Baltimore tech CEO Pava LaPere**
+**She’s a health policy expert. She still had trouble getting her Covid-19 vaccine**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/baltimore-police-say-plan-announce-arrest-suspect-killing-tech-ceo-pav-rcna117773).
+You can read more about it [here](https://www.cnn.com/2023/09/28/health/covid-vaccine-health-insurance/index.html).
 
 ## Requirements
 - Python 3.8
