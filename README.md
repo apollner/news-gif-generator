@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695956913)
+![Generated GIF](output.gif?raw=true&v=1695958651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerball jackpot of $850 million – which would be the game’s fourth-largest – is up for grabs Wednesday night**
+**In Detroit suburbs, Trump criticizes Biden, Democrats, automakers over electric vehicles**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/us/powerball-lottery-jackpot-millions-wednesday/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/trump-speaks-in-detroit-republicans-debate-california/).
 
 ## Requirements
 - Python 3.8
