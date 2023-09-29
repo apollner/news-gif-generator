@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695987228)
+![Generated GIF](output.gif?raw=true&v=1695991832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Super Harvest Full Moon to shine down on DC area Thursday and Friday**
+**Braves' Ronald Acuña Jr. becomes founding member of 40-70 club - ESPN**
 
-You can read more about it [here](https://wtop.com/the-space-place/2023/09/super-harvest-full-moon-to-shine-down-on-dc-area-thursday-and-friday/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38509112/braves-ronald-acuna-jr-first-player-40-homers-70-steals-single-season).
 
 ## Requirements
 - Python 3.8
