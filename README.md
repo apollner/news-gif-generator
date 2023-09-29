@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696018080)
+![Generated GIF](output.gif?raw=true&v=1696019620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW Targets 30% Wage Bump to Satisfy Workers, Woo New Members**
+**CS:GO vets slam Counter-Strike 2’s “underwhelming” launch**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-28/uaw-targets-30-wage-bump-to-satisfy-workers-woo-new-members).
+You can read more about it [here](https://www.dexerto.com/counter-strike-2/csgo-vets-slam-counter-strike-2s-underwhelming-launch-2314507/).
 
 ## Requirements
 - Python 3.8
