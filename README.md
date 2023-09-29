@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695971187)
+![Generated GIF](output.gif?raw=true&v=1695972913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ronald Acuña Jr. becomes 1st MLB player to join 40-70 club, then scores to clinch NL's top seed for Braves**
+**Woj on how Damian Lillard ended up with the Milwaukee Bucks | SportsCenter**
 
-You can read more about it [here](https://sports.yahoo.com/ronald-acuna-jr-becomes-1st-mlb-player-to-join-40-70-club-then-scores-to-clinch-nls-top-seed-for-braves-024821684.html).
+You can read more about it [here](https://www.youtube.com/watch?v=0FAHMt-xXE0).
 
 ## Requirements
 - Python 3.8
