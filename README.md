@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695980243)
+![Generated GIF](output.gif?raw=true&v=1695982079)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Evergrande Shares Suspended After Reports of Founder's Disappearance**
+**Colorado Mom Suzanne Morphew's Remains Found 3 Years After She Vanished**
 
-You can read more about it [here](https://www.wsj.com/world/china/china-evergrande-shares-suspended-after-reports-of-founders-disappearance-3e5f4f8).
+You can read more about it [here](https://www.thedailybeast.com/suzanne-morphews-remains-found-three-years-after-she-vanished-in-colorado).
 
 ## Requirements
 - Python 3.8
