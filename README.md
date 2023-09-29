@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695969316)
+![Generated GIF](output.gif?raw=true&v=1695971187)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA and AMPTP to Resume Strike Negotiations on Monday**
+**Ronald Acuña Jr. becomes 1st MLB player to join 40-70 club, then scores to clinch NL's top seed for Braves**
 
-You can read more about it [here](https://variety.com/2023/film/news/sag-aftra-amptp-resume-strike-negotiations-1235737724/).
+You can read more about it [here](https://sports.yahoo.com/ronald-acuna-jr-becomes-1st-mlb-player-to-join-40-70-club-then-scores-to-clinch-nls-top-seed-for-braves-024821684.html).
 
 ## Requirements
 - Python 3.8
