@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695951235)
+![Generated GIF](output.gif?raw=true&v=1695953806)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Rabid Otter in Florida Went on a Rampage Last Week, Attacking a Man and a Dog**
+**Republicans face growing urgency to stop Trump as they enter the second presidential debate**
 
-You can read more about it [here](https://gizmodo.com/a-rabid-otter-in-florida-went-on-a-rampage-1850879701).
+You can read more about it [here](https://apnews.com/article/republican-second-presidential-debate-2024-46ce9209b5150d577d5ff361522f6bed).
 
 ## Requirements
 - Python 3.8
