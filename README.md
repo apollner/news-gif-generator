@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695953806)
+![Generated GIF](output.gif?raw=true&v=1695954866)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans face growing urgency to stop Trump as they enter the second presidential debate**
+**‘Dwarf’-like forest creature found inside hotel in Burundi turns out to be new species**
 
-You can read more about it [here](https://apnews.com/article/republican-second-presidential-debate-2024-46ce9209b5150d577d5ff361522f6bed).
+You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/article279833874.html).
 
 ## Requirements
 - Python 3.8
