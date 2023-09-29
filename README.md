@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696008890)
+![Generated GIF](output.gif?raw=true&v=1696010997)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon & Google Antitrust Cases Highlight “Newfound Vigor” to Fight Monopolies**
+**China Evergrande Says Chairman Hui Ka Yan Is Suspected of Crimes**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KI6plfbROd8).
+You can read more about it [here](https://www.wsj.com/world/china/china-evergrande-shares-suspended-after-reports-of-founders-disappearance-3e5f4f8).
 
 ## Requirements
 - Python 3.8
