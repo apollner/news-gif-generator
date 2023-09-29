@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696005471)
+![Generated GIF](output.gif?raw=true&v=1696007149)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Takeaways from the second Republican presidential debate**
+**LaGuardia Airport, Arthur Ashe Stadium cited as sinking 'hotspots' in NYC, study finds**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://abc7ny.com/new-york-city-sinking-nyc-flooding-queens/13837922/).
 
 ## Requirements
 - Python 3.8
