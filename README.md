@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696023218)
+![Generated GIF](output.gif?raw=true&v=1696025135)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Appeals court will not delay Donald Trump civil fraud trial**
+**US government shutdown: Kevin McCarthy scrambling for last-minute deal**
 
-You can read more about it [here](https://www.reuters.com/legal/appeals-court-will-not-delay-donald-trump-civil-fraud-trial-2023-09-28/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66947095).
 
 ## Requirements
 - Python 3.8
