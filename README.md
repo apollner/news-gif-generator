@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696014289)
+![Generated GIF](output.gif?raw=true&v=1696016088)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Senate, House hold procedural votes as partial government shutdown looms**
+**SARS-CoV-2 infects coronary arteries, increases plaque inflammation**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-house-hold-procedural-votes-partial-government-shutdown-looms-2023-09-28/).
+You can read more about it [here](https://www.nih.gov/news-events/news-releases/sars-cov-2-infects-coronary-arteries-increases-plaque-inflammation).
 
 ## Requirements
 - Python 3.8
