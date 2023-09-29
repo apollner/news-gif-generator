@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696001751)
+![Generated GIF](output.gif?raw=true&v=1696003837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Takeaways from the second Republican presidential debate**
+**September’s full harvest moon is the last supermoon of the year**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/28/world/harvest-supermoon-full-moon-september-scn/index.html).
 
 ## Requirements
 - Python 3.8
