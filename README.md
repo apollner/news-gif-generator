@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695993018)
+![Generated GIF](output.gif?raw=true&v=1695994420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'As bad as it gets': Donald Trump's New York business empire imperilled by fraud ruling**
+**Suspect arrested in murder of Baltimore tech CEO Pava LaPere**
 
-You can read more about it [here](https://www.ft.com/content/053376ef-9050-43a7-aa0c-195bcee478eb).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/baltimore-police-say-plan-announce-arrest-suspect-killing-tech-ceo-pav-rcna117773).
 
 ## Requirements
 - Python 3.8
