@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695983722)
+![Generated GIF](output.gif?raw=true&v=1695985515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Survivor’ Season 45 Launches With Bruce’s Surprisingly Controversial Return and a Shocking First Tribal**
+**Jrue Holiday to Warriors? Windhorst speculates next trade partner**
 
-You can read more about it [here](https://variety.com/2023/tv/news/survivor-premiere-recap-emily-bruce-hannah-quits-1235736369/).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/jrue-holiday-trail-blazers-trade/1658233/).
 
 ## Requirements
 - Python 3.8
