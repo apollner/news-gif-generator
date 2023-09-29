@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696010997)
+![Generated GIF](output.gif?raw=true&v=1696012493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Evergrande Says Chairman Hui Ka Yan Is Suspected of Crimes**
+**Fortnite maker Epic Games is laying off 16% of its workforce**
 
-You can read more about it [here](https://www.wsj.com/world/china/china-evergrande-shares-suspended-after-reports-of-founders-disappearance-3e5f4f8).
+You can read more about it [here](https://techcrunch.com/2023/09/28/fortnite-maker-epic-games-is-laying-off-16-of-its-workforce/).
 
 ## Requirements
 - Python 3.8
