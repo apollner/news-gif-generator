@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695985515)
+![Generated GIF](output.gif?raw=true&v=1695987228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jrue Holiday to Warriors? Windhorst speculates next trade partner**
+**Super Harvest Full Moon to shine down on DC area Thursday and Friday**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/jrue-holiday-trail-blazers-trade/1658233/).
+You can read more about it [here](https://wtop.com/the-space-place/2023/09/super-harvest-full-moon-to-shine-down-on-dc-area-thursday-and-friday/).
 
 ## Requirements
 - Python 3.8
