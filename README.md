@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696021602)
+![Generated GIF](output.gif?raw=true&v=1696023218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lina Khan Once Went Big Against Amazon. As FTC Chair, She Changed Tack.**
+**Appeals court will not delay Donald Trump civil fraud trial**
 
-You can read more about it [here](https://www.wsj.com/tech/in-suing-amazon-ftcs-lina-khan-turns-her-earlier-pricing-argument-on-its-head-e45b91e9).
+You can read more about it [here](https://www.reuters.com/legal/appeals-court-will-not-delay-donald-trump-civil-fraud-trial-2023-09-28/).
 
 ## Requirements
 - Python 3.8
