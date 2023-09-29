@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696026819)
+![Generated GIF](output.gif?raw=true&v=1696028748)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Americans are sick of vaccination amid flu season, COVID boosters: data**
+**Tensions erupt between McCarthy and Gaetz at closed-door House GOP meeting as shutdown nears**
 
-You can read more about it [here](https://nypost.com/2023/09/28/americans-are-sick-of-vaccination-amid-flu-season-covid-boosters-data/).
+You can read more about it [here](https://www.cnn.com/2023/09/28/politics/shutdown-latest-government-funding/index.html).
 
 ## Requirements
 - Python 3.8
