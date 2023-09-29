@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1695972913)
+![Generated GIF](output.gif?raw=true&v=1695975031)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woj on how Damian Lillard ended up with the Milwaukee Bucks | SportsCenter**
+**Haley slams Ramaswamy: 'Every time I hear you, I feel a little bit dumber'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0FAHMt-xXE0).
+You can read more about it [here](https://www.politico.com/news/2023/09/27/haley-slams-ramaswamy-tiktok-00118617).
 
 ## Requirements
 - Python 3.8
