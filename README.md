@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696068394)
+![Generated GIF](output.gif?raw=true&v=1696070002)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Evergrande sold yacht this year, say sources, as creditors sharpen focus on offshore assets**
+**Orioles agree to 30-year lease extension at Camden Yards**
 
-You can read more about it [here](https://www.reuters.com/world/china/evergrande-sold-yacht-this-year-say-sources-creditors-sharpen-focus-offshore-2023-09-29/).
+You can read more about it [here](https://www.wbaltv.com/article/orioles-agree-30-year-lease-extension-camden-yards/45365272).
 
 ## Requirements
 - Python 3.8
