@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696064732)
+![Generated GIF](output.gif?raw=true&v=1696066434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rotterdam, Netherlands shootings: 2 killed - Baltimore**
+**US government shutdown: Kevin McCarthy scrambling for last-minute deal**
 
-You can read more about it [here](https://www.wbaltv.com/article/rotterdam-netherlands-shootings/45359849).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66947095).
 
 ## Requirements
 - Python 3.8
