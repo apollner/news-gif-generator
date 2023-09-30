@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696093475)
+![Generated GIF](output.gif?raw=true&v=1696095228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW set to expand strike on Detroit 3 US automakers - UAW**
+**Is NYC sinking? Yes, NASA scientists find most parts submerging**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/strikes-could-idle-more-detroit-three-auto-plants-friday-2023-09-29/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/29/nyc-sinking-nasa-study/71000769007/).
 
 ## Requirements
 - Python 3.8
