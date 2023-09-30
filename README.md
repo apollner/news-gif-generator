@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696048426)
+![Generated GIF](output.gif?raw=true&v=1696050340)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**1 injured in shooting at protest regarding Onate statue in Rio Arriba County**
+**Second GOP debate ratings: Viewership drops by more than 25 percent**
 
-You can read more about it [here](https://www.koat.com/article/onate-statue-rio-arriba-county-espanola-shooting/45362174).
+You can read more about it [here](https://www.politico.com/news/2023/09/28/viewership-second-republican-presidential-primary-debate-00118960).
 
 ## Requirements
 - Python 3.8
