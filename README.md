@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696080849)
+![Generated GIF](output.gif?raw=true&v=1696082675)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House passes first GOP spending bills in months as shutdown nears**
+**These Iowa and New Hampshire voters don’t see much changing after the second GOP debate**
 
-You can read more about it [here](https://www.axios.com/2023/09/29/government-shutdown-house-spending-bill-mccarthy).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/second-gop-debate-reaction-iowa-new-hampshire-voters/index.html).
 
 ## Requirements
 - Python 3.8
