@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696070002)
+![Generated GIF](output.gif?raw=true&v=1696071893)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orioles agree to 30-year lease extension at Camden Yards**
+**Lions beat Packers on TNF, take early control of NFC North - ESPN**
 
-You can read more about it [here](https://www.wbaltv.com/article/orioles-agree-30-year-lease-extension-camden-yards/45365272).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38514304/lions-beat-packers-thursday-night-football-nfc-north).
 
 ## Requirements
 - Python 3.8
