@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696095228)
+![Generated GIF](output.gif?raw=true&v=1696097357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Is NYC sinking? Yes, NASA scientists find most parts submerging**
+**Analogue's limited edition Pockets are delightful and frustrating**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/29/nyc-sinking-nasa-study/71000769007/).
+You can read more about it [here](https://www.engadget.com/analogues-limited-edition-pockets-are-delightful-and-frustrating-140012471.html).
 
 ## Requirements
 - Python 3.8
