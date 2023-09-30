@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696040418)
+![Generated GIF](output.gif?raw=true&v=1696041222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Report: Jerami Grant Could Join Jrue Holiday on Trading Block**
+**Country Icon Recipient Toby Keith Shares Update on Cancer Battle**
 
-You can read more about it [here](https://www.blazersedge.com/2023/9/28/23894634/portland-trail-blazers-trade-rumors-jerami-grant-hoopshype-scotto-jrue-holiday-nba).
+You can read more about it [here](https://www.eonline.com/news/1386704/peoples-choice-country-awards-icon-recipient-toby-keith-shares-update-on-stomach-cancer-battle).
 
 ## Requirements
 - Python 3.8
