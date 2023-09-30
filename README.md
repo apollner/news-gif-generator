@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696073748)
+![Generated GIF](output.gif?raw=true&v=1696075968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nearly 40 lbs. of fentanyl found blocks away from NYC day care where infant died**
+**House expected to take up GOP stopgap bill but Congress still on track for a shutdown**
 
-You can read more about it [here](https://www.foxnews.com/us/nearly-40-lbs-fentanyl-found-blocks-away-from-nyc-day-care-where-infant-died).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/kevin-mccarthy-shutdown-latest/index.html).
 
 ## Requirements
 - Python 3.8
