@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696033771)
+![Generated GIF](output.gif?raw=true&v=1696039436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Automakers grow frustrated over pace of UAW negotiations as new deadline looms**
+**Heinz Honors Taylor Swift With ‘Ketchup and Seemingly Ranch’ Condiment**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/28/uaw-negotiations-automakers-grow-frustrated-as-new-deadline-looms.html).
+You can read more about it [here](https://www.today.com/food/news/taylor-swift-seemingly-ranch-heinz-rcna117724).
 
 ## Requirements
 - Python 3.8
