@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696100697)
+![Generated GIF](output.gif?raw=true&v=1696102505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Reportedly Considered Buying Bing From Microsoft**
+**Tupac Shakur: Man arrested in connection with rapper's murder in 1996**
 
-You can read more about it [here](https://gizmodo.com/apple-discussed-buying-bing-from-microsoft-default-1850885957).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66965766).
 
 ## Requirements
 - Python 3.8
