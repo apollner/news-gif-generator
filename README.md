@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696106056)
+![Generated GIF](output.gif?raw=true&v=1696107987)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**September’s full harvest moon is the last supermoon of the year**
+**These 6,000-year-old sandals found in a Spanish cave are Europe’s oldest shoes**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/world/harvest-supermoon-full-moon-september-scn/index.html).
+You can read more about it [here](https://www.cnn.com/style/article/6000-year-old-woven-sandals-spain-intl-scli-scn/index.html).
 
 ## Requirements
 - Python 3.8
