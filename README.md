@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696057587)
+![Generated GIF](output.gif?raw=true&v=1696059225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Second GOP debate ratings: Viewership drops by more than 25 percent**
+**Ukraine war: Slovakia's Robert Fico eyes comeback in Saturday's election**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/28/viewership-second-republican-presidential-primary-debate-00118960).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66938694).
 
 ## Requirements
 - Python 3.8
