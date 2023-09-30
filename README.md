@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696071893)
+![Generated GIF](output.gif?raw=true&v=1696073748)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lions beat Packers on TNF, take early control of NFC North - ESPN**
+**Nearly 40 lbs. of fentanyl found blocks away from NYC day care where infant died**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38514304/lions-beat-packers-thursday-night-football-nfc-north).
+You can read more about it [here](https://www.foxnews.com/us/nearly-40-lbs-fentanyl-found-blocks-away-from-nyc-day-care-where-infant-died).
 
 ## Requirements
 - Python 3.8
