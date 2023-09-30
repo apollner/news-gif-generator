@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696113219)
+![Generated GIF](output.gif?raw=true&v=1696115125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Now you can water-cool your PS5, too**
+**New details emerge about the slaying of beloved Baltimore tech CEO and the suspect in her killing**
 
-You can read more about it [here](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x).
+You can read more about it [here](https://www.cnn.com/2023/09/29/us/baltimore-tech-ceo-killing-pava-lapere-friday/index.html).
 
 ## Requirements
 - Python 3.8
