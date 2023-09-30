@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696097357)
+![Generated GIF](output.gif?raw=true&v=1696098811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Analogue's limited edition Pockets are delightful and frustrating**
+**Elon Musk wades into US immigration debate at Texas-Mexico border**
 
-You can read more about it [here](https://www.engadget.com/analogues-limited-edition-pockets-are-delightful-and-frustrating-140012471.html).
+You can read more about it [here](https://www.reuters.com/world/us/elon-musk-wades-into-us-immigration-debate-texas-mexico-border-2023-09-29/).
 
 ## Requirements
 - Python 3.8
