@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696082675)
+![Generated GIF](output.gif?raw=true&v=1696084563)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These Iowa and New Hampshire voters don’t see much changing after the second GOP debate**
+**Apple iOS Update to Fix iPhone 12 Radiation Levels Approved by French Regulators**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/politics/second-gop-debate-reaction-iowa-new-hampshire-voters/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/09/29/apple-software-update-approved-iphone-12-france/).
 
 ## Requirements
 - Python 3.8
