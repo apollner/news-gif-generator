@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696046947)
+![Generated GIF](output.gif?raw=true&v=1696048426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orioles clinch AL East title with 100th win of season - ESPN**
+**1 injured in shooting at protest regarding Onate statue in Rio Arriba County**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38515760/orioles-clinch-al-east-title-100th-win-season).
+You can read more about it [here](https://www.koat.com/article/onate-statue-rio-arriba-county-espanola-shooting/45362174).
 
 ## Requirements
 - Python 3.8
