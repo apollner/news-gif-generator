@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696044819)
+![Generated GIF](output.gif?raw=true&v=1696046947)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Did You Write That Spec Script? Writers Detail How They Stayed Creative During WGA Strike**
+**Orioles clinch AL East title with 100th win of season - ESPN**
 
-You can read more about it [here](https://variety.com/2023/tv/news/writers-strike-tv-pilot-movie-spec-scripts-1235738842/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38515760/orioles-clinch-al-east-title-100th-win-season).
 
 ## Requirements
 - Python 3.8
