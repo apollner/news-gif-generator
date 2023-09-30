@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696102505)
+![Generated GIF](output.gif?raw=true&v=1696104438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tupac Shakur: Man arrested in connection with rapper's murder in 1996**
+**Government Shutdown Will Close America's National Parks, Impede Visitor Access**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66965766).
+You can read more about it [here](http://www.doi.gov/pressreleases/government-shutdown-will-close-americas-national-parks-impede-visitor-access).
 
 ## Requirements
 - Python 3.8
