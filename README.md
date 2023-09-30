@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696111572)
+![Generated GIF](output.gif?raw=true&v=1696113219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL DFS, Week 4: Top DraftKings, FanDuel Fantasy football picks include Tyreek Hill, Zack Moss**
+**Now you can water-cool your PS5, too**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-dfs-week-4-top-draftkings-fanduel-fantasy-football-picks-include-tyreek-hill-zack-moss/).
+You can read more about it [here](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x).
 
 ## Requirements
 - Python 3.8
