@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696039436)
+![Generated GIF](output.gif?raw=true&v=1696040418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heinz Honors Taylor Swift With ‘Ketchup and Seemingly Ranch’ Condiment**
+**Report: Jerami Grant Could Join Jrue Holiday on Trading Block**
 
-You can read more about it [here](https://www.today.com/food/news/taylor-swift-seemingly-ranch-heinz-rcna117724).
+You can read more about it [here](https://www.blazersedge.com/2023/9/28/23894634/portland-trail-blazers-trade-rumors-jerami-grant-hoopshype-scotto-jrue-holiday-nba).
 
 ## Requirements
 - Python 3.8
