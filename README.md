@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696107987)
+![Generated GIF](output.gif?raw=true&v=1696109632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These 6,000-year-old sandals found in a Spanish cave are Europe’s oldest shoes**
+**S&P 500 falls after inflation data as weak quarter nears end**
 
-You can read more about it [here](https://www.cnn.com/style/article/6000-year-old-woven-sandals-spain-intl-scli-scn/index.html).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-climb-treasury-yields-ease-ahead-key-inflation-data-2023-09-29/).
 
 ## Requirements
 - Python 3.8
