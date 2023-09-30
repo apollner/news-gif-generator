@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696066434)
+![Generated GIF](output.gif?raw=true&v=1696068394)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US government shutdown: Kevin McCarthy scrambling for last-minute deal**
+**Evergrande sold yacht this year, say sources, as creditors sharpen focus on offshore assets**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66947095).
+You can read more about it [here](https://www.reuters.com/world/china/evergrande-sold-yacht-this-year-say-sources-creditors-sharpen-focus-offshore-2023-09-29/).
 
 ## Requirements
 - Python 3.8
