@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696050340)
+![Generated GIF](output.gif?raw=true&v=1696052023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Second GOP debate ratings: Viewership drops by more than 25 percent**
+**‘The Kardashians’ EP on Kim and Kourtney’s ‘Fiery’ Fight, If Timothée Chalamet Has Filmed and Whether Kourtney Will Give Birth (Again) On-Screen**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/28/viewership-second-republican-presidential-primary-debate-00118960).
+You can read more about it [here](https://variety.com/2023/tv/news/the-kardashians-season-4-teasers-kim-kourtney-fight-1235738090/).
 
 ## Requirements
 - Python 3.8
