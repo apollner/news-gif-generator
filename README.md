@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696115125)
+![Generated GIF](output.gif?raw=true&v=1696116824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New details emerge about the slaying of beloved Baltimore tech CEO and the suspect in her killing**
+**Bay Area Subway franchisee fined $1 million, ordered to sell businesses**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/us/baltimore-tech-ceo-killing-pava-lapere-friday/index.html).
+You can read more about it [here](https://www.pressdemocrat.com/article/news/subway-franchisee-in-bay-area-fined-1-million-ordered-to-sell-businesses/).
 
 ## Requirements
 - Python 3.8
