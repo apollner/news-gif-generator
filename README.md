@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696109632)
+![Generated GIF](output.gif?raw=true&v=1696111572)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 falls after inflation data as weak quarter nears end**
+**NFL DFS, Week 4: Top DraftKings, FanDuel Fantasy football picks include Tyreek Hill, Zack Moss**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-climb-treasury-yields-ease-ahead-key-inflation-data-2023-09-29/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-dfs-week-4-top-draftkings-fanduel-fantasy-football-picks-include-tyreek-hill-zack-moss/).
 
 ## Requirements
 - Python 3.8
