@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696079200)
+![Generated GIF](output.gif?raw=true&v=1696080849)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Donald Trump tells judge he will not try to move his Georgia election subversion case to federal court**
+**House passes first GOP spending bills in months as shutdown nears**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/politics/trump-georgia-election-subversion-federal-court/index.html).
+You can read more about it [here](https://www.axios.com/2023/09/29/government-shutdown-house-spending-bill-mccarthy).
 
 ## Requirements
 - Python 3.8
