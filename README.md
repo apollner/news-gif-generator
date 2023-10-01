@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696152817)
+![Generated GIF](output.gif?raw=true&v=1696154738)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dianne Feinstein, California senator who broke glass ceilings, dies at 90**
+**‘Basic framework’ in place for Israel-Saudi normalization, US says**
 
-You can read more about it [here](https://www.cbsnews.com/news/dianne-feinstein-california-senator-who-broke-glass-ceilings-dies-at-90/).
+You can read more about it [here](https://www.timesofisrael.com/basic-framework-in-place-for-israel-saudi-normalization-us-says/).
 
 ## Requirements
 - Python 3.8
