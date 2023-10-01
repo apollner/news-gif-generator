@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696180024)
+![Generated GIF](output.gif?raw=true&v=1696181611)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce's ex calls him a 'narcissist' and questions Taylor Swift**
+**Google is betting bigger than ever on AI to sell the Pixel 8**
 
-You can read more about it [here](https://www.insider.com/travis-kelce-ex-calls-him-narcissist-questions-taylor-swift-2023-9).
+You can read more about it [here](https://9to5google.com/2023/09/30/google-pixel-8-ai-leaked-ad/).
 
 ## Requirements
 - Python 3.8
