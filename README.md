@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696125255)
+![Generated GIF](output.gif?raw=true&v=1696126957)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Court orders Subway franchise owners to pay workers nearly $1M - and to sell or close their stores**
+**New York City: State of emergency declared over flash flooding**
 
-You can read more about it [here](https://news.yahoo.com/subway-franchise-owners-must-pay-221916422.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66965396).
 
 ## Requirements
 - Python 3.8
