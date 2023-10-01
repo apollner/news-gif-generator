@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696134825)
+![Generated GIF](output.gif?raw=true&v=1696136774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IRS consultant charged with disclosing tax returns of Trump and nation's 'wealthiest individuals' to media**
+**Taylor Swift-Travis Kelce romance: Pop star set to attend Jets vs. Chiefs on Sunday night, per report**
 
-You can read more about it [here](https://www.foxnews.com/us/irs-consultant-charged-tax-return-information-trump-nations-wealthiest-individuals-news-media).
+You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-travis-kelce-romance-pop-star-set-to-attend-jets-vs-chiefs-on-sunday-night-per-report/).
 
 ## Requirements
 - Python 3.8
