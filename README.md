@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696131250)
+![Generated GIF](output.gif?raw=true&v=1696133351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navy plans to test special forces for steroids**
+**iPhone 15 Pro Max loses to Samsung Galaxy S23 Ultra in drop test**
 
-You can read more about it [here](https://thehill.com/policy/defense/4230263-navy-plans-to-test-special-forces-for-steroids/).
+You can read more about it [here](https://9to5mac.com/2023/09/29/iphone-15-pro-max-loses-samsung-galaxy-s23-drop-test/).
 
 ## Requirements
 - Python 3.8
