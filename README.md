@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696190766)
+![Generated GIF](output.gif?raw=true&v=1696192484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**It's official: No more free Windows 10 upgrades**
+**Pope Francis cements legacy, stamps Church future with new cardinals**
 
-You can read more about it [here](https://www.zdnet.com/article/its-official-no-more-free-windows-10-upgrades/).
+You can read more about it [here](https://www.reuters.com/world/europe/pope-francis-cements-legacy-stamps-church-future-with-new-cardinals-2023-09-30/).
 
 ## Requirements
 - Python 3.8
