@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696116824)
+![Generated GIF](output.gif?raw=true&v=1696120485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bay Area Subway franchisee fined $1 million, ordered to sell businesses**
+**“Holy Smokes!” - Rich Eisen Reacts to the Lions’ Impressive TNF Win over NFC North Rival Packers**
 
-You can read more about it [here](https://www.pressdemocrat.com/article/news/subway-franchisee-in-bay-area-fined-1-million-ordered-to-sell-businesses/).
+You can read more about it [here](https://www.youtube.com/watch?v=8HTna3UXMwc).
 
 ## Requirements
 - Python 3.8
