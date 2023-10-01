@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696197897)
+![Generated GIF](output.gif?raw=true&v=1696199641)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Serbia will not send military forces into Kosovo, Vučić insists**
+**Teutopolis, Illinois, evacuations: 5 dead after crash, ammonia leak**
 
-You can read more about it [here](https://www.ft.com/content/92e0416b-046a-47dd-a785-07091e63277a).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/30/teutopolis-illinois-evacuations-deadly-truck-crash-ammonia-leak/71016386007/).
 
 ## Requirements
 - Python 3.8
