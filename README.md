@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696192484)
+![Generated GIF](output.gif?raw=true&v=1696194284)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis cements legacy, stamps Church future with new cardinals**
+**Watch live: Jeffries speaks after House passes stopgap funding measure**
 
-You can read more about it [here](https://www.reuters.com/world/europe/pope-francis-cements-legacy-stamps-church-future-with-new-cardinals-2023-09-30/).
+You can read more about it [here](https://thehill.com/homenews/4232033-watch-live-jeffries-speaks-after-house-passes-stopgap-funding-measure/).
 
 ## Requirements
 - Python 3.8
