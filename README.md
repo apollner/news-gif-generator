@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696185367)
+![Generated GIF](output.gif?raw=true&v=1696187098)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With Kremlin apologist leading the polls, Slovakia vote threatens country’s support for Ukraine**
+**‘PAW Patrol 2’ Bites ‘Saw X’ & ‘The Creator’ At Box Office – Saturday AM Update**
 
-You can read more about it [here](https://www.cnn.com/2023/09/30/europe/slovakia-parliament-election-intl/index.html).
+You can read more about it [here](https://deadline.com/2023/09/box-office-the-creator-saw-x-paw-patrol-the-might-movie-1235559753/).
 
 ## Requirements
 - Python 3.8
