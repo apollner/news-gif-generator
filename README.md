@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696138547)
+![Generated GIF](output.gif?raw=true&v=1696140585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What was the longest government shutdown in U.S. history?**
+**Natalie Portman Sex Soap Opera ‘May December’ Opens New York Film Festival as Epic Rainstorm Drenches the City**
 
-You can read more about it [here](https://www.cbsnews.com/news/longest-government-shutdown-us-history/).
+You can read more about it [here](https://variety.com/2023/film/news/may-december-nyff-opening-night-flood-1235740658/).
 
 ## Requirements
 - Python 3.8
