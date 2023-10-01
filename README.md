@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696145634)
+![Generated GIF](output.gif?raw=true&v=1696147921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump plans to attend opening days of his New York fraud trial**
+**WHO says flu vaccines should ditch strain that vanished during COVID**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-plans-attend-opening-days-new-york-fraud-trial-rcna118176).
+You can read more about it [here](https://arstechnica.com/health/2023/09/who-says-flu-vaccines-should-ditch-strain-that-vanished-during-covid/).
 
 ## Requirements
 - Python 3.8
