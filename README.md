@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696167231)
+![Generated GIF](output.gif?raw=true&v=1696169114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPDATE: At least five dead after crash, ammonia leak in Effingham County**
+**Donald Trump expects to attend start of New York civil trial Monday**
 
-You can read more about it [here](https://www.wcia.com/news/ammonia-leak-forces-evacuation-closes-route-40-in-effingham-county/).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-attending-new-york-civil-fraud-trial/).
 
 ## Requirements
 - Python 3.8
