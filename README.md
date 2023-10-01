@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696172741)
+![Generated GIF](output.gif?raw=true&v=1696174420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stewie is back, Aces advance: Biggest takeaways from the WNBA semifinals - ESPN**
+**With Kremlin apologist leading the polls, Slovakia vote threatens country’s support for Ukraine**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/38523065/wnba-playoffs-2023-new-york-liberty-las-vegas-aces-win).
+You can read more about it [here](https://www.cnn.com/2023/09/30/europe/slovakia-parliament-election-intl/index.html).
 
 ## Requirements
 - Python 3.8
