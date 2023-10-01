@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696147921)
+![Generated GIF](output.gif?raw=true&v=1696149219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WHO says flu vaccines should ditch strain that vanished during COVID**
+**Gaetz war against McCarthy could leave Dems playing kingmaker**
 
-You can read more about it [here](https://arstechnica.com/health/2023/09/who-says-flu-vaccines-should-ditch-strain-that-vanished-during-covid/).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/democrats-matt-gaetz-mccarthy-speakership/index.html).
 
 ## Requirements
 - Python 3.8
