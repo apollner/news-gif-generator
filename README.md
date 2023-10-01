@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696154738)
+![Generated GIF](output.gif?raw=true&v=1696156426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Basic framework’ in place for Israel-Saudi normalization, US says**
+**Scott Hall, Trump ally indicted in Georgia election case, pleads guilty**
 
-You can read more about it [here](https://www.timesofisrael.com/basic-framework-in-place-for-israel-saudi-normalization-us-says/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/29/scott-hall-trump-ally-indicted-in-georgia-election-case-pleads-guilty).
 
 ## Requirements
 - Python 3.8
