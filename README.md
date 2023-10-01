@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696178116)
+![Generated GIF](output.gif?raw=true&v=1696180024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Housing Market Is Starting to Flash Some Hope for Homebuyers**
+**Travis Kelce's ex calls him a 'narcissist' and questions Taylor Swift**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/us-housing-market-homebuyers-home-prices-inventory-sellers-asking-rates-2023-9).
+You can read more about it [here](https://www.insider.com/travis-kelce-ex-calls-him-narcissist-questions-taylor-swift-2023-9).
 
 ## Requirements
 - Python 3.8
