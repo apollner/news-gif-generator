@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696164378)
+![Generated GIF](output.gif?raw=true&v=1696165623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Government shutdown would have significant impact on Triangle**
+**MotoGP™ Q2: Motul Grand Prix of Japan**
 
-You can read more about it [here](https://www.wral.com/story/government-shutdown-would-have-significant-impact-on-triangle/21074256/).
+You can read more about it [here](https://www.motogp.com/en/videos/2023/09/30/motogp-q2-motul-grand-prix-of-japan/479217).
 
 ## Requirements
 - Python 3.8
