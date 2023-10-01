@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696158275)
+![Generated GIF](output.gif?raw=true&v=1696160035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Galaxy S24 Leak Shows 360-Degree View of New Flat-Edge Design**
+**Government shutdown would have significant impact on Triangle**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-leak-shows-360-degree-view-of-new-flat-edge-design/).
+You can read more about it [here](https://www.wral.com/story/government-shutdown-would-have-significant-impact-on-triangle/21074256/).
 
 ## Requirements
 - Python 3.8
