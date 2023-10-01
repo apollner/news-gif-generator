@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696176422)
+![Generated GIF](output.gif?raw=true&v=1696178116)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 5**
+**US Housing Market Is Starting to Flash Some Hope for Homebuyers**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-5/).
+You can read more about it [here](https://markets.businessinsider.com/news/stocks/us-housing-market-homebuyers-home-prices-inventory-sellers-asking-rates-2023-9).
 
 ## Requirements
 - Python 3.8
