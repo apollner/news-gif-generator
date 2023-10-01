@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696129688)
+![Generated GIF](output.gif?raw=true&v=1696131250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump ally Scott Hall agrees to plea deal in Georgia elections case**
+**Navy plans to test special forces for steroids**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-ally-scott-hall-agrees-plea-deal-georgia-elections-case-2023-09-29/).
+You can read more about it [here](https://thehill.com/policy/defense/4230263-navy-plans-to-test-special-forces-for-steroids/).
 
 ## Requirements
 - Python 3.8
