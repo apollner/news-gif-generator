@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696136774)
+![Generated GIF](output.gif?raw=true&v=1696138547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift-Travis Kelce romance: Pop star set to attend Jets vs. Chiefs on Sunday night, per report**
+**What was the longest government shutdown in U.S. history?**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/taylor-swift-travis-kelce-romance-pop-star-set-to-attend-jets-vs-chiefs-on-sunday-night-per-report/).
+You can read more about it [here](https://www.cbsnews.com/news/longest-government-shutdown-us-history/).
 
 ## Requirements
 - Python 3.8
