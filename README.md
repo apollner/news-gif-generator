@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696183820)
+![Generated GIF](output.gif?raw=true&v=1696185367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Housing Market Is Starting to Flash Some Hope for Homebuyers**
+**With Kremlin apologist leading the polls, Slovakia vote threatens country’s support for Ukraine**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/us-housing-market-homebuyers-home-prices-inventory-sellers-asking-rates-2023-9).
+You can read more about it [here](https://www.cnn.com/2023/09/30/europe/slovakia-parliament-election-intl/index.html).
 
 ## Requirements
 - Python 3.8
