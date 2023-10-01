@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696170820)
+![Generated GIF](output.gif?raw=true&v=1696172741)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPDATE: At least five dead after crash, ammonia leak in Effingham County**
+**Stewie is back, Aces advance: Biggest takeaways from the WNBA semifinals - ESPN**
 
-You can read more about it [here](https://www.wcia.com/news/ammonia-leak-forces-evacuation-closes-route-40-in-effingham-county/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/38523065/wnba-playoffs-2023-new-york-liberty-las-vegas-aces-win).
 
 ## Requirements
 - Python 3.8
