@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696251046)
+![Generated GIF](output.gif?raw=true&v=1696252355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 4 storylines to watch: Who wins Dolphins-Bills and other big divisional battles?**
+**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents**
 
-You can read more about it [here](https://theathletic.com/4905838/2023/10/01/nfl-week-4-previews-matchups-storylines/).
+You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
 
 ## Requirements
 - Python 3.8
