@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696286139)
+![Generated GIF](output.gif?raw=true&v=1696287975)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID vaccine poll finds more than half of adults are likely to say 'no thanks' to the vax**
+**Turkey strikes suspected Kurdish militant targets in northern Iraq after suicide attack in Ankara**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-vaccine-poll-finds-more-than-half-adults-likely-say-no-thanks-vax).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/turkish-media-report-explosion-heard-ankara-day-parliament-103634782).
 
 ## Requirements
 - Python 3.8
