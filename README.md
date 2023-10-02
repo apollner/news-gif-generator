@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696216160)
+![Generated GIF](output.gif?raw=true&v=1696217631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The best of Ken Jeong on College GameDay at Duke University 👀**
+**Duane "Keffe D" Davis indicted in Tupac Shakur's 1996 murder**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6Biq6QQ2-GM).
+You can read more about it [here](https://www.cbsnews.com/video/duane-keffe-d-davis-indicted-in-tupac-shakurs-1996-murder/).
 
 ## Requirements
 - Python 3.8
