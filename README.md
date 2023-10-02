@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696257272)
+![Generated GIF](output.gif?raw=true&v=1696259271)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Carter celebrating 99th birthday with family**
+**Polish opposition holds massive Warsaw rally ahead of tight election**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/01/jimmy-carter-celebrating-99th-birthday-with-family-00119314).
+You can read more about it [here](https://www.reuters.com/world/europe/thousands-gather-warsaw-opposition-rally-ahead-tight-election-2023-10-01/).
 
 ## Requirements
 - Python 3.8
