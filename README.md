@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696262993)
+![Generated GIF](output.gif?raw=true&v=1696264676)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A new leaked Google ad shows more Pixel 8 and Pixel 8 Pro AI photo editing**
+**Notre Dame football’s ‘sweet victory’ at Duke keeps Irish’s season in play for something bigger**
 
-You can read more about it [here](https://www.theverge.com/2023/10/1/23898128/google-pixel-8-ad-leak-ai-photo-editing-best-take-phone-cases).
+You can read more about it [here](https://theathletic.com/4917296/2023/10/01/notre-dame-duke-analysis/).
 
 ## Requirements
 - Python 3.8
