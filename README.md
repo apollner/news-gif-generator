@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696239229)
+![Generated GIF](output.gif?raw=true&v=1696241308)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Ryder Cup schedule, tee times: Jon Rahm vs. Scottie Scheffler highlights Sunday singles matches**
+**A former "Family Feud" contestant convicted of wife's murder speaks out: "I'm innocent. I didn't kill Becky."**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2023-ryder-cup-schedule-tee-times-jon-rahm-vs-scottie-scheffler-highlights-sunday-singles-matches/).
+You can read more about it [here](https://www.cbsnews.com/news/becky-bliefnick-murder-tim-bliefnick-former-family-feud-contestant-im-innocent-48-hours/).
 
 ## Requirements
 - Python 3.8
