@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696248807)
+![Generated GIF](output.gif?raw=true&v=1696251046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stellantis COLA offer to UAW saved itself from more strike action**
+**NFL Week 4 storylines to watch: Who wins Dolphins-Bills and other big divisional battles?**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/2023/10/01/uaw-strike-contract-bargaining-stellantis-jobs/71004764007/).
+You can read more about it [here](https://theathletic.com/4905838/2023/10/01/nfl-week-4-previews-matchups-storylines/).
 
 ## Requirements
 - Python 3.8
