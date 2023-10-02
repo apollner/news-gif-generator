@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696259271)
+![Generated GIF](output.gif?raw=true&v=1696260831)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Polish opposition holds massive Warsaw rally ahead of tight election**
+**2 children among 5 killed when semi-truck carrying ammonia overturns on Illinois highway**
 
-You can read more about it [here](https://www.reuters.com/world/europe/thousands-gather-warsaw-opposition-rally-ahead-tight-election-2023-10-01/).
+You can read more about it [here](https://abcnews.go.com/US/illinois-semi-truck-crash-toxic-ammonia-spill/story?id=103625761).
 
 ## Requirements
 - Python 3.8
