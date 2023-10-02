@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696203242)
+![Generated GIF](output.gif?raw=true&v=1696206668)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**French government combats bedbug epidemic in Paris, urges calm**
+**The community of traveling families using the globe as their classroom is growing. Welcome to the "world school" revolution**
 
-You can read more about it [here](https://www.foxnews.com/world/french-government-combats-bedbug-epidemic-paris-urges-calm).
+You can read more about it [here](https://www.cbsnews.com/news/world-schooling-revolution-traveling-families/).
 
 ## Requirements
 - Python 3.8
