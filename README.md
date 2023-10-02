@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696278827)
+![Generated GIF](output.gif?raw=true&v=1696280755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**This Week @NASA: Asteroid Sample Capsule Lands on Earth, Record Ride in Space, Artemis II Mission**
+**'America's better for Dianne Feinstein having served her country'**
 
-You can read more about it [here](https://scitechdaily.com/?p=313738).
+You can read more about it [here](https://www.politico.com/news/2023/10/01/dianne-feinstein-lindsey-graham-00119342).
 
 ## Requirements
 - Python 3.8
