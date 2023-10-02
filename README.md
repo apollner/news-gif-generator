@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696213031)
+![Generated GIF](output.gif?raw=true&v=1696214099)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The best of Ken Jeong on College GameDay at Duke University 👀**
+**Jada Pinkett Smith Speaks Out On Arrest In Murder Of Her Friend, Tupac Shakur**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6Biq6QQ2-GM).
+You can read more about it [here](https://deadline.com/2023/09/jada-pinkett-smith-speaks-on-arrest-in-murder-friend-tupac-shakur-1235560829/).
 
 ## Requirements
 - Python 3.8
