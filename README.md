@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696227055)
+![Generated GIF](output.gif?raw=true&v=1696228569)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Notre Dame vs. Duke live stream, how to watch, TV channel, prediction, expert picks, kickoff time**
+**Pelosi to accompany Feinstein's body home to California**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-duke-live-stream-how-to-watch-tv-channel-prediction-expert-picks-kickoff-time/).
+You can read more about it [here](https://www.politico.com/news/2023/09/30/pelosi-to-accompany-feinsteins-body-home-to-california-00119287).
 
 ## Requirements
 - Python 3.8
