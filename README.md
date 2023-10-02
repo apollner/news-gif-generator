@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696223224)
+![Generated GIF](output.gif?raw=true&v=1696224836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maldives opposition candidate Muizzu projected to win presidential run-off**
+**Government shutdown live updates: Senate, House pass 45-day measure to keep government open**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/30/maldives-opposition-candidate-muiz-wins-presidential-runoff).
+You can read more about it [here](https://www.cnbc.com/2023/09/30/government-shutdown-live-updates-congress-faces-funding-deadline.html).
 
 ## Requirements
 - Python 3.8
