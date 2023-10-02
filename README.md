@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696237695)
+![Generated GIF](output.gif?raw=true&v=1696239229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**90% of ethnic Armenians flee Karabakh enclave overrun by Azerbaijan army**
+**2023 Ryder Cup schedule, tee times: Jon Rahm vs. Scottie Scheffler highlights Sunday singles matches**
 
-You can read more about it [here](https://www.timesofisrael.com/90-of-ethnic-armenians-flee-karabakh-enclave-overrun-by-azerbaijan-army/).
+You can read more about it [here](https://www.cbssports.com/golf/news/2023-ryder-cup-schedule-tee-times-jon-rahm-vs-scottie-scheffler-highlights-sunday-singles-matches/).
 
 ## Requirements
 - Python 3.8
