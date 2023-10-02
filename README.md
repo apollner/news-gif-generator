@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696260831)
+![Generated GIF](output.gif?raw=true&v=1696262993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2 children among 5 killed when semi-truck carrying ammonia overturns on Illinois highway**
+**A new leaked Google ad shows more Pixel 8 and Pixel 8 Pro AI photo editing**
 
-You can read more about it [here](https://abcnews.go.com/US/illinois-semi-truck-crash-toxic-ammonia-spill/story?id=103625761).
+You can read more about it [here](https://www.theverge.com/2023/10/1/23898128/google-pixel-8-ad-leak-ai-photo-editing-best-take-phone-cases).
 
 ## Requirements
 - Python 3.8
