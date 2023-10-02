@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696224836)
+![Generated GIF](output.gif?raw=true&v=1696227055)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Government shutdown live updates: Senate, House pass 45-day measure to keep government open**
+**Notre Dame vs. Duke live stream, how to watch, TV channel, prediction, expert picks, kickoff time**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/30/government-shutdown-live-updates-congress-faces-funding-deadline.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-duke-live-stream-how-to-watch-tv-channel-prediction-expert-picks-kickoff-time/).
 
 ## Requirements
 - Python 3.8
