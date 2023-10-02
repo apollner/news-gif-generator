@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696255596)
+![Generated GIF](output.gif?raw=true&v=1696257272)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**October skywatch highlights: ‘Ring of fire’ eclipse and hunter’s moon**
+**Jimmy Carter celebrating 99th birthday with family**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/10/01/october-annular-eclipse-hunters-moon/).
+You can read more about it [here](https://www.politico.com/news/2023/10/01/jimmy-carter-celebrating-99th-birthday-with-family-00119314).
 
 ## Requirements
 - Python 3.8
