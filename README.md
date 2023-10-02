@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696275223)
+![Generated GIF](output.gif?raw=true&v=1696277259)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Buck Showalter will not manage Mets in 2024**
+**Live analysis, updates: Eagles vs. Commanders; can they stay unbeaten?**
 
-You can read more about it [here](https://www.mlb.com/news/buck-showalter-will-not-manage-mets-in-2024).
+You can read more about it [here](https://www.delawareonline.com/story/sports/nfl/eagles/2023/10/01/live-analysis-updates-eagles-vs-commanders-stay-unbeaten-jalen-hurts-carter-nfl-fletcher-cox/70996148007/).
 
 ## Requirements
 - Python 3.8
