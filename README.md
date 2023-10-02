@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696252355)
+![Generated GIF](output.gif?raw=true&v=1696253658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents**
+**Jimmy Carter celebrating 99th birthday with family**
 
-You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
+You can read more about it [here](https://www.politico.com/news/2023/10/01/jimmy-carter-celebrating-99th-birthday-with-family-00119314).
 
 ## Requirements
 - Python 3.8
