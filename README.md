@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696266367)
+![Generated GIF](output.gif?raw=true&v=1696268023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jrue Holiday trade: Trail Blazers send guard to Celtics for Robert Williams, Malcolm Brogdon, per report**
+**Robert Fico wins Slovakia election with anti-Ukraine stance**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/jrue-holiday-trade-trail-blazers-send-guard-to-celtics-for-robert-williams-iii-malcolm-brogdon-per-reports/).
+You can read more about it [here](https://www.ft.com/content/9de49e7a-d830-4d5d-8615-2c00ba6f8552).
 
 ## Requirements
 - Python 3.8
