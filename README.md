@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696282571)
+![Generated GIF](output.gif?raw=true&v=1696284349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami Dolphins vs. Buffalo Bills Game Highlights | NFL 2023 Week 4**
+**NFL Week 4 late slate live tracker: Cardinals hanging around vs. 49ers**
 
-You can read more about it [here](https://www.youtube.com/watch?v=oX-Szmb3Ils).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-4-late-slate-live-tracker-cardinals-hanging-around-vs-49ers-222414252.html).
 
 ## Requirements
 - Python 3.8
