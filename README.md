@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696210528)
+![Generated GIF](output.gif?raw=true&v=1696213031)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple identifies issues causing overheating in the iPhone 15**
+**The best of Ken Jeong on College GameDay at Duke University 👀**
 
-You can read more about it [here](https://www.reuters.com/technology/apple-identifies-issues-causing-overheating-iphone-15-2023-09-30/).
+You can read more about it [here](https://www.youtube.com/watch?v=6Biq6QQ2-GM).
 
 ## Requirements
 - Python 3.8
