@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696219768)
+![Generated GIF](output.gif?raw=true&v=1696221322)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pelosi to accompany Feinstein's body home to California**
+**Biden signs bill to keep government funded and avoid shutdown**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/30/pelosi-to-accompany-feinsteins-body-home-to-california-00119287).
+You can read more about it [here](https://thehill.com/homenews/senate/4232249-biden-signs-bill-to-keep-government-funded-and-avoid-shutdown/).
 
 ## Requirements
 - Python 3.8
