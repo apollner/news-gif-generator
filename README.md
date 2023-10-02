@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696235676)
+![Generated GIF](output.gif?raw=true&v=1696237695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about prostate cancer screening and treatment**
+**90% of ethnic Armenians flee Karabakh enclave overrun by Azerbaijan army**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/what-to-know-about-screening-diagnosis-and-treatment-for-prostate-cancer).
+You can read more about it [here](https://www.timesofisrael.com/90-of-ethnic-armenians-flee-karabakh-enclave-overrun-by-azerbaijan-army/).
 
 ## Requirements
 - Python 3.8
