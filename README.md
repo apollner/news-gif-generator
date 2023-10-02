@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696244737)
+![Generated GIF](output.gif?raw=true&v=1696246434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jamaal Bowman: Democrat denies setting off fire alarm to stall spending vote**
+**Stellantis COLA offer to UAW saved itself from more strike action**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66975448).
+You can read more about it [here](https://www.freep.com/story/money/cars/2023/10/01/uaw-strike-contract-bargaining-stellantis-jobs/71004764007/).
 
 ## Requirements
 - Python 3.8
