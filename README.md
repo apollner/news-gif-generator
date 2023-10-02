@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696230526)
+![Generated GIF](output.gif?raw=true&v=1696232023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden signs bill to keep government funded and avoid shutdown**
+**Statement from President Joe Biden on Passage of the Bipartisan Bill to Keep the Government Open**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4232249-biden-signs-bill-to-keep-government-funded-and-avoid-shutdown/).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/30/statement-from-president-joe-biden-on-passage-of-the-bipartisan-bill-to-keep-the-government-open/).
 
 ## Requirements
 - Python 3.8
