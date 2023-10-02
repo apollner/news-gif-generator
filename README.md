@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696241308)
+![Generated GIF](output.gif?raw=true&v=1696243011)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A former "Family Feud" contestant convicted of wife's murder speaks out: "I'm innocent. I didn't kill Becky."**
+**Jamaal Bowman: Democrat denies setting off fire alarm to stall spending vote**
 
-You can read more about it [here](https://www.cbsnews.com/news/becky-bliefnick-murder-tim-bliefnick-former-family-feud-contestant-im-innocent-48-hours/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66975448).
 
 ## Requirements
 - Python 3.8
