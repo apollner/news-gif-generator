@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696284349)
+![Generated GIF](output.gif?raw=true&v=1696286139)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 4 late slate live tracker: Cardinals hanging around vs. 49ers**
+**COVID vaccine poll finds more than half of adults are likely to say 'no thanks' to the vax**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-4-late-slate-live-tracker-cardinals-hanging-around-vs-49ers-222414252.html).
+You can read more about it [here](https://www.foxnews.com/health/covid-vaccine-poll-finds-more-than-half-adults-likely-say-no-thanks-vax).
 
 ## Requirements
 - Python 3.8
