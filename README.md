@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696374442)
+![Generated GIF](output.gif?raw=true&v=1696376117)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drugmakers opt in to Medicare drug price negotiations – here's what happens next**
+**Nick Bellore Inactive For Seahawks' Week 4 Game at Giants, All Five Questionable Players Active**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/02/drugmakers-agree-to-medicare-price-negotiations-whats-next.html).
+You can read more about it [here](https://www.seahawks.com/news/nick-bellore-inactive-for-seahawks-week-4-game-at-giants-all-five-questionable-p).
 
 ## Requirements
 - Python 3.8
