@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696363710)
+![Generated GIF](output.gif?raw=true&v=1696365211)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A grizzly bear kills 2 people in Canada's Banff National Park**
+**NFL power rankings Week 5: San Francisco 49ers, Philadelphia Eagles lone undefeated teams**
 
-You can read more about it [here](https://www.npr.org/2023/10/02/1203036630/bear-attack-couple-dies-canada-banff).
+You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2023/10/02/nfl-power-rankings-week-5-49ers-eagles-undefeated/71032645007/).
 
 ## Requirements
 - Python 3.8
