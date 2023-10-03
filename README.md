@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696322077)
+![Generated GIF](output.gif?raw=true&v=1696324037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gavin Newsom picks Laphonza Butler as Dianne Feinstein replacement - POLITICO**
+**Turkey launches airstrikes against Kurdish militants following deadly Ankara blast**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/01/newsom-senate-pick-butler-00119360).
+You can read more about it [here](https://www.cnn.com/2023/10/02/middleeast/turkey-airstrike-iraq-kurdish-pkk-ankara-bomb-intl/index.html).
 
 ## Requirements
 - Python 3.8
