@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696349381)
+![Generated GIF](output.gif?raw=true&v=1696351167)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB regular-season stat leaders**
+**Jodie Turner-Smith Files for Divorce from Joshua Jackson**
 
-You can read more about it [here](https://www.mlb.com/news/2023-mlb-regular-season-stat-leaders).
+You can read more about it [here](https://www.tmz.com/2023/10/02/jodie-turner-smith-files-divorce-joshua-jackson-split-custody-child/).
 
 ## Requirements
 - Python 3.8
