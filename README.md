@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696329340)
+![Generated GIF](output.gif?raw=true&v=1696331106)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs 2023: Rangers had a season to be proud of — but it wasn't enough to unseat the Astros**
+**Aquarius Horoscope Today: October 2, 2023**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
+You can read more about it [here](https://www.vogue.in/horoscope/product/aquarius-horoscope-today-october-2-2023/).
 
 ## Requirements
 - Python 3.8
