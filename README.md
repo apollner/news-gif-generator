@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696345679)
+![Generated GIF](output.gif?raw=true&v=1696347346)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why it’s nutty not to eat nuts for good health**
+**NBC’s Coverage of Sunday’s Chiefs-Jets NFL Game Puts Taylor Swift in the Spotlight**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/health/eating-nuts-for-good-health-wellness/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/taylor-swift-chiefs-game-jets-nfl-nbc-1235605824/).
 
 ## Requirements
 - Python 3.8
