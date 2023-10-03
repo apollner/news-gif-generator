@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696340032)
+![Generated GIF](output.gif?raw=true&v=1696342010)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gerard Depardieu, Indicted on Rape, Sexual Assault Charges, Pens Open Letter: ‘I’m Neither a Rapist, Nor a Predator’**
+**Justin Herbert brushes off finger injury as 'just a flesh wound' - ESPN**
 
-You can read more about it [here](https://variety.com/2023/film/news/gerard-depardieu-le-figaro-1235741986/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38544732/chargers-qb-justin-herbert-brushes-finger-injury-just-flesh-wound).
 
 ## Requirements
 - Python 3.8
