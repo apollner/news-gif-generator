@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696299423)
+![Generated GIF](output.gif?raw=true&v=1696300494)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Google's Pixel 8 Pro Will Change Smartphones Forever**
+**Japan startup develops 'Gundam'-like robot with $3 million price tag**
 
-You can read more about it [here](https://www.forbes.com/sites/ewanspence/2023/10/01/google-pixel-8-pro-secrets-android-14-decisions-specs/).
+You can read more about it [here](https://www.reuters.com/technology/japan-startup-develops-gundam-like-robot-with-3-mln-price-tag-2023-10-02/).
 
 ## Requirements
 - Python 3.8
