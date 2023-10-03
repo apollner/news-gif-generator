@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696306167)
+![Generated GIF](output.gif?raw=true&v=1696307689)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump says Bowman should be jailed for ‘egregious act’ of pulling fire alarm**
+**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
 
-You can read more about it [here](https://thehill.com/homenews/house/4233070-trump-says-bowman-should-be-jailed-for-egregious-act-of-pulling-fire-alarm/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
 
 ## Requirements
 - Python 3.8
