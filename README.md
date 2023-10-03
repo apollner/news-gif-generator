@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696342010)
+![Generated GIF](output.gif?raw=true&v=1696343792)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justin Herbert brushes off finger injury as 'just a flesh wound' - ESPN**
+**2023 MLB regular-season stat leaders**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38544732/chargers-qb-justin-herbert-brushes-finger-injury-just-flesh-wound).
+You can read more about it [here](https://www.mlb.com/news/2023-mlb-regular-season-stat-leaders).
 
 ## Requirements
 - Python 3.8
