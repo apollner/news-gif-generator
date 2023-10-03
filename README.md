@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696335201)
+![Generated GIF](output.gif?raw=true&v=1696337509)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs 2023: Rangers had a season to be proud of — but it wasn't enough to unseat the Astros**
+**Effective altruism fueled SBF's 'ridiculous' actions at FTX: Ex-Alameda engineer**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
+You can read more about it [here](https://cointelegraph.com/news/effective-altruism-fueled-ftx-founder-sam-bankman-fried-ridiculous-actions-former-alameda).
 
 ## Requirements
 - Python 3.8
