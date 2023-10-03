@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696300494)
+![Generated GIF](output.gif?raw=true&v=1696302544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan startup develops 'Gundam'-like robot with $3 million price tag**
+**Chiefs-Jets Sunday Night Football live updates: Game highlights with Taylor Swift in house**
 
-You can read more about it [here](https://www.reuters.com/technology/japan-startup-develops-gundam-like-robot-with-3-mln-price-tag-2023-10-02/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/10/01/chiefs-jets-taylor-swift-sunday-night-football-live-updates/71016191007/).
 
 ## Requirements
 - Python 3.8
