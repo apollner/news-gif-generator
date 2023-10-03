@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696361621)
+![Generated GIF](output.gif?raw=true&v=1696363710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC draft recommends certain people use antibiotic pill after sex to prevent the spread of STIs**
+**A grizzly bear kills 2 people in Canada's Banff National Park**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/health/cdc-draft-recommendation-doxycycline/index.html).
+You can read more about it [here](https://www.npr.org/2023/10/02/1203036630/bear-attack-couple-dies-canada-banff).
 
 ## Requirements
 - Python 3.8
