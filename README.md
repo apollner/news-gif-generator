@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696337509)
+![Generated GIF](output.gif?raw=true&v=1696338781)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Effective altruism fueled SBF's 'ridiculous' actions at FTX: Ex-Alameda engineer**
+**Couple killed in grizzly bear attack in Canada's Banff National Park**
 
-You can read more about it [here](https://cointelegraph.com/news/effective-altruism-fueled-ftx-founder-sam-bankman-fried-ridiculous-actions-former-alameda).
+You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
 
 ## Requirements
 - Python 3.8
