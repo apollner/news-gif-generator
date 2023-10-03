@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696307689)
+![Generated GIF](output.gif?raw=true&v=1696309597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
+**Live news: Tankan survey shows rising confidence at Japan manufacturers**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
+You can read more about it [here](https://www.ft.com/content/373591f5-923c-4524-a90a-a5d7dd71027d).
 
 ## Requirements
 - Python 3.8
