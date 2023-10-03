@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696316774)
+![Generated GIF](output.gif?raw=true&v=1696318451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Attorney General Garland says in interview he'd resign if Biden asked him to take action on Trump**
+**Big Oil, heavy industry discuss emission curbs ahead of COP28**
 
-You can read more about it [here](https://news.yahoo.com/attorney-general-garland-says-interview-001135251.html).
+You can read more about it [here](https://www.reuters.com/business/environment/big-oil-heavy-industry-discuss-emission-curbs-ahead-cop28-2023-10-01/).
 
 ## Requirements
 - Python 3.8
