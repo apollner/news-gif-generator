@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696318451)
+![Generated GIF](output.gif?raw=true&v=1696320639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Big Oil, heavy industry discuss emission curbs ahead of COP28**
+**Taylor Swift cheers on Travis Kelce at Sunday Night Football (again), joining Ryan Reynolds, Hugh Jackman and other stars**
 
-You can read more about it [here](https://www.reuters.com/business/environment/big-oil-heavy-industry-discuss-emission-curbs-ahead-cop28-2023-10-01/).
+You can read more about it [here](https://www.cnn.com/2023/10/01/entertainment/taylor-swift-travis-kelce-chiefs-jets/index.html).
 
 ## Requirements
 - Python 3.8
