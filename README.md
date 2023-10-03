@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696358141)
+![Generated GIF](output.gif?raw=true&v=1696359944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to Watch Google's Big Pixel 8 and Pixel Watch 2 Event**
+**Jodie Turner-Smith Files for Divorce from Joshua Jackson**
 
-You can read more about it [here](https://gizmodo.com/how-to-watch-2023-made-by-google-event-1850891957).
+You can read more about it [here](https://www.tmz.com/2023/10/02/jodie-turner-smith-files-divorce-joshua-jackson-split-custody-child/).
 
 ## Requirements
 - Python 3.8
