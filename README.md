@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696352787)
+![Generated GIF](output.gif?raw=true&v=1696354430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In a first, CDC to recommend antibiotic pill after sex for some to prevent sexually transmitted infections**
+**MLB playoffs: Five bold predictions for postseason as Astros, Twins end streaks, Phillies find breakout star**
 
-You can read more about it [here](https://www.cbsnews.com/news/cdc-antibiotic-pill-after-sex-prevent-stds/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-playoffs-five-bold-predictions-for-postseason-as-astros-twins-end-streaks-phillies-find-breakout-star/).
 
 ## Requirements
 - Python 3.8
