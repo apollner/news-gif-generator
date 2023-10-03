@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696293029)
+![Generated GIF](output.gif?raw=true&v=1696296906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple iPhone 15 users complain about overheating issues as Apple prepares fix**
+**Dianne Feinstein's replacement will be eligible for a full Senate term**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-iphone-15-users-complain-about-overheating-issues-apple-prepares-fix).
+You can read more about it [here](https://www.businessinsider.com/gavin-newsom-diane-feinstein-replacement-eligible-full-senate-term-2023-10).
 
 ## Requirements
 - Python 3.8
