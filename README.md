@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696338781)
+![Generated GIF](output.gif?raw=true&v=1696340032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Couple killed in grizzly bear attack in Canada's Banff National Park**
+**Gerard Depardieu, Indicted on Rape, Sexual Assault Charges, Pens Open Letter: ‘I’m Neither a Rapist, Nor a Predator’**
 
-You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
+You can read more about it [here](https://variety.com/2023/film/news/gerard-depardieu-le-figaro-1235741986/).
 
 ## Requirements
 - Python 3.8
