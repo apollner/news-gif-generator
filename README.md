@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696314959)
+![Generated GIF](output.gif?raw=true&v=1696316774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kansas City Chiefs vs. New York Jets | 2023 Week 4 Game Highlights**
+**Attorney General Garland says in interview he'd resign if Biden asked him to take action on Trump**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ctBSAKDKr94).
+You can read more about it [here](https://news.yahoo.com/attorney-general-garland-says-interview-001135251.html).
 
 ## Requirements
 - Python 3.8
