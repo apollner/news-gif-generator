@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696368832)
+![Generated GIF](output.gif?raw=true&v=1696370758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Missing California swimmer reportedly attacked by shark, say officials**
+**Drugmakers opt in to Medicare drug price negotiations – here's what happens next**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/02/missing-california-swimmer-reportedly-attacked-by-shark/71033777007/).
+You can read more about it [here](https://www.cnbc.com/2023/10/02/drugmakers-agree-to-medicare-price-negotiations-whats-next.html).
 
 ## Requirements
 - Python 3.8
