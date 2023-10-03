@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696313423)
+![Generated GIF](output.gif?raw=true&v=1696314959)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AI, Residuals and Minimums on Table as SAG-AFTRA, AMPTP Hold First Contract Talks Since Strike Began**
+**Kansas City Chiefs vs. New York Jets | 2023 Week 4 Game Highlights**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-amptp-talks-resume-strike-1235741829/).
+You can read more about it [here](https://www.youtube.com/watch?v=ctBSAKDKr94).
 
 ## Requirements
 - Python 3.8
