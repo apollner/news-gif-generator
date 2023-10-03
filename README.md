@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696354430)
+![Generated GIF](output.gif?raw=true&v=1696356592)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs: Five bold predictions for postseason as Astros, Twins end streaks, Phillies find breakout star**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-playoffs-five-bold-predictions-for-postseason-as-astros-twins-end-streaks-phillies-find-breakout-star/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
