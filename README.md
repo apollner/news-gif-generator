@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696331106)
+![Generated GIF](output.gif?raw=true&v=1696332827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aquarius Horoscope Today: October 2, 2023**
+**Japan stocks soar as yen hits 1-year low**
 
-You can read more about it [here](https://www.vogue.in/horoscope/product/aquarius-horoscope-today-october-2-2023/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-10-02/).
 
 ## Requirements
 - Python 3.8
