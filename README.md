@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696309597)
+![Generated GIF](output.gif?raw=true&v=1696311223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live news: Tankan survey shows rising confidence at Japan manufacturers**
+**Japan startup develops 'Gundam'-like robot with $3 million price tag**
 
-You can read more about it [here](https://www.ft.com/content/373591f5-923c-4524-a90a-a5d7dd71027d).
+You can read more about it [here](https://www.reuters.com/technology/japan-startup-develops-gundam-like-robot-with-3-mln-price-tag-2023-10-02/).
 
 ## Requirements
 - Python 3.8
