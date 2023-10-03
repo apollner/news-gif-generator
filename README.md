@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696320639)
+![Generated GIF](output.gif?raw=true&v=1696322077)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift cheers on Travis Kelce at Sunday Night Football (again), joining Ryan Reynolds, Hugh Jackman and other stars**
+**Gavin Newsom picks Laphonza Butler as Dianne Feinstein replacement - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2023/10/01/entertainment/taylor-swift-travis-kelce-chiefs-jets/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/01/newsom-senate-pick-butler-00119360).
 
 ## Requirements
 - Python 3.8
