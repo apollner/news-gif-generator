@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696289630)
+![Generated GIF](output.gif?raw=true&v=1696293029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Turkey strikes suspected Kurdish militant targets in northern Iraq after suicide attack in Ankara**
+**Apple iPhone 15 users complain about overheating issues as Apple prepares fix**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/turkish-media-report-explosion-heard-ankara-day-parliament-103634782).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-iphone-15-users-complain-about-overheating-issues-apple-prepares-fix).
 
 ## Requirements
 - Python 3.8
