@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696426522)
+![Generated GIF](output.gif?raw=true&v=1696428424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kenya police to take on Haiti criminal gangs amid criticism of their human rights record**
+**House Speaker McCarthy defends leadership, says Gaetz has 'personal' issues**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/africa/kenya-multinational-force-haiti-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/03/house-speaker-mccarthy-defends-leadership-says-gaetz-has-personal-issues.html).
 
 ## Requirements
 - Python 3.8
