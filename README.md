@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696435805)
+![Generated GIF](output.gif?raw=true&v=1696437526)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to see the last ‘ring of fire’ eclipse until 2046**
+**India raids journalists linked to NewsClick amid China funding row**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/world/annular-solar-eclipse-october-2023-preview-scn/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/03/india-newsclick-raid-journalists-china/).
 
 ## Requirements
 - Python 3.8
