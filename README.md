@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696440816)
+![Generated GIF](output.gif?raw=true&v=1696443119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Webb telescope finds ‘Jupiter-sized’ planets floating in space**
+**NFL Power Rankings, Week 5: 49ers reclaim No. 1 spot; Seahawks, Buccaneers crack top 10**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/home/science/webb-telescope-finds-jupiter-sized-planets-floating-in-space/articleshow/104139316.cms).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-5-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
