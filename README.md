@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696415895)
+![Generated GIF](output.gif?raw=true&v=1696417502)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'They're just meat': Russia deploys punishment battalions in echo of Stalin**
+**Texas lawmaker carjacked in Navy Yard**
 
-You can read more about it [here](https://www.reuters.com/world/europe/theyre-just-meat-russia-deploys-punishment-battalions-echo-stalin-2023-10-03/).
+You can read more about it [here](https://www.youtube.com/watch?v=nR77S6XhySo).
 
 ## Requirements
 - Python 3.8
