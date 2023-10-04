@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696439246)
+![Generated GIF](output.gif?raw=true&v=1696440816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hands On: WarioWare Move It! Takes Us Right Back To A Wii Classic**
+**Webb telescope finds ‘Jupiter-sized’ planets floating in space**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/hands-on-warioware-move-it-takes-us-right-back-to-a-wii-classic).
+You can read more about it [here](https://timesofindia.indiatimes.com/home/science/webb-telescope-finds-jupiter-sized-planets-floating-in-space/articleshow/104139316.cms).
 
 ## Requirements
 - Python 3.8
