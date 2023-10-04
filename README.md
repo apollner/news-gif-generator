@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696392587)
+![Generated GIF](output.gif?raw=true&v=1696394035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple ‘king-maker’, Microsoft was ready to hide 'Bing': Nadella drops bombshell**
+**A 9-year-old girl was found safe after vanishing on a New York camping trip and a suspect has been detained, police say**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/apple-king-maker-microsoft-was-ready-to-hide-bing-nadella-drops-bombshell-in-google-antitrust-trial-101696295577537.html).
+You can read more about it [here](https://www.cnn.com/2023/10/02/us/charlotte-sena-missing-child-moreau-lake-monday/index.html).
 
 ## Requirements
 - Python 3.8
