@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696458827)
+![Generated GIF](output.gif?raw=true&v=1696460855)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jodie Turner-Smith and Joshua Jackson Stepped Out Holding Hands One Day Before Separation - E! Online**
+**US syphilis cases are rising, and STD clinics warn they’re struggling to find crucial antibiotic**
 
-You can read more about it [here](https://www.eonline.com/news/1386986/jodie-turner-smith-and-joshua-jackson-stepped-out-holding-hands-one-day-before-separation).
+You can read more about it [here](https://www.cnn.com/2023/10/03/health/syphilis-bicillin-std-clinics/index.html).
 
 ## Requirements
 - Python 3.8
