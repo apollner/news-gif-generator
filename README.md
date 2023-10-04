@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696457147)
+![Generated GIF](output.gif?raw=true&v=1696458827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried's father, ex-Trump staffer among possible trial witnesses**
+**Jodie Turner-Smith and Joshua Jackson Stepped Out Holding Hands One Day Before Separation - E! Online**
 
-You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-heads-trial-charges-stealing-billions-ftx-users-2023-10-03/).
+You can read more about it [here](https://www.eonline.com/news/1386986/jodie-turner-smith-and-joshua-jackson-stepped-out-holding-hands-one-day-before-separation).
 
 ## Requirements
 - Python 3.8
