@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696419343)
+![Generated GIF](output.gif?raw=true&v=1696421680)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas lawmaker carjacked in Navy Yard**
+**A ransom note, fingerprints and cell phone pings. How New York police tracked down a missing 9-year-old girl and the suspect in her disappearance**
 
-You can read more about it [here](https://www.youtube.com/watch?v=nR77S6XhySo).
+You can read more about it [here](https://www.cnn.com/2023/10/03/us/missing-girl-new-york-found-suspect-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
