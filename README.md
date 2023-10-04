@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696437526)
+![Generated GIF](output.gif?raw=true&v=1696439246)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India raids journalists linked to NewsClick amid China funding row**
+**Hands On: WarioWare Move It! Takes Us Right Back To A Wii Classic**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/03/india-newsclick-raid-journalists-china/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/hands-on-warioware-move-it-takes-us-right-back-to-a-wii-classic).
 
 ## Requirements
 - Python 3.8
