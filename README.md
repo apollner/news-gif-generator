@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696453554)
+![Generated GIF](output.gif?raw=true&v=1696455225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Challenge to consumer watchdog gets a frosty reception at the Supreme Court**
+**Putin Follows the Stalin Playbook With Nightmarish Punishment Battalions**
 
-You can read more about it [here](https://www.nbcnews.com/politics/supreme-court/consumer-watchdog-crosshairs-supreme-court-weighs-legal-challenge-rcna118390).
+You can read more about it [here](https://www.thedailybeast.com/putin-follows-the-stalin-playbook-with-nightmarish-storm-z-punishment-battalions).
 
 ## Requirements
 - Python 3.8
