@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696376117)
+![Generated GIF](output.gif?raw=true&v=1696379430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Bellore Inactive For Seahawks' Week 4 Game at Giants, All Five Questionable Players Active**
+**Jodie Turner-Smith Files for Divorce From Joshua Jackson After 4 Years of Marriage**
 
-You can read more about it [here](https://www.seahawks.com/news/nick-bellore-inactive-for-seahawks-week-4-game-at-giants-all-five-questionable-p).
+You can read more about it [here](https://www.eonline.com/news/1386872/jodie-turner-smith-files-for-divorce-from-joshua-jackson-after-4-years-of-marriage).
 
 ## Requirements
 - Python 3.8
