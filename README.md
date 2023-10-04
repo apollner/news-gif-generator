@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696379430)
+![Generated GIF](output.gif?raw=true&v=1696383400)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jodie Turner-Smith Files for Divorce From Joshua Jackson After 4 Years of Marriage**
+**Live news: Evergrande to resume Hong Kong trading as founder faces probe**
 
-You can read more about it [here](https://www.eonline.com/news/1386872/jodie-turner-smith-files-for-divorce-from-joshua-jackson-after-4-years-of-marriage).
+You can read more about it [here](https://www.ft.com/content/e74f191c-3541-4328-bc17-640cc30c8d1d).
 
 ## Requirements
 - Python 3.8
