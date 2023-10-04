@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696444559)
+![Generated GIF](output.gif?raw=true&v=1696446291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Ring of fire’ solar eclipse to put on show for California this month**
+**Marvel Studios' Loki Season 2 - Official Season 1 Recap Trailer (2023) Tom Hiddleston, Owen Wilson**
 
-You can read more about it [here](https://ktla.com/news/local-news/ring-of-fire-solar-eclipse-to-put-on-show-for-california-this-month/).
+You can read more about it [here](https://www.youtube.com/watch?v=mLWXKBhXwAQ).
 
 ## Requirements
 - Python 3.8
