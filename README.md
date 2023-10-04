@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696414186)
+![Generated GIF](output.gif?raw=true&v=1696415895)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Johnnys Sex Abuse Scandal: 478 Victims Come Forward – The Hollywood Reporter**
+**'They're just meat': Russia deploys punishment battalions in echo of Stalin**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/japan-johnnys-sex-abuse-scandal-renaming-plan-slammed-1235607160/).
+You can read more about it [here](https://www.reuters.com/world/europe/theyre-just-meat-russia-deploys-punishment-battalions-echo-stalin-2023-10-03/).
 
 ## Requirements
 - Python 3.8
