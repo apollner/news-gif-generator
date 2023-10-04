@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696428424)
+![Generated GIF](output.gif?raw=true&v=1696430060)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Speaker McCarthy defends leadership, says Gaetz has 'personal' issues**
+**The Pixel Buds Pro are about to get a huge software update**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/03/house-speaker-mccarthy-defends-leadership-says-gaetz-has-personal-issues.html).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-buds-pro-are-about-get-lot-better/).
 
 ## Requirements
 - Python 3.8
