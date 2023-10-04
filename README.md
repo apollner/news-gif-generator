@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696455225)
+![Generated GIF](output.gif?raw=true&v=1696457147)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin Follows the Stalin Playbook With Nightmarish Punishment Battalions**
+**Sam Bankman-Fried's father, ex-Trump staffer among possible trial witnesses**
 
-You can read more about it [here](https://www.thedailybeast.com/putin-follows-the-stalin-playbook-with-nightmarish-storm-z-punishment-battalions).
+You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-heads-trial-charges-stealing-billions-ftx-users-2023-10-03/).
 
 ## Requirements
 - Python 3.8
