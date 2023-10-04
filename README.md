@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696395994)
+![Generated GIF](output.gif?raw=true&v=1696397721)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump did call fallen soldiers "losers," his former chief of staff says**
+**Evergrande shares volatile as trade resumes amid chairman probe**
 
-You can read more about it [here](https://www.axios.com/2023/10/02/trump-troops-fallen-soldiers-john-kelly).
+You can read more about it [here](https://www.reuters.com/world/china/china-evergrande-shares-set-open-up-94-amid-probe-into-chairman-2023-10-03/).
 
 ## Requirements
 - Python 3.8
