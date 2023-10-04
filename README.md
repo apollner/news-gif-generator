@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696423945)
+![Generated GIF](output.gif?raw=true&v=1696425184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump suggests judge presiding over fraud trial should face criminal charges**
+**You Don't Wanna Wait to Revisit Jodie Turner-Smith and Joshua Jackson's Private Marriage**
 
-You can read more about it [here](https://www.axios.com/2023/10/02/donald-trump-fraud-trial-new-york-court).
+You can read more about it [here](https://www.eonline.com/news/1386893/you-dont-wanna-wait-to-revisit-jodie-turner-smith-and-joshua-jacksons-private-marriage).
 
 ## Requirements
 - Python 3.8
