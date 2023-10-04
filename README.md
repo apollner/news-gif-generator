@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696425184)
+![Generated GIF](output.gif?raw=true&v=1696426522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**You Don't Wanna Wait to Revisit Jodie Turner-Smith and Joshua Jackson's Private Marriage**
+**Kenya police to take on Haiti criminal gangs amid criticism of their human rights record**
 
-You can read more about it [here](https://www.eonline.com/news/1386893/you-dont-wanna-wait-to-revisit-jodie-turner-smith-and-joshua-jacksons-private-marriage).
+You can read more about it [here](https://www.cnn.com/2023/10/03/africa/kenya-multinational-force-haiti-intl/index.html).
 
 ## Requirements
 - Python 3.8
