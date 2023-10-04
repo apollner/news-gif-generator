@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696383400)
+![Generated GIF](output.gif?raw=true&v=1696385868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live news: Evergrande to resume Hong Kong trading as founder faces probe**
+**Matt Gaetz moves to oust Kevin McCarthy as House speaker**
 
-You can read more about it [here](https://www.ft.com/content/e74f191c-3541-4328-bc17-640cc30c8d1d).
+You can read more about it [here](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html).
 
 ## Requirements
 - Python 3.8
