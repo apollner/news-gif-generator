@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696388917)
+![Generated GIF](output.gif?raw=true&v=1696390464)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blazers reveal unexpected plan for Malcolm Brogdon after Celtics trade**
+**China Evergrande Shares Soar as Trade Resumes Amid Police Probe**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjMvMTAvYmxhemVycy1yZXZlYWwtdW5leHBlY3RlZC1wbGFuLWZvci1tYWxjb2xtLWJyb2dkb24tYWZ0ZXItY2VsdGljcy10cmFkZS5odG1s0gGDAWh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjMvMTAvYmxhemVycy1yZXZlYWwtdW5leHBlY3RlZC1wbGFuLWZvci1tYWxjb2xtLWJyb2dkb24tYWZ0ZXItY2VsdGljcy10cmFkZS5odG1sP291dHB1dFR5cGU9YW1w?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-03/china-evergrande-shares-soar-as-trade-resumes-amid-police-probe).
 
 ## Requirements
 - Python 3.8
