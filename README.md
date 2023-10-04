@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696407142)
+![Generated GIF](output.gif?raw=true&v=1696408518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Feeling lucky? Winning numbers are announced for the $1.04 billion Powerball jackpot**
+**Seahawks' Devon Witherspoon latest to rip Daniel Jones: 'We knew he liked to stare down his first target'**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/business/powerball-jackpot-drawing-monday-billion-lottery-trnd/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/seahawks-devon-witherspoon-latest-to-rip-daniel-jones-we-knew-he-liked-to-stare-down-his-first-target/).
 
 ## Requirements
 - Python 3.8
