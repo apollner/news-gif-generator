@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696446291)
+![Generated GIF](output.gif?raw=true&v=1696448018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marvel Studios' Loki Season 2 - Official Season 1 Recap Trailer (2023) Tom Hiddleston, Owen Wilson**
+**Mass death of dolphins in Brazilian Amazon as water temperatures soar**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mLWXKBhXwAQ).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/02/dolphins-amazon-drought-deaths-brazil/71029128007/).
 
 ## Requirements
 - Python 3.8
