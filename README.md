@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696408518)
+![Generated GIF](output.gif?raw=true&v=1696410460)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Seahawks' Devon Witherspoon latest to rip Daniel Jones: 'We knew he liked to stare down his first target'**
+**UN Security Council approves sending forces to Haiti to fight violent gangs**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/seahawks-devon-witherspoon-latest-to-rip-daniel-jones-we-knew-he-liked-to-stare-down-his-first-target/).
+You can read more about it [here](https://www.politico.com/news/2023/10/02/un-security-council-approves-sending-forces-to-haiti-to-fight-violent-gangs-00119593).
 
 ## Requirements
 - Python 3.8
