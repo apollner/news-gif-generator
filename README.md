@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696390464)
+![Generated GIF](output.gif?raw=true&v=1696392587)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Evergrande Shares Soar as Trade Resumes Amid Police Probe**
+**Apple ‘king-maker’, Microsoft was ready to hide 'Bing': Nadella drops bombshell**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-03/china-evergrande-shares-soar-as-trade-resumes-amid-police-probe).
+You can read more about it [here](https://www.hindustantimes.com/world-news/apple-king-maker-microsoft-was-ready-to-hide-bing-nadella-drops-bombshell-in-google-antitrust-trial-101696295577537.html).
 
 ## Requirements
 - Python 3.8
