@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696401356)
+![Generated GIF](output.gif?raw=true&v=1696403192)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Smith rips Giants LB's 'dirty play' that injured knee**
+**'They're just meat': Russia deploys punishment battalions in echo of Stalin**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38553460/seahawks-geno-smith-rips-dirty-play-giants-isaiah-simmons-injured-qb-knee).
+You can read more about it [here](https://www.reuters.com/world/europe/theyre-just-meat-russia-deploys-punishment-battalions-echo-stalin-2023-10-03/).
 
 ## Requirements
 - Python 3.8
