@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696443119)
+![Generated GIF](output.gif?raw=true&v=1696444559)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Power Rankings, Week 5: 49ers reclaim No. 1 spot; Seahawks, Buccaneers crack top 10**
+**‘Ring of fire’ solar eclipse to put on show for California this month**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-5-2023-nfl-season).
+You can read more about it [here](https://ktla.com/news/local-news/ring-of-fire-solar-eclipse-to-put-on-show-for-california-this-month/).
 
 ## Requirements
 - Python 3.8
