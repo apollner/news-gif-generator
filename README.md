@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696529452)
+![Generated GIF](output.gif?raw=true&v=1696531040)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran hijab police accused of beating girl into coma**
+**Ford's third-quarter US auto sales rise on pickup, crossover SUV demand**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67004886).
+You can read more about it [here](https://finance.yahoo.com/news/fords-third-quarter-us-auto-131926251.html).
 
 ## Requirements
 - Python 3.8
