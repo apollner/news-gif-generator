@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696462437)
+![Generated GIF](output.gif?raw=true&v=1696465803)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jodie Turner-Smith and Joshua Jackson Stepped Out Holding Hands One Day Before Separation - E! Online**
+**WATCH: Jude Bellingham or Zinedine Zidane?! Real Madrid star scores ridiculous solo goal to put Real Madrid ahead against Napoli just seven minutes after assisting Vinicius Junior**
 
-You can read more about it [here](https://www.eonline.com/news/1386986/jodie-turner-smith-and-joshua-jackson-stepped-out-holding-hands-one-day-before-separation).
+You can read more about it [here](https://www.sportingnews.com/ca/soccer).
 
 ## Requirements
 - Python 3.8
