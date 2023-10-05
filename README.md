@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696539938)
+![Generated GIF](output.gif?raw=true&v=1696541633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Facebook's new AI stickers can generate Elmo with a knife**
+**House Majority Leader Steve Scalise will run for Speaker of the House**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/04/house-majority-leader-steve-scalise-will-run-for-speaker-of-the-house/71059441007/).
 
 ## Requirements
 - Python 3.8
