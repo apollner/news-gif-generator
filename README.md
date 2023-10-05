@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696522289)
+![Generated GIF](output.gif?raw=true&v=1696523995)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Russian state TV journalist gets 8 1/2-year sentence in absentia for Ukraine war criticism**
+**Jamie Lynn Spears Reacts to Dancing With the Stars Elimination**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/former-russian-state-tv-journalist-gets-8-12-103713651).
+You can read more about it [here](https://www.eonline.com/news/1387044/jamie-lynn-spears-reacts-to-her-dancing-with-the-stars-elimination).
 
 ## Requirements
 - Python 3.8
