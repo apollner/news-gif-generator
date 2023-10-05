@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696545230)
+![Generated GIF](output.gif?raw=true&v=1696547196)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried ‘Lied,’ DOJ Tells Jury; Defense Tries to Pin FTX Collapse on Caroline Ellison**
+**2023 MLB playoffs live updates: Rangers have Rays on the ropes wild card scores, schedule**
 
-You can read more about it [here](https://www.coindesk.com/policy/2023/10/04/sam-bankman-fried-lied-doj-tells-jury-defense-tries-to-pin-ftx-collapse-on-caroline-ellison/).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/04/2023-mlb-playoffs-wild-card-live-updates-scores-bracket/71053818007/).
 
 ## Requirements
 - Python 3.8
