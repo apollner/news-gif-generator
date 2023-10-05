@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696486311)
+![Generated GIF](output.gif?raw=true&v=1696487801)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs Day 1 tracker: Phillies, Diamondbacks join Twins, Rangers in victory in wild-card openers**
+**How to safely take photos with your smartphone during annular eclipse on Oct. 14**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-day-1-tracker-phillies-diamondbacks-join-twins-rangers-in-victory-in-wild-card-openers-025534514.html).
+You can read more about it [here](https://www.ksat.com/news/local/2023/10/03/how-to-safely-take-photos-with-your-smartphone-during-annular-eclipse-on-oct-14/).
 
 ## Requirements
 - Python 3.8
