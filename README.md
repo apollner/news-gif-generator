@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696489635)
+![Generated GIF](output.gif?raw=true&v=1696491273)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canada grizzly bear attack victims were on permitted hike, carrying bear spray**
+**Philadelphia police seek person of interest in murder of local journalist**
 
-You can read more about it [here](https://www.reuters.com/world/americas/canada-grizzly-bear-attack-victims-were-permitted-hike-carrying-bear-spray-2023-10-03/).
+You can read more about it [here](https://www.youtube.com/watch?v=xYjWsLfCWoU).
 
 ## Requirements
 - Python 3.8
