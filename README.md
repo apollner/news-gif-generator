@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696469814)
+![Generated GIF](output.gif?raw=true&v=1696472337)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Migrant buses arriving in Chicago spark tensions**
+**Grimes Sues Elon Musk for Parental Rights of Three Children**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gVKHyLg6MLc).
+You can read more about it [here](http://www.vulture.com/2023/10/grimes-elon-musk-lawsuit-parental-rights-children.html).
 
 ## Requirements
 - Python 3.8
