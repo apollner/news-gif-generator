@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696508005)
+![Generated GIF](output.gif?raw=true&v=1696510404)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine in 'disorganized' Tropical Storm Philippe's forecast cone**
+**Man arrested hours after rape and killing of 5-year-old girl in Kansas**
 
-You can read more about it [here](https://www.wmtw.com/article/maine-tropical-storm-philippe-forecast-cone-track/45440928).
+You can read more about it [here](https://www.cbsnews.com/news/mickel-cherry-arrested-rape-killing-5-year-old-zoey-felix-topeka-kansas/).
 
 ## Requirements
 - Python 3.8
