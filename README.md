@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696503932)
+![Generated GIF](output.gif?raw=true&v=1696505622)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock futures dip slightly after Dow turns negative for 2023: Live updates**
+**New Assassin’s Creed video game brings Baghdad’s ‘golden age’ back to life**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/03/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/4/new-assassins-creed-video-game-brings-baghdads-golden-age-back-to-life).
 
 ## Requirements
 - Python 3.8
