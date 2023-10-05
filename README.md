@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696484025)
+![Generated GIF](output.gif?raw=true&v=1696486311)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**It’s crunch time for companies building NASA’s commercial lunar landers**
+**MLB playoffs Day 1 tracker: Phillies, Diamondbacks join Twins, Rangers in victory in wild-card openers**
 
-You can read more about it [here](https://arstechnica.com/space/2023/10/its-crunch-time-for-companies-building-nasas-commercial-lunar-landers/).
+You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-day-1-tracker-phillies-diamondbacks-join-twins-rangers-in-victory-in-wild-card-openers-025534514.html).
 
 ## Requirements
 - Python 3.8
