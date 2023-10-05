@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696538052)
+![Generated GIF](output.gif?raw=true&v=1696539938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried ‘Lied,’ DOJ Tells Jury; Defense Tries to Pin FTX Collapse on Caroline Ellison**
+**Facebook's new AI stickers can generate Elmo with a knife**
 
-You can read more about it [here](https://www.coindesk.com/policy/2023/10/04/sam-bankman-fried-lied-doj-tells-jury-defense-tries-to-pin-ftx-collapse-on-caroline-ellison/).
+You can read more about it [here](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/).
 
 ## Requirements
 - Python 3.8
