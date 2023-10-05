@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696513021)
+![Generated GIF](output.gif?raw=true&v=1696514845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prisco's Week 5 NFL picks: Commanders beat Bears, Steelers sink Ravens as home dogs, 49ers hold off Cowboys**
+**'Only Murders in the Building' renewed for fourth season**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-5-nfl-picks-commanders-beat-bears-steelers-sink-ravens-as-home-dogs-49ers-hold-off-cowboys/).
+You can read more about it [here](https://www.cnn.com/2023/10/04/entertainment/only-murders-season-4/index.html).
 
 ## Requirements
 - Python 3.8
