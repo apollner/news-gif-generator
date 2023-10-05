@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696543545)
+![Generated GIF](output.gif?raw=true&v=1696545230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4 students among 5 shot at Morgan State University in Baltimore, police searching for suspect**
+**Sam Bankman-Fried ‘Lied,’ DOJ Tells Jury; Defense Tries to Pin FTX Collapse on Caroline Ellison**
 
-You can read more about it [here](https://abcnews.go.com/US/baltimore-police-respond-active-shooter-situation-morgan-state/story?id=103708195).
+You can read more about it [here](https://www.coindesk.com/policy/2023/10/04/sam-bankman-fried-lied-doj-tells-jury-defense-tries-to-pin-ftx-collapse-on-caroline-ellison/).
 
 ## Requirements
 - Python 3.8
