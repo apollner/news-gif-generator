@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696510404)
+![Generated GIF](output.gif?raw=true&v=1696511615)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man arrested hours after rape and killing of 5-year-old girl in Kansas**
+**An early look at possible successors to McCarthy for House speaker**
 
-You can read more about it [here](https://www.cbsnews.com/news/mickel-cherry-arrested-rape-killing-5-year-old-zoey-felix-topeka-kansas/).
+You can read more about it [here](https://www.cnn.com/2023/10/03/politics/possible-mccarthy-successors-house-speaker/index.html).
 
 ## Requirements
 - Python 3.8
