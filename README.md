@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696532698)
+![Generated GIF](output.gif?raw=true&v=1696534465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan announces bid for House Speaker after McCarthy ouster**
+**David & Victoria Beckham Talk Affair Allegations On Netflix**
 
-You can read more about it [here](https://www.foxnews.com/politics/jim-jordan-announces-bid-for-house-speaker-after-mccarthy-ouster).
+You can read more about it [here](https://www.buzzfeed.com/natashajokic1/david-victoria-beckham-netflix-affair).
 
 ## Requirements
 - Python 3.8
