@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696514845)
+![Generated GIF](output.gif?raw=true&v=1696516489)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Only Murders in the Building' renewed for fourth season**
+**Labor launched Laphonza Butler — and could hold the keys to a Senate run**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/entertainment/only-murders-season-4/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/04/laphonza-butler-union-senate-00119807).
 
 ## Requirements
 - Python 3.8
