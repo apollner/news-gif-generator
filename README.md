@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696494920)
+![Generated GIF](output.gif?raw=true&v=1696496852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baltimore police confirm multiple victims in an active shooter situation at Morgan State University**
+**NASA's Psyche probe will launch to a metal asteroid on Oct. 12 — and scientists are sneaking a peek at the target**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/us/baltimore-morgan-state-university-campus-shooting/index.html).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-sofia-psyche-data).
 
 ## Requirements
 - Python 3.8
