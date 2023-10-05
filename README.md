@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696518462)
+![Generated GIF](output.gif?raw=true&v=1696520022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two Dead After Small Plane Falls From Sky, Crashes Into House**
+**Jamie Lynn Spears Reacts to Dancing With the Stars Elimination**
 
-You can read more about it [here](https://www.tmz.com/2023/10/04/plane-crash-falls-sky-house-oregon/).
+You can read more about it [here](https://www.eonline.com/news/1387044/jamie-lynn-spears-reacts-to-her-dancing-with-the-stars-elimination).
 
 ## Requirements
 - Python 3.8
