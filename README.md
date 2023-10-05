@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696525633)
+![Generated GIF](output.gif?raw=true&v=1696527229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More charges expected against suspect in Charlotte Sena’s kidnapping as the investigation unfolds, police say**
+**World Cup 2030: Morocco, Spain and Portugal to host with opening three games in South America**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/us/new-york-girl-kidnapping-suspect-investigation-wednesday/index.html).
+You can read more about it [here](https://theathletic.com/4929110/2023/10/04/world-cup-2030-hosts-morocco-spain-portugal/).
 
 ## Requirements
 - Python 3.8
