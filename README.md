@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696516489)
+![Generated GIF](output.gif?raw=true&v=1696518462)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Labor launched Laphonza Butler — and could hold the keys to a Senate run**
+**Two Dead After Small Plane Falls From Sky, Crashes Into House**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/04/laphonza-butler-union-senate-00119807).
+You can read more about it [here](https://www.tmz.com/2023/10/04/plane-crash-falls-sky-house-oregon/).
 
 ## Requirements
 - Python 3.8
