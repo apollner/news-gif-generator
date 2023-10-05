@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696547196)
+![Generated GIF](output.gif?raw=true&v=1696548829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 MLB playoffs live updates: Rangers have Rays on the ropes wild card scores, schedule**
+**Paris is having a bedbug outbreak. Here's expert advice on how to protect yourself while traveling.**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/04/2023-mlb-playoffs-wild-card-live-updates-scores-bracket/71053818007/).
+You can read more about it [here](https://www.cbsnews.com/news/paris-bedbugs-experts-how-to-protect-yourself-traveling/).
 
 ## Requirements
 - Python 3.8
