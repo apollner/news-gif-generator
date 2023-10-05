@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696487801)
+![Generated GIF](output.gif?raw=true&v=1696489635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to safely take photos with your smartphone during annular eclipse on Oct. 14**
+**Canada grizzly bear attack victims were on permitted hike, carrying bear spray**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/10/03/how-to-safely-take-photos-with-your-smartphone-during-annular-eclipse-on-oct-14/).
+You can read more about it [here](https://www.reuters.com/world/americas/canada-grizzly-bear-attack-victims-were-permitted-hike-carrying-bear-spray-2023-10-03/).
 
 ## Requirements
 - Python 3.8
