@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696523995)
+![Generated GIF](output.gif?raw=true&v=1696525633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jamie Lynn Spears Reacts to Dancing With the Stars Elimination**
+**More charges expected against suspect in Charlotte Sena’s kidnapping as the investigation unfolds, police say**
 
-You can read more about it [here](https://www.eonline.com/news/1387044/jamie-lynn-spears-reacts-to-her-dancing-with-the-stars-elimination).
+You can read more about it [here](https://www.cnn.com/2023/10/04/us/new-york-girl-kidnapping-suspect-investigation-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
