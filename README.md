@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696604902)
+![Generated GIF](output.gif?raw=true&v=1696610347)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Philippe to bring widespread, heavy rain to Maine this weekend**
+**Being a vegetarian may be in the genes, a new study finds : Shots - Health News**
 
-You can read more about it [here](https://www.wmtw.com/article/tropical-storm-philippe-maine-canada-heavy-rain/45452756).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/05/1203601131/vegetarianism-vegetarian-genes-diet-meat-genetics).
 
 ## Requirements
 - Python 3.8
