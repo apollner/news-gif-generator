@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696619137)
+![Generated GIF](output.gif?raw=true&v=1696620893)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No jackpot winner! Powerball rises to $1.4 billion but a $2 million Power Play winner sold in Ky.**
+**Himalayan lake flooding in India kills 18, nearly 100 missing**
 
-You can read more about it [here](https://www.wdrb.com/news/no-jackpot-winner-powerball-rises-to-1-4-billion-but-a-2-million-power-play/article_fe2e1070-6363-11ee-903b-b31324626ccf.html).
+You can read more about it [here](https://www.reuters.com/world/india/fourteen-dead-102-missing-after-indian-glacial-lake-bursts-bank-heavy-rain-2023-10-05/).
 
 ## Requirements
 - Python 3.8
