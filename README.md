@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696583263)
+![Generated GIF](output.gif?raw=true&v=1696584956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 on track to be the hottest year as September shatters heat records**
+**SAG-AFTRA and AMPTP Talks to Continue Friday and Monday**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/world/september-hottest-record-2023-climate-intl/index.html).
+You can read more about it [here](https://variety.com/2023/film/news/sag-aftra-amptp-negotiations-day-3-1235745741/).
 
 ## Requirements
 - Python 3.8
