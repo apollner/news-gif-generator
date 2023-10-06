@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696558635)
+![Generated GIF](output.gif?raw=true&v=1696559698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kevin McCarthy has gone. Why was he removed and who might replace him?**
+**Being a vegetarian might be in your DNA**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67004970).
+You can read more about it [here](https://www.cnn.com/2023/10/04/health/vegetarian-genetics-wellness/index.html).
 
 ## Requirements
 - Python 3.8
