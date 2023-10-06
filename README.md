@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696617320)
+![Generated GIF](output.gif?raw=true&v=1696619137)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk removes news headlines from displaying on X, formerly**
+**No jackpot winner! Powerball rises to $1.4 billion but a $2 million Power Play winner sold in Ky.**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/10/05/twitter-x-news-headlines-removed/).
+You can read more about it [here](https://www.wdrb.com/news/no-jackpot-winner-powerball-rises-to-1-4-billion-but-a-2-million-power-play/article_fe2e1070-6363-11ee-903b-b31324626ccf.html).
 
 ## Requirements
 - Python 3.8
