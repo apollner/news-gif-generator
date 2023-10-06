@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696622857)
+![Generated GIF](output.gif?raw=true&v=1696626344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nancy Mace Explains Why She Nixed Kevin McCarthy as House Speaker**
+**US jet shoots down Turkish drone in Syria, officials say**
 
-You can read more about it [here](https://www.wsj.com/politics/nancy-mace-explains-why-she-nixed-kevin-mccarthy-as-house-speaker-32148d9d).
+You can read more about it [here](https://www.reuters.com/world/turkish-officials-says-ground-operation-into-syria-an-option-after-bombing-2023-10-05/).
 
 ## Requirements
 - Python 3.8
