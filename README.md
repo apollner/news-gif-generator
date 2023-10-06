@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696559698)
+![Generated GIF](output.gif?raw=true&v=1696561669)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Being a vegetarian might be in your DNA**
+**Saudi Arabia will bid to host 2034 World Cup**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/health/vegetarian-genetics-wellness/index.html).
+You can read more about it [here](https://www.reuters.com/sports/soccer/saudi-arabia-will-bid-host-fifa-world-cup-2034-state-news-agency-2023-10-04/).
 
 ## Requirements
 - Python 3.8
