@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696556177)
+![Generated GIF](output.gif?raw=true&v=1696558635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Barclays Says Only Stocks Crash Can Rescue Bonds, as Fed Likely Won't Ease**
+**Kevin McCarthy has gone. Why was he removed and who might replace him?**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-05/only-a-stocks-crash-can-rescue-bonds-for-barclays-as-fed-won-t).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67004970).
 
 ## Requirements
 - Python 3.8
