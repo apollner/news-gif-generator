@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696584956)
+![Generated GIF](output.gif?raw=true&v=1696586982)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA and AMPTP Talks to Continue Friday and Monday**
+**Record 400K U.S.-bound migrants trek through dangerous Darién jungle this year**
 
-You can read more about it [here](https://variety.com/2023/film/news/sag-aftra-amptp-negotiations-day-3-1235745741/).
+You can read more about it [here](https://www.npr.org/2023/10/05/1203045232/migrants-darien-jungle-panama-to-us).
 
 ## Requirements
 - Python 3.8
