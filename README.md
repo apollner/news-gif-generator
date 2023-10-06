@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696568790)
+![Generated GIF](output.gif?raw=true&v=1696570428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Small tsunami waves reach Japan's Izu islands after 6.6 M quake**
+**Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw**
 
-You can read more about it [here](https://www.japantimes.co.jp/news/2023/10/05/japan/tsunami-advisory-earthquake/).
+You can read more about it [here](https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html).
 
 ## Requirements
 - Python 3.8
