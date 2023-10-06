@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696594480)
+![Generated GIF](output.gif?raw=true&v=1696596630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Presidential debates without Trump are becoming RNC headaches - POLITICO**
+**U.S. jobless claims increase slightly to 207,000 for the week**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/05/trump-presidential-debates-rnc-future-00120012).
+You can read more about it [here](https://www.cnbc.com/2023/10/05/weekly-jobless-claims-sept-30-2023-.html).
 
 ## Requirements
 - Python 3.8
