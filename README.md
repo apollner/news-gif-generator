@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696601268)
+![Generated GIF](output.gif?raw=true&v=1696602901)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Diamondbacks sweep Brewers, get Dodgers in NLDS**
+**5 things to know before the stock market opens Thursday**
 
-You can read more about it [here](https://arizonasports.com/story/3535562/diamondbacks-sweep-brewers-get-dodgers-in-nlds/).
+You can read more about it [here](https://www.cnbc.com/2023/10/05/5-things-to-know-before-the-stock-market-opens-thursday-october-5.html).
 
 ## Requirements
 - Python 3.8
