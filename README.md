@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696588530)
+![Generated GIF](output.gif?raw=true&v=1696590312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China to double size of space station, touts alternative to NASA-led ISS**
+**BPD: Video shows persons of interest in Morgan State University shooting**
 
-You can read more about it [here](https://www.reuters.com/technology/space/china-double-size-space-station-touts-alternative-nasa-led-iss-2023-10-05/).
+You can read more about it [here](https://www.wbaltv.com/article/morgan-state-university-shooting-persons-of-interest-video/45449878).
 
 ## Requirements
 - Python 3.8
