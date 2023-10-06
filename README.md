@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696561669)
+![Generated GIF](output.gif?raw=true&v=1696563304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saudi Arabia will bid to host 2034 World Cup**
+**Phillies win NL Wild Card Series 2023**
 
-You can read more about it [here](https://www.reuters.com/sports/soccer/saudi-arabia-will-bid-host-fifa-world-cup-2034-state-news-agency-2023-10-04/).
+You can read more about it [here](https://www.mlb.com/news/phillies-win-nl-wild-card-series-2023).
 
 ## Requirements
 - Python 3.8
