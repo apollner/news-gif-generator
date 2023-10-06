@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696563304)
+![Generated GIF](output.gif?raw=true&v=1696565367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phillies win NL Wild Card Series 2023**
+**Powerball numbers drawn for $1.2B jackpot: Did you win?**
 
-You can read more about it [here](https://www.mlb.com/news/phillies-win-nl-wild-card-series-2023).
+You can read more about it [here](https://fox59.com/news/powerball-numbers-drawn-for-1-2b-jackpot-did-you-win/).
 
 ## Requirements
 - Python 3.8
