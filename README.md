@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696631692)
+![Generated GIF](output.gif?raw=true&v=1696633649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cannibalism was a common funeral ritual in Europe 15,000 years ago, study finds**
+**Man returns to Wisconsin Capitol with assault rifle and asks to see Gov. Tony Evers, hours after being arrested for bringing gun inside**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/europe/cannibalism-funeral-ritual-intl-scli-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/05/us/tony-evers-wisconsin-state-capitol/index.html).
 
 ## Requirements
 - Python 3.8
