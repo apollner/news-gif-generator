@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696620893)
+![Generated GIF](output.gif?raw=true&v=1696622857)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Himalayan lake flooding in India kills 18, nearly 100 missing**
+**Nancy Mace Explains Why She Nixed Kevin McCarthy as House Speaker**
 
-You can read more about it [here](https://www.reuters.com/world/india/fourteen-dead-102-missing-after-indian-glacial-lake-bursts-bank-heavy-rain-2023-10-05/).
+You can read more about it [here](https://www.wsj.com/politics/nancy-mace-explains-why-she-nixed-kevin-mccarthy-as-house-speaker-32148d9d).
 
 ## Requirements
 - Python 3.8
