@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696552216)
+![Generated GIF](output.gif?raw=true&v=1696556177)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venice bus crash: The heroes who pulled survivors from burning wreck**
+**Barclays Says Only Stocks Crash Can Rescue Bonds, as Fed Likely Won't Ease**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67013364).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-05/only-a-stocks-crash-can-rescue-bonds-for-barclays-as-fed-won-t).
 
 ## Requirements
 - Python 3.8
