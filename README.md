@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696590312)
+![Generated GIF](output.gif?raw=true&v=1696592036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**BPD: Video shows persons of interest in Morgan State University shooting**
+**Atlanta Braves News: Phillies rematch set, rest of DS field too, more**
 
-You can read more about it [here](https://www.wbaltv.com/article/morgan-state-university-shooting-persons-of-interest-video/45449878).
+You can read more about it [here](https://www.batterypower.com/2023/10/5/23904239/atlanta-braves-news-phillies-rematch-set-rest-of-ds-field-too-more).
 
 ## Requirements
 - Python 3.8
