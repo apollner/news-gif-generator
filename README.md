@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696684006)
+![Generated GIF](output.gif?raw=true&v=1696685604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden to build more US border wall using Trump-era funds**
+**Putin suggests Wagner boss Prigozhin’s plane brought down by grenade blast**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-build-new-barriers-roads-texas-border-area-2023-10-05/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/6/putin-suggests-wagner-mercenary-chiefs-plane-brought-down-by-grenade-blast).
 
 ## Requirements
 - Python 3.8
