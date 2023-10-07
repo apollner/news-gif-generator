@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696678550)
+![Generated GIF](output.gif?raw=true&v=1696680785)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dick Butkus, Chicago Bears legend and Hall of Famer, dies at 80**
+**Oil prices hold steady, Russia rolls back diesel export ban**
 
-You can read more about it [here](https://theathletic.com/4935448/2023/10/05/dick-butkus-chicago-bears-obit/).
+You can read more about it [here](https://www.reuters.com/business/energy/oil-track-sharpest-weekly-decline-since-march-2023-10-06/).
 
 ## Requirements
 - Python 3.8
