@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696638573)
+![Generated GIF](output.gif?raw=true&v=1696642349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump may seek to pause $250 million New York business fraud trial**
+**Travis Kelce says NFL 'overdoing' its Taylor Swift coverage**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/05/trump-ordered-to-give-info-on-ny-businesses-amid-possible-dissolution.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67013451).
 
 ## Requirements
 - Python 3.8
