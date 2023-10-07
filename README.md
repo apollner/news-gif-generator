@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696664038)
+![Generated GIF](output.gif?raw=true&v=1696666164)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rachel Bilson Responds After Whoopi Criticizes Her Hot Take on Sex**
+**Taylor Swift's jean shorts she wore to Travis Kelce's game selling out amid dating rumors**
 
-You can read more about it [here](https://www.eonline.com/news/1387255/rachel-bilson-responds-after-whoopi-goldberg-criticizes-her-hot-take-on-mens-sex-lives).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swifts-jean-shorts-wore-travis-kelces-game-selling-out-amid-dating-rumors).
 
 ## Requirements
 - Python 3.8
