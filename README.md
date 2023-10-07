@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696698416)
+![Generated GIF](output.gif?raw=true&v=1696700093)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Philippe to impact Maine with heavy rain this weekend**
+**How to use the new Messages features in iOS 17**
 
-You can read more about it [here](https://www.wmtw.com/article/sub-tropical-storm-philippe-maine-new-engaland/45465823).
+You can read more about it [here](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to).
 
 ## Requirements
 - Python 3.8
