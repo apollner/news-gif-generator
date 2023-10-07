@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696703633)
+![Generated GIF](output.gif?raw=true&v=1696705472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Long colds' could be as common as 'long Covid' — with lasting effects, study says**
+**How to use the new Messages features in iOS 17**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/06/long-colds-could-be-as-common-as-long-covid-study.html).
+You can read more about it [here](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to).
 
 ## Requirements
 - Python 3.8
