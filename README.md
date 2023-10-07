@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696712684)
+![Generated GIF](output.gif?raw=true&v=1696714413)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The couple killed by a bear in Banff were able to send an SOS text: 'Bear attack bad'**
+**Jim Jordan, the face of key GOP investigations, seeks the speaker’s gavel**
 
-You can read more about it [here](https://www.npr.org/2023/10/06/1203928437/couple-grizzly-bear-attack-banff-sent-message).
+You can read more about it [here](https://www.cnn.com/2023/10/06/politics/jim-jordan-profile-house-speaker-race/index.html).
 
 ## Requirements
 - Python 3.8
