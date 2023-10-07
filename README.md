@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696710840)
+![Generated GIF](output.gif?raw=true&v=1696712684)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MGM Resorts attackers hit personal data jackpot, but house lost $100M**
+**The couple killed by a bear in Banff were able to send an SOS text: 'Bear attack bad'**
 
-You can read more about it [here](https://www.theregister.com/2023/10/06/mgm_resorts_cyberattack_cost/).
+You can read more about it [here](https://www.npr.org/2023/10/06/1203928437/couple-grizzly-bear-attack-banff-sent-message).
 
 ## Requirements
 - Python 3.8
