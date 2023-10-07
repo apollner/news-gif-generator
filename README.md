@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696658977)
+![Generated GIF](output.gif?raw=true&v=1696660419)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**'Thursday Night Football' Week 5 expert picks: Bears at Commanders**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.prideofdetroit.com/2023/10/5/23902181/thursday-night-football-week-5-expert-picks-chicago-bears-at-washington-commanders-betting-line).
 
 ## Requirements
 - Python 3.8
