@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696674966)
+![Generated GIF](output.gif?raw=true&v=1696676686)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China to double the size of its space station as it offers an alternative to NASA-led ISS**
+**U.S. will resume deportation flights to Venezuela**
 
-You can read more about it [here](https://www.cnn.com/2023/10/06/china/china-space-station-double-size-intl-hnk-scn/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/05/biden-deportation-venezuela-migrant-crisis-00120200).
 
 ## Requirements
 - Python 3.8
