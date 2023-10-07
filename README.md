@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696655248)
+![Generated GIF](output.gif?raw=true&v=1696656816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 80 killed in drone attack on Syrian military academy in Homs**
+**Justin Fields Bears beat Commanders to end 14-game losing streak**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/05/syria-attack-homs-military-academy/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38577968/justin-fields-bears-beat-commanders-end-14-game-losing-streak).
 
 ## Requirements
 - Python 3.8
