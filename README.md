@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696673282)
+![Generated GIF](output.gif?raw=true&v=1696674966)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WATCH LIVE: Winner of 2023 Nobel Peace Prize announced**
+**China to double the size of its space station as it offers an alternative to NASA-led ISS**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/watch-live-winner-of-2023-nobel-peace-prize-announced).
+You can read more about it [here](https://www.cnn.com/2023/10/06/china/china-space-station-double-size-intl-hnk-scn/index.html).
 
 ## Requirements
 - Python 3.8
