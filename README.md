@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696700093)
+![Generated GIF](output.gif?raw=true&v=1696702145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to use the new Messages features in iOS 17**
+**Donna Kelce says NFL is ‘laughing all the way to the bank’ with Taylor Swift, Travis Kelce dating rumors**
 
-You can read more about it [here](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to).
+You can read more about it [here](https://www.foxnews.com/sports/donna-kelce-says-nfl-laughing-all-way-bank-taylor-swift-travis-kelce-dating-rumors).
 
 ## Requirements
 - Python 3.8
