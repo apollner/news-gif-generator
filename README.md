@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696648026)
+![Generated GIF](output.gif?raw=true&v=1696649685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war**
+**Ancient footprints upend timeline of humans' arrival in North America**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/europe/kupiansk-ukraine-attack-zelensky-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/).
 
 ## Requirements
 - Python 3.8
