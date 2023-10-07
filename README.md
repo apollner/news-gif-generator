@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696719930)
+![Generated GIF](output.gif?raw=true&v=1696721615)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump allegedly revealed sensitive info about nuclear submarines, according to reports**
+**Cavs say Travis Kelce was great before Taylor Swift - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/06/trump-allegedly-revealed-sensitive-info-about-nuclear-submarines-according-to-reports.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38584343/cleveland-cavaliers-weigh-taylor-swift-travis-kelce).
 
 ## Requirements
 - Python 3.8
