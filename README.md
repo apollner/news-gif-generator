@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696714413)
+![Generated GIF](output.gif?raw=true&v=1696716292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan, the face of key GOP investigations, seeks the speaker’s gavel**
+**‘The Exorcist: Believer’ Delivers $2.9M in Box Office Previews**
 
-You can read more about it [here](https://www.cnn.com/2023/10/06/politics/jim-jordan-profile-house-speaker-race/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-exorcist-believer-box-office-previews-1235611021/).
 
 ## Requirements
 - Python 3.8
