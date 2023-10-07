@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696666164)
+![Generated GIF](output.gif?raw=true&v=1696667614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift's jean shorts she wore to Travis Kelce's game selling out amid dating rumors**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swifts-jean-shorts-wore-travis-kelces-game-selling-out-amid-dating-rumors).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
