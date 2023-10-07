@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696702145)
+![Generated GIF](output.gif?raw=true&v=1696703633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Donna Kelce says NFL is ‘laughing all the way to the bank’ with Taylor Swift, Travis Kelce dating rumors**
+**'Long colds' could be as common as 'long Covid' — with lasting effects, study says**
 
-You can read more about it [here](https://www.foxnews.com/sports/donna-kelce-says-nfl-laughing-all-way-bank-taylor-swift-travis-kelce-dating-rumors).
+You can read more about it [here](https://www.cnbc.com/2023/10/06/long-colds-could-be-as-common-as-long-covid-study.html).
 
 ## Requirements
 - Python 3.8
