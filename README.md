@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696644282)
+![Generated GIF](output.gif?raw=true&v=1696646026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk's Twitter takeover being probed by SEC**
+**'Thursday Night Football' live updates: Bears vs. Commanders predictions, odds, how to watch**
 
-You can read more about it [here](https://www.reuters.com/legal/government/elon-musks-twitter-stock-purchases-under-probe-by-sec-2023-10-05/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/10/05/bears-commanders-score-predictions-odds-live-updates-tnf/71073681007/).
 
 ## Requirements
 - Python 3.8
