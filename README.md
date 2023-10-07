@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696692823)
+![Generated GIF](output.gif?raw=true&v=1696694859)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ron Rivera's Commanders flop miserably as Bears break 14-game losing streak**
+**Google's Android 14 statue goes all in on Upside Down Cake**
 
-You can read more about it [here](https://sports.yahoo.com/washington-commanders-lose-chicago-bears-break-14-game-losing-streak-114302923.html).
+You can read more about it [here](https://9to5google.com/2023/10/06/android-14-statue/).
 
 ## Requirements
 - Python 3.8
