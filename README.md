@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696651774)
+![Generated GIF](output.gif?raw=true&v=1696653220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried demanded special privileges for his fund, ex-colleague testifies**
+**At least 80 killed in drone attack on Syrian military academy in Homs**
 
-You can read more about it [here](https://www.reuters.com/legal/sam-bankman-frieds-onetime-roommate-gary-wang-takes-stand-trial-2023-10-05/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/05/syria-attack-homs-military-academy/).
 
 ## Requirements
 - Python 3.8
