@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696682778)
+![Generated GIF](output.gif?raw=true&v=1696684006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marc Anthony and Wife Nadia Ferreira Heat Up the Red Carpet at Billboard Latin Music Awards 2023**
+**Biden to build more US border wall using Trump-era funds**
 
-You can read more about it [here](https://www.eonline.com/news/1387252/marc-anthony-and-wife-nadia-ferreira-heat-up-the-red-carpet-at-billboard-latin-music-awards-2023).
+You can read more about it [here](https://www.reuters.com/world/us/us-build-new-barriers-roads-texas-border-area-2023-10-05/).
 
 ## Requirements
 - Python 3.8
