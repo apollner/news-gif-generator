@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696707219)
+![Generated GIF](output.gif?raw=true&v=1696709208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Exorcist: Believer’ Delivers $2.9M in Box Office Previews**
+**Dolphins trade for Chase Claypool, putting Terron Armstead on IR - ESPN**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-exorcist-believer-box-office-previews-1235611021/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38583124/dolphins-trading-bears-wr-chase-claypool-source-confirms).
 
 ## Requirements
 - Python 3.8
