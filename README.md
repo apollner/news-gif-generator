@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696687510)
+![Generated GIF](output.gif?raw=true&v=1696689259)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Nobel Peace Prize winner is Narges Mohammadi, Iranian activist**
+**Travis Kelce's mom weighs in on Taylor Swift dating rumors: NFL is 'laughing all the way to the bank'**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/06/nobel-peace-prize-2023-iran/).
+You can read more about it [here](https://nypost.com/2023/10/06/travis-kelces-mom-donna-says-the-nfl-is-laughing-all-the-way-to-the-bank-amid-taylor-swift-rumors/).
 
 ## Requirements
 - Python 3.8
