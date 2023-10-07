@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696709208)
+![Generated GIF](output.gif?raw=true&v=1696710840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dolphins trade for Chase Claypool, putting Terron Armstead on IR - ESPN**
+**MGM Resorts attackers hit personal data jackpot, but house lost $100M**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38583124/dolphins-trading-bears-wr-chase-claypool-source-confirms).
+You can read more about it [here](https://www.theregister.com/2023/10/06/mgm_resorts_cyberattack_cost/).
 
 ## Requirements
 - Python 3.8
