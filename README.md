@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696669525)
+![Generated GIF](output.gif?raw=true&v=1696671233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Ocasio-Cortez on border wall announcement: President must ‘take responsibility,’ ‘reverse course’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://digital-dev.thehill.com/homenews/4241327-ocasio-cortez-on-border-wall-announcement-president-must-take-responsibility-reverse-course/).
 
 ## Requirements
 - Python 3.8
