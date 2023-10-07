@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696671233)
+![Generated GIF](output.gif?raw=true&v=1696673282)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ocasio-Cortez on border wall announcement: President must ‘take responsibility,’ ‘reverse course’**
+**WATCH LIVE: Winner of 2023 Nobel Peace Prize announced**
 
-You can read more about it [here](https://digital-dev.thehill.com/homenews/4241327-ocasio-cortez-on-border-wall-announcement-president-must-take-responsibility-reverse-course/).
+You can read more about it [here](https://www.pbs.org/newshour/world/watch-live-winner-of-2023-nobel-peace-prize-announced).
 
 ## Requirements
 - Python 3.8
