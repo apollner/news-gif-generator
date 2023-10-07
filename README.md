@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696662315)
+![Generated GIF](output.gif?raw=true&v=1696664038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Rachel Bilson Responds After Whoopi Criticizes Her Hot Take on Sex**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.eonline.com/news/1387255/rachel-bilson-responds-after-whoopi-goldberg-criticizes-her-hot-take-on-mens-sex-lives).
 
 ## Requirements
 - Python 3.8
