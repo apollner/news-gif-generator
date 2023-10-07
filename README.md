@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696649685)
+![Generated GIF](output.gif?raw=true&v=1696651774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ancient footprints upend timeline of humans' arrival in North America**
+**Sam Bankman-Fried demanded special privileges for his fund, ex-colleague testifies**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/).
+You can read more about it [here](https://www.reuters.com/legal/sam-bankman-frieds-onetime-roommate-gary-wang-takes-stand-trial-2023-10-05/).
 
 ## Requirements
 - Python 3.8
