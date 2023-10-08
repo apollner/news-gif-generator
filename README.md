@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696721615)
+![Generated GIF](output.gif?raw=true&v=1696725240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cavs say Travis Kelce was great before Taylor Swift - ESPN**
+**Android 14 elevates HDR image support in Google Chrome**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38584343/cleveland-cavaliers-weigh-taylor-swift-travis-kelce).
+You can read more about it [here](https://www.androidpolice.com/android-14-elevates-hdr-image-support/).
 
 ## Requirements
 - Python 3.8
