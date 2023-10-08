@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696738165)
+![Generated GIF](output.gif?raw=true&v=1696739646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Buckle up for more ‘turbulence’ in the housing market, BofA says—it’s a housing recession, 1980s-style**
+**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
 
-You can read more about it [here](https://fortune.com/2023/10/06/home-price-outlook-bank-of-america-housing-recession-turbulence-1980s-not-2008/).
+You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
 
 ## Requirements
 - Python 3.8
