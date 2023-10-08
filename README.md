@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696770395)
+![Generated GIF](output.gif?raw=true&v=1696772087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK reaffirms position after Canada-India diplomatic spat**
+**Novavax's updated Covid vaccine can still catch up to Pfizer, Moderna shots this fall**
 
-You can read more about it [here](https://www.reuters.com/world/uk-reaffirms-position-after-canada-india-diplomatic-spat-2023-10-06/).
+You can read more about it [here](https://www.cnbc.com/2023/10/07/novavax-covid-vaccine-can-still-catch-up-to-pfizer-moderna-shots.html).
 
 ## Requirements
 - Python 3.8
