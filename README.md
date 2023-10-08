@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696743208)
+![Generated GIF](output.gif?raw=true&v=1696745377)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**90% of COVID Deaths Are in 1 Group**
+**Pac-12 football Week 6 odds, score predictions: Will Oregon State, WSU, Colorado all win on the road?**
 
-You can read more about it [here](https://themessenger.com/health/covid-deaths-elderly-august-january).
+You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/10/pac-12-football-week-6-odds-score-predictions-will-oregon-state-wsu-colorado-all-win-on-the-road.html).
 
 ## Requirements
 - Python 3.8
