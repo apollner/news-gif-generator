@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696797248)
+![Generated GIF](output.gif?raw=true&v=1696799157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football scores, updates: Oklahoma opens up lead on Texas in Red River Rivalry**
+**Newsom vetoes a proposed ban on caste discrimination in California**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-vs-texas-am-washington-state-at-ucla-and-more-195437584.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495).
 
 ## Requirements
 - Python 3.8
