@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696806351)
+![Generated GIF](output.gif?raw=true&v=1696808029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Retired dean married to Pulitzer Prize-winning writer found shot to death on Vermont trail**
+**College football scores, updates: Alabama vs. Texas A&M, Washington State at UCLA and more**
 
-You can read more about it [here](https://abcnews.go.com/US/woman-found-dead-vermont-trail/story?id=103797132).
+You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-holds-strong-in-testy-road-win-at-texas-am-225909732.html).
 
 ## Requirements
 - Python 3.8
