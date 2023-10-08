@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696734421)
+![Generated GIF](output.gif?raw=true&v=1696736029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dick Butkus, the ultimate football player, helped build the modern NFL**
+**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
 
-You can read more about it [here](https://theathletic.com/4936245/2023/10/06/dick-butkus-chicago-bears/).
+You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
 
 ## Requirements
 - Python 3.8
