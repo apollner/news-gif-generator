@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696769252)
+![Generated GIF](output.gif?raw=true&v=1696770395)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
+**UK reaffirms position after Canada-India diplomatic spat**
 
-You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
+You can read more about it [here](https://www.reuters.com/world/uk-reaffirms-position-after-canada-india-diplomatic-spat-2023-10-06/).
 
 ## Requirements
 - Python 3.8
