@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696741591)
+![Generated GIF](output.gif?raw=true&v=1696743208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
+**90% of COVID Deaths Are in 1 Group**
 
-You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
+You can read more about it [here](https://themessenger.com/health/covid-deaths-elderly-august-january).
 
 ## Requirements
 - Python 3.8
