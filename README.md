@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696729161)
+![Generated GIF](output.gif?raw=true&v=1696731602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden stumbles over response to question about border wall funding**
+**90% of COVID Deaths Are in 1 Group**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-stumbles-response-question-border-wall-funding).
+You can read more about it [here](https://themessenger.com/health/covid-deaths-elderly-august-january).
 
 ## Requirements
 - Python 3.8
