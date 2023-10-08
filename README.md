@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696775741)
+![Generated GIF](output.gif?raw=true&v=1696777604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football schedule today: TV coverage, scores for Big Ten games**
+**The Pixel 8 Pro temperature sensor won’t tell you your body temperature**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/2023/10/07/college-football-schedule-today-tv-coverage-scores-big-ten-games/71075620007/).
+You can read more about it [here](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature).
 
 ## Requirements
 - Python 3.8
