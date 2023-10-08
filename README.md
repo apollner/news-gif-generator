@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696767104)
+![Generated GIF](output.gif?raw=true&v=1696769252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Six suspects in assassination of Ecuador candidate murdered in prison**
+**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
 
-You can read more about it [here](https://www.reuters.com/world/americas/six-people-implicated-ecuador-candidate-murder-killed-prison-officials-2023-10-07/).
+You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
 
 ## Requirements
 - Python 3.8
