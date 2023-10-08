@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696764823)
+![Generated GIF](output.gif?raw=true&v=1696767104)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Job growth defies expectations but economic questions remain**
+**Six suspects in assassination of Ecuador candidate murdered in prison**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/job-growth-defies-expectations-but-questions-remain-about-overall-health-of-economy).
+You can read more about it [here](https://www.reuters.com/world/americas/six-people-implicated-ecuador-candidate-murder-killed-prison-officials-2023-10-07/).
 
 ## Requirements
 - Python 3.8
