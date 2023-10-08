@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696761219)
+![Generated GIF](output.gif?raw=true&v=1696764823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**Job growth defies expectations but economic questions remain**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://www.pbs.org/newshour/show/job-growth-defies-expectations-but-questions-remain-about-overall-health-of-economy).
 
 ## Requirements
 - Python 3.8
