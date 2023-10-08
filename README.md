@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696748731)
+![Generated GIF](output.gif?raw=true&v=1696750418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ariana Grande and Dalton Gomez Settle Divorce 6 Months After Breakup**
+**2023 Nobel Peace Prize awarded to Narges Mohammadi, women's rights activist jailed in Iran**
 
-You can read more about it [here](https://www.eonline.com/news/1380417/ariana-grande-and-dalton-gomez-settle-divorce-6-months-after-breakup).
+You can read more about it [here](https://www.cbsnews.com/news/nobel-peace-prize-2023-winner-narges-mohammadi-iran-womens-rights-activist/).
 
 ## Requirements
 - Python 3.8
