@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696800822)
+![Generated GIF](output.gif?raw=true&v=1696802743)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 6 live updates: WSU-UCLA, Alabama-Texas A&M, more**
+**Travis Kelce Closes Down Restaurant for His 34th Birthday in Kansas City Sans Taylor Swift**
 
-You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-6-live-updates).
+You can read more about it [here](https://www.etonline.com/travis-kelce-closes-down-restaurant-for-his-34th-birthday-in-kansas-city-sans-taylor-swift-212677).
 
 ## Requirements
 - Python 3.8
