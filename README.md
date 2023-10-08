@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696777604)
+![Generated GIF](output.gif?raw=true&v=1696779271)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Pixel 8 Pro temperature sensor won’t tell you your body temperature**
+**Hamas says it is holding dozens of Israeli soldiers captured in surprise incursion**
 
-You can read more about it [here](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-airstrikes-tel-aviv-11fb98655c256d54ecb5329284fc37d2).
 
 ## Requirements
 - Python 3.8
