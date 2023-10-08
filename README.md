@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696788635)
+![Generated GIF](output.gif?raw=true&v=1696790023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Assassin's Creed Mirage goes back to basics — and ends up basic**
+**Kelce mom on meeting Taylor Swift: ‘It was…’**
 
-You can read more about it [here](https://www.theverge.com/23906187/assassins-creed-mirage-review-ubisoft).
+You can read more about it [here](https://fox8.com/news/kelce-mom-on-meeting-taylor-swift-it-was/).
 
 ## Requirements
 - Python 3.8
