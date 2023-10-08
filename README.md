@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696804419)
+![Generated GIF](output.gif?raw=true&v=1696806351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SmartThings Head Jaeyeon Jung sheds light on challenges and platform evolution [Interview] - SamMobile**
+**Retired dean married to Pulitzer Prize-winning writer found shot to death on Vermont trail**
 
-You can read more about it [here](https://www.sammobile.com/news/smartthings-head-jaeyeon-jung-sheds-light-on-challenges-and-platform-evolution-interview/).
+You can read more about it [here](https://abcnews.go.com/US/woman-found-dead-vermont-trail/story?id=103797132).
 
 ## Requirements
 - Python 3.8
