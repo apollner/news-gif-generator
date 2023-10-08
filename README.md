@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696791889)
+![Generated GIF](output.gif?raw=true&v=1696795583)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio State top RB TreVeyon Henderson out against Maryland**
+**Orioles vs. Rangers live stream: TV channel, watch 2023 MLB playoffs without cable, odds for ALDS Game 1**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38591856/ohio-state-top-rb-treveyon-henderson-maryland).
+You can read more about it [here](https://www.cbssports.com/mlb/news/orioles-vs-rangers-live-stream-tv-channel-watch-2023-mlb-playoffs-without-cable-odds-for-alds-game-1/).
 
 ## Requirements
 - Python 3.8
