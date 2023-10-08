@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696746828)
+![Generated GIF](output.gif?raw=true&v=1696748731)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon Prime Day for October 2023 is here: Shop these deals**
+**Ariana Grande and Dalton Gomez Settle Divorce 6 Months After Breakup**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/10/06/amazon-prime-day-2023-october-10-deals/71076778007/).
+You can read more about it [here](https://www.eonline.com/news/1380417/ariana-grande-and-dalton-gomez-settle-divorce-6-months-after-breakup).
 
 ## Requirements
 - Python 3.8
