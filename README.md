@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696802743)
+![Generated GIF](output.gif?raw=true&v=1696804419)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce Closes Down Restaurant for His 34th Birthday in Kansas City Sans Taylor Swift**
+**SmartThings Head Jaeyeon Jung sheds light on challenges and platform evolution [Interview] - SamMobile**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-closes-down-restaurant-for-his-34th-birthday-in-kansas-city-sans-taylor-swift-212677).
+You can read more about it [here](https://www.sammobile.com/news/smartthings-head-jaeyeon-jung-sheds-light-on-challenges-and-platform-evolution-interview/).
 
 ## Requirements
 - Python 3.8
