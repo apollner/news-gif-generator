@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696731602)
+![Generated GIF](output.gif?raw=true&v=1696732603)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**90% of COVID Deaths Are in 1 Group**
+**Dick Butkus, the ultimate football player, helped build the modern NFL**
 
-You can read more about it [here](https://themessenger.com/health/covid-deaths-elderly-august-january).
+You can read more about it [here](https://theathletic.com/4936245/2023/10/06/dick-butkus-chicago-bears/).
 
 ## Requirements
 - Python 3.8
