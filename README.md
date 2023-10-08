@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696773879)
+![Generated GIF](output.gif?raw=true&v=1696775741)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Novavax's updated Covid vaccine can still catch up to Pfizer, Moderna shots this fall**
+**College football schedule today: TV coverage, scores for Big Ten games**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/07/novavax-covid-vaccine-can-still-catch-up-to-pfizer-moderna-shots.html).
+You can read more about it [here](https://www.freep.com/story/sports/college/2023/10/07/college-football-schedule-today-tv-coverage-scores-big-ten-games/71075620007/).
 
 ## Requirements
 - Python 3.8
