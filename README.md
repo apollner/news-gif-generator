@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696790023)
+![Generated GIF](output.gif?raw=true&v=1696791889)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kelce mom on meeting Taylor Swift: ‘It was…’**
+**Ohio State top RB TreVeyon Henderson out against Maryland**
 
-You can read more about it [here](https://fox8.com/news/kelce-mom-on-meeting-taylor-swift-it-was/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38591856/ohio-state-top-rb-treveyon-henderson-maryland).
 
 ## Requirements
 - Python 3.8
