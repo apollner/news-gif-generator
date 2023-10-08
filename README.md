@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696725240)
+![Generated GIF](output.gif?raw=true&v=1696729161)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Android 14 elevates HDR image support in Google Chrome**
+**Biden stumbles over response to question about border wall funding**
 
-You can read more about it [here](https://www.androidpolice.com/android-14-elevates-hdr-image-support/).
+You can read more about it [here](https://www.foxnews.com/politics/biden-stumbles-response-question-border-wall-funding).
 
 ## Requirements
 - Python 3.8
