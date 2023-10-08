@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696795583)
+![Generated GIF](output.gif?raw=true&v=1696797248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orioles vs. Rangers live stream: TV channel, watch 2023 MLB playoffs without cable, odds for ALDS Game 1**
+**College football scores, updates: Oklahoma opens up lead on Texas in Red River Rivalry**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/orioles-vs-rangers-live-stream-tv-channel-watch-2023-mlb-playoffs-without-cable-odds-for-alds-game-1/).
+You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-vs-texas-am-washington-state-at-ucla-and-more-195437584.html).
 
 ## Requirements
 - Python 3.8
