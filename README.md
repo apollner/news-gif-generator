@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696754011)
+![Generated GIF](output.gif?raw=true&v=1696755920)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**‘The Exorcist: Believer’ Looking At $28M+ Opening – Friday PM**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://deadline.com/2023/10/box-office-the-exorcist-believer-1235565802/).
 
 ## Requirements
 - Python 3.8
