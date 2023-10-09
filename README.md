@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696857261)
+![Generated GIF](output.gif?raw=true&v=1696858555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Afghanistan earthquake: Hundreds feared dead in 6.3 quake**
+**Shani Louk: Mother pleads for help as daughter goes missing at festival**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67039463).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67046444).
 
 ## Requirements
 - Python 3.8
