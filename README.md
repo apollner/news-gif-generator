@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696822602)
+![Generated GIF](output.gif?raw=true&v=1696824611)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MGM didn't pay up after hackers broke into its system and stole customer data**
+**War in Israel tests Biden's foreign policy case for 2024**
 
-You can read more about it [here](https://www.theverge.com/2023/10/7/23907776/mgm-refused-pay-customer-data-stolen-cyberattack-ransom).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/war-israel-tests-bidens-foreign-policy-case-2024-rcna119349).
 
 ## Requirements
 - Python 3.8
