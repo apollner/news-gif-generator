@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696808029)
+![Generated GIF](output.gif?raw=true&v=1696811458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football scores, updates: Alabama vs. Texas A&M, Washington State at UCLA and more**
+**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-holds-strong-in-testy-road-win-at-texas-am-225909732.html).
+You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
 
 ## Requirements
 - Python 3.8
