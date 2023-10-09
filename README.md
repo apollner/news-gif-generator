@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696842550)
+![Generated GIF](output.gif?raw=true&v=1696844064)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Sister Wives' Star Christine Brown Marries David Woolley After Kody Brown Split**
+**Horoscope for Sunday, Oct. 8, 2023**
 
-You can read more about it [here](https://www.etonline.com/sister-wives-star-christine-brown-marries-david-woolley-after-kody-brown-split-209686).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/8/23902584/horoscopes-today-sunday-oct-8-2023).
 
 ## Requirements
 - Python 3.8
