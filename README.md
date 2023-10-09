@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696820947)
+![Generated GIF](output.gif?raw=true&v=1696822602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia vs. Kentucky live stream, watch online, TV channel, kickoff time, prediction, expert picks**
+**MGM didn't pay up after hackers broke into its system and stole customer data**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/georgia-vs-kentucky-live-stream-watch-online-tv-channel-kickoff-time-prediction-expert-picks/).
+You can read more about it [here](https://www.theverge.com/2023/10/7/23907776/mgm-refused-pay-customer-data-stolen-cyberattack-ransom).
 
 ## Requirements
 - Python 3.8
