@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696880049)
+![Generated GIF](output.gif?raw=true&v=1696881971)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minneapolis Radio Station Trolls Taylor Swift, Travis Kelce With Billboard Before Chiefs-Vikings**
+**Airlines cancel Tel Aviv flights as Israelis abroad scramble for way home**
 
-You can read more about it [here](https://www.si.com/nfl/2023/10/08/taylor-swift-travis-kelce-billboard-trooll-before-chiefs-vikings).
+You can read more about it [here](https://www.timesofisrael.com/airlines-cancel-tel-aviv-flights-as-israelis-abroad-scramble-for-way-home/).
 
 ## Requirements
 - Python 3.8
