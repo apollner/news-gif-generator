@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696840711)
+![Generated GIF](output.gif?raw=true&v=1696842550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Running Parallels Antidepressants in Reducing Depression**
+**'Sister Wives' Star Christine Brown Marries David Woolley After Kody Brown Split**
 
-You can read more about it [here](https://neurosciencenews.com/running-ssri-depression-24928/).
+You can read more about it [here](https://www.etonline.com/sister-wives-star-christine-brown-marries-david-woolley-after-kody-brown-split-209686).
 
 ## Requirements
 - Python 3.8
