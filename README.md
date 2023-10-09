@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696887228)
+![Generated GIF](output.gif?raw=true&v=1696889230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Israel-Hamas war means for oil prices and financial markets**
+**Who is David Woolley? 'Sister Wives' star Christine Brown's new husband**
 
-You can read more about it [here](https://www.marketwatch.com/story/fear-trade-oil-traders-say-hamas-attack-on-israel-puts-focus-on-iran-saudi-arabia-e4edf34c).
+You can read more about it [here](https://www.insider.com/sister-wives-star-christine-brown-husband-david-woolley-2023-10).
 
 ## Requirements
 - Python 3.8
