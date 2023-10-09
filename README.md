@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696883618)
+![Generated GIF](output.gif?raw=true&v=1696885644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gameday updates: Vikings host Super Bowl champion Chiefs — and possibly Taylor Swift**
+**Powerball jackpot grows to near record levels after no winners in Saturday's drawing**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/live-updates/gameday-updates-vikings-chiefs-october-8-2023/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/10/08/saturday-powerball-jackpot-no-winners/71109765007/).
 
 ## Requirements
 - Python 3.8
