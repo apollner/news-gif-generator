@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696847873)
+![Generated GIF](output.gif?raw=true&v=1696849562)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Cena & LA Knight vs. Jimmy Uso & Solo Sikoa: WWE Fastlane 2023 highlights**
+**Notre Dame's Loss to Louisville Raises Doubts on Marcus Freeman**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ViYJ48ghkms).
+You can read more about it [here](https://www.si.com/college/2023/10/08/notre-dame-loss-louisville-marcus-freeman-jeff-brohm).
 
 ## Requirements
 - Python 3.8
