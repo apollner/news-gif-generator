@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696875088)
+![Generated GIF](output.gif?raw=true&v=1696876568)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Israeli commander says Hamas hostage-taking changes the game, as families search missing for loved ones**
+**Shooting at Bowie State University in Maryland leaves 2 injured, say police, who believe more than 1 shooter involved**
 
-You can read more about it [here](https://www.cbsnews.com/news/israeli-commander-hamas-hostage-taking-point-of-no-return-israel-ziv/).
+You can read more about it [here](https://www.cnn.com/2023/10/08/us/bowie-state-university-maryland-shooting/index.html).
 
 ## Requirements
 - Python 3.8
