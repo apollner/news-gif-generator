@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696865649)
+![Generated GIF](output.gif?raw=true&v=1696867820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why remote jobs are paying knowledge workers to move to the Heartland**
+**2 shot on Bowie State University campus**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/10/08/remote-jobs-paying-knowledge-workers-to-move/71086636007/).
+You can read more about it [here](https://www.wbaltv.com/article/bowie-state-university-shooting/45475992).
 
 ## Requirements
 - Python 3.8
