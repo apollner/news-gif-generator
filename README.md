@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696815281)
+![Generated GIF](output.gif?raw=true&v=1696817835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**Weekly Horoscope Pisces, October 8-14, 2023 predicts financial prosperity**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/weekly-horoscope-pisces-october-8-14-2023-predicts-financial-prosperity-101696686601911.html).
 
 ## Requirements
 - Python 3.8
