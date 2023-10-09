@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696889230)
+![Generated GIF](output.gif?raw=true&v=1696892850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is David Woolley? 'Sister Wives' star Christine Brown's new husband**
+**Shooting at Bowie State University in Maryland leaves 2 injured, say police, who believe more than 1 shooter involved**
 
-You can read more about it [here](https://www.insider.com/sister-wives-star-christine-brown-husband-david-woolley-2023-10).
+You can read more about it [here](https://www.cnn.com/2023/10/08/us/bowie-state-university-maryland-shooting/index.html).
 
 ## Requirements
 - Python 3.8
