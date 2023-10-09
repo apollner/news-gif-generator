@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696831865)
+![Generated GIF](output.gif?raw=true&v=1696833428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rockets fired from Lebanon hits Israeli position in Shebaa Farms**
+**Your lookahead horoscope: October 8 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vyV66iLbMo0).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-october-8-2023/).
 
 ## Requirements
 - Python 3.8
