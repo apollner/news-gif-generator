@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696856039)
+![Generated GIF](output.gif?raw=true&v=1696857261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Player Props: Expert Week 5 Bets on Christian Kirk, Jared Goff, Desmond Ridder, More**
+**Afghanistan earthquake: Hundreds feared dead in 6.3 quake**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-player-props-expert-week-5-bets-on-christian-kirk-jared-goff-desmond-ridder).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67039463).
 
 ## Requirements
 - Python 3.8
