@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696918250)
+![Generated GIF](output.gif?raw=true&v=1696919788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Food Network star Michael Chiarello dead at 61 from 'acute allergic reaction'**
+**Rihanna Dances Up on A$AP Rocky For His Birthday After Drake Diss**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/food-network-star-michael-chiarello-dead-61).
+You can read more about it [here](https://www.tmz.com/2023/10/08/rihanna-dance-asap-rocky-35th-birthday-drake-diss/).
 
 ## Requirements
 - Python 3.8
