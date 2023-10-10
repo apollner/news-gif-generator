@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696942294)
+![Generated GIF](output.gif?raw=true&v=1696943612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GSK signs shingles vaccine deal with China's Zhifei for around $3 bln**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-signs-shingles-vaccine-deal-with-chinas-zhifei-about-3-bln-2023-10-09/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
