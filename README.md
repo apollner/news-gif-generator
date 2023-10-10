@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696959326)
+![Generated GIF](output.gif?raw=true&v=1696961417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas deployed specialised units to attack Israel, says source**
+**New California law won't ban Skittles, but could change food additives**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-deployed-specialised-units-attack-israel-says-source-2023-10-09/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/09/skittle-ban-california-law-additives/71116657007/).
 
 ## Requirements
 - Python 3.8
