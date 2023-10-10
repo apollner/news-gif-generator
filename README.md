@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696954199)
+![Generated GIF](output.gif?raw=true&v=1696955963)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What the Steelers Said After Beating Ravens**
+**Meet Tom Brady’s Hollywood Marketing Machine: Shadow Lion**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/what-steelers-said-ravens-beating-week-5-2023).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/shadow-lion-tom-brady-marketing-creative-studio-1235601240/).
 
 ## Requirements
 - Python 3.8
