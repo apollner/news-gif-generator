@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696901707)
+![Generated GIF](output.gif?raw=true&v=1696904175)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Embattled Metro Bank secures capital, Colombian billionaire Gilinski to take control**
+**NFL Week 5 grades: Patriots get an 'F' after blowout loss to Saints, Jaguars earn an 'A-' for win in London**
 
-You can read more about it [here](https://www.reuters.com/business/finance/metro-bank-secures-capital-colombian-billionaire-gilinski-takes-majority-stake-2023-10-08/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-grades-patriots-get-an-f-after-blowout-loss-to-saints-eagles-earn-an-a-for-beating-rams/).
 
 ## Requirements
 - Python 3.8
