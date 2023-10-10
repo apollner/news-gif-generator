@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696979169)
+![Generated GIF](output.gif?raw=true&v=1696980834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Shani Louk? German-born woman paraded around Gaza after Hamas terror attack at music festival in Israel**
+**Writers union ratifies its new contract with Hollywood and TV studios**
 
-You can read more about it [here](https://news.yahoo.com/shani-louk-german-born-woman-183737321.html).
+You can read more about it [here](https://www.cnn.com/2023/10/09/media/wga-contract-ratified/index.html).
 
 ## Requirements
 - Python 3.8
