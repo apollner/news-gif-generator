@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696919788)
+![Generated GIF](output.gif?raw=true&v=1696921627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rihanna Dances Up on A$AP Rocky For His Birthday After Drake Diss**
+**Israel-Hamas war live: Climbing death toll may include Americans**
 
-You can read more about it [here](https://www.tmz.com/2023/10/08/rihanna-dance-asap-rocky-35th-birthday-drake-diss/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/08/israeli-hamas-palestinian-war-live-updates/71109683007/).
 
 ## Requirements
 - Python 3.8
