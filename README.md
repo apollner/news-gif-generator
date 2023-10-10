@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696910982)
+![Generated GIF](output.gif?raw=true&v=1696912465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Over a dozen Utah state parks within totality zone of annular solar eclipse**
+**Bart Scott, Willie Colon, and the crew react to Jets' 31-21 Win Over Broncos | SNY**
 
-You can read more about it [here](https://kutv.com/news/local/over-a-dozen-utah-state-parks-within-totality-zone-of-annular-solar-eclipse-central-utah-nasa-space-sun-moon-oct-14-locations-viewing-events-ring-of-fire).
+You can read more about it [here](https://www.youtube.com/watch?v=bxYDkgxcYiU).
 
 ## Requirements
 - Python 3.8
