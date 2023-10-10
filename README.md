@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696932543)
+![Generated GIF](output.gif?raw=true&v=1696934262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Sunday, Oct. 8, 2023**
+**NFL Week 5 grades: 49ers earn an 'A+' for destroying Cowboys, Patriots get an 'F' after blowout loss to Saints**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/8/23902584/horoscopes-today-sunday-oct-8-2023).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-grades-49ers-earn-an-a-for-destroying-cowboys-patriots-get-an-f-after-blowout-loss-to-saints/).
 
 ## Requirements
 - Python 3.8
