@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696957556)
+![Generated GIF](output.gif?raw=true&v=1696959326)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce’s Ex Maya Benberry Shares Cryptic Post Amid Taylor Swift Drama**
+**Hamas deployed specialised units to attack Israel, says source**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/travis-kelce-ex-maya-benberry-153452302.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-deployed-specialised-units-attack-israel-says-source-2023-10-09/).
 
 ## Requirements
 - Python 3.8
