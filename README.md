@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696955963)
+![Generated GIF](output.gif?raw=true&v=1696957556)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meet Tom Brady’s Hollywood Marketing Machine: Shadow Lion**
+**Travis Kelce’s Ex Maya Benberry Shares Cryptic Post Amid Taylor Swift Drama**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/shadow-lion-tom-brady-marketing-creative-studio-1235601240/).
+You can read more about it [here](https://www.yahoo.com/entertainment/travis-kelce-ex-maya-benberry-153452302.html).
 
 ## Requirements
 - Python 3.8
