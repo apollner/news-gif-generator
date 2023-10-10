@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696948496)
+![Generated GIF](output.gif?raw=true&v=1696950469)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**49ers dominate Cowboys and Bill Belichick under fire: Everything you need to know about Week 5’s Sunday games**
+**What is Hamas? The militant group behind surprise attack on Israel has ruled Gaza for years**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/sport/week-5-review-2023-nfl-season-spt-intl/index.html).
+You can read more about it [here](https://abcnews.go.com/International/hamas-militant-group-surprise-attack-israel-ruled-gaza/story?id=103818777).
 
 ## Requirements
 - Python 3.8
