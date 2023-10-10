@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696912465)
+![Generated GIF](output.gif?raw=true&v=1696914393)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bart Scott, Willie Colon, and the crew react to Jets' 31-21 Win Over Broncos | SNY**
+**Israel and Palestine backers in US divided over deadly Hamas attack**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bxYDkgxcYiU).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/08/israel-palestine-supporters-rallies-hamas-attack-united-states/71112473007/).
 
 ## Requirements
 - Python 3.8
