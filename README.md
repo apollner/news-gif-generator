@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696923227)
+![Generated GIF](output.gif?raw=true&v=1696925446)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bart Scott, Willie Colon, and the crew react to Jets' 31-21 Win Over Broncos | SNY**
+**User’s manual to the effort by some GOPers to return McCarthy to the Speakership**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bxYDkgxcYiU).
+You can read more about it [here](https://www.foxnews.com/politics/users-manual-effort-some-gopers-return-mccarthy-speakership).
 
 ## Requirements
 - Python 3.8
