@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696961417)
+![Generated GIF](output.gif?raw=true&v=1696962923)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New California law won't ban Skittles, but could change food additives**
+**Gigi Hadid & Bradley Cooper Return to NYC After Weekend Getaway**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/09/skittle-ban-california-law-additives/71116657007/).
+You can read more about it [here](https://www.tmz.com/2023/10/09/gigi-hadid-bradley-cooper-return-nyc-weekend-trip-together/).
 
 ## Requirements
 - Python 3.8
