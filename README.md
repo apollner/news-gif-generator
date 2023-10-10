@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696968316)
+![Generated GIF](output.gif?raw=true&v=1696970027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli defense minister orders ‘complete siege’ of Gaza, as Hamas threatens hostages**
+**Rebecca Loos Reacts to "Nasty" Comments Amid Resurfaced David Beckham Affair Allegations**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/middleeast/israel-gaza-hamas-fighting-monday-intl-hnk/index.html).
+You can read more about it [here](https://www.eonline.com/news/1387391/rebecca-loos-reacts-to-nasty-comments-amid-resurfaced-david-beckham-affair-allegations).
 
 ## Requirements
 - Python 3.8
