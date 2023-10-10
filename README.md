@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696904175)
+![Generated GIF](output.gif?raw=true&v=1696905357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 5 grades: Patriots get an 'F' after blowout loss to Saints, Jaguars earn an 'A-' for win in London**
+**Oil prices jump 4% in wake of Hamas attack on Israel**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-grades-patriots-get-an-f-after-blowout-loss-to-saints-eagles-earn-an-a-for-beating-rams/).
+You can read more about it [here](https://www.cnbc.com/2023/10/09/brent-wti-prices-jump-after-hamas-attack-on-israel.html).
 
 ## Requirements
 - Python 3.8
