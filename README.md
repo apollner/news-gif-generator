@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696977215)
+![Generated GIF](output.gif?raw=true&v=1696979169)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Braves Notes: Brian Snitker on lineup changes, no restrictions for Max Fried and more**
+**Who is Shani Louk? German-born woman paraded around Gaza after Hamas terror attack at music festival in Israel**
 
-You can read more about it [here](https://www.batterypower.com/2023/10/9/23910181/atlnata-braves-notes-brian-snitker-lineup-changes-no-restrictions-max-fried).
+You can read more about it [here](https://news.yahoo.com/shani-louk-german-born-woman-183737321.html).
 
 ## Requirements
 - Python 3.8
