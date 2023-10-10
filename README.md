@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696894432)
+![Generated GIF](output.gif?raw=true&v=1696897808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is David Woolley? 'Sister Wives' star Christine Brown's new husband**
+**Embattled Metro Bank secures capital, Colombian billionaire Gilinski to take control**
 
-You can read more about it [here](https://www.insider.com/sister-wives-star-christine-brown-husband-david-woolley-2023-10).
+You can read more about it [here](https://www.reuters.com/business/finance/metro-bank-secures-capital-colombian-billionaire-gilinski-takes-majority-stake-2023-10-08/).
 
 ## Requirements
 - Python 3.8
