@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696952052)
+![Generated GIF](output.gif?raw=true&v=1696954199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Technology advances in breast cancer screenings lead to early diagnosis**
+**What the Steelers Said After Beating Ravens**
 
-You can read more about it [here](https://ksltv.com/592000/technology-advances-in-breast-cancer-screenings-lead-to-early-diagnosis/).
+You can read more about it [here](https://www.baltimoreravens.com/news/what-steelers-said-ravens-beating-week-5-2023).
 
 ## Requirements
 - Python 3.8
