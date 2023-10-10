@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696962923)
+![Generated GIF](output.gif?raw=true&v=1696964697)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gigi Hadid & Bradley Cooper Return to NYC After Weekend Getaway**
+**Timeline of surprise rocket attack by Hamas on Israel**
 
-You can read more about it [here](https://www.tmz.com/2023/10/09/gigi-hadid-bradley-cooper-return-nyc-weekend-trip-together/).
+You can read more about it [here](https://abcnews.go.com/International/timeline-surprise-rocket-attack-hamas-israel/story?id=103816006).
 
 ## Requirements
 - Python 3.8
