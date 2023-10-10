@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696970027)
+![Generated GIF](output.gif?raw=true&v=1696971947)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rebecca Loos Reacts to "Nasty" Comments Amid Resurfaced David Beckham Affair Allegations**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1387391/rebecca-loos-reacts-to-nasty-comments-amid-resurfaced-david-beckham-affair-allegations).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
