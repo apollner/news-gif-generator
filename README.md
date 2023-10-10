@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696928996)
+![Generated GIF](output.gif?raw=true&v=1696930548)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow, S&P Live Updates for Oct. 9, 2023**
+**Israel-Hamas war death toll spirals over 1,100 as Gaza Strip is bombed and gun battles rage for a third day**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-08/asia-stocks-set-to-rise-as-dollar-gains-on-attacks-markets-wrap).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-death-toll-gaza-strip-palestinians-israelis-latest-news-day-3/).
 
 ## Requirements
 - Python 3.8
