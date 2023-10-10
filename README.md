@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696975542)
+![Generated GIF](output.gif?raw=true&v=1696977215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
+**Braves Notes: Brian Snitker on lineup changes, no restrictions for Max Fried and more**
 
-You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
+You can read more about it [here](https://www.batterypower.com/2023/10/9/23910181/atlnata-braves-notes-brian-snitker-lineup-changes-no-restrictions-max-fried).
 
 ## Requirements
 - Python 3.8
