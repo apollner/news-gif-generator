@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697060040)
+![Generated GIF](output.gif?raw=true&v=1697061959)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Harvard head says students don’t speak for school after widely condemned Hamas-Israel statement**
+**Solar eclipse weather forecast: Will Saturday clouds spoil the view?**
 
-You can read more about it [here](https://thehill.com/homenews/education/4248087-harvard-statement-hamas-israel-students/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/10/10/saturday-solar-eclipse-weather-forecast/71129097007/).
 
 ## Requirements
 - Python 3.8
