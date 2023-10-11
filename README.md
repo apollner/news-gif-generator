@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697031219)
+![Generated GIF](output.gif?raw=true&v=1697033245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 6 Power Rankings: Patriots' Bill Belichick should be fired as GM; surging Lions crack top 5**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-power-rankings-patriots-bill-belichick-should-be-fired-as-gm-surging-lions-crack-top-5/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
