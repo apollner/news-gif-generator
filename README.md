@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696997368)
+![Generated GIF](output.gif?raw=true&v=1696998839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
+**Google's Pixel 8 Software Update Plan Could Help All Phone Buyers**
 
-You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
+You can read more about it [here](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-could-help-all-phone-buyers/).
 
 ## Requirements
 - Python 3.8
