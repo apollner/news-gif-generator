@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697013305)
+![Generated GIF](output.gif?raw=true&v=1697015271)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US sends arms; White House lit up in Israeli colors; Biden: Not some distant tragedy**
+**Annular solar eclipse 2023: Live updates**
 
-You can read more about it [here](https://www.timesofisrael.com/us-begins-delivering-munitions-to-israel-white-house-lit-in-blue-and-white-colors/).
+You can read more about it [here](https://www.space.com/news/live/solar-eclipse-live-updates).
 
 ## Requirements
 - Python 3.8
