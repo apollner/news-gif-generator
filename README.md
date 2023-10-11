@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697036713)
+![Generated GIF](output.gif?raw=true&v=1697038446)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hollywood writers ratify deal with studios to officially end historic strike**
+**Sophie Turner and Joe Jonas Reach Temporary Child Custody Agreement Amid Legal Battle**
 
-You can read more about it [here](https://finance.yahoo.com/news/hollywood-writers-ratify-deal-with-studios-to-officially-end-historic-strike-132147125.html).
+You can read more about it [here](https://www.eonline.com/news/1387499/sophie-turner-and-joe-jonas-reach-temporary-child-custody-agreement-amid-legal-battle).
 
 ## Requirements
 - Python 3.8
