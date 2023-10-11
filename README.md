@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697024091)
+![Generated GIF](output.gif?raw=true&v=1697026458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football: 10 biggest reactions to NFL Week 5 | Fantasy Football News, Rankings and Projections**
+**PepsiCo's hefty quarter pokes a hole in idea of an Ozempic-fueled sell-off**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-10-biggest-reactions-nfl-week-5-2023).
+You can read more about it [here](https://finance.yahoo.com/news/pepsicos-hefty-quarter-pokes-a-hole-in-idea-of-an-ozempic-fueled-sell-off-105231255.html).
 
 ## Requirements
 - Python 3.8
