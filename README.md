@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697011871)
+![Generated GIF](output.gif?raw=true&v=1697013305)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Davante Adams 'glad to get that win' vs. former Packers team - ESPN**
+**US sends arms; White House lit up in Israeli colors; Biden: Not some distant tragedy**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38620233/raiders-davante-adams-glad-get-win-vs-former-packers-team).
+You can read more about it [here](https://www.timesofisrael.com/us-begins-delivering-munitions-to-israel-white-house-lit-in-blue-and-white-colors/).
 
 ## Requirements
 - Python 3.8
