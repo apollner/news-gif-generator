@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696988033)
+![Generated GIF](output.gif?raw=true&v=1696990585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Talks to Resume on Wednesday**
+**NBA preseason takeaways + ACES take Game 1️⃣ of the WNBA Finals | NBA Today**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-talks-to-continue-1235749961/).
+You can read more about it [here](https://www.youtube.com/watch?v=CoXlThCoJrg).
 
 ## Requirements
 - Python 3.8
