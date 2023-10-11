@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697029999)
+![Generated GIF](output.gif?raw=true&v=1697031219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PepsiCo's hefty quarter pokes a hole in idea of an Ozempic-fueled sell-off**
+**NFL Week 6 Power Rankings: Patriots' Bill Belichick should be fired as GM; surging Lions crack top 5**
 
-You can read more about it [here](https://finance.yahoo.com/news/pepsicos-hefty-quarter-pokes-a-hole-in-idea-of-an-ozempic-fueled-sell-off-105231255.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-power-rankings-patriots-bill-belichick-should-be-fired-as-gm-surging-lions-crack-top-5/).
 
 ## Requirements
 - Python 3.8
