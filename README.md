@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697058361)
+![Generated GIF](output.gif?raw=true&v=1697060040)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shop these deals for October's Amazon Prime Day 2023**
+**Harvard head says students don’t speak for school after widely condemned Hamas-Israel statement**
 
-You can read more about it [here](https://www.youtube.com/watch?v=aqjtL7ecaOA).
+You can read more about it [here](https://thehill.com/homenews/education/4248087-harvard-statement-hamas-israel-students/).
 
 ## Requirements
 - Python 3.8
