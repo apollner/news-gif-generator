@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697009639)
+![Generated GIF](output.gif?raw=true&v=1697011871)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football: 10 biggest reactions to NFL Week 5 | Fantasy Football News, Rankings and Projections**
+**Davante Adams 'glad to get that win' vs. former Packers team - ESPN**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-10-biggest-reactions-nfl-week-5-2023).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38620233/raiders-davante-adams-glad-get-win-vs-former-packers-team).
 
 ## Requirements
 - Python 3.8
