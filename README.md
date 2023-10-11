@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697049500)
+![Generated GIF](output.gif?raw=true&v=1697051205)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Game devs express joy over “long overdue” retirement of Unity CEO Riccitiello**
+**Growing backlash over Harvard students' pro-Palestine letter**
 
-You can read more about it [here](https://arstechnica.com/gaming/2023/10/game-devs-say-riccitiello-leaving-unity-is-a-step-in-the-right-direction/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67067565).
 
 ## Requirements
 - Python 3.8
