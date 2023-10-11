@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1696990585)
+![Generated GIF](output.gif?raw=true&v=1696991681)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NBA preseason takeaways + ACES take Game 1️⃣ of the WNBA Finals | NBA Today**
+**Airlines cut flights in Israel during war with Hamas**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CoXlThCoJrg).
+You can read more about it [here](https://www.washingtonpost.com/travel/2023/10/09/israel-flights-war-hamas/).
 
 ## Requirements
 - Python 3.8
