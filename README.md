@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697038446)
+![Generated GIF](output.gif?raw=true&v=1697040685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sophie Turner and Joe Jonas Reach Temporary Child Custody Agreement Amid Legal Battle**
+**A radiator circuit on the ISS is leaking**
 
-You can read more about it [here](https://www.eonline.com/news/1387499/sophie-turner-and-joe-jonas-reach-temporary-child-custody-agreement-amid-legal-battle).
+You can read more about it [here](https://www.cnn.com/2023/10/09/world/russia-space-station-iss-coolant-leak-nauka-scn/index.html).
 
 ## Requirements
 - Python 3.8
