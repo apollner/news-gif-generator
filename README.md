@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697063630)
+![Generated GIF](output.gif?raw=true&v=1697065598)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Democrat Thomas Suozzi launches bid to take back George Santos's seat**
+**Google looks to do away with passwords, making ‘passkeys’ the default option**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/10/tom-souzzi-george-santos/).
+You can read more about it [here](https://www.cnn.com/2023/10/10/tech/google-passkeys-default-password/index.html).
 
 ## Requirements
 - Python 3.8
