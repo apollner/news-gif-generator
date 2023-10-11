@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697065598)
+![Generated GIF](output.gif?raw=true&v=1697067247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google looks to do away with passwords, making ‘passkeys’ the default option**
+**Israel bolsters troops at border with Gaza as details of Hamas attacks emerge**
 
-You can read more about it [here](https://www.cnn.com/2023/10/10/tech/google-passkeys-default-password/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
