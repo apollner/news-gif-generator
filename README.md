@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697047807)
+![Generated GIF](output.gif?raw=true&v=1697049500)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Aquaman 2’ Flooded With Drama: Jason Momoa Allegedly Drunk on Set, Amber Heard Scenes Cut, Elon Musk’s Letter to WB and More**
+**Game devs express joy over “long overdue” retirement of Unity CEO Riccitiello**
 
-You can read more about it [here](https://variety.com/2023/film/news/aquaman-2-jason-momoa-drunk-claims-amber-heard-cut-scenes-elon-musk-letter-1235747775/).
+You can read more about it [here](https://arstechnica.com/gaming/2023/10/game-devs-say-riccitiello-leaving-unity-is-a-step-in-the-right-direction/).
 
 ## Requirements
 - Python 3.8
