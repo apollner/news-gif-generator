@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697045625)
+![Generated GIF](output.gif?raw=true&v=1697047807)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bodies of residents and militants lie in the grounds of ravaged Israeli kibbutz**
+**‘Aquaman 2’ Flooded With Drama: Jason Momoa Allegedly Drunk on Set, Amber Heard Scenes Cut, Elon Musk’s Letter to WB and More**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/bodies-residents-militants-lie-grounds-ravaged-israeli-kibbutz-2023-10-10/).
+You can read more about it [here](https://variety.com/2023/film/news/aquaman-2-jason-momoa-drunk-claims-amber-heard-cut-scenes-elon-musk-letter-1235747775/).
 
 ## Requirements
 - Python 3.8
