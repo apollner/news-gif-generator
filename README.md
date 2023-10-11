@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697016884)
+![Generated GIF](output.gif?raw=true&v=1697018945)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prime Day tech deals: Massive savings of up to 75% off Apple, Fire TV and more**
+**Destroying Hamas a priority for Israel, ambassador says, after militant group threatens hostages**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/best-tech-deals-october-amazon-prime-day-2023-10-10-071338994.html).
+You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
