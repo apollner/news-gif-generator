@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697040685)
+![Generated GIF](output.gif?raw=true&v=1697042264)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A radiator circuit on the ISS is leaking**
+**Week 6 Fantasy Football Defense (DST) Rankings and Streamers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/world/russia-space-station-iss-coolant-leak-nauka-scn/index.html).
+You can read more about it [here](https://www.nbcsports.com/fantasy/football/news/week-6-fantasy-football-defense-dst-rankings-and-streamers).
 
 ## Requirements
 - Python 3.8
