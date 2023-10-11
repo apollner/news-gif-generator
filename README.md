@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697002484)
+![Generated GIF](output.gif?raw=true&v=1697004703)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Coolant Leak on ISS Raises Concerns Over Russian Space Program**
+**GOP links $6 billion in Iran prisoner swap to Hamas attack on Israel, but Biden officials say funds are untouched**
 
-You can read more about it [here](https://www.sciencealert.com/coolant-leak-on-iss-raises-concerns-over-russian-space-program).
+You can read more about it [here](https://www.cbsnews.com/news/iran-6-billion-biden-israel-hamas-attack/).
 
 ## Requirements
 - Python 3.8
