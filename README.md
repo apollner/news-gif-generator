@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697020590)
+![Generated GIF](output.gif?raw=true&v=1697022430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**warplanes warships pentagon israel hamas**
+**PepsiCo beats Wall Street estimates, raises earnings outlook**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/09/warplanes-warships-pentagon-israel-hamas/71113691007/).
+You can read more about it [here](https://www.cnbc.com/2023/10/10/pepsico-pep-q3-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
