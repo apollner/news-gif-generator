@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697008035)
+![Generated GIF](output.gif?raw=true&v=1697009639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA, Studios to Resume Negotiations on Wednesday**
+**Fantasy Football: 10 biggest reactions to NFL Week 5 | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-to-resume-negotiations-on-wednesday-1235613353/).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-10-biggest-reactions-nfl-week-5-2023).
 
 ## Requirements
 - Python 3.8
