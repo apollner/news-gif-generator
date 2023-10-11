@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697000797)
+![Generated GIF](output.gif?raw=true&v=1697002484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel festival revelers shot at point-blank range, video shows**
+**Coolant Leak on ISS Raises Concerns Over Russian Space Program**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/middleeast/israel-hamas-music-festival-aftermath-intl-hnk/index.html).
+You can read more about it [here](https://www.sciencealert.com/coolant-leak-on-iss-raises-concerns-over-russian-space-program).
 
 ## Requirements
 - Python 3.8
