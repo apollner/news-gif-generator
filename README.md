@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697052840)
+![Generated GIF](output.gif?raw=true&v=1697054900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Potentially catastrophic' solar storm identified in ancient tree rings**
+**Shop these deals for October's Amazon Prime Day 2023**
 
-You can read more about it [here](https://www.space.com/largest-ever-recorded-solar-storm-found-in-tree-rings).
+You can read more about it [here](https://www.youtube.com/watch?v=aqjtL7ecaOA).
 
 ## Requirements
 - Python 3.8
