@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697061959)
+![Generated GIF](output.gif?raw=true&v=1697063630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Solar eclipse weather forecast: Will Saturday clouds spoil the view?**
+**Democrat Thomas Suozzi launches bid to take back George Santos's seat**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/10/10/saturday-solar-eclipse-weather-forecast/71129097007/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/10/tom-souzzi-george-santos/).
 
 ## Requirements
 - Python 3.8
