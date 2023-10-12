@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697088821)
+![Generated GIF](output.gif?raw=true&v=1697091065)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Birkenstock prices US IPO at $46 per share**
+**PS5 Slim's Digital Edition Gets a Stealth Price Increase in USA**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/birkenstock-prices-us-ipo-46-per-share-sources-2023-10-10/).
+You can read more about it [here](https://www.pushsquare.com/news/2023/10/ps5-slims-digital-edition-gets-a-stealth-price-increase-in-usa).
 
 ## Requirements
 - Python 3.8
