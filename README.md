@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697130355)
+![Generated GIF](output.gif?raw=true&v=1697132030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Adobe’s Project Fast Fill is generative fill for video**
+**British Airways suspends all flights to Tel Aviv after plane turns around**
 
-You can read more about it [here](https://techcrunch.com/2023/10/11/adobes-project-fast-fill-is-generative-fill-for-video/).
+You can read more about it [here](https://www.reuters.com/world/british-airways-diverts-tel-aviv-flight-due-situation-israel-2023-10-11/).
 
 ## Requirements
 - Python 3.8
