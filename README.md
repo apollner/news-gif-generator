@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697083776)
+![Generated GIF](output.gif?raw=true&v=1697085264)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cristian Javier subdues Twins to put Astros on cusp of ALCS - ESPN**
+**Israel bombs Gaza for fourth day as Hamas, Palestinian civilians, wait for next phase in war**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38627275/cristian-javier-subdues-twins-game-3-put-astros-cusp-alcs).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-palestinians-death-toll-ground-offensive-expected/).
 
 ## Requirements
 - Python 3.8
