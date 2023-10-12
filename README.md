@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697103256)
+![Generated GIF](output.gif?raw=true&v=1697105313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kari Lake's Arizona Senate run kickoff goes mainstream - POLITICO**
+**MLB playoffs 2023: Despite Orioles' ALDS loss, the future is bright - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/11/kari-lake-arizona-senate-campaign-00120888).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38629031/orioles-alds-loss-texas-rangers-playoffs-2023).
 
 ## Requirements
 - Python 3.8
