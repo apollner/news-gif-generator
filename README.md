@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697080131)
+![Generated GIF](output.gif?raw=true&v=1697081626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astros vs. Twins: Houston defeats Minnesota 9-1 in Game 3 after Jose Abreu, Alex Bregman, Yordan Alvarez home runs**
+**James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door (photo)**
 
-You can read more about it [here](https://abc13.com/astros-starting-lineup-today-target-field-cristian-javier-vs-twins-sonny-gray-houston/13888942/).
+You can read more about it [here](https://www.space.com/young-stars-jwst-photo-cosmic-noon).
 
 ## Requirements
 - Python 3.8
