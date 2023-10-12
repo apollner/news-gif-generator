@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697144712)
+![Generated GIF](output.gif?raw=true&v=1697146515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nasa to launch first mission to metal-rich asteroid**
+**Atlanta deacon who died after police stunned him pleaded ‘I can’t breathe,’ family says**
 
-You can read more about it [here](https://www.ft.com/content/b69666d5-652a-4a70-ac11-9065b351527b).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/atlanta-deacon-died-police-stunned-pleaded-cant-breathe-family-says-rcna119900).
 
 ## Requirements
 - Python 3.8
