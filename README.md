@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697146515)
+![Generated GIF](output.gif?raw=true&v=1697148349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Atlanta deacon who died after police stunned him pleaded ‘I can’t breathe,’ family says**
+**Israel war news updates: Death toll rises, misery across Gaza**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/atlanta-deacon-died-police-stunned-pleaded-cant-breathe-family-says-rcna119900).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/11/israel-war-hamas-gaza-live-updates/71139748007/).
 
 ## Requirements
 - Python 3.8
