@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697099692)
+![Generated GIF](output.gif?raw=true&v=1697101661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Annular Eclipse Cloud Cover Forecast | Weather.com**
+**6.3 magnitude earthquake hits Afghanistan days after devastating weekend quakes**
 
-You can read more about it [here](https://weather.com/forecast/national/news/2023-10-10-2023-annular-eclipse-cloud-cover-weather-forecast).
+You can read more about it [here](https://abcnews.go.com/International/63-magnitude-earthquake-hits-afghanistan-days-after-devastating/story?id=103879866).
 
 ## Requirements
 - Python 3.8
