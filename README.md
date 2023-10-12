@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697067247)
+![Generated GIF](output.gif?raw=true&v=1697070503)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel bolsters troops at border with Gaza as details of Hamas attacks emerge**
+**‘Exorcist: Believer’ Backlash: Franchise Will Live, But Sequel Changes Likely**
 
-You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/exorcist-believer-deceiver-sequel-1235614190/).
 
 ## Requirements
 - Python 3.8
