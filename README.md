@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697139222)
+![Generated GIF](output.gif?raw=true&v=1697141323)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Many dog owners have 'canine vaccine hesitancy,' a survey finds : Shots - Health News**
+**Afghanistan hit by second earthquake in days**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/11/1205016558/canine-vaccine-hesitancy-dogs-rabies).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67073958).
 
 ## Requirements
 - Python 3.8
