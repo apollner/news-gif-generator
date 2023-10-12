@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697074297)
+![Generated GIF](output.gif?raw=true&v=1697076235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drinking an extra cup of coffee per day could help with weight management, study finds**
+**Chevron halts gas exports via EMG pipeline from Israel to Egypt**
 
-You can read more about it [here](https://www.foxnews.com/health/drinking-extra-cup-coffee-per-day-could-help-weight-management-study-finds).
+You can read more about it [here](https://www.reuters.com/business/energy/chevron-halts-gas-exports-via-emg-pipeline-israel-egypt-2023-10-10/).
 
 ## Requirements
 - Python 3.8
