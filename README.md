@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697091065)
+![Generated GIF](output.gif?raw=true&v=1697092567)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PS5 Slim's Digital Edition Gets a Stealth Price Increase in USA**
+**Cowboys' Dan Quinn 'bummed' about blowout loss to 49ers but determined not to 'let this game beat us twice'**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/10/ps5-slims-digital-edition-gets-a-stealth-price-increase-in-usa).
+You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-dan-quinn-bummed-about-blowout-loss-to-49ers-but-determined-not-to-let-this-game-beat-us-twice/).
 
 ## Requirements
 - Python 3.8
