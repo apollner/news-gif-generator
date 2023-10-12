@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697142824)
+![Generated GIF](output.gif?raw=true&v=1697144712)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Afghanistan hit by second earthquake in days**
+**Nasa to launch first mission to metal-rich asteroid**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67073958).
+You can read more about it [here](https://www.ft.com/content/b69666d5-652a-4a70-ac11-9065b351527b).
 
 ## Requirements
 - Python 3.8
