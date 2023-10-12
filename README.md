@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697117807)
+![Generated GIF](output.gif?raw=true&v=1697119571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stellantis, Samsung SDI Announce Kokomo, Indiana as Site for Second U.S. StarPlus Energy Gigafactory**
+**UFC 294: Alexander Volkanovski replaces Charles Oliveira in title match vs. Islam Makhachev**
 
-You can read more about it [here](https://www.stellantis.com/en/news/press-releases/2023/october/stellantis-samsung-sdi-announce-kokomo-indiana-as-site-for-second-us-starplus-energy-gigafactory).
+You can read more about it [here](https://sports.yahoo.com/ufc-294-alexander-volkanovski-replaces-charles-oliveira-title-match-islam-makhachev-115451124.html).
 
 ## Requirements
 - Python 3.8
