@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697085264)
+![Generated GIF](output.gif?raw=true&v=1697087190)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel bombs Gaza for fourth day as Hamas, Palestinian civilians, wait for next phase in war**
+**James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door (photo)**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-palestinians-death-toll-ground-offensive-expected/).
+You can read more about it [here](https://www.space.com/young-stars-jwst-photo-cosmic-noon).
 
 ## Requirements
 - Python 3.8
