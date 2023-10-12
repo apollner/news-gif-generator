@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697106968)
+![Generated GIF](output.gif?raw=true&v=1697108706)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McCarthy slams Dem leaders for not denouncing Tlaib’s Hamas attack statement**
+**NHL Highlights | Blackhawks vs. Penguins - October 10, 2023**
 
-You can read more about it [here](https://thehill.com/homenews/house/4248973-mccarthy-slams-dem-leaders-not-denouncing-tlaibs-hamas-attack-statement/).
+You can read more about it [here](https://www.youtube.com/watch?v=1l2tRJSN0NY).
 
 ## Requirements
 - Python 3.8
