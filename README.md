@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697101661)
+![Generated GIF](output.gif?raw=true&v=1697103256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6.3 magnitude earthquake hits Afghanistan days after devastating weekend quakes**
+**Kari Lake's Arizona Senate run kickoff goes mainstream - POLITICO**
 
-You can read more about it [here](https://abcnews.go.com/International/63-magnitude-earthquake-hits-afghanistan-days-after-devastating/story?id=103879866).
+You can read more about it [here](https://www.politico.com/news/2023/10/11/kari-lake-arizona-senate-campaign-00120888).
 
 ## Requirements
 - Python 3.8
