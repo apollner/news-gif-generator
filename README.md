@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697070503)
+![Generated GIF](output.gif?raw=true&v=1697074297)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Exorcist: Believer’ Backlash: Franchise Will Live, But Sequel Changes Likely**
+**Drinking an extra cup of coffee per day could help with weight management, study finds**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/exorcist-believer-deceiver-sequel-1235614190/).
+You can read more about it [here](https://www.foxnews.com/health/drinking-extra-cup-coffee-per-day-could-help-weight-management-study-finds).
 
 ## Requirements
 - Python 3.8
