@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697135751)
+![Generated GIF](output.gif?raw=true&v=1697137500)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Nathaniel Lowe's 2nd-inning fly out keyed Rangers' ALDS win**
+**Samsung Galaxy A52s gets October 2023 security update in Europe - SamMobile**
 
-You can read more about it [here](https://www.dallasnews.com/sports/rangers/2023/10/11/the-most-important-at-bat-in-rangers-alds-clinching-win-was-a-fly-ball-out-heres-why/).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-a52s-october-2023-security-update-across-europe/).
 
 ## Requirements
 - Python 3.8
