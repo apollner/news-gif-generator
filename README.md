@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697152034)
+![Generated GIF](output.gif?raw=true&v=1697153631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unprecedented asteroid sample contains ‘crucial elements,’ NASA says in historic reveal**
+**Phillies vs. Braves Game 3: Score, injuries, predictions, MLB playoff updates**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/world/osiris-rex-bennu-asteroid-sample-reveal-scn/index.html).
+You can read more about it [here](https://www.inquirer.com/phillies/live/phillies-braves-mlb-playoffs-divisional-series-game-3-live-updates-20231011.html).
 
 ## Requirements
 - Python 3.8
