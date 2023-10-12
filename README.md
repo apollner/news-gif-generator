@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697137500)
+![Generated GIF](output.gif?raw=true&v=1697139222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Galaxy A52s gets October 2023 security update in Europe - SamMobile**
+**Many dog owners have 'canine vaccine hesitancy,' a survey finds : Shots - Health News**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-a52s-october-2023-security-update-across-europe/).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/11/1205016558/canine-vaccine-hesitancy-dogs-rabies).
 
 ## Requirements
 - Python 3.8
