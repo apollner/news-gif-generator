@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697078025)
+![Generated GIF](output.gif?raw=true&v=1697080131)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel bolsters troops at border with Gaza as details of Hamas attacks emerge**
+**Astros vs. Twins: Houston defeats Minnesota 9-1 in Game 3 after Jose Abreu, Alex Bregman, Yordan Alvarez home runs**
 
-You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
+You can read more about it [here](https://abc13.com/astros-starting-lineup-today-target-field-cristian-javier-vs-twins-sonny-gray-houston/13888942/).
 
 ## Requirements
 - Python 3.8
