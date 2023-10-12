@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697096055)
+![Generated GIF](output.gif?raw=true&v=1697098258)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Tim Ballard, of 'Sound of Freedom' fame, accused of sexual misconduct**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/10/10/ballard-lawsuit-sound-of-freedom/).
 
 ## Requirements
 - Python 3.8
