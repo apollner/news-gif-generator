@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697119571)
+![Generated GIF](output.gif?raw=true&v=1697121276)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 294: Alexander Volkanovski replaces Charles Oliveira in title match vs. Islam Makhachev**
+**Israeli shelling hits south Lebanon after Hezbollah rocket fire**
 
-You can read more about it [here](https://sports.yahoo.com/ufc-294-alexander-volkanovski-replaces-charles-oliveira-title-match-islam-makhachev-115451124.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-reports-cross-border-fire-lebanon-where-residents-say-israeli-shelling-2023-10-11/).
 
 ## Requirements
 - Python 3.8
