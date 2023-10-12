@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697110465)
+![Generated GIF](output.gif?raw=true&v=1697112834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA revealing OSIRIS-REx asteroid sample today: Watch it live**
+**FTC proposes rule to ban hidden and 'bogus' fees**
 
-You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-reveal-webcast).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/10/11/junk-fees-ftc-rule/).
 
 ## Requirements
 - Python 3.8
