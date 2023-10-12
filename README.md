@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697128711)
+![Generated GIF](output.gif?raw=true&v=1697130355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ozempic's early success in kidney disease trial drags on dialysis stocks**
+**Adobe’s Project Fast Fill is generative fill for video**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/shares-dialysis-providers-drop-after-ozempics-early-kidney-trial-success-2023-10-11/).
+You can read more about it [here](https://techcrunch.com/2023/10/11/adobes-project-fast-fill-is-generative-fill-for-video/).
 
 ## Requirements
 - Python 3.8
