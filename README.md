@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697132030)
+![Generated GIF](output.gif?raw=true&v=1697134205)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**British Airways suspends all flights to Tel Aviv after plane turns around**
+**Why Nathaniel Lowe's 2nd-inning fly out keyed Rangers' ALDS win**
 
-You can read more about it [here](https://www.reuters.com/world/british-airways-diverts-tel-aviv-flight-due-situation-israel-2023-10-11/).
+You can read more about it [here](https://www.dallasnews.com/sports/rangers/2023/10/11/the-most-important-at-bat-in-rangers-alds-clinching-win-was-a-fly-ball-out-heres-why/).
 
 ## Requirements
 - Python 3.8
