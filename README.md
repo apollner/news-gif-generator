@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697087190)
+![Generated GIF](output.gif?raw=true&v=1697088821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door (photo)**
+**Birkenstock prices US IPO at $46 per share**
 
-You can read more about it [here](https://www.space.com/young-stars-jwst-photo-cosmic-noon).
+You can read more about it [here](https://www.reuters.com/markets/deals/birkenstock-prices-us-ipo-46-per-share-sources-2023-10-10/).
 
 ## Requirements
 - Python 3.8
