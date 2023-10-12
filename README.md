@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697092567)
+![Generated GIF](output.gif?raw=true&v=1697094401)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cowboys' Dan Quinn 'bummed' about blowout loss to 49ers but determined not to 'let this game beat us twice'**
+**Map, aerial images show where Hamas attacked Israeli towns near Gaza Strip**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-dan-quinn-bummed-about-blowout-loss-to-49ers-but-determined-not-to-let-this-game-beat-us-twice/).
+You can read more about it [here](https://www.cbsnews.com/news/map-images-israel-gaza-strip-hamas/).
 
 ## Requirements
 - Python 3.8
