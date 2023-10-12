@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697127072)
+![Generated GIF](output.gif?raw=true&v=1697128711)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Initial US intelligence suggests Iran was surprised by the Hamas attack on Israel**
+**Ozempic's early success in kidney disease trial drags on dialysis stocks**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/politics/us-intelligence-iran-hamas-doubt/index.html).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/shares-dialysis-providers-drop-after-ozempics-early-kidney-trial-success-2023-10-11/).
 
 ## Requirements
 - Python 3.8
