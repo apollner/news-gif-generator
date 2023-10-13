@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697168287)
+![Generated GIF](output.gif?raw=true&v=1697170184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Every Hamas member is a dead man, Netanyahu says**
+**Fantasy Football Week 6 Start 'Em & Sit 'Em: Matthew Stafford's got his weapons back, it's time to trust him**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67082351).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-6-start-em-sit-em-matthew-staffords-got-his-weapons-back-its-time-to-trust-him/).
 
 ## Requirements
 - Python 3.8
