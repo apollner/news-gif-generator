@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697180786)
+![Generated GIF](output.gif?raw=true&v=1697182569)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Building Blocks of Life? NASA Reveals 4.5-Billion-Year-Old Asteroid Bennu Sample**
+**[Removed]**
 
-You can read more about it [here](https://scitechdaily.com/building-blocks-of-life-nasa-reveals-4-5-billion-year-old-asteroid-bennu-sample/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
