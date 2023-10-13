@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697215070)
+![Generated GIF](output.gif?raw=true&v=1697216736)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palm Coast: Possible tornado reported**
+**'The View' cohost: Jada Pinkett Smith using separation 'to sell books'**
 
-You can read more about it [here](https://www.wesh.com/article/possible-tornado-palm-coast/45518816).
+You can read more about it [here](https://www.insider.com/the-view-jada-pinkett-smith-separation-will-smith-sell-books-2023-10).
 
 ## Requirements
 - Python 3.8
