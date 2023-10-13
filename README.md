@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697193286)
+![Generated GIF](output.gif?raw=true&v=1697195101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As Students Face Retaliation for Israel Statement, a ‘Doxxing Truck’ Displaying Students’ Faces Comes to Harvard’s Campus | News**
+**Bryce Harper discusses Orlando Arcia stare down after two-homer game, Braves shortstop upset comments got out**
 
-You can read more about it [here](https://www.thecrimson.com/article/2023/10/12/doxxing-truck-students-israel-statement/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/bryce-harper-discusses-orlando-arcia-stare-down-after-two-homer-game-braves-shortstop-upset-comments-got-out/).
 
 ## Requirements
 - Python 3.8
