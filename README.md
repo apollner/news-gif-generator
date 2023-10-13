@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697220624)
+![Generated GIF](output.gif?raw=true&v=1697223891)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US and Qatar reach ‘quiet understanding’ not to release $6bn sent to Iran for now, Treasury official tells House Democrats**
+**Google’s AI-powered search experience can now generate images, write drafts**
 
-You can read more about it [here](https://www.cnn.com/2023/10/12/politics/us-qatar-iran-funds/index.html).
+You can read more about it [here](https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/).
 
 ## Requirements
 - Python 3.8
