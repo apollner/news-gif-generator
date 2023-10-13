@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697209720)
+![Generated GIF](output.gif?raw=true&v=1697211228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aftermath of a huge planetary collision captured by telescope for the first time**
+**MLB playoffs 2023: Diamondbacks eliminate Dodgers, Phillies take 2-1 lead over Braves in NLDS Game 3s**
 
-You can read more about it [here](https://www.earth.com/news/afterglow-of-a-huge-planetary-collision-captured-by-telescope-for-the-first-time/).
+You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-diamondbacks-eliminate-dodgers-nlds-114602075.html).
 
 ## Requirements
 - Python 3.8
