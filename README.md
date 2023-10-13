@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697201420)
+![Generated GIF](output.gif?raw=true&v=1697202729)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL offensive line rankings ahead of Week 6 | NFL News, Rankings and Statistics**
+**Video: Civilians caught in crossfire as IDF launches another round of attacks**
 
-You can read more about it [here](https://www.pff.com/news/nfl-offensive-line-rankings-week-6-2023).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/10/12/gaza-on-the-ground-israel-airstrikes-bashir-pkg-ovn-hnk-vpx.cnn).
 
 ## Requirements
 - Python 3.8
