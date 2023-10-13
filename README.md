@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697170184)
+![Generated GIF](output.gif?raw=true&v=1697173593)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 6 Start 'Em & Sit 'Em: Matthew Stafford's got his weapons back, it's time to trust him**
+**'Ring of fire' eclipse likely won't be visible from western Pa., but just wait until next year**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-6-start-em-sit-em-matthew-staffords-got-his-weapons-back-its-time-to-trust-him/).
+You can read more about it [here](https://www.wtae.com/article/ring-of-fire-eclipse-pennsylvania/45509294).
 
 ## Requirements
 - Python 3.8
