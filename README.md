@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697211228)
+![Generated GIF](output.gif?raw=true&v=1697213378)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs 2023: Diamondbacks eliminate Dodgers, Phillies take 2-1 lead over Braves in NLDS Game 3s**
+**Newton native Caroline Ellison testifies about collapse of FTX at trial of Sam Bankman-Fried**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-diamondbacks-eliminate-dodgers-nlds-114602075.html).
+You can read more about it [here](https://www.wcvb.com/article/newton-massachusetts-caroline-ellison-testimony-ftx-sam-bankman-fried/45518998).
 
 ## Requirements
 - Python 3.8
