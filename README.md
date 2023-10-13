@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697166537)
+![Generated GIF](output.gif?raw=true&v=1697168287)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
+**Every Hamas member is a dead man, Netanyahu says**
 
-You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67082351).
 
 ## Requirements
 - Python 3.8
