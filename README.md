@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697213378)
+![Generated GIF](output.gif?raw=true&v=1697215070)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Newton native Caroline Ellison testifies about collapse of FTX at trial of Sam Bankman-Fried**
+**Palm Coast: Possible tornado reported**
 
-You can read more about it [here](https://www.wcvb.com/article/newton-massachusetts-caroline-ellison-testimony-ftx-sam-bankman-fried/45518998).
+You can read more about it [here](https://www.wesh.com/article/possible-tornado-palm-coast/45518816).
 
 ## Requirements
 - Python 3.8
