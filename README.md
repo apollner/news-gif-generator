@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697173593)
+![Generated GIF](output.gif?raw=true&v=1697175237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Ring of fire' eclipse likely won't be visible from western Pa., but just wait until next year**
+**Kansas men’s basketball vacates 2018 Final Four, escapes serious penalty after 6-year NCAA investigation**
 
-You can read more about it [here](https://www.wtae.com/article/ring-of-fire-eclipse-pennsylvania/45509294).
+You can read more about it [here](https://theathletic.com/4954114/2023/10/11/kansas-infractions-final-four-investigation/).
 
 ## Requirements
 - Python 3.8
