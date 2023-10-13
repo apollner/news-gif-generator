@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697175237)
+![Generated GIF](output.gif?raw=true&v=1697177470)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kansas men’s basketball vacates 2018 Final Four, escapes serious penalty after 6-year NCAA investigation**
+**Every Hamas member is a dead man, Netanyahu says**
 
-You can read more about it [here](https://theathletic.com/4954114/2023/10/11/kansas-infractions-final-four-investigation/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67082351).
 
 ## Requirements
 - Python 3.8
