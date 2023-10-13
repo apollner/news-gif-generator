@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697207655)
+![Generated GIF](output.gif?raw=true&v=1697209720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At Israel-Lebanon Border, Fears Grow of a Second Front**
+**Aftermath of a huge planetary collision captured by telescope for the first time**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/at-israel-lebanon-border-fears-grow-of-a-second-battlefront-cda25139).
+You can read more about it [here](https://www.earth.com/news/afterglow-of-a-huge-planetary-collision-captured-by-telescope-for-the-first-time/).
 
 ## Requirements
 - Python 3.8
