@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697153631)
+![Generated GIF](output.gif?raw=true&v=1697157128)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phillies vs. Braves Game 3: Score, injuries, predictions, MLB playoff updates**
+**Taylor Swift's Eras tour concert film shuts down the Grove. Here's what to know**
 
-You can read more about it [here](https://www.inquirer.com/phillies/live/phillies-braves-mlb-playoffs-divisional-series-game-3-live-updates-20231011.html).
+You can read more about it [here](https://www.latimes.com/entertainment-arts/movies/story/2023-10-11/taylor-swift-eras-tour-concert-film-premiere-the-grove-shut-down-explained).
 
 ## Requirements
 - Python 3.8
