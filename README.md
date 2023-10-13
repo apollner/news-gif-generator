@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697184659)
+![Generated GIF](output.gif?raw=true&v=1697186110)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**D-backs pool their power in stunning NLDS sweep of Dodgers**
+**Taylor Swift’s ‘Eras Tour’ Premiere: Superstar Arrives for L.A. Red Carpet Event**
 
-You can read more about it [here](https://www.mlb.com/news/d-backs-sweep-dodgers-in-2023-nlds).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-premiere-1235612750/).
 
 ## Requirements
 - Python 3.8
