@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697225636)
+![Generated GIF](output.gif?raw=true&v=1697227735)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA actors and AMPTP studios suspend negotiations**
+**France uses teargas on banned pro-Palestinian rally as Macron calls for calm**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/2023/10/12/sag-aftra-actors-amptp-studios-suspend-negotiations/).
+You can read more about it [here](https://www.reuters.com/world/europe/france-bans-pro-palestinian-protests-citing-risk-disturbances-public-order-2023-10-12/).
 
 ## Requirements
 - Python 3.8
