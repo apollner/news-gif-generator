@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697216736)
+![Generated GIF](output.gif?raw=true&v=1697218419)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The View' cohost: Jada Pinkett Smith using separation 'to sell books'**
+**Trump Speech On Israel | Trump Blames Joe Biden For Israel Hamas Conflict | Donald Trump | N18V**
 
-You can read more about it [here](https://www.insider.com/the-view-jada-pinkett-smith-separation-will-smith-sell-books-2023-10).
+You can read more about it [here](https://www.youtube.com/watch?v=hD6c91Tjfxk).
 
 ## Requirements
 - Python 3.8
