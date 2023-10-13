@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697163602)
+![Generated GIF](output.gif?raw=true&v=1697166537)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jeremy Allen White Must Do Alcohol Testing to See His Kids**
+**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
 
-You can read more about it [here](http://www.thecut.com/2023/10/jeremy-allen-white-alcohol-testing-custody-agreement.html).
+You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
 
 ## Requirements
 - Python 3.8
