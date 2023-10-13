@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697161025)
+![Generated GIF](output.gif?raw=true&v=1697163602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The scene as the Israel-Hamas war continues**
+**Jeremy Allen White Must Do Alcohol Testing to See His Kids**
 
-You can read more about it [here](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/).
+You can read more about it [here](http://www.thecut.com/2023/10/jeremy-allen-white-alcohol-testing-custody-agreement.html).
 
 ## Requirements
 - Python 3.8
