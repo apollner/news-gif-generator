@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697232826)
+![Generated GIF](output.gif?raw=true&v=1697234755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift's Eras Tour film to be 'milestone' moment in cinema history: IMAX CEO**
+**Thursday updates: Tornadoes damage Tampa Bay area**
 
-You can read more about it [here](https://finance.yahoo.com/news/taylor-swifts-eras-tour-film-to-be-milestone-moment-in-cinema-history-imax-ceo-192857488.html).
+You can read more about it [here](https://www.tampabay.com/weather/2023/10/12/tornado-clearwater-dunedin-pinellas-weather-storm-damage-pasco-citrus/).
 
 ## Requirements
 - Python 3.8
