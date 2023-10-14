@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697315610)
+![Generated GIF](output.gif?raw=true&v=1697317493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jada Pinkett Smith was ‘shocked’ Will Smith called her ‘wife’ after Oscars slap**
+**Best Buy is axing physical DVD and Blu-ray business in this depressing digital world**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/jada-pinkett-smith-was-shocked-will-smith-called-her-wife-after-oscars-slap-101697213190534.html).
+You can read more about it [here](https://www.theverge.com/2023/10/13/23915567/best-buy-discontinue-physical-media-dvd-blu-ray).
 
 ## Requirements
 - Python 3.8
