@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697268893)
+![Generated GIF](output.gif?raw=true&v=1697271045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bruce Willis 'not totally verbal' says 'Moonlighting' creator**
+**The House GOP Can't Elect a Speaker — and Donald Trump Doesn't Really Care**
 
-You can read more about it [here](https://ew.com/tv/bruce-willis-moonlighting-creator-joie-de-vivre-gone/).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/10/13/house-gop-speaker-election-donald-trump-00121381).
 
 ## Requirements
 - Python 3.8
