@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697274393)
+![Generated GIF](output.gif?raw=true&v=1697276015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The House GOP Can't Elect a Speaker — and Donald Trump Doesn't Really Care**
+**Houston stuns West Virginia on 'incredible' last-second Hail Mary - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/10/13/house-gop-speaker-election-donald-trump-00121381).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38648155/houston-stuns-west-virginia-incredible-last-second-hail-mary).
 
 ## Requirements
 - Python 3.8
