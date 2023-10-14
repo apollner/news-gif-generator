@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697252811)
+![Generated GIF](output.gif?raw=true&v=1697254433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel, White House condemn Trump for remarks about Hamas attack, 'smart' Hezbollah**
+**Bank earnings kick off with JPMorgan, Wells Fargo amid concerns about rising rates, bad loans**
 
-You can read more about it [here](https://www.reuters.com/world/trump-says-israels-netanyahu-was-not-prepared-hamas-attack-2023-10-12/).
+You can read more about it [here](https://www.cnbc.com/2023/10/12/bank-earnings-kick-off-after-another-period-of-rising-rates-bad-loans.html).
 
 ## Requirements
 - Python 3.8
