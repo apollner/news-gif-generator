@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697256558)
+![Generated GIF](output.gif?raw=true&v=1697258018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thursday Night Football: Chiefs vs. Broncos score, highlights, inactives, injuries and live tracker**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/thursday-night-football-chiefs-vs-broncos-score-highlights-inactives-injuries-and-live-tracker-225019572.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
