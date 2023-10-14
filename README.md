@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697263780)
+![Generated GIF](output.gif?raw=true&v=1697267137)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Jada Pinkett Smith calls Tupac Shakur her 'soulmate' — but says the pair had zero chemistry**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2023/10/12/jada-pinkett-smith-calls-tupac-shakur-her-soulmate/).
 
 ## Requirements
 - Python 3.8
