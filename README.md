@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697294020)
+![Generated GIF](output.gif?raw=true&v=1697295936)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran: US ‘can NOT renege’ on deal to transfer $6 billion through Qatar for hostages**
+**What is the white phosphorus that Israel is accused of using in Gaza?**
 
-You can read more about it [here](https://www.timesofisrael.com/iran-us-can-not-renege-on-deal-to-transfer-6-billion-through-qatar-for-hostages/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/13/what-is-the-white-phosphorus-that-israel-is-accused-of-using-on-gaza).
 
 ## Requirements
 - Python 3.8
