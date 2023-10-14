@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697322824)
+![Generated GIF](output.gif?raw=true&v=1697324733)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russell Wilson is Broncos main issue, Deion Sanders on late games: 'stupidest thing ever' | THE HERD**
+**Bryce Harper on Phillies' ALCS advancement, Orlando Arcia staredown & more | The Pat McAfee Show**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JUaOmUaSA3Y).
+You can read more about it [here](https://www.youtube.com/watch?v=HiJbte1IqPg).
 
 ## Requirements
 - Python 3.8
