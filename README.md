@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697247077)
+![Generated GIF](output.gif?raw=true&v=1697248951)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netanyahu’s office releases horrifying images of infants murdered by Hamas**
+**Solar eclipse 2023: where to see in Texas; safety glasses info**
 
-You can read more about it [here](https://www.timesofisrael.com/netanyahus-office-releases-horrifying-images-of-infants-murdered-by-hamas/).
+You can read more about it [here](https://www.elpasotimes.com/story/news/texasregion/2023/10/10/solar-eclipse-guide-where-and-how-to-see-in-el-paso-texas/71063594007/).
 
 ## Requirements
 - Python 3.8
