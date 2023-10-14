@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697317493)
+![Generated GIF](output.gif?raw=true&v=1697319229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best Buy is axing physical DVD and Blu-ray business in this depressing digital world**
+**Ubisoft and Activision Blizzard's deal for cloud gaming rights, explained**
 
-You can read more about it [here](https://www.theverge.com/2023/10/13/23915567/best-buy-discontinue-physical-media-dvd-blu-ray).
+You can read more about it [here](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained).
 
 ## Requirements
 - Python 3.8
