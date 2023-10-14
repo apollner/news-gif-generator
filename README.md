@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697295936)
+![Generated GIF](output.gif?raw=true&v=1697297604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is the white phosphorus that Israel is accused of using in Gaza?**
+**Google Pixel 8 has the best display on a smartphone in the US**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/13/what-is-the-white-phosphorus-that-israel-is-accused-of-using-on-gaza).
+You can read more about it [here](https://9to5google.com/2023/10/13/google-pixel-8-display/).
 
 ## Requirements
 - Python 3.8
