@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697324733)
+![Generated GIF](output.gif?raw=true&v=1697326494)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bryce Harper on Phillies' ALCS advancement, Orlando Arcia staredown & more | The Pat McAfee Show**
+**Iran-backed Hezbollah joining Israel-Hamas conflict would be a 'game changer,' Middle East expert says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=HiJbte1IqPg).
+You can read more about it [here](https://www.cnbc.com/2023/10/13/hezbollah-joining-conflict-in-neighboring-israel-would-be-a-gamechanger.html).
 
 ## Requirements
 - Python 3.8
