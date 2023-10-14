@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697243368)
+![Generated GIF](output.gif?raw=true&v=1697247077)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift's Eras Tour film to be 'milestone' moment in cinema history: IMAX CEO**
+**Netanyahu’s office releases horrifying images of infants murdered by Hamas**
 
-You can read more about it [here](https://finance.yahoo.com/news/taylor-swifts-eras-tour-film-to-be-milestone-moment-in-cinema-history-imax-ceo-192857488.html).
+You can read more about it [here](https://www.timesofisrael.com/netanyahus-office-releases-horrifying-images-of-infants-murdered-by-hamas/).
 
 ## Requirements
 - Python 3.8
