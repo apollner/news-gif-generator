@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697259941)
+![Generated GIF](output.gif?raw=true&v=1697261630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former IRS contractor accused of stealing Trump’s tax returns pleads guilty**
+**Galaxy S20 FE users can now download October 2023 security update - SamMobile**
 
-You can read more about it [here](https://www.cnn.com/2023/10/12/politics/littlejohn-trump-taxes-guilty-plea/index.html).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s20-fe-lte-download-october-2023-security-update/).
 
 ## Requirements
 - Python 3.8
