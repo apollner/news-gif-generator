@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697272446)
+![Generated GIF](output.gif?raw=true&v=1697274393)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Steve Scalise drops out of speaker's race as House GOP faces leadership crisis**
+**The House GOP Can't Elect a Speaker — and Donald Trump Doesn't Really Care**
 
-You can read more about it [here](https://www.cnn.com/2023/10/12/politics/steve-scalise-speaker-fight/index.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/10/13/house-gop-speaker-election-donald-trump-00121381).
 
 ## Requirements
 - Python 3.8
