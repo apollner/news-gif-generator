@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697279621)
+![Generated GIF](output.gif?raw=true&v=1697281492)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**1 officer killed, 1 injured in shooting at Philadelphia International Airport: police**
+**Travis Kelce played like Taylor Swift was in the stands**
 
-You can read more about it [here](https://www.fox29.com/news/2-officers-shot-at-philadelphia-international-airport-suspect-sought-sources).
+You can read more about it [here](https://www.youtube.com/watch?v=gMNtTSgVYpo).
 
 ## Requirements
 - Python 3.8
