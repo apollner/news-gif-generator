@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697288777)
+![Generated GIF](output.gif?raw=true&v=1697290418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What’s behind Trump’s lashing out at Netanyahu after Hamas’ attack on Israel**
+**Narcan, now available without a prescription, can still be hard to get**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/trump-netanyahu-biden-rcna120078).
+You can read more about it [here](https://www.cnn.com/2023/10/13/health/narcan-kff-health-news-partner/index.html).
 
 ## Requirements
 - Python 3.8
