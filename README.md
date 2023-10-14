@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697254433)
+![Generated GIF](output.gif?raw=true&v=1697256558)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bank earnings kick off with JPMorgan, Wells Fargo amid concerns about rising rates, bad loans**
+**Thursday Night Football: Chiefs vs. Broncos score, highlights, inactives, injuries and live tracker**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/12/bank-earnings-kick-off-after-another-period-of-rising-rates-bad-loans.html).
+You can read more about it [here](https://sports.yahoo.com/thursday-night-football-chiefs-vs-broncos-score-highlights-inactives-injuries-and-live-tracker-225019572.html).
 
 ## Requirements
 - Python 3.8
