@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697277931)
+![Generated GIF](output.gif?raw=true&v=1697279621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IRS Contractor Pleads Guilty to Leaking Trump's Tax Returns**
+**1 officer killed, 1 injured in shooting at Philadelphia International Airport: police**
 
-You can read more about it [here](https://www.wsj.com/politics/policy/irs-contractor-pleads-guilty-to-leaking-trumps-tax-returns-ceb5d624).
+You can read more about it [here](https://www.fox29.com/news/2-officers-shot-at-philadelphia-international-airport-suspect-sought-sources).
 
 ## Requirements
 - Python 3.8
