@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697258018)
+![Generated GIF](output.gif?raw=true&v=1697259941)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Former IRS contractor accused of stealing Trump’s tax returns pleads guilty**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/12/politics/littlejohn-trump-taxes-guilty-plea/index.html).
 
 ## Requirements
 - Python 3.8
