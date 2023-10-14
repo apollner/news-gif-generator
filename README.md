@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697276015)
+![Generated GIF](output.gif?raw=true&v=1697277931)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Houston stuns West Virginia on 'incredible' last-second Hail Mary - ESPN**
+**IRS Contractor Pleads Guilty to Leaking Trump's Tax Returns**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38648155/houston-stuns-west-virginia-incredible-last-second-hail-mary).
+You can read more about it [here](https://www.wsj.com/politics/policy/irs-contractor-pleads-guilty-to-leaking-trumps-tax-returns-ceb5d624).
 
 ## Requirements
 - Python 3.8
