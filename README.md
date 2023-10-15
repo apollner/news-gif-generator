@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697360848)
+![Generated GIF](output.gif?raw=true&v=1697362488)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jason Kennedy and Lauren Scruggs Welcome Baby No. 2**
+**Australians urged to ‘choose love’ as millions vote in Voice referendum**
 
-You can read more about it [here](https://www.eonline.com/news/1387882/jason-kennedy-and-lauren-scruggs-welcome-baby-no-2).
+You can read more about it [here](https://www.cnn.com/2023/10/13/australia/australia-voice-referendum-vote-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
