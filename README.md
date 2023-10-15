@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697409236)
+![Generated GIF](output.gif?raw=true&v=1697411167)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli military says it is examining incident in which Reuters journalist was killed**
+**Nick Saban on Jalen Milroe and playing for 60 minutes: ‘We will learn from it’**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-examining-death-reuters-journalist-lebanon-2023-10-14/).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/10/nick-saban-on-alabamas-24-21-win-over-arkansas-we-have-to-learn-how-to-play-for-60-minutes.html).
 
 ## Requirements
 - Python 3.8
