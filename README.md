@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697380424)
+![Generated GIF](output.gif?raw=true&v=1697382341)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LA Knight vs. Solo Sikoa: SmackDown highlights, Oct. 13, 2023**
+**New Zealand shifts right as voters punish ruling party**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OtqNYBJzI4A).
+You can read more about it [here](https://www.cnn.com/2023/10/13/asia/new-zealand-general-election-labour-national-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
