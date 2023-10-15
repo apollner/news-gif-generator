@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697348013)
+![Generated GIF](output.gif?raw=true&v=1697351644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden speaks with families of Americans missing in Israel, possibly among hostages held by Hamas**
+**No One Is Getting The New COVID Booster, Despite Relentless CDC Promotion**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-speaks-with-families-of-americans-held-hostage-by-hamas/).
+You can read more about it [here](https://www.outkick.com/no-one-is-getting-the-new-covid-booster-despite-relentless-cdc-promotion/).
 
 ## Requirements
 - Python 3.8
