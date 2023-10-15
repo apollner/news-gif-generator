@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697339241)
+![Generated GIF](output.gif?raw=true&v=1697340888)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weather could be cloudy for the 'ring of fire' annular solar eclipse in Arkansas Saturday**
+**US SEC does not plan to appeal court decision on Grayscale bitcoin ETF -source**
 
-You can read more about it [here](https://www.4029tv.com/article/arkansas-annular-solar-eclipse/45521732).
+You can read more about it [here](https://www.reuters.com/markets/us/us-sec-does-not-plan-appeal-court-decision-grayscale-bitcoin-etf-source-2023-10-13/).
 
 ## Requirements
 - Python 3.8
