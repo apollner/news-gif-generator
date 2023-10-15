@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697394804)
+![Generated GIF](output.gif?raw=true&v=1697396685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cops Hunt for Man Accused of Murdering 'Sandlot' Actor's Mom**
+**Young Indonesian Entrepreneur Parlays Digital Tool For Fish Breeders Into A Rare Unicorn**
 
-You can read more about it [here](https://www.thedailybeast.com/the-sandlot-actor-marty-yorks-mom-deanna-esmaeel-found-dead-cops-look-for-boyfriend-daniel-james-walter).
+You can read more about it [here](https://www.forbes.com/sites/ardianwibisono/2023/10/14/young-indonesian-entrepreneur-parlays-digital-tool-for-fish-breeders-into-a-rare-unicorn/).
 
 ## Requirements
 - Python 3.8
