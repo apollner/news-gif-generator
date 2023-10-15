@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697334026)
+![Generated GIF](output.gif?raw=true&v=1697336425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500, Nasdaq fall with data, geopolitics offsets strong results**
+**Higher rates of lung cancer in women are a mystery for researchers**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-lower-ahead-big-bank-earnings-2023-10-13/).
+You can read more about it [here](https://www.cnn.com/2023/10/13/health/lung-cancer-young-and-middle-age-women/index.html).
 
 ## Requirements
 - Python 3.8
