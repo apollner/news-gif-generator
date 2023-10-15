@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697386115)
+![Generated GIF](output.gif?raw=true&v=1697387789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden’s Israel response creates sharp contrast with Trump**
+**Baseball’s final 4, ranked by their World Series chances**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4255176-biden-israel-response-trump-contrast/).
+You can read more about it [here](https://www.sbnation.com/mlb/2023/10/14/23915320/phillies-rangers-astros-diamondbacks-world-series).
 
 ## Requirements
 - Python 3.8
