@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697343014)
+![Generated GIF](output.gif?raw=true&v=1697344486)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US SEC does not plan to appeal court decision on Grayscale bitcoin ETF -source**
+**Progressive lawmakers put pressure on Biden over Israel’s response in Gaza**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-sec-does-not-plan-appeal-court-decision-grayscale-bitcoin-etf-source-2023-10-13/).
+You can read more about it [here](https://thehill.com/homenews/house/4254974-jayapal-biden-progressives-israel-hamas-humanitarian-relief/).
 
 ## Requirements
 - Python 3.8
