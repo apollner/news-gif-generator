@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697396685)
+![Generated GIF](output.gif?raw=true&v=1697398428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Young Indonesian Entrepreneur Parlays Digital Tool For Fish Breeders Into A Rare Unicorn**
+**How Brad Smith used Microsoft's $1bn law and lobbying machine to win Activision battle**
 
-You can read more about it [here](https://www.forbes.com/sites/ardianwibisono/2023/10/14/young-indonesian-entrepreneur-parlays-digital-tool-for-fish-breeders-into-a-rare-unicorn/).
+You can read more about it [here](https://www.ft.com/content/07c507bd-2ce7-4345-85bd-0c27f408afbe).
 
 ## Requirements
 - Python 3.8
