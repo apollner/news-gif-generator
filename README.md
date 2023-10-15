@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697411167)
+![Generated GIF](output.gif?raw=true&v=1697412821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nick Saban on Jalen Milroe and playing for 60 minutes: ‘We will learn from it’**
+**NFL Player Props for Week 6: Bets on Jahan Dotson, Alexander Mattison, More**
 
-You can read more about it [here](https://www.al.com/alabamafootball/2023/10/nick-saban-on-alabamas-24-21-win-over-arkansas-we-have-to-learn-how-to-play-for-60-minutes.html).
+You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-player-props-week-6).
 
 ## Requirements
 - Python 3.8
