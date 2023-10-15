@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697373988)
+![Generated GIF](output.gif?raw=true&v=1697375262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 key questions ahead of Poland's election – POLITICO**
+**Taylor Swift Mania Reigns as ‘Eras Tour’ Opens at New York City’s Busiest Movie Theater: ‘I’m So Excited I’m Sweating’**
 
-You can read more about it [here](https://www.politico.eu/article/6-key-questions-ahead-of-polands-election-duda-tusk-kaczynski-pis-poland-law-and-justice/).
+You can read more about it [here](https://variety.com/2023/film/news/taylor-swift-eras-tour-movie-theater-opening-night-fans-1235755819/).
 
 ## Requirements
 - Python 3.8
