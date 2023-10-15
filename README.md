@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697358900)
+![Generated GIF](output.gif?raw=true&v=1697360848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rules of war: international law and the Israel-Hamas conflict**
+**Jason Kennedy and Lauren Scruggs Welcome Baby No. 2**
 
-You can read more about it [here](https://www.ft.com/content/0f7886df-e70e-4b7d-a4b2-03d7553949d1).
+You can read more about it [here](https://www.eonline.com/news/1387882/jason-kennedy-and-lauren-scruggs-welcome-baby-no-2).
 
 ## Requirements
 - Python 3.8
