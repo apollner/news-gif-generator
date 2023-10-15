@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697391219)
+![Generated GIF](output.gif?raw=true&v=1697393367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WATCH: Colorado hype train derailed, Stanford rallies from 29-0 down to beat Deion Sanders' Buffaloes**
+**College Football: How to watch the Oregon vs. Washington game today**
 
-You can read more about it [here](https://www.DawgNation.com/gameday/colorado-deion/7CSGKKE6KZBFBHPHN7RDVKBT7M/).
+You can read more about it [here](https://sports.yahoo.com/watch-oregon-washington-game-ncaa-college-football-2023-schedule-time-channel-120030687.html).
 
 ## Requirements
 - Python 3.8
