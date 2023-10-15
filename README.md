@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697382341)
+![Generated GIF](output.gif?raw=true&v=1697384018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Zealand shifts right as voters punish ruling party**
+**Face Unlock on the Google Pixel 8 has reportedly been tricked already**
 
-You can read more about it [here](https://www.cnn.com/2023/10/13/asia/new-zealand-general-election-labour-national-intl-hnk/index.html).
+You can read more about it [here](https://www.androidpolice.com/face-unlock-google-pixel-8-tricked-already/).
 
 ## Requirements
 - Python 3.8
