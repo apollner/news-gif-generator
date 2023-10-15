@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697337422)
+![Generated GIF](output.gif?raw=true&v=1697339241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump-backed Jim Jordan chosen as Speaker nominee**
+**Weather could be cloudy for the 'ring of fire' annular solar eclipse in Arkansas Saturday**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67097300).
+You can read more about it [here](https://www.4029tv.com/article/arkansas-annular-solar-eclipse/45521732).
 
 ## Requirements
 - Python 3.8
