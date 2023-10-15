@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697403882)
+![Generated GIF](output.gif?raw=true&v=1697405635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Newsom signs speed camera bill into law in some Bay Area cities**
+**Nick Saban on Jalen Milroe and playing for 60 minutes: ‘We will learn from it’**
 
-You can read more about it [here](http://www.nbcbayarea.com/news/california/california-speed-camera-bay-area/3342030/).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/10/nick-saban-on-alabamas-24-21-win-over-arkansas-we-have-to-learn-how-to-play-for-60-minutes.html).
 
 ## Requirements
 - Python 3.8
