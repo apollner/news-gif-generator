@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697336425)
+![Generated GIF](output.gif?raw=true&v=1697337422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Higher rates of lung cancer in women are a mystery for researchers**
+**Trump-backed Jim Jordan chosen as Speaker nominee**
 
-You can read more about it [here](https://www.cnn.com/2023/10/13/health/lung-cancer-young-and-middle-age-women/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67097300).
 
 ## Requirements
 - Python 3.8
