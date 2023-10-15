@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697364330)
+![Generated GIF](output.gif?raw=true&v=1697366014)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside Gaza's overrun hospitals, scenes of chaos and horror**
+**You won’t just be able to watch the eclipse, you can also feel it**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/gaza-overrun-hospitals-chaos-rcna120408).
+You can read more about it [here](https://www.cnn.com/2023/10/14/weather/weather-changes-solar-eclipse-scn-climate/index.html).
 
 ## Requirements
 - Python 3.8
