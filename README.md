@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697346395)
+![Generated GIF](output.gif?raw=true&v=1697348013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado vs. Stanford game live stream, how to watch online, TV channel, prediction, kickoff time, odds**
+**Biden speaks with families of Americans missing in Israel, possibly among hostages held by Hamas**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-stanford-game-live-stream-how-to-watch-online-tv-channel-prediction-kickoff-time-odds/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-speaks-with-families-of-americans-held-hostage-by-hamas/).
 
 ## Requirements
 - Python 3.8
