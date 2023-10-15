@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697389481)
+![Generated GIF](output.gif?raw=true&v=1697391219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baseball’s final 4, ranked by their World Series chances**
+**WATCH: Colorado hype train derailed, Stanford rallies from 29-0 down to beat Deion Sanders' Buffaloes**
 
-You can read more about it [here](https://www.sbnation.com/mlb/2023/10/14/23915320/phillies-rangers-astros-diamondbacks-world-series).
+You can read more about it [here](https://www.DawgNation.com/gameday/colorado-deion/7CSGKKE6KZBFBHPHN7RDVKBT7M/).
 
 ## Requirements
 - Python 3.8
