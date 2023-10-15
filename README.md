@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697378712)
+![Generated GIF](output.gif?raw=true&v=1697380424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon Heavy Blast Off: NASA's Psyche Spacecraft on Its Way To Metal-Rich Asteroid**
+**LA Knight vs. Solo Sikoa: SmackDown highlights, Oct. 13, 2023**
 
-You can read more about it [here](https://scitechdaily.com/?p=317660).
+You can read more about it [here](https://www.youtube.com/watch?v=OtqNYBJzI4A).
 
 ## Requirements
 - Python 3.8
