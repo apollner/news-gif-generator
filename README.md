@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697366014)
+![Generated GIF](output.gif?raw=true&v=1697369646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**You won’t just be able to watch the eclipse, you can also feel it**
+**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/weather/weather-changes-solar-eclipse-scn-climate/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
