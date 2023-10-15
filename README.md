@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697398428)
+![Generated GIF](output.gif?raw=true&v=1697400499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Brad Smith used Microsoft's $1bn law and lobbying machine to win Activision battle**
+**Australia rejects Indigenous referendum in setback for reconciliation**
 
-You can read more about it [here](https://www.ft.com/content/07c507bd-2ce7-4345-85bd-0c27f408afbe).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/voting-begins-australia-landmark-indigenous-voice-referendum-2023-10-13/).
 
 ## Requirements
 - Python 3.8
