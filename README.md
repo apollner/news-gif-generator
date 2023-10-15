@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697375262)
+![Generated GIF](output.gif?raw=true&v=1697376808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Mania Reigns as ‘Eras Tour’ Opens at New York City’s Busiest Movie Theater: ‘I’m So Excited I’m Sweating’**
+**RFK Jr. running for president as an independent is a relief for the Kennedys**
 
-You can read more about it [here](https://variety.com/2023/film/news/taylor-swift-eras-tour-movie-theater-opening-night-fans-1235755819/).
+You can read more about it [here](https://www.politico.com/news/2023/10/14/rfk-jr-s-independence-pivot-is-a-relief-for-the-kennedys-00121480).
 
 ## Requirements
 - Python 3.8
