@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697393367)
+![Generated GIF](output.gif?raw=true&v=1697394804)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football: How to watch the Oregon vs. Washington game today**
+**Cops Hunt for Man Accused of Murdering 'Sandlot' Actor's Mom**
 
-You can read more about it [here](https://sports.yahoo.com/watch-oregon-washington-game-ncaa-college-football-2023-schedule-time-channel-120030687.html).
+You can read more about it [here](https://www.thedailybeast.com/the-sandlot-actor-marty-yorks-mom-deanna-esmaeel-found-dead-cops-look-for-boyfriend-daniel-james-walter).
 
 ## Requirements
 - Python 3.8
