@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697369646)
+![Generated GIF](output.gif?raw=true&v=1697371912)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
+**Israeli couple who were killed protecting their twin babies from Hamas gunmen "were heroes," family says**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/israeli-couple-killed-protect-twin-babies-hamas-gunmen-hadar-itai-berdichevsky-kfar-aza-kibbutz/).
 
 ## Requirements
 - Python 3.8
