@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697376808)
+![Generated GIF](output.gif?raw=true&v=1697378712)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RFK Jr. running for president as an independent is a relief for the Kennedys**
+**SpaceX Falcon Heavy Blast Off: NASA's Psyche Spacecraft on Its Way To Metal-Rich Asteroid**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/14/rfk-jr-s-independence-pivot-is-a-relief-for-the-kennedys-00121480).
+You can read more about it [here](https://scitechdaily.com/?p=317660).
 
 ## Requirements
 - Python 3.8
