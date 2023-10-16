@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697470422)
+![Generated GIF](output.gif?raw=true&v=1697472597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla, Netflix, and banks highlight earnings rush: The week ahead**
+**NFL London game: Ravens vs. Titans score, highlights, inactives and live tracker**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-netflix-and-banks-highlight-earnings-rush-the-week-ahead-140003751.html).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-6-london-game-ravens-vs-titans-score-highlights-inactives-and-live-tracker-120533836.html).
 
 ## Requirements
 - Python 3.8
