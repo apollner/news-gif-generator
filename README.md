@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697479831)
+![Generated GIF](output.gif?raw=true&v=1697481441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bengals announce inactives for Week 6 matchup against Seattle Seahawks**
+**Afghanistan hit by seventh earthquake in eight days**
 
-You can read more about it [here](https://www.wlwt.com/article/cincinnati-bengals-seattle-seahawks-week-6-2023-inactives-tee-higgins/45539927).
+You can read more about it [here](https://www.youtube.com/watch?v=GENskga7F70).
 
 ## Requirements
 - Python 3.8
