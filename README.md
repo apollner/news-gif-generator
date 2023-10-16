@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697420213)
+![Generated GIF](output.gif?raw=true&v=1697422746)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli attack on Syrian Aleppo airport puts it out of service**
+**Lebanon army blames Israel for journalist's killing; Reuters urges Israeli probe**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-attack-syrian-aleppo-airport-puts-it-out-service-2023-10-14/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-examining-death-reuters-journalist-lebanon-2023-10-14/).
 
 ## Requirements
 - Python 3.8
