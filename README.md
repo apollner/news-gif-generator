@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697481441)
+![Generated GIF](output.gif?raw=true&v=1697483245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Afghanistan hit by seventh earthquake in eight days**
+**Chris Evans says he's 'enjoying life' as a newlywed after marrying Alba Baptista**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GENskga7F70).
+You can read more about it [here](https://www.cnn.com/2023/10/15/entertainment/chris-evans-newlywed/index.html).
 
 ## Requirements
 - Python 3.8
