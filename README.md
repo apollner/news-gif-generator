@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697487079)
+![Generated GIF](output.gif?raw=true&v=1697488438)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drug used in diabetes treatment Mounjaro helped dieters shed 60 pounds, study finds**
+**Adobe's latest wearable tech promises dynamic clothing that can change at the push of a button**
 
-You can read more about it [here](https://finance.yahoo.com/news/drug-used-diabetes-treatment-mounjaro-160401455.html).
+You can read more about it [here](https://www.techspot.com/news/100494-adobe-latest-wearable-tech-promises-dynamic-clothing-can.html).
 
 ## Requirements
 - Python 3.8
