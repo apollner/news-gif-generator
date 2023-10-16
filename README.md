@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697425771)
+![Generated GIF](output.gif?raw=true&v=1697427216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gazans stream south to seek shelter from Israeli bombardment**
+**IU football QB rotation provided no answers vs. Michigan, Tom Allen says it won't continue**
 
-You can read more about it [here](https://www.ft.com/content/eb4717fc-432e-4251-b778-7a365f8de825).
+You can read more about it [here](https://www.thedailyhoosier.com/iu-football-qb-rotation-provided-no-answers-vs-michigan-tom-allen-says-it-wont-continue/).
 
 ## Requirements
 - Python 3.8
