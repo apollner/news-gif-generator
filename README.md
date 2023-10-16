@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697434422)
+![Generated GIF](output.gif?raw=true&v=1697438237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Caltech ends its Wi-Fi lawsuit against Apple and Broadcom**
+**Taylor Swift Makes Surprise 'SNL' Cameo After Travis Kelce's**
 
-You can read more about it [here](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent).
+You can read more about it [here](https://variety.com/2023/tv/news/taylor-swift-snl-premiere-travis-kelce-cameo-1235756487/).
 
 ## Requirements
 - Python 3.8
