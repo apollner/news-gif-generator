@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697432892)
+![Generated GIF](output.gif?raw=true&v=1697434422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chris Evans flaunts his wedding band as he poses with fans at NY Comic Con 2023**
+**Caltech ends its Wi-Fi lawsuit against Apple and Broadcom**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/chris-evans-flaunts-his-wedding-band-as-he-poses-with-fans-at-ny-comic-con-2023-101697291482501.html).
+You can read more about it [here](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent).
 
 ## Requirements
 - Python 3.8
