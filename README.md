@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697430956)
+![Generated GIF](output.gif?raw=true&v=1697432892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
+**Chris Evans flaunts his wedding band as he poses with fans at NY Comic Con 2023**
 
-You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/chris-evans-flaunts-his-wedding-band-as-he-poses-with-fans-at-ny-comic-con-2023-101697291482501.html).
 
 ## Requirements
 - Python 3.8
