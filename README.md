@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697461955)
+![Generated GIF](output.gif?raw=true&v=1697463241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google Blocks Geekbench And 3DMark On Pixel 8 Series | SPARROWS NEWS**
+**College football Week 7 results and takeaways: USC’s long night and a show-stopper in Seattle**
 
-You can read more about it [here](https://sparrowsnews.com/2023/10/15/google-blocks-geekbench-and-3dmark-on-pixel-8-series/).
+You can read more about it [here](https://theathletic.com/4960844/2023/10/14/college-football-top-25-schedule-and-key-storylines-for-week-7-saturday-takeaways/).
 
 ## Requirements
 - Python 3.8
