@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697412821)
+![Generated GIF](output.gif?raw=true&v=1697416421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Player Props for Week 6: Bets on Jahan Dotson, Alexander Mattison, More**
+**[Removed]**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-player-props-week-6).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
