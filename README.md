@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697477747)
+![Generated GIF](output.gif?raw=true&v=1697479831)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republican Jeff Landry claims back Louisiana governor's office in stunning GOP victory**
+**Bengals announce inactives for Week 6 matchup against Seattle Seahawks**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/10/15/republican-jeff-landry-louisiana-gop/71194695007/).
+You can read more about it [here](https://www.wlwt.com/article/cincinnati-bengals-seattle-seahawks-week-6-2023-inactives-tee-higgins/45539927).
 
 ## Requirements
 - Python 3.8
