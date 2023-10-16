@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697497631)
+![Generated GIF](output.gif?raw=true&v=1697499243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft closes the deal; Arm has Wall Street salivating: Weekly tech roundup By Investing.com**
+**Astros vs. Rangers live updates: Texas up early in ALCS Game 1, Verlander starts, TV channel**
 
-You can read more about it [here](https://www.investing.com/news/stock-market-news/microsoft-closes-the-deal-arm-has-wall-street-salivating-weekly-tech-roundup-3198983).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/15/astros-vs-rangers-score-alcs-game-1-live-highlights-tv-channel/71195140007/).
 
 ## Requirements
 - Python 3.8
