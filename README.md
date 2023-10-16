@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697458416)
+![Generated GIF](output.gif?raw=true&v=1697460767)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Murder plot revealed in Jade Janks' text messages: "I just dosed the hell out of him"**
+**Caleb Williams shellacked by Notre Dame defense as USC tumbles: What the win means for Fighting Irish**
 
-You can read more about it [here](https://www.cbsnews.com/news/jade-janks-tom-merriman-murder-plot-revealed-in-california-womans-text-messages/).
+You can read more about it [here](https://theathletic.com/4962805/2023/10/14/usc-notre-dame-score-results-caleb-williams/).
 
 ## Requirements
 - Python 3.8
