@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697463241)
+![Generated GIF](output.gif?raw=true&v=1697465208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 7 results and takeaways: USC’s long night and a show-stopper in Seattle**
+**How much do UAW workers make? A look at hourly wages across US states**
 
-You can read more about it [here](https://theathletic.com/4960844/2023/10/14/college-football-top-25-schedule-and-key-storylines-for-week-7-saturday-takeaways/).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/10/14/how-much-uaw-workers-earn-comparison/71159764007/).
 
 ## Requirements
 - Python 3.8
