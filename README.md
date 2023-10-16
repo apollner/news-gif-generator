@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697440139)
+![Generated GIF](output.gif?raw=true&v=1697441634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dallas police give update on State Fair of Texas shooting**
+**Jim Jordan tapped as Republican House speaker nominee**
 
-You can read more about it [here](https://www.youtube.com/watch?v=YxS5LVxxcOs).
+You can read more about it [here](https://www.npr.org/2023/10/14/1205987040/jim-jordan-tapped-as-republican-house-speaker-nominee).
 
 ## Requirements
 - Python 3.8
