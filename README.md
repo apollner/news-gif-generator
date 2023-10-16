@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697450982)
+![Generated GIF](output.gif?raw=true&v=1697452609)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republican Jeff Landry wins the Louisiana governor's race, reclaims office for GOP**
+**US sending second carrier strike group, fighter jets to region as Israel prepares to expand Gaza operations**
 
-You can read more about it [here](https://apnews.com/article/louisiana-governor-race-election-2023-ed79c5a80af6e59593985c9be4ce5dc8).
+You can read more about it [here](https://www.cnn.com/2023/10/14/middleeast/us-aircraft-carrier-eisenhower-israel-gaza-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
