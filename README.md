@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697466998)
+![Generated GIF](output.gif?raw=true&v=1697468915)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 7 results and takeaways: USC’s long night and a show-stopper in Seattle**
+**Horoscope for Sunday, Oct. 15, 2023**
 
-You can read more about it [here](https://theathletic.com/4960844/2023/10/14/college-football-top-25-schedule-and-key-storylines-for-week-7-saturday-takeaways/).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/15/23913560/horoscopes-today-sunday-oct-15-2023).
 
 ## Requirements
 - Python 3.8
