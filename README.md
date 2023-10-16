@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697441634)
+![Generated GIF](output.gif?raw=true&v=1697443876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan tapped as Republican House speaker nominee**
+**Caleb Williams has his worst performance as a Trojan in USC's loss to Notre Dame**
 
-You can read more about it [here](https://www.npr.org/2023/10/14/1205987040/jim-jordan-tapped-as-republican-house-speaker-nominee).
+You can read more about it [here](https://www.latimes.com/sports/usc/story/2023-10-14/caleb-williams-struggles-usc-loss-notre-dame-national-title).
 
 ## Requirements
 - Python 3.8
