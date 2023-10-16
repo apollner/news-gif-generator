@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697495616)
+![Generated GIF](output.gif?raw=true&v=1697497631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch the Philadelphia Eagles vs. New York Jets on Fox**
+**Microsoft closes the deal; Arm has Wall Street salivating: Weekly tech roundup By Investing.com**
 
-You can read more about it [here](https://sports.yahoo.com/watch-philadelphia-eagles-new-york-jets-game-time-channel-150043145.html).
+You can read more about it [here](https://www.investing.com/news/stock-market-news/microsoft-closes-the-deal-arm-has-wall-street-salivating-weekly-tech-roundup-3198983).
 
 ## Requirements
 - Python 3.8
