@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697452609)
+![Generated GIF](output.gif?raw=true&v=1697454343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US sending second carrier strike group, fighter jets to region as Israel prepares to expand Gaza operations**
+**Ripple effect seen on markets globally from Middle East conflict**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/middleeast/us-aircraft-carrier-eisenhower-israel-gaza-intl-hnk-ml/index.html).
+You can read more about it [here](https://www.reuters.com/markets/ripple-effect-seen-markets-globally-middle-east-conflict-2023-10-15/).
 
 ## Requirements
 - Python 3.8
