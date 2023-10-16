@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697490364)
+![Generated GIF](output.gif?raw=true&v=1697492117)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Indigenous Australians call for a week of silence after historic referendum fails**
+**Israel-Lebanon border clashes escalate**
 
-You can read more about it [here](https://thehill.com/policy/international/4256944-indigenous-australians-call-for-a-week-of-silence-after-historic-referendum-fails/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/one-killed-3-wounded-cross-border-hezbollah-attack-northern-israel-2023-10-15/).
 
 ## Requirements
 - Python 3.8
