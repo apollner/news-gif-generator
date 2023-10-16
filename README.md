@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697429383)
+![Generated GIF](output.gif?raw=true&v=1697430956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lebanon army blames Israel for journalist's killing; Reuters urges Israeli probe**
+**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-examining-death-reuters-journalist-lebanon-2023-10-14/).
+You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
 
 ## Requirements
 - Python 3.8
