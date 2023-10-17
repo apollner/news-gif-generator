@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697583988)
+![Generated GIF](output.gif?raw=true&v=1697585639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump ‘does not have the right to say and do exactly what he pleases,’ Judge Chutkan says, issuing gag order**
+**Vulnerable Republicans face a reckoning with Jim Jordan speaker vote**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/trump-gag-order-chutkan-hearing/index.html).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/centrist-republicans-face-reckoning-jim-jordan-speaker-vote-rcna120607).
 
 ## Requirements
 - Python 3.8
