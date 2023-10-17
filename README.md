@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697548318)
+![Generated GIF](output.gif?raw=true&v=1697549627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan still facing at least "10 to 20" holdouts as speaker vote looms, Republicans say**
+**Warner Bros. Discovery’s Max Details 2024 European Rollout Plans**
 
-You can read more about it [here](https://www.cbsnews.com/news/house-speaker-jim-jordan-10-20-holdouts/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/hbo-max-europe-2024-rollout-mipcom-1235619251/).
 
 ## Requirements
 - Python 3.8
