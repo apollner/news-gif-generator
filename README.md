@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697524591)
+![Generated GIF](output.gif?raw=true&v=1697526457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 6 grades: Browns earn an 'A' for shocking victory over 49ers, Lions get an 'A-' for beating Bucs**
+**The Texas Rangers continue their POSTSEASON TEAR 😤 ALCS Game 1 RECAP | SportsCenter**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-grades-browns-earn-an-a-for-shocking-victory-over-49ers-lions-get-an-a-for-beating-bucs/).
+You can read more about it [here](https://www.youtube.com/watch?v=x1MmZvMKNlY).
 
 ## Requirements
 - Python 3.8
