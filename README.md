@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697502642)
+![Generated GIF](output.gif?raw=true&v=1697506666)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Boy, mother stabbed in Plainfield Twp. were targeted because of their Islamic faith: Police**
+**[Removed]**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/boy-mother-stabbed-in-plainfield-twp-were-targeted-because-of-their-islamic-faith-police/3251248/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
