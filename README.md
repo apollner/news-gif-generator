@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697531790)
+![Generated GIF](output.gif?raw=true&v=1697533730)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Texas Rangers continue their POSTSEASON TEAR 😤 ALCS Game 1 RECAP | SportsCenter**
+**‘Rick and Morty’: Replacements for Justin Roiland Revealed in Season 7 Premiere**
 
-You can read more about it [here](https://www.youtube.com/watch?v=x1MmZvMKNlY).
+You can read more about it [here](https://variety.com/2023/film/news/rick-and-morty-ian-cardoni-harry-belden-justin-roiland-1235752378/).
 
 ## Requirements
 - Python 3.8
