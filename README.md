@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697560817)
+![Generated GIF](output.gif?raw=true&v=1697562400)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Ford urges UAW to end strike, target Tesla, Toyota, Honda instead**
+**U.S. can 'certainly' afford military support to both Israel and Ukraine, Janet Yellen says**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/ford/2023/10/16/bill-ford-calls-press-briefing-to-discuss-future-of-manufacturing/71201653007/).
+You can read more about it [here](https://www.cnbc.com/2023/10/16/us-can-certainly-afford-military-support-to-both-israel-and-ukraine-janet-yellen-says.html).
 
 ## Requirements
 - Python 3.8
