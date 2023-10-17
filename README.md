@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697580349)
+![Generated GIF](output.gif?raw=true&v=1697582018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?**
+**NFL Week 7 picks, predictions: Must-see games with top teams scheduled**
 
-You can read more about it [here](https://apnews.com/article/jim-jordan-house-speaker-republicans-0f759a46f63aa9daf9e6939e45799329).
+You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2023/10/16/nfl-week-7-picks-predictions-2023-season/71205116007/).
 
 ## Requirements
 - Python 3.8
