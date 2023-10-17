@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697562400)
+![Generated GIF](output.gif?raw=true&v=1697564027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. can 'certainly' afford military support to both Israel and Ukraine, Janet Yellen says**
+**Photographers Capture Spectacular 'Ring of Fire' Eclipse**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/16/us-can-certainly-afford-military-support-to-both-israel-and-ukraine-janet-yellen-says.html).
+You can read more about it [here](https://petapixel.com/2023/10/16/photographers-out-in-force-to-capture-spectacular-ring-of-fire-eclipse/).
 
 ## Requirements
 - Python 3.8
