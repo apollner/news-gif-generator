@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697540731)
+![Generated GIF](output.gif?raw=true&v=1697542424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow, S&P Live Updates for Oct. 16**
+**Google Camera now has a new name to give you next level Pixel envy -**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-15/asia-set-for-early-losses-as-gaza-offensive-looms-markets-wrap).
+You can read more about it [here](https://www.androidauthority.com/google-camera-pixel-camera-3376160/).
 
 ## Requirements
 - Python 3.8
