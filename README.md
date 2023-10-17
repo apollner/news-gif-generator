@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697537352)
+![Generated GIF](output.gif?raw=true&v=1697540731)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘New era’: Tusk celebrates exit polls suggesting opposition win in Poland**
+**Stock Market Today: Dow, S&P Live Updates for Oct. 16**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/16/new-era-tusk-celebrates-exit-polls-suggesting-opposition-win-in-poland).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-15/asia-set-for-early-losses-as-gaza-offensive-looms-markets-wrap).
 
 ## Requirements
 - Python 3.8
