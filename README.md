@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697526457)
+![Generated GIF](output.gif?raw=true&v=1697528096)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Texas Rangers continue their POSTSEASON TEAR 😤 ALCS Game 1 RECAP | SportsCenter**
+**A brain atlas: Ambitious research may yield new understanding about dementia**
 
-You can read more about it [here](https://www.youtube.com/watch?v=x1MmZvMKNlY).
+You can read more about it [here](https://www.ksl.com/article/50751100/a-brain-atlas-ambitious-research-may-yield-new-understanding-about-dementia).
 
 ## Requirements
 - Python 3.8
