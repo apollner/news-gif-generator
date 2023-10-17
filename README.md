@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697515778)
+![Generated GIF](output.gif?raw=true&v=1697517232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PBOC Offers Most Cash Support Since 2020 as Debt Sales Surge**
+**New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-16/pboc-ramps-up-liquidity-support-to-boost-china-economic-recovery).
+You can read more about it [here](https://www.youtube.com/watch?v=XSXvxJOpapc).
 
 ## Requirements
 - Python 3.8
