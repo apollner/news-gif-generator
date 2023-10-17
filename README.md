@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697517232)
+![Generated GIF](output.gif?raw=true&v=1697519261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights**
+**Middle East on ‘verge of the abyss,’ UN warns as Gaza suffers and Israel prepares for offensive**
 
-You can read more about it [here](https://www.youtube.com/watch?v=XSXvxJOpapc).
+You can read more about it [here](https://www.cnn.com/2023/10/15/middleeast/israel-hamas-gaza-war-sunday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
