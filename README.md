@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697551556)
+![Generated GIF](output.gif?raw=true&v=1697553263)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists build the largest-ever atlas of over 3,000 cells in the human brain : Shots - Health News**
+**Astros vs. Rangers: Explaining unusual double play as Jose Altuve makes baserunning mistake in ALCS Game 1**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/16/1205780690/largest-ever-map-human-brain-atlas-3000-cells-alzheimers-schizophrenia).
+You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-explaining-unusual-double-play-as-jose-altuve-makes-baserunning-mistake-in-alcs-game-1/).
 
 ## Requirements
 - Python 3.8
