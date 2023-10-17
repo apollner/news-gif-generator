@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697533730)
+![Generated GIF](output.gif?raw=true&v=1697535243)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Rick and Morty’: Replacements for Justin Roiland Revealed in Season 7 Premiere**
+**House Speaker vote expected to be held Tuesday**
 
-You can read more about it [here](https://variety.com/2023/film/news/rick-and-morty-ian-cardoni-harry-belden-justin-roiland-1235752378/).
+You can read more about it [here](https://www.cbsnews.com/news/house-speaker-vote-jim-jordan-expected-10-17-2023/).
 
 ## Requirements
 - Python 3.8
