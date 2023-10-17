@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697578417)
+![Generated GIF](output.gif?raw=true&v=1697580349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suspect in Wadea Al-Fayoume death was obsessed with Israel-Hamas war, prosecutors say**
+**Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/suspect-wadea-al-fayoume-death-was-obsessed-israel-hamas-war-prosecuto-rcna120589).
+You can read more about it [here](https://apnews.com/article/jim-jordan-house-speaker-republicans-0f759a46f63aa9daf9e6939e45799329).
 
 ## Requirements
 - Python 3.8
