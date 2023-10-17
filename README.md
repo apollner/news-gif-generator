@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697513707)
+![Generated GIF](output.gif?raw=true&v=1697515778)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Train derailment north of Pueblo forces closure of Interstate 25**
+**PBOC Offers Most Cash Support Since 2020 as Debt Sales Surge**
 
-You can read more about it [here](https://www.chieftain.com/story/news/2023/10/15/train-derailment-north-of-pueblo-forces-closure-of-interstate-25/71200140007/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-16/pboc-ramps-up-liquidity-support-to-boost-china-economic-recovery).
 
 ## Requirements
 - Python 3.8
