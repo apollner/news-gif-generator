@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697573282)
+![Generated GIF](output.gif?raw=true&v=1697574815)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moderna, BioNTech Leads Covid Sell-Off After Pfizer Slashes Outlook**
+**LinkedIn is laying off nearly 700 employees**
 
-You can read more about it [here](https://www.investors.com/news/technology/moderna-stock-biontech-stock-lead-covid-sell-off-after-pfizer-slashes-guidance/).
+You can read more about it [here](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs).
 
 ## Requirements
 - Python 3.8
