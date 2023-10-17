@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697564027)
+![Generated GIF](output.gif?raw=true&v=1697566212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Photographers Capture Spectacular 'Ring of Fire' Eclipse**
+**Bill Ford urges UAW to end strike, target Tesla, Toyota, Honda instead**
 
-You can read more about it [here](https://petapixel.com/2023/10/16/photographers-out-in-force-to-capture-spectacular-ring-of-fire-eclipse/).
+You can read more about it [here](https://www.freep.com/story/money/cars/ford/2023/10/16/bill-ford-calls-press-briefing-to-discuss-future-of-manufacturing/71201653007/).
 
 ## Requirements
 - Python 3.8
