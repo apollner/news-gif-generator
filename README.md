@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697574815)
+![Generated GIF](output.gif?raw=true&v=1697576735)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LinkedIn is laying off nearly 700 employees**
+**Suspect in Wadea Al-Fayoume death was obsessed with Israel-Hamas war, prosecutors say**
 
-You can read more about it [here](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/suspect-wadea-al-fayoume-death-was-obsessed-israel-hamas-war-prosecuto-rcna120589).
 
 ## Requirements
 - Python 3.8
