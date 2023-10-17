@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697582018)
+![Generated GIF](output.gif?raw=true&v=1697583988)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 7 picks, predictions: Must-see games with top teams scheduled**
+**Trump ‘does not have the right to say and do exactly what he pleases,’ Judge Chutkan says, issuing gag order**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2023/10/16/nfl-week-7-picks-predictions-2023-season/71205116007/).
+You can read more about it [here](https://www.cnn.com/2023/10/16/politics/trump-gag-order-chutkan-hearing/index.html).
 
 ## Requirements
 - Python 3.8
