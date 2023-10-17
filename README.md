@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697566212)
+![Generated GIF](output.gif?raw=true&v=1697567774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Ford urges UAW to end strike, target Tesla, Toyota, Honda instead**
+**iPad Mini 7 Rumored to Feature These Four Upgrades**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/ford/2023/10/16/bill-ford-calls-press-briefing-to-discuss-future-of-manufacturing/71201653007/).
+You can read more about it [here](https://www.macrumors.com/2023/10/16/ipad-mini-7-rumored-to-feature-these-four-upgrades/).
 
 ## Requirements
 - Python 3.8
