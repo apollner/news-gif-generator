@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697567774)
+![Generated GIF](output.gif?raw=true&v=1697569496)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**iPad Mini 7 Rumored to Feature These Four Upgrades**
+**Georgia's Brock Bowers having surgery for high ankle sprain - ESPN**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/16/ipad-mini-7-rumored-to-feature-these-four-upgrades/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38672907/georgia-brock-bowers-having-surgery-high-ankle-sprain).
 
 ## Requirements
 - Python 3.8
