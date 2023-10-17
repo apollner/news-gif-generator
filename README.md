@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697569496)
+![Generated GIF](output.gif?raw=true&v=1697571234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia's Brock Bowers having surgery for high ankle sprain - ESPN**
+**Brussels shooting: Suspect at large after two Swedes killed in terror attack**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38672907/georgia-brock-bowers-having-surgery-high-ankle-sprain).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67129117).
 
 ## Requirements
 - Python 3.8
