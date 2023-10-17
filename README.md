@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697499243)
+![Generated GIF](output.gif?raw=true&v=1697502642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astros vs. Rangers live updates: Texas up early in ALCS Game 1, Verlander starts, TV channel**
+**Boy, mother stabbed in Plainfield Twp. were targeted because of their Islamic faith: Police**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/15/astros-vs-rangers-score-alcs-game-1-live-highlights-tv-channel/71195140007/).
+You can read more about it [here](http://www.nbcchicago.com/news/local/boy-mother-stabbed-in-plainfield-twp-were-targeted-because-of-their-islamic-faith-police/3251248/).
 
 ## Requirements
 - Python 3.8
