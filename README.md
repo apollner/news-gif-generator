@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697549627)
+![Generated GIF](output.gif?raw=true&v=1697551556)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Warner Bros. Discovery’s Max Details 2024 European Rollout Plans**
+**Scientists build the largest-ever atlas of over 3,000 cells in the human brain : Shots - Health News**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/hbo-max-europe-2024-rollout-mipcom-1235619251/).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/16/1205780690/largest-ever-map-human-brain-atlas-3000-cells-alzheimers-schizophrenia).
 
 ## Requirements
 - Python 3.8
