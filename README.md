@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697509072)
+![Generated GIF](output.gif?raw=true&v=1697510161)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jeremiah Owusu-Koramoah credits Jim Schwartz for figuring out 49ers' tendencies**
+**Counting Cars: Danny’s Motorcycle Pullover Drama (S1, E8) | Full Episode**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-owusu-koramoah-credits-jim-schwartz-for-figuring-out-49ers-tendencies).
+You can read more about it [here](https://www.youtube.com/watch?v=18Cd5waxROI).
 
 ## Requirements
 - Python 3.8
