@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697510161)
+![Generated GIF](output.gif?raw=true&v=1697512128)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Counting Cars: Danny’s Motorcycle Pullover Drama (S1, E8) | Full Episode**
+**Israeli officials identify 2 Hamas leaders it says are responsible for attack, "backed by Iran"**
 
-You can read more about it [here](https://www.youtube.com/watch?v=18Cd5waxROI).
+You can read more about it [here](https://www.cbsnews.com/news/israel-identifies-2-hamas-leaders-attacks-yahya-sinwar-el-deif-iran/).
 
 ## Requirements
 - Python 3.8
