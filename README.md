@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697610967)
+![Generated GIF](output.gif?raw=true&v=1697612773)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top Iranian envoy warns ‘preemptive action’ against Israel expected soon**
+**Blinken urges Bibi to allow aid into Gaza to maintain wider support for invasion**
 
-You can read more about it [here](https://thehill.com/policy/defense/4259380-top-iranian-envoy-warns-preemptive-action-against-israel-expected-soon/).
+You can read more about it [here](https://www.axios.com/2023/10/16/gaza-humanitarian-aid-blinken-netanyahu-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
