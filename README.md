@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697598505)
+![Generated GIF](output.gif?raw=true&v=1697600089)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oakland-based, musician-loved Bandcamp gutted by 50% layoff**
+**Suzanne Somers’ Son Bruce Shares Tribute: ‘She Soared Higher Than Most Can Dream’**
 
-You can read more about it [here](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/suzanne-somers-death-son-bruce-shares-tribute-1234855493/).
 
 ## Requirements
 - Python 3.8
