@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697585639)
+![Generated GIF](output.gif?raw=true&v=1697589023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vulnerable Republicans face a reckoning with Jim Jordan speaker vote**
+**6-year-old Palestinian American boy is killed in anti-Muslim attack in Illinois, authorities say**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/centrist-republicans-face-reckoning-jim-jordan-speaker-vote-rcna120607).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/6-year-old-boy-killed-anti-muslim-attack-illinois-police-say-rcna120543).
 
 ## Requirements
 - Python 3.8
