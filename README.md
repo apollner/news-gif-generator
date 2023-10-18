@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697668409)
+![Generated GIF](output.gif?raw=true&v=1697670380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit casino workers go on strike; unions seek better wages, benefits**
+**Here's How Will Smith's Children Reportedly Feel About Jada Pinkett Smith's Memoir Marriage Revelations**
 
-You can read more about it [here](https://www.freep.com/story/money/business/2023/10/17/detroit-casino-worker-strike/71213296007/).
+You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/will-smith-children-jada-memoir-reports).
 
 ## Requirements
 - Python 3.8
