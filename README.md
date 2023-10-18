@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697636022)
+![Generated GIF](output.gif?raw=true&v=1697638000)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India Supreme Court declines to legalise same-sex marriage**
+**Takeaways from the testy hearing over the Trump gag order and what it means**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-65525980).
+You can read more about it [here](https://www.cnn.com/2023/10/16/politics/gag-order-trump-chutkan-takeaways/index.html).
 
 ## Requirements
 - Python 3.8
