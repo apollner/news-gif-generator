@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697616742)
+![Generated GIF](output.gif?raw=true&v=1697618084)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Quartz Showers: Silica Snow Envelops the Fiery Atmosphere of Hot Jupiter Exoplanet**
+**Ray-Ban Meta smart glasses review: Instagram-worthy shades**
 
-You can read more about it [here](https://scitechdaily.com/?p=318569).
+You can read more about it [here](https://www.engadget.com/ray-ban-meta-smart-glasses-review-instagram-worthy-shades-070010365.html).
 
 ## Requirements
 - Python 3.8
