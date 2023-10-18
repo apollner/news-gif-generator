@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697620129)
+![Generated GIF](output.gif?raw=true&v=1697621627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tom Sandoval Gets Punched by Fellow Reality Star in ‘Special Forces: World’s Toughest Test’ (Exclusive Video)**
+**Suzanne Somers got fired for demanding equal pay on 'Three's Company' before cashing in with ThighMaster**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/tom-sandoval-gets-punched-fellow-213304812.html).
+You can read more about it [here](https://www.foxbusiness.com/entertainment/suzanne-somers-fired-demanding-equal-pay-threes-company-cashing-thighmaster).
 
 ## Requirements
 - Python 3.8
