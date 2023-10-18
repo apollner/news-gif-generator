@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697618084)
+![Generated GIF](output.gif?raw=true&v=1697620129)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ray-Ban Meta smart glasses review: Instagram-worthy shades**
+**Tom Sandoval Gets Punched by Fellow Reality Star in ‘Special Forces: World’s Toughest Test’ (Exclusive Video)**
 
-You can read more about it [here](https://www.engadget.com/ray-ban-meta-smart-glasses-review-instagram-worthy-shades-070010365.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/tom-sandoval-gets-punched-fellow-213304812.html).
 
 ## Requirements
 - Python 3.8
