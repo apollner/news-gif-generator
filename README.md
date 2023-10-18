@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697612773)
+![Generated GIF](output.gif?raw=true&v=1697614422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blinken urges Bibi to allow aid into Gaza to maintain wider support for invasion**
+**Dallas Cowboys vs. Los Angeles Chargers | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://www.axios.com/2023/10/16/gaza-humanitarian-aid-blinken-netanyahu-israel-hamas-war).
+You can read more about it [here](https://www.youtube.com/watch?v=B_4X2oSs6LI).
 
 ## Requirements
 - Python 3.8
