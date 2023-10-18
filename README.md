@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697614422)
+![Generated GIF](output.gif?raw=true&v=1697616742)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dallas Cowboys vs. Los Angeles Chargers | 2023 Week 6 Game Highlights**
+**Quartz Showers: Silica Snow Envelops the Fiery Atmosphere of Hot Jupiter Exoplanet**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B_4X2oSs6LI).
+You can read more about it [here](https://scitechdaily.com/?p=318569).
 
 ## Requirements
 - Python 3.8
