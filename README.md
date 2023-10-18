@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697607218)
+![Generated GIF](output.gif?raw=true&v=1697609451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Goldman Sachs is set to report third-quarter earnings — here's what Wall Street expects**
+**James Webb Space Telescope detects quartz crystals in an exoplanet's atmosphere**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/17/goldman-sachs-gs-earnings-3q-2023.html).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-quartz-crystals-exoplanet).
 
 ## Requirements
 - Python 3.8
