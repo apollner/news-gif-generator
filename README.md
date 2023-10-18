@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697595425)
+![Generated GIF](output.gif?raw=true&v=1697596637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas releases video of Israeli hostage as U.S., international pressure to release captives intensifies**
+**Will Smith 'shocked' over Jada Pinkett's book 'Worthy': 'Take a rest!'**
 
-You can read more about it [here](https://thehill.com/homenews/4259471-hamas-releases-video-of-israeli-hostage-as-u-s-international-pressure-to-release-captives-intensifies/).
+You can read more about it [here](https://nypost.com/2023/10/16/will-smith-shocked-over-jada-pinketts-memoir-worthy/).
 
 ## Requirements
 - Python 3.8
