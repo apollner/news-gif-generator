@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697623739)
+![Generated GIF](output.gif?raw=true&v=1697625340)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Xiaomi’s new ‘HyperOS’ will power its smartphones and beyond**
+**Hamas' First Hostage Video: Franco-Israeli Woman Abducted From Music Fest**
 
-You can read more about it [here](https://www.engadget.com/xiaomis-new-hyperos-will-power-its-smartphones-and-beyond-075537374.html).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-israel-gaza-war-hamas-first-hostage-video-franco-israeli-woman-abducted-from-music-fest-4487630).
 
 ## Requirements
 - Python 3.8
