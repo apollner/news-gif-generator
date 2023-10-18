@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697609451)
+![Generated GIF](output.gif?raw=true&v=1697610967)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Webb Space Telescope detects quartz crystals in an exoplanet's atmosphere**
+**Top Iranian envoy warns ‘preemptive action’ against Israel expected soon**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-quartz-crystals-exoplanet).
+You can read more about it [here](https://thehill.com/policy/defense/4259380-top-iranian-envoy-warns-preemptive-action-against-israel-expected-soon/).
 
 ## Requirements
 - Python 3.8
