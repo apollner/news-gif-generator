@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697639655)
+![Generated GIF](output.gif?raw=true&v=1697641638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phillies vs. Diamondbacks score, highlights: What we learned from Game 1 as Philly homers way to NLCS lead**
+**India Supreme Court declines to legalise same-sex marriage**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/phillies-vs-diamondbacks-score-highlights-what-we-learned-from-game-1-as-philly-homers-way-to-nlcs-lead/live/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-65525980).
 
 ## Requirements
 - Python 3.8
