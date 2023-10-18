@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697596637)
+![Generated GIF](output.gif?raw=true&v=1697598505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Will Smith 'shocked' over Jada Pinkett's book 'Worthy': 'Take a rest!'**
+**Oakland-based, musician-loved Bandcamp gutted by 50% layoff**
 
-You can read more about it [here](https://nypost.com/2023/10/16/will-smith-shocked-over-jada-pinketts-memoir-worthy/).
+You can read more about it [here](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php).
 
 ## Requirements
 - Python 3.8
