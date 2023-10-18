@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697621627)
+![Generated GIF](output.gif?raw=true&v=1697623739)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suzanne Somers got fired for demanding equal pay on 'Three's Company' before cashing in with ThighMaster**
+**Xiaomi’s new ‘HyperOS’ will power its smartphones and beyond**
 
-You can read more about it [here](https://www.foxbusiness.com/entertainment/suzanne-somers-fired-demanding-equal-pay-threes-company-cashing-thighmaster).
+You can read more about it [here](https://www.engadget.com/xiaomis-new-hyperos-will-power-its-smartphones-and-beyond-075537374.html).
 
 ## Requirements
 - Python 3.8
