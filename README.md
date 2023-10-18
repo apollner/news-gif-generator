@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697600089)
+![Generated GIF](output.gif?raw=true&v=1697603634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suzanne Somers’ Son Bruce Shares Tribute: ‘She Soared Higher Than Most Can Dream’**
+**US lawmakers introduce resolution urging ‘immediate’ Gaza ceasefire**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/suzanne-somers-death-son-bruce-shares-tribute-1234855493/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/16/us-lawmakers-introduce-resolution-urging-immediate-gaza-ceasefire).
 
 ## Requirements
 - Python 3.8
