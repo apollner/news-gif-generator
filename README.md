@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697603634)
+![Generated GIF](output.gif?raw=true&v=1697605588)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US lawmakers introduce resolution urging ‘immediate’ Gaza ceasefire**
+**Feds begin investigation of train derailment as long I-25 closure continues near Pueblo**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/16/us-lawmakers-introduce-resolution-urging-immediate-gaza-ceasefire).
+You can read more about it [here](https://www.denverpost.com/2023/10/16/i-25-train-derailment-pueblo-colorado-investigation/).
 
 ## Requirements
 - Python 3.8
