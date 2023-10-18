@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697628827)
+![Generated GIF](output.gif?raw=true&v=1697631215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Goldman profits drop 36% after pullback from retail banking**
+**Christina Aguilera on Halloween Obsession, Pranking Fiancé & New Vegas Show**
 
-You can read more about it [here](https://www.ft.com/content/b69bb541-927b-494a-a038-98a44f46797c).
+You can read more about it [here](https://www.youtube.com/watch?v=zcO0zqKlsi0).
 
 ## Requirements
 - Python 3.8
