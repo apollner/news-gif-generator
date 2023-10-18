@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697638000)
+![Generated GIF](output.gif?raw=true&v=1697639655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Takeaways from the testy hearing over the Trump gag order and what it means**
+**Phillies vs. Diamondbacks score, highlights: What we learned from Game 1 as Philly homers way to NLCS lead**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/gag-order-trump-chutkan-takeaways/index.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/phillies-vs-diamondbacks-score-highlights-what-we-learned-from-game-1-as-philly-homers-way-to-nlcs-lead/live/).
 
 ## Requirements
 - Python 3.8
