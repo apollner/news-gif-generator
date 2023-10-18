@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697670380)
+![Generated GIF](output.gif?raw=true&v=1697672032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's How Will Smith's Children Reportedly Feel About Jada Pinkett Smith's Memoir Marriage Revelations**
+**Can the Aces win the WNBA Finals without Gray, Stokes? - ESPN**
 
-You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/will-smith-children-jada-memoir-reports).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/38681680/wnba-finals-2023-vegas-aces-chelsea-gray-injury-kiah-stokes-out).
 
 ## Requirements
 - Python 3.8
