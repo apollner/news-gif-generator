@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697647153)
+![Generated GIF](output.gif?raw=true&v=1697648794)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unincorp. Plainfield stabbing: Vigil to be held for Wadea Al-Fayoume, 6 year old Muslim boy stabbed to death; Joseph Czuba charged**
+**India Supreme Court declines to legalise same-sex marriage**
 
-You can read more about it [here](https://abc7chicago.com/plainfield-stabbing-illinois-joseph-czuba-news/13927291/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-65525980).
 
 ## Requirements
 - Python 3.8
