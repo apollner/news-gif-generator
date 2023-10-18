@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697589023)
+![Generated GIF](output.gif?raw=true&v=1697592915)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6-year-old Palestinian American boy is killed in anti-Muslim attack in Illinois, authorities say**
+**Oakland-based, musician-loved Bandcamp gutted by 50% layoff**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/6-year-old-boy-killed-anti-muslim-attack-illinois-police-say-rcna120543).
+You can read more about it [here](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php).
 
 ## Requirements
 - Python 3.8
