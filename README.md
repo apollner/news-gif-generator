@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697704482)
+![Generated GIF](output.gif?raw=true&v=1697706443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**D-backs aim to regroup, focus after Game 2 loss**
+**China's Country Garden offshore debt default looms**
 
-You can read more about it [here](https://www.mlb.com/news/d-backs-allow-10-runs-in-2023-nlcs-game-2-loss).
+You can read more about it [here](https://www.reuters.com/markets/asia/chinas-country-garden-offshore-debt-default-looms-2023-10-18/).
 
 ## Requirements
 - Python 3.8
