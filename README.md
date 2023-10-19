@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697703112)
+![Generated GIF](output.gif?raw=true&v=1697704482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
+**D-backs aim to regroup, focus after Game 2 loss**
 
-You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
+You can read more about it [here](https://www.mlb.com/news/d-backs-allow-10-runs-in-2023-nlcs-game-2-loss).
 
 ## Requirements
 - Python 3.8
