@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697728059)
+![Generated GIF](output.gif?raw=true&v=1697729607)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As it happened: Xi Jinping unveiled new action plan for Belt and Road Initiative, Vladimir Putin gave first international address since Ukraine war**
+**PSA: it's time to update WinRAR due to a big security vulnerability**
 
-You can read more about it [here](https://www.scmp.com/news/china/diplomacy/article/3238307/xi-jinping-deliver-keynote-speech-chinas-belt-and-road-forum).
+You can read more about it [here](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update).
 
 ## Requirements
 - Python 3.8
