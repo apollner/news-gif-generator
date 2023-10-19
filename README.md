@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697733466)
+![Generated GIF](output.gif?raw=true&v=1697735130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Viral Chargers fan is from Minnesota, still loves the Vikings**
+**Mediterranean diet and exercise reduce dangerous belly fat, study says**
 
-You can read more about it [here](https://www.si.com/fannation/bringmethesports/vikings/viral-chargers-fan-is-from-minnesota-still-loves-the-vikings).
+You can read more about it [here](https://www.cnn.com/2023/10/18/health/mediterranean-diet-exercise-study-wellness/index.html).
 
 ## Requirements
 - Python 3.8
