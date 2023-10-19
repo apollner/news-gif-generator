@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697724398)
+![Generated GIF](output.gif?raw=true&v=1697728059)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sorting out NFL contenders and pretenders: Playoff picture entering Week 7 includes legit teams and frauds**
+**As it happened: Xi Jinping unveiled new action plan for Belt and Road Initiative, Vladimir Putin gave first international address since Ukraine war**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/sorting-out-nfl-contenders-and-pretenders-playoff-picture-entering-week-7-includes-legit-teams-and-frauds/).
+You can read more about it [here](https://www.scmp.com/news/china/diplomacy/article/3238307/xi-jinping-deliver-keynote-speech-chinas-belt-and-road-forum).
 
 ## Requirements
 - Python 3.8
