@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697746043)
+![Generated GIF](output.gif?raw=true&v=1697747603)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vladimir Putin feted at Xi Jinping's global Belt and Road summit**
+**Nearly 200 bodies removed from Return to Nature Funeral Home**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-china-67143322).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/18/bodies-removed-return-to-nature-funeral-home-colorado/71225444007/).
 
 ## Requirements
 - Python 3.8
