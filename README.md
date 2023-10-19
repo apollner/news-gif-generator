@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697690050)
+![Generated GIF](output.gif?raw=true&v=1697692010)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IRS to test free tax-filing platform in 13 U.S. states. Here's where.**
+**Britney Spears writes about having an abortion while she and Justin Timberlake were together**
 
-You can read more about it [here](https://www.cbsnews.com/news/irs-tax-filing-direct-file-free-service-13-states/).
+You can read more about it [here](https://www.cnn.com/2023/10/17/entertainment/justin-timberlake-britney-spears/index.html).
 
 ## Requirements
 - Python 3.8
