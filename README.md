@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697719829)
+![Generated GIF](output.gif?raw=true&v=1697721086)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
+**China's Country Garden Holdings on brink of defaulting on $11 billion overseas debt: Report | Mint**
 
-You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
+You can read more about it [here](https://www.livemint.com/news/world/chinas-country-garden-holdings-on-brink-of-defaulting-on-11-billion-overseas-debt-report-11697591918289.html).
 
 ## Requirements
 - Python 3.8
