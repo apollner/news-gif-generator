@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697754879)
+![Generated GIF](output.gif?raw=true&v=1697756812)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Climate tipping points near for Greenland, but it’s not too late to save ice sheets, researchers say**
+**Netflix Adds Nearly 9 Million Subscribers in Q3; Streamer Says Ad-Supported Plans Up Nearly 70% From Q2**
 
-You can read more about it [here](https://www.nbcnews.com/science/environment/climate-tipping-points-greenland-s-not-late-ice-sheets-researchers-say-rcna120657).
+You can read more about it [here](https://variety.com/2023/tv/news/netflix-subscribers-q3-earnings-1235760620/).
 
 ## Requirements
 - Python 3.8
