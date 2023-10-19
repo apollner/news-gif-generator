@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697749491)
+![Generated GIF](output.gif?raw=true&v=1697751224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samulski's Arbitrary Fantasy Football Awards before Week 7**
+**Protesters on Capitol Hill call for Israel-Hamas cease-fire, hundreds arrested**
 
-You can read more about it [here](https://www.nbcsports.com/fantasy/football/news/samulskis-arbitrary-fantasy-football-awards-before-week-7).
+You can read more about it [here](https://www.youtube.com/watch?v=W6TiXg3qMkY).
 
 ## Requirements
 - Python 3.8
