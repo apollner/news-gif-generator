@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697742361)
+![Generated GIF](output.gif?raw=true&v=1697744028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge warns Trump not to disrupt testimony during New York civil fraud trial**
+**Scientists surprised by source of largest quake detected on Mars**
 
-You can read more about it [here](https://www.axios.com/2023/10/18/trump-back-in-court-new-york-civil-fraud-trial).
+You can read more about it [here](https://www.reuters.com/technology/space/scientists-surprised-by-source-largest-quake-detected-mars-2023-10-18/).
 
 ## Requirements
 - Python 3.8
