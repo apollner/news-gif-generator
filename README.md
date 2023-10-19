@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697731791)
+![Generated GIF](output.gif?raw=true&v=1697733466)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football midseason All-America team led by Michael Penix**
+**Viral Chargers fan is from Minnesota, still loves the Vikings**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/10/18/usa-today-sports-midseason-all-america-team-michael-penix/71213481007/).
+You can read more about it [here](https://www.si.com/fannation/bringmethesports/vikings/viral-chargers-fan-is-from-minnesota-still-loves-the-vikings).
 
 ## Requirements
 - Python 3.8
