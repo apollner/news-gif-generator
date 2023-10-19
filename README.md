@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697717675)
+![Generated GIF](output.gif?raw=true&v=1697719829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia deputy kills Black man freed from prison after exoneration**
+**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
 
-You can read more about it [here](https://www.reuters.com/world/us/georgia-deputy-kills-black-man-freed-prison-after-wrongful-conviction-2023-10-17/).
+You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
 
 ## Requirements
 - Python 3.8
