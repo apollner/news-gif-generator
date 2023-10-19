@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697688543)
+![Generated GIF](output.gif?raw=true&v=1697690050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**United Airlines says pricier fuel, war in Middle East will weigh on profits**
+**IRS to test free tax-filing platform in 13 U.S. states. Here's where.**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/17/united-airlines-ual-3q-2023-earnings-.html).
+You can read more about it [here](https://www.cbsnews.com/news/irs-tax-filing-direct-file-free-service-13-states/).
 
 ## Requirements
 - Python 3.8
