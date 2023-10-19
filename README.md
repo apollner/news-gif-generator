@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697679275)
+![Generated GIF](output.gif?raw=true&v=1697681796)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Power Rankings Week 7 roundup: The first honest Chiefs rankings**
+**Billionaire Ronald Lauder threatens to pull funding if UPenn doesn’t do more to fight antisemitism**
 
-You can read more about it [here](https://www.arrowheadpride.com/2023/10/17/23921246/nfl-power-rankings-week-7-roundup-first-honest-chiefs-ranking).
+You can read more about it [here](https://www.cnn.com/2023/10/17/business/upenn-ronald-lauder/index.html).
 
 ## Requirements
 - Python 3.8
