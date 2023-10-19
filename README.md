@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697756812)
+![Generated GIF](output.gif?raw=true&v=1697758406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netflix Adds Nearly 9 Million Subscribers in Q3; Streamer Says Ad-Supported Plans Up Nearly 70% From Q2**
+**Israel-Hamas war rages as crisis in Gaza deepens: Live updates**
 
-You can read more about it [here](https://variety.com/2023/tv/news/netflix-subscribers-q3-earnings-1235760620/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-18-23/index.html).
 
 ## Requirements
 - Python 3.8
