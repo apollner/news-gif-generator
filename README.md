@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697721086)
+![Generated GIF](output.gif?raw=true&v=1697724398)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China's Country Garden Holdings on brink of defaulting on $11 billion overseas debt: Report | Mint**
+**Sorting out NFL contenders and pretenders: Playoff picture entering Week 7 includes legit teams and frauds**
 
-You can read more about it [here](https://www.livemint.com/news/world/chinas-country-garden-holdings-on-brink-of-defaulting-on-11-billion-overseas-debt-report-11697591918289.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/sorting-out-nfl-contenders-and-pretenders-playoff-picture-entering-week-7-includes-legit-teams-and-frauds/).
 
 ## Requirements
 - Python 3.8
