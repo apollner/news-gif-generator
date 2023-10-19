@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697672032)
+![Generated GIF](output.gif?raw=true&v=1697675410)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Can the Aces win the WNBA Finals without Gray, Stokes? - ESPN**
+**NFL Power Rankings Week 7 roundup: The first honest Chiefs rankings**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/38681680/wnba-finals-2023-vegas-aces-chelsea-gray-injury-kiah-stokes-out).
+You can read more about it [here](https://www.arrowheadpride.com/2023/10/17/23921246/nfl-power-rankings-week-7-roundup-first-honest-chiefs-ranking).
 
 ## Requirements
 - Python 3.8
