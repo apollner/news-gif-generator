@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697729607)
+![Generated GIF](output.gif?raw=true&v=1697731791)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PSA: it's time to update WinRAR due to a big security vulnerability**
+**College football midseason All-America team led by Michael Penix**
 
-You can read more about it [here](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/10/18/usa-today-sports-midseason-all-america-team-michael-penix/71213481007/).
 
 ## Requirements
 - Python 3.8
