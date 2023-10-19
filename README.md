@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697693641)
+![Generated GIF](output.gif?raw=true&v=1697695847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USMNT vs. Ghana | Extended Highlights (En Español) | 10/17/2023 | NBC Sports**
+**Phillies vs. Diamondbacks live score: NLCS Game 2 TV channel, pitchers**
 
-You can read more about it [here](https://www.youtube.com/watch?v=RILDGb5PARM).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/17/phillies-vs-diamondbacks-live-nlcs-game-2-time-tv-channel-pitchers/71219388007/).
 
 ## Requirements
 - Python 3.8
