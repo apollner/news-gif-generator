@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697739013)
+![Generated GIF](output.gif?raw=true&v=1697740522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mediterranean diet and exercise reduce dangerous belly fat, study says**
+**With a Switch 2 looming, Nintendo is sending out the original with a bang**
 
-You can read more about it [here](https://www.cnn.com/2023/10/18/health/mediterranean-diet-exercise-study-wellness/index.html).
+You can read more about it [here](https://www.theverge.com/2023/10/18/23921168/nintendo-switch-2-super-mario-wonder-zelda-totk).
 
 ## Requirements
 - Python 3.8
