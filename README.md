@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697710166)
+![Generated GIF](output.gif?raw=true&v=1697711710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk’s X/Twitter to Charge $1 per Year for Users to Post on the Platform, Starting With Test in Two Countries**
+**Morning Bid: China data beat overshadowed by Mideast foreboding**
 
-You can read more about it [here](https://variety.com/2023/digital/news/x-twitter-charge-users-one-dollar-per-year-test-1235760066/).
+You can read more about it [here](https://www.reuters.com/markets/europe/global-markets-view-europe-2023-10-18/).
 
 ## Requirements
 - Python 3.8
