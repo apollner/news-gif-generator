@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697681796)
+![Generated GIF](output.gif?raw=true&v=1697682870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billionaire Ronald Lauder threatens to pull funding if UPenn doesn’t do more to fight antisemitism**
+**IRS will launch free online tax-filing pilot in 13 states next year**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/business/upenn-ronald-lauder/index.html).
+You can read more about it [here](https://thehill.com/business/4261188-irs-will-launch-free-online-tax-filing-pilot-in-13-states-next-year/).
 
 ## Requirements
 - Python 3.8
