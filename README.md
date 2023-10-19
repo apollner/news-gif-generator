@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697697359)
+![Generated GIF](output.gif?raw=true&v=1697699206)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Nightmare': Family of Hamas hostage Mia Schem reacts to video of her pleading for help**
+**Britney Spears writes about having an abortion while she and Justin Timberlake were together**
 
-You can read more about it [here](https://abcnews.go.com/International/nightmare-family-hamas-hostage-mia-schem-reacts-video/story?id=104006120).
+You can read more about it [here](https://www.cnn.com/2023/10/17/entertainment/justin-timberlake-britney-spears/index.html).
 
 ## Requirements
 - Python 3.8
