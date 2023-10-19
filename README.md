@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697700807)
+![Generated GIF](output.gif?raw=true&v=1697703112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Could low serotonin levels contribute to Long COVID?**
+**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
 
-You can read more about it [here](https://abcnews.go.com/Health/low-serotonin-levels-contribute-long-covid/story?id=104035810).
+You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
 
 ## Requirements
 - Python 3.8
