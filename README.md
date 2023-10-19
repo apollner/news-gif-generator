@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697715228)
+![Generated GIF](output.gif?raw=true&v=1697717675)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baldwin may face new charges for fatal 'Rust' movie set shooting**
+**Georgia deputy kills Black man freed from prison after exoneration**
 
-You can read more about it [here](https://www.youtube.com/watch?v=az6_2RGjdIo).
+You can read more about it [here](https://www.reuters.com/world/us/georgia-deputy-kills-black-man-freed-prison-after-wrongful-conviction-2023-10-17/).
 
 ## Requirements
 - Python 3.8
