@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697695847)
+![Generated GIF](output.gif?raw=true&v=1697697359)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Phillies vs. Diamondbacks live score: NLCS Game 2 TV channel, pitchers**
+**'Nightmare': Family of Hamas hostage Mia Schem reacts to video of her pleading for help**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/17/phillies-vs-diamondbacks-live-nlcs-game-2-time-tv-channel-pitchers/71219388007/).
+You can read more about it [here](https://abcnews.go.com/International/nightmare-family-hamas-hostage-mia-schem-reacts-video/story?id=104006120).
 
 ## Requirements
 - Python 3.8
