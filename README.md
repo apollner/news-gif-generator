@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697768192)
+![Generated GIF](output.gif?raw=true&v=1697769259)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman arrested after trying to approach Trump during his civil fraud trial**
+**PCH Malibu California crash: 22-year-old arrested after 4 Pepperdine University students killed in multicar collision**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/woman-arrested-trying-approach-trump-civil-fraud-trial-rcna121085).
+You can read more about it [here](https://abc7.com/pch-crash-malibu-california-pacific-coast-highway/13934049/).
 
 ## Requirements
 - Python 3.8
