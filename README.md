@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697774972)
+![Generated GIF](output.gif?raw=true&v=1697776450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astros vs. Rangers: TV channel, watch ALCS online, live stream, prediction, Game 3 pick, odds, time, pitchers**
+**Top law firm rescinds job offers to Harvard, Columbia students linked to anti-Israel letters**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-tv-channel-watch-alcs-online-live-stream-prediction-game-3-pick-odds-time-pitchers/).
+You can read more about it [here](https://www.foxbusiness.com/politics/top-law-firm-rescinds-job-offers-harvard-columbia-students-linked-anti-israel-letters).
 
 ## Requirements
 - Python 3.8
