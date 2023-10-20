@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697771460)
+![Generated GIF](output.gif?raw=true&v=1697772804)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rich Eisen Reveals His NFL Power Rankings for Week 7 | The Rich Eisen Show**
+**Why Egypt and other Arab nations are hesitant to take in Palestinian refugees**
 
-You can read more about it [here](https://www.youtube.com/watch?v=82OlM5sWSu4).
+You can read more about it [here](https://www.pbs.org/newshour/politics/why-egypt-and-other-arab-nations-are-hesitant-to-take-in-palestinian-refugees).
 
 ## Requirements
 - Python 3.8
