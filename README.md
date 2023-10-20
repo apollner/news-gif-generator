@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697812419)
+![Generated GIF](output.gif?raw=true&v=1697814378)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google passkey unlocks your accounts: Here's how it works**
+**Israel-Hamas war tests Western unity as Global South slams 'double standards'**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/columnist/komando/2023/10/19/how-google-passkey-works-setup/71208485007/).
+You can read more about it [here](https://www.france24.com/en/middle-east/20231019-israel-hamas-war-tests-western-unity-as-global-south-slams-double-standards).
 
 ## Requirements
 - Python 3.8
