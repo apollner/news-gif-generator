@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697769259)
+![Generated GIF](output.gif?raw=true&v=1697771460)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PCH Malibu California crash: 22-year-old arrested after 4 Pepperdine University students killed in multicar collision**
+**Rich Eisen Reveals His NFL Power Rankings for Week 7 | The Rich Eisen Show**
 
-You can read more about it [here](https://abc7.com/pch-crash-malibu-california-pacific-coast-highway/13934049/).
+You can read more about it [here](https://www.youtube.com/watch?v=82OlM5sWSu4).
 
 ## Requirements
 - Python 3.8
