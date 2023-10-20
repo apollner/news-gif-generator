@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697828693)
+![Generated GIF](output.gif?raw=true&v=1697830443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netflix jumps another 15% as Wall Street applauds 'upside surprises' in earnings**
+**NOAA winter 2023-24 forecast: How cold will it be? What about El Niño?**
 
-You can read more about it [here](https://finance.yahoo.com/news/netflix-jumps-another-15-as-wall-street-applauds-upside-surprises-in-earnings-163143974.html).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/10/19/noaa-winter-forecast-cold-temperatures/71214343007/).
 
 ## Requirements
 - Python 3.8
