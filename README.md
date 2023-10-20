@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697772804)
+![Generated GIF](output.gif?raw=true&v=1697774972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Egypt and other Arab nations are hesitant to take in Palestinian refugees**
+**Astros vs. Rangers: TV channel, watch ALCS online, live stream, prediction, Game 3 pick, odds, time, pitchers**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/why-egypt-and-other-arab-nations-are-hesitant-to-take-in-palestinian-refugees).
+You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-tv-channel-watch-alcs-online-live-stream-prediction-game-3-pick-odds-time-pitchers/).
 
 ## Requirements
 - Python 3.8
