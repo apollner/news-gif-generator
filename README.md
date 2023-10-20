@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697835928)
+![Generated GIF](output.gif?raw=true&v=1697839543)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.N., World Leaders Push to Get Gaza Aid Flowing After Biden Pledge**
+**NCAA investigating Michigan football amid sign-stealing allegations**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b).
+You can read more about it [here](https://theathletic.com/4978212/2023/10/19/michigan-football-sign-stealing-michigan-state/).
 
 ## Requirements
 - Python 3.8
