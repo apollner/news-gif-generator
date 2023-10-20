@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697806153)
+![Generated GIF](output.gif?raw=true&v=1697807481)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tropical Storm Tammy expected to become a hurricane after striking eastern Caribbean islands**
+**Biden eases Venezuela oil sanctions after Maduro signs election deal**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-tammy).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/18/biden-eases-venezuela-oil-sanctions/).
 
 ## Requirements
 - Python 3.8
