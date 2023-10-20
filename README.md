@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697798108)
+![Generated GIF](output.gif?raw=true&v=1697799875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nokia to cut up to 14,000 jobs after profit plunges**
+**Arab diplomats 'horrified' by Hamas onslaught but critical of Israel's response**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/19/nokia-to-cut-up-to-14000-jobs-after-profit-plunges-.html).
+You can read more about it [here](https://www.timesofisrael.com/arab-diplomats-horrified-by-hamas-onslaught-but-critical-of-israels-response/).
 
 ## Requirements
 - Python 3.8
