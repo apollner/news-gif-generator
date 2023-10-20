@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697819888)
+![Generated GIF](output.gif?raw=true&v=1697821603)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How and When to See the 2023 Meteor Shower from Halley's Comet**
+**Will Smith showers Jada Pinkett Smith and their 'brutiful' romance with praise**
 
-You can read more about it [here](https://gizmodo.com/orionids-meteor-shower-2023-halleys-comet-guide-1850935185).
+You can read more about it [here](https://www.cnn.com/2023/10/19/entertainment/will-smith-jada-pinkett-praise/index.html).
 
 ## Requirements
 - Python 3.8
