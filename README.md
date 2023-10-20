@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697782234)
+![Generated GIF](output.gif?raw=true&v=1697783758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US vetoes UN Security Council action on Israel, Gaza**
+**Orionids meteor shower 2023: How to see peak 'shooting stars'**
 
-You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/18/orionids-meteor-shower-2023/71210933007/).
 
 ## Requirements
 - Python 3.8
