@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697776450)
+![Generated GIF](output.gif?raw=true&v=1697778368)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top law firm rescinds job offers to Harvard, Columbia students linked to anti-Israel letters**
+**Apple’s $130 Thunderbolt 4 cable could be worth it, as seen in X-ray CT scans**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/top-law-firm-rescinds-job-offers-harvard-columbia-students-linked-anti-israel-letters).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/10/apples-130-thunderbolt-4-cable-could-be-worth-it-as-seen-in-x-ray-ct-scans/).
 
 ## Requirements
 - Python 3.8
