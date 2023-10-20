@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697821603)
+![Generated GIF](output.gif?raw=true&v=1697823220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Will Smith showers Jada Pinkett Smith and their 'brutiful' romance with praise**
+**U.S. forces thwart drone strikes headed for bases in Syria**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/entertainment/will-smith-jada-pinkett-praise/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
 
 ## Requirements
 - Python 3.8
