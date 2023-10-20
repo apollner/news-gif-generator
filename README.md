@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697761818)
+![Generated GIF](output.gif?raw=true&v=1697765657)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Climate tipping points near for Greenland, but it’s not too late to save ice sheets, researchers say**
+**US vetoes UN Security Council action on Israel, Gaza**
 
-You can read more about it [here](https://www.nbcnews.com/science/environment/climate-tipping-points-greenland-s-not-late-ice-sheets-researchers-say-rcna120657).
+You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
 
 ## Requirements
 - Python 3.8
