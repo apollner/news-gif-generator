@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697787226)
+![Generated GIF](output.gif?raw=true&v=1697789424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arab diplomats 'horrified' by Hamas onslaught but critical of Israel's response**
+**Fantasy Football Week 7 Start 'Em & Sit 'Em Wide Receivers: Zay Flowers, Terry McLaurin among best options**
 
-You can read more about it [here](https://www.timesofisrael.com/arab-diplomats-horrified-by-hamas-onslaught-but-critical-of-israels-response/).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-7-start-em-sit-em-wide-receivers-zay-flowers-terry-mclaurin-among-best-options/).
 
 ## Requirements
 - Python 3.8
