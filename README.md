@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697839543)
+![Generated GIF](output.gif?raw=true&v=1697841385)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NCAA investigating Michigan football amid sign-stealing allegations**
+**State Department official resigns, citing 'destructive' decisions in Israel-Hamas war**
 
-You can read more about it [here](https://theathletic.com/4978212/2023/10/19/michigan-football-sign-stealing-michigan-state/).
+You can read more about it [here](https://www.politico.com/news/2023/10/18/state-department-official-resigns-citing-destructive-decisions-in-israel-hamas-war-00122380).
 
 ## Requirements
 - Python 3.8
