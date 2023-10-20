@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697823220)
+![Generated GIF](output.gif?raw=true&v=1697825359)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. forces thwart drone strikes headed for bases in Syria**
+**How and When to See the 2023 Meteor Shower from Halley's Comet**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
+You can read more about it [here](https://gizmodo.com/orionids-meteor-shower-2023-halleys-comet-guide-1850935185).
 
 ## Requirements
 - Python 3.8
