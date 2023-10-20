@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697818236)
+![Generated GIF](output.gif?raw=true&v=1697819888)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 7, 2023: Model high on Ravens, Rams**
+**How and When to See the 2023 Meteor Shower from Halley's Comet**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-7-2023-model-high-on-ravens-rams/).
+You can read more about it [here](https://gizmodo.com/orionids-meteor-shower-2023-halleys-comet-guide-1850935185).
 
 ## Requirements
 - Python 3.8
