@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697925929)
+![Generated GIF](output.gif?raw=true&v=1697927631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber'**
+**UAW reports progress in talks with Detroit automakers, wants more**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-makes-new-offer-uaw-sees-movement-all-key-areas-2023-10-20/).
 
 ## Requirements
 - Python 3.8
