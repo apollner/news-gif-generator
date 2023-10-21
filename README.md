@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697897098)
+![Generated GIF](output.gif?raw=true&v=1697898811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Laphonza Butler will not run for Senate in 2024**
+**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
 
-You can read more about it [here](https://apnews.com/article/california-senate-feinstein-2024-laphonza-butler-0132dc28d5459350526e4255c9c08644).
+You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
 
 ## Requirements
 - Python 3.8
