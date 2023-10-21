@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697851891)
+![Generated GIF](output.gif?raw=true&v=1697854968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Red meat associated with risk of developing Type 2 diabetes, study shows**
+**How to Get 7 Free Nintendo Switch Games This Month**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uqbLwgPaBaM).
+You can read more about it [here](https://comicbook.com/gaming/news/nintendo-switch-how-to-get-7-free-games-october/).
 
 ## Requirements
 - Python 3.8
