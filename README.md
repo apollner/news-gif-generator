@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697884427)
+![Generated GIF](output.gif?raw=true&v=1697886292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
+**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
 
 ## Requirements
 - Python 3.8
