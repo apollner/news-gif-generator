@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697898811)
+![Generated GIF](output.gif?raw=true&v=1697900798)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
+**Two WhatsApp Accounts on One Phone: Meta's New Solution for Users**
 
-You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
+You can read more about it [here](https://www.ndtv.com/feature/two-whatsapp-accounts-on-one-phone-metas-new-solution-for-users-4498536).
 
 ## Requirements
 - Python 3.8
