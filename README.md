@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697924175)
+![Generated GIF](output.gif?raw=true&v=1697925929)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla’s Slowing Growth Is Sending a Warning to All EV Makers**
+**Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber'**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-slowing-growth-sending-warning-182159323.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html).
 
 ## Requirements
 - Python 3.8
