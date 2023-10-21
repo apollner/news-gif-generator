@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697890396)
+![Generated GIF](output.gif?raw=true&v=1697892357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jacksonville Jaguars vs. New Orleans Saints | 2023 Week 7 Game Highlights**
+**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tJq8LO78XuM).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
 
 ## Requirements
 - Python 3.8
