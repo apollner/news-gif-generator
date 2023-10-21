@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697882781)
+![Generated GIF](output.gif?raw=true&v=1697884427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan to hold press conference amid Speaker vote chaos**
+**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
 
-You can read more about it [here](https://thehill.com/homenews/house/4266254-jim-jordan-to-hold-press-conference-amid-speaker-vote-chaos/).
+You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
 
 ## Requirements
 - Python 3.8
