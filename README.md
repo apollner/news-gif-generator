@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697913231)
+![Generated GIF](output.gif?raw=true&v=1697915080)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justin Timberlake Played Guitar As Britney Spears Sobbed Postabortion**
+**House GOP scrambles to find path forward after voting to push out Jordan as speaker nominee**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/stephaniesoteriou/justin-timberlake-guitar-britney-spears-sobbed-abortion).
+You can read more about it [here](https://www.cnn.com/2023/10/20/politics/jim-jordan-speaker-fight-vote/index.html).
 
 ## Requirements
 - Python 3.8
