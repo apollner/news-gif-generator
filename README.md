@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697855638)
+![Generated GIF](output.gif?raw=true&v=1697857667)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Problem With Jon Stewart ending over AI and China coverage**
+**Las Vegas Aces REPEAT 🏆 🏆 Reacting to their dominant run | WNBA Today**
 
-You can read more about it [here](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel).
+You can read more about it [here](https://www.youtube.com/watch?v=9sfiIMHQkr8).
 
 ## Requirements
 - Python 3.8
