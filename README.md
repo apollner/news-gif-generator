@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697861373)
+![Generated GIF](output.gif?raw=true&v=1697862839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**State Department official resigns over Biden administration's handling of Israel-Hamas conflict**
+**NASA tests new kind of Artemis moon-rocket engine in dramatic 'hot fire' test (video)**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-official-resigns-israel-gaza/index.html).
+You can read more about it [here](https://www.space.com/nasa-artemis-moon-rocket-engine-hotfire-eo525-first-test).
 
 ## Requirements
 - Python 3.8
