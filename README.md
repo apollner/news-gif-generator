@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697854968)
+![Generated GIF](output.gif?raw=true&v=1697855638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to Get 7 Free Nintendo Switch Games This Month**
+**The Problem With Jon Stewart ending over AI and China coverage**
 
-You can read more about it [here](https://comicbook.com/gaming/news/nintendo-switch-how-to-get-7-free-games-october/).
+You can read more about it [here](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel).
 
 ## Requirements
 - Python 3.8
