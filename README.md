@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697868585)
+![Generated GIF](output.gif?raw=true&v=1697870050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**George Clooney’s Proposal to End the SAG-AFTRA Strike, Explained**
+**Elon Musk's Wealth Shrinks By $16 Billion After Tesla Earnings Miss**
 
-You can read more about it [here](https://variety.com/2023/film/news/george-clooney-proposal-sag-aftra-explained-1235762621/).
+You can read more about it [here](https://www.ndtv.com/world-news/elon-musks-wealth-shrinks-by-16-billion-after-tesla-earnings-miss-4498416).
 
 ## Requirements
 - Python 3.8
