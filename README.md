@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697929617)
+![Generated GIF](output.gif?raw=true&v=1697931312)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mike Clay's NFL Betting Playbook for Week 7 - ESPN**
+**Two American hostages released from Gaza, Fox News is told**
 
-You can read more about it [here](https://www.espn.com/sports-betting/insider/story/_/id/38694390/sports-betting-nfl-playbook-week-7-2023-win-totals-player-props).
+You can read more about it [here](https://www.foxnews.com/us/two-american-hostages-released-gaza-fox-news-told).
 
 ## Requirements
 - Python 3.8
