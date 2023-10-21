@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697857667)
+![Generated GIF](output.gif?raw=true&v=1697859226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Las Vegas Aces REPEAT 🏆 🏆 Reacting to their dominant run | WNBA Today**
+**Michigan's Jim Harbaugh denies knowledge of alleged sign stealing, vows to cooperate with NCAA investigation**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9sfiIMHQkr8).
+You can read more about it [here](https://www.cbssports.com/college-football/news/michigans-jim-harbaugh-denies-knowledge-of-alleged-sign-stealing-vows-to-cooperate-with-ncaa-investigation/).
 
 ## Requirements
 - Python 3.8
