@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697900798)
+![Generated GIF](output.gif?raw=true&v=1697902424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two WhatsApp Accounts on One Phone: Meta's New Solution for Users**
+**Jim Jordan to hold press conference amid Speaker vote chaos**
 
-You can read more about it [here](https://www.ndtv.com/feature/two-whatsapp-accounts-on-one-phone-metas-new-solution-for-users-4498536).
+You can read more about it [here](https://thehill.com/homenews/house/4266254-jim-jordan-to-hold-press-conference-amid-speaker-vote-chaos/).
 
 ## Requirements
 - Python 3.8
