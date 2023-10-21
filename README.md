@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697907892)
+![Generated GIF](output.gif?raw=true&v=1697909622)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who won ALCS Game 4? Houston scores 10 runs from Jose Abreu, Chas McCormick home runs to even series with Texas Rangers**
+**Maryland judge Andrew Wilkinson shot and killed outside his home**
 
-You can read more about it [here](https://abc13.com/houston-astros-lineup-today-texas-rangers-roof-open-jose-urquidy-andrew-heaney/13940759/).
+You can read more about it [here](https://www.bbc.com/news/67173814).
 
 ## Requirements
 - Python 3.8
