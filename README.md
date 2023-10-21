@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697879217)
+![Generated GIF](output.gif?raw=true&v=1697880933)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'I was booing myself': Diamondbacks win crucial NLCS game after controversial pitching change**
+**In Oval Office address, Biden makes the case for more aid to Israel, Ukraine**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/10/19/arizona-diamondbacks-torey-lovullo-brandon-pfaadt-nlcs-phillies/71247933007/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/19/biden-congress-funding-israel-ukraine-border-security/71240318007/).
 
 ## Requirements
 - Python 3.8
