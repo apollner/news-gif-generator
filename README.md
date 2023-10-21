@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697911759)
+![Generated GIF](output.gif?raw=true&v=1697913231)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Orionid meteor shower: Keep an eye out for meteors in the sky this weekend**
+**Justin Timberlake Played Guitar As Britney Spears Sobbed Postabortion**
 
-You can read more about it [here](https://www.cnn.com/2023/10/20/world/orionid-meteor-shower-comet-halley-scn/index.html).
+You can read more about it [here](https://www.buzzfeednews.com/article/stephaniesoteriou/justin-timberlake-guitar-britney-spears-sobbed-abortion).
 
 ## Requirements
 - Python 3.8
