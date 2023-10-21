@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697920407)
+![Generated GIF](output.gif?raw=true&v=1697922283)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Indigenous Tribes Saw the "Ring of Fire" Eclipse in a Different Light**
+**Killers of the Flower Moon - Official 'She's My Wife' Clip (2023) Leonardo DiCaprio, Jesse Plemons**
 
-You can read more about it [here](https://www.npr.org/2023/10/20/1206482066/indigenous-tribes-saw-the-ring-of-fire-eclipse-in-a-different-light).
+You can read more about it [here](https://www.youtube.com/watch?v=yc00wTzB3oE).
 
 ## Requirements
 - Python 3.8
