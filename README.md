@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697870050)
+![Generated GIF](output.gif?raw=true&v=1697871926)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk's Wealth Shrinks By $16 Billion After Tesla Earnings Miss**
+**US Navy destroyer in Red Sea shoots down cruise missiles potentially headed toward Israel: Pentagon**
 
-You can read more about it [here](https://www.ndtv.com/world-news/elon-musks-wealth-shrinks-by-16-billion-after-tesla-earnings-miss-4498416).
+You can read more about it [here](https://abcnews.go.com/International/security-incident-involving-us-navy-destroyer-red-sea/story?id=104147141).
 
 ## Requirements
 - Python 3.8
