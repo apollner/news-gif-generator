@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697909622)
+![Generated GIF](output.gif?raw=true&v=1697911759)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maryland judge Andrew Wilkinson shot and killed outside his home**
+**Orionid meteor shower: Keep an eye out for meteors in the sky this weekend**
 
-You can read more about it [here](https://www.bbc.com/news/67173814).
+You can read more about it [here](https://www.cnn.com/2023/10/20/world/orionid-meteor-shower-comet-halley-scn/index.html).
 
 ## Requirements
 - Python 3.8
