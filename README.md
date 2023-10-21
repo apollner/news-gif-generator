@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697902424)
+![Generated GIF](output.gif?raw=true&v=1697904472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jim Jordan to hold press conference amid Speaker vote chaos**
+**British PM Rishi Sunak suffers historic by-election defeats**
 
-You can read more about it [here](https://thehill.com/homenews/house/4266254-jim-jordan-to-hold-press-conference-amid-speaker-vote-chaos/).
+You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunaks-conservatives-lose-tamworth-by-election-2023-10-20/).
 
 ## Requirements
 - Python 3.8
