@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697848165)
+![Generated GIF](output.gif?raw=true&v=1697851891)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mysterious fast radio burst traveled 8 billion years to reach Earth**
+**Red meat associated with risk of developing Type 2 diabetes, study shows**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/world/distant-ancient-fast-radio-burst-scn/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=uqbLwgPaBaM).
 
 ## Requirements
 - Python 3.8
