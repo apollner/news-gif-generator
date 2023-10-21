@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697922283)
+![Generated GIF](output.gif?raw=true&v=1697924175)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Killers of the Flower Moon - Official 'She's My Wife' Clip (2023) Leonardo DiCaprio, Jesse Plemons**
+**Tesla’s Slowing Growth Is Sending a Warning to All EV Makers**
 
-You can read more about it [here](https://www.youtube.com/watch?v=yc00wTzB3oE).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-slowing-growth-sending-warning-182159323.html).
 
 ## Requirements
 - Python 3.8
