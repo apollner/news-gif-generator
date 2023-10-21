@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697918784)
+![Generated GIF](output.gif?raw=true&v=1697920407)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber'**
+**Indigenous Tribes Saw the "Ring of Fire" Eclipse in a Different Light**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html).
+You can read more about it [here](https://www.npr.org/2023/10/20/1206482066/indigenous-tribes-saw-the-ring-of-fire-eclipse-in-a-different-light).
 
 ## Requirements
 - Python 3.8
