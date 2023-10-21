@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697871926)
+![Generated GIF](output.gif?raw=true&v=1697873765)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Navy destroyer in Red Sea shoots down cruise missiles potentially headed toward Israel: Pentagon**
+**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
 
-You can read more about it [here](https://abcnews.go.com/International/security-incident-involving-us-navy-destroyer-red-sea/story?id=104147141).
+You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
 
 ## Requirements
 - Python 3.8
