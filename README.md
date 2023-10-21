@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697904472)
+![Generated GIF](output.gif?raw=true&v=1697906178)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**British PM Rishi Sunak suffers historic by-election defeats**
+**Rockets, drones hit Iraqi bases housing U.S. forces -security sources**
 
-You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunaks-conservatives-lose-tamworth-by-election-2023-10-20/).
+You can read more about it [here](https://www.reuters.com/world/rockets-drones-hit-iraqi-base-housing-us-forces-security-sources-2023-10-19/).
 
 ## Requirements
 - Python 3.8
