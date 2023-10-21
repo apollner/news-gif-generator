@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697895358)
+![Generated GIF](output.gif?raw=true&v=1697897098)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
+**Laphonza Butler will not run for Senate in 2024**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
+You can read more about it [here](https://apnews.com/article/california-senate-feinstein-2024-laphonza-butler-0132dc28d5459350526e4255c9c08644).
 
 ## Requirements
 - Python 3.8
