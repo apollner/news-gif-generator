@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697906178)
+![Generated GIF](output.gif?raw=true&v=1697907892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rockets, drones hit Iraqi bases housing U.S. forces -security sources**
+**Who won ALCS Game 4? Houston scores 10 runs from Jose Abreu, Chas McCormick home runs to even series with Texas Rangers**
 
-You can read more about it [here](https://www.reuters.com/world/rockets-drones-hit-iraqi-base-housing-us-forces-security-sources-2023-10-19/).
+You can read more about it [here](https://abc13.com/houston-astros-lineup-today-texas-rangers-roof-open-jose-urquidy-andrew-heaney/13940759/).
 
 ## Requirements
 - Python 3.8
