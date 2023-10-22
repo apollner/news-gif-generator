@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698014014)
+![Generated GIF](output.gif?raw=true&v=1698015969)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meryl Streep and Don Gummer reveal they've been separated for 6 years**
+**Joaquin Phoenix, Cate Blanchett, other A-listers call on Biden to urge ceasefire between Israel, Hamas**
 
-You can read more about it [here](https://ew.com/celebrity/meryl-streep-husband-don-gummer-have-been-separated-6-years/).
+You can read more about it [here](https://www.foxnews.com/media/joaquin-phoenix-cate-blanchett-other-a-listers-demand-biden-urge-ceasefire-between-israel-hamas).
 
 ## Requirements
 - Python 3.8
