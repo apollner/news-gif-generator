@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697934789)
+![Generated GIF](output.gif?raw=true&v=1697938808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Astros Are Now in Control of the ALCS**
+**Amazon will now fire workers who refuse to return to the office three days a week**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/20/astros-hitters-rangers-alcs-game-3).
+You can read more about it [here](https://www.foxbusiness.com/markets/amazon-will-now-fire-workers-refuse-return-office-three-days-week).
 
 ## Requirements
 - Python 3.8
