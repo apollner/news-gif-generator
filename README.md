@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698003206)
+![Generated GIF](output.gif?raw=true&v=1698005128)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Norma takes aim at Mexico's Los Cabos resorts, as Tammy threatens islands in the Atlantic**
+**Live updates: What’s happening on Day 14 of the Israel-Hamas war**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvaHVycmljYW5lLW5vcm1hLXRha2VzLWFpbS1tZXhpY29zLWxvcy1jYWJvcy1yZXNvcnRzLTEwNDE5MTAwNNIBcGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvd2lyZVN0b3J5L2h1cnJpY2FuZS1ub3JtYS10YWtlcy1haW0tbWV4aWNvcy1sb3MtY2Fib3MtcmVzb3J0cy0xMDQxOTEwMDQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvd29ybGQvbGl2ZS11cGRhdGVzLXdoYXRzLWhhcHBlbmluZy1vbi1kYXktMTQtb2YtdGhlLWlzcmFlbC1oYW1hcy13YXLSAWVodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC93b3JsZC9saXZlLXVwZGF0ZXMtd2hhdHMtaGFwcGVuaW5nLW9uLWRheS0xNC1vZi10aGUtaXNyYWVsLWhhbWFzLXdhcg?oc=5).
 
 ## Requirements
 - Python 3.8
