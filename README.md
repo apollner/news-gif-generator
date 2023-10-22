@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698012331)
+![Generated GIF](output.gif?raw=true&v=1698014014)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Highlighting the “Ring of Fire” Solar Eclipse on This Week @NASA – October 20, 2023**
+**Meryl Streep and Don Gummer reveal they've been separated for 6 years**
 
-You can read more about it [here](https://www.youtube.com/watch?v=j3bPyWwbO6E).
+You can read more about it [here](https://ew.com/celebrity/meryl-streep-husband-don-gummer-have-been-separated-6-years/).
 
 ## Requirements
 - Python 3.8
