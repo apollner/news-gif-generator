@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697983499)
+![Generated GIF](output.gif?raw=true&v=1697985230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce-Taylor Swift romance set to go international**
+**Slovenia deploys police on borders with Croatia, Hungary**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL9IBXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL2FtcC8?oc=5).
+You can read more about it [here](https://www.reuters.com/world/europe/slovenia-deploys-police-borders-with-croatia-hungary-2023-10-21/).
 
 ## Requirements
 - Python 3.8
