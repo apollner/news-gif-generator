@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697941185)
+![Generated GIF](output.gif?raw=true&v=1697942229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Empowering a temporary speaker could invite legal challenges**
+**Scientists Race To Defuse a “Ticking” Public Health Time Bomb**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/20/temporary-speaker-legal-challenges-00122859).
+You can read more about it [here](https://scitechdaily.com/scientists-race-to-defuse-a-ticking-public-health-time-bomb/).
 
 ## Requirements
 - Python 3.8
