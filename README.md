@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697960017)
+![Generated GIF](output.gif?raw=true&v=1697962167)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court allows Biden admin to continue asking tech firms to address controversial social media posts**
+**Biden says Hamas attacked Israel in part to stop a historic agreement with Saudi Arabia**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/supreme-court-allows-white-house-ask-tech-companies-work-combating-controversial-social-media-posts).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/biden-hamas-attacked-israel-part-stop-historic-agreement-104188247).
 
 ## Requirements
 - Python 3.8
