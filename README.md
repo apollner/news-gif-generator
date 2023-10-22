@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697974445)
+![Generated GIF](output.gif?raw=true&v=1697976703)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Back-to-back plea deals pose grave legal threat to Donald Trump**
+**Super Mario Bros.™ Wonder Double Keychain**
 
-You can read more about it [here](https://www.cnn.com/2023/10/21/politics/chesebro-powell-plea-deals-trump-takeaways/index.html).
+You can read more about it [here](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-keychain-120488/).
 
 ## Requirements
 - Python 3.8
