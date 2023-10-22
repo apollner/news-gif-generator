@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697949224)
+![Generated GIF](output.gif?raw=true&v=1697951176)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maryland judge shot, killed outside Hagerstown home in targeted attack; manhunt for suspect underway**
+**Canadian PM says India's actions making life hard for millions of people**
 
-You can read more about it [here](https://www.fox5dc.com/news/maryland-circuit-court-judge-shot-killed-outside-hagerstown-home-andrew-f-wilkinson).
+You can read more about it [here](https://www.reuters.com/world/canada-pm-says-indias-action-are-making-life-very-hard-millions-people-2023-10-20/).
 
 ## Requirements
 - Python 3.8
