@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697998233)
+![Generated GIF](output.gif?raw=true&v=1697999635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Still Bejeweled With $32M Second Weekend; ‘Killers Of The Flower Moon’ Brings Adults Back To Cinemas With $23M Opening & A- CinemaScore – Box Office Update**
+**Biden says Hamas attacks aimed to halt Israel-Saudi Arabia agreement**
 
-You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-killers-of-the-flower-moon-1235579033/).
+You can read more about it [here](https://www.politico.com/news/2023/10/21/biden-says-hamas-attacks-aimed-to-halt-israel-saudi-arabia-agreement-00122880).
 
 ## Requirements
 - Python 3.8
