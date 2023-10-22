@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697958320)
+![Generated GIF](output.gif?raw=true&v=1697960017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hands-On With the $1700 'OnePlus Open' Foldable Smartphone**
+**Supreme Court allows Biden admin to continue asking tech firms to address controversial social media posts**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/20/oneplus-open-hands-on/).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/supreme-court-allows-white-house-ask-tech-companies-work-combating-controversial-social-media-posts).
 
 ## Requirements
 - Python 3.8
