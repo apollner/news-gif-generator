@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698008709)
+![Generated GIF](output.gif?raw=true&v=1698010523)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football scores, updates: Penn State takes on Ohio State in marquee Big Ten clash**
+**Egypt's border crossing opens to let a trickle of desperately needed aid into besieged Gaza**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-penn-state-vs-ohio-state-ucf-vs-oklahoma-and-more-182320828.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-captives-border-aid-f5976ed58ba508f14d45b72b428125ac).
 
 ## Requirements
 - Python 3.8
