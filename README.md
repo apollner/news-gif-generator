@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697944021)
+![Generated GIF](output.gif?raw=true&v=1697945638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NLCS Game 4 updates: Phillies lead series 2-1 and face off against Diamondbacks**
+**Investigations reveal discrepancies in Israel’s Gaza hospital attack claims**
 
-You can read more about it [here](https://6abc.com/philadelphia-phillies-arizona-diamondbacks-game-4-nlcs-postseason-games/13946106/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/20/what-have-open-source-videos-revealed-about-the-gaza-hospital-explosion).
 
 ## Requirements
 - Python 3.8
