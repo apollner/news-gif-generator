@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697992541)
+![Generated GIF](output.gif?raw=true&v=1697994285)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Airport lounges are booming, and everyone wants in**
+**Taylor Swift Still Bejeweled With $32M Second Weekend; ‘Killers Of The Flower Moon’ Brings Adults Back To Cinemas With $23M Opening & A- CinemaScore – Box Office Update**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMjEvYWlycG9ydC1sb3VuZ2VzLWFyZS1ib29taW5nLWFuZC1ldmVyeW9uZS13YW50cy1pbi5odG1s0gFaaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTAvMjEvYWlycG9ydC1sb3VuZ2VzLWFyZS1ib29taW5nLWFuZC1ldmVyeW9uZS13YW50cy1pbi5odG1s?oc=5).
+You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-killers-of-the-flower-moon-1235579033/).
 
 ## Requirements
 - Python 3.8
