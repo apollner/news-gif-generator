@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697990825)
+![Generated GIF](output.gif?raw=true&v=1697992541)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
+**Airport lounges are booming, and everyone wants in**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMjEvYWlycG9ydC1sb3VuZ2VzLWFyZS1ib29taW5nLWFuZC1ldmVyeW9uZS13YW50cy1pbi5odG1s0gFaaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTAvMjEvYWlycG9ydC1sb3VuZ2VzLWFyZS1ib29taW5nLWFuZC1ldmVyeW9uZS13YW50cy1pbi5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
