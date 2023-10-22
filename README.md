@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697931312)
+![Generated GIF](output.gif?raw=true&v=1697934789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Two American hostages released from Gaza, Fox News is told**
+**The Astros Are Now in Control of the ALCS**
 
-You can read more about it [here](https://www.foxnews.com/us/two-american-hostages-released-gaza-fox-news-told).
+You can read more about it [here](https://www.si.com/mlb/2023/10/20/astros-hitters-rangers-alcs-game-3).
 
 ## Requirements
 - Python 3.8
