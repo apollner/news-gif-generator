@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697952917)
+![Generated GIF](output.gif?raw=true&v=1697954993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Martin Scorsese Says He and Robert De Niro Rolled Their Eyes at Leonardo DiCaprio’s “Endless” Ad-Libbing in ‘Killers of the Flower Moon’**
+**Judge temporarily halts Trump's limited gag order in federal election interference case**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/martin-scorsese-robert-de-niro-leonardo-dicaprio-ad-libbing-killers-of-the-flower-moon-1235624038/).
+You can read more about it [here](https://abcnews.go.com/US/judge-temporarily-halts-trumps-limited-gag-order-federal/story?id=104186855).
 
 ## Requirements
 - Python 3.8
