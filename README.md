@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697978760)
+![Generated GIF](output.gif?raw=true&v=1697980113)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Back-to-back plea deals pose grave legal threat to Donald Trump**
+**Slovenia deploys police on borders with Croatia, Hungary**
 
-You can read more about it [here](https://www.cnn.com/2023/10/21/politics/chesebro-powell-plea-deals-trump-takeaways/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/slovenia-deploys-police-borders-with-croatia-hungary-2023-10-21/).
 
 ## Requirements
 - Python 3.8
