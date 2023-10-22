@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1697970813)
+![Generated GIF](output.gif?raw=true&v=1697972691)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans vote to drop Jim Jordan; more candidates enter speaker race**
+**Sam Bankman-Fried: Former friends demolish defense in criminal trial**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/20/house-speaker-vote-live/).
+You can read more about it [here](https://www.businessinsider.com/sam-bankman-fried-former-friends-demolish-defense-in-criminal-trial-2023-10).
 
 ## Requirements
 - Python 3.8
