@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698015969)
+![Generated GIF](output.gif?raw=true&v=1698017631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joaquin Phoenix, Cate Blanchett, other A-listers call on Biden to urge ceasefire between Israel, Hamas**
+**Company bosses and workers grapple with the fallout of speaking up about the Israel-Hamas war**
 
-You can read more about it [here](https://www.foxnews.com/media/joaquin-phoenix-cate-blanchett-other-a-listers-demand-biden-urge-ceasefire-between-israel-hamas).
+You can read more about it [here](https://cbs12.com/news/nation-world/company-bosses-and-workers-grapple-with-the-fallout-of-speaking-up-about-the-israel-hamas-war-10-21-2023).
 
 ## Requirements
 - Python 3.8
