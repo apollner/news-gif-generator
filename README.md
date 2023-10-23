@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698098765)
+![Generated GIF](output.gif?raw=true&v=1698100523)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Web Summit CEO Paddy Cosgrave Resigns In Wake Of Comments On Israel-Hamas Conflict**
+**Car linked to suspect in Maryland judge's shooting is found**
 
-You can read more about it [here](https://deadline.com/2023/10/web-summit-ceo-paddy-cosgrave-resigns-israel-hamas-conflict-1235580218/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/22/car-linked-to-judge-shooting-found-maryland/71281522007/).
 
 ## Requirements
 - Python 3.8
