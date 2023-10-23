@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698096849)
+![Generated GIF](output.gif?raw=true&v=1698098765)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel to evacuate 14 more communities on Lebanon border amid Hezbollah attacks**
+**Web Summit CEO Paddy Cosgrave Resigns In Wake Of Comments On Israel-Hamas Conflict**
 
-You can read more about it [here](https://www.timesofisrael.com/israel-to-evacuate-14-more-communities-on-lebanon-border-amid-hezbollah-attacks/).
+You can read more about it [here](https://deadline.com/2023/10/web-summit-ceo-paddy-cosgrave-resigns-israel-hamas-conflict-1235580218/).
 
 ## Requirements
 - Python 3.8
