@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698086079)
+![Generated GIF](output.gif?raw=true&v=1698087904)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles vs. Dolphins prediction, odds, line, spread: Sunday Night Football picks by model on 172-120 roll**
+**NFL Picks, 4 Expert Predictions on Week 7 Spreads, Totals**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-vs-dolphins-prediction-odds-line-spread-sunday-night-football-picks-by-model-on-172-120-roll/).
+You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-picks-predictions-spread-total-week-7).
 
 ## Requirements
 - Python 3.8
