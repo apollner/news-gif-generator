@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698080900)
+![Generated GIF](output.gif?raw=true&v=1698082511)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venezuelans top Mexicans in US illegal border crossings for 1st time on record in September**
+**Inactive Analysis: Cole Strange, Demario Douglas, Jack Jones Return to the Lineup for the Patriots vs. Bills**
 
-You can read more about it [here](https://www.foxnews.com/politics/venezuelans-top-mexicans-us-illegal-border-crossings-1st-time-record-september).
+You can read more about it [here](https://www.patriots.com/news/inactive-analysis-cole-strange-demario-douglas-jack-jones-return-to-the-lineup-f).
 
 ## Requirements
 - Python 3.8
