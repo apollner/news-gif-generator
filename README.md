@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698087904)
+![Generated GIF](output.gif?raw=true&v=1698089636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Picks, 4 Expert Predictions on Week 7 Spreads, Totals**
+**After Sidney Powell pleads guilty in Georgia case, Trump claims she was 'never' his attorney, despite their past ties**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-picks-predictions-spread-total-week-7).
+You can read more about it [here](https://www.cnn.com/2023/10/22/politics/trump-sidney-powell/index.html).
 
 ## Requirements
 - Python 3.8
