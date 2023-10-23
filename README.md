@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698077395)
+![Generated GIF](output.gif?raw=true&v=1698079085)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Harvard Scientists Find That Eating Red Meat Could Increase Your Risk of Diabetes**
+**US sends more air defences to Middle East as Israel warns Lebanon on Hizbollah**
 
-You can read more about it [here](https://scitechdaily.com/harvard-scientists-find-that-eating-red-meat-could-increase-your-risk-of-diabetes/).
+You can read more about it [here](https://www.ft.com/content/9cad1ada-5566-49c5-80b6-9e83ff0076fc).
 
 ## Requirements
 - Python 3.8
