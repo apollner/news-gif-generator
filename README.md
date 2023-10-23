@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698044847)
+![Generated GIF](output.gif?raw=true&v=1698046432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Convicted killer known as the Zombie Hunter says life on death row is cold, food is "not great"**
+**8 billion-year-old radio signal found by astronomers -- with experts 'precisely' knowing where it came from**
 
-You can read more about it [here](https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/).
+You can read more about it [here](https://nypost.com/2023/10/21/8-billion-year-old-radio-signal-found-by-astronomers-with-experts-precisely-knowing-where-it-came-from/).
 
 ## Requirements
 - Python 3.8
