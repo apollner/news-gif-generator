@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698017631)
+![Generated GIF](output.gif?raw=true&v=1698021053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Company bosses and workers grapple with the fallout of speaking up about the Israel-Hamas war**
+**8 billion-year-old radio signal found by astronomers -- with experts 'precisely' knowing where it came from**
 
-You can read more about it [here](https://cbs12.com/news/nation-world/company-bosses-and-workers-grapple-with-the-fallout-of-speaking-up-about-the-israel-hamas-war-10-21-2023).
+You can read more about it [here](https://nypost.com/2023/10/21/8-billion-year-old-radio-signal-found-by-astronomers-with-experts-precisely-knowing-where-it-came-from/).
 
 ## Requirements
 - Python 3.8
