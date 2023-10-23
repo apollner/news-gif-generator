@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698075310)
+![Generated GIF](output.gif?raw=true&v=1698077395)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: Scorsese’s ‘Killers of the Flower Moon’ Impresses With $23 Million Debut, but Swift’s ‘Eras Tour’ Remains No. 1**
+**Harvard Scientists Find That Eating Red Meat Could Increase Your Risk of Diabetes**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/box-office-scorsese-killers-of-the-flower-moon-opening-weekend-taylor-swift-stays-first-1235764365/).
+You can read more about it [here](https://scitechdaily.com/harvard-scientists-find-that-eating-red-meat-could-increase-your-risk-of-diabetes/).
 
 ## Requirements
 - Python 3.8
