@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698059145)
+![Generated GIF](output.gif?raw=true&v=1698060820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marvin Harrison Jr. masterclass powers Ohio State past Penn State 20-12**
+**Killers of the Flower Moon - Official 'Coyote' Clip (2023) Lily Gladstone, Leonardo DiCaprio**
 
-You can read more about it [here](https://www.ncaa.com/live-updates/football/fbs/marvin-harrison-jr-masterclass-powers-ohio-state-past-penn-state-20-12).
+You can read more about it [here](https://www.youtube.com/watch?v=U7cB-RrkxtM).
 
 ## Requirements
 - Python 3.8
