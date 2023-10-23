@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698091547)
+![Generated GIF](output.gif?raw=true&v=1698093238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Defense Secretary Austin says US is 'concerned about potential escalation' in Middle East**
+**Rams vs. Steelers score: Live updates, stats, highlights, streaming, odds for Week 7 NFL game**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/politics/lloyd-austin-israel-middle-east/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/rams-vs-steelers-score-live-updates-stats-highlights-streaming-odds-for-week-7-nfl-game/live/).
 
 ## Requirements
 - Python 3.8
