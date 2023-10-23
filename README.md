@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698082511)
+![Generated GIF](output.gif?raw=true&v=1698084581)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inactive Analysis: Cole Strange, Demario Douglas, Jack Jones Return to the Lineup for the Patriots vs. Bills**
+**Eagles vs. Dolphins prediction, odds, line, spread: Sunday Night Football picks by model on 172-120 roll**
 
-You can read more about it [here](https://www.patriots.com/news/inactive-analysis-cole-strange-demario-douglas-jack-jones-return-to-the-lineup-f).
+You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-vs-dolphins-prediction-odds-line-spread-sunday-night-football-picks-by-model-on-172-120-roll/).
 
 ## Requirements
 - Python 3.8
