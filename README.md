@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698048669)
+![Generated GIF](output.gif?raw=true&v=1698050120)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Statement From Secretary of Defense Lloyd J. Austin III on Steps to Increase Force Posture**
+**Marvin Harrison Jr. masterclass powers Ohio State past Penn State 20-12**
 
-You can read more about it [here](https://www.defense.gov/News/Releases/Release/Article/3564874/statement-from-secretary-of-defense-lloyd-j-austin-iii-on-steps-to-increase-for/).
+You can read more about it [here](https://www.ncaa.com/live-updates/football/fbs/marvin-harrison-jr-masterclass-powers-ohio-state-past-penn-state-20-12).
 
 ## Requirements
 - Python 3.8
