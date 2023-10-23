@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698052161)
+![Generated GIF](output.gif?raw=true&v=1698053626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Statement From Secretary of Defense Lloyd J. Austin III on Steps to Increase Force Posture**
+**China launches investigation into iPhone maker Foxconn, says state media**
 
-You can read more about it [here](https://www.defense.gov/News/Releases/Release/Article/3564874/statement-from-secretary-of-defense-lloyd-j-austin-iii-on-steps-to-increase-for/).
+You can read more about it [here](https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0).
 
 ## Requirements
 - Python 3.8
