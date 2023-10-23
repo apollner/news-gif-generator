@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698034182)
+![Generated GIF](output.gif?raw=true&v=1698037583)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CNN Investigates: Forensic analysis of images and videos suggests rocket caused Gaza hospital blast, not Israeli airstrike**
+**Your diabetes risk may double if you eat this food twice a week, say Harvard researchers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/21/middleeast/cnn-investigates-forensic-analysis-gaza-hospital-blast/index.html).
+You can read more about it [here](https://www.foxnews.com/health/diabetes-risk-may-double-eat-food-twice-week-harvard-researchers).
 
 ## Requirements
 - Python 3.8
