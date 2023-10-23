@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698071687)
+![Generated GIF](output.gif?raw=true&v=1698073696)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Even Tim Scott's supporters are 'disappointed' in his campaign - POLITICO**
+**This Week @NASA: “Ring of Fire” Solar Eclipse, New Engine Test, Quartz Clouds on Exoplanet**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/22/tim-scott-disappointed-campaign-00122896).
+You can read more about it [here](https://scitechdaily.com/?p=320306).
 
 ## Requirements
 - Python 3.8
