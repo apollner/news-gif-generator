@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698027544)
+![Generated GIF](output.gif?raw=true&v=1698028565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White Matter Wonders: Re-imagining the Brain's Silent Majority**
+**8 billion-year-old radio signal found by astronomers -- with experts 'precisely' knowing where it came from**
 
-You can read more about it [here](https://neurosciencenews.com/white-matter-neuroscience-24976/).
+You can read more about it [here](https://nypost.com/2023/10/21/8-billion-year-old-radio-signal-found-by-astronomers-with-experts-precisely-knowing-where-it-came-from/).
 
 ## Requirements
 - Python 3.8
