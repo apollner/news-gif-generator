@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698068023)
+![Generated GIF](output.gif?raw=true&v=1698070025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM and Ford will answer to Wall Street and the UAW with third-quarter earnings this week**
+**This Week @NASA: “Ring of Fire” Solar Eclipse, New Engine Test, Quartz Clouds on Exoplanet**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/22/gm-and-ford-report-q3-earnings-as-wall-street-and-uaw-watch.html).
+You can read more about it [here](https://scitechdaily.com/?p=320306).
 
 ## Requirements
 - Python 3.8
