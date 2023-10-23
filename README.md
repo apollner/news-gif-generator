@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698037583)
+![Generated GIF](output.gif?raw=true&v=1698039240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your diabetes risk may double if you eat this food twice a week, say Harvard researchers**
+**Convicted killer known as the Zombie Hunter says life on death row is cold, food is "not great"**
 
-You can read more about it [here](https://www.foxnews.com/health/diabetes-risk-may-double-eat-food-twice-week-harvard-researchers).
+You can read more about it [here](https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/).
 
 ## Requirements
 - Python 3.8
