@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698063276)
+![Generated GIF](output.gif?raw=true&v=1698065428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**This Week @NASA: “Ring of Fire” Solar Eclipse, New Engine Test, Quartz Clouds on Exoplanet**
+**Horoscope for Sunday, Oct. 22, 2023**
 
-You can read more about it [here](https://scitechdaily.com/?p=320306).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/22/23923134/horoscopes-today-sunday-oct-22-2023).
 
 ## Requirements
 - Python 3.8
