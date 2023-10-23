@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698043019)
+![Generated GIF](output.gif?raw=true&v=1698044847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US budget gap soars to $1.7 trillion, largest outside COVID era**
+**Convicted killer known as the Zombie Hunter says life on death row is cold, food is "not great"**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/us-budget-gap-soars-1point7-trillion-largest-outside-covid-era).
+You can read more about it [here](https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/).
 
 ## Requirements
 - Python 3.8
