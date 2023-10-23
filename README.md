@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698053626)
+![Generated GIF](output.gif?raw=true&v=1698055831)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China launches investigation into iPhone maker Foxconn, says state media**
+**Marvin Harrison Jr. masterclass powers Ohio State past Penn State 20-12**
 
-You can read more about it [here](https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0).
+You can read more about it [here](https://www.ncaa.com/live-updates/football/fbs/marvin-harrison-jr-masterclass-powers-ohio-state-past-penn-state-20-12).
 
 ## Requirements
 - Python 3.8
