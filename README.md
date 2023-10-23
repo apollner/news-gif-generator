@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698089636)
+![Generated GIF](output.gif?raw=true&v=1698091547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**After Sidney Powell pleads guilty in Georgia case, Trump claims she was 'never' his attorney, despite their past ties**
+**Defense Secretary Austin says US is 'concerned about potential escalation' in Middle East**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/politics/trump-sidney-powell/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/22/politics/lloyd-austin-israel-middle-east/index.html).
 
 ## Requirements
 - Python 3.8
