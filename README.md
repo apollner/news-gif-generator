@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698129389)
+![Generated GIF](output.gif?raw=true&v=1698131200)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ALCS Game 6: Rangers force Game 7 with victory over Astros; score, highlights, news and live tracker**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/alcs-astros-vs-rangers-score-highlights-news-and-live-tracker-231026396.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
