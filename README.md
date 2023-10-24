@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698176008)
+![Generated GIF](output.gif?raw=true&v=1698178096)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alaska Air off-duty pilot tries to shut off engines on flight from Everett**
+**Watch Britney Spears' tearful audition for 'The Notebook' with Ryan Gosling**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/alaska-air-off-duty-pilot-tries-to-shut-off-engines-on-flight-from-everett/).
+You can read more about it [here](https://ew.com/movies/britney-spears-the-notebook-audition-ryan-gosling/).
 
 ## Requirements
 - Python 3.8
