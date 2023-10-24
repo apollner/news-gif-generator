@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698135188)
+![Generated GIF](output.gif?raw=true&v=1698136478)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
+**Israel-Gaza war live updates: Second aid convoy enters Gaza; U.S. braces for regional escalation**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/23/israel-gaza-war-news-hamas/).
 
 ## Requirements
 - Python 3.8
