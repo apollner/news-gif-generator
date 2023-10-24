@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698123988)
+![Generated GIF](output.gif?raw=true&v=1698125674)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. Tom Emmer up for House speaker**
+**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=b0pTZfTrT_g).
+You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
 
 ## Requirements
 - Python 3.8
