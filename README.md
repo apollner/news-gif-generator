@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698147223)
+![Generated GIF](output.gif?raw=true&v=1698149580)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astros pitcher suspended: Bryan Abreu appeals 2-game ban for hitting Texas Rangers' Adolis Garcia, enters Game 6**
+**China and Philippines accuse each other over collisions in disputed South China Sea**
 
-You can read more about it [here](https://abc13.com/bryan-abreu-appeals-2-game-suspension-astros-players-suspended-vs-rangers-brawl-adolis-garcia-hit-by-pitch/13955174/).
+You can read more about it [here](https://www.cnn.com/2023/10/22/asia/south-china-sea-philippines-collision-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
