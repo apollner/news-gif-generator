@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698174300)
+![Generated GIF](output.gif?raw=true&v=1698176008)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Turkey’s Erdogan submits Sweden’s bid for NATO membership to parliament**
+**Alaska Air off-duty pilot tries to shut off engines on flight from Everett**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/23/turkeys-erdogan-submits-swedens-bid-for-nato-membership-to-parliament).
+You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/alaska-air-off-duty-pilot-tries-to-shut-off-engines-on-flight-from-everett/).
 
 ## Requirements
 - Python 3.8
