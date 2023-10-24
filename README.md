@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698140046)
+![Generated GIF](output.gif?raw=true&v=1698142162)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
+**Touchdown: Taylor Swift in Kansas City for yet another Chiefs game**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
+You can read more about it [here](https://www.kmbc.com/article/taylor-swift-lands-kansas-city-chiefs-game-chargers/45607785).
 
 ## Requirements
 - Python 3.8
