@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698183239)
+![Generated GIF](output.gif?raw=true&v=1698185139)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift kisses Travis Kelce on the cheek in Instagram photo**
+**Phillies vs. Diamondbacks live stream: TV channel, watch NLCS Game 6 online, time, odds, pick, pitchers**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-swift-kisses-travis-kelce-cheek-instagram-photo-rcna121784).
+You can read more about it [here](https://www.cbssports.com/mlb/news/phillies-vs-diamondbacks-live-stream-tv-channel-watch-nlcs-game-6-online-time-odds-pick-pitchers/).
 
 ## Requirements
 - Python 3.8
