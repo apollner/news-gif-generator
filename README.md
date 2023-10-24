@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698156337)
+![Generated GIF](output.gif?raw=true&v=1698158062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chevron to buy Hess Corp for $53 billion in all-stock deal**
+**Israel-Hamas war live updates: Gaza health ministry says death toll surpasses 5,000; EU foreign ministers talk in Luxembourg**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/chevron-buy-hess-corp-53-bln-stock-2023-10-23/).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
