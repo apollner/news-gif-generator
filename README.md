@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698149580)
+![Generated GIF](output.gif?raw=true&v=1698153052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China and Philippines accuse each other over collisions in disputed South China Sea**
+**The Latest on the Hostages Held in Gaza**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/asia/south-china-sea-philippines-collision-intl-hnk/index.html).
+You can read more about it [here](https://www.wsj.com/livecoverage/israel-hamas-war-news-gaza-palestinians).
 
 ## Requirements
 - Python 3.8
