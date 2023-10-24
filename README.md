@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698165726)
+![Generated GIF](output.gif?raw=true&v=1698168833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Off-duty pilot charged with 83 counts of attempted murder for allegedly trying to shut off engines on Alaska Airlines flight**
+**Liz Cheney doesn't rule out presidential run, calling Trump the 'single most dangerous threat' to the nation**
 
-You can read more about it [here](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/liz-cheney-doesnt-rule-presidential-run-calling-trump-single-dangerous-rcna121667).
 
 ## Requirements
 - Python 3.8
