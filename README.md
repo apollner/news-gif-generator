@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698154557)
+![Generated GIF](output.gif?raw=true&v=1698156337)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some Astros upset at MLB as Bryan Abreu suspension looms over Game 7**
+**Chevron to buy Hess Corp for $53 billion in all-stock deal**
 
-You can read more about it [here](https://theathletic.com/4989191/2023/10/23/houston-astros-upset-bryan-abreu-suspension/).
+You can read more about it [here](https://www.reuters.com/markets/deals/chevron-buy-hess-corp-53-bln-stock-2023-10-23/).
 
 ## Requirements
 - Python 3.8
