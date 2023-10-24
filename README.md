@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698132832)
+![Generated GIF](output.gif?raw=true&v=1698135188)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S24 Ultra could share a design element with the Galaxy S9 - SamMobile**
+**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-ultra-speaker-design-galaxy-s9/).
+You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
 
 ## Requirements
 - Python 3.8
