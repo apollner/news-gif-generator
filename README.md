@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698120571)
+![Generated GIF](output.gif?raw=true&v=1698122035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami Dolphins vs. Philadelphia Eagles | 2023 Week 7 Game Highlights**
+**Aid convoys enter Gaza as Israeli airstrikes hit Gaza as well as targets in Syria and West Bank**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Grh0GJjcbg0).
+You can read more about it [here](https://www.cbsnews.com/news/israel-airstrikes-gaza-syria-west-bank-2023-10-22/).
 
 ## Requirements
 - Python 3.8
