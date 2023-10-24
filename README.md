@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698186892)
+![Generated GIF](output.gif?raw=true&v=1698188792)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Astros' Bryan Abreu can serve ban in '24, pitch in Game 7 - ESPN**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38727772/astros-bryan-abreu-serve-ban-24-pitch-game-7).
 
 ## Requirements
 - Python 3.8
