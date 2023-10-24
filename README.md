@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698178096)
+![Generated GIF](output.gif?raw=true&v=1698179639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch Britney Spears' tearful audition for 'The Notebook' with Ryan Gosling**
+**Bobi, the world's oldest dog, dies at 31**
 
-You can read more about it [here](https://ew.com/movies/britney-spears-the-notebook-audition-ryan-gosling/).
+You can read more about it [here](https://www.cbsnews.com/news/worlds-oldest-dog-bobi-dies-at-31/).
 
 ## Requirements
 - Python 3.8
