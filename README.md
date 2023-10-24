@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698153052)
+![Generated GIF](output.gif?raw=true&v=1698154557)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Latest on the Hostages Held in Gaza**
+**Some Astros upset at MLB as Bryan Abreu suspension looms over Game 7**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/israel-hamas-war-news-gaza-palestinians).
+You can read more about it [here](https://theathletic.com/4989191/2023/10/23/houston-astros-upset-bryan-abreu-suspension/).
 
 ## Requirements
 - Python 3.8
