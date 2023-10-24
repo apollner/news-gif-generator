@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698113821)
+![Generated GIF](output.gif?raw=true&v=1698114935)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patriots' Bill Belichick gets 300th regular-season win - ESPN**
+**Israel Hamas war live updates: Attacks intensify; aid halted**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38719636/patriots-bill-belichick-gets-300th-regular-season-win).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/22/israel-hamas-war-live-updates/71280692007/).
 
 ## Requirements
 - Python 3.8
