@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698118435)
+![Generated GIF](output.gif?raw=true&v=1698120571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police have no evidence suggesting Detroit synagogue leader's fatal stabbing was motivated by antisemitism, chief says**
+**Miami Dolphins vs. Philadelphia Eagles | 2023 Week 7 Game Highlights**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/us/detroit-president-synagogue-killing-sunday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Grh0GJjcbg0).
 
 ## Requirements
 - Python 3.8
