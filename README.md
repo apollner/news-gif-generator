@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698168833)
+![Generated GIF](output.gif?raw=true&v=1698171057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Liz Cheney doesn't rule out presidential run, calling Trump the 'single most dangerous threat' to the nation**
+**Biden unveils ‘tech hubs’ in 32 states, Puerto Rico**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/liz-cheney-doesnt-rule-presidential-run-calling-trump-single-dangerous-rcna121667).
+You can read more about it [here](https://thehill.com/policy/technology/4270435-biden-unveils-tech-hubs-in-32-states-puerto-rico/).
 
 ## Requirements
 - Python 3.8
