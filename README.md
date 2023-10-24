@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698104091)
+![Generated GIF](output.gif?raw=true&v=1698107430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Car linked to suspect in Maryland judge's shooting is found**
+**Scorpio Daily Horoscope Today, October 23, 2023 predicts surprises**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/22/car-linked-to-judge-shooting-found-maryland/71281522007/).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/scorpio-daily-horoscope-today-october-23-2023-predicts-surprises-101697957171584.html).
 
 ## Requirements
 - Python 3.8
