@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698127873)
+![Generated GIF](output.gif?raw=true&v=1698129389)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Touchdown: Taylor Swift in Kansas City for yet another Chiefs game**
+**ALCS Game 6: Rangers force Game 7 with victory over Astros; score, highlights, news and live tracker**
 
-You can read more about it [here](https://www.kmbc.com/article/taylor-swift-lands-kansas-city-chiefs-game-chargers/45607785).
+You can read more about it [here](https://sports.yahoo.com/alcs-astros-vs-rangers-score-highlights-news-and-live-tracker-231026396.html).
 
 ## Requirements
 - Python 3.8
