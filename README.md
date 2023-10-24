@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698179639)
+![Generated GIF](output.gif?raw=true&v=1698181539)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bobi, the world's oldest dog, dies at 31**
+**Chevron clarifies future of Hess Toy Truck after $53B deal**
 
-You can read more about it [here](https://www.cbsnews.com/news/worlds-oldest-dog-bobi-dies-at-31/).
+You can read more about it [here](https://www.foxbusiness.com/markets/chevron-clarifies-future-hess-toy-truck-after-53b-deal).
 
 ## Requirements
 - Python 3.8
