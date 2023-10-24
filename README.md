@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698107430)
+![Generated GIF](output.gif?raw=true&v=1698111255)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scorpio Daily Horoscope Today, October 23, 2023 predicts surprises**
+**Ukraine's American-Made M39 Missiles May Have Wrecked 21 Russian Helicopters In A Single Operation**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/scorpio-daily-horoscope-today-october-23-2023-predicts-surprises-101697957171584.html).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/22/ukraines-american-made-m39-missiles-may-have-wrecked-21-russian-helicopters-in-a-single-operation/).
 
 ## Requirements
 - Python 3.8
