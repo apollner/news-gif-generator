@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698111255)
+![Generated GIF](output.gif?raw=true&v=1698113821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine's American-Made M39 Missiles May Have Wrecked 21 Russian Helicopters In A Single Operation**
+**Patriots' Bill Belichick gets 300th regular-season win - ESPN**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/22/ukraines-american-made-m39-missiles-may-have-wrecked-21-russian-helicopters-in-a-single-operation/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38719636/patriots-bill-belichick-gets-300th-regular-season-win).
 
 ## Requirements
 - Python 3.8
