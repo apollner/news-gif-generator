@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698172607)
+![Generated GIF](output.gif?raw=true&v=1698174300)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's A Breakdown Of All The Times Justin Timberlake Shaded Britney Spears After Their 2002 Split**
+**Turkey’s Erdogan submits Sweden’s bid for NATO membership to parliament**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/stephaniesoteriou/justin-timberlake-shading-britney-spears-breakdown).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/23/turkeys-erdogan-submits-swedens-bid-for-nato-membership-to-parliament).
 
 ## Requirements
 - Python 3.8
