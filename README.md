@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698273221)
+![Generated GIF](output.gif?raw=true&v=1698275244)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists discover hidden landscape "frozen in time" under Antarctic ice for millions of years**
+**UAW strikes GM's Escalade factory, turning up pressure for higher wages**
 
-You can read more about it [here](https://www.cbsnews.com/news/hidden-landscape-frozen-in-time-antarctic-ice-millions-years/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-expands-strike-against-gm-walking-out-texas-suv-plant-2023-10-24/).
 
 ## Requirements
 - Python 3.8
