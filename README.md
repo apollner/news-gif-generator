@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698212033)
+![Generated GIF](output.gif?raw=true&v=1698214301)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**San Francisco 49ers vs. Minnesota Vikings | 2023 Week 7 Game Highlights**
+**Klay Thompson joins the Manning Cast on 'MNF' to talk about the Bay area connection | Week 7**
 
-You can read more about it [here](https://www.youtube.com/watch?v=goAvP2I-twQ).
+You can read more about it [here](https://www.youtube.com/watch?v=P7wAYgRNTHA).
 
 ## Requirements
 - Python 3.8
