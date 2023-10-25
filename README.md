@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698271551)
+![Generated GIF](output.gif?raw=true&v=1698273221)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In third attempt to elect speaker, GOP nominates Tom Emmer**
+**Scientists discover hidden landscape "frozen in time" under Antarctic ice for millions of years**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-vote-speaker-nominee-third-time-rcna121675).
+You can read more about it [here](https://www.cbsnews.com/news/hidden-landscape-frozen-in-time-antarctic-ice-millions-years/).
 
 ## Requirements
 - Python 3.8
