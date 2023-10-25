@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698257405)
+![Generated GIF](output.gif?raw=true&v=1698258852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists have discovered an ancient river landscape hidden beneath the East Antarctic Ice Sheet**
+**NFL Power Rankings, Week 8: Chiefs reclaim No. 1 spot; rampaging Ravens soar into top five**
 
-You can read more about it [here](https://abcnews.go.com/International/scientists-discovered-ancient-river-landscape-hidden-beneath-east/story?id=104221028).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-8-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
