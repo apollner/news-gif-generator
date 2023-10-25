@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698267938)
+![Generated GIF](output.gif?raw=true&v=1698269624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michael Cohen tells court he 'reverse engineered' Donald Trump's financial statements**
+**Gardner murder: People asked to check camera to track Pennington- Live**
 
-You can read more about it [here](https://www.ft.com/content/ec620259-bb13-41f4-bc88-b0e3501c83a8).
+You can read more about it [here](https://www.thegardnernews.com/story/news/local/2023/10/24/gardner-massachusetts-homicide-suspect-search-victim-breanne-pennington/71295425007/).
 
 ## Requirements
 - Python 3.8
