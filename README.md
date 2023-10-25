@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698204829)
+![Generated GIF](output.gif?raw=true&v=1698206984)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
+**Appeals panel questions why 'presidential immunity' argument wasn't pursued years ago in Trump case**
 
-You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
+You can read more about it [here](https://news.yahoo.com/appeals-panel-questions-why-presidential-225453770.html).
 
 ## Requirements
 - Python 3.8
