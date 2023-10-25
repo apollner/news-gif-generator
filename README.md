@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698255218)
+![Generated GIF](output.gif?raw=true&v=1698257405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Curiosity rover finds new evidence of ancient Mars rivers, a key signal for life**
+**Scientists have discovered an ancient river landscape hidden beneath the East Antarctic Ice Sheet**
 
-You can read more about it [here](https://phys.org/news/2023-10-curiosity-rover-evidence-ancient-mars.html).
+You can read more about it [here](https://abcnews.go.com/International/scientists-discovered-ancient-river-landscape-hidden-beneath-east/story?id=104221028).
 
 ## Requirements
 - Python 3.8
