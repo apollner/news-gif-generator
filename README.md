@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698226442)
+![Generated GIF](output.gif?raw=true&v=1698228569)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Diamondbacks dominate Phillies, stave off elimination to force Game 7 in NLCS**
+**New Link Between Fungal Organisms And Severe COVID Discovered**
 
-You can read more about it [here](https://theathletic.com/4992095/2023/10/23/phillies-diamondbacks-nlcs-game-6-result/).
+You can read more about it [here](https://www.sciencealert.com/new-link-between-fungal-organisms-and-severe-covid-discovered).
 
 ## Requirements
 - Python 3.8
