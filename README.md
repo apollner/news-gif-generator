@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698224861)
+![Generated GIF](output.gif?raw=true&v=1698226442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
+**Diamondbacks dominate Phillies, stave off elimination to force Game 7 in NLCS**
 
-You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
+You can read more about it [here](https://theathletic.com/4992095/2023/10/23/phillies-diamondbacks-nlcs-game-6-result/).
 
 ## Requirements
 - Python 3.8
