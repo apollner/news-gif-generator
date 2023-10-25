@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698244471)
+![Generated GIF](output.gif?raw=true&v=1698246420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The 7 things you need to know for Tuesday, October 24**
+**Coke may be spared as $100 billion weight-loss drug revolution unfolds**
 
-You can read more about it [here](https://www.washingtonpost.com/the-seven/2023/10/24/what-to-know-for-october-24/).
+You can read more about it [here](https://www.marketwatch.com/story/the-weight-loss-drugs-are-coming-for-these-companies-but-heres-why-coke-others-may-be-spared-says-jpmorgan-c6c24538).
 
 ## Requirements
 - Python 3.8
