@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698235975)
+![Generated GIF](output.gif?raw=true&v=1698238212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Seven dead after 'super fog' causes huge pile-up in New Orleans**
+**Britney Spears’ Biggest ‘The Woman in Me’ Revelations, From the Film Role She Regrets Turning Down to Her Relationship With Sister Jamie Lynn**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67204993).
+You can read more about it [here](https://variety.com/2023/music/news/britney-spears-book-woman-in-me-takeaways-revelations-1235766231/).
 
 ## Requirements
 - Python 3.8
