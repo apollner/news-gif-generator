@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698251836)
+![Generated GIF](output.gif?raw=true&v=1698253499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC updates RSV shot recommendations due to drug shortages**
+**Israel-Gaza war live updates: Gaza deaths mount as Israel intensifies strikes; freed hostage speaks out**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/10/24/rsv-monoclonal-shortage-cdc-update/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/24/israel-hamas-war-news-gaza/).
 
 ## Requirements
 - Python 3.8
