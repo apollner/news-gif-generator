@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698242802)
+![Generated GIF](output.gif?raw=true&v=1698244471)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Five extra points: Risner and prime time Cousins boost Vikings over 49ers**
+**The 7 things you need to know for Tuesday, October 24**
 
-You can read more about it [here](https://www.startribune.com/five-extra-points-vikings-49ers-kirk-cousins-camryn-bynum-dalton-risner-rick-spielman/600314343/).
+You can read more about it [here](https://www.washingtonpost.com/the-seven/2023/10/24/what-to-know-for-october-24/).
 
 ## Requirements
 - Python 3.8
