@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698215790)
+![Generated GIF](output.gif?raw=true&v=1698217588)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Klay Thompson joins the Manning Cast on 'MNF' to talk about the Bay area connection | Week 7**
+**Israel-Hamas war live updates: Hamas releases 2 more hostages; Gaza health ministry says death toll tops 5,000**
 
-You can read more about it [here](https://www.youtube.com/watch?v=P7wAYgRNTHA).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
