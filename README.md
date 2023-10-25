@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698208441)
+![Generated GIF](output.gif?raw=true&v=1698210392)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**7 people killed after more than 150 vehicles crashed along Louisiana’s I-55 amid dense fog, officials say**
+**Jim Cramer says there is a bull market in oil and gas thanks to recent big mergers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/23/us/louisiana-fog-i55-crash-new-orleans/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/cramer-there-is-a-bull-market-in-oil-and-gas-thanks-to-recent-mergers.html).
 
 ## Requirements
 - Python 3.8
