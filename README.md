@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698269624)
+![Generated GIF](output.gif?raw=true&v=1698271551)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gardner murder: People asked to check camera to track Pennington- Live**
+**In third attempt to elect speaker, GOP nominates Tom Emmer**
 
-You can read more about it [here](https://www.thegardnernews.com/story/news/local/2023/10/24/gardner-massachusetts-homicide-suspect-search-victim-breanne-pennington/71295425007/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-vote-speaker-nominee-third-time-rcna121675).
 
 ## Requirements
 - Python 3.8
