@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698206984)
+![Generated GIF](output.gif?raw=true&v=1698208441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Appeals panel questions why 'presidential immunity' argument wasn't pursued years ago in Trump case**
+**7 people killed after more than 150 vehicles crashed along Louisiana’s I-55 amid dense fog, officials say**
 
-You can read more about it [here](https://news.yahoo.com/appeals-panel-questions-why-presidential-225453770.html).
+You can read more about it [here](https://www.cnn.com/2023/10/23/us/louisiana-fog-i55-crash-new-orleans/index.html).
 
 ## Requirements
 - Python 3.8
