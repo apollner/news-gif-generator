@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698240826)
+![Generated GIF](output.gif?raw=true&v=1698242802)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 8 Power Rankings 2023: How all 32 teams stack up - ESPN**
+**Five extra points: Risner and prime time Cousins boost Vikings over 49ers**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38727212/nfl-week-8-power-rankings-poll-2023-plus-every-team-young-riser).
+You can read more about it [here](https://www.startribune.com/five-extra-points-vikings-49ers-kirk-cousins-camryn-bynum-dalton-risner-rick-spielman/600314343/).
 
 ## Requirements
 - Python 3.8
