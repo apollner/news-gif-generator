@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698222940)
+![Generated GIF](output.gif?raw=true&v=1698224861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas fighters confess: $10k stipend per hostage, ‘wasting bullets on corpse’**
+**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/hamas-fighters-chilling-confession-10k-stipend-per-hostage-wasting-bullets-on-corpse-101698105565342.html).
+You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
 
 ## Requirements
 - Python 3.8
