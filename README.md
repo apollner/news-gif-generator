@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698266179)
+![Generated GIF](output.gif?raw=true&v=1698267938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids**
+**Michael Cohen tells court he 'reverse engineered' Donald Trump's financial statements**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/).
+You can read more about it [here](https://www.ft.com/content/ec620259-bb13-41f4-bc88-b0e3501c83a8).
 
 ## Requirements
 - Python 3.8
