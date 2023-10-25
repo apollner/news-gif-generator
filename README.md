@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698238212)
+![Generated GIF](output.gif?raw=true&v=1698239427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears’ Biggest ‘The Woman in Me’ Revelations, From the Film Role She Regrets Turning Down to Her Relationship With Sister Jamie Lynn**
+**Brock Purdy can't come through for 49ers, who lose to Kirk Cousins' Vikings**
 
-You can read more about it [here](https://variety.com/2023/music/news/britney-spears-book-woman-in-me-takeaways-revelations-1235766231/).
+You can read more about it [here](https://sports.yahoo.com/nfl-vikings-beat-49ers-brock-purdy-kirk-cousins-recap-analysis-122931331.html).
 
 ## Requirements
 - Python 3.8
