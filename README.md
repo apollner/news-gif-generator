@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698239427)
+![Generated GIF](output.gif?raw=true&v=1698240826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brock Purdy can't come through for 49ers, who lose to Kirk Cousins' Vikings**
+**NFL Week 8 Power Rankings 2023: How all 32 teams stack up - ESPN**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-vikings-beat-49ers-brock-purdy-kirk-cousins-recap-analysis-122931331.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38727212/nfl-week-8-power-rankings-poll-2023-plus-every-team-young-riser).
 
 ## Requirements
 - Python 3.8
