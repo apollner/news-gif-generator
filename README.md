@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698275244)
+![Generated GIF](output.gif?raw=true&v=1698276830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW strikes GM's Escalade factory, turning up pressure for higher wages**
+**Israeli Hostage Released By Hamas Recounts "Horrific story" of Capture**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-expands-strike-against-gm-walking-out-texas-suv-plant-2023-10-24/).
+You can read more about it [here](https://www.youtube.com/watch?v=3Xu295dYWDc).
 
 ## Requirements
 - Python 3.8
