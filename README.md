@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698221460)
+![Generated GIF](output.gif?raw=true&v=1698222940)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Diamondbacks dominate Phillies, stave off elimination to force Game 7 in NLCS**
+**Hamas fighters confess: $10k stipend per hostage, ‘wasting bullets on corpse’**
 
-You can read more about it [here](https://theathletic.com/4992095/2023/10/23/phillies-diamondbacks-nlcs-game-6-result/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/hamas-fighters-chilling-confession-10k-stipend-per-hostage-wasting-bullets-on-corpse-101698105565342.html).
 
 ## Requirements
 - Python 3.8
