@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698190433)
+![Generated GIF](output.gif?raw=true&v=1698193813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
+**Rock collected by Apollo 17 astronauts reveals moon’s true age**
 
-You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
+You can read more about it [here](https://www.cnn.com/2023/10/23/world/apollo-17-moon-age-crystals-scn/index.html).
 
 ## Requirements
 - Python 3.8
