@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698320019)
+![Generated GIF](output.gif?raw=true&v=1698322380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Saudi crown prince indicates Israel normalization can resume after war — White House**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.timesofisrael.com/saudi-crown-prince-indicates-israel-normalization-can-resume-after-war-white-house/).
 
 ## Requirements
 - Python 3.8
