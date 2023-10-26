@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698334434)
+![Generated GIF](output.gif?raw=true&v=1698336578)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-UN spat intensifies after Secretary General says Hamas attacks ‘did not happen in a vacuum’**
+**Sam Bankman-Fried to testify in FTX fraud trial, attorney says**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/middleeast/un-israel-spat-guterres-gaza-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/sam-bankman-fried-to-testify-in-federal-fraud-trial-attorney-says.html).
 
 ## Requirements
 - Python 3.8
