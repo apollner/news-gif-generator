@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698357958)
+![Generated GIF](output.gif?raw=true&v=1698359766)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: Dusty Baker retires after 26 seasons as MLB manager**
+**Hurricane Otis’ Category 5 ‘nightmare scenario’ knocks out all communications in Acapulco, Mexico**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/10/25/dusty-baker-retires/71302675007/).
+You can read more about it [here](https://www.cnn.com/2023/10/24/weather/hurricane-otis-acapulco-mexico/index.html).
 
 ## Requirements
 - Python 3.8
