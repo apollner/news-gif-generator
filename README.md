@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698316471)
+![Generated GIF](output.gif?raw=true&v=1698318309)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deutsche Bank shares surge 7% after net profit beats expectations**
+**Family names one of people killed in pile-up along I-55 as known head chef of Kenner restaurant**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/deutsche-bank-net-profit-slides-8percent-in-third-quarter-but-beats-expectations.html).
+You can read more about it [here](https://www.wdsu.com/article/family-names-one-of-people-killed-in-pile-up-along-i-55-as-known-head-chef-of-kenner-restaurant/45632448).
 
 ## Requirements
 - Python 3.8
