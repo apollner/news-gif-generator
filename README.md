@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698311311)
+![Generated GIF](output.gif?raw=true&v=1698312840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 futures are slightly lower after Microsoft and Alphabet report: Live updates**
+**Millions of Americans Have Cognitive Decline and Don't Know It**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/24/stock-market-today-live-updates.html).
+You can read more about it [here](https://gizmodo.com/millions-americans-mild-cognitive-impairment-alzheimers-1850954424).
 
 ## Requirements
 - Python 3.8
