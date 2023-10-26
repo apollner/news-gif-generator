@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698291251)
+![Generated GIF](output.gif?raw=true&v=1698293363)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm claims its Snapdragon X Elite processor will beat Apple, Intel, and AMD**
+**Israel-Hamas war live updates: White House calls Iran complicit in conflict; Biden says aid isn't getting to Gaza fast enough**
 
-You can read more about it [here](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date).
+You can read more about it [here](https://www.cnbc.com/2023/10/24/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
