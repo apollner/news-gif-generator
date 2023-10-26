@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698318309)
+![Generated GIF](output.gif?raw=true&v=1698320019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Family names one of people killed in pile-up along I-55 as known head chef of Kenner restaurant**
+**[Removed]**
 
-You can read more about it [here](https://www.wdsu.com/article/family-names-one-of-people-killed-in-pile-up-along-i-55-as-known-head-chef-of-kenner-restaurant/45632448).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
