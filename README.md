@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698280179)
+![Generated GIF](output.gif?raw=true&v=1698283947)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Motorola is back with another slap bracelet phone concept**
+**Microsoft stock jumps on revenue, earnings beats**
 
-You can read more about it [here](https://www.engadget.com/motorola-is-back-with-another-slap-bracelet-phone-concept-215026843.html).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-stock-jumps-on-revenue-earnings-beats-200428196.html).
 
 ## Requirements
 - Python 3.8
