@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698303985)
+![Generated GIF](output.gif?raw=true&v=1698305720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Richard Roundtree, ‘Shaft’ Star, Dies at 81**
+**Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News**
 
-You can read more about it [here](https://variety.com/2023/film/news/richard-roundtree-dead-shaft-1235767495/).
+You can read more about it [here](https://www.youtube.com/watch?v=QvMecbTHdIo).
 
 ## Requirements
 - Python 3.8
