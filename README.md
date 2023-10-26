@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698330845)
+![Generated GIF](output.gif?raw=true&v=1698332801)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How D-backs' post-Deadline bullpen paved road to World Series**
+**China Stocks Rally as Xi Jinping, Beijing Step Up Economic Support**
 
-You can read more about it [here](https://www.mlb.com/news/d-backs-bullpen-surge-helps-key-world-series-appearance).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-25/chinese-stocks-rally-as-beijing-steps-up-economic-support).
 
 ## Requirements
 - Python 3.8
