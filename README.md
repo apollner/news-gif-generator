@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698338302)
+![Generated GIF](output.gif?raw=true&v=1698339998)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nashville police chief's son, wanted in the shooting of 2 officers, found dead after car chase**
+**Behind Hamas's Piecemeal Hostage Strategy - WSJ**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/police-chiefs-son-wanted-shooting-2-officers-found-104275134).
+You can read more about it [here](https://www.wsj.com/world/middle-east/behind-hamass-piecemeal-hostage-strategy-ff60fa97).
 
 ## Requirements
 - Python 3.8
