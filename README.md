@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698314847)
+![Generated GIF](output.gif?raw=true&v=1698316471)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 futures are slightly lower after Microsoft and Alphabet report: Live updates**
+**Deutsche Bank shares surge 7% after net profit beats expectations**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/24/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/deutsche-bank-net-profit-slides-8percent-in-third-quarter-but-beats-expectations.html).
 
 ## Requirements
 - Python 3.8
