@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698300625)
+![Generated GIF](output.gif?raw=true&v=1698302114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Health workers face \"mental health crisis,\" CDC says**
+**Three key moments from Trump's court reunion with Michael Cohen**
 
-You can read more about it [here](https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67212196).
 
 ## Requirements
 - Python 3.8
