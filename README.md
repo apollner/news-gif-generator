@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698302114)
+![Generated GIF](output.gif?raw=true&v=1698303985)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Three key moments from Trump's court reunion with Michael Cohen**
+**Richard Roundtree, ‘Shaft’ Star, Dies at 81**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67212196).
+You can read more about it [here](https://variety.com/2023/film/news/richard-roundtree-dead-shaft-1235767495/).
 
 ## Requirements
 - Python 3.8
