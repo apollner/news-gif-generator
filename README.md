@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698296786)
+![Generated GIF](output.gif?raw=true&v=1698298414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Dancing With the Stars' Most Memorable Year night recap: Elimination, scores**
+**California DMV suspends permits for Cruise driverless robotaxis**
 
-You can read more about it [here](https://ew.com/tv/recaps/dancing-with-the-stars-season-32-episode-5-most-memorable-year-night-recap/).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/cruise-llc-driverless-robotaxis-california-dmv-suspends-permits/).
 
 ## Requirements
 - Python 3.8
