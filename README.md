@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698298414)
+![Generated GIF](output.gif?raw=true&v=1698300625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California DMV suspends permits for Cruise driverless robotaxis**
+**Health workers face \"mental health crisis,\" CDC says**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/cruise-llc-driverless-robotaxis-california-dmv-suspends-permits/).
+You can read more about it [here](https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html).
 
 ## Requirements
 - Python 3.8
