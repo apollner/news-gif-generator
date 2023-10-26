@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698305720)
+![Generated GIF](output.gif?raw=true&v=1698307982)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News**
+**Hurricane Otis makes landfall near Mexico’s Acapulco resort as catastrophic Category 5 storm**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QvMecbTHdIo).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/hurricane-otis-grows-dangerous-category-4-storm-heading-mexicos-acapul-rcna122040).
 
 ## Requirements
 - Python 3.8
