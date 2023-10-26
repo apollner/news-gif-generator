@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698285877)
+![Generated GIF](output.gif?raw=true&v=1698287622)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Iceland’s prime minister joins thousands of women on strike**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/23/europe/iceland-women-strike-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
