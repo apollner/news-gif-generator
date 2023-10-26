@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698356044)
+![Generated GIF](output.gif?raw=true&v=1698357958)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Diamondbacks' Gallen, Rangers' Eovaldi get World Series Game 1 nods - ESPN**
+**Exclusive: Dusty Baker retires after 26 seasons as MLB manager**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38743624/diamondbacks-zac-gallen-start-game-1-world-series-vs-rangers).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/10/25/dusty-baker-retires/71302675007/).
 
 ## Requirements
 - Python 3.8
