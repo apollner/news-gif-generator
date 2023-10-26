@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698354341)
+![Generated GIF](output.gif?raw=true&v=1698356044)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL power rankings, Week 8: Finally, a victory to recap**
+**Diamondbacks' Gallen, Rangers' Eovaldi get World Series Game 1 nods - ESPN**
 
-You can read more about it [here](https://www.bigblueview.com/2023/10/25/23931568/nfl-power-rankings-week-8-finally-a-victory-to-recap).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38743624/diamondbacks-zac-gallen-start-game-1-world-series-vs-rangers).
 
 ## Requirements
 - Python 3.8
