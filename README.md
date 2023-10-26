@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698345302)
+![Generated GIF](output.gif?raw=true&v=1698347107)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 8 RB Rankings**
+**Turkey's Erdogan says Hamas is not terrorist organisation**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-8-rb-rankings-180405106.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/).
 
 ## Requirements
 - Python 3.8
