@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698307982)
+![Generated GIF](output.gif?raw=true&v=1698309255)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Otis makes landfall near Mexico’s Acapulco resort as catastrophic Category 5 storm**
+**China willing to cooperate with US, manage differences - Xi**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/hurricane-otis-grows-dangerous-category-4-storm-heading-mexicos-acapul-rcna122040).
+You can read more about it [here](https://www.reuters.com/world/china/china-willing-cooperate-with-us-manage-differences-xi-2023-10-25/).
 
 ## Requirements
 - Python 3.8
