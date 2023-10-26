@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698339998)
+![Generated GIF](output.gif?raw=true&v=1698341686)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Behind Hamas's Piecemeal Hostage Strategy - WSJ**
+**Trump aims to discredit Michael Cohen as ex-lawyer testifies in New York fraud trial**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/behind-hamass-piecemeal-hostage-strategy-ff60fa97).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/trump-fraud-trial-michael-cohen-testifies-in-fraud-trial.html).
 
 ## Requirements
 - Python 3.8
