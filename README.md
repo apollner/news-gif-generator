@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698361635)
+![Generated GIF](output.gif?raw=true&v=1698363221)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starvation used as a ‘weapon of war’ on civilians in Gaza: Oxfam**
+**Qualcomm Snapdragon 8 Gen 3: First benchmarks and analysis - NotebookCheck.net News**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/starvation-used-as-a-weapon-of-war-on-civilians-in-gaza-oxfam).
+You can read more about it [here](https://www.notebookcheck.net/Qualcomm-Snapdragon-8-Gen-3-First-benchmarks-and-analysis.762120.0.html).
 
 ## Requirements
 - Python 3.8
