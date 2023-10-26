@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698341686)
+![Generated GIF](output.gif?raw=true&v=1698344009)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump aims to discredit Michael Cohen as ex-lawyer testifies in New York fraud trial**
+**Trump ally Mike Johnson elected House speaker three weeks after McCarthy ouster**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/trump-fraud-trial-michael-cohen-testifies-in-fraud-trial.html).
+You can read more about it [here](https://www.cnn.com/2023/10/25/politics/house-speaker-vote-republicans/index.html).
 
 ## Requirements
 - Python 3.8
