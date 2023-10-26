@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698325826)
+![Generated GIF](output.gif?raw=true&v=1698327265)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saudi crown prince indicates Israel normalization can resume after war — White House**
+**MLB playoffs 2023: Diamondbacks stun Phillies with NLCS Game 7 victory, punch ticket to World Series**
 
-You can read more about it [here](https://www.timesofisrael.com/saudi-crown-prince-indicates-israel-normalization-can-resume-after-war-white-house/).
+You can read more about it [here](https://sports.yahoo.com/arizona-diamondbacks-beat-phillies-nlcs-game-7-victory-world-series-mlb-playoffs-2023-115814442.html).
 
 ## Requirements
 - Python 3.8
