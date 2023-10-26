@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698344009)
+![Generated GIF](output.gif?raw=true&v=1698345302)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump ally Mike Johnson elected House speaker three weeks after McCarthy ouster**
+**Fantasy Football Week 8 RB Rankings**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/politics/house-speaker-vote-republicans/index.html).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-8-rb-rankings-180405106.html).
 
 ## Requirements
 - Python 3.8
