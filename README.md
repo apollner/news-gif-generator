@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698327265)
+![Generated GIF](output.gif?raw=true&v=1698329169)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB playoffs 2023: Diamondbacks stun Phillies with NLCS Game 7 victory, punch ticket to World Series**
+**How D-backs' post-Deadline bullpen paved road to World Series**
 
-You can read more about it [here](https://sports.yahoo.com/arizona-diamondbacks-beat-phillies-nlcs-game-7-victory-world-series-mlb-playoffs-2023-115814442.html).
+You can read more about it [here](https://www.mlb.com/news/d-backs-bullpen-surge-helps-key-world-series-appearance).
 
 ## Requirements
 - Python 3.8
