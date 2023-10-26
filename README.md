@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698350843)
+![Generated GIF](output.gif?raw=true&v=1698352427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Britney Spears Celebrates Historic Memoir Sales**
+**Florida Governor Ron DeSantis bans pro-Palestine student organisation**
 
-You can read more about it [here](http://www.vulture.com/2023/10/britney-spears-celebrates-historic-memoir-sales.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/florida-governor-ron-desantis-bans-pro-palestine-student-organisation).
 
 ## Requirements
 - Python 3.8
