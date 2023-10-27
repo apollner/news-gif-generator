@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698363221)
+![Generated GIF](output.gif?raw=true&v=1698366584)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm Snapdragon 8 Gen 3: First benchmarks and analysis - NotebookCheck.net News**
+**New York Republicans to push ahead with resolution to expel George Santos from House**
 
-You can read more about it [here](https://www.notebookcheck.net/Qualcomm-Snapdragon-8-Gen-3-First-benchmarks-and-analysis.762120.0.html).
+You can read more about it [here](https://www.cbsnews.com/news/george-santos-expel-from-house/).
 
 ## Requirements
 - Python 3.8
