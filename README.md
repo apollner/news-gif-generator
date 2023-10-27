@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698431639)
+![Generated GIF](output.gif?raw=true&v=1698433504)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hasan Minhaj Offers Detailed Response to New Yorker Story: “It Was So Needlessly Misleading”(Exclusive)**
+**Rep. Jamaal Bowman pleads guilty to one count of falsely pulling a fire alarm**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/hasan-minhaj-new-yorker-responds-video-1235628344/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-jamaal-bowman-pleads-guilty-one-count-falsely-pulling-fire-alarm-rcna122306).
 
 ## Requirements
 - Python 3.8
