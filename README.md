@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698383259)
+![Generated GIF](output.gif?raw=true&v=1698384837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel conducts airstrikes in West Bank, Syria overnight, kills Hamas commander**
+**Malibu crash: Driver pleads not guilty to murder in PCH collision that killed Pepperdine students**
 
-You can read more about it [here](https://www.foxnews.com/live-news/israel-conducts-airstrikes-in-west-bank-syria-overnight-kills-hamas-commander).
+You can read more about it [here](https://abc7.com/malibu-crash-pepperdine-students-killed-fraser-bohm-not-guilty/13971211/).
 
 ## Requirements
 - Python 3.8
