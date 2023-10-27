@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698428047)
+![Generated GIF](output.gif?raw=true&v=1698430194)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 8 2023: Model backing Eagles, Lions**
+**Dean Phillips's primary challenge of Biden will face many obstacles**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-8-2023-model-backing-eagles-lions/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/26/dean-phillips-primary-challenge-biden-obstacles/).
 
 ## Requirements
 - Python 3.8
