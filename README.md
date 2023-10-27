@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698366584)
+![Generated GIF](output.gif?raw=true&v=1698370355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New York Republicans to push ahead with resolution to expel George Santos from House**
+**Judge Denies Motion to Dismiss Case Against Jonathan Majors, Paving Way for Trial | THR News**
 
-You can read more about it [here](https://www.cbsnews.com/news/george-santos-expel-from-house/).
+You can read more about it [here](https://www.youtube.com/watch?v=sMyQHKHdIbI).
 
 ## Requirements
 - Python 3.8
