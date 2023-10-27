@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698433504)
+![Generated GIF](output.gif?raw=true&v=1698435283)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. Jamaal Bowman pleads guilty to one count of falsely pulling a fire alarm**
+**Bubble of Toxic Coolant Abruptly Ends Russian ISS Spacewalk**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-jamaal-bowman-pleads-guilty-one-count-falsely-pulling-fire-alarm-rcna122306).
+You can read more about it [here](https://gizmodo.com/bubble-toxic-coolant-ends-russian-iss-spacewalk-nasa-1850961885).
 
 ## Requirements
 - Python 3.8
