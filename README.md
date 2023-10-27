@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698406415)
+![Generated GIF](output.gif?raw=true&v=1698408771)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man indicted on murder charge 23 years after girl, mother disappeared in West Virginia**
+**Israel Hamas live updates: UN chief defends comments on Hamas attack**
 
-You can read more about it [here](https://www.cbsnews.com/news/larry-webb-indicted-murder-charge-girl-natasha-alex-carter-disappeared-2000-west-virginia/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/10/25/israel-hamas-war-gaza-live-updates/71311772007/).
 
 ## Requirements
 - Python 3.8
