@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698370355)
+![Generated GIF](output.gif?raw=true&v=1698372292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge Denies Motion to Dismiss Case Against Jonathan Majors, Paving Way for Trial | THR News**
+**Meta stock rises 4% as it beats earnings estimates**
 
-You can read more about it [here](https://www.youtube.com/watch?v=sMyQHKHdIbI).
+You can read more about it [here](https://finance.yahoo.com/news/meta-stock-rises-4-as-it-beats-earnings-estimates-204612743.html).
 
 ## Requirements
 - Python 3.8
