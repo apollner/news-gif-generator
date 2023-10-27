@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698437353)
+![Generated GIF](output.gif?raw=true&v=1698438832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pfizer, BioNtech say flu-COVID shot generates strong immune response in trial**
+**Fantasy Football Rankings Week 8: Sleepers, projections, starts, sits | Rashee Rice, Dalton Kincaid and more**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-say-flu-covid-shot-generates-immune-response-2023-10-26/).
+You can read more about it [here](https://theathletic.com/4995932/2023/10/26/fantasy-football-rankings-week-8-sleepers-projections-starts-sits-rashee-rice-dalton-kincaid-and-more/).
 
 ## Requirements
 - Python 3.8
