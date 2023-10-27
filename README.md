@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698435283)
+![Generated GIF](output.gif?raw=true&v=1698437353)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bubble of Toxic Coolant Abruptly Ends Russian ISS Spacewalk**
+**Pfizer, BioNtech say flu-COVID shot generates strong immune response in trial**
 
-You can read more about it [here](https://gizmodo.com/bubble-toxic-coolant-ends-russian-iss-spacewalk-nasa-1850961885).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-say-flu-covid-shot-generates-immune-response-2023-10-26/).
 
 ## Requirements
 - Python 3.8
