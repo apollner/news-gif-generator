@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698422975)
+![Generated GIF](output.gif?raw=true&v=1698424652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Diamondbacks' Zac Gallen and Rangers' Nathan Eovaldi named Game 1 starters for World Series**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/world-series-diamondbacks-zac-gallen-rangers-nathan-eovaldi-named-game-1-starters-231101672.html).
 
 ## Requirements
 - Python 3.8
