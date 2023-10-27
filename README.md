@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698401439)
+![Generated GIF](output.gif?raw=true&v=1698402913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Skeletons discovered in "incredibly rare" 5,000-year-old tomb in Scotland**
+**IDF tanks, infantry strike Hamas - Day 20 | Defense News**
 
-You can read more about it [here](https://www.cbsnews.com/news/neolithic-tomb-skeletons-discovered-5000-years-old-orkney-islands-scotland/).
+You can read more about it [here](https://www.jpost.com/israel-news/defense-news/2023-10-26/live-updates-770189).
 
 ## Requirements
 - Python 3.8
