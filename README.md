@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698438832)
+![Generated GIF](output.gif?raw=true&v=1698440696)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 8: Sleepers, projections, starts, sits | Rashee Rice, Dalton Kincaid and more**
+**Israel carries out 'targeted raid' against Hamas in Gaza**
 
-You can read more about it [here](https://theathletic.com/4995932/2023/10/26/fantasy-football-rankings-week-8-sleepers-projections-starts-sits-rashee-rice-dalton-kincaid-and-more/).
+You can read more about it [here](https://www.ft.com/content/81858568-33f1-460d-b840-08141a4483f4).
 
 ## Requirements
 - Python 3.8
