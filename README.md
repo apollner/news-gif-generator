@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698444354)
+![Generated GIF](output.gif?raw=true&v=1698446022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 8: Sleepers, projections, starts, sits | Rashee Rice, Dalton Kincaid and more**
+**Kyle Richards Opens Up About Mauricio Umansky Separation: “It Originated From Me”**
 
-You can read more about it [here](https://theathletic.com/4995932/2023/10/26/fantasy-football-rankings-week-8-sleepers-projections-starts-sits-rashee-rice-dalton-kincaid-and-more/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/kyle-richards-mauricio-umansky-separation-1235628854/).
 
 ## Requirements
 - Python 3.8
