@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698394217)
+![Generated GIF](output.gif?raw=true&v=1698395630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pro-Palestinian rally at Cooper Union leads to tense moments at school library**
+**Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/cooper-union-pro-palestinian-rally-jewish-students-library/).
+You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
 
 ## Requirements
 - Python 3.8
