@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698426282)
+![Generated GIF](output.gif?raw=true&v=1698428047)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mars' Seismic Secrets: Decoding the Red Planet's Core Mystery**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 8 2023: Model backing Eagles, Lions**
 
-You can read more about it [here](https://scitechdaily.com/mars-seismic-secrets-decoding-the-red-planets-core-mystery/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-8-2023-model-backing-eagles-lions/).
 
 ## Requirements
 - Python 3.8
