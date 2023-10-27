@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698379761)
+![Generated GIF](output.gif?raw=true&v=1698381259)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 8 Start 'Em & Sit 'Em Wide Receivers: Nico Collins and George Pickens ready to deliver**
+**Israel conducts airstrikes in West Bank, Syria overnight, kills Hamas commander**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-8-start-em-sit-em-wide-receivers-nico-collins-and-george-pickens-ready-to-deliver/).
+You can read more about it [here](https://www.foxnews.com/live-news/israel-conducts-airstrikes-in-west-bank-syria-overnight-kills-hamas-commander).
 
 ## Requirements
 - Python 3.8
