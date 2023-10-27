@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698440696)
+![Generated GIF](output.gif?raw=true&v=1698442431)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel carries out 'targeted raid' against Hamas in Gaza**
+**Megyn Kelly says it's no wonder Britney Spears 'wound up as screwed up as she is'**
 
-You can read more about it [here](https://www.ft.com/content/81858568-33f1-460d-b840-08141a4483f4).
+You can read more about it [here](https://nypost.com/2023/10/26/media/megyn-kelly-talks-britney-spears-drinking-with-her-mom-in-8th-grade/).
 
 ## Requirements
 - Python 3.8
