@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698404695)
+![Generated GIF](output.gif?raw=true&v=1698406415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cosmonauts on ISS spacewalk encounter toxic coolant 'blob' while inspecting leaky radiator**
+**Man indicted on murder charge 23 years after girl, mother disappeared in West Virginia**
 
-You can read more about it [here](https://www.space.com/russian-spacewalk-nauka-radiator-leak-october-2023).
+You can read more about it [here](https://www.cbsnews.com/news/larry-webb-indicted-murder-charge-girl-natasha-alex-carter-disappeared-2000-west-virginia/).
 
 ## Requirements
 - Python 3.8
