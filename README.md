@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698384837)
+![Generated GIF](output.gif?raw=true&v=1698387046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Malibu crash: Driver pleads not guilty to murder in PCH collision that killed Pepperdine students**
+**Meta's Q4 guidance erases earnings beat gains**
 
-You can read more about it [here](https://abc7.com/malibu-crash-pepperdine-students-killed-fraser-bohm-not-guilty/13971211/).
+You can read more about it [here](https://finance.yahoo.com/news/metas-q4-guidance-erases-earnings-beat-gains-212533296.html).
 
 ## Requirements
 - Python 3.8
