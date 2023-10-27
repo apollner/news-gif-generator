@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698419190)
+![Generated GIF](output.gif?raw=true&v=1698420832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden's post-war plan: Talks on a two-state solution to Israeli-Palestinian conflict**
+**Adult ADHD is associated with a higher risk for dementia**
 
-You can read more about it [here](https://www.axios.com/2023/10/26/biden-post-war-plan-two-state-solution-israel-palestinians).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/26/adult-adhd-dementia-risk/).
 
 ## Requirements
 - Python 3.8
