@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698507225)
+![Generated GIF](output.gif?raw=true&v=1698509270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese fighter jet got within 10 feet of US bomber over South China Sea, US military says**
+**Elon Musk’s X is sinking financially, one year after he bought Twitter**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/china-fighter-jet-us-bomber-south-china-sea/index.html).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/10/27/elon-musk-twitter-x-anniversary/).
 
 ## Requirements
 - Python 3.8
