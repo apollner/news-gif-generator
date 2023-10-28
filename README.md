@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698498340)
+![Generated GIF](output.gif?raw=true&v=1698500020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2 bodies found in Vermont were missing Massachusetts men and were shot in the head, police say**
+**High-yielding stocks have been the worst bet this year. Here's one way to improve that.**
 
-You can read more about it [here](https://www.cbsnews.com/news/2-bodies-found-in-vermont-were-missing-massachusetts-men-and-were-shot-in-the-head-police-say/).
+You can read more about it [here](https://www.marketwatch.com/story/high-yielding-stocks-have-been-the-worst-bet-this-year-heres-one-way-to-improve-that-68bf594d).
 
 ## Requirements
 - Python 3.8
