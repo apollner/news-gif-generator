@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698485610)
+![Generated GIF](output.gif?raw=true&v=1698487542)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese fighter jet got within 10 feet of US bomber over South China Sea, US military says**
+**Evan Longoria's experience valuable for D-backs in 2023 World Series**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/china-fighter-jet-us-bomber-south-china-sea/index.html).
+You can read more about it [here](https://www.mlb.com/news/evan-longoria-experience-d-backs-2023-world-series).
 
 ## Requirements
 - Python 3.8
