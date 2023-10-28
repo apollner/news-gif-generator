@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698476791)
+![Generated GIF](output.gif?raw=true&v=1698478477)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video shows Chinese jet flying within 10 feet of B-52, U.S. says**
+**Missile strikes Egyptian Red Sea town on Israel border**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/26/chinese-j-11-fighter-b-52-intercept/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/).
 
 ## Requirements
 - Python 3.8
