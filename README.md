@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698449641)
+![Generated GIF](output.gif?raw=true&v=1698452952)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S23 FE launches at a higher price**
+**Brock Purdy returns to 49ers practice**
 
-You can read more about it [here](https://9to5google.com/2023/10/26/samsung-galaxy-s23-fe-price/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-returns-to-49ers-practice).
 
 ## Requirements
 - Python 3.8
