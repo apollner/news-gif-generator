@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698482024)
+![Generated GIF](output.gif?raw=true&v=1698484034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortal Kombat 1 Gets A New Update For The Nintendo Switch**
+**Democratic Rep. Dean Phillips launches a White House bid, challenging Biden**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/democratic-rep-dean-phillips-launches-white-house-bid-challenging-bide-rcna122202).
 
 ## Requirements
 - Python 3.8
