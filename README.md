@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698474836)
+![Generated GIF](output.gif?raw=true&v=1698476791)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge defends fining Trump $10,000 for breaking gag order**
+**Video shows Chinese jet flying within 10 feet of B-52, U.S. says**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/trump-gag-order-engoron-fine/index.html).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/26/chinese-j-11-fighter-b-52-intercept/).
 
 ## Requirements
 - Python 3.8
