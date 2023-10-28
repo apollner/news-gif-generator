@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698500020)
+![Generated GIF](output.gif?raw=true&v=1698501904)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**High-yielding stocks have been the worst bet this year. Here's one way to improve that.**
+**Taylor Swift Presents ‘1989 (Taylor’s Version)’ With Poetic Soliloquy**
 
-You can read more about it [here](https://www.marketwatch.com/story/high-yielding-stocks-have-been-the-worst-bet-this-year-heres-one-way-to-improve-that-68bf594d).
+You can read more about it [here](https://www.billboard.com/music/pop/taylor-swift-presents-1989-taylors-version-handwritten-social-post-1235456086/).
 
 ## Requirements
 - Python 3.8
