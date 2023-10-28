@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698478477)
+![Generated GIF](output.gif?raw=true&v=1698480552)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Missile strikes Egyptian Red Sea town on Israel border**
+**Democratic Rep. Dean Phillips launches a White House bid, challenging Biden**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/democratic-rep-dean-phillips-launches-white-house-bid-challenging-bide-rcna122202).
 
 ## Requirements
 - Python 3.8
