@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698452952)
+![Generated GIF](output.gif?raw=true&v=1698456653)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brock Purdy returns to 49ers practice**
+**Sam Bankman-Fried Says FTX Actions Were Guided by Lawyers**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-returns-to-49ers-practice).
+You can read more about it [here](https://www.wsj.com/finance/currencies/sam-bankman-fried-says-ftx-actions-were-guided-by-lawyers-6f42632b).
 
 ## Requirements
 - Python 3.8
