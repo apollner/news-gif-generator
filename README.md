@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698534362)
+![Generated GIF](output.gif?raw=true&v=1698536037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney Delays ‘Snow White’ and ‘Elio’ a Year, Removes Jonathan Majors’ ‘Magazine Dreams’ From Calendar**
+**Sam Bankman-Fried's Testimony: Looking Back at Days One and Two**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/disney-delays-snow-white-actor-strike-1235629856/).
+You can read more about it [here](https://www.wsj.com/livecoverage/sam-bankman-fried-trial-testimony).
 
 ## Requirements
 - Python 3.8
