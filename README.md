@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698519878)
+![Generated GIF](output.gif?raw=true&v=1698521633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Five Nights at Freddy’s’ Is Off to Rip-Roaring Start With $10.3M in Thursday Previews**
+**Taylor Swift nods to iconic sad boat pic on '1989 (Taylor's Version)'**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/five-nights-at-freddys-box-office-thursday-previews-1235629812/).
+You can read more about it [here](https://ew.com/music/taylor-swift-addresses-sad-boat-photo-1989-taylors-version-is-it-over-now/).
 
 ## Requirements
 - Python 3.8
