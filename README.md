@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698525216)
+![Generated GIF](output.gif?raw=true&v=1698527078)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Box Office: ‘Five Nights at Freddy’s’ Is Off to Rip-Roaring Start With $10.3M in Thursday Previews**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/five-nights-at-freddys-box-office-thursday-previews-1235629812/).
 
 ## Requirements
 - Python 3.8
