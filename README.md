@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698459558)
+![Generated GIF](output.gif?raw=true&v=1698460508)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Intel stock rises on earnings beat and strong revenue guidance**
+**Georgia's congressional map violates Voting Rights Act, court finds**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/26/intel-intc-earnings-report-q3-2023.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/26/georgias-congressional-map-violates-voting-rights-act-court-finds-00123779).
 
 ## Requirements
 - Python 3.8
