@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698489245)
+![Generated GIF](output.gif?raw=true&v=1698491105)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine manhunt for Lewiston mass shooter extends to another night**
+**Rep. Dean Phillips running for president in 2024 against Biden**
 
-You can read more about it [here](https://www.reuters.com/world/us/maine-manhunt-lewiston-mass-shooter-extends-another-night-2023-10-27/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/26/dean-phillips-2024-presidential-bid/).
 
 ## Requirements
 - Python 3.8
