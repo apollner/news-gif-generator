@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698467631)
+![Generated GIF](output.gif?raw=true&v=1698469581)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thursday Night Football: Buccaneers vs. Bills score, highlights, news, inactives and live tracker**
+**‘Appalling’: Why has Biden cast doubt on the Palestinian death count?**
 
-You can read more about it [here](https://sports.yahoo.com/thursday-night-football-buccaneers-vs-bills-score-highlights-news-inactives-and-live-tracker-223525304.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/26/appalling-why-has-biden-cast-doubt-on-the-palestinian-death-count).
 
 ## Requirements
 - Python 3.8
