@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698516551)
+![Generated GIF](output.gif?raw=true&v=1698518027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Hamas broke through Israel's border defenses during Oct. 7 attack**
+**'This is what heavyweights do': How Mike Tyson helped make Francis Ngannou's dream fight against Tyson Fury a reality - ESPN**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/27/hamas-attack-israel-october-7-hostages/).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38749118/how-mike-tyson-helped-francis-ngannou-tyson-fury-fight).
 
 ## Requirements
 - Python 3.8
