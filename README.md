@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698512683)
+![Generated GIF](output.gif?raw=true&v=1698514425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Inflation Trends Keep Fed Rate Hikes on Pause**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/inflation-trends-likely-to-keep-fed-rate-hike-pause-on-track-7e0b4425).
 
 ## Requirements
 - Python 3.8
