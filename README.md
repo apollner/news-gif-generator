@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698492815)
+![Generated GIF](output.gif?raw=true&v=1698495108)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Chinese fighter jet came within 10 feet of a B-52 bomber, U.S. military says**
+**LeBron James spoils Kevin Durant's historic night with fourth quarter takeover**
 
-You can read more about it [here](https://www.npr.org/2023/10/27/1208941174/a-chinese-fighter-jet-came-within-10-feet-of-a-b-52-bomber-u-s-military-says).
+You can read more about it [here](https://www.foxsports.com/stories/nba/lebron-james-spoils-kevin-durants-historic-night-with-fourth-quarter-takeover).
 
 ## Requirements
 - Python 3.8
