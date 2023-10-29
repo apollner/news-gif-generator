@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698575610)
+![Generated GIF](output.gif?raw=true&v=1698577482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New COVID vaccine uptake is 'abysmal' — even among older demographics**
+**Dow Jones Futures: Apple, Fed Loom For Battered Market; Microsoft Leads Stocks To Watch**
 
-You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-fed-loom-for-battered-market-microsoft-leads-stocks-to-watch/).
 
 ## Requirements
 - Python 3.8
