@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698573980)
+![Generated GIF](output.gif?raw=true&v=1698575610)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Protesters shut New York's Grand Central, seeking Gaza ceasefire**
+**New COVID vaccine uptake is 'abysmal' — even among older demographics**
 
-You can read more about it [here](https://www.reuters.com/world/us/protesters-shut-new-yorks-grand-central-seeking-gaza-ceasefire-2023-10-28/).
+You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
 
 ## Requirements
 - Python 3.8
