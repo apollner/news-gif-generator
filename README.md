@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698590033)
+![Generated GIF](output.gif?raw=true&v=1698592060)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Won't Attend Travis Kelce Chiefs Game This Sunday, It's Tour Time**
+**[Removed]**
 
-You can read more about it [here](https://www.tmz.com/2023/10/28/taylor-swift-not-attend-travis-kelce-chiefs-game-eras-tour/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
