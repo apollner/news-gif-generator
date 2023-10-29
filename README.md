@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698586493)
+![Generated GIF](output.gif?raw=true&v=1698588295)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'She declined so fast': Parents, doctors warn of RSV as cases increase across San Antonio**
+**A Halloween Treat: NASA's Juno Mission Glimpses an Eerie “Face” on Jupiter**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/10/28/she-declined-so-fast-parents-doctors-warn-of-rsv-as-cases-increase-across-san-antonio/).
+You can read more about it [here](https://scitechdaily.com/a-halloween-treat-nasas-juno-mission-glimpses-an-eerie-face-on-jupiter/).
 
 ## Requirements
 - Python 3.8
