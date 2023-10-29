@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698593628)
+![Generated GIF](output.gif?raw=true&v=1698595631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Li Keqiang death: Former Chinese Premier dies of heart attack at 68**
+**Leclerc: Ferrari is “too far away” in Mexico F1 GP**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/27/li-keqiang-china-death-heart-attack/71340298007/).
+You can read more about it [here](https://www.motorsport.com/f1/news/leclerc-ferrari-is-too-far-away-in-mexico-f1-gp/10539177/).
 
 ## Requirements
 - Python 3.8
