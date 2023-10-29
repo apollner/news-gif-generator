@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698559772)
+![Generated GIF](output.gif?raw=true&v=1698561236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA, Studios to Continue Negotiations Through Weekend**
+**Tyson Fury warns Sugar Ray Leonard: "Don't pick Ngannou over me!"**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-continue-negotiations-through-weekend-1235629487/).
+You can read more about it [here](https://www.youtube.com/watch?v=feMhL-n6Hu4).
 
 ## Requirements
 - Python 3.8
