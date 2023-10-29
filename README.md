@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698545911)
+![Generated GIF](output.gif?raw=true&v=1698546989)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who are the victims of Maine mass shooting? A father and teenage son among the dead**
+**Sam Bankman-Fried's Testimony: Looking Back at Days One and Two**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/lewiston-maine-mass-shootings-victims/).
+You can read more about it [here](https://www.wsj.com/livecoverage/sam-bankman-fried-trial-testimony).
 
 ## Requirements
 - Python 3.8
