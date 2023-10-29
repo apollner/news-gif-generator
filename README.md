@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698620750)
+![Generated GIF](output.gif?raw=true&v=1698622435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Less boo for your buck: For the second Halloween in a row, US candy inflation hits double digits**
+**Elon Musk announces Starlink internet access for aid organizations in Gaza**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/boo-buck-halloween-row-us-candy-inflation-hits-104447379).
+You can read more about it [here](https://www.foxbusiness.com/technology/elon-musk-announces-starlink-internet-access-aid-organizations-gaza).
 
 ## Requirements
 - Python 3.8
