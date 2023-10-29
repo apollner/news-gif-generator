@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698564979)
+![Generated GIF](output.gif?raw=true&v=1698566964)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'She declined so fast': Parents, doctors warn of RSV as cases increase across San Antonio**
+**News Wrap: Ivanka Trump ordered to testify in fraud trial**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/10/28/she-declined-so-fast-parents-doctors-warn-of-rsv-as-cases-increase-across-san-antonio/).
+You can read more about it [here](https://www.pbs.org/newshour/show/news-wrap-judge-orders-ivanka-trump-to-testify-in-fathers-civil-fraud-trial).
 
 ## Requirements
 - Python 3.8
