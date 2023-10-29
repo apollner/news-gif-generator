@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698577482)
+![Generated GIF](output.gif?raw=true&v=1698579230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dow Jones Futures: Apple, Fed Loom For Battered Market; Microsoft Leads Stocks To Watch**
+**[Removed]**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-fed-loom-for-battered-market-microsoft-leads-stocks-to-watch/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
