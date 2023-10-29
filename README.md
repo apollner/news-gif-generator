@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698599113)
+![Generated GIF](output.gif?raw=true&v=1698600830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sleeping in flooded bathroom floors: How some tourists braved Hurricane Otis in Acapulco**
+**UAW expected to announce tentative agreement with Stellantis to end labor strike**
 
-You can read more about it [here](https://www.usatoday.com/story/travel/news/2023/10/26/tourists-stranded-acapulco-hurricane-otis/71334175007/).
+You can read more about it [here](https://www.cnbc.com/2023/10/28/uaw-strike-stellantis-union-negotiators-agree-to-terms-of-a-deal.html).
 
 ## Requirements
 - Python 3.8
