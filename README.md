@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698595631)
+![Generated GIF](output.gif?raw=true&v=1698597350)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Leclerc: Ferrari is “too far away” in Mexico F1 GP**
+**Lunar Eclipse: Space scientist busts misconceptions related to celestial phenomena**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/leclerc-ferrari-is-too-far-away-in-mexico-f1-gp/10539177/).
+You can read more about it [here](https://timesofindia.indiatimes.com/videos/news/lunar-eclipse-space-scientist-busts-misconceptions-related-to-celestial-phenomena/videoshow/104781438.cms).
 
 ## Requirements
 - Python 3.8
