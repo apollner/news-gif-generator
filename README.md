@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698584842)
+![Generated GIF](output.gif?raw=true&v=1698586493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pac-12 college football Week 9 score predictions, odds: Will Ducks, Beavers win on the road?**
+**'She declined so fast': Parents, doctors warn of RSV as cases increase across San Antonio**
 
-You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/10/pac-12-college-football-week-9-score-predictions-odds-will-ducks-beavers-win-on-the-road.html).
+You can read more about it [here](https://www.ksat.com/news/local/2023/10/28/she-declined-so-fast-parents-doctors-warn-of-rsv-as-cases-increase-across-san-antonio/).
 
 ## Requirements
 - Python 3.8
