@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698555969)
+![Generated GIF](output.gif?raw=true&v=1698557616)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**People on 4 continents can look up to see ‘a bite taken out of’ the moon this weekend**
+**Pfizer, BioNtech say flu-COVID shot generates strong immune response in trial**
 
-You can read more about it [here](https://www.cnn.com/2023/10/27/world/partial-lunar-eclipse-hunter-full-moon-scn/index.html).
+You can read more about it [here](https://www.ksl.com/article/50765514/pfizer-biontech-say-flu-covid-shot-generates-strong-immune-response-in-trial).
 
 ## Requirements
 - Python 3.8
