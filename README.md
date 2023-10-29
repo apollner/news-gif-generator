@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698536037)
+![Generated GIF](output.gif?raw=true&v=1698539600)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried's Testimony: Looking Back at Days One and Two**
+**Andy Cohen Details "Weird" 2016 Interview With Britney Spears**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/sam-bankman-fried-trial-testimony).
+You can read more about it [here](https://www.eonline.com/news/1388807/andy-cohen-details-weird-interview-with-britney-spears-during-her-conservatorship).
 
 ## Requirements
 - Python 3.8
