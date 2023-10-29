@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698581505)
+![Generated GIF](output.gif?raw=true&v=1698583554)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Save $100 Off the ASUS ROG Ally Z1 Extreme Gaming Handheld with This My Best Buy Plus Deal**
+**Nightly News Full Broadcast - Oct. 27**
 
-You can read more about it [here](https://www.ign.com/articles/deal-alert-asus-rog-ally-z1-extreme-gaming-handheld-my-best-buy-plus-deal-membership).
+You can read more about it [here](https://www.youtube.com/watch?v=CSX6FBIEOJg).
 
 ## Requirements
 - Python 3.8
