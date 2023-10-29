@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698561236)
+![Generated GIF](output.gif?raw=true&v=1698563176)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyson Fury warns Sugar Ray Leonard: "Don't pick Ngannou over me!"**
+**World Series updates: DBacks lineup, roster set; reliever's role might change**
 
-You can read more about it [here](https://www.youtube.com/watch?v=feMhL-n6Hu4).
+You can read more about it [here](https://www.azcentral.com/story/sports/mlb/diamondbacks/2023/10/27/world-series-game-1-arizona-diamondbacks-texas-rangers-news-updates/71321312007/).
 
 ## Requirements
 - Python 3.8
