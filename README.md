@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698583554)
+![Generated GIF](output.gif?raw=true&v=1698584842)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nightly News Full Broadcast - Oct. 27**
+**Pac-12 college football Week 9 score predictions, odds: Will Ducks, Beavers win on the road?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CSX6FBIEOJg).
+You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/10/pac-12-college-football-week-9-score-predictions-odds-will-ducks-beavers-win-on-the-road.html).
 
 ## Requirements
 - Python 3.8
