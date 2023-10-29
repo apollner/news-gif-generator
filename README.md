@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698539600)
+![Generated GIF](output.gif?raw=true&v=1698543523)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andy Cohen Details "Weird" 2016 Interview With Britney Spears**
+**The moon will match up with Jupiter on Oct. 28**
 
-You can read more about it [here](https://www.eonline.com/news/1388807/andy-cohen-details-weird-interview-with-britney-spears-during-her-conservatorship).
+You can read more about it [here](https://www.space.com/moon-jupiter-meetup-night-sky-october-28).
 
 ## Requirements
 - Python 3.8
