@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698618828)
+![Generated GIF](output.gif?raw=true&v=1698620750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Less boo for your buck: For the second Halloween in a row, US candy inflation hits double digits**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/boo-buck-halloween-row-us-candy-inflation-hits-104447379).
 
 ## Requirements
 - Python 3.8
