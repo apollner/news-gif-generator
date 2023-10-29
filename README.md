@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698597350)
+![Generated GIF](output.gif?raw=true&v=1698599113)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lunar Eclipse: Space scientist busts misconceptions related to celestial phenomena**
+**Sleeping in flooded bathroom floors: How some tourists braved Hurricane Otis in Acapulco**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/videos/news/lunar-eclipse-space-scientist-busts-misconceptions-related-to-celestial-phenomena/videoshow/104781438.cms).
+You can read more about it [here](https://www.usatoday.com/story/travel/news/2023/10/26/tourists-stranded-acapulco-hurricane-otis/71334175007/).
 
 ## Requirements
 - Python 3.8
