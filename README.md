@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698611639)
+![Generated GIF](output.gif?raw=true&v=1698613501)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Five Nights At Freddy’s’ Bearing Down On $130M Global Bow – International Box Office**
+**Apple's Journal app is kind of smart — and kind of basic**
 
-You can read more about it [here](https://deadline.com/2023/10/five-nights-at-freddys-bearing-down-on-130m-global-bow-international-box-office-1235586004/).
+You can read more about it [here](https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview).
 
 ## Requirements
 - Python 3.8
