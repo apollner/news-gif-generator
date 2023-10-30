@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698625938)
+![Generated GIF](output.gif?raw=true&v=1698629754)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyson Fury vs. Francis Ngannou start time: Live stream, PPV price, undercard, how to watch, TV channel**
+**NASA is launching a rocket on Sunday to study a 20,000-year-old supernova**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/tyson-fury-vs-francis-ngannou-start-time-live-stream-ppv-price-undercard-how-to-watch-tv-channel/).
+You can read more about it [here](https://www.engadget.com/nasa-is-launching-a-rocket-on-sunday-to-study-a-20000-year-old-supernova-193009477.html).
 
 ## Requirements
 - Python 3.8
