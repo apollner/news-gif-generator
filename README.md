@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698646255)
+![Generated GIF](output.gif?raw=true&v=1698649631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Friends’ star Matthew Perry dead at 54**
+**SAG-AFTRA Negotiations Conclude for the Day**
 
-You can read more about it [here](https://www.youtube.com/watch?v=aAWxoSeqU5k).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-end-for-day-1235630906/).
 
 ## Requirements
 - Python 3.8
