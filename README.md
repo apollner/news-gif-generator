@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698707175)
+![Generated GIF](output.gif?raw=true&v=1698708828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Opinion: Why Matthew Perry was my favorite among ‘Friends’**
+**22-year-old charged in Tampa shooting that killed 2 and injured 16**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/opinions/matthew-perry-friends-appreciation-obeidallah/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/29/us/two-killed-18-injured-florida-shooting/index.html).
 
 ## Requirements
 - Python 3.8
