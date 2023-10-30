@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698633411)
+![Generated GIF](output.gif?raw=true&v=1698635346)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Top Democrats plead with party: Stop looking for a Biden alternative**
+**UAW reaches tentative agreement with Stellantis, expands strike at GM**
 
-You can read more about it [here](https://www.cnn.com/2023/10/28/politics/biden-reelection-worries-dean-phillips/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/28/business/uaw-stellantis-deal/index.html).
 
 ## Requirements
 - Python 3.8
