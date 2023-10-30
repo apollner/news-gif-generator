@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698678489)
+![Generated GIF](output.gif?raw=true&v=1698680036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Democrats make Speaker Mike Johnson their new 2024 boogeyman**
+**India police probe bomb that killed two in Kerala, injured dozens**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4279889-mike-johnson-2024-democrats-election-denier-abortion/).
+You can read more about it [here](https://www.reuters.com/world/india/one-killed-several-injured-explosions-indias-southern-state-local-media-2023-10-29/).
 
 ## Requirements
 - Python 3.8
