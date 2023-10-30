@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698701621)
+![Generated GIF](output.gif?raw=true&v=1698703544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rioters storm airport in Russia’s Dagestan in hunt for Jews aboard flight from Israel**
+**Opinion: Why Matthew Perry was my favorite among ‘Friends’**
 
-You can read more about it [here](https://www.timesofisrael.com/rioters-overrun-russian-airport-in-hunt-for-jews-aboard-flight-from-israel/).
+You can read more about it [here](https://www.cnn.com/2023/10/29/opinions/matthew-perry-friends-appreciation-obeidallah/index.html).
 
 ## Requirements
 - Python 3.8
