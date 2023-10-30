@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698683997)
+![Generated GIF](output.gif?raw=true&v=1698685545)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TV coverage maps, how to stream Cowboys-Rams, plus 10 top prop bets**
+**Israeli forces 'gradually expand' ground operations in Gaza for second day**
 
-You can read more about it [here](https://cowboyswire.usatoday.com/lists/cowboys-vs-rams-2023-week-8-how-to-watch-top-prop-bets/).
+You can read more about it [here](https://www.ft.com/content/fb7f089f-9056-43fe-b8b5-4b4cd9b55162).
 
 ## Requirements
 - Python 3.8
