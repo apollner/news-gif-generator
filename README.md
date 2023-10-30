@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698663905)
+![Generated GIF](output.gif?raw=true&v=1698665723)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli forces hold part of northern Gaza for second night**
+**Mexican president blasts critics after deadly hurricane**
 
-You can read more about it [here](https://www.ft.com/content/244ac777-e713-4b97-9a0f-7c0ecdee3e86).
+You can read more about it [here](https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/).
 
 ## Requirements
 - Python 3.8
