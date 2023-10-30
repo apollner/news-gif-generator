@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698687239)
+![Generated GIF](output.gif?raw=true&v=1698689405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war live updates: Thousands break into UN warehouses in Gaza; Israel vows to continue 'large scale' strikes**
+**Box Office: ‘Five Nights at Freddy’s’ Slays With $78 Million Domestic Debut, $130 Million Globally**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/29/israel-hamas-war-live-updates-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://variety.com/2023/film/news/box-office-five-nights-at-freddys-opening-weekend-shatters-expectations-1235772316/).
 
 ## Requirements
 - Python 3.8
