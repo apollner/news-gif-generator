@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698680036)
+![Generated GIF](output.gif?raw=true&v=1698682251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India police probe bomb that killed two in Kerala, injured dozens**
+**NFL Week 8 weather report: Heavy snow, rain could impact Chiefs vs. Broncos, Jets vs. Giants and other games**
 
-You can read more about it [here](https://www.reuters.com/world/india/one-killed-several-injured-explosions-indias-southern-state-local-media-2023-10-29/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-weather-report-heavy-snow-rain-could-impact-chiefs-vs-broncos-jets-vs-giants-and-other-games/).
 
 ## Requirements
 - Python 3.8
