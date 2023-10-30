@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698622435)
+![Generated GIF](output.gif?raw=true&v=1698625938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk announces Starlink internet access for aid organizations in Gaza**
+**Tyson Fury vs. Francis Ngannou start time: Live stream, PPV price, undercard, how to watch, TV channel**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/elon-musk-announces-starlink-internet-access-aid-organizations-gaza).
+You can read more about it [here](https://www.cbssports.com/boxing/news/tyson-fury-vs-francis-ngannou-start-time-live-stream-ppv-price-undercard-how-to-watch-tv-channel/).
 
 ## Requirements
 - Python 3.8
