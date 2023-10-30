@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698636889)
+![Generated GIF](output.gif?raw=true&v=1698638986)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blue Origin reveals mockup of Blue Moon lunar lander prototype**
+**1 dead, 1 injured after shooting at Worcester State University**
 
-You can read more about it [here](https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/).
+You can read more about it [here](https://www.cbsnews.com/boston/news/worcester-state-university-under-shelter-in-place-order/).
 
 ## Requirements
 - Python 3.8
