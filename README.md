@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698632320)
+![Generated GIF](output.gif?raw=true&v=1698633411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'These are not good or smart people': Haley slams Trump on praise for U.S. adversaries**
+**Top Democrats plead with party: Stop looking for a Biden alternative**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/28/these-are-not-good-or-smart-people-haley-slams-trump-on-praise-for-u-s-adversaries-00124102).
+You can read more about it [here](https://www.cnn.com/2023/10/28/politics/biden-reelection-worries-dean-phillips/index.html).
 
 ## Requirements
 - Python 3.8
