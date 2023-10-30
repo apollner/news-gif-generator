@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698698037)
+![Generated GIF](output.gif?raw=true&v=1698699935)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Discovering Uranus' Glow: New Hints for Life on Icy Exoplanets**
+**Bengals, 49ers announce inactive players ahead of Week 8 matchup**
 
-You can read more about it [here](https://scitechdaily.com/?p=322736).
+You can read more about it [here](https://www.wlwt.com/article/cincinnati-bengals-san-francisco-49ers-inactives-week-8-2023/45675515).
 
 ## Requirements
 - Python 3.8
