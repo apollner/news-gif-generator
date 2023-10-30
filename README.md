@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698676552)
+![Generated GIF](output.gif?raw=true&v=1698678489)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyson Fury knocked down but beats Francis Ngannou on a split decision**
+**Democrats make Speaker Mike Johnson their new 2024 boogeyman**
 
-You can read more about it [here](https://www.aljazeera.com/sports/2023/10/29/tyson-fury-knocked-down-but-beats-francis-ngannou-on-a-split-decision).
+You can read more about it [here](https://thehill.com/policy/healthcare/4279889-mike-johnson-2024-democrats-election-denier-abortion/).
 
 ## Requirements
 - Python 3.8
