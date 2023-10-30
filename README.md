@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698674793)
+![Generated GIF](output.gif?raw=true&v=1698676552)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
+**Tyson Fury knocked down but beats Francis Ngannou on a split decision**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
+You can read more about it [here](https://www.aljazeera.com/sports/2023/10/29/tyson-fury-knocked-down-but-beats-francis-ngannou-on-a-split-decision).
 
 ## Requirements
 - Python 3.8
