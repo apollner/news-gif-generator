@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698629754)
+![Generated GIF](output.gif?raw=true&v=1698632320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA is launching a rocket on Sunday to study a 20,000-year-old supernova**
+**'These are not good or smart people': Haley slams Trump on praise for U.S. adversaries**
 
-You can read more about it [here](https://www.engadget.com/nasa-is-launching-a-rocket-on-sunday-to-study-a-20000-year-old-supernova-193009477.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/28/these-are-not-good-or-smart-people-haley-slams-trump-on-praise-for-u-s-adversaries-00124102).
 
 ## Requirements
 - Python 3.8
