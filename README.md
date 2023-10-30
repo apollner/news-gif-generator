@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698689405)
+![Generated GIF](output.gif?raw=true&v=1698690919)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Five Nights at Freddy’s’ Slays With $78 Million Domestic Debut, $130 Million Globally**
+**1 person was killed and 8 others were injured in a shooting at a party in Indianapolis, police say**
 
-You can read more about it [here](https://variety.com/2023/film/news/box-office-five-nights-at-freddys-opening-weekend-shatters-expectations-1235772316/).
+You can read more about it [here](https://www.cnn.com/2023/10/29/us/indianapolis-indiana-party-shooting/index.html).
 
 ## Requirements
 - Python 3.8
