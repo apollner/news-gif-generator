@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698699935)
+![Generated GIF](output.gif?raw=true&v=1698701621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bengals, 49ers announce inactive players ahead of Week 8 matchup**
+**Rioters storm airport in Russia’s Dagestan in hunt for Jews aboard flight from Israel**
 
-You can read more about it [here](https://www.wlwt.com/article/cincinnati-bengals-san-francisco-49ers-inactives-week-8-2023/45675515).
+You can read more about it [here](https://www.timesofisrael.com/rioters-overrun-russian-airport-in-hunt-for-jews-aboard-flight-from-israel/).
 
 ## Requirements
 - Python 3.8
