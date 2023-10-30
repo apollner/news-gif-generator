@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698662206)
+![Generated GIF](output.gif?raw=true&v=1698663905)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**“Francis Ngannou is UNCROWNED HW CHAMPION!” Spencer Fearon on Tyson Fury CONTROVERSIAL WIN**
+**Israeli forces hold part of northern Gaza for second night**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IoNgccPW_c4).
+You can read more about it [here](https://www.ft.com/content/244ac777-e713-4b97-9a0f-7c0ecdee3e86).
 
 ## Requirements
 - Python 3.8
