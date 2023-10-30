@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698703544)
+![Generated GIF](output.gif?raw=true&v=1698705287)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Opinion: Why Matthew Perry was my favorite among ‘Friends’**
+**Here's how to get alerts when your personal info shows up in Google Search**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/opinions/matthew-perry-friends-appreciation-obeidallah/index.html).
+You can read more about it [here](https://mashable.com/article/how-to-remove-your-personal-info-from-google-search).
 
 ## Requirements
 - Python 3.8
