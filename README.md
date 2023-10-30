@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698682251)
+![Generated GIF](output.gif?raw=true&v=1698683997)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 8 weather report: Heavy snow, rain could impact Chiefs vs. Broncos, Jets vs. Giants and other games**
+**TV coverage maps, how to stream Cowboys-Rams, plus 10 top prop bets**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-weather-report-heavy-snow-rain-could-impact-chiefs-vs-broncos-jets-vs-giants-and-other-games/).
+You can read more about it [here](https://cowboyswire.usatoday.com/lists/cowboys-vs-rams-2023-week-8-how-to-watch-top-prop-bets/).
 
 ## Requirements
 - Python 3.8
