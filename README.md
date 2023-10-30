@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698654881)
+![Generated GIF](output.gif?raw=true&v=1698656924)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine Police Issued Statewide Alert Weeks Ago About Shooting Suspect's Threats: AP**
+**How Mike Johnson went from little-known to House speaker in 24 hours**
 
-You can read more about it [here](https://www.thedailybeast.com/maine-police-issued-statewide-alert-weeks-ago-about-robert-cards-threats-ap).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/28/how-mike-johnson-went-little-known-house-speaker-24-hours/).
 
 ## Requirements
 - Python 3.8
