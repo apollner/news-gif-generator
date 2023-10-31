@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698743354)
+![Generated GIF](output.gif?raw=true&v=1698744900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**22-year-old charged in Tampa shooting that killed 2 and injured 16**
+**Judge Chutkan reinstated restrictions on Trump’s public statements in election interference trial**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/us/two-killed-18-injured-florida-shooting/index.html).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4282835-judge-chutkan-reinstated-restrictions-on-trumps-public-statements-in-election-interference-trial/).
 
 ## Requirements
 - Python 3.8
