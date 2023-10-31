@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698788037)
+![Generated GIF](output.gif?raw=true&v=1698789970)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**October 2023 Apple Event Spoiler-Free Video Stream**
+**FDA warns consumers to stop using 26 eye drop products sold at CVS, Target and Rite Aid**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/30/october-2023-spoiler-free/).
+You can read more about it [here](http://www.nbcnewyork.com/news/national-international/fda-warns-consumers-to-stop-using-26-eye-drop-products-sold-at-cvs-target-and-rite-aid/4813429/).
 
 ## Requirements
 - Python 3.8
