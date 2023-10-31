@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698735986)
+![Generated GIF](output.gif?raw=true&v=1698737630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW-Ford deal nets union big wins on wages, benefits, investments**
+**SAG-AFTRA & Studios’ Negotiations “In The Final Stretch” Amid Optimism, But No Deal Tonight**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-leaders-push-ahead-with-ford-contract-gm-talks-drag-2023-10-29/).
+You can read more about it [here](https://deadline.com/2023/10/actors-strike-deal-near-final-stretch-1235586671/).
 
 ## Requirements
 - Python 3.8
