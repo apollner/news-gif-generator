@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698780823)
+![Generated GIF](output.gif?raw=true&v=1698782882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man pleads not guilty to hate crime in fatal stabbing of 6-year-old Muslim boy in Illinois**
+**Google's Sundar Pichai Tells Court Search Dominance Is Result of 'Fierce Competition' - WSJ**
 
-You can read more about it [here](https://abcnews.go.com/US/man-pleads-not-guilty-hate-crime-fatal-stabbing-6/story?id=104476991).
+You can read more about it [here](https://www.wsj.com/tech/google-ceo-sundar-pichai-testimony-antitrust-c490c696).
 
 ## Requirements
 - Python 3.8
