@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698723242)
+![Generated GIF](output.gif?raw=true&v=1698725375)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Evergrande granted final reprieve as winding-up hearing adjourned**
+**Gallant tells families ‘all for all’ hostage offer phony, pushes military pressure**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-evergrande-faces-winding-up-challenge-hong-kong-court-2023-10-29/).
+You can read more about it [here](https://www.timesofisrael.com/gallant-tells-families-all-for-all-hostage-offer-phony-pushes-military-pressure/).
 
 ## Requirements
 - Python 3.8
