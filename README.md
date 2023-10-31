@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698782882)
+![Generated GIF](output.gif?raw=true&v=1698786356)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google's Sundar Pichai Tells Court Search Dominance Is Result of 'Fierce Competition' - WSJ**
+**Placer County confirms 1st West Nile virus death since 2018**
 
-You can read more about it [here](https://www.wsj.com/tech/google-ceo-sundar-pichai-testimony-antitrust-c490c696).
+You can read more about it [here](https://www.kcra.com/article/placer-county-confirms-1st-west-nile-virus-death-since-2018/45687629).
 
 ## Requirements
 - Python 3.8
