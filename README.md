@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698712305)
+![Generated GIF](output.gif?raw=true&v=1698716126)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cincinnati Bengals vs. San Francisco 49ers | 2023 Week 8 Game Highlights**
+**Anti-Israel mob storms Dagestan airport in Russia**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lpCusbU66cM).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67258332).
 
 ## Requirements
 - Python 3.8
