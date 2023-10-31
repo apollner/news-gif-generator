@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698764874)
+![Generated GIF](output.gif?raw=true&v=1698766485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM reaches tentative deal with UAW, ending strikes at Detroit automakers after six weeks**
+**NFL Week 9 early odds: Bengals slight favorites vs. Bills, Dolphins underdogs in Germany vs. Chiefs**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/30/gm-uaw-tentative-agreement-labor-strike.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-early-odds-bengals-slight-favorites-vs-bills-dolphins-underdogs-in-germany-vs-chiefs/).
 
 ## Requirements
 - Python 3.8
