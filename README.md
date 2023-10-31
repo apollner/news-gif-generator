@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698721742)
+![Generated GIF](output.gif?raw=true&v=1698723242)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ybor City shooting: Arrest made after 18 injured, 2 others killed | LiveNOW from FOX**
+**China Evergrande granted final reprieve as winding-up hearing adjourned**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tHnWEomPD6o).
+You can read more about it [here](https://www.reuters.com/world/china/china-evergrande-faces-winding-up-challenge-hong-kong-court-2023-10-29/).
 
 ## Requirements
 - Python 3.8
