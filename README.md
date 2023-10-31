@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698775789)
+![Generated GIF](output.gif?raw=true&v=1698777291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Five Nights at Freddy’s’ $80 Million Debut Ties ‘Black Widow’ for Biggest Release in Theaters and Streaming**
+**Up to 3 inches of snow taking aim at Lower Michigan for Halloween**
 
-You can read more about it [here](https://variety.com/2023/film/news/box-office-five-nights-at-freddys-ties-black-widow-biggest-release-theaters-streaming-1235773018/).
+You can read more about it [here](https://www.mlive.com/weather/2023/10/up-to-3-inches-of-snow-taking-aim-at-lower-michigan-for-halloween.html).
 
 ## Requirements
 - Python 3.8
