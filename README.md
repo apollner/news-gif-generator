@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698728807)
+![Generated GIF](output.gif?raw=true&v=1698730430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW deal with Ford includes $8.1 billion in investments, $5,000 ratification bonuses**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/30/uaw-ford-deal-includes-8point1b-in-investment-5000-ratification-bonus.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
