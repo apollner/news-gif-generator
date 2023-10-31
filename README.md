@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698719712)
+![Generated GIF](output.gif?raw=true&v=1698721742)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Latest Oil Market News and Analysis for Oct. 30**
+**Ybor City shooting: Arrest made after 18 injured, 2 others killed | LiveNOW from FOX**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-29/latest-oil-market-news-and-analysis-for-oct-30).
+You can read more about it [here](https://www.youtube.com/watch?v=tHnWEomPD6o).
 
 ## Requirements
 - Python 3.8
