@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698773634)
+![Generated GIF](output.gif?raw=true&v=1698775789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He's a Bad Memory**
+**Box Office: ‘Five Nights at Freddy’s’ $80 Million Debut Ties ‘Black Widow’ for Biggest Release in Theaters and Streaming**
 
-You can read more about it [here](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/).
+You can read more about it [here](https://variety.com/2023/film/news/box-office-five-nights-at-freddys-ties-black-widow-biggest-release-theaters-streaming-1235773018/).
 
 ## Requirements
 - Python 3.8
