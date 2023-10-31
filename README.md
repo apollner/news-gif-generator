@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698772011)
+![Generated GIF](output.gif?raw=true&v=1698773634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Crab Nebula Seen in New Light by NASA's Webb**
+**Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He's a Bad Memory**
 
-You can read more about it [here](https://webbtelescope.org/contents/news-releases/2023/news-2023-137).
+You can read more about it [here](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/).
 
 ## Requirements
 - Python 3.8
