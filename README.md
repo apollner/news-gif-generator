@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698777291)
+![Generated GIF](output.gif?raw=true&v=1698779117)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Up to 3 inches of snow taking aim at Lower Michigan for Halloween**
+**Landlord accused of killing 6-year-old Palestinian American boy pleads not guilty to murder and hate crime charges**
 
-You can read more about it [here](https://www.mlive.com/weather/2023/10/up-to-3-inches-of-snow-taking-aim-at-lower-michigan-for-halloween.html).
+You can read more about it [here](https://www.cnn.com/2023/10/30/us/palestinian-american-boy-stabbed/index.html).
 
 ## Requirements
 - Python 3.8
