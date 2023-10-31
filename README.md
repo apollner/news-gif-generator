@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698718728)
+![Generated GIF](output.gif?raw=true&v=1698719712)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pence's early exit from the presidential campaign offers a reminder of Trump's grip on the GOP**
+**Latest Oil Market News and Analysis for Oct. 30**
 
-You can read more about it [here](https://apnews.com/article/pence-2024-republican-presidential-campaign-trump-f0e228548820373f779b3dc7157d6635).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-29/latest-oil-market-news-and-analysis-for-oct-30).
 
 ## Requirements
 - Python 3.8
