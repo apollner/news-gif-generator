@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698779117)
+![Generated GIF](output.gif?raw=true&v=1698780823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Landlord accused of killing 6-year-old Palestinian American boy pleads not guilty to murder and hate crime charges**
+**Man pleads not guilty to hate crime in fatal stabbing of 6-year-old Muslim boy in Illinois**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/us/palestinian-american-boy-stabbed/index.html).
+You can read more about it [here](https://abcnews.go.com/US/man-pleads-not-guilty-hate-crime-fatal-stabbing-6/story?id=104476991).
 
 ## Requirements
 - Python 3.8
