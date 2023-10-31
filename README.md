@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698766485)
+![Generated GIF](output.gif?raw=true&v=1698768606)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 9 early odds: Bengals slight favorites vs. Bills, Dolphins underdogs in Germany vs. Chiefs**
+**German-Israeli woman taken hostage by Hamas at music festival is dead, Israel says**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-early-odds-bengals-slight-favorites-vs-bills-dolphins-underdogs-in-germany-vs-chiefs/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/german-israeli-woman-snatched-by-hamas-music-festival-is-dead-israel-says-2023-10-30/).
 
 ## Requirements
 - Python 3.8
