@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698725375)
+![Generated GIF](output.gif?raw=true&v=1698726838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gallant tells families ‘all for all’ hostage offer phony, pushes military pressure**
+**China and Russia take aim at US at Chinese military forum**
 
-You can read more about it [here](https://www.timesofisrael.com/gallant-tells-families-all-for-all-hostage-offer-phony-pushes-military-pressure/).
+You can read more about it [here](https://ca.news.yahoo.com/countries-see-world-zero-sum-013650605.html).
 
 ## Requirements
 - Python 3.8
