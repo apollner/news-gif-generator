@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698786356)
+![Generated GIF](output.gif?raw=true&v=1698788037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Placer County confirms 1st West Nile virus death since 2018**
+**October 2023 Apple Event Spoiler-Free Video Stream**
 
-You can read more about it [here](https://www.kcra.com/article/placer-county-confirms-1st-west-nile-virus-death-since-2018/45687629).
+You can read more about it [here](https://www.macrumors.com/2023/10/30/october-2023-spoiler-free/).
 
 ## Requirements
 - Python 3.8
