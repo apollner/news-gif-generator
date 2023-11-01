@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698805253)
+![Generated GIF](output.gif?raw=true&v=1698806345)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CVS and Walgreens pharmacy staff begin 3-day walkout**
+**‘Hunger Games’ Prequel Nabs SAG-AFTRA Interim Agreement**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/business/cvs-walgreen-pharmacy-walkout/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-prequel-sag-aftra-interim-agreement-1235632637/).
 
 ## Requirements
 - Python 3.8
