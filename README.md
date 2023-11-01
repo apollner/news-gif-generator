@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698815321)
+![Generated GIF](output.gif?raw=true&v=1698816882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA warns consumers against using 26 eye drop products because of infection risk**
+**2023 NFL trade deadline live updates: All the latest signings, rumors and buzz in final two days to make deals**
 
-You can read more about it [here](https://www.cbsnews.com/news/eye-drop-recall-fda-cvs-health-rite-aid-target/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-trade-deadline-live-updates-all-the-latest-signings-rumors-and-buzz-in-final-two-days-to-make-deals/live/).
 
 ## Requirements
 - Python 3.8
