@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698808148)
+![Generated GIF](output.gif?raw=true&v=1698809621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US rejects Putin claim that West organised anti-Jewish airport mob**
+**Boris Johnson's response to COVID was 'mad and dangerous'- top official**
 
-You can read more about it [here](https://www.bbc.com/news/world-67267339).
+You can read more about it [here](https://www.reuters.com/world/uk/boris-johnsons-response-covid-was-mad-dangerous-top-official-2023-10-30/).
 
 ## Requirements
 - Python 3.8
