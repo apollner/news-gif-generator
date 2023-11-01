@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698835015)
+![Generated GIF](output.gif?raw=true&v=1698836791)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war live updates: Putin says the West is to blame for mob storming Russian airport; U.S. calls the accusation 'absurd'**
+**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
 
 ## Requirements
 - Python 3.8
