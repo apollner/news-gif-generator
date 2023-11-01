@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698838479)
+![Generated GIF](output.gif?raw=true&v=1698840854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**BOJ drops explicit 1% ceiling for 10-year JGB yields**
+**Zoë Kravitz and Channing Tatum Are Engaged After 2 Years of Dating**
 
-You can read more about it [here](https://asia.nikkei.com/Economy/Bank-of-Japan/BOJ-discards-explicit-1-ceiling-for-10-year-JGB-yields).
+You can read more about it [here](https://www.eonline.com/news/1388972/zoe-kravitz-and-channing-tatum-are-engaged-after-2-years-of-dating).
 
 ## Requirements
 - Python 3.8
