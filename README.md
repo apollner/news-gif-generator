@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698874428)
+![Generated GIF](output.gif?raw=true&v=1698876347)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas War Live Updates: Israel Says Blast Struck Jabalia Refugee Camp, Killing Hamas Commander**
+**CNN Poll: Trump dominates South Carolina GOP primary, with Haley a clear but distant second**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/israel-hamas-gaza-war-latest).
+You can read more about it [here](https://www.cnn.com/2023/10/31/politics/cnn-poll-south-carolina-trump-haley/index.html).
 
 ## Requirements
 - Python 3.8
