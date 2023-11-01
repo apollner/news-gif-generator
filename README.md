@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698862204)
+![Generated GIF](output.gif?raw=true&v=1698863705)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dominion Wins Approval for Biggest-Yet US Offshore Wind Farm**
+**Jusant review - soaring design and skyscraping climbs**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-31/dominion-wins-approval-for-biggest-yet-us-offshore-wind-farm).
+You can read more about it [here](https://www.eurogamer.net/jusant-review).
 
 ## Requirements
 - Python 3.8
