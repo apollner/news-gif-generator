@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698845644)
+![Generated GIF](output.gif?raw=true&v=1698847594)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zoë Kravitz and Channing Tatum Are Engaged After 2 Years of Dating**
+**Japanese gunman fires shots at hospital, seizes hostages in post office**
 
-You can read more about it [here](https://www.eonline.com/news/1388972/zoe-kravitz-and-channing-tatum-are-engaged-after-2-years-of-dating).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/31/japan-gunman-hospital-shooting-hostages/).
 
 ## Requirements
 - Python 3.8
