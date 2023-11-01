@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698865536)
+![Generated GIF](output.gif?raw=true&v=1698867240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Book review: Carlo Rovelli's 'White Holes'**
+**Rising antisemitism since Hamas' terror attack in Israel is part of 'preexisting' trend, DHS chief says**
 
-You can read more about it [here](https://www.npr.org/2023/10/31/1209487538/book-review-carlo-rovelli-white-holes).
+You can read more about it [here](https://abcnews.go.com/Politics/rising-antisemitism-hamas-terror-attack-israel-part-preexisting/story?id=104509668).
 
 ## Requirements
 - Python 3.8
