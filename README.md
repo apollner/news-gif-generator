@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698829691)
+![Generated GIF](output.gif?raw=true&v=1698831233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Afghans return to Taliban rule as Pakistan moves to expel 1.7 million**
+**Cardiovascular Deaths Due to Extreme Heat Expected To Skyrocket**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/afghans-return-taliban-rule-pakistan-moves-expel-17-million-2023-10-31/).
+You can read more about it [here](https://scitechdaily.com/?p=323312).
 
 ## Requirements
 - Python 3.8
