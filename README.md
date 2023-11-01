@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698860053)
+![Generated GIF](output.gif?raw=true&v=1698862204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kinzinger says family disowned him over loss of Hannity’s trust**
+**Dominion Wins Approval for Biggest-Yet US Offshore Wind Farm**
 
-You can read more about it [here](https://thehill.com/homenews/4285023-adam-kinzinger-family-disowned-sean-hannity/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-31/dominion-wins-approval-for-biggest-yet-us-offshore-wind-farm).
 
 ## Requirements
 - Python 3.8
