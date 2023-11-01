@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698820561)
+![Generated GIF](output.gif?raw=true&v=1698822380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jahmyr Gibbs' breakout performance leads Lions past Raiders - ESPN**
+**SpaceX to try again at launching 23 Starlink satellites on Oct. 30 after staging system triggered abort**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38782385/jahmyr-gibbs-breakout-performance-leads-lions-raiders).
+You can read more about it [here](https://www.space.com/spacex-starlink-satellite-launch-group-6-25).
 
 ## Requirements
 - Python 3.8
