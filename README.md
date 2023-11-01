@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698833404)
+![Generated GIF](output.gif?raw=true&v=1698835015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine shooting update: Sheriff alerted on Card weeks before shootings**
+**Ukraine war live updates: Putin says the West is to blame for mob storming Russian airport; U.S. calls the accusation 'absurd'**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/10/30/metro/sheriff-maine-alerted-other-agencies-about-robert-card-weeks-before-shooting-heres-what-we-know/).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
