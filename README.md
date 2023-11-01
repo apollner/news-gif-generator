@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698816882)
+![Generated GIF](output.gif?raw=true&v=1698819058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 NFL trade deadline live updates: All the latest signings, rumors and buzz in final two days to make deals**
+**Jahmyr Gibbs' breakout performance leads Lions past Raiders - ESPN**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-trade-deadline-live-updates-all-the-latest-signings-rumors-and-buzz-in-final-two-days-to-make-deals/live/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38782385/jahmyr-gibbs-breakout-performance-leads-lions-raiders).
 
 ## Requirements
 - Python 3.8
