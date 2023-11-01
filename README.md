@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698802826)
+![Generated GIF](output.gif?raw=true&v=1698805253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX to try again at launching 23 Starlink satellites on Oct. 30 after staging system triggered abort**
+**CVS and Walgreens pharmacy staff begin 3-day walkout**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-satellite-launch-group-6-25).
+You can read more about it [here](https://www.cnn.com/2023/10/30/business/cvs-walgreen-pharmacy-walkout/index.html).
 
 ## Requirements
 - Python 3.8
