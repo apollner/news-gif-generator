@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698826241)
+![Generated GIF](output.gif?raw=true&v=1698827732)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry's Ex-Fiancée Molly Hurwitz Speaks Out on His Death**
+**Maine shooting update: Sheriff alerted on Card weeks before shootings**
 
-You can read more about it [here](https://www.eonline.com/news/1388973/matthew-perrys-ex-fiancee-molly-hurwitz-speaks-out-on-his-death).
+You can read more about it [here](https://www.bostonglobe.com/2023/10/30/metro/sheriff-maine-alerted-other-agencies-about-robert-card-weeks-before-shooting-heres-what-we-know/).
 
 ## Requirements
 - Python 3.8
