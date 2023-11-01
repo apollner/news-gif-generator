@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698813225)
+![Generated GIF](output.gif?raw=true&v=1698815321)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CVS and Walgreens pharmacy staff begin 3-day walkout**
+**FDA warns consumers against using 26 eye drop products because of infection risk**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/business/cvs-walgreen-pharmacy-walkout/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/eye-drop-recall-fda-cvs-health-rite-aid-target/).
 
 ## Requirements
 - Python 3.8
