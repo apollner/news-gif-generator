@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698872744)
+![Generated GIF](output.gif?raw=true&v=1698874428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Senate confirms Jack Lew as US ambassador to Israel following vocal GOP opposition over Iran deal**
+**Israel-Hamas War Live Updates: Israel Says Blast Struck Jabalia Refugee Camp, Killing Hamas Commander**
 
-You can read more about it [here](https://www.cnn.com/2023/10/31/politics/senate-confirms-jack-lew/index.html).
+You can read more about it [here](https://www.wsj.com/livecoverage/israel-hamas-gaza-war-latest).
 
 ## Requirements
 - Python 3.8
