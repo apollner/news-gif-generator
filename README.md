@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698798870)
+![Generated GIF](output.gif?raw=true&v=1698802826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA warns consumers against using 26 eye drop products because of infection risk**
+**SpaceX to try again at launching 23 Starlink satellites on Oct. 30 after staging system triggered abort**
 
-You can read more about it [here](https://www.cbsnews.com/news/eye-drop-recall-fda-cvs-health-rite-aid-target/).
+You can read more about it [here](https://www.space.com/spacex-starlink-satellite-launch-group-6-25).
 
 ## Requirements
 - Python 3.8
