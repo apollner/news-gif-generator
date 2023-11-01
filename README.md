@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698809621)
+![Generated GIF](output.gif?raw=true&v=1698811908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Boris Johnson's response to COVID was 'mad and dangerous'- top official**
+**FDA warns consumers against using 26 eye drop products because of infection risk**
 
-You can read more about it [here](https://www.reuters.com/world/uk/boris-johnsons-response-covid-was-mad-dangerous-top-official-2023-10-30/).
+You can read more about it [here](https://www.cbsnews.com/news/eye-drop-recall-fda-cvs-health-rite-aid-target/).
 
 ## Requirements
 - Python 3.8
