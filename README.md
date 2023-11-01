@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698870840)
+![Generated GIF](output.gif?raw=true&v=1698872744)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL trade deadline details and rumors, plus Week 9 picks and ranking all 32 teams with Ravens at No. 2**
+**Senate confirms Jack Lew as US ambassador to Israel following vocal GOP opposition over Iran deal**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-and-details-plus-week-9-picks-and-ranking-all-32-teams-with-ravens-at-no-2/).
+You can read more about it [here](https://www.cnn.com/2023/10/31/politics/senate-confirms-jack-lew/index.html).
 
 ## Requirements
 - Python 3.8
