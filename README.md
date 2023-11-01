@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698856758)
+![Generated GIF](output.gif?raw=true&v=1698858402)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Beats Fit Pro earbuds drop back down to a record low ahead of Black Friday**
+**Ask a doc: ‘Does my pet have fall allergies — and if so, how can I help?’**
 
-You can read more about it [here](https://www.engadget.com/the-beats-fit-pro-earbuds-drop-back-down-to-a-record-low-ahead-of-black-friday-101752253.html).
+You can read more about it [here](https://www.foxnews.com/health/ask-doc-does-pet-have-fall-allergies-how-can-help).
 
 ## Requirements
 - Python 3.8
