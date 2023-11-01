@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698827732)
+![Generated GIF](output.gif?raw=true&v=1698829691)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine shooting update: Sheriff alerted on Card weeks before shootings**
+**Afghans return to Taliban rule as Pakistan moves to expel 1.7 million**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/10/30/metro/sheriff-maine-alerted-other-agencies-about-robert-card-weeks-before-shooting-heres-what-we-know/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/afghans-return-taliban-rule-pakistan-moves-expel-17-million-2023-10-31/).
 
 ## Requirements
 - Python 3.8
