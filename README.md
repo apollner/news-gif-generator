@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698876347)
+![Generated GIF](output.gif?raw=true&v=1698878031)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CNN Poll: Trump dominates South Carolina GOP primary, with Haley a clear but distant second**
+**Who won James Harden trade? Grading and debating 76ers-Clippers deal**
 
-You can read more about it [here](https://www.cnn.com/2023/10/31/politics/cnn-poll-south-carolina-trump-haley/index.html).
+You can read more about it [here](https://www.foxsports.com/stories/nba/who-won-james-harden-trade-grading-and-debating-76ers-clippers-deal).
 
 ## Requirements
 - Python 3.8
