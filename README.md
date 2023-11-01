@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698842949)
+![Generated GIF](output.gif?raw=true&v=1698844210)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden announces ‘strongest’ regulations yet to ensure safety of AI**
+**Britain's King Charles visits Kenya with colonialism's scars in focus**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/31/biden-announces-strongest-regulations-yet-to-ensure-safety-of-ai).
+You can read more about it [here](https://www.reuters.com/world/africa/britains-king-charles-visits-kenya-with-colonialisms-scars-focus-2023-10-31/).
 
 ## Requirements
 - Python 3.8
