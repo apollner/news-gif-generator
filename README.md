@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698858402)
+![Generated GIF](output.gif?raw=true&v=1698860053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ask a doc: ‘Does my pet have fall allergies — and if so, how can I help?’**
+**Kinzinger says family disowned him over loss of Hannity’s trust**
 
-You can read more about it [here](https://www.foxnews.com/health/ask-doc-does-pet-have-fall-allergies-how-can-help).
+You can read more about it [here](https://thehill.com/homenews/4285023-adam-kinzinger-family-disowned-sean-hannity/).
 
 ## Requirements
 - Python 3.8
