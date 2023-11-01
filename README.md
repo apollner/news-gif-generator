@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698836791)
+![Generated GIF](output.gif?raw=true&v=1698838479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
+**BOJ drops explicit 1% ceiling for 10-year JGB yields**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
+You can read more about it [here](https://asia.nikkei.com/Economy/Bank-of-Japan/BOJ-discards-explicit-1-ceiling-for-10-year-JGB-yields).
 
 ## Requirements
 - Python 3.8
