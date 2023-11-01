@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698795219)
+![Generated GIF](output.gif?raw=true&v=1698798870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SEC Charges SolarWinds and Chief Information Security Officer with Fraud, Internal Control Failures**
+**FDA warns consumers against using 26 eye drop products because of infection risk**
 
-You can read more about it [here](https://www.sec.gov/news/press-release/2023-227).
+You can read more about it [here](https://www.cbsnews.com/news/eye-drop-recall-fda-cvs-health-rite-aid-target/).
 
 ## Requirements
 - Python 3.8
