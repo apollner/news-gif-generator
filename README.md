@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698966380)
+![Generated GIF](output.gif?raw=true&v=1698968035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**to Purchase Remaining Stake in Hulu from Comcast - The Walt Disney Company**
+**Chemists make breakthrough in drug discovery chemistry: Two methods to replace carbon with a nitrogen atom in a molecule**
 
-You can read more about it [here](https://thewaltdisneycompany.com/disney-hulu/).
+You can read more about it [here](https://phys.org/news/2023-11-chemists-breakthrough-drug-discovery-chemistry.html).
 
 ## Requirements
 - Python 3.8
