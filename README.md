@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698951916)
+![Generated GIF](output.gif?raw=true&v=1698953640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heidi Klum's Halloween Party, Peacock Costume Photos**
+**Millions more smokers should be screened for lung cancer, group says**
 
-You can read more about it [here](http://www.vulture.com/2023/11/heidi-klum-halloween-party-peacock-costume-photos.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/01/lung-cancer-screening-guidance-acs/).
 
 ## Requirements
 - Python 3.8
