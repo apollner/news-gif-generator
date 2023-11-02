@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698891531)
+![Generated GIF](output.gif?raw=true&v=1698892491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW deal eases just one obstacle for EVs**
+**Gaza refugee camp devastated; Israeli ground troops battle Hamas militants**
 
-You can read more about it [here](https://www.politico.com/newsletters/power-switch/2023/10/31/uaw-deal-eases-just-one-obstacle-for-evs-00124442).
+You can read more about it [here](https://www.politico.com/news/2023/10/31/gaza-refugee-camp-israel-hamas-00124615).
 
 ## Requirements
 - Python 3.8
