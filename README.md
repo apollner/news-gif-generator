@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698957231)
+![Generated GIF](output.gif?raw=true&v=1698959123)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sophie Turner Kisses British Aristocrat Peregrine Pearson After Joe Jonas Break Up**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1389062/sophie-turner-kisses-british-aristocrat-peregrine-pearson-after-joe-jonas-break-up).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
