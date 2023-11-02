@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698914024)
+![Generated GIF](output.gif?raw=true&v=1698916041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Asteroid that doomed the dinosaurs halted a key process for life on Earth, scientists say**
+**Offshore wind company pulls out of New Jersey projects, a setback to Biden's green agenda**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/americas/asteroid-dust-dinosaur-extinction-photosynthesis-scn/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/31/offshore-wind-new-jersey-orsted-00124661).
 
 ## Requirements
 - Python 3.8
