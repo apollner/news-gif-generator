@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698953640)
+![Generated GIF](output.gif?raw=true&v=1698955698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Millions more smokers should be screened for lung cancer, group says**
+**Egypt opens Gaza border crossing to evacuate injured and foreigners**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/01/lung-cancer-screening-guidance-acs/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67284694).
 
 ## Requirements
 - Python 3.8
