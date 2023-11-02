@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698901635)
+![Generated GIF](output.gif?raw=true&v=1698903206)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Airline pilot indicted for allegedly threatening to shoot the captain ‘multiple times’ if the flight was diverted for a passenger’s medical emergency**
+**Bolivia severs ties with Israel, others recall envoys over Gaza**
 
-You can read more about it [here](https://fortune.com/2023/10/31/pilot-indicted-allegedly-threatening-shoot-captain-diverted/).
+You can read more about it [here](https://www.reuters.com/world/americas/bolivia-severs-diplomatic-ties-with-israel-citing-crimes-against-humanity-2023-10-31/).
 
 ## Requirements
 - Python 3.8
