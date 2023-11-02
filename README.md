@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698912619)
+![Generated GIF](output.gif?raw=true&v=1698914024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff Rankings: Ohio State, Georgia, Michigan, Florida State open 1-4 in top 25 poll**
+**Asteroid that doomed the dinosaurs halted a key process for life on Earth, scientists say**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-ohio-state-georgia-michigan-florida-state-open-1-4-in-top-25-poll/).
+You can read more about it [here](https://www.cnn.com/2023/10/30/americas/asteroid-dust-dinosaur-extinction-photosynthesis-scn/index.html).
 
 ## Requirements
 - Python 3.8
