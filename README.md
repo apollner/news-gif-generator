@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698964418)
+![Generated GIF](output.gif?raw=true&v=1698966380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New lung cancer screening guidelines make millions more eligible for testing**
+**to Purchase Remaining Stake in Hulu from Comcast - The Walt Disney Company**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5zm-KEzLGco).
+You can read more about it [here](https://thewaltdisneycompany.com/disney-hulu/).
 
 ## Requirements
 - Python 3.8
