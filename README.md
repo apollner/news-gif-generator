@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698894519)
+![Generated GIF](output.gif?raw=true&v=1698896049)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Windows 11 23H2 - New features in the Windows 11 2023 Update**
+**‘Children were carrying other injured children’: Witness describes aftermath of Israeli strike on Gaza refugee camp**
 
-You can read more about it [here](https://www.bleepingcomputer.com/).
+You can read more about it [here](https://www.cnn.com/2023/10/31/middleeast/jabalya-blast-gaza-intl/index.html).
 
 ## Requirements
 - Python 3.8
