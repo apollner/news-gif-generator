@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698888932)
+![Generated GIF](output.gif?raw=true&v=1698891531)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Against all odds’: Local woman determined to fulfill dream, with foundation’s help**
+**UAW deal eases just one obstacle for EVs**
 
-You can read more about it [here](https://www.wkbn.com/news/local-news/canfield-news/against-all-odds-local-woman-determined-to-fulfill-dream-with-foundations-help/).
+You can read more about it [here](https://www.politico.com/newsletters/power-switch/2023/10/31/uaw-deal-eases-just-one-obstacle-for-evs-00124442).
 
 ## Requirements
 - Python 3.8
