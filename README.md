@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698916041)
+![Generated GIF](output.gif?raw=true&v=1698917623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Offshore wind company pulls out of New Jersey projects, a setback to Biden's green agenda**
+**College Football Playoff Rankings reactions: USC overrated, Michigan underrated in initial top 25**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/31/offshore-wind-new-jersey-orsted-00124661).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reactions-usc-overrated-michigan-underrated-in-initial-top-25/).
 
 ## Requirements
 - Python 3.8
