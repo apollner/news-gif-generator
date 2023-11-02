@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698959123)
+![Generated GIF](output.gif?raw=true&v=1698960824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Tafur: Raiders’ lack of faith in Josh McDaniels, Dave Ziegler went beyond embarrassing losses**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5019995/2023/11/01/raiders-mcdaniels-ziegler-firing-mark-davis/).
 
 ## Requirements
 - Python 3.8
