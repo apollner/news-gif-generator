@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698962739)
+![Generated GIF](output.gif?raw=true&v=1698964418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First flu deaths of 2023-24 season reported in North Carolina, health officials urge vaccination**
+**New lung cancer screening guidelines make millions more eligible for testing**
 
-You can read more about it [here](https://wlos.com/news/local/first-flu-deaths-of-2023-24-season-reported-in-north-carolina-health-officials-urge-vaccination).
+You can read more about it [here](https://www.youtube.com/watch?v=5zm-KEzLGco).
 
 ## Requirements
 - Python 3.8
