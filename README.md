@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698898189)
+![Generated GIF](output.gif?raw=true&v=1698899649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**'Stiletto row' official to appear at Covid inquiry**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67281857).
 
 ## Requirements
 - Python 3.8
