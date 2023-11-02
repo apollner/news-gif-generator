@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698937672)
+![Generated GIF](output.gif?raw=true&v=1698939310)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heidi Klum dresses up as a giant peacock for Halloween after teasing with stripped down photo**
+**NASA's Juno Mission Discovers Organics on Jupiter's Giant Moon Ganymede**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/heidi-klum-dresses-up-giant-peacock-halloween-teasing-stripped-down-photo).
+You can read more about it [here](https://scitechdaily.com/?p=323393).
 
 ## Requirements
 - Python 3.8
