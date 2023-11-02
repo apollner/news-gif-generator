@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698924821)
+![Generated GIF](output.gif?raw=true&v=1698929482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New donors and Republicans are powering RFK Jr.'s 2024 campaign - POLITICO**
+**NASA's Juno Mission Discovers Organics on Jupiter's Giant Moon Ganymede**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/01/rfk-jr-2024-campaign-donors-00124621).
+You can read more about it [here](https://scitechdaily.com/?p=323393).
 
 ## Requirements
 - Python 3.8
