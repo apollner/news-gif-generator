@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698929482)
+![Generated GIF](output.gif?raw=true&v=1698930641)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's Juno Mission Discovers Organics on Jupiter's Giant Moon Ganymede**
+**Donald Trump, Donald Jr., Eric and Ivanka Trump will testify in New York**
 
-You can read more about it [here](https://scitechdaily.com/?p=323393).
+You can read more about it [here](https://www.npr.org/2023/11/01/1209721171/trump-family-take-witness-stand-new-york-civil-fraud-trial).
 
 ## Requirements
 - Python 3.8
