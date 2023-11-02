@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698917623)
+![Generated GIF](output.gif?raw=true&v=1698919758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff Rankings reactions: USC overrated, Michigan underrated in initial top 25**
+**Limited Gaza evacuations via Rafah to be allowed after Qatar brokers deal -source**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reactions-usc-overrated-michigan-underrated-in-initial-top-25/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/qatar-brokers-deal-between-egypt-hamas-israel-limited-gaza-evacuations-source-2023-11-01/).
 
 ## Requirements
 - Python 3.8
