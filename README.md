@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698933997)
+![Generated GIF](output.gif?raw=true&v=1698935695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's Juno Mission Discovers Organics on Jupiter's Giant Moon Ganymede**
+**Federal Reserve set to hold interest rates at 22-year high**
 
-You can read more about it [here](https://scitechdaily.com/?p=323393).
+You can read more about it [here](https://www.ft.com/content/5b01c471-6289-41a0-9044-97b6df48b507).
 
 ## Requirements
 - Python 3.8
