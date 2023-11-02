@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698946445)
+![Generated GIF](output.gif?raw=true&v=1698948584)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Closing arguments begin in Sam Bankman-Fried criminal fraud trial**
+**Who is Antonio Pierce? Raiders tab former NFL linebacker as Josh McDaniels' replacement following firing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dGaVyU1rrFI).
+You can read more about it [here](https://www.cbssports.com/nfl/news/who-is-antonio-pierce-raiders-tab-former-nfl-linebacker-as-josh-mcdaniels-replacement-following-firing/).
 
 ## Requirements
 - Python 3.8
