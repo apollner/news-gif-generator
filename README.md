@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699020479)
+![Generated GIF](output.gif?raw=true&v=1699022149)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MacBook Pro with M3 Max chip on par with M2 Ultra in performance, according to Geekbench tests**
+**Braves start as 2024 favorite, but Ohtani poised to shift odds**
 
-You can read more about it [here](https://9to5mac.com/2023/11/02/m3-max-chip-macbook-pro-performance-geekbench/).
+You can read more about it [here](https://www.espn.com/sports-betting/story/_/id/38799301/braves-start-2024-favorite-ohtani-poised-shift-odds).
 
 ## Requirements
 - Python 3.8
