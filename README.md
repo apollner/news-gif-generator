@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698984593)
+![Generated GIF](output.gif?raw=true&v=1698987987)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans help torpedo resolution to censure Tlaib over Israel criticism**
+**Tommy Tuberville’s Republican colleagues decry his military holds on the Senate floor**
 
-You can read more about it [here](https://thehill.com/homenews/house/4288542-house-kills-rashida-tlaib-censure-vote/).
+You can read more about it [here](https://www.cnn.com/2023/11/01/politics/republican-senators-fight-tuberville/index.html).
 
 ## Requirements
 - Python 3.8
