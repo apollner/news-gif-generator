@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699052734)
+![Generated GIF](output.gif?raw=true&v=1699054411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google is moving Shopping List and other notes into one app to worry about, Keep**
+**New lung cancer screening guidelines increase eligibility for high-risk patients: Should you be screened?**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-is-moving-shopping-list-and-other-notes-into-one-app-to-worry-about-keep/).
+You can read more about it [here](https://www.foxnews.com/health/new-lung-cancer-screening-guidelines-increase-eligibility-high-risk-patients-should-be-screened).
 
 ## Requirements
 - Python 3.8
