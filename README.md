@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699015784)
+![Generated GIF](output.gif?raw=true&v=1699017098)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli losses rise in Gaza as President Biden calls for 'pause' in Hamas war**
+**"Succession" star Alan Ruck crashes into Hollywood pizza restaurant**
 
-You can read more about it [here](https://www.foxnews.com/live-news/november-2-israel-hamas-war).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/ferris-buellers-day-off-succession-star-alan-ruck-crashes-into-hollywood-pizza-restaurant/).
 
 ## Requirements
 - Python 3.8
