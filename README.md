@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699042141)
+![Generated GIF](output.gif?raw=true&v=1699043646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**HBO Boss Casey Bloys Apologizes for Using Fake Twitter Accounts to Troll TV Critics: ‘Dumb Idea’**
+**Putin withdraws Russia's ratification of global nuclear test ban treaty**
 
-You can read more about it [here](https://variety.com/2023/tv/news/hbo-casey-bloys-explains-fake-twitter-accounts-troll-critics-1235775997/).
+You can read more about it [here](https://www.reuters.com/world/europe/putin-revokes-russias-ratification-nuclear-test-ban-treaty-2023-11-02/).
 
 ## Requirements
 - Python 3.8
