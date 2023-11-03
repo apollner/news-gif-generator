@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699027795)
+![Generated GIF](output.gif?raw=true&v=1699029618)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live updates: Trump civil fraud trial continues in New York**
+**The planet is heating up faster than predicted, says scientist who sounded climate alarm in the 1980s**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-02-23/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/02/climate/the-planet-is-heating-up-faster-than-predicted-says-scientist-who-first-warned-the-world-about-climate-change/index.html).
 
 ## Requirements
 - Python 3.8
