@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699032875)
+![Generated GIF](output.gif?raw=true&v=1699034996)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US President Joe Biden calls for 'pause' in Israel-Gaza conflict**
+**Here are the North Texas school districts closed for the Rangers World Series parade**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67294334).
+You can read more about it [here](https://www.wfaa.com/article/news/education/arlington-isd-closed-texas-rangers-world-series-championship-victory-friday-2023/287-56163664-5fda-4868-825b-55bc9b141f4a).
 
 ## Requirements
 - Python 3.8
