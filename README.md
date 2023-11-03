@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698977908)
+![Generated GIF](output.gif?raw=true&v=1698978974)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jury deals blow to Realtors, finding industry practices inflate agent commissions**
+**Are cellphones leading to male infertility? New study makes shocking call**
 
-You can read more about it [here](https://www.oregonlive.com/realestate/2023/11/jury-deals-blow-to-realtors-finding-industry-practices-inflate-agent-commissions.html).
+You can read more about it [here](https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/).
 
 ## Requirements
 - Python 3.8
