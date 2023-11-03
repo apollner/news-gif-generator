@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699045557)
+![Generated GIF](output.gif?raw=true&v=1699047235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World Series 2023: Rangers win first World Series title with 5-0 victory in Game 5**
+**Starbucks holiday menu 2023: Cups, drinks, coffee, food items featured**
 
-You can read more about it [here](https://sports.yahoo.com/texas-rangers-win-world-series-2023-first-title-with-5-0-victory-vs-diamondbacks-in-game-5-161802227.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/02/starbucks-holiday-cups-drinks-coffee/71419579007/).
 
 ## Requirements
 - Python 3.8
