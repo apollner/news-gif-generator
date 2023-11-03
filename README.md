@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698989621)
+![Generated GIF](output.gif?raw=true&v=1698991820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge signals she may postpone Trump’s trial in Mar-a-Lago classified documents case**
+**This Nvidia partner has seen its stock surge 200% this year. But investors may be overlooking a risk.**
 
-You can read more about it [here](https://www.cnn.com/2023/11/01/politics/florida-hearing-trump-mar-a-lago-documents-trial/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/this-nvidia-partner-has-seen-its-stock-surge-200-this-year-but-investors-may-be-overlooking-a-risk-75f0d9b0).
 
 ## Requirements
 - Python 3.8
