@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698968035)
+![Generated GIF](output.gif?raw=true&v=1698971427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chemists make breakthrough in drug discovery chemistry: Two methods to replace carbon with a nitrogen atom in a molecule**
+**New lung cancer screening guidelines make millions more eligible for testing**
 
-You can read more about it [here](https://phys.org/news/2023-11-chemists-breakthrough-drug-discovery-chemistry.html).
+You can read more about it [here](https://www.youtube.com/watch?v=5zm-KEzLGco).
 
 ## Requirements
 - Python 3.8
