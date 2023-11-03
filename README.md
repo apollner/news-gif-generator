@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698996850)
+![Generated GIF](output.gif?raw=true&v=1698999035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**George Santos 'easily' survives vote to expel him from Congress**
+**M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results**
 
-You can read more about it [here](https://www.youtube.com/watch?v=c5dBxa4wdj4).
+You can read more about it [here](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/).
 
 ## Requirements
 - Python 3.8
