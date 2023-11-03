@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699036544)
+![Generated GIF](output.gif?raw=true&v=1699040013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These JBL earbuds are 50% off for an early Black Friday deal — just $50**
+**Live updates: Trump civil fraud trial continues in New York**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/these-jbl-earbuds-are-50-percent-off-for-an-early-black-friday-deal-just-50-165154443.html).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-02-23/index.html).
 
 ## Requirements
 - Python 3.8
