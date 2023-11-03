@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699022149)
+![Generated GIF](output.gif?raw=true&v=1699024109)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Braves start as 2024 favorite, but Ohtani poised to shift odds**
+**Listening to favorite songs can reduce pain as much as Advil, study finds**
 
-You can read more about it [here](https://www.espn.com/sports-betting/story/_/id/38799301/braves-start-2024-favorite-ohtani-poised-shift-odds).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/02/music-relieve-pain-study-benefits/).
 
 ## Requirements
 - Python 3.8
