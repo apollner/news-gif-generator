@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699050844)
+![Generated GIF](output.gif?raw=true&v=1699052734)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US President Joe Biden calls for 'pause' in Israel-Gaza conflict**
+**Google is moving Shopping List and other notes into one app to worry about, Keep**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67294334).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-is-moving-shopping-list-and-other-notes-into-one-app-to-worry-about-keep/).
 
 ## Requirements
 - Python 3.8
