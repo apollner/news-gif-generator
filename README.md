@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699024109)
+![Generated GIF](output.gif?raw=true&v=1699025644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Listening to favorite songs can reduce pain as much as Advil, study finds**
+**HBO Boss Casey Bloys Apologizes for Using Fake Twitter Accounts to Troll TV Critics: ‘Dumb Idea’**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/02/music-relieve-pain-study-benefits/).
+You can read more about it [here](https://variety.com/2023/tv/news/hbo-casey-bloys-explains-fake-twitter-accounts-troll-critics-1235775997/).
 
 ## Requirements
 - Python 3.8
