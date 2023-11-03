@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698980915)
+![Generated GIF](output.gif?raw=true&v=1698982426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hurricane Otis produced 205 mph gust, among strongest ever measured**
+**SAG-AFTRA & Studios Go Back & Forth Over AI As Talks Gain Traction; More Negotiations Set For Thursday – Update**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/01/hurricane-otis-produced-205-mph-wind-gust-among-strongest-ever-measured/).
+You can read more about it [here](https://deadline.com/2023/11/actors-strike-talks-deal-framework-in-place-1235589978/).
 
 ## Requirements
 - Python 3.8
