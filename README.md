@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699043646)
+![Generated GIF](output.gif?raw=true&v=1699045557)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin withdraws Russia's ratification of global nuclear test ban treaty**
+**World Series 2023: Rangers win first World Series title with 5-0 victory in Game 5**
 
-You can read more about it [here](https://www.reuters.com/world/europe/putin-revokes-russias-ratification-nuclear-test-ban-treaty-2023-11-02/).
+You can read more about it [here](https://sports.yahoo.com/texas-rangers-win-world-series-2023-first-title-with-5-0-victory-vs-diamondbacks-in-game-5-161802227.html).
 
 ## Requirements
 - Python 3.8
