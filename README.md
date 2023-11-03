@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699004018)
+![Generated GIF](output.gif?raw=true&v=1699006138)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Negotiations to Continue Thursday**
+**Spacewalk Snafu: Astronauts Lose Tool Bag in Orbital Oopsy**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-continue-thursday-1235634602/).
+You can read more about it [here](https://scitechdaily.com/?p=323964).
 
 ## Requirements
 - Python 3.8
