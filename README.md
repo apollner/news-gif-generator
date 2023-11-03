@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699034996)
+![Generated GIF](output.gif?raw=true&v=1699036544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here are the North Texas school districts closed for the Rangers World Series parade**
+**These JBL earbuds are 50% off for an early Black Friday deal — just $50**
 
-You can read more about it [here](https://www.wfaa.com/article/news/education/arlington-isd-closed-texas-rangers-world-series-championship-victory-friday-2023/287-56163664-5fda-4868-825b-55bc9b141f4a).
+You can read more about it [here](https://www.yahoo.com/lifestyle/these-jbl-earbuds-are-50-percent-off-for-an-early-black-friday-deal-just-50-165154443.html).
 
 ## Requirements
 - Python 3.8
