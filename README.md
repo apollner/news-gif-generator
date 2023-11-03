@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698978974)
+![Generated GIF](output.gif?raw=true&v=1698980915)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Are cellphones leading to male infertility? New study makes shocking call**
+**Hurricane Otis produced 205 mph gust, among strongest ever measured**
 
-You can read more about it [here](https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/01/hurricane-otis-produced-205-mph-wind-gust-among-strongest-ever-measured/).
 
 ## Requirements
 - Python 3.8
