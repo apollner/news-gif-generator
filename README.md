@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699000448)
+![Generated GIF](output.gif?raw=true&v=1699002441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results**
+**Israeli settler attacks fuel the fire as Gaza war rages**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-settler-attacks-fuel-fire-gaza-war-rages-2023-11-02/).
 
 ## Requirements
 - Python 3.8
