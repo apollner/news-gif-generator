@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699047235)
+![Generated GIF](output.gif?raw=true&v=1699049142)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Starbucks holiday menu 2023: Cups, drinks, coffee, food items featured**
+**Macs With M3 Chip Still Officially Support Only a Single External Display**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/02/starbucks-holiday-cups-drinks-coffee/71419579007/).
+You can read more about it [here](https://www.macrumors.com/2023/11/02/m3-chip-still-supports-one-external-display/).
 
 ## Requirements
 - Python 3.8
