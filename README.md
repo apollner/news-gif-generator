@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1698971427)
+![Generated GIF](output.gif?raw=true&v=1698975330)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New lung cancer screening guidelines make millions more eligible for testing**
+**House considers censures against Rashida Tlaib and Marjorie Taylor Greene over inflammatory rhetoric**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5zm-KEzLGco).
+You can read more about it [here](https://www.pbs.org/newshour/politics/house-considers-censures-against-rashida-tlaib-and-marjorie-taylor-greene-over-inflammatory-rhetoric).
 
 ## Requirements
 - Python 3.8
