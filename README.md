@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699117560)
+![Generated GIF](output.gif?raw=true&v=1699119227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apollo astronaut Ken Mattingly, who helped save the crew of Apollo 13, has died**
+**Russia launches huge drone attack on Ukraine infrastructure; Moscow dismisses U.S. sanctions**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/us/ken-mattingly-death-apollo-astronaut-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/03/live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
