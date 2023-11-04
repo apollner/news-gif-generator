@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699110333)
+![Generated GIF](output.gif?raw=true&v=1699112158)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why OLED monitor burn-in isn’t a huge problem anymore**
+**Matthew Perry Foundation Established to Help Those Struggling With Addiction**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
+You can read more about it [here](https://variety.com/2023/tv/news/matthew-perry-foundation-established-addiction-1235778970/).
 
 ## Requirements
 - Python 3.8
