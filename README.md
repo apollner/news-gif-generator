@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699061635)
+![Generated GIF](output.gif?raw=true&v=1699064197)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lisa Marie Presley Slammed Sofia Coppola’s ‘Priscilla’ Script as ‘Vengeful and Contemptuous’ for Elvis Depiction Before She Died (EXCLUSIVE)**
+**Aerosmith's Steven Tyler accused of sexual assault by former teen model**
 
-You can read more about it [here](https://variety.com/2023/film/news/lisa-marie-presley-slammed-sofia-coppola-priscilla-script-1235777982/).
+You can read more about it [here](https://www.foxnews.com/entertainment/aerosmiths-steven-tyler-accused-sexual-assault-former-teen-model).
 
 ## Requirements
 - Python 3.8
