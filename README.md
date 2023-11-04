@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699054411)
+![Generated GIF](output.gif?raw=true&v=1699057806)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New lung cancer screening guidelines increase eligibility for high-risk patients: Should you be screened?**
+**Toyota recalls 1.8M RAV4 SUVs over fire risk**
 
-You can read more about it [here](https://www.foxnews.com/health/new-lung-cancer-screening-guidelines-increase-eligibility-high-risk-patients-should-be-screened).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-auto/toyota-recalls-1-8m-rav4-suvs-fire-risk).
 
 ## Requirements
 - Python 3.8
