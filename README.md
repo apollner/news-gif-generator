@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699133612)
+![Generated GIF](output.gif?raw=true&v=1699135528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andy Cohen Kills Bethenny Frankel With Kindness, Calls Vanity Fair Story an ‘Inaccurate Rehash’ at BravoCon**
+**Amazon Founder Jeff Bezos to Leave Seattle for Miami - WSJ**
 
-You can read more about it [here](https://variety.com/2023/tv/news/andy-cohen-bravocon-vanity-fair-reality-reckoning-1235779020/).
+You can read more about it [here](https://www.wsj.com/business/amazon-founder-jeff-bezos-sets-move-to-miami-after-decades-in-seattle-441fae8d).
 
 ## Requirements
 - Python 3.8
