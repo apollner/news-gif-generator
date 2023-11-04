@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699094024)
+![Generated GIF](output.gif?raw=true&v=1699095883)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tennessee Titans vs. Pittsburgh Steelers | 2023 Week 9 Game Highlights**
+**New US sanctions over Russia-Ukraine war target Lancet drones**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiCzB0ZmI4Z0phVHV3mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzExLzMvbmV3LXVzLXNhbmN0aW9ucy1vdmVyLXJ1c3NpYS11a3JhaW5lLXdhci10YXJnZXQtbGFuY2V0LWRyb25lc9IBamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMS8zL25ldy11cy1zYW5jdGlvbnMtb3Zlci1ydXNzaWEtdWtyYWluZS13YXItdGFyZ2V0LWxhbmNldC1kcm9uZXM?oc=5).
 
 ## Requirements
 - Python 3.8
