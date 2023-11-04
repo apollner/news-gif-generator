@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699135528)
+![Generated GIF](output.gif?raw=true&v=1699137238)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon Founder Jeff Bezos to Leave Seattle for Miami - WSJ**
+**Sam Bankman-Fried trial jury took 4 hours to deliberate, find him guilty on all charges**
 
-You can read more about it [here](https://www.wsj.com/business/amazon-founder-jeff-bezos-sets-move-to-miami-after-decades-in-seattle-441fae8d).
+You can read more about it [here](https://www.youtube.com/watch?v=pKqwm7jPS70).
 
 ## Requirements
 - Python 3.8
