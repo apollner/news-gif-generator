@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699057806)
+![Generated GIF](output.gif?raw=true&v=1699061635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Toyota recalls 1.8M RAV4 SUVs over fire risk**
+**Lisa Marie Presley Slammed Sofia Coppola’s ‘Priscilla’ Script as ‘Vengeful and Contemptuous’ for Elvis Depiction Before She Died (EXCLUSIVE)**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-auto/toyota-recalls-1-8m-rav4-suvs-fire-risk).
+You can read more about it [here](https://variety.com/2023/film/news/lisa-marie-presley-slammed-sofia-coppola-priscilla-script-1235777982/).
 
 ## Requirements
 - Python 3.8
