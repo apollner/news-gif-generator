@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699097619)
+![Generated GIF](output.gif?raw=true&v=1699099906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Surprise Discovery Reveals a Whole New Source of Evaporation**
+**House approves nearly $14.5 billion in military aid for Israel**
 
-You can read more about it [here](https://www.sciencealert.com/surprise-discovery-reveals-a-whole-new-source-of-evaporation).
+You can read more about it [here](https://www.npr.org/2023/11/03/1210386678/house-approves-military-aid-israel).
 
 ## Requirements
 - Python 3.8
