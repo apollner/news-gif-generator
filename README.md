@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699064197)
+![Generated GIF](output.gif?raw=true&v=1699065320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aerosmith's Steven Tyler accused of sexual assault by former teen model**
+**Thursday Night Football odds, spread, line: Steelers vs. Titans picks, NFL predictions by expert on 59-29 run**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/aerosmiths-steven-tyler-accused-sexual-assault-former-teen-model).
+You can read more about it [here](https://www.cbssports.com/nfl/news/thursday-night-football-odds-spread-line-steelers-vs-titans-picks-nfl-predictions-by-expert-on-59-29-run/).
 
 ## Requirements
 - Python 3.8
