@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699112158)
+![Generated GIF](output.gif?raw=true&v=1699114078)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry Foundation Established to Help Those Struggling With Addiction**
+**Sam Bankman-Fried found guilty of defrauding FTX customers, investors, and lenders**
 
-You can read more about it [here](https://variety.com/2023/tv/news/matthew-perry-foundation-established-addiction-1235778970/).
+You can read more about it [here](https://finance.yahoo.com/news/sam-bankman-fried-found-guilty-of-defrauding-ftx-customers-investors-and-lenders-001855503.html).
 
 ## Requirements
 - Python 3.8
