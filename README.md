@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699122837)
+![Generated GIF](output.gif?raw=true&v=1699124673)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US labor market loosens as job gains slow, unemployment rate hits 3.9%**
+**As Israel-Hamas war intensifies, so does antisemitism and Islamophobia on college campuses**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-job-growth-slows-october-unemployment-rate-rises-39-2023-11-03/).
+You can read more about it [here](https://news.yahoo.com/israel-hamas-war-antisemitism-muslim-threats-college-campuses-cornell-204401691.html).
 
 ## Requirements
 - Python 3.8
