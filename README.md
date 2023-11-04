@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699115778)
+![Generated GIF](output.gif?raw=true&v=1699117560)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried found guilty of defrauding FTX customers, investors, and lenders**
+**Apollo astronaut Ken Mattingly, who helped save the crew of Apollo 13, has died**
 
-You can read more about it [here](https://finance.yahoo.com/news/sam-bankman-fried-found-guilty-of-defrauding-ftx-customers-investors-and-lenders-001855503.html).
+You can read more about it [here](https://www.cnn.com/2023/11/03/us/ken-mattingly-death-apollo-astronaut-scn/index.html).
 
 ## Requirements
 - Python 3.8
