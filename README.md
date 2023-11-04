@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699076012)
+![Generated GIF](output.gif?raw=true&v=1699078171)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside Gerry’s Season of ‘The Golden Bachelor’: From First Kiss to “Knockin’ Boots” in the Fantasy Suites**
+**Tyrese Maxey Reacts to James Harden Trade | NBA GameTime**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtZ29sZGVuLWJhY2hlbG9yLWNhc3RpbmctZmFudGFzeS1zdWl0ZXMtZ29sZGVuLWJhY2hlbG9yZXR0ZS0xMjM1NjM1ODM2L9IBf2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtZ29sZGVuLWJhY2hlbG9yLWNhc3RpbmctZmFudGFzeS1zdWl0ZXMtZ29sZGVuLWJhY2hlbG9yZXR0ZS0xMjM1NjM1ODM2L2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2Y3T3N1RmtGdXI0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
