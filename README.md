@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699121367)
+![Generated GIF](output.gif?raw=true&v=1699122837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**YouTube's Ad Blocker Crackdown Spurs Record Uninstalls**
+**US labor market loosens as job gains slow, unemployment rate hits 3.9%**
 
-You can read more about it [here](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/).
+You can read more about it [here](https://www.reuters.com/markets/us/us-job-growth-slows-october-unemployment-rate-rises-39-2023-11-03/).
 
 ## Requirements
 - Python 3.8
