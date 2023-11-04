@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699131913)
+![Generated GIF](output.gif?raw=true&v=1699133612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI agents raid home of NYC Mayor Adams' key fundraiser**
+**Andy Cohen Kills Bethenny Frankel With Kindness, Calls Vanity Fair Story an ‘Inaccurate Rehash’ at BravoCon**
 
-You can read more about it [here](https://gothamist.com/news/fbi-agents-seen-at-home-of-nyc-mayor-adams-top-fundraiser-in-reported-raid).
+You can read more about it [here](https://variety.com/2023/tv/news/andy-cohen-bravocon-vanity-fair-reality-reckoning-1235779020/).
 
 ## Requirements
 - Python 3.8
