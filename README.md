@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699137238)
+![Generated GIF](output.gif?raw=true&v=1699139164)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Bankman-Fried trial jury took 4 hours to deliberate, find him guilty on all charges**
+**Republicans, fed up with Tuberville, plot ways to bust his military blockade**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pKqwm7jPS70).
+You can read more about it [here](https://www.politico.com/news/2023/11/03/republicans-fed-up-with-tuberville-plot-ways-to-bust-his-military-blockade-00125289).
 
 ## Requirements
 - Python 3.8
