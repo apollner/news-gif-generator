@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699106685)
+![Generated GIF](output.gif?raw=true&v=1699108473)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Economy Added 150,000 Jobs in October - WSJ**
+**An anti-Trump group produced four ads attacking his legal troubles. They backfired.**
 
-You can read more about it [here](https://www.wsj.com/economy/jobs/what-to-watch-in-fridays-jobs-report-how-long-can-labor-market-keep-booming-344f5a1a).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTEvMDMvYW50aS10cnVtcC1ncm91cC1hZHMtYmFja2ZpcmVkLTAwMTI1MDg30gEA?oc=5).
 
 ## Requirements
 - Python 3.8
