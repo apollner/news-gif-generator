@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699128390)
+![Generated GIF](output.gif?raw=true&v=1699130026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA telescope reveals 7 new planets orbiting distant star "hotter than the sun"**
+**Former Trump State Department appointee sentenced to 70 months in prison after assaulting police officers at US Capitol**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-telescope-reveals-new-planets-kepler/).
+You can read more about it [here](https://www.cnn.com/2023/11/03/politics/federico-klein-trump-state-department-january-6-us-capitol/index.html).
 
 ## Requirements
 - Python 3.8
