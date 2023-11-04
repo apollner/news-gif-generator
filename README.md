@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699078171)
+![Generated GIF](output.gif?raw=true&v=1699079625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyrese Maxey Reacts to James Harden Trade | NBA GameTime**
+**House passes resolution disavowing antisemitism, support for Hamas on campuses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2Y3T3N1RmtGdXI0mAEB?oc=5).
+You can read more about it [here](https://www.politico.com/news/2023/11/02/house-antisemitism-hamas-college-campuses-00125135).
 
 ## Requirements
 - Python 3.8
