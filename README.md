@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699182303)
+![Generated GIF](output.gif?raw=true&v=1699184086)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dow Jones Futures: After Big Market Rally, What To Do; Warren Buffett's Berkshire, Nvidia In Focus**
+**Call of Duty: Modern Warfare 3's First PS5, PS4 Campaign Review Is a Massacre**
 
-You can read more about it [here](https://www.investors.com/market-trend/dow-jones-futures-after-big-market-rally-warren-buffett-berkshire-nvidia-in-focus/).
+You can read more about it [here](https://www.pushsquare.com/news/2023/11/call-of-duty-modern-warfare-3s-first-ps5-ps4-campaign-review-is-a-massacre).
 
 ## Requirements
 - Python 3.8
