@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699223703)
+![Generated GIF](output.gif?raw=true&v=1699225564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kourtney Kardashian and Travis Barker Welcome First Child Together**
+**French police hunt suspect in stabbing of Jewish woman**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/kourtney-kardashian-travis-barker-first-child-birth-1234816700/).
+You can read more about it [here](https://www.reuters.com/world/europe/french-police-hunt-suspect-stabbing-jewish-woman-2023-11-04/).
 
 ## Requirements
 - Python 3.8
