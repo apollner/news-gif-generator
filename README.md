@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699144391)
+![Generated GIF](output.gif?raw=true&v=1699148927)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA’s Lucy mission went to visit an asteroid and got more than it bargained for**
+**Google Meet now lets enterprise users make direct calls without sending a link**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/world/lucy-dinkinesh-binary-pair-scn/index.html).
+You can read more about it [here](https://9to5google.com/2023/11/03/google-meet-enterprise-calls/).
 
 ## Requirements
 - Python 3.8
