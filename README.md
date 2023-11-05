@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699188369)
+![Generated GIF](output.gif?raw=true&v=1699189660)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video shows aftermath of Nepal earthquake that killed dozens**
+**Sagittarius Horoscope Today: November 4, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0jR0QyR84ks).
+You can read more about it [here](https://www.vogue.in/horoscope/product/sagittarius-horoscope-today-november-4-2023/).
 
 ## Requirements
 - Python 3.8
