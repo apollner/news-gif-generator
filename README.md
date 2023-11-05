@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699164571)
+![Generated GIF](output.gif?raw=true&v=1699167923)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles rule out four players for Cowboys game on Sunday**
+**Mortgage rates are dropping fast after a shock jobs report set off a series of dominoes on Wall Street—The housing market can thank Detroit's striking auto workers**
 
-You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-rule-out-four-players-for-cowboys-game-on-sunday/544351/).
+You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-dropping-fast-shock-220111915.html).
 
 ## Requirements
 - Python 3.8
