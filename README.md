@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699184086)
+![Generated GIF](output.gif?raw=true&v=1699186329)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Call of Duty: Modern Warfare 3's First PS5, PS4 Campaign Review Is a Massacre**
+**Judge orders anonymous jury for E. Jean Carroll case against Trump**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/11/call-of-duty-modern-warfare-3s-first-ps5-ps4-campaign-review-is-a-massacre).
+You can read more about it [here](https://abcnews.go.com/Politics/judge-orders-anonymous-jury-jean-carroll-case-trump/story?id=104621651).
 
 ## Requirements
 - Python 3.8
