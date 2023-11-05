@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699218289)
+![Generated GIF](output.gif?raw=true&v=1699220035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Argued Safari Is Three Different Browsers to Avoid Regulation**
+**Expanded Group of Studio Leaders to Attend SAG-AFTRA Bargaining Session on Saturday**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/04/apple-argued-safari-is-three-different-browsers/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/expanded-group-studio-leaders-attend-sag-aftra-bargaining-session-saturday-1235637065/).
 
 ## Requirements
 - Python 3.8
