@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699221914)
+![Generated GIF](output.gif?raw=true&v=1699223703)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Logan Paul is the NEW United States Champion!: WWE Crown Jewel 2023 highlights**
+**Kourtney Kardashian and Travis Barker Welcome First Child Together**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ZWZJ4vGwSew).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/kourtney-kardashian-travis-barker-first-child-birth-1234816700/).
 
 ## Requirements
 - Python 3.8
