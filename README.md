@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699194815)
+![Generated GIF](output.gif?raw=true&v=1699196728)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Connor Stalions, Michigan football staffer at center of sign-stealing scandal, resigns**
+**Former Guinea dictator Camara escapes from prison in jailbreak, justice minister says**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/bigten/2023/11/03/michigan-fires-football-staffer-connor-stalions-sign-stealing-scandal/71444251007/).
+You can read more about it [here](https://www.france24.com/en/africa/20231104-former-guinea-dictator-camara-escapes-from-prison-in-jailbreak-justice-minister-says).
 
 ## Requirements
 - Python 3.8
