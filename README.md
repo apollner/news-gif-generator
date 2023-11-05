@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699173211)
+![Generated GIF](output.gif?raw=true&v=1699175158)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Militants attack air force base in central Pakistan**
+**Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints**
 
-You can read more about it [here](https://www.jpost.com/breaking-news/article-771638).
+You can read more about it [here](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored).
 
 ## Requirements
 - Python 3.8
