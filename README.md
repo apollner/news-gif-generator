@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699196728)
+![Generated GIF](output.gif?raw=true&v=1699198437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Guinea dictator Camara escapes from prison in jailbreak, justice minister says**
+**Sheryl Crow, Chaka Khan and more inducted into Rock & Roll Hall of Fame**
 
-You can read more about it [here](https://www.france24.com/en/africa/20231104-former-guinea-dictator-camara-escapes-from-prison-in-jailbreak-justice-minister-says).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/sheryl-crow-inducted-rock-roll-hall-fame-carrie-104624881).
 
 ## Requirements
 - Python 3.8
