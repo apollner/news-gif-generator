@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699200526)
+![Generated GIF](output.gif?raw=true&v=1699202208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**40-year-old dad who has bought and sold 3 homes doesn’t see how he can save enough for this housing market: ‘It’s not avocado toast’**
+**Sheryl Crow, Chaka Khan and more inducted into Rock & Roll Hall of Fame**
 
-You can read more about it [here](https://fortune.com/2023/11/04/housing-market-affordability-40-year-old-dad-200000-earnings-cant-save-avocado-toast/).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/sheryl-crow-inducted-rock-roll-hall-fame-carrie-104624881).
 
 ## Requirements
 - Python 3.8
