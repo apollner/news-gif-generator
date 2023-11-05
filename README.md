@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699202208)
+![Generated GIF](output.gif?raw=true&v=1699205630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sheryl Crow, Chaka Khan and more inducted into Rock & Roll Hall of Fame**
+**No. 7 Texas vs. No. 23 Kansas State live updates: AD Mitchell catches 37-yard TD pass for 7-0 lead**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/sheryl-crow-inducted-rock-roll-hall-fame-carrie-104624881).
+You can read more about it [here](https://www.burntorangenation.com/2023/11/4/23946220/texas-longhorns-kansas-state-wildcats-live-updates-scores-injuries).
 
 ## Requirements
 - Python 3.8
