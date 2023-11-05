@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699225564)
+![Generated GIF](output.gif?raw=true&v=1699227223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**French police hunt suspect in stabbing of Jewish woman**
+**Guinea's former dictator Camara recaptured hours after jailbreak**
 
-You can read more about it [here](https://www.reuters.com/world/europe/french-police-hunt-suspect-stabbing-jewish-woman-2023-11-04/).
+You can read more about it [here](https://www.france24.com/en/africa/20231104-guinea-s-former-dictator-camara-recaptured-hours-after-jailbreak).
 
 ## Requirements
 - Python 3.8
