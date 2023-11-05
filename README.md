@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699171771)
+![Generated GIF](output.gif?raw=true&v=1699173211)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nepal earthquake kills at least 128, toll could rise, officials say**
+**Militants attack air force base in central Pakistan**
 
-You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-771638).
 
 ## Requirements
 - Python 3.8
