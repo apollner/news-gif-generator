@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699191274)
+![Generated GIF](output.gif?raw=true&v=1699193124)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry’s family and friends attend late actor's funeral | 9 News Australia**
+**Blinken to meet Arab leaders as heavy fighting rages in Gaza**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fyXRlST_gS4).
+You can read more about it [here](https://www.ft.com/content/d301c852-6160-4be2-80b0-46b26c7066e5).
 
 ## Requirements
 - Python 3.8
