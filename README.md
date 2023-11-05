@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699176822)
+![Generated GIF](output.gif?raw=true&v=1699178848)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Killing of Palestinian farmer adds to growing concerns over settler violence in West Bank**
+**Former crypto mogul Sam Bankman-Fried facing 110 years in prison**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-west-bank-palestinians-violence-settlers-tensions/).
+You can read more about it [here](https://www.youtube.com/watch?v=WgKDkduJYNw).
 
 ## Requirements
 - Python 3.8
