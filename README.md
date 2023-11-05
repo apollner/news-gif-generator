@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699162420)
+![Generated GIF](output.gif?raw=true&v=1699164571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US spy planes search scour Gaza for Israeli, US and other hostages**
+**Eagles rule out four players for Cowboys game on Sunday**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/11/03/spy-planes-hostages-drones-gaza/71442206007/).
+You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-rule-out-four-players-for-cowboys-game-on-sunday/544351/).
 
 ## Requirements
 - Python 3.8
