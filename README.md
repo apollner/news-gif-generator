@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699148927)
+![Generated GIF](output.gif?raw=true&v=1699150867)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google Meet now lets enterprise users make direct calls without sending a link**
+**NBA In-Season Tournament Tracker: Live updates, standings & schedule**
 
-You can read more about it [here](https://9to5google.com/2023/11/03/google-meet-enterprise-calls/).
+You can read more about it [here](https://www.nba.com/news/2023-nba-in-season-tournament-tracker).
 
 ## Requirements
 - Python 3.8
