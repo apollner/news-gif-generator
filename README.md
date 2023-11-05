@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699167923)
+![Generated GIF](output.gif?raw=true&v=1699169615)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortgage rates are dropping fast after a shock jobs report set off a series of dominoes on Wall Street—The housing market can thank Detroit's striking auto workers**
+**Tom Sandoval Booed Continuously at ‘Vanderpump Rules’ Panel at BravoCon; First Season 11 Trailer Released**
 
-You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-dropping-fast-shock-220111915.html).
+You can read more about it [here](https://variety.com/2023/tv/news/vanderpump-rules-panel-bravocon-1235778903/).
 
 ## Requirements
 - Python 3.8
