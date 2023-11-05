@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699155350)
+![Generated GIF](output.gif?raw=true&v=1699157356)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Santos Sends Typo-Laden Thank-You Notes to Reps Who Voted Against His Expulsion**
+**Everything announced at BlizzCon 2023: Diablo 4 DLC, Cataclysm Classic, and more**
 
-You can read more about it [here](https://www.thedailybeast.com/george-santos-sends-typo-laden-thank-yous-to-reps-who-voted-against-expulsion).
+You can read more about it [here](https://www.digitaltrends.com/gaming/everything-announced-at-blizzcon-2023/).
 
 ## Requirements
 - Python 3.8
