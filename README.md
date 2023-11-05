@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699186329)
+![Generated GIF](output.gif?raw=true&v=1699188369)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge orders anonymous jury for E. Jean Carroll case against Trump**
+**Video shows aftermath of Nepal earthquake that killed dozens**
 
-You can read more about it [here](https://abcnews.go.com/Politics/judge-orders-anonymous-jury-jean-carroll-case-trump/story?id=104621651).
+You can read more about it [here](https://www.youtube.com/watch?v=0jR0QyR84ks).
 
 ## Requirements
 - Python 3.8
