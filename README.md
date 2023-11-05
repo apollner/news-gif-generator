@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699169615)
+![Generated GIF](output.gif?raw=true&v=1699171771)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tom Sandoval Booed Continuously at ‘Vanderpump Rules’ Panel at BravoCon; First Season 11 Trailer Released**
+**Nepal earthquake kills at least 128, toll could rise, officials say**
 
-You can read more about it [here](https://variety.com/2023/tv/news/vanderpump-rules-panel-bravocon-1235778903/).
+You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
 
 ## Requirements
 - Python 3.8
