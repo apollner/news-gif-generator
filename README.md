@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699304799)
+![Generated GIF](output.gif?raw=true&v=1699306414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 300 Americans got out of Gaza, more remain, White House says**
+**RB Dare Ogunbowale kicks 29-yard FG to give Texans the lead**
 
-You can read more about it [here](https://news.yahoo.com/more-300-americans-got-gaza-142220832.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-dare-ogunbowale-kicks-29-yard-fg-to-give-texans-the-lead).
 
 ## Requirements
 - Python 3.8
