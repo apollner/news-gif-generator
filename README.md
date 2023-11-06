@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699268749)
+![Generated GIF](output.gif?raw=true&v=1699270442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blinken seeks to contain Israel-Hamas war; meets with Middle East leaders in Jordan**
+**SAG-AFTRA Evaluating Studios’ “Last, Best and Final Offer”**
 
-You can read more about it [here](https://www.cbsnews.com/news/blinken-seeks-to-contain-israel-hamas-war-meets-with-middle-east-leaders-in-jordan/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/expanded-group-studio-leaders-attend-sag-aftra-bargaining-session-saturday-1235637065/).
 
 ## Requirements
 - Python 3.8
