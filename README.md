@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699263249)
+![Generated GIF](output.gif?raw=true&v=1699265357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 9 bold predictions: Colts snap 7-game losing skid vs. NFC; Lamar Jackson dominates strong Seattle 'D'**
+**Horoscope for Sunday, Nov. 5, 2023**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-bold-predictions-colts-snap-7-game-losing-skid-vs-nfc-lamar-jackson-dominates-strong-seattle-d/).
+You can read more about it [here](https://chicago.suntimes.com/2023/11/5/23944102/horoscopes-today-sunday-nov-5-2023).
 
 ## Requirements
 - Python 3.8
