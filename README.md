@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699288804)
+![Generated GIF](output.gif?raw=true&v=1699290382)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Afghan opium poppy cultivation plunges by 95 percent under Taliban: UN**
+**Johnson's first moves show he'll stick with House GOP hard-liners**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/afghan-opium-poppy-cultivation-plunges-by-95-percent-under-taliban-un).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/11/05/mike-johnson-spending-gop-house/).
 
 ## Requirements
 - Python 3.8
