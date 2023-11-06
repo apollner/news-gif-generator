@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699256024)
+![Generated GIF](output.gif?raw=true&v=1699258276)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arab Muslim student struck in hit-and-run as Stanford University investigates spate of hate crime incidents**
+**SAG-AFTRA Evaluating Studios’ “Last, Best and Final Offer”**
 
-You can read more about it [here](https://www.cnn.com/2023/11/04/us/stanford-university-hate-crime-investigations/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/expanded-group-studio-leaders-attend-sag-aftra-bargaining-session-saturday-1235637065/).
 
 ## Requirements
 - Python 3.8
