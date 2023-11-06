@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699310017)
+![Generated GIF](output.gif?raw=true&v=1699312020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
+**Should you be drinking lemon water everyday? Experts weigh in**
 
-You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
+You can read more about it [here](https://nypost.com/2023/11/05/lifestyle/should-you-be-drinking-lemon-water-everyday-experts-weigh-in/).
 
 ## Requirements
 - Python 3.8
