@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699251066)
+![Generated GIF](output.gif?raw=true&v=1699252588)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine mass shooter was likely alive for most of massive 2-day search**
+**M3 Pro Chip Barely Faster Than M2 Pro in Unverified Benchmark Result**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/11/04/metro/maine-mass-shooter-likely-shot-himself-8-12-hours-before-his-body-was-found-according-medical-examiner/).
+You can read more about it [here](https://www.macrumors.com/2023/11/05/m3-pro-chip-benchmark-result/).
 
 ## Requirements
 - Python 3.8
