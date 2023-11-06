@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699270442)
+![Generated GIF](output.gif?raw=true&v=1699272835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Evaluating Studios’ “Last, Best and Final Offer”**
+**LSU vs. Alabama highlights: Top moments from Crimson Tide's victory**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/expanded-group-studio-leaders-attend-sag-aftra-bargaining-session-saturday-1235637065/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/04/lsu-alabama-college-football-highlights-scores-live-updates/71440771007/).
 
 ## Requirements
 - Python 3.8
