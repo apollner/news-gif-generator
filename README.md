@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699312020)
+![Generated GIF](output.gif?raw=true&v=1699313631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Should you be drinking lemon water everyday? Experts weigh in**
+**Israel’s military claims it has cut Gaza in half, surrounded Gaza City**
 
-You can read more about it [here](https://nypost.com/2023/11/05/lifestyle/should-you-be-drinking-lemon-water-everyday-experts-weigh-in/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/israels-military-claims-it-has-cut-gaza-in-half-surrounded-gaza-city).
 
 ## Requirements
 - Python 3.8
