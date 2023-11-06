@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699279612)
+![Generated GIF](output.gif?raw=true&v=1699281484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See fireballs in the sky when the Southern Taurid meteor shower peaks this weekend**
+**Chiefs-Dolphins score in Germany: Live updates, highlights, top plays**
 
-You can read more about it [here](https://www.cnn.com/2023/11/05/world/southern-taurid-meteor-shower-november-fireball-scn/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/11/05/nfl-chiefs-dolphins-germany-updates-score-highlights/71442894007/).
 
 ## Requirements
 - Python 3.8
