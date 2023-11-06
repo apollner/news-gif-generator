@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699283353)
+![Generated GIF](output.gif?raw=true&v=1699284836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kyle Richards Refers to Split With Mauricio Umansky as 'Divorce'**
+**Matthew Perry buried alongside Paul Walker, Carrie Fisher at famous cemetery**
 
-You can read more about it [here](https://www.tmz.com/2023/11/05/kyle-richards-mauricio-umansky-divorce-bravocon-split/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/tv/matthew-perry-buried-alongside-paul-walker-carrie-fisher-at-famous-hollywood-cemetery-101699186662244.html).
 
 ## Requirements
 - Python 3.8
