@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699290382)
+![Generated GIF](output.gif?raw=true&v=1699292035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Johnson's first moves show he'll stick with House GOP hard-liners**
+**One year until Election 2024**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/11/05/mike-johnson-spending-gop-house/).
+You can read more about it [here](https://www.youtube.com/watch?v=Gb3LWi4ECZk).
 
 ## Requirements
 - Python 3.8
