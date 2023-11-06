@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699245291)
+![Generated GIF](output.gif?raw=true&v=1699247287)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No. 5 UW uses explosive offense to outlast No. 24 USC in epic shootout**
+**College football scores, rankings, highlights: Michigan, Oregon cruise to easy wins**
 
-You can read more about it [here](https://www.seattletimes.com/sports/uw-husky-football/no-5-uw-uses-explosive-offense-to-outlast-no-24-usc-in-epic-shootout/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-scores-rankings-highlights-michigan-oregon-cruise-to-easy-wins/live/).
 
 ## Requirements
 - Python 3.8
