@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699284836)
+![Generated GIF](output.gif?raw=true&v=1699287057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry buried alongside Paul Walker, Carrie Fisher at famous cemetery**
+**NFL Week 9 picks and predictions: Cowboys stun Eagles, Ravens edge Seahawks**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/tv/matthew-perry-buried-alongside-paul-walker-carrie-fisher-at-famous-hollywood-cemetery-101699186662244.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-picks-and-predictions-cowboys-stun-eagles-ravens-edge-seahawks/).
 
 ## Requirements
 - Python 3.8
