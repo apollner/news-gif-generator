@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699238373)
+![Generated GIF](output.gif?raw=true&v=1699240209)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scott: 'Obama is dead wrong' on Israel-Hamas conflict**
+**Arab Muslim student struck in hit-and-run as Stanford University investigates spate of hate crime incidents**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/04/tim-scott-obama-israel-hamas-00125401).
+You can read more about it [here](https://www.cnn.com/2023/11/04/us/stanford-university-hate-crime-investigations/index.html).
 
 ## Requirements
 - Python 3.8
