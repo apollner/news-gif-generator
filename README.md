@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699234750)
+![Generated GIF](output.gif?raw=true&v=1699237280)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine hits shipyard in Crimea's Kerch, damages ship, Russian defence ministry says**
+**Arab Muslim student struck in hit-and-run as Stanford University investigates spate of hate crime incidents**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukraine-hits-shipyard-crimeas-kerch-damages-ship-russian-defence-ministry-2023-11-04/).
+You can read more about it [here](https://www.cnn.com/2023/11/04/us/stanford-university-hate-crime-investigations/index.html).
 
 ## Requirements
 - Python 3.8
