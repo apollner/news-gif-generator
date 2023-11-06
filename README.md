@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699292035)
+![Generated GIF](output.gif?raw=true&v=1699294199)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**One year until Election 2024**
+**NFL Week 9 odds, expert picks, best bets, teasers, spreads, survivor picks, TV, streaming, more**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Gb3LWi4ECZk).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-tv-streaming-more/).
 
 ## Requirements
 - Python 3.8
