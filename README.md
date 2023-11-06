@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699302809)
+![Generated GIF](output.gif?raw=true&v=1699304799)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 9**
+**More than 300 Americans got out of Gaza, more remain, White House says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=E9t05pXwIZQ).
+You can read more about it [here](https://news.yahoo.com/more-300-americans-got-gaza-142220832.html).
 
 ## Requirements
 - Python 3.8
