@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699287057)
+![Generated GIF](output.gif?raw=true&v=1699288804)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 9 picks and predictions: Cowboys stun Eagles, Ravens edge Seahawks**
+**Afghan opium poppy cultivation plunges by 95 percent under Taliban: UN**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-picks-and-predictions-cowboys-stun-eagles-ravens-edge-seahawks/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/afghan-opium-poppy-cultivation-plunges-by-95-percent-under-taliban-un).
 
 ## Requirements
 - Python 3.8
