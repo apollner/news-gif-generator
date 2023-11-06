@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699230706)
+![Generated GIF](output.gif?raw=true&v=1699234750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA “Reviewing” Studios’ “Last, Best, And Final Offer” After Expanded CEO Meeting Today – Update**
+**Ukraine hits shipyard in Crimea's Kerch, damages ship, Russian defence ministry says**
 
-You can read more about it [here](https://deadline.com/2023/11/actors-strike-studio-proposal-ceo-meeting-1235593291/).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-hits-shipyard-crimeas-kerch-damages-ship-russian-defence-ministry-2023-11-04/).
 
 ## Requirements
 - Python 3.8
