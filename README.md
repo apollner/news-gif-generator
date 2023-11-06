@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699281484)
+![Generated GIF](output.gif?raw=true&v=1699283353)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chiefs-Dolphins score in Germany: Live updates, highlights, top plays**
+**Kyle Richards Refers to Split With Mauricio Umansky as 'Divorce'**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/11/05/nfl-chiefs-dolphins-germany-updates-score-highlights/71442894007/).
+You can read more about it [here](https://www.tmz.com/2023/11/05/kyle-richards-mauricio-umansky-divorce-bravocon-split/).
 
 ## Requirements
 - Python 3.8
