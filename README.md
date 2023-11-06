@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699308454)
+![Generated GIF](output.gif?raw=true&v=1699310017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch NASA build Artemis 2 astronaut moon rocket boosters ahead of 2024 launch (video)**
+**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
 
-You can read more about it [here](https://www.space.com/nasa-artemis-2-moon-rocket-booster-build-launch-work).
+You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
 
 ## Requirements
 - Python 3.8
