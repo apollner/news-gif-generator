@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699259754)
+![Generated GIF](output.gif?raw=true&v=1699261881)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oklahoma State football vs. OU: Five takeaways from Cowboys' win over Sooners in Bedlam**
+**Deteriorating health conditions in Gaza: Unclean water causes diseases among children**
 
-You can read more about it [here](https://www.oklahoman.com/story/sports/college/cowboys/2023/11/04/oklahoma-state-football-score-vs-ou-sooners-bedlam-big-12-game-takeaways-osu-cowboys/71420569007/).
+You can read more about it [here](https://www.youtube.com/watch?v=7rRZr8FwUUU).
 
 ## Requirements
 - Python 3.8
