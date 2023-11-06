@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699299224)
+![Generated GIF](output.gif?raw=true&v=1699301358)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 9**
+**Watch NASA build Artemis 2 astronaut moon rocket boosters ahead of 2024 launch (video)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=E9t05pXwIZQ).
+You can read more about it [here](https://www.space.com/nasa-artemis-2-moon-rocket-booster-build-launch-work).
 
 ## Requirements
 - Python 3.8
