@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699248820)
+![Generated GIF](output.gif?raw=true&v=1699251066)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hostage situation at Germany's Hamburg airport - police**
+**Maine mass shooter was likely alive for most of massive 2-day search**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67324726).
+You can read more about it [here](https://www.bostonglobe.com/2023/11/04/metro/maine-mass-shooter-likely-shot-himself-8-12-hours-before-his-body-was-found-according-medical-examiner/).
 
 ## Requirements
 - Python 3.8
