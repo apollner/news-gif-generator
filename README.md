@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699306414)
+![Generated GIF](output.gif?raw=true&v=1699308454)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RB Dare Ogunbowale kicks 29-yard FG to give Texans the lead**
+**Watch NASA build Artemis 2 astronaut moon rocket boosters ahead of 2024 launch (video)**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-dare-ogunbowale-kicks-29-yard-fg-to-give-texans-the-lead).
+You can read more about it [here](https://www.space.com/nasa-artemis-2-moon-rocket-booster-build-launch-work).
 
 ## Requirements
 - Python 3.8
