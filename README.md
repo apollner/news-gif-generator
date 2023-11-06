@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699258276)
+![Generated GIF](output.gif?raw=true&v=1699259754)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Evaluating Studios’ “Last, Best and Final Offer”**
+**Oklahoma State football vs. OU: Five takeaways from Cowboys' win over Sooners in Bedlam**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/expanded-group-studio-leaders-attend-sag-aftra-bargaining-session-saturday-1235637065/).
+You can read more about it [here](https://www.oklahoman.com/story/sports/college/cowboys/2023/11/04/oklahoma-state-football-score-vs-ou-sooners-bedlam-big-12-game-takeaways-osu-cowboys/71420569007/).
 
 ## Requirements
 - Python 3.8
