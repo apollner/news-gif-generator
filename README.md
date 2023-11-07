@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699364027)
+![Generated GIF](output.gif?raw=true&v=1699365978)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tai chi, a form of slow-moving martial arts, helps boost memory, study finds : Shots - Health News**
+**Bengals roar past Bills on ‘Sunday Night Football’: How Joe Burrow guided Cincinnati to fourth straight win**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2023/11/06/1210507968/thai-chi-word-games-cognition-mentally-sharp-meditation-motion).
+You can read more about it [here](https://theathletic.com/5035115/2023/11/05/bills-bengals-result-takeaways/).
 
 ## Requirements
 - Python 3.8
