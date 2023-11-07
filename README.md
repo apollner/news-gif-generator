@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699392856)
+![Generated GIF](output.gif?raw=true&v=1699394787)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Children who survive shootings endure huge health obstacles and costs**
+**Google has issued a fix for Pixel phones with Android 14 multi-user bug**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/health/child-shooting-survivors-health-obstacles-kff-health-news-partner/index.html).
+You can read more about it [here](https://www.theverge.com/2023/11/6/23949273/google-pixel-8-pro-november-update-bug-fix).
 
 ## Requirements
 - Python 3.8
