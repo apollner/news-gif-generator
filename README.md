@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699330176)
+![Generated GIF](output.gif?raw=true&v=1699331633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Warren Buffett stockpiles cash as investors wonder where he'll put his money next**
+**[Removed]**
 
-You can read more about it [here](https://www.thestreet.com/investing/warren-buffett-stockpiles-cash-waiting-for-a-deal-as-investors-wonder-where-hell-put-his-money-next).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
