@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699323648)
+![Generated GIF](output.gif?raw=true&v=1699324666)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Katy Perry's partner Orlando Bloom, daughter Daisy attend Vegas finale**
+**Diablo 4 players underwhelmed with BlizzCon campfire chat**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/11/05/katy-perry-vegas-residency-finale-show/71466930007/).
+You can read more about it [here](https://www.dexerto.com/diablo/diablo-4-players-underwhelmed-with-blizzcon-campfire-chat-2368465/).
 
 ## Requirements
 - Python 3.8
