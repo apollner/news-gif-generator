@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699361349)
+![Generated GIF](output.gif?raw=true&v=1699362682)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daily Cannabis Use Linked to Higher Risk of Severe Heart Disease**
+**Tai chi, a form of slow-moving martial arts, helps boost memory, study finds : Shots - Health News**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-06/daily-cannabis-use-linked-to-higher-risk-of-severe-heart-disease-in-studies).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/11/06/1210507968/thai-chi-word-games-cognition-mentally-sharp-meditation-motion).
 
 ## Requirements
 - Python 3.8
