@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699337489)
+![Generated GIF](output.gif?raw=true&v=1699338920)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump leads Biden in 4 key swing states, new polling finds**
+**Trump: Kim Reynolds' DeSantis endorsement 'end of her political career'**
 
-You can read more about it [here](https://www.cnn.com/2023/11/05/politics/trump-leads-biden-in-key-swing-states-new-polling-finds/index.html).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2023/11/05/donald-trump-calls-kim-reynolds-disloyal-for-ron-desantis-endorsement-iowa-caucus-2024/71465756007/).
 
 ## Requirements
 - Python 3.8
