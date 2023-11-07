@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699338920)
+![Generated GIF](output.gif?raw=true&v=1699340787)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump: Kim Reynolds' DeSantis endorsement 'end of her political career'**
+**2023 LACMA Art + Film Gala: Kim Kardashian, Jennifer Lopez & More Stars Hit the Carpet! (Pics)**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2023/11/05/donald-trump-calls-kim-reynolds-disloyal-for-ron-desantis-endorsement-iowa-caucus-2024/71465756007/).
+You can read more about it [here](https://www.etonline.com/gallery/2023-lacma-art-film-gala-kim-kardashian-jennifer-lopez-more-stars-hit-the-carpet-214271?utm_content=ETOnline%2Fmagazine%2FPhotos&utm_source=flipboard).
 
 ## Requirements
 - Python 3.8
