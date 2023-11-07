@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699398389)
+![Generated GIF](output.gif?raw=true&v=1699400060)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry stopped Chandler from cheating on Monica on 'Friends'**
+**Lamar Jackson Is 'Completely Fine' After Injury Scare**
 
-You can read more about it [here](https://ew.com/tv/friends-matthew-perry-stopped-chandler-cheating-storyline/).
+You can read more about it [here](https://www.baltimoreravens.com/news/lamar-jackson-injury-scare-completely-fine-no-concerns-john-harbaugh-david-ojabo).
 
 ## Requirements
 - Python 3.8
