@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699344635)
+![Generated GIF](output.gif?raw=true&v=1699346059)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Breaks Her Own Record With ‘1989 (Taylor’s Version)’**
+**Asia shares cheered by hopes of early rate cuts**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/taylor-swift-1989-taylor-version-records-1235637476/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-06/).
 
 ## Requirements
 - Python 3.8
