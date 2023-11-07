@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699313631)
+![Generated GIF](output.gif?raw=true&v=1699321106)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel’s military claims it has cut Gaza in half, surrounded Gaza City**
+**Katy Perry's partner Orlando Bloom, daughter Daisy attend Vegas finale**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/israels-military-claims-it-has-cut-gaza-in-half-surrounded-gaza-city).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/11/05/katy-perry-vegas-residency-finale-show/71466930007/).
 
 ## Requirements
 - Python 3.8
