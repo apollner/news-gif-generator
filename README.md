@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699349695)
+![Generated GIF](output.gif?raw=true&v=1699351736)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google's Epic legal battle opens up on another front**
+**More adults should be screened for lung cancer, American Cancer Society says**
 
-You can read more about it [here](https://www.ft.com/content/e079124a-7dbc-4ce7-b420-b62b0036cb07).
+You can read more about it [here](https://www.ksl.com/article/50772269/more-adults-should-be-screened-for-lung-cancer-american-cancer-society-says).
 
 ## Requirements
 - Python 3.8
