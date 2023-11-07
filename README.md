@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699380617)
+![Generated GIF](output.gif?raw=true&v=1699382082)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla Could Have a $27,000 EV. The Report Is Boosting the Stock. - Barrons**
+**Black Panther stuntman and children killed in car crash**
 
-You can read more about it [here](https://www.barrons.com/articles/tesla-stock-price-new-ev-model-315b1c8c).
+You can read more about it [here](https://ew.com/movies/black-panther-stuntman-taraja-ramsess-fatal-car-crash/).
 
 ## Requirements
 - Python 3.8
