@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699328024)
+![Generated GIF](output.gif?raw=true&v=1699330176)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry dead; nurse crushed in MRI accident; body recovered from tree: this week's top stories**
+**Warren Buffett stockpiles cash as investors wonder where he'll put his money next**
 
-You can read more about it [here](https://www.fox10phoenix.com/news/matthew-perry-dead-nurse-crushed-in-mri-accident-body-recovered-from-tree-this-weeks-top-stories).
+You can read more about it [here](https://www.thestreet.com/investing/warren-buffett-stockpiles-cash-waiting-for-a-deal-as-investors-wonder-where-hell-put-his-money-next).
 
 ## Requirements
 - Python 3.8
