@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699373399)
+![Generated GIF](output.gif?raw=true&v=1699375189)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stephen A. & Shannon Sharpe react to the Cowboys losing to the Eagles 👀 | Get Up**
+**My day as a doctor at Gaza’s al-Shifa hospital | Close Up**
 
-You can read more about it [here](https://www.youtube.com/watch?v=quQ0NW_QTJM).
+You can read more about it [here](https://www.youtube.com/watch?v=NFObv41XvTw).
 
 ## Requirements
 - Python 3.8
