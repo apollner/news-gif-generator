@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699369768)
+![Generated GIF](output.gif?raw=true&v=1699371219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Moscow bombs Odesa after Ukraine destroys Russian warship in Crimea**
+**Strong geomagnetic storm brings dazzling displays of the Northern Lights this week**
 
-You can read more about it [here](https://www.politico.eu/article/ukraine-reportedly-destroyed-warship-crimea-russia-bombs-odesa/).
+You can read more about it [here](https://www.foxweather.com/earth-space/space-storm-watch-lights-november-forecast-get-to-see).
 
 ## Requirements
 - Python 3.8
