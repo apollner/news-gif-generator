@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699365978)
+![Generated GIF](output.gif?raw=true&v=1699367637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bengals roar past Bills on ‘Sunday Night Football’: How Joe Burrow guided Cincinnati to fourth straight win**
+**[Removed]**
 
-You can read more about it [here](https://theathletic.com/5035115/2023/11/05/bills-bengals-result-takeaways/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
