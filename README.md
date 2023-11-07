@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699326551)
+![Generated GIF](output.gif?raw=true&v=1699328024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Diablo 4 players underwhelmed with BlizzCon campfire chat**
+**Matthew Perry dead; nurse crushed in MRI accident; body recovered from tree: this week's top stories**
 
-You can read more about it [here](https://www.dexerto.com/diablo/diablo-4-players-underwhelmed-with-blizzcon-campfire-chat-2368465/).
+You can read more about it [here](https://www.fox10phoenix.com/news/matthew-perry-dead-nurse-crushed-in-mri-accident-body-recovered-from-tree-this-weeks-top-stories).
 
 ## Requirements
 - Python 3.8
