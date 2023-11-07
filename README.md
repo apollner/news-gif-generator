@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699359192)
+![Generated GIF](output.gif?raw=true&v=1699361349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Mississippi governor's race hasn't been this competitive in 20 years**
+**Daily Cannabis Use Linked to Higher Risk of Severe Heart Disease**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/06/mississippi-governor-brandon-presley-tate-reeves/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-06/daily-cannabis-use-linked-to-higher-risk-of-severe-heart-disease-in-studies).
 
 ## Requirements
 - Python 3.8
