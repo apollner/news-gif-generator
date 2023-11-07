@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699387719)
+![Generated GIF](output.gif?raw=true&v=1699389250)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taraja Ramsess, ‘Black Panther’ stuntman, dies with three of his children in car crash**
+**Former Obama adviser says Biden should consider dropping out of 2024**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/entertainment/black-panther-stuntman-children-crash/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/11/06/obama-david-axelrod-biden-2024/71471821007/).
 
 ## Requirements
 - Python 3.8
