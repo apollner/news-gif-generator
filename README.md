@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699376780)
+![Generated GIF](output.gif?raw=true&v=1699378480)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marijuana use raises risk of heart attack, heart failure and stroke, studies say**
+**Black Panther stuntman and children killed in car crash**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/health/marijuana-heart-stroke-risk-wellness/index.html).
+You can read more about it [here](https://ew.com/movies/black-panther-stuntman-taraja-ramsess-fatal-car-crash/).
 
 ## Requirements
 - Python 3.8
