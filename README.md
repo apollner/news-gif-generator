@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699396433)
+![Generated GIF](output.gif?raw=true&v=1699398389)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marijuana use raises risk of heart attack, heart failure and stroke: studies**
+**Matthew Perry stopped Chandler from cheating on Monica on 'Friends'**
 
-You can read more about it [here](http://www.nydailynews.com/2023/11/06/marijuana-heart-problems-stroke-studies/).
+You can read more about it [here](https://ew.com/tv/friends-matthew-perry-stopped-chandler-cheating-storyline/).
 
 ## Requirements
 - Python 3.8
