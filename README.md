@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699333646)
+![Generated GIF](output.gif?raw=true&v=1699335363)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zelenskyy invites Trump to visit Ukraine, saying ending war is not so easy**
+**Russia says it test-fired nuclear-capable Bulava missile from new submarine**
 
-You can read more about it [here](https://delivery.tribunecontentagency.com/preview/202311052051MCT_____NEWS_SVC_24454_knign).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/6/russia-says-it-test-fired-nuclear-capable-bulava-missile-from-new-submarine).
 
 ## Requirements
 - Python 3.8
