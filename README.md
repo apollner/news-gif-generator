@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699382082)
+![Generated GIF](output.gif?raw=true&v=1699383900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black Panther stuntman and children killed in car crash**
+**Man with Parkinson's can walk again thanks to a device in spine**
 
-You can read more about it [here](https://ew.com/movies/black-panther-stuntman-taraja-ramsess-fatal-car-crash/).
+You can read more about it [here](https://www.insider.com/spine-stimulator-implant-helps-parkinsons-disease-walk-2023-11).
 
 ## Requirements
 - Python 3.8
