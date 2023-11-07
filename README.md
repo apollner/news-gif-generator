@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699340787)
+![Generated GIF](output.gif?raw=true&v=1699342458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 LACMA Art + Film Gala: Kim Kardashian, Jennifer Lopez & More Stars Hit the Carpet! (Pics)**
+**Israel-Hamas war: Live updates and latest news**
 
-You can read more about it [here](https://www.etonline.com/gallery/2023-lacma-art-film-gala-kim-kardashian-jennifer-lopez-more-stars-hit-the-carpet-214271?utm_content=ETOnline%2Fmagazine%2FPhotos&utm_source=flipboard).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-live-updates-11-05-2023-08a560320c5f1493fb2abc741e345e95).
 
 ## Requirements
 - Python 3.8
