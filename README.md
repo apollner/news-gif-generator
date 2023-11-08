@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699432452)
+![Generated GIF](output.gif?raw=true&v=1699434429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jewish New Yorkers occupy Statue of Liberty to demand Gaza ceasefire**
+**Russia formally withdraws from key post-Cold War European armed forces treaty**
 
-You can read more about it [here](https://www.aljazeera.com/gallery/2023/11/7/jewish-new-yorkers-occupy-statue-of-liberty-to-demand-gaza-ceasefire).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-formally-withdraws-key-post-cold-war-european-armed-forces-treaty-2023-11-07/).
 
 ## Requirements
 - Python 3.8
