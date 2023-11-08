@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699479226)
+![Generated GIF](output.gif?raw=true&v=1699481165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Multiple accidents on I-10 in New Orleans East**
+**'Legend Of Zelda' Live-Action Pic In Works At Sony With Wes Ball Directing, Nintendo Co-Financing**
 
-You can read more about it [here](https://www.wdsu.com/article/i-10-closed-in-both-directions-at-michoud-boulevard-due-to-visibility-issues/45763645).
+You can read more about it [here](https://deadline.com/2023/11/legend-of-zelda-movie-wes-ball-1235596216/).
 
 ## Requirements
 - Python 3.8
