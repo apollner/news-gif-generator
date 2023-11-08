@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699419996)
+![Generated GIF](output.gif?raw=true&v=1699421632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple says there won't be a 27-inch iMac with Apple Silicon - GSMArena.com news**
+**French love letters written 265 years ago opened for the first time**
 
-You can read more about it [here](https://www.gsmarena.com/apple_says_there_wont_be_a_27inch_imac_with_apple_silicon-news-60493.php).
+You can read more about it [here](https://www.cnn.com/2023/11/06/world/french-letters-national-archives-scn/index.html).
 
 ## Requirements
 - Python 3.8
