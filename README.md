@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699463222)
+![Generated GIF](output.gif?raw=true&v=1699464976)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Food-delivery startup Wonder Group gets $100 million investment from Nestle**
+**Scientists discover the oldest black hole yet — a "behemoth" 10 times bigger than the black hole in our own Milky Way**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/07/wonder-group-food-delivery-startup-gets-100-million-nestle-investment.html).
+You can read more about it [here](https://www.cbsnews.com/news/oldest-black-hole-found-behemoth-470-million-years-after-big-bang/).
 
 ## Requirements
 - Python 3.8
