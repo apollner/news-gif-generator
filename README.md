@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699464976)
+![Generated GIF](output.gif?raw=true&v=1699467130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists discover the oldest black hole yet — a "behemoth" 10 times bigger than the black hole in our own Milky Way**
+**James Harden’s Los Angeles Clippers Debut Reveals the Challenges Ahead**
 
-You can read more about it [here](https://www.cbsnews.com/news/oldest-black-hole-found-behemoth-470-million-years-after-big-bang/).
+You can read more about it [here](https://www.theringer.com/nba/2023/11/7/23950381/james-harden-debut-los-angeles-clippers-new-york-knicks).
 
 ## Requirements
 - Python 3.8
