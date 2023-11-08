@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699450414)
+![Generated GIF](output.gif?raw=true&v=1699452400)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch the third GOP presidential debate**
+**Euclid telescope: First images revealed from 'dark Universe' mission**
 
-You can read more about it [here](https://www.npr.org/2023/11/07/1209969987/republican-debate-miami).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67343374).
 
 ## Requirements
 - Python 3.8
