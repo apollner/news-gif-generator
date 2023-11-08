@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699434429)
+![Generated GIF](output.gif?raw=true&v=1699436041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia formally withdraws from key post-Cold War European armed forces treaty**
+**Israel says it is open to Gaza fighting pauses for aid, hostages**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-formally-withdraws-key-post-cold-war-european-armed-forces-treaty-2023-11-07/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-it-is-open-gaza-fighting-pauses-aid-hostages-2023-11-07/).
 
 ## Requirements
 - Python 3.8
