@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699475625)
+![Generated GIF](output.gif?raw=true&v=1699477539)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Cubs' Craig Counsell hire should just be the start of aggressive offseason in Chicago**
+**Portuguese PM quits over lithium, hydrogen corruption probe**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/why-cubs-craig-counsell-hire-should-just-be-the-start-of-aggressive-offseason-in-chicago/).
+You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
 
 ## Requirements
 - Python 3.8
