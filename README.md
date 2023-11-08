@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699445591)
+![Generated GIF](output.gif?raw=true&v=1699447736)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hollywood strike: Actors union Sag says issues still outstanding**
+**WeWork files for bankruptcy**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67342018).
+You can read more about it [here](https://www.cnn.com/2023/11/06/business/wework-bankruptcy/index.html).
 
 ## Requirements
 - Python 3.8
