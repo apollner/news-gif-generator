@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699431029)
+![Generated GIF](output.gif?raw=true&v=1699432452)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Biden's weak polling numbers spark alarm among Democrats**
+**Jewish New Yorkers occupy Statue of Liberty to demand Gaza ceasefire**
 
-You can read more about it [here](https://www.ft.com/content/6d53d7ab-a9cf-4b46-a738-b78aa825b5b2).
+You can read more about it [here](https://www.aljazeera.com/gallery/2023/11/7/jewish-new-yorkers-occupy-statue-of-liberty-to-demand-gaza-ceasefire).
 
 ## Requirements
 - Python 3.8
