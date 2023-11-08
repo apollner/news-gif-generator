@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699452400)
+![Generated GIF](output.gif?raw=true&v=1699454011)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Euclid telescope: First images revealed from 'dark Universe' mission**
+**CFDA Awards 2023: Anne Hathaway Goes Rogue Wearing Washed Denim And Diamonds On The Red Carpet**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67343374).
+You can read more about it [here](https://www.ndtv.com/lifestyle/cfda-awards-2023-anne-hathaways-goes-rogue-wearing-washed-denim-and-diamonds-on-the-red-carpet-4553157).
 
 ## Requirements
 - Python 3.8
