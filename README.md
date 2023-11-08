@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699403457)
+![Generated GIF](output.gif?raw=true&v=1699409923)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chicago Cubs hiring Craig Counsell, will make him MLB’s highest-paid manager: Sources**
+**How the Cubs swooped in to hire Craig Counsell and shocked the baseball world**
 
-You can read more about it [here](https://theathletic.com/5037110/2023/11/06/craig-counsell-cubs-brewers-manager/).
+You can read more about it [here](https://theathletic.com/5038015/2023/11/06/cubs-craig-counsell-david-ross-jed-hoyer/).
 
 ## Requirements
 - Python 3.8
