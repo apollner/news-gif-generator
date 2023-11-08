@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699421632)
+![Generated GIF](output.gif?raw=true&v=1699423845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**French love letters written 265 years ago opened for the first time**
+**Israeli troops arrest Palestinian activist Ahed Tamimi in West Bank**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/world/french-letters-national-archives-scn/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-troops-arrest-palestinian-activist-ahed-tamimi-west-bank-2023-11-07/).
 
 ## Requirements
 - Python 3.8
