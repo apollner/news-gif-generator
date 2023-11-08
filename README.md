@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699411093)
+![Generated GIF](output.gif?raw=true&v=1699412983)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marijuana use increases risk of heart attacks, new studies suggest**
+**These 5 Republican candidates qualified for the third debate**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4296308-marijuana-use-heart-attack-risk/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/republican-debate-candidates-qualify-rcna123741).
 
 ## Requirements
 - Python 3.8
