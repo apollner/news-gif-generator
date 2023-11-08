@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699428812)
+![Generated GIF](output.gif?raw=true&v=1699431029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Third officer charged in Elijah McClain's death found not guilty**
+**Joe Biden's weak polling numbers spark alarm among Democrats**
 
-You can read more about it [here](https://www.axios.com/2023/11/06/elijah-mcclain-trial-officer-nathan-woodyard-not-guilty).
+You can read more about it [here](https://www.ft.com/content/6d53d7ab-a9cf-4b46-a738-b78aa825b5b2).
 
 ## Requirements
 - Python 3.8
