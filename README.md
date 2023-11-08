@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699443218)
+![Generated GIF](output.gif?raw=true&v=1699445591)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wall Street Bosses in Hong Kong See Financial Dangers Everywhere**
+**Hollywood strike: Actors union Sag says issues still outstanding**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/wall-street-bosses-in-hong-kong-see-dangers-lurking-everywhere).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67342018).
 
 ## Requirements
 - Python 3.8
