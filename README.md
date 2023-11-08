@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699409923)
+![Generated GIF](output.gif?raw=true&v=1699411093)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How the Cubs swooped in to hire Craig Counsell and shocked the baseball world**
+**Marijuana use increases risk of heart attacks, new studies suggest**
 
-You can read more about it [here](https://theathletic.com/5038015/2023/11/06/cubs-craig-counsell-david-ross-jed-hoyer/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4296308-marijuana-use-heart-attack-risk/).
 
 ## Requirements
 - Python 3.8
