@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699456039)
+![Generated GIF](output.gif?raw=true&v=1699457650)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Charles gives first King’s Speech in 72 years amid parliamentary pomp**
+**The Morning After: Apple’s new MacBook lineup makes much more sense**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/11/07/kings-speech-charles-opening-parliament/).
+You can read more about it [here](https://www.engadget.com/the-morning-after-apples-new-macbook-lineup-makes-much-more-sense-121543140.html).
 
 ## Requirements
 - Python 3.8
