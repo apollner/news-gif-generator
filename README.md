@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699418024)
+![Generated GIF](output.gif?raw=true&v=1699419996)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Captain found guilty of 'seaman's manslaughter' in boat fire that killed 34 off California coast**
+**Apple says there won't be a 27-inch iMac with Apple Silicon - GSMArena.com news**
 
-You can read more about it [here](https://apnews.com/article/fatal-boat-fire-california-conception-boylan-0cd001c598d7edbf0acdcce890e994fe).
+You can read more about it [here](https://www.gsmarena.com/apple_says_there_wont_be_a_27inch_imac_with_apple_silicon-news-60493.php).
 
 ## Requirements
 - Python 3.8
