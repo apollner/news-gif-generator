@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699400060)
+![Generated GIF](output.gif?raw=true&v=1699403457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lamar Jackson Is 'Completely Fine' After Injury Scare**
+**Chicago Cubs hiring Craig Counsell, will make him MLB’s highest-paid manager: Sources**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/lamar-jackson-injury-scare-completely-fine-no-concerns-john-harbaugh-david-ojabo).
+You can read more about it [here](https://theathletic.com/5037110/2023/11/06/craig-counsell-cubs-brewers-manager/).
 
 ## Requirements
 - Python 3.8
