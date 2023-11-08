@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699439842)
+![Generated GIF](output.gif?raw=true&v=1699441531)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fortnite maker Epic Games takes Google to court**
+**Captain found guilty of 'seaman's manslaughter' in boat fire that killed 34 off California coast**
 
-You can read more about it [here](https://www.bbc.com/news/technology-67341175).
+You can read more about it [here](https://apnews.com/article/fatal-boat-fire-california-conception-boylan-0cd001c598d7edbf0acdcce890e994fe).
 
 ## Requirements
 - Python 3.8
