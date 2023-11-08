@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699482878)
+![Generated GIF](output.gif?raw=true&v=1699484813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Millennials are struggling with credit card debt, NY Fed study finds**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/millennials-are-struggling-with-credit-card-debt-ny-fed-study-finds-181804977.html).
 
 ## Requirements
 - Python 3.8
