@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699477539)
+![Generated GIF](output.gif?raw=true&v=1699479226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Portuguese PM quits over lithium, hydrogen corruption probe**
+**Multiple accidents on I-10 in New Orleans East**
 
-You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
+You can read more about it [here](https://www.wdsu.com/article/i-10-closed-in-both-directions-at-michoud-boulevard-due-to-visibility-issues/45763645).
 
 ## Requirements
 - Python 3.8
