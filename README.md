@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699470355)
+![Generated GIF](output.gif?raw=true&v=1699472078)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jeremy Renner Has Tried ‘Every Type of Therapy’ Since Snow Plow Accident: ‘Countless Hours’ of ‘Peptide Injections, IV Drips, Stem Cell’ and More**
+**Oldest black hole discovered dating back to 470 million years after the Big Bang**
 
-You can read more about it [here](https://variety.com/2023/film/news/jeremy-renner-tried-every-therapy-snow-plow-accident-1235782367/).
+You can read more about it [here](https://www.nbcnews.com/science/space/oldest-black-hole-discovered-dating-back-470-million-years-big-bang-rcna124023).
 
 ## Requirements
 - Python 3.8
