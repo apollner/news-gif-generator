@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699459804)
+![Generated GIF](output.gif?raw=true&v=1699461574)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**M3 MacBook Pro Ships With macOS Ventura, Can't Yet Be Updated to macOS Sonoma Over the Air**
+**Food-delivery startup Wonder Group gets $100 million investment from Nestle**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/07/14-inch-macbook-pro-m3-macos-sonoma-update-issue/).
+You can read more about it [here](https://www.cnbc.com/2023/11/07/wonder-group-food-delivery-startup-gets-100-million-nestle-investment.html).
 
 ## Requirements
 - Python 3.8
