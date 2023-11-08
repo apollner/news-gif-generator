@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699467130)
+![Generated GIF](output.gif?raw=true&v=1699468510)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Harden’s Los Angeles Clippers Debut Reveals the Challenges Ahead**
+**MLB free agency: Ranking top 50 players with Aaron Nola, Cody Bellinger in top five as market officially opens**
 
-You can read more about it [here](https://www.theringer.com/nba/2023/11/7/23950381/james-harden-debut-los-angeles-clippers-new-york-knicks).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-free-agency-ranking-top-50-players-with-aaron-nola-cody-bellinger-in-top-five-as-market-officially-opens/).
 
 ## Requirements
 - Python 3.8
