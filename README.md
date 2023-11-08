@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699468510)
+![Generated GIF](output.gif?raw=true&v=1699470355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB free agency: Ranking top 50 players with Aaron Nola, Cody Bellinger in top five as market officially opens**
+**Jeremy Renner Has Tried ‘Every Type of Therapy’ Since Snow Plow Accident: ‘Countless Hours’ of ‘Peptide Injections, IV Drips, Stem Cell’ and More**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-free-agency-ranking-top-50-players-with-aaron-nola-cody-bellinger-in-top-five-as-market-officially-opens/).
+You can read more about it [here](https://variety.com/2023/film/news/jeremy-renner-tried-every-therapy-snow-plow-accident-1235782367/).
 
 ## Requirements
 - Python 3.8
