@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699423845)
+![Generated GIF](output.gif?raw=true&v=1699425326)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli troops arrest Palestinian activist Ahed Tamimi in West Bank**
+**More than 10,000 killed in Gaza, Hamas-controlled health ministry says, as condemnation of Israel’s campaign grows**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-troops-arrest-palestinian-activist-ahed-tamimi-west-bank-2023-11-07/).
+You can read more about it [here](https://www.cnn.com/2023/11/06/middleeast/gaza-10k-deaths-intl/index.html).
 
 ## Requirements
 - Python 3.8
