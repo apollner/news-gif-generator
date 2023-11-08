@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699472078)
+![Generated GIF](output.gif?raw=true&v=1699474111)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oldest black hole discovered dating back to 470 million years after the Big Bang**
+**Fed's Waller calls Q3 US GDP growth a 'blowout,' but newer data suggest slowdown**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/oldest-black-hole-discovered-dating-back-470-million-years-big-bang-rcna124023).
+You can read more about it [here](https://www.reuters.com/markets/us/feds-waller-calls-q3-us-gdp-growth-blowout-number-that-warrants-watching-2023-11-07/).
 
 ## Requirements
 - Python 3.8
