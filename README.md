@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699414401)
+![Generated GIF](output.gif?raw=true&v=1699416585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple says there won't be a 27-inch iMac with Apple Silicon - GSMArena.com news**
+**CDC to test Boston travelers for various pathogens**
 
-You can read more about it [here](https://www.gsmarena.com/apple_says_there_wont_be_a_27inch_imac_with_apple_silicon-news-60493.php).
+You can read more about it [here](https://www.wcvb.com/article/cdc-test-boston-airport-travelers-various-pathogens/45758384).
 
 ## Requirements
 - Python 3.8
