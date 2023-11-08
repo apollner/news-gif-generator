@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699416585)
+![Generated GIF](output.gif?raw=true&v=1699418024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC to test Boston travelers for various pathogens**
+**Captain found guilty of 'seaman's manslaughter' in boat fire that killed 34 off California coast**
 
-You can read more about it [here](https://www.wcvb.com/article/cdc-test-boston-airport-travelers-various-pathogens/45758384).
+You can read more about it [here](https://apnews.com/article/fatal-boat-fire-california-conception-boylan-0cd001c598d7edbf0acdcce890e994fe).
 
 ## Requirements
 - Python 3.8
