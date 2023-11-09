@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699526256)
+![Generated GIF](output.gif?raw=true&v=1699527998)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Election results point to major GOP liability on abortion heading into 2024**
+**Most Asia markets dip; Japan business sentiment improves**
 
-You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
+You can read more about it [here](https://www.cnbc.com/2023/11/08/live-updates-asia-markets-up-japan-business-sentiment-improves-.html).
 
 ## Requirements
 - Python 3.8
