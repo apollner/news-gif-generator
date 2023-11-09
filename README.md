@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699504523)
+![Generated GIF](output.gif?raw=true&v=1699506391)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Election Day live updates: Virginia, Ohio, Kentucky, Mississippi go to polls**
+**Barbra Streisand Says Judy Garland Warned Her ‘Don’t Let Them Do to You What They Did to Me’**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4296011-election-day-2023-virginia-ohio-kentucky-mississippi-live-updates/).
+You can read more about it [here](https://www.yahoo.com/entertainment/barbra-streisand-says-judy-garland-001734107.html).
 
 ## Requirements
 - Python 3.8
