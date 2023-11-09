@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699569284)
+![Generated GIF](output.gif?raw=true&v=1699571258)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Buccaneers' Series-Premiere Recap, Episodes 1-3**
+**Google argues iMessage should be regulated by the EU’s Digital Markets Act**
 
-You can read more about it [here](http://www.vulture.com/article/the-buccaneers-series-premiere-recap-episodes-1-3.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/).
 
 ## Requirements
 - Python 3.8
