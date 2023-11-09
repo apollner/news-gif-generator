@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699549552)
+![Generated GIF](output.gif?raw=true&v=1699551228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The first Grand Theft Auto VI trailer will arrive in early December**
+**Hamas leaders admit hope for 'permanent' Israel war, don't care about running Gaza**
 
-You can read more about it [here](https://www.engadget.com/the-first-grand-theft-auto-vi-trailer-will-arrive-in-early-december-045219564.html).
+You can read more about it [here](https://nypost.com/2023/11/08/news/hamas-leaders-admit-they-hope-for-permanent-war-do-not-care-about-running-gaza/).
 
 ## Requirements
 - Python 3.8
