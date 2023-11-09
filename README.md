@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699553391)
+![Generated GIF](output.gif?raw=true&v=1699554875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Message from Rockstar Games**
+**Ivanka Trump gives evidence in father's fraud case**
 
-You can read more about it [here](https://www.rockstargames.com/newswire/article/4kok877a13aa32/a-message-from-rockstar-games).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67359901).
 
 ## Requirements
 - Python 3.8
