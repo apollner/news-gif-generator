@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699524477)
+![Generated GIF](output.gif?raw=true&v=1699526256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**This year 'virtually certain' to be warmest in 125000 years, EU scientists say**
+**Election results point to major GOP liability on abortion heading into 2024**
 
-You can read more about it [here](https://www.reuters.com/business/environment/this-year-virtually-certain-be-warmest-125000-years-eu-scientists-say-2023-11-08/).
+You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
 
 ## Requirements
 - Python 3.8
