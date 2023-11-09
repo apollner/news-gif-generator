@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699538747)
+![Generated GIF](output.gif?raw=true&v=1699540502)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
+**Suspect in California Jewish protester's death cooperating with police**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
+You can read more about it [here](https://www.reuters.com/world/us/suspect-california-jewish-protesters-death-cooperating-with-police-2023-11-07/).
 
 ## Requirements
 - Python 3.8
