@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699518837)
+![Generated GIF](output.gif?raw=true&v=1699520820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff rankings: Ohio State, Georgia, Michigan, Florida State remain in top spots**
+**House censures Rep. Rashida Tlaib amid bipartisan backlash over Israel comments**
 
-You can read more about it [here](https://theathletic.com/5041800/2023/11/07/college-football-playoff-second-rankings/).
+You can read more about it [here](https://www.cbsnews.com/news/rashida-tlaib-censure-vote-rich-mccormick-marjorie-taylor-greene/).
 
 ## Requirements
 - Python 3.8
