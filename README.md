@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699527998)
+![Generated GIF](output.gif?raw=true&v=1699529636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Most Asia markets dip; Japan business sentiment improves**
+**Texas voters reject proposal to increase judges' retirement ages**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/08/live-updates-asia-markets-up-japan-business-sentiment-improves-.html).
+You can read more about it [here](https://www.texastribune.org/2023/11/07/texas-judges-retirement-proposition-results/).
 
 ## Requirements
 - Python 3.8
