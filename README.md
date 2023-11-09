@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699513640)
+![Generated GIF](output.gif?raw=true&v=1699515223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Titanic first-class menu, victim's pocket watch going on sale at auction**
+**Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle**
 
-You can read more about it [here](https://www.cbsnews.com/news/titanic-menu-auction-pocket-watch/).
+You can read more about it [here](https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/).
 
 ## Requirements
 - Python 3.8
