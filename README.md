@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699546200)
+![Generated GIF](output.gif?raw=true&v=1699547937)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google, European Telecoms Giants Call on EU to Force Open iMessage**
+**Why Sofia Coppola's Priscilla divided Elvis's family**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/08/google-asks-eu-to-force-open-imessage/).
+You can read more about it [here](https://www.bbc.com/culture/article/20231107-why-sofia-coppolas-priscilla-divided-elviss-family).
 
 ## Requirements
 - Python 3.8
