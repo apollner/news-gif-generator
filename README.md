@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699496327)
+![Generated GIF](output.gif?raw=true&v=1699497421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rivian Reports Better-Than-Expected Results. The Stock Is Up.**
+**Portuguese PM quits over lithium, hydrogen corruption probe**
 
-You can read more about it [here](https://www.barrons.com/articles/rivian-earnings-stock-price-e78c3f52).
+You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
 
 ## Requirements
 - Python 3.8
