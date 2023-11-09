@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699532048)
+![Generated GIF](output.gif?raw=true&v=1699534141)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Marvels’: First Reactions After the Premiere**
+**Rivian and Lucid earnings show EV makers going in different directions**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-marvels-first-reactions-1235545038/).
+You can read more about it [here](https://www.marketwatch.com/story/rivian-and-lucid-earnings-show-ev-makers-going-in-different-directions-a0cb2170).
 
 ## Requirements
 - Python 3.8
