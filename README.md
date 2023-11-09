@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699497421)
+![Generated GIF](output.gif?raw=true&v=1699499330)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Portuguese PM quits over lithium, hydrogen corruption probe**
+**Israel says its battling Hamas fighters deep in Gaza City**
 
-You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-7-2023-6e1425d218de6a73f8a51e4c036cfd39).
 
 ## Requirements
 - Python 3.8
