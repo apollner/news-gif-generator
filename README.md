@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699556685)
+![Generated GIF](output.gif?raw=true&v=1699558483)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**8GB RAM on M3 MacBook Pro 'Analogous to 16GB' on PCs, Claims Apple**
+**13 Years Before Landing ‘Zelda’ Movie, Director Wes Ball Called It the ‘Next Avatar-Like’ Film and Said He ‘Could Never Hope to Have the Chance to Direct It’**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/).
+You can read more about it [here](https://variety.com/2023/film/news/wes-ball-directing-zelda-movie-23-years-after-tweet-1235783773/).
 
 ## Requirements
 - Python 3.8
