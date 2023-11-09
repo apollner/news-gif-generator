@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699563966)
+![Generated GIF](output.gif?raw=true&v=1699565632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palestinians flee as Israeli troops battle Hamas in Gaza City**
+**Lice from around the world shed light on human history, says new study : Goats and Soda**
 
-You can read more about it [here](https://www.ft.com/content/05ec1912-d077-4ad9-bd14-d17ca297cf67).
+You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/11/08/1211528184/having-lice-aint-nice-but-they-tell-our-story-concise-and-precise).
 
 ## Requirements
 - Python 3.8
