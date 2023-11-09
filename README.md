@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699510222)
+![Generated GIF](output.gif?raw=true&v=1699511704)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How WeWork Rose and Went Broke - WSJ**
+**Israel says its battling Hamas fighters deep in Gaza City**
 
-You can read more about it [here](https://www.wsj.com/articles/wework-bankruptcy-adam-neumann-federal-reserve-easy-money-861e0073).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-7-2023-6e1425d218de6a73f8a51e4c036cfd39).
 
 ## Requirements
 - Python 3.8
