@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699536882)
+![Generated GIF](output.gif?raw=true&v=1699538747)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
+**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
 
-You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
+You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
 
 ## Requirements
 - Python 3.8
