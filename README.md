@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699529636)
+![Generated GIF](output.gif?raw=true&v=1699532048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas voters reject proposal to increase judges' retirement ages**
+**‘The Marvels’: First Reactions After the Premiere**
 
-You can read more about it [here](https://www.texastribune.org/2023/11/07/texas-judges-retirement-proposition-results/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-marvels-first-reactions-1235545038/).
 
 ## Requirements
 - Python 3.8
