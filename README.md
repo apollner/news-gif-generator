@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699571258)
+![Generated GIF](output.gif?raw=true&v=1699572816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google argues iMessage should be regulated by the EU’s Digital Markets Act**
+**Chuck Todd: Trump will ‘flip’ on the abortion issue once he finds a way to do it**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/).
+You can read more about it [here](https://www.youtube.com/watch?v=f9Dt_CgVtOg).
 
 ## Requirements
 - Python 3.8
