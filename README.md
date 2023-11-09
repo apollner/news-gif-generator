@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699506391)
+![Generated GIF](output.gif?raw=true&v=1699508089)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Barbra Streisand Says Judy Garland Warned Her ‘Don’t Let Them Do to You What They Did to Me’**
+**Titanic first-class menu, victim's pocket watch going on sale at auction**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/barbra-streisand-says-judy-garland-001734107.html).
+You can read more about it [here](https://www.cbsnews.com/news/titanic-menu-auction-pocket-watch/).
 
 ## Requirements
 - Python 3.8
