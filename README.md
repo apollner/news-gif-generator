@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699535472)
+![Generated GIF](output.gif?raw=true&v=1699536882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Election results point to major GOP liability on abortion heading into 2024**
+**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
 
-You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
+You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
 
 ## Requirements
 - Python 3.8
