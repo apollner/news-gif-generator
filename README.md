@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699551228)
+![Generated GIF](output.gif?raw=true&v=1699553391)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas leaders admit hope for 'permanent' Israel war, don't care about running Gaza**
+**A Message from Rockstar Games**
 
-You can read more about it [here](https://nypost.com/2023/11/08/news/hamas-leaders-admit-they-hope-for-permanent-war-do-not-care-about-running-gaza/).
+You can read more about it [here](https://www.rockstargames.com/newswire/article/4kok877a13aa32/a-message-from-rockstar-games).
 
 ## Requirements
 - Python 3.8
