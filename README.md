@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699554875)
+![Generated GIF](output.gif?raw=true&v=1699556685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ivanka Trump gives evidence in father's fraud case**
+**8GB RAM on M3 MacBook Pro 'Analogous to 16GB' on PCs, Claims Apple**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67359901).
+You can read more about it [here](https://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/).
 
 ## Requirements
 - Python 3.8
