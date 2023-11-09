@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699534141)
+![Generated GIF](output.gif?raw=true&v=1699535472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rivian and Lucid earnings show EV makers going in different directions**
+**Election results point to major GOP liability on abortion heading into 2024**
 
-You can read more about it [here](https://www.marketwatch.com/story/rivian-and-lucid-earnings-show-ev-makers-going-in-different-directions-a0cb2170).
+You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
 
 ## Requirements
 - Python 3.8
