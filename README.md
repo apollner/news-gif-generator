@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699500868)
+![Generated GIF](output.gif?raw=true&v=1699502972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Election Day live updates: Virginia, Ohio, Kentucky, Mississippi go to polls**
+**Rivian, Lucid Diverge Sharply On 2023 EV Production Guidance**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4296011-election-day-2023-virginia-ohio-kentucky-mississippi-live-updates/).
+You can read more about it [here](https://www.investors.com/news/ev-stocks-rivian-lucid-earnings-q3-2023-tesla-threat/).
 
 ## Requirements
 - Python 3.8
