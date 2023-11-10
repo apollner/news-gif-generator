@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699625247)
+![Generated GIF](output.gif?raw=true&v=1699626876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. launches strike on weapons facility in Syria**
+**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3SYKeOmaB_o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wOC9tZWRpYS9zYWctYWZ0cmEtYWN0b3JzLXN0cmlrZS1vdmVyL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzA4L21lZGlhL3NhZy1hZnRyYS1hY3RvcnMtc3RyaWtlLW92ZXIvaW5kZXguaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
