@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699596629)
+![Generated GIF](output.gif?raw=true&v=1699598118)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nikola Jokic Drops DOUBLE-DOUBLE vs Warriors! | November 8, 2023**
+**SAG-AFTRA Approves Deal to End Historic Strike**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7XVKC0ItQac).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/).
 
 ## Requirements
 - Python 3.8
