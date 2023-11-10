@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699607255)
+![Generated GIF](output.gif?raw=true&v=1699608888)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SoftBank's Vision Fund ekes out gain but company posts $6.2 billion quarterly loss**
+**U.S. population to decline by 2080, Census Bureau projects**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/09/softbank-earnings-q2-fy-2023.html).
+You can read more about it [here](https://www.axios.com/2023/11/09/us-population-decline-down-projections-data-chart).
 
 ## Requirements
 - Python 3.8
