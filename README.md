@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699605231)
+![Generated GIF](output.gif?raw=true&v=1699607255)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA Discovers Record-Breaking Supermassive Black Hole Over 13 Billion Light-Years Away**
+**SoftBank's Vision Fund ekes out gain but company posts $6.2 billion quarterly loss**
 
-You can read more about it [here](https://scitechdaily.com/nasa-discovers-record-breaking-supermassive-black-hole-over-13-billion-light-years-away/).
+You can read more about it [here](https://www.cnbc.com/2023/11/09/softbank-earnings-q2-fy-2023.html).
 
 ## Requirements
 - Python 3.8
