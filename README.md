@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699626876)
+![Generated GIF](output.gif?raw=true&v=1699628913)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
+**MLB free agency 2023: As the Shohei Ohtani sweepstakes begin (again), here's what we know for sure**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wOC9tZWRpYS9zYWctYWZ0cmEtYWN0b3JzLXN0cmlrZS1vdmVyL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzA4L21lZGlhL3NhZy1hZnRyYS1hY3RvcnMtc3RyaWtlLW92ZXIvaW5kZXguaHRtbA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/mlb-free-agency-2023-as-the-shohei-ohtani-sweepstakes-begin-again-heres-what-we-know-for-sure-020850020.html).
 
 ## Requirements
 - Python 3.8
