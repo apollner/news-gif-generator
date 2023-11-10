@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699620546)
+![Generated GIF](output.gif?raw=true&v=1699621838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kim Kardashian Reveals Secret Tattoo—and the Meaning Behind It**
+**College student from New Jersey critically injured in Nashville shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM4OTQzMS9raW0ta2FyZGFzaGlhbi1yZXZlYWxzLXNlY3JldC10YXR0b28tYW5kLXRoZS1tZWFuaW5nLWJlaGluZC1pdNIBAA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/jillian-ludwig-injured-nashville-shooting/).
 
 ## Requirements
 - Python 3.8
