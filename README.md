@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699650331)
+![Generated GIF](output.gif?raw=true&v=1699652024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's Webb, Hubble Combine to Create Most Colorful View of Universe**
+**Exemptions for required vaccines for US kindergartners reach record high**
 
-You can read more about it [here](https://webbtelescope.org/contents/news-releases/2023/news-2023-146).
+You can read more about it [here](https://www.cnn.com/2023/11/09/health/kindergarten-vaccine-exemptions/index.html).
 
 ## Requirements
 - Python 3.8
