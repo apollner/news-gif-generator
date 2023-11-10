@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699616030)
+![Generated GIF](output.gif?raw=true&v=1699618422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war: List of key events, day 34**
+**Ex-Grammys boss Neil Portnow accused of raping woman in new lawsuit**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/9/israel-hamas-war-list-of-key-events-day-34).
+You can read more about it [here](https://ew.com/music/ex-grammys-ceo-neil-portnow-formally-accused-of-rape-in-new-lawsuit/).
 
 ## Requirements
 - Python 3.8
