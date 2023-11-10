@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699583818)
+![Generated GIF](output.gif?raw=true&v=1699585722)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney Earnings Q4 2023: CEO Bob Iger Reveals Four Building Opportunities**
+**3 arrested in connection with prostitution network whose clients allegedly included politicians**
 
-You can read more about it [here](https://thewaltdisneycompany.com/disney-earnings-call-q4-2023/).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
 
 ## Requirements
 - Python 3.8
