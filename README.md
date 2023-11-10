@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699594437)
+![Generated GIF](output.gif?raw=true&v=1699596629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Caesars averts strike in deal with Las Vegas unions**
+**Nikola Jokic Drops DOUBLE-DOUBLE vs Warriors! | November 8, 2023**
 
-You can read more about it [here](https://www.reuters.com/business/culinary-union-reaches-labor-deal-with-caesars-las-vegas-2023-11-08/).
+You can read more about it [here](https://www.youtube.com/watch?v=7XVKC0ItQac).
 
 ## Requirements
 - Python 3.8
