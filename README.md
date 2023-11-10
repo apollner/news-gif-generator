@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699632574)
+![Generated GIF](output.gif?raw=true&v=1699634440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli strikes pound Gaza City as ground forces battle Hamas near major hospital**
+**Kim Kardashian Reveals Secret Tattoo She Got After Hosting SNL**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-9-2023-49a2cfaf0c0856f6f6c32151d6b64226).
+You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/kim-kardashian-reveals-secret-tattoo-hosting-snl).
 
 ## Requirements
 - Python 3.8
