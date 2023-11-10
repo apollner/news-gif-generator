@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699618422)
+![Generated GIF](output.gif?raw=true&v=1699620546)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Grammys boss Neil Portnow accused of raping woman in new lawsuit**
+**Kim Kardashian Reveals Secret Tattoo—and the Meaning Behind It**
 
-You can read more about it [here](https://ew.com/music/ex-grammys-ceo-neil-portnow-formally-accused-of-rape-in-new-lawsuit/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM4OTQzMS9raW0ta2FyZGFzaGlhbi1yZXZlYWxzLXNlY3JldC10YXR0b28tYW5kLXRoZS1tZWFuaW5nLWJlaGluZC1pdNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
