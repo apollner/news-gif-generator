@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699589414)
+![Generated GIF](output.gif?raw=true&v=1699590833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan football awaiting potential punishment from Big Ten - ESPN**
+**3 arrested in connection with prostitution network whose clients allegedly included politicians**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38850941/michigan-football-awaiting-potential-punishment-big-ten).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
 
 ## Requirements
 - Python 3.8
