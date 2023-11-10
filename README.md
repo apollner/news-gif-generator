@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699648425)
+![Generated GIF](output.gif?raw=true&v=1699650331)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fitbit ends sales in nearly 30 countries to 'align' with Pixel**
+**NASA's Webb, Hubble Combine to Create Most Colorful View of Universe**
 
-You can read more about it [here](https://9to5google.com/2023/11/09/fitbit-countries-drastic-cuts/).
+You can read more about it [here](https://webbtelescope.org/contents/news-releases/2023/news-2023-146).
 
 ## Requirements
 - Python 3.8
