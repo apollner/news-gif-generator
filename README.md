@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699655620)
+![Generated GIF](output.gif?raw=true&v=1699657581)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
+**Google will delete millions of Gmail accounts in December due to inactivity**
 
-You can read more about it [here](https://www.cnn.com/2023/11/08/media/sag-aftra-actors-strike-over/index.html).
+You can read more about it [here](https://www.masslive.com/news/2023/11/google-will-delete-millions-of-gmail-accounts-in-december-due-to-inactivity.html).
 
 ## Requirements
 - Python 3.8
