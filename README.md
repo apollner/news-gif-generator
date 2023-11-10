@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699621838)
+![Generated GIF](output.gif?raw=true&v=1699623234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College student from New Jersey critically injured in Nashville shooting**
+**Lung cancer pill shows ‘earth-shattering’ results in 5-year study: ‘An optimistic time’**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/jillian-ludwig-injured-nashville-shooting/).
+You can read more about it [here](https://www.foxnews.com/health/lung-cancer-pill-shows-earth-shattering-results-5-year-study-optimistic-time).
 
 ## Requirements
 - Python 3.8
