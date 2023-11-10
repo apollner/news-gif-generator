@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699635944)
+![Generated GIF](output.gif?raw=true&v=1699637632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zac Efron, Mandy Moore, Octavia Spencer and More Stars React to SAG-AFTRA Strike Ending After 118 Days**
+**James Harden WILL NEVER be a HERO again - Kendrick Perkins reacts to Clippers loss | First Take**
 
-You can read more about it [here](https://www.eonline.com/news/1389543/zac-efron-octavia-spencer-and-more-stars-react-to-sag-aftra-strike-ending-after-118-days).
+You can read more about it [here](https://www.youtube.com/watch?v=_1tCnGCuPds).
 
 ## Requirements
 - Python 3.8
