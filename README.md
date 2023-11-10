@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699610929)
+![Generated GIF](output.gif?raw=true&v=1699612528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hillary Clinton Criticizes Xi’s Decision to Keep Power**
+**Live updates: Republican presidential debate in Miami on NBC News**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Yw6TQ_izRXk).
+You can read more about it [here](https://www.cnn.com/politics/live-news/republican-debate-11-08-23/index.html).
 
 ## Requirements
 - Python 3.8
