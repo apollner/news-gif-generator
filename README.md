@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699637632)
+![Generated GIF](output.gif?raw=true&v=1699639783)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Harden WILL NEVER be a HERO again - Kendrick Perkins reacts to Clippers loss | First Take**
+**Kim Kardashian Reveals She Got a Tattoo in the Ouchiest Place Possible After Hosting ‘SNL’**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_1tCnGCuPds).
+You can read more about it [here](https://www.billboard.com/culture/tv-film/kim-kardashian-infinity-symbol-tattoo-inside-lip-host-snl-1235467474/).
 
 ## Requirements
 - Python 3.8
