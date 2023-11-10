@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699590833)
+![Generated GIF](output.gif?raw=true&v=1699592852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 arrested in connection with prostitution network whose clients allegedly included politicians**
+**Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
+You can read more about it [here](https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/).
 
 ## Requirements
 - Python 3.8
