@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699614332)
+![Generated GIF](output.gif?raw=true&v=1699616030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Co-Founder Steve Wozniak Hospitalised Due To Possible Stroke: Report**
+**Israel-Hamas war: List of key events, day 34**
 
-You can read more about it [here](https://www.ndtv.com/world-news/apple-co-founder-steve-wozniak-hospitalised-in-mexico-due-to-possible-stroke-report-4559115).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/9/israel-hamas-war-list-of-key-events-day-34).
 
 ## Requirements
 - Python 3.8
