@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699639783)
+![Generated GIF](output.gif?raw=true&v=1699641288)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kim Kardashian Reveals She Got a Tattoo in the Ouchiest Place Possible After Hosting ‘SNL’**
+**Wynonna Judd Responds After Fans Express Concern Over Her CMA Awards Performance: ‘I Was So Nervous’**
 
-You can read more about it [here](https://www.billboard.com/culture/tv-film/kim-kardashian-infinity-symbol-tattoo-inside-lip-host-snl-1235467474/).
+You can read more about it [here](https://www.etonline.com/wynonna-judd-responds-after-fans-express-concern-over-her-cma-awards-performance-i-was-so-nervous).
 
 ## Requirements
 - Python 3.8
