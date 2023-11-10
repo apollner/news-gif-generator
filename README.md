@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699653986)
+![Generated GIF](output.gif?raw=true&v=1699655620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Hunger Games: The Ballad of Songbirds & Snakes’ Review: Jennifer Lawrence Is Sorely Missed in Dour Prequel Short on Excitement**
+**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-the-ballad-of-songbirds-and-snakes-review-1235639233/).
+You can read more about it [here](https://www.cnn.com/2023/11/08/media/sag-aftra-actors-strike-over/index.html).
 
 ## Requirements
 - Python 3.8
