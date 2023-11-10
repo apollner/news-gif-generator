@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699585722)
+![Generated GIF](output.gif?raw=true&v=1699587222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 arrested in connection with prostitution network whose clients allegedly included politicians**
+**SAG-AFTRA Approves Deal to End Historic Strike**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/).
 
 ## Requirements
 - Python 3.8
