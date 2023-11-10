@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699641288)
+![Generated GIF](output.gif?raw=true&v=1699643260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wynonna Judd Responds After Fans Express Concern Over Her CMA Awards Performance: ‘I Was So Nervous’**
+**Israel will begin 4-hour pauses in military operations in Gaza each day, White House says**
 
-You can read more about it [here](https://www.etonline.com/wynonna-judd-responds-after-fans-express-concern-over-her-cma-awards-performance-i-was-so-nervous).
+You can read more about it [here](https://www.cnn.com/2023/11/09/politics/israel-pauses-gaza-white-house/index.html).
 
 ## Requirements
 - Python 3.8
