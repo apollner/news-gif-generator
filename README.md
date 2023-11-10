@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699592852)
+![Generated GIF](output.gif?raw=true&v=1699594437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part**
+**Caesars averts strike in deal with Las Vegas unions**
 
-You can read more about it [here](https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/).
+You can read more about it [here](https://www.reuters.com/business/culinary-union-reaches-labor-deal-with-caesars-las-vegas-2023-11-08/).
 
 ## Requirements
 - Python 3.8
