@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699572816)
+![Generated GIF](output.gif?raw=true&v=1699576313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chuck Todd: Trump will ‘flip’ on the abortion issue once he finds a way to do it**
+**Ron Washington hired as Angels manager**
 
-You can read more about it [here](https://www.youtube.com/watch?v=f9Dt_CgVtOg).
+You can read more about it [here](https://www.mlb.com/news/ron-washington-angels-manager).
 
 ## Requirements
 - Python 3.8
