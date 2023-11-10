@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699599977)
+![Generated GIF](output.gif?raw=true&v=1699601628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**London Gaza rally: Braverman accuses Met of bias over Gaza marches**
+**Israel-Hamas fighting heats up in Gaza City, accelerating the exodus of Palestinians to the south**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67364745).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1oYW1hcy13YXItbmV3cy0xMS04LTIwMjMtMWQ0MTRiMTllMzlmYzQ2YTU1NDFkMDU0MWE4ODAzNTDSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
