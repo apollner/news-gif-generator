@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699644828)
+![Generated GIF](output.gif?raw=true&v=1699646881)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spain's Sánchez secures power deal with Catalan separatists prompting anger**
+**Authorities investigating 'suspicious' envelopes sent to election offices in Washington, Georgia**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67368314).
+You can read more about it [here](https://abcnews.go.com/US/authorities-investigating-suspicious-envelopes-election-offices-washington-georgia/story?id=104761286).
 
 ## Requirements
 - Python 3.8
