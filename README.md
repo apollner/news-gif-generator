@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699576313)
+![Generated GIF](output.gif?raw=true&v=1699580194)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ron Washington hired as Angels manager**
+**A small Michigan township sends a message to China — and Biden**
 
-You can read more about it [here](https://www.mlb.com/news/ron-washington-angels-manager).
+You can read more about it [here](https://www.politico.com/news/2023/11/08/michigan-china-biden-clean-energy-00126196).
 
 ## Requirements
 - Python 3.8
