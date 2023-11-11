@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699702423)
+![Generated GIF](output.gif?raw=true&v=1699704702)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
+**Galaxy S23 gets stable Android 14 and One UI 6.0 update in the US - SamMobile**
 
-You can read more about it [here](https://scitechdaily.com/?p=326495).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s23-android-14-one-ui-6-0-stable-update-usa/).
 
 ## Requirements
 - Python 3.8
