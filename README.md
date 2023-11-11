@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699697192)
+![Generated GIF](output.gif?raw=true&v=1699698817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden trolls Trump after election night victories: ‘We haven’t stopped winning’**
+**South Korea outperforms for the week as Asia markets fall on Powell comments**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4303571-biden-trolls-republicans-after-election-night-victories/).
+You can read more about it [here](https://www.cnbc.com/2023/11/10/live-updates-asia-markets-set-for-declines-after-powell-comments-.html).
 
 ## Requirements
 - Python 3.8
