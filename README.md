@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699731233)
+![Generated GIF](output.gif?raw=true&v=1699733191)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Childhood vaccine exemption rates rises in over 40 states: CDC report**
+**20,000 trucks stuck at Ukraine-Poland border amid spat over access to EU**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/10/cdc-kindergarten-vaccine-rate/71528114007/).
+You can read more about it [here](https://www.cnn.com/2023/11/10/europe/poland-ukraine-border-truck-protest-intl/index.html).
 
 ## Requirements
 - Python 3.8
