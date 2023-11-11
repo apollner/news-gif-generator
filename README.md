@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699722302)
+![Generated GIF](output.gif?raw=true&v=1699724043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazing Tiny Brain Implant Translates Brain Signals Into Speech**
+**UFC 295 Betting Preview w/ Jon Anik, Daniel Cormier & More! | Presented by DraftKings Sportsbook**
 
-You can read more about it [here](https://www.sciencealert.com/amazing-tiny-brain-implant-translates-brain-signals-into-speech).
+You can read more about it [here](https://www.youtube.com/watch?v=rI-yt1wYOWg).
 
 ## Requirements
 - Python 3.8
