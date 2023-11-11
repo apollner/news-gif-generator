@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699666578)
+![Generated GIF](output.gif?raw=true&v=1699670861)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Big Ten considering 'significant fine' for Michigan's Jim Harbaugh, among other punishments**
+**Hamas still has Israeli hostages: One man's fight to free his brothers**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/2023/11/09/big-ten-significant-fine-suspension-jim-harbaugh-michigan-football/71521080007/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/09/hamas-israeli-hostages-man-fights-to-free-family/71512299007/).
 
 ## Requirements
 - Python 3.8
