@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699711504)
+![Generated GIF](output.gif?raw=true&v=1699713241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rumor says Samsung's mid-range foldable phone will be impossibly cheap - SamMobile**
+**BOZICH | Louisville outlasts Virginia, 31-24, inching closer to ACC title game**
 
-You can read more about it [here](https://www.sammobile.com/news/rumor-says-samsung-mid-range-foldable-phone-impossibly-cheap/).
+You can read more about it [here](https://www.wdrb.com/sports/bozich-louisville-outlasts-virginia-31-24-inching-closer-to-acc-title-game/article_1e0e27d8-7f6e-11ee-8089-775af2dce603.html).
 
 ## Requirements
 - Python 3.8
