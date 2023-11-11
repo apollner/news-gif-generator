@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699743995)
+![Generated GIF](output.gif?raw=true&v=1699745634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As SAG-AFTRA Strike Comes to a Close, European Players Express Relief, Hope and Concern About What’s Next: ‘2024 Is Going to Be a Hectic Year’**
+**Qualcomm's satellite texting plan is dead because phone makers aren't interested**
 
-You can read more about it [here](https://variety.com/2023/film/global/sag-aftra-strike-european-industry-production-restart-1235787210/).
+You can read more about it [here](https://www.engadget.com/qualcomms-satellite-texting-plan-is-dead-because-phone-makers-arent-interested-204331091.html).
 
 ## Requirements
 - Python 3.8
