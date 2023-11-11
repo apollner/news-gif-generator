@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699720528)
+![Generated GIF](output.gif?raw=true&v=1699722302)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney delays Deadpool 3 and other Marvel films as actors' strike ends**
+**Amazing Tiny Brain Implant Translates Brain Signals Into Speech**
 
-You can read more about it [here](https://www.theverge.com/2023/11/10/23955157/deadpool-3-delayed-captain-america-brave-new-world-blade-thunderbolts-actors-strike).
+You can read more about it [here](https://www.sciencealert.com/amazing-tiny-brain-implant-translates-brain-signals-into-speech).
 
 ## Requirements
 - Python 3.8
