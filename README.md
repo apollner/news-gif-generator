@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699680833)
+![Generated GIF](output.gif?raw=true&v=1699682971)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WGAE Members “Devastated” Over Closure Of Jezebel Amid Layoffs Across Parent Company G/O Media**
+**News Outlets Say They Had No Prior Knowledge Of Hamas Attacks As Israeli Government Seizes On Reports Of Freelance Photographers’ Work**
 
-You can read more about it [here](https://deadline.com/2023/11/jezebel-closure-g-o-media-layoffs-wgae-reacts-1235599119/).
+You can read more about it [here](https://deadline.com/2023/11/israel-hamas-attacks-news-photographers-cnn-new-york-times-associated-press-1235598784/).
 
 ## Requirements
 - Python 3.8
