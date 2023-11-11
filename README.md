@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699672357)
+![Generated GIF](output.gif?raw=true&v=1699673620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans struggle with government funding as shutdown looms**
+**Wynonna Judd Denies Any Issues After Stage Performance At CMA Awards Draws Concern**
 
-You can read more about it [here](https://www.cnn.com/2023/11/09/politics/house-republicans-government-funding/index.html).
+You can read more about it [here](https://deadline.com/2023/11/wynonna-judd-denies-issues-after-stage-performance-cma-awards-1235599044/).
 
 ## Requirements
 - Python 3.8
