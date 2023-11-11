@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699704702)
+![Generated GIF](output.gif?raw=true&v=1699706749)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S23 gets stable Android 14 and One UI 6.0 update in the US - SamMobile**
+**Jimmy Fallon, More Late Night Hosts Weigh In On End Of Actors Strike: “Take Yourself Back To Work Day” In Hollywood**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s23-android-14-one-ui-6-0-stable-update-usa/).
+You can read more about it [here](https://deadline.com/2023/11/late-night-hosts-weigh-in-end-of-actors-strike-comments-kimmel-fallon-1235599250/).
 
 ## Requirements
 - Python 3.8
