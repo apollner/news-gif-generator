@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699679179)
+![Generated GIF](output.gif?raw=true&v=1699680833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US veteran gets world's first eye transplant**
+**WGAE Members “Devastated” Over Closure Of Jezebel Amid Layoffs Across Parent Company G/O Media**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67375145).
+You can read more about it [here](https://deadline.com/2023/11/jezebel-closure-g-o-media-layoffs-wgae-reacts-1235599119/).
 
 ## Requirements
 - Python 3.8
