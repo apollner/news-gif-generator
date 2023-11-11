@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699742024)
+![Generated GIF](output.gif?raw=true&v=1699743995)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nuclear stealth bomber, the B-21 Raider, takes first test flight**
+**As SAG-AFTRA Strike Comes to a Close, European Players Express Relief, Hope and Concern About What’s Next: ‘2024 Is Going to Be a Hectic Year’**
 
-You can read more about it [here](https://www.defensenews.com/air/2023/11/10/nuclear-stealth-bomber-the-b-21-raider-takes-first-test-flight/).
+You can read more about it [here](https://variety.com/2023/film/global/sag-aftra-strike-european-industry-production-restart-1235787210/).
 
 ## Requirements
 - Python 3.8
