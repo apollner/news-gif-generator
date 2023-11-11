@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699690178)
+![Generated GIF](output.gif?raw=true&v=1699691767)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas War Latest: US Strikes Iran-Linked Facilities in Syria; Gazans Flee**
+**Former Baltimore prosecutor Marilyn Mosby found guilty of perjury**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-09/israel-latest-us-carries-out-strike-on-weapons-depot-in-syria).
+You can read more about it [here](https://abcnews.go.com/US/former-baltimore-prosecutor-marilyn-mosby-found-guilty-perjury/story?id=104772818).
 
 ## Requirements
 - Python 3.8
