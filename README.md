@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699659248)
+![Generated GIF](output.gif?raw=true&v=1699662614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Luis Díaz’s father released by Colombian guerrilla group**
+**Salt Lake Co. reports 'alarming' 800% increase of syphilis in women**
 
-You can read more about it [here](https://www.cnn.com/2023/11/09/sport/luis-diaz-father-released-eln-spt-intl/index.html).
+You can read more about it [here](https://www.fox13now.com/news/health/salt-lake-co-reports-alarming-800-increase-of-syphilis-in-women).
 
 ## Requirements
 - Python 3.8
