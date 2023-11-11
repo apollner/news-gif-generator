@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699691767)
+![Generated GIF](output.gif?raw=true&v=1699693565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Baltimore prosecutor Marilyn Mosby found guilty of perjury**
+**Caitlin Clark guides No. 3 Iowa women's basketball to tough win over No. 5 Virginia Tech**
 
-You can read more about it [here](https://abcnews.go.com/US/former-baltimore-prosecutor-marilyn-mosby-found-guilty-perjury/story?id=104772818).
+You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2023/11/09/iowa-womens-basketball-holds-off-virginia-tech-behind-caitlin-clarks/71518548007/).
 
 ## Requirements
 - Python 3.8
