@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699708043)
+![Generated GIF](output.gif?raw=true&v=1699709624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Valve Announces Steam Deck OLED, Says Switch OLED Paved The Way**
+**[Removed]**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/11/valve-announces-steam-deck-oled-says-switch-oled-paved-the-way).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
