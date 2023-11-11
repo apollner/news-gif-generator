@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699724043)
+![Generated GIF](output.gif?raw=true&v=1699726165)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 295 Betting Preview w/ Jon Anik, Daniel Cormier & More! | Presented by DraftKings Sportsbook**
+**The IRS just announced new tax brackets. Here's how to see yours.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rI-yt1wYOWg).
+You can read more about it [here](https://www.cbsnews.com/news/taxes-2024-tax-brackets-irs-how-to-see-yours/).
 
 ## Requirements
 - Python 3.8
