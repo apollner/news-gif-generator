@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699706749)
+![Generated GIF](output.gif?raw=true&v=1699708043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Fallon, More Late Night Hosts Weigh In On End Of Actors Strike: “Take Yourself Back To Work Day” In Hollywood**
+**Valve Announces Steam Deck OLED, Says Switch OLED Paved The Way**
 
-You can read more about it [here](https://deadline.com/2023/11/late-night-hosts-weigh-in-end-of-actors-strike-comments-kimmel-fallon-1235599250/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/11/valve-announces-steam-deck-oled-says-switch-oled-paved-the-way).
 
 ## Requirements
 - Python 3.8
