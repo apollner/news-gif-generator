@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699738416)
+![Generated GIF](output.gif?raw=true&v=1699740323)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Officials Have Growing Confidence in Death Toll Reports From Gaza**
+**College Football Week 11 Picks: Georgia, Michigan Face Toughest Tests Yet**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-s-officials-have-growing-confidence-in-death-toll-reports-from-gaza-b3b5183a).
+You can read more about it [here](https://www.si.com/college/2023/11/10/college-football-week-11-picks-georgia-ole-miss-michigan-penn-state).
 
 ## Requirements
 - Python 3.8
