@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699700689)
+![Generated GIF](output.gif?raw=true&v=1699702423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Baltimore prosecutor Marilyn Mosby found guilty of perjury**
+**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
 
-You can read more about it [here](https://abcnews.go.com/US/former-baltimore-prosecutor-marilyn-mosby-found-guilty-perjury/story?id=104772818).
+You can read more about it [here](https://scitechdaily.com/?p=326495).
 
 ## Requirements
 - Python 3.8
