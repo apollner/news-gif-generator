@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699662614)
+![Generated GIF](output.gif?raw=true&v=1699666578)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Salt Lake Co. reports 'alarming' 800% increase of syphilis in women**
+**Big Ten considering 'significant fine' for Michigan's Jim Harbaugh, among other punishments**
 
-You can read more about it [here](https://www.fox13now.com/news/health/salt-lake-co-reports-alarming-800-increase-of-syphilis-in-women).
+You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/2023/11/09/big-ten-significant-fine-suspension-jim-harbaugh-michigan-football/71521080007/).
 
 ## Requirements
 - Python 3.8
