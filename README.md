@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699716827)
+![Generated GIF](output.gif?raw=true&v=1699718882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palestinian officials say Israeli air strikes hit Gaza hospitals**
+**Rumor says Samsung's mid-range foldable phone will be impossibly cheap - SamMobile**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-officials-say-hospitals-come-under-new-israeli-attacks-2023-11-10/).
+You can read more about it [here](https://www.sammobile.com/news/rumor-says-samsung-mid-range-foldable-phone-impossibly-cheap/).
 
 ## Requirements
 - Python 3.8
