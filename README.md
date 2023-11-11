@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699726165)
+![Generated GIF](output.gif?raw=true&v=1699727672)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The IRS just announced new tax brackets. Here's how to see yours.**
+**Biden and Xi meeting set for next week as US hopes to halt downward spiral in relations**
 
-You can read more about it [here](https://www.cbsnews.com/news/taxes-2024-tax-brackets-irs-how-to-see-yours/).
+You can read more about it [here](https://www.cnn.com/2023/11/10/politics/biden-xi-meeting-china-us-relations/index.html).
 
 ## Requirements
 - Python 3.8
