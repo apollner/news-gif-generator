@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699693565)
+![Generated GIF](output.gif?raw=true&v=1699695283)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Caitlin Clark guides No. 3 Iowa women's basketball to tough win over No. 5 Virginia Tech**
+**Louisville rallies past Virginia as No. 11 Cardinals inch closer to ACC Championship Game berth**
 
-You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2023/11/09/iowa-womens-basketball-holds-off-virginia-tech-behind-caitlin-clarks/71518548007/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/louisville-rallies-past-virginia-as-no-11-cardinals-inch-closer-to-acc-championship-game-berth/).
 
 ## Requirements
 - Python 3.8
