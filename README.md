@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699718882)
+![Generated GIF](output.gif?raw=true&v=1699720528)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rumor says Samsung's mid-range foldable phone will be impossibly cheap - SamMobile**
+**Disney delays Deadpool 3 and other Marvel films as actors' strike ends**
 
-You can read more about it [here](https://www.sammobile.com/news/rumor-says-samsung-mid-range-foldable-phone-impossibly-cheap/).
+You can read more about it [here](https://www.theverge.com/2023/11/10/23955157/deadpool-3-delayed-captain-america-brave-new-world-blade-thunderbolts-actors-strike).
 
 ## Requirements
 - Python 3.8
