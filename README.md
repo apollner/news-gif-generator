@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699793194)
+![Generated GIF](output.gif?raw=true&v=1699794452)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI seized New York City Mayor Eric Adams' phones, iPad in fundraising investigation**
+**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/mayor-eric-adams-phone-ipad-seized-by-fbi-in-campaign-fundraising-investigation/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
 
 ## Requirements
 - Python 3.8
