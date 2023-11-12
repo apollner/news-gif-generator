@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699805275)
+![Generated GIF](output.gif?raw=true&v=1699806997)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gaza hospital ‘surrounded by tanks’ as other healthcare facilities say they’ve been damaged by Israeli strikes**
+**Novo Nordisk's weight loss drug Wegovy slashes risk of serious heart events**
 
-You can read more about it [here](https://www.cnn.com/2023/11/10/middleeast/gaza-hospital-surrounded-tanks-reported-israeli-strikes-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/11/weight-loss-drug-wegovy-slashes-risk-of-serious-heart-complications.html).
 
 ## Requirements
 - Python 3.8
