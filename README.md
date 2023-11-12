@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699788876)
+![Generated GIF](output.gif?raw=true&v=1699791110)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Singles’ Day 2023 sees Chinese consumers hunting for low prices, local brands**
+**FBI seized New York City Mayor Eric Adams' phones, iPad in fundraising investigation**
 
-You can read more about it [here](https://www.scmp.com/tech/tech-trends/article/3241128/chinese-consumers-hunt-low-prices-local-brands-singles-day-shopping-festival-economy-shows-signs).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/mayor-eric-adams-phone-ipad-seized-by-fbi-in-campaign-fundraising-investigation/).
 
 ## Requirements
 - Python 3.8
