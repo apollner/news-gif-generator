@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699776632)
+![Generated GIF](output.gif?raw=true&v=1699778035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Watch SpaceX Dragon capsule arrive at the space station early on Nov. 11**
+**Mega Millions winning numbers for Nov. 10 drawing**
 
-You can read more about it [here](https://www.space.com/spacex-dragon-crs-29-cargo-mission-arrive-iss).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/10/mega-millions-winning-numbers/71537814007/).
 
 ## Requirements
 - Python 3.8
