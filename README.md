@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699772733)
+![Generated GIF](output.gif?raw=true&v=1699774547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saudi Arabia to host extraordinary joint Islamic-Arab summit on Saturday**
+**Khloe Kardashian Gives Inside Look at Birthday Party for Niece Dream**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/saudi-arabia-host-extraordinary-joint-islamic-arab-summit-riyadh-saturday-2023-11-10/).
+You can read more about it [here](https://www.eonline.com/news/1389710/khloe-kardashian-gives-inside-look-at-7th-birthday-party-for-niece-dream-kardashian).
 
 ## Requirements
 - Python 3.8
