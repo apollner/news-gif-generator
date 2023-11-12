@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699753801)
+![Generated GIF](output.gif?raw=true&v=1699755723)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 10 injuries: Deebo Samuel, James Conner set to return - ESPN**
+**Taylor Swift postpones Argentina concert after Travis Kelce arrives**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38865049/deebo-samuel-james-conner-set-return).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-cancels-argentina-concert-travis-kelce-arrives).
 
 ## Requirements
 - Python 3.8
