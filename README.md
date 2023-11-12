@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699763679)
+![Generated GIF](output.gif?raw=true&v=1699765594)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA approves first vaccine against mosquito-borne virus chikungunya**
+**What is APEC?; major international summit comes to San Francisco**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
+You can read more about it [here](https://www.youtube.com/watch?v=VvuFpW3lACs).
 
 ## Requirements
 - Python 3.8
