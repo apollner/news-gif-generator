@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699778035)
+![Generated GIF](output.gif?raw=true&v=1699779925)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mega Millions winning numbers for Nov. 10 drawing**
+**Israeli forces close in on al-Shifa Hospital, trapping thousands**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/10/mega-millions-winning-numbers/71537814007/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/11/israeli-forces-close-in-on-al-shifa-hospital-trapping-thousands).
 
 ## Requirements
 - Python 3.8
