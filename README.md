@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699783566)
+![Generated GIF](output.gif?raw=true&v=1699785231)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry’s death certificate reveals 'Friends' star’s time of death, names Keith Morrison as 'informant'**
+**Wynn Resorts reaches deal with Las Vegas unions, avoiding strike**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perrys-death-certificate-reveals-friends-stars-time-of-death-names-keith-morrison-informant).
+You can read more about it [here](https://www.reuters.com/business/casino-operator-wynn-resorts-reaches-labor-deal-with-las-vegas-unions-2023-11-10/).
 
 ## Requirements
 - Python 3.8
