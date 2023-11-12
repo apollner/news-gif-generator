@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699798710)
+![Generated GIF](output.gif?raw=true&v=1699800005)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 295: Fight Day Focus | Pavlovich vs Aspinall & Procházka vs Pereira**
+**The Big Ten’s punishment of Michigan’s Jim Harbaugh was sloppy, rushed and pleases nobody**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6EJctlok1C0).
+You can read more about it [here](https://theathletic.com/5052783/2023/11/11/harbaugh-suspension-michigan/).
 
 ## Requirements
 - Python 3.8
