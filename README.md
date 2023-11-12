@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699765594)
+![Generated GIF](output.gif?raw=true&v=1699767245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is APEC?; major international summit comes to San Francisco**
+**U.S. debt in danger of downgrade by Moody's as shutdown looms**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VvuFpW3lACs).
+You can read more about it [here](https://www.politico.com/news/2023/11/10/u-s-debt-in-danger-of-downgrade-by-moodys-as-shutdown-looms-00126680).
 
 ## Requirements
 - Python 3.8
