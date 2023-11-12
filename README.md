@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699781627)
+![Generated GIF](output.gif?raw=true&v=1699783566)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA approves first vaccine against mosquito-borne virus chikungunya**
+**Matthew Perry’s death certificate reveals 'Friends' star’s time of death, names Keith Morrison as 'informant'**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
+You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perrys-death-certificate-reveals-friends-stars-time-of-death-names-keith-morrison-informant).
 
 ## Requirements
 - Python 3.8
