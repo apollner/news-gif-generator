@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699745634)
+![Generated GIF](output.gif?raw=true&v=1699749208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm's satellite texting plan is dead because phone makers aren't interested**
+**IDFA Artistic Director Under Fire After Applauding “From the River to the Sea” Opening Night Protest**
 
-You can read more about it [here](https://www.engadget.com/qualcomms-satellite-texting-plan-is-dead-because-phone-makers-arent-interested-204331091.html).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/international-doc-film-fest-exec-slammed-palestine-protest-1235644263/).
 
 ## Requirements
 - Python 3.8
