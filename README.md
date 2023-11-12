@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699826724)
+![Generated GIF](output.gif?raw=true&v=1699828415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**300,000 march against Israel in London on Armistice Day, demand Gaza ceasefire**
+**House Republicans unveil their plan to avert a government shutdown next week**
 
-You can read more about it [here](https://www.timesofisrael.com/many-thousands-march-against-israel-in-london-on-armistice-day-demand-gaza-ceasefire/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-unveil-plan-avert-government-shutdown-week-rcna124629).
 
 ## Requirements
 - Python 3.8
