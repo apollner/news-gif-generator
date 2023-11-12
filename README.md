@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699812584)
+![Generated GIF](output.gif?raw=true&v=1699814042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis fires Texan bishop after criticism of reforms**
+**$29 flights are back as airlines race to fill seats in the off-season**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67390366).
+You can read more about it [here](https://www.cnbc.com/2023/11/11/flight-discounts-are-back.html).
 
 ## Requirements
 - Python 3.8
