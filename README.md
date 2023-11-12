@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699755723)
+![Generated GIF](output.gif?raw=true&v=1699756756)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift postpones Argentina concert after Travis Kelce arrives**
+**Tennessee college student's parents speak out after daughter hit and killed by stray bullet**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-cancels-argentina-concert-travis-kelce-arrives).
+You can read more about it [here](https://abcnews.go.com/US/tennessee-college-students-parents-speak-after-daughter-hit/story?id=104784692).
 
 ## Requirements
 - Python 3.8
