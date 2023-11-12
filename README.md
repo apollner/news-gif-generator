@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699749208)
+![Generated GIF](output.gif?raw=true&v=1699753801)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDFA Artistic Director Under Fire After Applauding “From the River to the Sea” Opening Night Protest**
+**NFL Week 10 injuries: Deebo Samuel, James Conner set to return - ESPN**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/international-doc-film-fest-exec-slammed-palestine-protest-1235644263/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38865049/deebo-samuel-james-conner-set-return).
 
 ## Requirements
 - Python 3.8
