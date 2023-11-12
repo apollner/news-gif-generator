@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699794452)
+![Generated GIF](output.gif?raw=true&v=1699796167)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
+**Iceland braces for possible volcanic eruption after 1,400 earthquakes in 24 hours**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
+You can read more about it [here](https://nypost.com/2023/11/11/news/iceland-issues-evacuation-orders-amid-growing-volcanic-eruption-concern/).
 
 ## Requirements
 - Python 3.8
