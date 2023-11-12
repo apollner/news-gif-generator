@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699756756)
+![Generated GIF](output.gif?raw=true&v=1699758465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tennessee college student's parents speak out after daughter hit and killed by stray bullet**
+**Florida judge denies Trump bid to postpone classified documents trial**
 
-You can read more about it [here](https://abcnews.go.com/US/tennessee-college-students-parents-speak-after-daughter-hit/story?id=104784692).
+You can read more about it [here](https://www.axios.com/2023/11/10/trump-classified-documents-judge-trial-date).
 
 ## Requirements
 - Python 3.8
