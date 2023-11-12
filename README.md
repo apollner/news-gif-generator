@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699796167)
+![Generated GIF](output.gif?raw=true&v=1699798710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iceland braces for possible volcanic eruption after 1,400 earthquakes in 24 hours**
+**UFC 295: Fight Day Focus | Pavlovich vs Aspinall & Procházka vs Pereira**
 
-You can read more about it [here](https://nypost.com/2023/11/11/news/iceland-issues-evacuation-orders-amid-growing-volcanic-eruption-concern/).
+You can read more about it [here](https://www.youtube.com/watch?v=6EJctlok1C0).
 
 ## Requirements
 - Python 3.8
