@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699830388)
+![Generated GIF](output.gif?raw=true&v=1699832019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wegovy's heart benefits due to more than weight loss, Novo says**
+**Jalen Milroe has 6 total TDs as No. 8 Alabama clinches SEC West in easy win over Kentucky**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-says-wegovy-heart-benefits-due-more-than-weight-loss-2023-11-11/).
+You can read more about it [here](https://sports.yahoo.com/jalen-milroe-has-6-total-tds-as-no-8-alabama-clinches-sec-west-in-easy-win-over-kentucky-202615699.html).
 
 ## Requirements
 - Python 3.8
