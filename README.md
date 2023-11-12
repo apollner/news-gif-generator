@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699785231)
+![Generated GIF](output.gif?raw=true&v=1699787090)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wynn Resorts reaches deal with Las Vegas unions, avoiding strike**
+**NC doctors seeing bump in child vaccine exemption, distrust from parents**
 
-You can read more about it [here](https://www.reuters.com/business/casino-operator-wynn-resorts-reaches-labor-deal-with-las-vegas-unions-2023-11-10/).
+You can read more about it [here](https://www.wral.com/story/coronavirus/story/nc-doctors-seeing-bump-in-child-vaccine-exemption-distrust-from-parents/21143700/).
 
 ## Requirements
 - Python 3.8
