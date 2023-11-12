@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699769372)
+![Generated GIF](output.gif?raw=true&v=1699770880)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4 people shot on I-59 SB during Friday afternoon shootout, Birmingham police say**
+**Singles’ Day: world’s biggest online shopping event under way amid slowdown in Chinese economy**
 
-You can read more about it [here](https://www.wbrc.com/2023/11/10/multiple-people-shot-i-59-sb-birmingham-police-say/).
+You can read more about it [here](https://www.youtube.com/watch?v=gj4xlmeKXF0).
 
 ## Requirements
 - Python 3.8
