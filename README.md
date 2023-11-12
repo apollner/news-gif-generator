@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699774547)
+![Generated GIF](output.gif?raw=true&v=1699776632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Khloe Kardashian Gives Inside Look at Birthday Party for Niece Dream**
+**Watch SpaceX Dragon capsule arrive at the space station early on Nov. 11**
 
-You can read more about it [here](https://www.eonline.com/news/1389710/khloe-kardashian-gives-inside-look-at-7th-birthday-party-for-niece-dream-kardashian).
+You can read more about it [here](https://www.space.com/spacex-dragon-crs-29-cargo-mission-arrive-iss).
 
 ## Requirements
 - Python 3.8
