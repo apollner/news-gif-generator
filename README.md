@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699800005)
+![Generated GIF](output.gif?raw=true&v=1699801531)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Big Ten’s punishment of Michigan’s Jim Harbaugh was sloppy, rushed and pleases nobody**
+**Gaza hospital ‘surrounded by tanks’ as other healthcare facilities say they’ve been damaged by Israeli strikes**
 
-You can read more about it [here](https://theathletic.com/5052783/2023/11/11/harbaugh-suspension-michigan/).
+You can read more about it [here](https://www.cnn.com/2023/11/10/middleeast/gaza-hospital-surrounded-tanks-reported-israeli-strikes-intl/index.html).
 
 ## Requirements
 - Python 3.8
