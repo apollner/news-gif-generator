@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699801531)
+![Generated GIF](output.gif?raw=true&v=1699803313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gaza hospital ‘surrounded by tanks’ as other healthcare facilities say they’ve been damaged by Israeli strikes**
+**Anchorage adds to record homeless death total as major winter storm drops more than 2 feet of snow**
 
-You can read more about it [here](https://www.cnn.com/2023/11/10/middleeast/gaza-hospital-surrounded-tanks-reported-israeli-strikes-intl/index.html).
+You can read more about it [here](https://cbs12.com/news/nation-world/anchorage-adds-to-record-homeless-death-total-as-major-winter-storm-drops-more-than-2-feet-of-snow).
 
 ## Requirements
 - Python 3.8
