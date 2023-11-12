@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699787090)
+![Generated GIF](output.gif?raw=true&v=1699788876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NC doctors seeing bump in child vaccine exemption, distrust from parents**
+**Singles’ Day 2023 sees Chinese consumers hunting for low prices, local brands**
 
-You can read more about it [here](https://www.wral.com/story/coronavirus/story/nc-doctors-seeing-bump-in-child-vaccine-exemption-distrust-from-parents/21143700/).
+You can read more about it [here](https://www.scmp.com/tech/tech-trends/article/3241128/chinese-consumers-hunt-low-prices-local-brands-singles-day-shopping-festival-economy-shows-signs).
 
 ## Requirements
 - Python 3.8
