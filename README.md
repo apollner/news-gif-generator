@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699828415)
+![Generated GIF](output.gif?raw=true&v=1699830388)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans unveil their plan to avert a government shutdown next week**
+**Wegovy's heart benefits due to more than weight loss, Novo says**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-unveil-plan-avert-government-shutdown-week-rcna124629).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-says-wegovy-heart-benefits-due-more-than-weight-loss-2023-11-11/).
 
 ## Requirements
 - Python 3.8
