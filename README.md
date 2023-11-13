@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699877599)
+![Generated GIF](output.gif?raw=true&v=1699879972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 10 odds, expert picks, best bets, teasers, spreads, survivor picks, TV, streaming, more**
+**Northern Taurid meteor shower could soon produce extra-bright meteors**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-tv-streaming-more/).
+You can read more about it [here](https://www.cnn.com/2023/11/12/world/northern-taurid-meteor-shower-fireball-scn/index.html).
 
 ## Requirements
 - Python 3.8
