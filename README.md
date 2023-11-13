@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699895195)
+![Generated GIF](output.gif?raw=true&v=1699896808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimbo Fisher expected to be fired by Texas A&M, sources confirm**
+**Your phone is the key to your digital life. Make sure you know what to do if you lose it.**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38880082/jimbo-fisher-expected-fired-texas-sources-confirm).
+You can read more about it [here](https://www.vox.com/technology/23954548/lost-broken-stolen-phone-save-yourself).
 
 ## Requirements
 - Python 3.8
