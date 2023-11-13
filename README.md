@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699879972)
+![Generated GIF](output.gif?raw=true&v=1699881071)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northern Taurid meteor shower could soon produce extra-bright meteors**
+**Macron’s comments on Gaza war are ‘factually, morally’ incorrect, Netanyahu charges**
 
-You can read more about it [here](https://www.cnn.com/2023/11/12/world/northern-taurid-meteor-shower-fireball-scn/index.html).
+You can read more about it [here](https://www.timesofisrael.com/macrons-comments-on-gaza-war-are-factually-morally-incorrect-netanyahu-charges/).
 
 ## Requirements
 - Python 3.8
