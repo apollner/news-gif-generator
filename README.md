@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699907623)
+![Generated GIF](output.gif?raw=true&v=1699909638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**I tried the next generation of smart glasses, and my nose loves them**
+**SpaceX Falcon 9 O3b mPower 5/6**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/next-generation-smart-glasses-my-nose-loves-them/).
+You can read more about it [here](https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2023/november/rocket-launch-spacex-falcon-9-mpower-c).
 
 ## Requirements
 - Python 3.8
