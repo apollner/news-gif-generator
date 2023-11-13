@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699866543)
+![Generated GIF](output.gif?raw=true&v=1699868103)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 800 Sudanese reported killed in attack on Darfur town, UN says**
+**Some Americans aren't tipping enough, Pew Research poll finds**
 
-You can read more about it [here](https://www.cbsnews.com/news/more-than-800-sudanese-reported-killed-in-attack-on-darfur-town-un-says/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/10/tipping-restaurants-pew-research-poll/71536108007/).
 
 ## Requirements
 - Python 3.8
