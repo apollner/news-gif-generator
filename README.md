@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699902302)
+![Generated GIF](output.gif?raw=true&v=1699904020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK judges rule to remove 8-month-old Indi Gregory off life support**
+**IRS announces new income tax brackets for 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/12/indi-gregory-removed-from-life-support/71557899007/).
+You can read more about it [here](https://www.clickondetroit.com/news/local/2023/11/12/irs-announces-new-income-tax-brackets-for-2024/).
 
 ## Requirements
 - Python 3.8
