@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699859222)
+![Generated GIF](output.gif?raw=true&v=1699860828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**3 dead, including SWAT officer, following hostage incident in Austin: Police**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/1-officer-killed-1-injured-austin-shooting/story?id=104818603).
 
 ## Requirements
 - Python 3.8
