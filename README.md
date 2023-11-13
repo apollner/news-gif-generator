@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699863130)
+![Generated GIF](output.gif?raw=true&v=1699864499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sherrone Moore guides Michigan through emotional 24 hours - ESPN**
+**Donald Trump: Legal experts see uphill battle in fraud case**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38876756/sherrone-moore-guides-michigan-emotional-24-hours).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67366022).
 
 ## Requirements
 - Python 3.8
