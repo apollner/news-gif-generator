@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699896808)
+![Generated GIF](output.gif?raw=true&v=1699899015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your phone is the key to your digital life. Make sure you know what to do if you lose it.**
+**[Removed]**
 
-You can read more about it [here](https://www.vox.com/technology/23954548/lost-broken-stolen-phone-save-yourself).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
