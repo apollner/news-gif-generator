@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699889624)
+![Generated GIF](output.gif?raw=true&v=1699891798)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Critics say a fumbled rollout of the brand-new RSV shot for babies has pediatricians worried and frustrated**
+**Michigan football makes its case, Penn State crumbles again, plus, marvelous Marvin Harrison**
 
-You can read more about it [here](https://abcnews.go.com/Health/critics-fumbled-rollout-brand-new-rsv-shot-babies/story?id=104815441).
+You can read more about it [here](https://theathletic.com/5055666/2023/11/12/michigan-football-penn-state-marvin-harrison-until-saturday/).
 
 ## Requirements
 - Python 3.8
