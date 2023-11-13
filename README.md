@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699905942)
+![Generated GIF](output.gif?raw=true&v=1699907623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 killed as U.S. military aircraft crashes into Mediterranean**
+**I tried the next generation of smart glasses, and my nose loves them**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/12/fatal-crash-mediterranean-00126732).
+You can read more about it [here](https://www.digitaltrends.com/computing/next-generation-smart-glasses-my-nose-loves-them/).
 
 ## Requirements
 - Python 3.8
