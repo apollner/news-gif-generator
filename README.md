@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699871871)
+![Generated GIF](output.gif?raw=true&v=1699873546)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Speaker Mike Johnson proposes 2-step stopgap funding bill to avert government shutdown**
+**Suspect released in fatal stabbing of Detroit synagogue leader Samantha Woll**
 
-You can read more about it [here](https://www.cbsnews.com/news/mike-johnson-proposes-stopgap-funding-bill-government-shutdown/).
+You can read more about it [here](https://www.timesofisrael.com/suspect-released-in-fatal-stabbing-of-detroit-synagogue-leader-samantha-woll/).
 
 ## Requirements
 - Python 3.8
