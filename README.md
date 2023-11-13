@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699913139)
+![Generated GIF](output.gif?raw=true&v=1699914808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**10 Freeway remains closed after massive pallet fire in downtown LA**
+**Donald Trump Jr. to headline defense's case in $250 million civil fraud trial**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/portion-of-10-freeway-remains-closed-after-massive-pallet-fire-in-downtown-la/).
+You can read more about it [here](https://abcnews.go.com/US/donald-trump-jr-headline-defenses-case-250-million/story?id=104827489).
 
 ## Requirements
 - Python 3.8
