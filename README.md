@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699911236)
+![Generated GIF](output.gif?raw=true&v=1699913139)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Marvels’ Flops at International Box Office With $63 Million, Dramatically Behind 2019’s ‘Captain Marvel’**
+**10 Freeway remains closed after massive pallet fire in downtown LA**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/the-marvels-flops-international-box-office-1235788655/).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/portion-of-10-freeway-remains-closed-after-massive-pallet-fire-in-downtown-la/).
 
 ## Requirements
 - Python 3.8
