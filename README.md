@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699882550)
+![Generated GIF](output.gif?raw=true&v=1699884436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weekly Horoscopes for the Week of November 12, by the Cut**
+**In very rare move, Pope dismisses conservative US bishop Strickland**
 
-You can read more about it [here](http://www.thecut.com/2023/11/weekly-horoscopes-for-the-week-of-november-12-by-the-cut.html).
+You can read more about it [here](https://www.reuters.com/world/pope-francis-dismisses-conservative-us-bishop-strickland-2023-11-11/).
 
 ## Requirements
 - Python 3.8
