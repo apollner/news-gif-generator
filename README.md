@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699852238)
+![Generated GIF](output.gif?raw=true&v=1699853634)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tuberculosis in Omaha: Westview YMCA had active case. 500 kids exposed**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/11/tuberculosis-omaha-westview-ymca/71548149007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
