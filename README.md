@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699832019)
+![Generated GIF](output.gif?raw=true&v=1699835523)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jalen Milroe has 6 total TDs as No. 8 Alabama clinches SEC West in easy win over Kentucky**
+**Netanyahu says he opposes Palestinian Authority's return to post-war Gaza**
 
-You can read more about it [here](https://sports.yahoo.com/jalen-milroe-has-6-total-tds-as-no-8-alabama-clinches-sec-west-in-easy-win-over-kentucky-202615699.html).
+You can read more about it [here](https://www.axios.com/2023/11/11/gaza-palestinian-authority-control-netanyahu-hamas-war).
 
 ## Requirements
 - Python 3.8
