@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699881071)
+![Generated GIF](output.gif?raw=true&v=1699882550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Macron’s comments on Gaza war are ‘factually, morally’ incorrect, Netanyahu charges**
+**Weekly Horoscopes for the Week of November 12, by the Cut**
 
-You can read more about it [here](https://www.timesofisrael.com/macrons-comments-on-gaza-war-are-factually-morally-incorrect-netanyahu-charges/).
+You can read more about it [here](http://www.thecut.com/2023/11/weekly-horoscopes-for-the-week-of-november-12-by-the-cut.html).
 
 ## Requirements
 - Python 3.8
