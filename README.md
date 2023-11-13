@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699891798)
+![Generated GIF](output.gif?raw=true&v=1699893571)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan football makes its case, Penn State crumbles again, plus, marvelous Marvin Harrison**
+**Box Office Bomb: ‘The Marvels’ Opens to $47M in New Low for Marvel Studios**
 
-You can read more about it [here](https://theathletic.com/5055666/2023/11/12/michigan-football-penn-state-marvin-harrison-until-saturday/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-marvels-box-office-bombing-opening-1235644758/).
 
 ## Requirements
 - Python 3.8
