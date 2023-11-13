@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699893571)
+![Generated GIF](output.gif?raw=true&v=1699895195)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office Bomb: ‘The Marvels’ Opens to $47M in New Low for Marvel Studios**
+**Jimbo Fisher expected to be fired by Texas A&M, sources confirm**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-marvels-box-office-bombing-opening-1235644758/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38880082/jimbo-fisher-expected-fired-texas-sources-confirm).
 
 ## Requirements
 - Python 3.8
