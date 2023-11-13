@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699909638)
+![Generated GIF](output.gif?raw=true&v=1699911236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon 9 O3b mPower 5/6**
+**‘The Marvels’ Flops at International Box Office With $63 Million, Dramatically Behind 2019’s ‘Captain Marvel’**
 
-You can read more about it [here](https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2023/november/rocket-launch-spacex-falcon-9-mpower-c).
+You can read more about it [here](https://variety.com/2023/film/box-office/the-marvels-flops-international-box-office-1235788655/).
 
 ## Requirements
 - Python 3.8
