@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699974633)
+![Generated GIF](output.gif?raw=true&v=1699976028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emirates announces $52 billion order for 95 Boeing aircraft**
+**College football Re-Rank 1-133: Michigan leads Georgia for No. 1 spot**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/13/emirates-announces-52-billion-order-for-95-boeing-aircraft-.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/13/college-football-re-rank-1-133-michigan-leads-georgia/71560200007/).
 
 ## Requirements
 - Python 3.8
