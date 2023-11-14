@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700003228)
+![Generated GIF](output.gif?raw=true&v=1700004830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why Sherman believes 49ers are top NFC team after blowout win vs. Jags**
+**Corbin Carroll, Gunnar Henderson win NL, AL ROY unanimously - ESPN**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/richard-sherman-win-jaguars-best-team-nfc/1671490/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38892291/corbin-carroll-gunnar-henderson-win-nl-al-roy-unanimously).
 
 ## Requirements
 - Python 3.8
