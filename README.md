@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699928371)
+![Generated GIF](output.gif?raw=true&v=1699929511)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netanyahu says Hamas refused Israeli fuel offer for Gaza's Shifa hospital**
+**‘Significant traffic impact’: Part of Interstate 10 in Los Angeles shut down after large pallet fire, authorities say**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-hamas-refused-israeli-fuel-offer-gazas-shifa-hospital-2023-11-12/).
+You can read more about it [here](https://www.cnn.com/2023/11/12/us/i-10-freeway-fire-closure/index.html).
 
 ## Requirements
 - Python 3.8
