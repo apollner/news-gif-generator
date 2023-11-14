@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699999581)
+![Generated GIF](output.gif?raw=true&v=1700001214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Los Angeles braces for a transportation ‘crisis’ as part of Interstate 10 is closed indefinitely after massive blaze**
+**New US House speaker tries to muster his Republicans to avert government shutdown**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/us/i-10-freeway-la-fire-closure-monday/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/new-us-house-speaker-tries-muster-his-republicans-avert-government-shutdown-2023-11-13/).
 
 ## Requirements
 - Python 3.8
