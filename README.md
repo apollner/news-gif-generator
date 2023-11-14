@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699947221)
+![Generated GIF](output.gif?raw=true&v=1699949555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republican Sen. Tim Scott suspends presidential campaign**
+**Japan's wholesale inflation slows sharply as cost pressures wane**
 
-You can read more about it [here](https://www.cnn.com/2023/11/12/politics/tim-scott-ends-presidential-campaign/index.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/japans-oct-wholesale-inflation-slows-sharply-signals-waning-cost-pressures-2023-11-13/).
 
 ## Requirements
 - Python 3.8
