@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699950921)
+![Generated GIF](output.gif?raw=true&v=1699953023)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock futures are little changed after Moody’s downgrades U.S. outlook: Live updates**
+**Texas A&M AD fired Jimbo Fisher because program 'stuck in neutral' - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/12/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38886070/texas-ad-fired-jimbo-fisher-program-stuck-neutral).
 
 ## Requirements
 - Python 3.8
