@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699966157)
+![Generated GIF](output.gif?raw=true&v=1699967468)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Josh Dobbs’ encore in Vikings’ victory over Saints has teammates buzzing: ‘This is sick’**
+**What to know: Alternate routes for drivers in wake of 10 Freeway fire, next steps**
 
-You can read more about it [here](https://theathletic.com/5057680/2023/11/12/saints-vikings-josh-dobbs-tj-hockenson/).
+You can read more about it [here](http://www.nbclosangeles.com/news/local/drivers-will-need-to-seek-alternate-routes-as-10-freeway-remains-closed-due-to-fire/3266670/).
 
 ## Requirements
 - Python 3.8
