@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699925811)
+![Generated GIF](output.gif?raw=true&v=1699928371)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Big Bond Rally Needs a Recession With Fed Wary of 'Head Fakes'**
+**Netanyahu says Hamas refused Israeli fuel offer for Gaza's Shifa hospital**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-12/a-big-bond-rally-needs-a-recession-with-fed-wary-of-head-fakes).
+You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-hamas-refused-israeli-fuel-offer-gazas-shifa-hospital-2023-11-12/).
 
 ## Requirements
 - Python 3.8
