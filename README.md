@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699949555)
+![Generated GIF](output.gif?raw=true&v=1699950921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan's wholesale inflation slows sharply as cost pressures wane**
+**Stock futures are little changed after Moody’s downgrades U.S. outlook: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/japans-oct-wholesale-inflation-slows-sharply-signals-waning-cost-pressures-2023-11-13/).
+You can read more about it [here](https://www.cnbc.com/2023/11/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
