@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699931352)
+![Generated GIF](output.gif?raw=true&v=1699932895)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Full transcript of "Face the Nation," Nov. 12, 2023**
+**NFL Week 10 grades: Lions earn 'A' for thrilling win vs. Chargers; Cards get 'B' in Kyler Murray's 2023 debut**
 
-You can read more about it [here](https://www.cbsnews.com/news/face-the-nation-full-transcript-2023-11-12/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-grades-raiders-earn-b-for-sunday-night-win-over-jets-browns-get-an-a-for-stunning-ravens/).
 
 ## Requirements
 - Python 3.8
