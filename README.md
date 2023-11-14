@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699981493)
+![Generated GIF](output.gif?raw=true&v=1699983402)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astronauts accidentally drop tool bag during ISS spacewalk**
+**Los Angeles braces for a transportation ‘crisis’ as part of Interstate 10 is closed indefinitely after massive blaze**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/world/astronauts-drop-tool-bag-iss-spacewalk-intl-scn-scli/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/13/us/i-10-freeway-la-fire-closure-monday/index.html).
 
 ## Requirements
 - Python 3.8
