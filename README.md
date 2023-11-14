@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699956543)
+![Generated GIF](output.gif?raw=true&v=1699958228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**China Box Office: ‘The Marvels’ Bombs as Superhero Fatigue Deepens**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/china-the-marvels-bombs-superhero-fatigue-1235645155/).
 
 ## Requirements
 - Python 3.8
