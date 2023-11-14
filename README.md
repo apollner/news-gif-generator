@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699997670)
+![Generated GIF](output.gif?raw=true&v=1699999581)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Under fire, US Supreme Court unveils ethics code for justices**
+**Los Angeles braces for a transportation ‘crisis’ as part of Interstate 10 is closed indefinitely after massive blaze**
 
-You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-announces-formal-ethics-code-justices-2023-11-13/).
+You can read more about it [here](https://www.cnn.com/2023/11/13/us/i-10-freeway-la-fire-closure-monday/index.html).
 
 ## Requirements
 - Python 3.8
