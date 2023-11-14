@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699970784)
+![Generated GIF](output.gif?raw=true&v=1699972512)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's How Biden Can Turn It Around**
+**Hundreds trapped in Gaza’s main hospital as Israeli forces and Palestinian militants battle outside**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/11/13/biden-2024-reelection-challenges-strategy-00126776).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-13-2023-c98faefe9d5bb213d3e44cf9defd5990).
 
 ## Requirements
 - Python 3.8
