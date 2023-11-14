@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699940015)
+![Generated GIF](output.gif?raw=true&v=1699942228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Ferrari’: ‘Adam Driver’s Response To Question About “Cheesy” Crash Scenes Goes Viral**
+**PM facing tough week on Braverman and Rwanda**
 
-You can read more about it [here](https://deadline.com/2023/11/ferrari-adam-driver-response-question-cheesy-crash-scenes-1235600738/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67396107).
 
 ## Requirements
 - Python 3.8
