@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700001214)
+![Generated GIF](output.gif?raw=true&v=1700003228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New US House speaker tries to muster his Republicans to avert government shutdown**
+**Why Sherman believes 49ers are top NFC team after blowout win vs. Jags**
 
-You can read more about it [here](https://www.reuters.com/world/us/new-us-house-speaker-tries-muster-his-republicans-avert-government-shutdown-2023-11-13/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/richard-sherman-win-jaguars-best-team-nfc/1671490/).
 
 ## Requirements
 - Python 3.8
