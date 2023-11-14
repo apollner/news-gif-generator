@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699963996)
+![Generated GIF](output.gif?raw=true&v=1699966157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden will push China to resume military ties with US, official says**
+**Josh Dobbs’ encore in Vikings’ victory over Saints has teammates buzzing: ‘This is sick’**
 
-You can read more about it [here](https://www.reuters.com/world/biden-will-push-china-resume-military-ties-with-us-official-says-2023-11-12/).
+You can read more about it [here](https://theathletic.com/5057680/2023/11/12/saints-vikings-josh-dobbs-tj-hockenson/).
 
 ## Requirements
 - Python 3.8
