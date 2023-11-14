@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699936439)
+![Generated GIF](output.gif?raw=true&v=1699938415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republican Sen. Tim Scott suspends presidential campaign**
+**Las Vegas Raiders Week 10 Inactives vs. New York Jets**
 
-You can read more about it [here](https://www.cnn.com/2023/11/12/politics/tim-scott-ends-presidential-campaign/index.html).
+You can read more about it [here](https://www.raiders.com/news/las-vegas-raiders-week-10-inactives-new-york-jets-111223-sunday-night-football).
 
 ## Requirements
 - Python 3.8
