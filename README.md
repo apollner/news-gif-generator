@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699983402)
+![Generated GIF](output.gif?raw=true&v=1699986914)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Los Angeles braces for a transportation ‘crisis’ as part of Interstate 10 is closed indefinitely after massive blaze**
+**C.J. Stroud on pace to break Andrew Luck's record for passing yards by a rookie**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/us/i-10-freeway-la-fire-closure-monday/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-on-pace-to-break-andrew-lucks-record-for-passing-yards-by-a-rookie).
 
 ## Requirements
 - Python 3.8
