@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699976028)
+![Generated GIF](output.gif?raw=true&v=1699978059)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Re-Rank 1-133: Michigan leads Georgia for No. 1 spot**
+**Marlon Wayans reveals eldest child is transgender: 'I have a daughter that transitioned into a son'**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/13/college-football-re-rank-1-133-michigan-leads-georgia/71560200007/).
+You can read more about it [here](https://pagesix.com/2023/11/13/parents/marlon-wayans-reveals-eldest-child-is-transgender/).
 
 ## Requirements
 - Python 3.8
