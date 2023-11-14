@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699959942)
+![Generated GIF](output.gif?raw=true&v=1699961621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Stock Market Today: Dow, S&P Live Updates for November 12, 2023**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-12/asia-stocks-to-climb-after-wall-street-tech-rally-markets-wrap).
 
 ## Requirements
 - Python 3.8
