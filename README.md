@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699918488)
+![Generated GIF](output.gif?raw=true&v=1699921872)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Statement From Secretary of Defense Lloyd J. Austin III on Additional U.S. Military Strike**
+**5 killed as U.S. military aircraft crashes into Mediterranean**
 
-You can read more about it [here](https://www.defense.gov/News/Releases/Release/Article/3586509/statement-from-secretary-of-defense-lloyd-j-austin-iii-on-additional-us-militar/).
+You can read more about it [here](https://www.politico.com/news/2023/11/12/fatal-crash-mediterranean-00126732).
 
 ## Requirements
 - Python 3.8
