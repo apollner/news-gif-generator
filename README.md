@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699968819)
+![Generated GIF](output.gif?raw=true&v=1699970784)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suella Braverman, Britain’s hardline home secretary, fired as ex-PM David Cameron makes surprise return to government**
+**Here's How Biden Can Turn It Around**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/uk/suella-braverman-leaves-government-rishi-sunak-gbr-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/11/13/biden-2024-reelection-challenges-strategy-00126776).
 
 ## Requirements
 - Python 3.8
