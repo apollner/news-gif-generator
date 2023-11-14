@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1699921872)
+![Generated GIF](output.gif?raw=true&v=1699925811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**5 killed as U.S. military aircraft crashes into Mediterranean**
+**A Big Bond Rally Needs a Recession With Fed Wary of 'Head Fakes'**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/12/fatal-crash-mediterranean-00126732).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-12/a-big-bond-rally-needs-a-recession-with-fed-wary-of-head-fakes).
 
 ## Requirements
 - Python 3.8
