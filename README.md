@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700055232)
+![Generated GIF](output.gif?raw=true&v=1700057262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese scientists created a robot that can make oxygen on Mars. It could allow humans to someday live on the red planet.**
+**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
 
-You can read more about it [here](https://www.businessinsider.com/chinese-robot-oxygen-mars-step-toward-humans-colonizing-red-planet-2023-11).
+You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
