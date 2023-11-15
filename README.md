@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700026420)
+![Generated GIF](output.gif?raw=true&v=1700028663)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 10 grades: Broncos earn 'A-' for shocking Monday win over Bills; Browns get an 'A' for beating Ravens**
+**Biden says Gaza hospital must be protected as tanks close in**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-grades-broncos-earn-a-for-shocking-monday-win-over-bills-browns-get-an-a-for-beating-ravens/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/14/biden-says-gaza-hospital-must-be-protected-as-israeli-tanks-close-in).
 
 ## Requirements
 - Python 3.8
