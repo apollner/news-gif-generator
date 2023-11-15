@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700024838)
+![Generated GIF](output.gif?raw=true&v=1700026420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gallant: Hamas has lost control in Gaza; gunmen who fired from hospital entrance killed**
+**NFL Week 10 grades: Broncos earn 'A-' for shocking Monday win over Bills; Browns get an 'A' for beating Ravens**
 
-You can read more about it [here](https://www.timesofisrael.com/gallant-hamas-has-lost-control-in-gaza-troops-kill-gunmen-who-fired-from-hospital/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-grades-broncos-earn-a-for-shocking-monday-win-over-bills-browns-get-an-a-for-beating-ravens/).
 
 ## Requirements
 - Python 3.8
