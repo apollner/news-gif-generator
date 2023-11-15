@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700066442)
+![Generated GIF](output.gif?raw=true&v=1700068007)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live updates: House to vote on GOP plan to avert government shutdown**
+**Victor Wembanyama vs. Chet Holmgren First Matchup Preview | NBA GameTime**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/14/government-shutdown-updates/).
+You can read more about it [here](https://www.youtube.com/watch?v=WKsG5aoaC_Q).
 
 ## Requirements
 - Python 3.8
