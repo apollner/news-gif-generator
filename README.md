@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700035837)
+![Generated GIF](output.gif?raw=true&v=1700037334)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas has command node under Al-Shifa hospital, US official says**
+**Secret Service agents protecting Biden's granddaughter open fire when 3 people try to break into SUV**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/politics/al-shifa-hospital-us-intelligence/index.html).
+You can read more about it [here](https://www.fox5dc.com/news/secret-service-agents-protecting-bidens-granddaughter-open-fire-on-3-trying-to-break-into-suv).
 
 ## Requirements
 - Python 3.8
