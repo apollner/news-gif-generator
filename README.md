@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700068007)
+![Generated GIF](output.gif?raw=true&v=1700069708)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Victor Wembanyama vs. Chet Holmgren First Matchup Preview | NBA GameTime**
+**Nothing is bringing iMessage to its Android phone**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WKsG5aoaC_Q).
+You can read more about it [here](https://www.theverge.com/2023/11/14/23960516/nothing-chats-imessage-android-phone).
 
 ## Requirements
 - Python 3.8
