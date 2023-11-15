@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700033673)
+![Generated GIF](output.gif?raw=true&v=1700035837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**33 Billion Light Years Away: Webb Space Telescope Finds Galaxies That Challenge Astronomical Theories**
+**Hamas has command node under Al-Shifa hospital, US official says**
 
-You can read more about it [here](https://scitechdaily.com/?p=327881).
+You can read more about it [here](https://www.cnn.com/2023/11/13/politics/al-shifa-hospital-us-intelligence/index.html).
 
 ## Requirements
 - Python 3.8
