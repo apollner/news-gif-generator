@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700057262)
+![Generated GIF](output.gif?raw=true&v=1700058900)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
+**'The boss is not going to leave': See what ex-Trump attorney told prosecutors**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
+You can read more about it [here](https://www.cnn.com/videos/politics/2023/11/14/abc-exclusive-trump-2020-election-ebof-vpx.cnn).
 
 ## Requirements
 - Python 3.8
