@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700052640)
+![Generated GIF](output.gif?raw=true&v=1700053927)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A missing sailor's last message from Hurricane Otis was to ask his family to pray for him**
+**'The boss is not going to leave': See what ex-Trump attorney told prosecutors**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/missing-sailors-message-hurricane-otis-family-pray-104868663).
+You can read more about it [here](https://www.cnn.com/videos/politics/2023/11/14/abc-exclusive-trump-2020-election-ebof-vpx.cnn).
 
 ## Requirements
 - Python 3.8
