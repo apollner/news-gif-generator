@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700030249)
+![Generated GIF](output.gif?raw=true&v=1700032047)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man Receives World’s First Eye Transplant**
+**Actor Lukas Gage and hairstylist Chris Appleton will divorce after 6 months of marriage**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/man-receives-world-s-first-eye-transplant/7353329.html).
+You can read more about it [here](https://www.cbsnews.com/news/lukas-gage-chris-appleton-divorce/).
 
 ## Requirements
 - Python 3.8
