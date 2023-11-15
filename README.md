@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700064614)
+![Generated GIF](output.gif?raw=true&v=1700066442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Home Depot Sales, Earnings Fall but Top Analyst Estimates**
+**Live updates: House to vote on GOP plan to avert government shutdown**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-cpi-report-inflation-11-14-2023).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/14/government-shutdown-updates/).
 
 ## Requirements
 - Python 3.8
