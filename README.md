@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700085992)
+![Generated GIF](output.gif?raw=true&v=1700087816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matt LeBlanc bids emotional adieu to friend Matthew Perry, 'it was an honour'**
+**Texas A&M football coach search: Is Deion Sanders a legit candidate?**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/matt-leblanc-bids-emotional-adieu-to-friend-matthew-perry-it-was-an-honour-101699981160498.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/sec/2023/11/14/texas-am-football-coach-search-candidates/71577786007/).
 
 ## Requirements
 - Python 3.8
