@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700019223)
+![Generated GIF](output.gif?raw=true&v=1700021441)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chris Appleton Reportedly Filed For Divorce from Lukas Gage**
+**James Harden's 0-4 start with Clippers, the year of Tyrese Maxey & can the Knicks stay hot? | Good Word with Goodwill**
 
-You can read more about it [here](http://www.vulture.com/article/chris-appleton-lukas-gage-divorce.html).
+You can read more about it [here](https://sports.yahoo.com/james-hardens-0-4-start-with-clippers-the-year-of-tyrese-maxey--can-the-knicks-stay-hot--good-word-with-goodwill-212017732.html).
 
 ## Requirements
 - Python 3.8
