@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700073397)
+![Generated GIF](output.gif?raw=true&v=1700075130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cooling Inflation Likely Ends Fed Rate Hikes**
+**House to consider stopgap funding measure today to avert government shutdown**
 
-You can read more about it [here](https://www.wsj.com/economy/central-banking/what-to-watch-in-the-cpi-report-did-inflation-heat-up-or-cool-down-last-month-5c22f833).
+You can read more about it [here](https://www.cbsnews.com/news/government-shutdown-2023-mike-johnson-stopgap-funding-bill/).
 
 ## Requirements
 - Python 3.8
