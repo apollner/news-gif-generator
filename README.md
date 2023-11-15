@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700076829)
+![Generated GIF](output.gif?raw=true&v=1700078944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"World's most dangerous bird" emerges from ocean, stunning onlookers**
+**Man Uses Mom's Poop As Treatment, Experiences Her Menopause Symptoms**
 
-You can read more about it [here](https://www.cbsnews.com/news/southern-cassowary-queensland-australia-bingil-bay/).
+You can read more about it [here](https://www.insider.com/mom-donates-poop-fecal-microbiota-transplant-son-experiences-menopause-2023-11).
 
 ## Requirements
 - Python 3.8
