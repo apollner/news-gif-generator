@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700084081)
+![Generated GIF](output.gif?raw=true&v=1700085992)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP Sen. Mullin challenges Teamsters boss to fight at Senate hearing: 'Stand your butt up'**
+**Matt LeBlanc bids emotional adieu to friend Matthew Perry, 'it was an honour'**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/14/stand-your-butt-up-gop-sen-mullin-challenges-teamsters-boss-to-fight-at-senate-hearing.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/matt-leblanc-bids-emotional-adieu-to-friend-matthew-perry-it-was-an-honour-101699981160498.html).
 
 ## Requirements
 - Python 3.8
