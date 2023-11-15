@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700071809)
+![Generated GIF](output.gif?raw=true&v=1700073397)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marvel Studios Taking Stock of Strategy Amid ‘The Marvels’ Meltdown**
+**Cooling Inflation Likely Ends Fed Rate Hikes**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-rethinks-movie-strategy-marvels-1235645119/).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/what-to-watch-in-the-cpi-report-did-inflation-heat-up-or-cool-down-last-month-5c22f833).
 
 ## Requirements
 - Python 3.8
