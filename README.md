@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700089671)
+![Generated GIF](output.gif?raw=true&v=1700091252)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
+**Record-breaking 'BOAT' gamma-ray burst continues to amaze scientists**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNC9taWRkbGVlYXN0L2lzcmFlbC1hbGxlZ2VzLWhhbWFzLWFybW9yeS11bmRlci1ob3NwaXRhbC1pbi1nYXphLWhuay1pbnRsL2luZGV4Lmh0bWzSAXRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzE0L21pZGRsZWVhc3QvaXNyYWVsLWFsbGVnZXMtaGFtYXMtYXJtb3J5LXVuZGVyLWhvc3BpdGFsLWluLWdhemEtaG5rLWludGwvaW5kZXguaHRtbA?oc=5).
+You can read more about it [here](https://www.space.com/boat-gamma-ray-burst-earth-ionosphere-ozone-bright).
 
 ## Requirements
 - Python 3.8
