@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700069708)
+![Generated GIF](output.gif?raw=true&v=1700071809)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nothing is bringing iMessage to its Android phone**
+**Marvel Studios Taking Stock of Strategy Amid ‘The Marvels’ Meltdown**
 
-You can read more about it [here](https://www.theverge.com/2023/11/14/23960516/nothing-chats-imessage-android-phone).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-rethinks-movie-strategy-marvels-1235645119/).
 
 ## Requirements
 - Python 3.8
