@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700032047)
+![Generated GIF](output.gif?raw=true&v=1700033673)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actor Lukas Gage and hairstylist Chris Appleton will divorce after 6 months of marriage**
+**33 Billion Light Years Away: Webb Space Telescope Finds Galaxies That Challenge Astronomical Theories**
 
-You can read more about it [here](https://www.cbsnews.com/news/lukas-gage-chris-appleton-divorce/).
+You can read more about it [here](https://scitechdaily.com/?p=327881).
 
 ## Requirements
 - Python 3.8
