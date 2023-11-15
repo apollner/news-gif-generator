@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700048032)
+![Generated GIF](output.gif?raw=true&v=1700050398)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The invisible dangers of travelling through time**
+**Glencore Wins Teck Coal Business, Paving Way for Its Own Split**
 
-You can read more about it [here](https://www.bbc.com/future/article/20231113-the-invisible-dangers-of-travelling-through-time).
+You can read more about it [here](https://finance.yahoo.com/news/glencore-buy-77-teck-coal-072626600.html).
 
 ## Requirements
 - Python 3.8
