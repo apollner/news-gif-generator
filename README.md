@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700046353)
+![Generated GIF](output.gif?raw=true&v=1700048032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**The invisible dangers of travelling through time**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/future/article/20231113-the-invisible-dangers-of-travelling-through-time).
 
 ## Requirements
 - Python 3.8
