@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700050398)
+![Generated GIF](output.gif?raw=true&v=1700052640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Glencore Wins Teck Coal Business, Paving Way for Its Own Split**
+**A missing sailor's last message from Hurricane Otis was to ask his family to pray for him**
 
-You can read more about it [here](https://finance.yahoo.com/news/glencore-buy-77-teck-coal-072626600.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/missing-sailors-message-hurricane-otis-family-pray-104868663).
 
 ## Requirements
 - Python 3.8
