@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700082335)
+![Generated GIF](output.gif?raw=true&v=1700084081)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live updates: House to vote on GOP plan to avert government shutdown**
+**GOP Sen. Mullin challenges Teamsters boss to fight at Senate hearing: 'Stand your butt up'**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/14/government-shutdown-updates/).
+You can read more about it [here](https://www.cnbc.com/2023/11/14/stand-your-butt-up-gop-sen-mullin-challenges-teamsters-boss-to-fight-at-senate-hearing.html).
 
 ## Requirements
 - Python 3.8
