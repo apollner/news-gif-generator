@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700022872)
+![Generated GIF](output.gif?raw=true&v=1700024838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Purdy, 49ers win over Jags, CJ Stroud beats Bengals and Antonio Pierce in Vegas | NFL | THE HERD**
+**Gallant: Hamas has lost control in Gaza; gunmen who fired from hospital entrance killed**
 
-You can read more about it [here](https://www.youtube.com/watch?v=V6NdnUdy120).
+You can read more about it [here](https://www.timesofisrael.com/gallant-hamas-has-lost-control-in-gaza-troops-kill-gunmen-who-fired-from-hospital/).
 
 ## Requirements
 - Python 3.8
