@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700078944)
+![Generated GIF](output.gif?raw=true&v=1700080581)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man Uses Mom's Poop As Treatment, Experiences Her Menopause Symptoms**
+**Matt LeBlanc Pays Tribute To Late Co-Star Matthew Perry: “It Is With A Heavy Heart I Say Goodbye”**
 
-You can read more about it [here](https://www.insider.com/mom-donates-poop-fecal-microbiota-transplant-son-experiences-menopause-2023-11).
+You can read more about it [here](https://deadline.com/2023/11/matt-leblanc-matthew-perry-tribute-1235611657/).
 
 ## Requirements
 - Python 3.8
