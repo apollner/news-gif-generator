@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700016069)
+![Generated GIF](output.gif?raw=true&v=1700017808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Semaglutide helps boost heart health in people without diabetes, study finds**
+**Man Receives World’s First Eye Transplant**
 
-You can read more about it [here](https://www.goodmorningamerica.com/wellness/story/semaglutide-helps-reduce-risk-heart-attack-stroke-people-104844299).
+You can read more about it [here](https://learningenglish.voanews.com/a/man-receives-world-s-first-eye-transplant/7353329.html).
 
 ## Requirements
 - Python 3.8
