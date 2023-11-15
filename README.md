@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700008439)
+![Generated GIF](output.gif?raw=true&v=1700012393)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Corbin Carroll, Gunnar Henderson win NL, AL ROY unanimously - ESPN**
+**With the Trump business empire on the brink, Don Jr. breaks out an elevator pitch**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38892291/corbin-carroll-gunnar-henderson-win-nl-al-roy-unanimously).
+You can read more about it [here](https://www.politico.com/news/2023/11/13/donald-trump-jr-testimony-fraud-trial-00126930).
 
 ## Requirements
 - Python 3.8
