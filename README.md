@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700012393)
+![Generated GIF](output.gif?raw=true&v=1700015000)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With the Trump business empire on the brink, Don Jr. breaks out an elevator pitch**
+**Dealmaster: Apple iPads, HP printers, OLED TVs, robo vacuums, and more**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/13/donald-trump-jr-testimony-fraud-trial-00126930).
+You can read more about it [here](https://arstechnica.com/shopping/2023/11/dealmaster-apple-ipads-hp-printers-oled-tvs-robo-vacuums-and-more/).
 
 ## Requirements
 - Python 3.8
