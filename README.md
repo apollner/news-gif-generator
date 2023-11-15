@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700021441)
+![Generated GIF](output.gif?raw=true&v=1700022872)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Harden's 0-4 start with Clippers, the year of Tyrese Maxey & can the Knicks stay hot? | Good Word with Goodwill**
+**Purdy, 49ers win over Jags, CJ Stroud beats Bengals and Antonio Pierce in Vegas | NFL | THE HERD**
 
-You can read more about it [here](https://sports.yahoo.com/james-hardens-0-4-start-with-clippers-the-year-of-tyrese-maxey--can-the-knicks-stay-hot--good-word-with-goodwill-212017732.html).
+You can read more about it [here](https://www.youtube.com/watch?v=V6NdnUdy120).
 
 ## Requirements
 - Python 3.8
