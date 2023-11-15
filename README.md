@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700015000)
+![Generated GIF](output.gif?raw=true&v=1700016069)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dealmaster: Apple iPads, HP printers, OLED TVs, robo vacuums, and more**
+**Semaglutide helps boost heart health in people without diabetes, study finds**
 
-You can read more about it [here](https://arstechnica.com/shopping/2023/11/dealmaster-apple-ipads-hp-printers-oled-tvs-robo-vacuums-and-more/).
+You can read more about it [here](https://www.goodmorningamerica.com/wellness/story/semaglutide-helps-reduce-risk-heart-attack-stroke-people-104844299).
 
 ## Requirements
 - Python 3.8
