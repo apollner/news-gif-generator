@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700112830)
+![Generated GIF](output.gif?raw=true&v=1700115058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia overtakes Ohio State; Michigan, FSU round out CFP top 4 - ESPN**
+**GOP Rep. Tim Burchett accuses Kevin McCarthy of elbowing him in the kidneys, ex-speaker denies it**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38899455/georgia-overtakes-ohio-state-michigan-fsu-round-cfp-top-4).
+You can read more about it [here](https://www.cnn.com/2023/11/14/politics/burchett-mccarthy-elbowing-fight/index.html).
 
 ## Requirements
 - Python 3.8
