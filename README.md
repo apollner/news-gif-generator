@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700140325)
+![Generated GIF](output.gif?raw=true&v=1700141817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Dancing WIth the Stars': Barry Williams Goes Shirtless, Is Eliminated**
+**Georgia No. 1 in latest CFP rankings, Washington, Oregon first 2 out: Where this leaves Buckeyes**
 
-You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-barry-williams-eliminated/).
+You can read more about it [here](https://theathletic.com/5064544/2023/11/14/college-football-playoff-rankings-2023/).
 
 ## Requirements
 - Python 3.8
