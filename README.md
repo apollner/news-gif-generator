@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700116607)
+![Generated GIF](output.gif?raw=true&v=1700118434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Duke vs. Michigan State live stream, watch online, TV channel, prediction, pick, spread, basketball game odds**
+**Samsung Announces 8TB T5 EVO Portable SSD**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/duke-vs-michigan-state-live-stream-watch-online-tv-channel-prediction-pick-spread-basketball-game-odds/).
+You can read more about it [here](https://www.macrumors.com/2023/11/14/samsung-announces-8tb-t5-evo-portable-ssd/).
 
 ## Requirements
 - Python 3.8
