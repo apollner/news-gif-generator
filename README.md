@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700111320)
+![Generated GIF](output.gif?raw=true&v=1700112830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matt Gaetz calls for House Ethics investigation into Kevin McCarthy**
+**Georgia overtakes Ohio State; Michigan, FSU round out CFP top 4 - ESPN**
 
-You can read more about it [here](https://www.axios.com/2023/11/14/matt-gaetz-house-ethics-kevin-mccarthy-burchett).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38899455/georgia-overtakes-ohio-state-michigan-fsu-round-cfp-top-4).
 
 ## Requirements
 - Python 3.8
