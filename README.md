@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700159768)
+![Generated GIF](output.gif?raw=true&v=1700161463)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli troops scour Gaza's Al Shifa hospital for Hamas fighters, weapons**
+**Microsoft and Nvidia are making it easier to run AI models on Windows**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-raids-gazas-al-shifa-hospital-2023-11-15/).
+You can read more about it [here](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers).
 
 ## Requirements
 - Python 3.8
