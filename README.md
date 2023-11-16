@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700134421)
+![Generated GIF](output.gif?raw=true&v=1700136799)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Dancing WIth the Stars': Barry Williams Goes Shirtless, Is Eliminated**
+**Ohio interstate crash leaves 6 dead**
 
-You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-barry-williams-eliminated/).
+You can read more about it [here](https://www.npr.org/2023/11/15/1213125594/ohio-interstate-crash-leaves-6-dead).
 
 ## Requirements
 - Python 3.8
