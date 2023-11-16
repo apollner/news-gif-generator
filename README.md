@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700136799)
+![Generated GIF](output.gif?raw=true&v=1700139046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio interstate crash leaves 6 dead**
+**10 Freeway arson investigation continues as heavy traffic delays expected**
 
-You can read more about it [here](https://www.npr.org/2023/11/15/1213125594/ohio-interstate-crash-leaves-6-dead).
+You can read more about it [here](https://ktla.com/10-freeway-fire/live-mayor-bass-provides-update-on-10-freeway-fire-closure-in-downtown-l-a/).
 
 ## Requirements
 - Python 3.8
