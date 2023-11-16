@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700148833)
+![Generated GIF](output.gif?raw=true&v=1700151027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Target clobbers muted earnings estimates, but student loans, higher interest rates slow sales**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/target-clobbers-muted-earnings-estimates-but-student-loans-higher-interest-rates-slow-sales-113436428.html).
 
 ## Requirements
 - Python 3.8
