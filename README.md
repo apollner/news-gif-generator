@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700174041)
+![Generated GIF](output.gif?raw=true&v=1700176007)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Webb Space Telescope reveals sandy surprise in distant planet**
+**Floridians At Risk Of Life-Threatening Flooding As A Foot Of Rain Could Potentially Fall By Friday**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds-atmosphere).
+You can read more about it [here](https://www.youtube.com/watch?v=GRYpM40JCrE).
 
 ## Requirements
 - Python 3.8
