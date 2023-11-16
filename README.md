@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700127240)
+![Generated GIF](output.gif?raw=true&v=1700129345)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio interstate crash leaves 6 dead**
+**'Bouncing' comets may be able to spread life throughout the universe**
 
-You can read more about it [here](https://www.npr.org/2023/11/15/1213125594/ohio-interstate-crash-leaves-6-dead).
+You can read more about it [here](https://www.space.com/comets-bouncing-seed-life-on-exoplanets).
 
 ## Requirements
 - Python 3.8
