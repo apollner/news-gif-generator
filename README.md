@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700163218)
+![Generated GIF](output.gif?raw=true&v=1700165340)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jennifer Aniston Honors Matthew Perry by Sharing Text Messages**
+**Microsoft and Nvidia are making it easier to run AI models on Windows**
 
-You can read more about it [here](https://variety.com/2023/tv/news/jennifer-aniston-matthew-perry-dead-tribute-friends-1235791573/).
+You can read more about it [here](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers).
 
 ## Requirements
 - Python 3.8
