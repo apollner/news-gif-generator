@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700109437)
+![Generated GIF](output.gif?raw=true&v=1700111320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Anti-Smog Guns Deployed In New Delhi, Ranked Most Polluted City | Insider News**
+**Matt Gaetz calls for House Ethics investigation into Kevin McCarthy**
 
-You can read more about it [here](https://www.youtube.com/watch?v=724eiwQuRk4).
+You can read more about it [here](https://www.axios.com/2023/11/14/matt-gaetz-house-ethics-kevin-mccarthy-burchett).
 
 ## Requirements
 - Python 3.8
