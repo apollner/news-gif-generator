@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700118434)
+![Generated GIF](output.gif?raw=true&v=1700120057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Announces 8TB T5 EVO Portable SSD**
+**College Football Playoff Rankings: Georgia jumps Ohio State for No. 1 spot as Missouri enters top 10**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/14/samsung-announces-8tb-t5-evo-portable-ssd/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-georgia-jumps-ohio-state-for-no-1-spot-as-missouri-enters-top-10/).
 
 ## Requirements
 - Python 3.8
