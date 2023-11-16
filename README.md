@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700151027)
+![Generated GIF](output.gif?raw=true&v=1700152911)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Target clobbers muted earnings estimates, but student loans, higher interest rates slow sales**
+**Israeli troops and tanks raid Gaza’s Al-Shifa Hospital**
 
-You can read more about it [here](https://finance.yahoo.com/news/target-clobbers-muted-earnings-estimates-but-student-loans-higher-interest-rates-slow-sales-113436428.html).
+You can read more about it [here](https://www.cnn.com/2023/11/15/middleeast/shifa-hospital-gaza-idf-intl/index.html).
 
 ## Requirements
 - Python 3.8
