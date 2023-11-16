@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700141817)
+![Generated GIF](output.gif?raw=true&v=1700143625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Georgia No. 1 in latest CFP rankings, Washington, Oregon first 2 out: Where this leaves Buckeyes**
+**John Oliver-Backed Campaign For New Zealand Bird Of The Century Results In Soaring Win For Pūteketeke**
 
-You can read more about it [here](https://theathletic.com/5064544/2023/11/14/college-football-playoff-rankings-2023/).
+You can read more about it [here](https://deadline.com/2023/11/john-oliver-campaign-puteketeke-wins-new-zealand-bird-of-the-century-1235612397/).
 
 ## Requirements
 - Python 3.8
