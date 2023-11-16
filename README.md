@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700131104)
+![Generated GIF](output.gif?raw=true&v=1700132739)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff Rankings reactions: Penn State overrated, Ole Miss underrated in new top 25**
+**UK inflation falls by more than expected in October to 4.6%, lowest in two years**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reactions-penn-state-overrated-ole-miss-underrated-in-new-top-25/).
+You can read more about it [here](http://www.nbcdfw.com/news/business/money-report/uk-inflation-falls-by-more-than-expected-in-october-to-4-6-lowest-in-two-years/3387768/).
 
 ## Requirements
 - Python 3.8
