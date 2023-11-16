@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700104162)
+![Generated GIF](output.gif?raw=true&v=1700105694)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB Manager of the Year Award winners for 2023**
+**CFP rankings: Big Ten teams in third College Football Playoff top 25 poll of 2023 season**
 
-You can read more about it [here](https://www.mlb.com/news/mlb-manager-of-the-year-award-winners-2023).
+You can read more about it [here](https://www.freep.com/story/sports/college/2023/11/14/college-football-playoff-rankings-2023-cfp-week-12-big-ten-teams-michigan-ohio-state-penn-state/71583693007/).
 
 ## Requirements
 - Python 3.8
