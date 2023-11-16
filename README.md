@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700107868)
+![Generated GIF](output.gif?raw=true&v=1700109437)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alphabet CEO Pichai Grilled on Record-Keeping at Google Play Trial**
+**Anti-Smog Guns Deployed In New Delhi, Ranked Most Polluted City | Insider News**
 
-You can read more about it [here](https://finance.yahoo.com/news/alphabet-ceo-pichai-grilled-record-190222231.html).
+You can read more about it [here](https://www.youtube.com/watch?v=724eiwQuRk4).
 
 ## Requirements
 - Python 3.8
