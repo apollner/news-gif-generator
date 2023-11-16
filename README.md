@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700123732)
+![Generated GIF](output.gif?raw=true&v=1700125707)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Bouncing' comets may be able to spread life throughout the universe**
+**Nothing Phone says it will hack into iMessage, bring blue bubbles to Android**
 
-You can read more about it [here](https://www.space.com/comets-bouncing-seed-life-on-exoplanets).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/).
 
 ## Requirements
 - Python 3.8
