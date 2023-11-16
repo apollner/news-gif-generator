@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700101491)
+![Generated GIF](output.gif?raw=true&v=1700102550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Record-breaking 'BOAT' gamma-ray burst continues to amaze scientists**
+**Webb telescope spots the most distant Milky Way-like galaxy yet**
 
-You can read more about it [here](https://www.space.com/boat-gamma-ray-burst-earth-ionosphere-ozone-bright).
+You can read more about it [here](https://www.cnn.com/2023/11/14/world/ceers-2112-distant-barred-spiral-galaxy-webb-scn/index.html).
 
 ## Requirements
 - Python 3.8
