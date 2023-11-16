@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700172412)
+![Generated GIF](output.gif?raw=true&v=1700174041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carey Mulligan Never Felt Like a ‘Proper Actor.’ Then Came ‘Maestro’: ‘I’m Going to Absolutely Do It All’**
+**James Webb Space Telescope reveals sandy surprise in distant planet**
 
-You can read more about it [here](https://variety.com/2023/film/news/carey-mulligan-maestro-bradley-cooper-interview-1235790647/).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds-atmosphere).
 
 ## Requirements
 - Python 3.8
