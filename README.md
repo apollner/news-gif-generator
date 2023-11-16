@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700115058)
+![Generated GIF](output.gif?raw=true&v=1700116607)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP Rep. Tim Burchett accuses Kevin McCarthy of elbowing him in the kidneys, ex-speaker denies it**
+**Duke vs. Michigan State live stream, watch online, TV channel, prediction, pick, spread, basketball game odds**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/politics/burchett-mccarthy-elbowing-fight/index.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/duke-vs-michigan-state-live-stream-watch-online-tv-channel-prediction-pick-spread-basketball-game-odds/).
 
 ## Requirements
 - Python 3.8
