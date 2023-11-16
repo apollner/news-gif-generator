@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700132739)
+![Generated GIF](output.gif?raw=true&v=1700134421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK inflation falls by more than expected in October to 4.6%, lowest in two years**
+**'Dancing WIth the Stars': Barry Williams Goes Shirtless, Is Eliminated**
 
-You can read more about it [here](http://www.nbcdfw.com/news/business/money-report/uk-inflation-falls-by-more-than-expected-in-october-to-4-6-lowest-in-two-years/3387768/).
+You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-barry-williams-eliminated/).
 
 ## Requirements
 - Python 3.8
