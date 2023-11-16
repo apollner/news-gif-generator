@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700125707)
+![Generated GIF](output.gif?raw=true&v=1700127240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nothing Phone says it will hack into iMessage, bring blue bubbles to Android**
+**Ohio interstate crash leaves 6 dead**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/).
+You can read more about it [here](https://www.npr.org/2023/11/15/1213125594/ohio-interstate-crash-leaves-6-dead).
 
 ## Requirements
 - Python 3.8
