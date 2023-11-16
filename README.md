@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700170415)
+![Generated GIF](output.gif?raw=true&v=1700172412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cases of mysterious dog illness rising, veterinarians warn**
+**Carey Mulligan Never Felt Like a ‘Proper Actor.’ Then Came ‘Maestro’: ‘I’m Going to Absolutely Do It All’**
 
-You can read more about it [here](https://www.goodmorningamerica.com/living/story/veterinarians-warn-rising-cases-mystery-dog-illness-104906650).
+You can read more about it [here](https://variety.com/2023/film/news/carey-mulligan-maestro-bradley-cooper-interview-1235790647/).
 
 ## Requirements
 - Python 3.8
