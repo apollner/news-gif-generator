@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700199216)
+![Generated GIF](output.gif?raw=true&v=1700201457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FAA clears SpaceX for second Super Heavy-Starship test flight – Spaceflight Now**
+**Google is going to let teens use Bard, though with some guardrails**
 
-You can read more about it [here](https://spaceflightnow.com/2023/11/16/faa-clears-spacex-for-second-super-heavy-starship-test-flight/).
+You can read more about it [here](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails).
 
 ## Requirements
 - Python 3.8
