@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700220845)
+![Generated GIF](output.gif?raw=true&v=1700223262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Siemens CEO on China Outlook, German Economy's Future**
+**2023 MLB Cy Young Award: Padres’ Blake Snell, Yankees’ Gerrit Cole take top pitching honors**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tu9ibgBiNPs).
+You can read more about it [here](https://theathletic.com/5060368/2023/11/15/cy-young-award-gerrit-cole-blake-snell/).
 
 ## Requirements
 - Python 3.8
