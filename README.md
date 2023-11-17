@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700233649)
+![Generated GIF](output.gif?raw=true&v=1700235232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NBA suspends Draymond Green 5 games for putting Rudy Gobert in a chokehold**
+**Florida Slammed By Tropical Storm-Like Conditions, With Flooding Rains, Gusty Winds**
 
-You can read more about it [here](https://sports.yahoo.com/draymond-green-nba-suspends-5-games-rudy-gobert-chokehold-011252213.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Fy-i6GZDqJ8).
 
 ## Requirements
 - Python 3.8
