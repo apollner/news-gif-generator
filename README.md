@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700217395)
+![Generated GIF](output.gif?raw=true&v=1700219145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Myanmar orders civil servants, ex-military to prepare for emergencies**
+**Mapping the Cosmos: NASA's Latest Space Telescope To Survey 450 Million Galaxies**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/myanmar-junta-says-facing-heavy-assault-insurgents-three-states-2023-11-16/).
+You can read more about it [here](https://scitechdaily.com/mapping-the-cosmos-nasas-latest-space-telescope-to-survey-450-million-galaxies/).
 
 ## Requirements
 - Python 3.8
