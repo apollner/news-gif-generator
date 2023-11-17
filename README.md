@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700225419)
+![Generated GIF](output.gif?raw=true&v=1700226690)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lawmakers evacuated from DNC after protesters clash with police**
+**What has Israel ‘found’ in Gaza’s al-Shifa Hospital?**
 
-You can read more about it [here](https://thehill.com/homenews/house/4312331-lawmakers-evacuated-from-dnc-protesters/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/16/what-has-israel-found-in-gazas-al-shifa-hospital).
 
 ## Requirements
 - Python 3.8
