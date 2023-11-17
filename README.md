@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700242413)
+![Generated GIF](output.gif?raw=true&v=1700244684)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Xi Jinping suggests that U.S. panda programs could continue**
+**GM union workers ratify UAW deal following contentious vote**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/16/xi-jinping-pandas-00127580).
+You can read more about it [here](https://www.cnbc.com/2023/11/16/gm-union-workers-ratify-uaw-deal-following-contentious-vote.html).
 
 ## Requirements
 - Python 3.8
