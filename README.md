@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700229994)
+![Generated GIF](output.gif?raw=true&v=1700231675)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Biden says he still believes Xi Jinping is a dictator**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/11/15/politics/joe-biden-xi-jinping-dictator/index.html).
 
 ## Requirements
 - Python 3.8
