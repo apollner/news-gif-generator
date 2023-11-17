@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700228087)
+![Generated GIF](output.gif?raw=true&v=1700229994)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 12 preview: Familiar foes, unsung RBs - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedaykickoff111623/college-football-preview-week-12-gameday-kickoff).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
