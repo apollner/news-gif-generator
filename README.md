@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700226690)
+![Generated GIF](output.gif?raw=true&v=1700228087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What has Israel ‘found’ in Gaza’s al-Shifa Hospital?**
+**College football Week 12 preview: Familiar foes, unsung RBs - ESPN**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/16/what-has-israel-found-in-gazas-al-shifa-hospital).
+You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedaykickoff111623/college-football-preview-week-12-gameday-kickoff).
 
 ## Requirements
 - Python 3.8
