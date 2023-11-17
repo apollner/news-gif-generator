@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700204785)
+![Generated GIF](output.gif?raw=true&v=1700206424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lisa Kudrow Thanks Matthew Perry for 'the Best 10 Years a Person Gets to Have'**
+**Israel searches for traces of Hamas in raid of key Gaza hospital**
 
-You can read more about it [here](http://www.vulture.com/2023/11/lisa-kudrow-matthew-perry-friends-tribute.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/16/israel-hospital-raid-gaza-hamas-00127537).
 
 ## Requirements
 - Python 3.8
