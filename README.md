@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700210100)
+![Generated GIF](output.gif?raw=true&v=1700212098)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
+**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
 
-You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
+You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
 
 ## Requirements
 - Python 3.8
