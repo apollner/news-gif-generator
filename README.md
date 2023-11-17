@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700212098)
+![Generated GIF](output.gif?raw=true&v=1700213692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
+**Torn ACLs may heal with therapy instead of surgery, though some surgeons aren’t convinced**
 
-You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
+You can read more about it [here](https://www.aol.com/torn-acls-may-heal-therapy-233000350.html).
 
 ## Requirements
 - Python 3.8
