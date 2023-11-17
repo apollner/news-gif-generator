@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700195732)
+![Generated GIF](output.gif?raw=true&v=1700197633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NL Cy Young voting results: Giants' Webb finishes second for award**
+**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/mlb/san-francisco-giants/nl-cy-young-voting-results-logan-webb/1672262/).
+You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
 
 ## Requirements
 - Python 3.8
