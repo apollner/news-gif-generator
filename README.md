@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700240752)
+![Generated GIF](output.gif?raw=true&v=1700242413)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qi2's Debut Hopefully Means MagSafe Chargers Come to Android**
+**Xi Jinping suggests that U.S. panda programs could continue**
 
-You can read more about it [here](https://gizmodo.com/qi2-wireless-charging-magsafe-android-1851026616).
+You can read more about it [here](https://www.politico.com/news/2023/11/16/xi-jinping-pandas-00127580).
 
 ## Requirements
 - Python 3.8
