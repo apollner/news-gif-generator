@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700256822)
+![Generated GIF](output.gif?raw=true&v=1700258818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Ethics Committee report on George Santos finds "substantial evidence" of wrongdoing**
+**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
 
-You can read more about it [here](https://www.cbsnews.com/news/house-ethics-committee-george-santos-report/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-16-23/index.html).
 
 ## Requirements
 - Python 3.8
