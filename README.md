@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700181119)
+![Generated GIF](output.gif?raw=true&v=1700185222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hippos descended from pets of Pablo Escobar keep multiplying. Colombia has started to sterilize them.**
+**UN Security Council adopts resolution for 'humanitarian pauses' in Gaza**
 
-You can read more about it [here](https://www.cbsnews.com/news/cocaine-hippos-pablo-escobar-colombia-sterilization-pets-drug-kingpin/).
+You can read more about it [here](https://www.politico.eu/article/un-security-council-adopts-gaza-resolution-calling-for-humanitarian-pauses/).
 
 ## Requirements
 - Python 3.8
