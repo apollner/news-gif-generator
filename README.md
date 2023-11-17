@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700185222)
+![Generated GIF](output.gif?raw=true&v=1700187829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UN Security Council adopts resolution for 'humanitarian pauses' in Gaza**
+**Vatican confirms ban on Catholics becoming Freemasons**
 
-You can read more about it [here](https://www.politico.eu/article/un-security-council-adopts-gaza-resolution-calling-for-humanitarian-pauses/).
+You can read more about it [here](https://www.reuters.com/world/europe/vatican-confirms-ban-catholics-becoming-freemasons-2023-11-15/).
 
 ## Requirements
 - Python 3.8
