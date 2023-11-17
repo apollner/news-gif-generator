@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700190555)
+![Generated GIF](output.gif?raw=true&v=1700192032)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Padres' Blake Snell, Yankees' Gerrit Cole win Cy Young Awards - ESPN**
+**Whatever you do, don’t buy an Nvidia GPU right now**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38907982/padres-blake-snell-wins-2023-nl-cy-young-award).
+You can read more about it [here](https://www.digitaltrends.com/computing/dont-buy-nvidia-gpu-right-now/).
 
 ## Requirements
 - Python 3.8
