@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700194220)
+![Generated GIF](output.gif?raw=true&v=1700195732)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bradley Cooper Spent Six Years Learning to Conduct Six Minutes of Music So He Could Film It Live on ‘Maestro’ Set: ‘I Was Absolutely Terrified’**
+**NL Cy Young voting results: Giants' Webb finishes second for award**
 
-You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-spent-6-years-learning-conduct-maestro-1235791663/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/mlb/san-francisco-giants/nl-cy-young-voting-results-logan-webb/1672262/).
 
 ## Requirements
 - Python 3.8
