@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700258818)
+![Generated GIF](output.gif?raw=true&v=1700260455)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
+**Clinical trials suggest first-ever safe and effective treatment to prevent multidrug-resistant TB in children and adults**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-16-23/index.html).
+You can read more about it [here](https://medicalxpress.com/news/2023-11-clinical-trials-first-ever-safe-effective.html).
 
 ## Requirements
 - Python 3.8
