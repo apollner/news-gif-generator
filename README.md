@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700192032)
+![Generated GIF](output.gif?raw=true&v=1700194220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Whatever you do, don’t buy an Nvidia GPU right now**
+**Bradley Cooper Spent Six Years Learning to Conduct Six Minutes of Music So He Could Film It Live on ‘Maestro’ Set: ‘I Was Absolutely Terrified’**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/dont-buy-nvidia-gpu-right-now/).
+You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-spent-6-years-learning-conduct-maestro-1235791663/).
 
 ## Requirements
 - Python 3.8
