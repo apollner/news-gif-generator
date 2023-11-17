@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700231675)
+![Generated GIF](output.gif?raw=true&v=1700233649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden says he still believes Xi Jinping is a dictator**
+**NBA suspends Draymond Green 5 games for putting Rudy Gobert in a chokehold**
 
-You can read more about it [here](https://www.cnn.com/2023/11/15/politics/joe-biden-xi-jinping-dictator/index.html).
+You can read more about it [here](https://sports.yahoo.com/draymond-green-nba-suspends-5-games-rudy-gobert-chokehold-011252213.html).
 
 ## Requirements
 - Python 3.8
