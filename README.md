@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700187829)
+![Generated GIF](output.gif?raw=true&v=1700188851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vatican confirms ban on Catholics becoming Freemasons**
+**Navy warship Thomas Hudner shoots down drone in Red Sea**
 
-You can read more about it [here](https://www.reuters.com/world/europe/vatican-confirms-ban-catholics-becoming-freemasons-2023-11-15/).
+You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/11/15/navy-warship-thomas-hudner-shoots-down-drone-in-red-sea/).
 
 ## Requirements
 - Python 3.8
