@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700208645)
+![Generated GIF](output.gif?raw=true&v=1700210100)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Walmart will report earnings before the bell. Here's what to expect**
+**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/16/walmart-wmt-earnings-q3-2024-.html).
+You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
 
 ## Requirements
 - Python 3.8
