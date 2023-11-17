@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700197633)
+![Generated GIF](output.gif?raw=true&v=1700199216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
+**FAA clears SpaceX for second Super Heavy-Starship test flight – Spaceflight Now**
 
-You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
+You can read more about it [here](https://spaceflightnow.com/2023/11/16/faa-clears-spacex-for-second-super-heavy-starship-test-flight/).
 
 ## Requirements
 - Python 3.8
