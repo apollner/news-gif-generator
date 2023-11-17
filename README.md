@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700255151)
+![Generated GIF](output.gif?raw=true&v=1700256822)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple says iPhones will support RCS in 2024**
+**House Ethics Committee report on George Santos finds "substantial evidence" of wrongdoing**
 
-You can read more about it [here](https://www.theverge.com/2023/11/16/23964171/apple-iphone-rcs-support).
+You can read more about it [here](https://www.cbsnews.com/news/house-ethics-committee-george-santos-report/).
 
 ## Requirements
 - Python 3.8
