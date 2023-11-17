@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700188851)
+![Generated GIF](output.gif?raw=true&v=1700190555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navy warship Thomas Hudner shoots down drone in Red Sea**
+**Padres' Blake Snell, Yankees' Gerrit Cole win Cy Young Awards - ESPN**
 
-You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/11/15/navy-warship-thomas-hudner-shoots-down-drone-in-red-sea/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38907982/padres-blake-snell-wins-2023-nl-cy-young-award).
 
 ## Requirements
 - Python 3.8
