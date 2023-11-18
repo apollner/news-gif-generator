@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700280580)
+![Generated GIF](output.gif?raw=true&v=1700282114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump assails judge and clerk in fraud trial as gag order temporarily lifts**
+**Michigan's Jim Harbaugh accepts Big Ten's 3-game suspension - ESPN**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67446060).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38914714/michigan-jim-harbaugh-accepts-big-ten-3-game-suspension).
 
 ## Requirements
 - Python 3.8
