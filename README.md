@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700334314)
+![Generated GIF](output.gif?raw=true&v=1700336029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine lobsterman jumps from boat to help rescue a driver from a car submerged in a bay**
+**“It’s Embarrassing” – Michigan Alum Rich Eisen on Jim Harbaugh Accepting Big Ten’s 3-Game Suspension**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/maine-lobsterman-jumps-boat-rescue-driver-car-submerged-104974252).
+You can read more about it [here](https://www.youtube.com/watch?v=mEFheTJjokk).
 
 ## Requirements
 - Python 3.8
