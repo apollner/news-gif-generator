@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700319963)
+![Generated GIF](output.gif?raw=true&v=1700321620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Magnitude-7.2 Quake Causes Damage, Evacuation in Philippines**
+**10 Million Miles Away: NASA Achieves Historic Data Exchange With Deep Space Optical Communications Experiment**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-17/magnitude-7-2-earthquake-shakes-southern-philippines).
+You can read more about it [here](https://scitechdaily.com/?p=328960).
 
 ## Requirements
 - Python 3.8
