@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700343264)
+![Generated GIF](output.gif?raw=true&v=1700345125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Class-action lawsuit filed after Salem Hospital patients possibly exposed to HIV, hepatitis**
+**Dana Carvey says 32-year-old son Dex died of 'accidental drug overdose'**
 
-You can read more about it [here](https://www.wcvb.com/article/class-action-salem-hospital-hiv-hepatitis-exposure/45876120).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/dana-carvey-32-year-son-dex-died-accidental-104976259).
 
 ## Requirements
 - Python 3.8
