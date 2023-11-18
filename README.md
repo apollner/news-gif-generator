@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700336029)
+![Generated GIF](output.gif?raw=true&v=1700338053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**“It’s Embarrassing” – Michigan Alum Rich Eisen on Jim Harbaugh Accepting Big Ten’s 3-Game Suspension**
+**NFL to investigate Bengals over Joe Burrow injury: League set to look into whether team violated NFL policy**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mEFheTJjokk).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-to-investigate-bengals-over-joe-burrow-injury-league-set-to-look-into-whether-team-violated-nfl-policy/).
 
 ## Requirements
 - Python 3.8
