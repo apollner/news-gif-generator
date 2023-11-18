@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700298467)
+![Generated GIF](output.gif?raw=true&v=1700300020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vaccination Vacation: Measles Makes a Menacing Comeback**
+**Vasseur: Vegas manhole issues that wrecked Sainz's Ferrari F1 car "unacceptable"**
 
-You can read more about it [here](https://scitechdaily.com/?p=328883).
+You can read more about it [here](https://www.motorsport.com/f1/news/vasseur-f1-vegas-manhole-issues-that-wrecked-sainzs-ferrari-unacceptable/10547501/).
 
 ## Requirements
 - Python 3.8
