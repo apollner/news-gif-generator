@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700305498)
+![Generated GIF](output.gif?raw=true&v=1700307216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dex Carvey, Dana Carvey's son, dies at age 32**
+**Prisco's Week 11 NFL picks: Browns beat Steelers without Deshaun Watson; Bills get back on track vs. Jets**
 
-You can read more about it [here](https://www.cbsnews.com/news/dex-carvey-dies-dana-carvey-son/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-browns-beat-steelers-without-deshaun-watson-bills-get-back-on-track-vs-jets/).
 
 ## Requirements
 - Python 3.8
