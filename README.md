@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700309575)
+![Generated GIF](output.gif?raw=true&v=1700311617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Angels’ Shohei Ohtani, Braves’ Ronald Acuña Jr. win 2023 MLB MVP awards**
+**Meghan Markle on the ‘Wild’ ‘Suits’ Streaming Boom: ‘Good Shows Are Everlasting’**
 
-You can read more about it [here](https://theathletic.com/5060477/2023/11/16/mlb-mvp-shohei-ohtani-ronald-acuna/).
+You can read more about it [here](https://variety.com/2023/tv/news/meghan-markle-suits-netflix-success-1235793233/).
 
 ## Requirements
 - Python 3.8
