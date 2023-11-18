@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700301992)
+![Generated GIF](output.gif?raw=true&v=1700303623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vaccination Vacation: Measles Makes a Menacing Comeback**
+**‘The Hunger Games: The Ballad Of Songbirds & Snakes’ Begins With Thursday Previews Around $6M – Box Office**
 
-You can read more about it [here](https://scitechdaily.com/?p=328883).
+You can read more about it [here](https://deadline.com/2023/11/box-office-hunger-games-songbirds-and-snakes-1235616095/).
 
 ## Requirements
 - Python 3.8
