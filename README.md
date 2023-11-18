@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700314421)
+![Generated GIF](output.gif?raw=true&v=1700316288)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sweden's Tesla boycott snowballs as more workers join the strike**
+**Israel-Hamas War: Elon Musk's Reply On 'Jewish Groups Push Hate Against Whites' Post Causes Uproar**
 
-You can read more about it [here](https://electrek.co/2023/11/17/sweden-tesla-boycott-snowballs-as-more-workers-join-the-strike/).
+You can read more about it [here](https://www.youtube.com/watch?v=0MPvQK0xSgo).
 
 ## Requirements
 - Python 3.8
