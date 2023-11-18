@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700346863)
+![Generated GIF](output.gif?raw=true&v=1700348780)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Foreign investors may have bailed out of Treasurys at exactly the wrong time**
+**“It’s Embarrassing” – Michigan Alum Rich Eisen on Jim Harbaugh Accepting Big Ten’s 3-Game Suspension**
 
-You can read more about it [here](https://www.marketwatch.com/story/foreign-investors-may-have-bailed-out-of-treasurys-at-exactly-the-wrong-time-7fa9c728).
+You can read more about it [here](https://www.youtube.com/watch?v=mEFheTJjokk).
 
 ## Requirements
 - Python 3.8
