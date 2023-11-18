@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700339630)
+![Generated GIF](output.gif?raw=true&v=1700341520)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Fiery hell': Ukraine secures multiple strategic areas along eastern bank of Dnipro River**
+**Israel-Hamas war: Aid agencies say they can't send food to Gaza**
 
-You can read more about it [here](https://www.france24.com/en/europe/20231117-fiery-hell-ukraine-secures-multiple-strategic-areas-along-eastern-bank-of-dnipro-river).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-17-2023-1811384fac6394329dd71e3aaf461eb5).
 
 ## Requirements
 - Python 3.8
