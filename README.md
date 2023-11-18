@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700303623)
+![Generated GIF](output.gif?raw=true&v=1700305498)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Hunger Games: The Ballad Of Songbirds & Snakes’ Begins With Thursday Previews Around $6M – Box Office**
+**Dex Carvey, Dana Carvey's son, dies at age 32**
 
-You can read more about it [here](https://deadline.com/2023/11/box-office-hunger-games-songbirds-and-snakes-1235616095/).
+You can read more about it [here](https://www.cbsnews.com/news/dex-carvey-dies-dana-carvey-son/).
 
 ## Requirements
 - Python 3.8
