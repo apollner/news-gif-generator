@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700316288)
+![Generated GIF](output.gif?raw=true&v=1700318027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas War: Elon Musk's Reply On 'Jewish Groups Push Hate Against Whites' Post Causes Uproar**
+**Prisco's Week 11 NFL picks: Browns beat Steelers without Deshaun Watson; Bills get back on track vs. Jets**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0MPvQK0xSgo).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-browns-beat-steelers-without-deshaun-watson-bills-get-back-on-track-vs-jets/).
 
 ## Requirements
 - Python 3.8
