@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700345125)
+![Generated GIF](output.gif?raw=true&v=1700346863)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dana Carvey says 32-year-old son Dex died of 'accidental drug overdose'**
+**Foreign investors may have bailed out of Treasurys at exactly the wrong time**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/dana-carvey-32-year-son-dex-died-accidental-104976259).
+You can read more about it [here](https://www.marketwatch.com/story/foreign-investors-may-have-bailed-out-of-treasurys-at-exactly-the-wrong-time-7fa9c728).
 
 ## Requirements
 - Python 3.8
