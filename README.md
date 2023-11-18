@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700348780)
+![Generated GIF](output.gif?raw=true&v=1700350424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**“It’s Embarrassing” – Michigan Alum Rich Eisen on Jim Harbaugh Accepting Big Ten’s 3-Game Suspension**
+**Class-action lawsuit filed after Salem Hospital patients possibly exposed to HIV, hepatitis**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mEFheTJjokk).
+You can read more about it [here](https://www.wcvb.com/article/class-action-salem-hospital-hiv-hepatitis-exposure/45876120).
 
 ## Requirements
 - Python 3.8
