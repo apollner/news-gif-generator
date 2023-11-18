@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700264030)
+![Generated GIF](output.gif?raw=true&v=1700267472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New data provide a boost for shorter drug-resistant TB regimens**
+**Tremors continue in Iceland with apparent volcanic eruption imminent**
 
-You can read more about it [here](https://www.cidrap.umn.edu/antimicrobial-stewardship/new-data-provide-boost-shorter-drug-resistant-tb-regimens).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/16/iceland-volcano-reykjanes-grindavik/).
 
 ## Requirements
 - Python 3.8
