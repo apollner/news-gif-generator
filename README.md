@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700282114)
+![Generated GIF](output.gif?raw=true&v=1700283979)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan's Jim Harbaugh accepts Big Ten's 3-game suspension - ESPN**
+**Starbucks workers stage strike on coffee chain's "Red Cup" day**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38914714/michigan-jim-harbaugh-accepts-big-ten-3-game-suspension).
+You can read more about it [here](https://www.cbsnews.com/news/starbucks-on-strike-red-cup-day-rebellion/).
 
 ## Requirements
 - Python 3.8
