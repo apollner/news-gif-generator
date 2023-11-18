@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700312912)
+![Generated GIF](output.gif?raw=true&v=1700314421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At APEC, Biden touts workers' rights, stable Chinese relations**
+**Sweden's Tesla boycott snowballs as more workers join the strike**
 
-You can read more about it [here](https://www.reuters.com/world/us/you-can-count-us-biden-tells-apec-despite-trade-deal-stumbles-2023-11-16/).
+You can read more about it [here](https://electrek.co/2023/11/17/sweden-tesla-boycott-snowballs-as-more-workers-join-the-strike/).
 
 ## Requirements
 - Python 3.8
