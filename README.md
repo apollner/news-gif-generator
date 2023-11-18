@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700285620)
+![Generated GIF](output.gif?raw=true&v=1700287777)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Louisville cop Brett Hankison's federal trial ends in mistrial**
+**Potentially fatal respiratory illness has sickened dogs in several states as veterinarians urge caution**
 
-You can read more about it [here](https://www.courier-journal.com/story/news/crime/2023/11/16/ex-louisville-cop-brett-hankisons-federal-trial-ends-in-mistrial/71608553007/).
+You can read more about it [here](http://www.nbcchicago.com/news/local/potentially-fatal-respiratory-illness-has-sickened-dogs-in-several-states-as-veterinarians-urge-caution/3280640/).
 
 ## Requirements
 - Python 3.8
