@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700327094)
+![Generated GIF](output.gif?raw=true&v=1700328818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Keep an eye on the sky for the Leonid meteor shower this weekend**
+**House Ethics chairman introduces resolution to expel George Santos from Congress**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/world/leonid-meteor-shower-november-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/17/politics/santos-expulsion-resolution-introduced/index.html).
 
 ## Requirements
 - Python 3.8
