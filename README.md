@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700311617)
+![Generated GIF](output.gif?raw=true&v=1700312912)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meghan Markle on the ‘Wild’ ‘Suits’ Streaming Boom: ‘Good Shows Are Everlasting’**
+**At APEC, Biden touts workers' rights, stable Chinese relations**
 
-You can read more about it [here](https://variety.com/2023/tv/news/meghan-markle-suits-netflix-success-1235793233/).
+You can read more about it [here](https://www.reuters.com/world/us/you-can-count-us-biden-tells-apec-despite-trade-deal-stumbles-2023-11-16/).
 
 ## Requirements
 - Python 3.8
