@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700318027)
+![Generated GIF](output.gif?raw=true&v=1700319963)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prisco's Week 11 NFL picks: Browns beat Steelers without Deshaun Watson; Bills get back on track vs. Jets**
+**Magnitude-7.2 Quake Causes Damage, Evacuation in Philippines**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-browns-beat-steelers-without-deshaun-watson-bills-get-back-on-track-vs-jets/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-17/magnitude-7-2-earthquake-shakes-southern-philippines).
 
 ## Requirements
 - Python 3.8
