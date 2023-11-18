@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700292834)
+![Generated GIF](output.gif?raw=true&v=1700295012)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cincinnati Bengals vs. Baltimore Ravens | 2023 Week 11 Game Highlight**
+**Potentially fatal respiratory illness has sickened dogs in several states as veterinarians urge caution**
 
-You can read more about it [here](https://www.youtube.com/watch?v=usK_TYjxMgM).
+You can read more about it [here](http://www.nbcchicago.com/news/local/potentially-fatal-respiratory-illness-has-sickened-dogs-in-several-states-as-veterinarians-urge-caution/3280640/).
 
 ## Requirements
 - Python 3.8
