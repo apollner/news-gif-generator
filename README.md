@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700287777)
+![Generated GIF](output.gif?raw=true&v=1700289251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Potentially fatal respiratory illness has sickened dogs in several states as veterinarians urge caution**
+**Vaccination Vacation: Measles Makes a Menacing Comeback**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/potentially-fatal-respiratory-illness-has-sickened-dogs-in-several-states-as-veterinarians-urge-caution/3280640/).
+You can read more about it [here](https://scitechdaily.com/?p=328883).
 
 ## Requirements
 - Python 3.8
