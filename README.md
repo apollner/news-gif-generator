@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700372009)
+![Generated GIF](output.gif?raw=true&v=1700374451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cantaloupe, fruit products recalled amid CDC investigation of salmonella infections**
+**The Vander Plaats primary is about to get its biggest test**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/health/cantaloupe-salmonella-recall/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904).
 
 ## Requirements
 - Python 3.8
