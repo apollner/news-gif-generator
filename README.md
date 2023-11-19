@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700388392)
+![Generated GIF](output.gif?raw=true&v=1700390043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean “Diddy” Combs, Cassie Settle Lawsuit That Accused Music Mogul of Rape, Physical Abuse**
+**Leader of Japanese lay Buddhist group Soka Gakkai dies at 95**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-cassie-settle-lawsuit-sexual-assault-1235663080/).
+You can read more about it [here](https://asia.nikkei.com/Life-Arts/Obituaries/Leader-of-Japanese-lay-Buddhist-group-Soka-Gakkai-dies-at-95).
 
 ## Requirements
 - Python 3.8
