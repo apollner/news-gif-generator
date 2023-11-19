@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700368488)
+![Generated GIF](output.gif?raw=true&v=1700370392)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock market news today: Stocks close little changed to notch weekly win**
+**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-close-little-changed-to-notch-weekly-win-113959488.html).
+You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
 
 ## Requirements
 - Python 3.8
