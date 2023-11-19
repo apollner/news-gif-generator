@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700406423)
+![Generated GIF](output.gif?raw=true&v=1700408036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cassie settles lawsuit accusing Sean 'Diddy' Combs of sex trafficking and sexual assault**
+**Coping with "Parkinson's on steroids," Virginia Rep. Jennifer Wexton navigates exhausting and gridlocked Congress**
 
-You can read more about it [here](https://abcnews.go.com/GMA/cassie-settles-lawsuit-accusing-sean-diddy-combs-sex/story?id=104997806).
+You can read more about it [here](https://www.cbsnews.com/news/jennifer-wexton-copes-with-parkinsons-variant-congress/).
 
 ## Requirements
 - Python 3.8
