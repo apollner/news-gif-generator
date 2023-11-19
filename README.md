@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700350424)
+![Generated GIF](output.gif?raw=true&v=1700354209)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Class-action lawsuit filed after Salem Hospital patients possibly exposed to HIV, hepatitis**
+**Stock market news today: Stocks close little changed to notch weekly win**
 
-You can read more about it [here](https://www.wcvb.com/article/class-action-salem-hospital-hiv-hepatitis-exposure/45876120).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-close-little-changed-to-notch-weekly-win-113959488.html).
 
 ## Requirements
 - Python 3.8
