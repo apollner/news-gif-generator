@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700390043)
+![Generated GIF](output.gif?raw=true&v=1700391906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Leader of Japanese lay Buddhist group Soka Gakkai dies at 95**
+**Bengals’ Joe Burrow will miss rest of season due to wrist injury**
 
-You can read more about it [here](https://asia.nikkei.com/Life-Arts/Obituaries/Leader-of-Japanese-lay-Buddhist-group-Soka-Gakkai-dies-at-95).
+You can read more about it [here](https://theathletic.com/5072149/2023/11/17/joe-burrow-injury-update-season-ending/).
 
 ## Requirements
 - Python 3.8
