@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700420679)
+![Generated GIF](output.gif?raw=true&v=1700422579)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**I built the best gaming PC in the world — and it wasn’t worth it**
+**Sarah Yarborough's killer had been in prison for attacking another woman, but was released early**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/best-gaming-pc-not-worth-it/).
+You can read more about it [here](https://www.cbsnews.com/news/sarah-yarborough-murder-patrick-leon-nicholas-washington-state-in-prison-for-attacking-another-woman-released-early/).
 
 ## Requirements
 - Python 3.8
