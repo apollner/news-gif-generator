@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700424445)
+![Generated GIF](output.gif?raw=true&v=1700426017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Snow and rain to bring weather woes to millions of Thanksgiving travelers**
+**Bill Ackman Defends Elon Musk After Backlash Over Antisemitism**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/weather/thanksgiving-weather-forecast-travel/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/bill-ackman-defends-elon-musk-170125551.html).
 
 ## Requirements
 - Python 3.8
