@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700398153)
+![Generated GIF](output.gif?raw=true&v=1700399408)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Angel Reese not with LSU for game at Southeastern Louisiana - ESPN**
+**Elon Musk says X to file 'thermonuclear' lawsuit against media watchdog**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38922740/angel-reese-not-lsu-game-southeastern-louisiana).
+You can read more about it [here](https://www.reuters.com/legal/x-corp-file-lawsuit-against-media-watchdog-others-musk-2023-11-18/).
 
 ## Requirements
 - Python 3.8
