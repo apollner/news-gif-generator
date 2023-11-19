@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700435179)
+![Generated GIF](output.gif?raw=true&v=1700436987)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple plans to make it easier to text between iPhones and Androids**
+**Israel-Hamas war rages as outcry grows over Gaza crisis**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-16/apple-plans-to-adopt-rcs-texting-standard-in-truce-with-android).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-18-23/index.html).
 
 ## Requirements
 - Python 3.8
