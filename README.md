@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700381391)
+![Generated GIF](output.gif?raw=true&v=1700382821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Security guard killed in New Hampshire hospital shooting; suspect killed by trooper, authorities say**
+**Short seller Jim Chanos to close his main hedge funds**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/us/new-hampshire-hospital-shooting-victims/index.html).
+You can read more about it [here](https://www.ft.com/content/68d3a4cc-322e-421d-99d9-6657b21f7044).
 
 ## Requirements
 - Python 3.8
