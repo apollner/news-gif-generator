@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700404433)
+![Generated GIF](output.gif?raw=true&v=1700406423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Liberia’s President George Weah concedes victory after tight run-off election**
+**Cassie settles lawsuit accusing Sean 'Diddy' Combs of sex trafficking and sexual assault**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/africa/liberia-election-george-weah-intl/index.html).
+You can read more about it [here](https://abcnews.go.com/GMA/cassie-settles-lawsuit-accusing-sean-diddy-combs-sex/story?id=104997806).
 
 ## Requirements
 - Python 3.8
