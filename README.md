@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700395993)
+![Generated GIF](output.gif?raw=true&v=1700398153)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Altman, the Face of AI, Is Fired From OpenAI in Bombshell Move**
+**Angel Reese not with LSU for game at Southeastern Louisiana - ESPN**
 
-You can read more about it [here](https://www.thedailybeast.com/sam-altman-the-face-of-ai-is-fired-from-openai-in-bombshell-move).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38922740/angel-reese-not-lsu-game-southeastern-louisiana).
 
 ## Requirements
 - Python 3.8
