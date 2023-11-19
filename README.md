@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700386398)
+![Generated GIF](output.gif?raw=true&v=1700388392)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC Vegas 82: ALLEN vs CRAIG | COLD OPEN**
+**Sean “Diddy” Combs, Cassie Settle Lawsuit That Accused Music Mogul of Rape, Physical Abuse**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VB2PCqUZjn8).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-cassie-settle-lawsuit-sexual-assault-1235663080/).
 
 ## Requirements
 - Python 3.8
