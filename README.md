@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700426017)
+![Generated GIF](output.gif?raw=true&v=1700427997)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Ackman Defends Elon Musk After Backlash Over Antisemitism**
+**Sean Combs settles rape lawsuit with Cassie a day after she filed it**
 
-You can read more about it [here](https://finance.yahoo.com/news/bill-ackman-defends-elon-musk-170125551.html).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/2023/11/18/sean-combs-cassie-lawsuit-settlement/).
 
 ## Requirements
 - Python 3.8
