@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700422579)
+![Generated GIF](output.gif?raw=true&v=1700424445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sarah Yarborough's killer had been in prison for attacking another woman, but was released early**
+**Snow and rain to bring weather woes to millions of Thanksgiving travelers**
 
-You can read more about it [here](https://www.cbsnews.com/news/sarah-yarborough-murder-patrick-leon-nicholas-washington-state-in-prison-for-attacking-another-woman-released-early/).
+You can read more about it [here](https://www.cnn.com/2023/11/18/weather/thanksgiving-weather-forecast-travel/index.html).
 
 ## Requirements
 - Python 3.8
