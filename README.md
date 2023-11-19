@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700382821)
+![Generated GIF](output.gif?raw=true&v=1700384770)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Short seller Jim Chanos to close his main hedge funds**
+**Elon Musk Rips Into “Largest Advertisers” After Disney & Other Media Companies Pause Ads Over Anti-Semitic Amplification – Update**
 
-You can read more about it [here](https://www.ft.com/content/68d3a4cc-322e-421d-99d9-6657b21f7044).
+You can read more about it [here](https://deadline.com/2023/11/elon-musk-x-twitter-ibm-1235615481/).
 
 ## Requirements
 - Python 3.8
