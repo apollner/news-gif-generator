@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700358895)
+![Generated GIF](output.gif?raw=true&v=1700360752)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kaitlin Armstrong, convicted of killing Anna Moriah Wilson, sentenced to 90 years in prison**
+**Israel-Hamas war: UN stops delivering food, supplies to Gaza**
 
-You can read more about it [here](https://www.statesman.com/story/news/local/2023/11/17/kaitlin-armstrong-sentenced-guilty-verdict-murder-cyclist-anna-moriah-wilson-austin-texas/71615361007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-17-2023-1811384fac6394329dd71e3aaf461eb5).
 
 ## Requirements
 - Python 3.8
