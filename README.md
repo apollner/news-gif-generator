@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700413487)
+![Generated GIF](output.gif?raw=true&v=1700415216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Coping with "Parkinson's on steroids," Virginia Rep. Jennifer Wexton navigates exhausting and gridlocked Congress**
+**Microsoft is a key investor in OpenAI. It was blindsided by Sam Altman's exit.**
 
-You can read more about it [here](https://www.cbsnews.com/news/jennifer-wexton-copes-with-parkinsons-variant-congress/).
+You can read more about it [here](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster).
 
 ## Requirements
 - Python 3.8
