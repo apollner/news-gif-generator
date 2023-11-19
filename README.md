@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700393626)
+![Generated GIF](output.gif?raw=true&v=1700395993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Impossible’: Panic as Israel orders Gaza’s al-Shifa Hospital to evacuate**
+**Sam Altman, the Face of AI, Is Fired From OpenAI in Bombshell Move**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/18/israel-gives-gazas-al-shifa-hospital-one-hour-to-evacuate).
+You can read more about it [here](https://www.thedailybeast.com/sam-altman-the-face-of-ai-is-fired-from-openai-in-bombshell-move).
 
 ## Requirements
 - Python 3.8
