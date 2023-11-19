@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700370392)
+![Generated GIF](output.gif?raw=true&v=1700372009)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
+**Cantaloupe, fruit products recalled amid CDC investigation of salmonella infections**
 
-You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
+You can read more about it [here](https://www.cnn.com/2023/11/17/health/cantaloupe-salmonella-recall/index.html).
 
 ## Requirements
 - Python 3.8
