@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700417355)
+![Generated GIF](output.gif?raw=true&v=1700418808)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Nothing Chats, the Sunbird-based iMessage app, is a privacy nightmare with unencrypted messages and images**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://9to5google.com/2023/11/18/nothing-chats-sunbird-unencrypted-data-privacy-nightmare/).
 
 ## Requirements
 - Python 3.8
