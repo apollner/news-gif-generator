@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700400834)
+![Generated GIF](output.gif?raw=true&v=1700402707)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jason Jackson shocks Yaroslav Amosov by TKO at Bellator 301 - ESPN**
+**How Sam Altman's ouster went down, according to OpenAI's ex-president**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/38924574/jason-jackson-shocks-yaroslav-amosov-tko-bellator-301).
+You can read more about it [here](https://www.axios.com/2023/11/18/sam-altman-greg-brockman-openai-board-timeline).
 
 ## Requirements
 - Python 3.8
