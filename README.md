@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700399408)
+![Generated GIF](output.gif?raw=true&v=1700400834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk says X to file 'thermonuclear' lawsuit against media watchdog**
+**Jason Jackson shocks Yaroslav Amosov by TKO at Bellator 301 - ESPN**
 
-You can read more about it [here](https://www.reuters.com/legal/x-corp-file-lawsuit-against-media-watchdog-others-musk-2023-11-18/).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/38924574/jason-jackson-shocks-yaroslav-amosov-tko-bellator-301).
 
 ## Requirements
 - Python 3.8
