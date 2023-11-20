@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700449766)
+![Generated GIF](output.gif?raw=true&v=1700451291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift postpones Saturday Rio concert after 23-year-old fan dies at show during extreme temperatures**
+**Jordan Travis injury update: FSU QB suffers horrific leg injury in North Alabama game**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/music/taylor-swift-fan-dies-show-brazil-rcna125824).
+You can read more about it [here](https://www.tallahassee.com/story/sports/college/fsu/football/2023/11/18/jordan-travis-injury-update-fsu-qb-leg-north-alabama-video/71641150007/).
 
 ## Requirements
 - Python 3.8
