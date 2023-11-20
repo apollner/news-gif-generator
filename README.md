@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700467896)
+![Generated GIF](output.gif?raw=true&v=1700469436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**17 Horrible Things Therapist Have Said That Made Their Clients Stop Seeing Them**
+**U.S., Israel and Hamas reach tentative deal to pause conflict and free dozens of hostages- WaPo**
 
-You can read more about it [here](https://www.buzzfeed.com/ravenishak/horrible-things-therapists-said).
+You can read more about it [here](https://www.reuters.com/world/middle-east/us-israel-hamas-reach-tentative-deal-pause-conflict-free-dozens-hostages-wapo-2023-11-19/).
 
 ## Requirements
 - Python 3.8
