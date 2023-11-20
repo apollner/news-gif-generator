@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700453422)
+![Generated GIF](output.gif?raw=true&v=1700454946)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Court records indicate New Hampshire Hospital shooting suspect was patient there in 2016**
+**Trump to campaign at U.S.-Mexico border as he zeroes in on hardline immigration promises**
 
-You can read more about it [here](https://www.wmur.com/article/court-records-new-hampshire-hospital-john-madore-investigates/45882408).
+You can read more about it [here](https://www.cbsnews.com/news/trump-to-campaign-at-us-mexico-border-hardline-immigration-promises/).
 
 ## Requirements
 - Python 3.8
