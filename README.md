@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700478372)
+![Generated GIF](output.gif?raw=true&v=1700480017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Alabama Lions vs. Florida State Seminoles Live Score and Stats - November 18, 2023 Gametracker**
+**Argentina holds cliffhanger election with economy at stake**
 
-You can read more about it [here](https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20231118_NAL@FSU/).
+You can read more about it [here](https://news.yahoo.com/argentina-holds-cliffhanger-election-economy-011043999.html).
 
 ## Requirements
 - Python 3.8
