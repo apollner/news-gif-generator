@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700447024)
+![Generated GIF](output.gif?raw=true&v=1700448127)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump to campaign at U.S.-Mexico border as he zeroes in on hardline immigration promises**
+**Sean ‘Diddy’ Combs and Cassie Settle Lawsuit After Rape Accusations**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-to-campaign-at-us-mexico-border-hardline-immigration-promises/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/sean-combs-cassie-settlement-lawsuit-rape-allegations-1234886336/).
 
 ## Requirements
 - Python 3.8
