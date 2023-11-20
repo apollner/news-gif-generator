@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700490939)
+![Generated GIF](output.gif?raw=true&v=1700492957)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A divide in Biden world over how to address what everyone sees as his biggest vulnerability**
+**Horoscope for Sunday, Nov. 19, 2023**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/19/biden-biggest-vulnerability-00127937).
+You can read more about it [here](https://chicago.suntimes.com/2023/11/19/23963500/horoscopes-today-sunday-nov-19-2023).
 
 ## Requirements
 - Python 3.8
