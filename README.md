@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700508825)
+![Generated GIF](output.gif?raw=true&v=1700510944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**I-10 freeway in Los Angeles to reopen Monday, officials say, as search for person of interest in fire continues**
+**Netanyahu war cabinet stifles revolt from far right over sending Gazans fuel without hostage deal: report**
 
-You can read more about it [here](https://abcnews.go.com/US/person-interest-sought-connection-10-freeway-fire-los/story?id=105006373).
+You can read more about it [here](https://www.foxnews.com/world/netanyahu-war-cabinet-stifles-revolt-far-right-sending-gazans-fuel-without-hostage-deal-report).
 
 ## Requirements
 - Python 3.8
