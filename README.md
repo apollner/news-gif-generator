@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700507103)
+![Generated GIF](output.gif?raw=true&v=1700508825)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Honda recall 2023: Engine concerns impact Pilot, Ridgeline, Odyssey, Acura and other models**
+**I-10 freeway in Los Angeles to reopen Monday, officials say, as search for person of interest in fire continues**
 
-You can read more about it [here](https://www.cnn.com/2023/11/19/business/honda-engine-recall-list-2023/index.html).
+You can read more about it [here](https://abcnews.go.com/US/person-interest-sought-connection-10-freeway-fire-los/story?id=105006373).
 
 ## Requirements
 - Python 3.8
