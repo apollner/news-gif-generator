@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700521705)
+![Generated GIF](output.gif?raw=true&v=1700523204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yemen's Houthi rebels hijack Israeli-linked ship in Red Sea, take 25 crew members hostage**
+**Apple Black Friday Deals Available Now: AirPods, iPhone, iPad, and More**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/19/yemen-israel-hostages-ship-00127968).
+You can read more about it [here](https://www.macrumors.com/guide/apple-black-friday-deals-available-now/).
 
 ## Requirements
 - Python 3.8
