@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700476761)
+![Generated GIF](output.gif?raw=true&v=1700478372)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football Week 12 highlights: Top plays, games, takeaways - ESPN**
+**North Alabama Lions vs. Florida State Seminoles Live Score and Stats - November 18, 2023 Gametracker**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal111823/college-football-week-12-highlights-top-plays-games-takeaways-2023).
+You can read more about it [here](https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20231118_NAL@FSU/).
 
 ## Requirements
 - Python 3.8
