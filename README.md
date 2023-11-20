@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700494499)
+![Generated GIF](output.gif?raw=true&v=1700496618)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football: The 9 keys to victory in Week 11**
+**Best Buy Black Friday 2023: Best Deals From the Sale**
 
-You can read more about it [here](https://sports.yahoo.com/9-keys-to-winning-your-week-11-fantasy-football-matchup-184932344.html).
+You can read more about it [here](https://www.ign.com/articles/best-buy-black-friday-deals-2023).
 
 ## Requirements
 - Python 3.8
