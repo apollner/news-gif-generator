@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700519712)
+![Generated GIF](output.gif?raw=true&v=1700521705)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An unusual illness that has killed dogs is spreading in several states: What to know**
+**Yemen's Houthi rebels hijack Israeli-linked ship in Red Sea, take 25 crew members hostage**
 
-You can read more about it [here](https://www.clickondetroit.com/pets/2023/11/19/an-unusual-illness-that-has-killed-dogs-is-spreading-in-several-states-what-to-know/).
+You can read more about it [here](https://www.politico.com/news/2023/11/19/yemen-israel-hostages-ship-00127968).
 
 ## Requirements
 - Python 3.8
