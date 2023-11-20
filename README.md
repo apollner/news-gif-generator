@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700464121)
+![Generated GIF](output.gif?raw=true&v=1700465662)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OFFICIAL GRID: Eight teams in the top 10 for Las Vegas race start**
+**OpenAI Investors Trying to Get Sam Altman Back as CEO After Sudden Firing**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article.official-grid-eight-teams-in-the-top-10-for-las-vegas-race-start.35vm2h8CTCUaXH93ODFf3x.html).
+You can read more about it [here](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049).
 
 ## Requirements
 - Python 3.8
