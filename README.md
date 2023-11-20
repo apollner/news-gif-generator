@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700499901)
+![Generated GIF](output.gif?raw=true&v=1700501612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giant Telescope – 8x the Size of Earth – Reveals Unprecedented View of Colossal Cosmic Jet**
+**Honda recall 2023: Engine concerns impact Pilot, Ridgeline, Odyssey, Acura and other models**
 
-You can read more about it [here](https://scitechdaily.com/?p=329458).
+You can read more about it [here](https://www.cnn.com/2023/11/19/business/honda-engine-recall-list-2023/index.html).
 
 ## Requirements
 - Python 3.8
