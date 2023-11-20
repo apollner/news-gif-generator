@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700475006)
+![Generated GIF](output.gif?raw=true&v=1700476761)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WHO leads very high-risk joint humanitarian mission to Al-Shifa Hospital in Gaza**
+**College football Week 12 highlights: Top plays, games, takeaways - ESPN**
 
-You can read more about it [here](https://www.who.int/news/item/18-11-2023-who-leads-very-high-risk-joint-humanitarian-mission-to-al-shifa-hospital-in-gaza).
+You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal111823/college-football-week-12-highlights-top-plays-games-takeaways-2023).
 
 ## Requirements
 - Python 3.8
