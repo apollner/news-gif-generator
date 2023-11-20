@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700480017)
+![Generated GIF](output.gif?raw=true&v=1700482427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Argentina holds cliffhanger election with economy at stake**
+**[Removed]**
 
-You can read more about it [here](https://news.yahoo.com/argentina-holds-cliffhanger-election-economy-011043999.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
