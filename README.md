@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700516093)
+![Generated GIF](output.gif?raw=true&v=1700518059)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL late slate: Jets vs. Bills score, highlights, news, inactives and live updates**
+**Israel says soldier executed, foreign hostages held at Gaza's Shifa hospital**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-jets-vs-bills-score-highlights-news-inactives-and-live-updates-194054797.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/).
 
 ## Requirements
 - Python 3.8
