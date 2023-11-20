@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700510944)
+![Generated GIF](output.gif?raw=true&v=1700512440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Netanyahu war cabinet stifles revolt from far right over sending Gazans fuel without hostage deal: report**
+**Taylor Swift fan Ana Benevides' father speaks out: ‘I lost my only daughter…’**
 
-You can read more about it [here](https://www.foxnews.com/world/netanyahu-war-cabinet-stifles-revolt-far-right-sending-gazans-fuel-without-hostage-deal-report).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-fan-ana-benevides-father-speaks-out-if-negligence-is-confirmed-someone-will-be-punished-101700394365313.html).
 
 ## Requirements
 - Python 3.8
