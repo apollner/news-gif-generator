@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700458422)
+![Generated GIF](output.gif?raw=true&v=1700460908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans sweep 3 major state offices in Louisiana election**
+**'Lost City' Deep in The Ocean Is Unlike Anything We've Ever Seen Before on Earth**
 
-You can read more about it [here](https://thehill.com/homenews/ap/ap-politics/4317062-republicans-sweep-3-major-state-offices-in-louisiana-election/).
+You can read more about it [here](https://www.sciencealert.com/lost-city-deep-in-the-ocean-is-unlike-anything-weve-ever-seen-before-on-earth).
 
 ## Requirements
 - Python 3.8
