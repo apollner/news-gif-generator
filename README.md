@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700485988)
+![Generated GIF](output.gif?raw=true&v=1700487355)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Lost City' Deep in The Ocean Is Unlike Anything We've Ever Seen Before on Earth**
+**A U.N. team enters Gaza's Al-Shifa Hospital and finds a "death zone"**
 
-You can read more about it [here](https://www.sciencealert.com/lost-city-deep-in-the-ocean-is-unlike-anything-weve-ever-seen-before-on-earth).
+You can read more about it [here](https://www.npr.org/2023/11/19/1214024420/gaza-israel-al-shifa-hospital-evacuation).
 
 ## Requirements
 - Python 3.8
