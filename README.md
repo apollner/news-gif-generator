@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700512440)
+![Generated GIF](output.gif?raw=true&v=1700514412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift fan Ana Benevides' father speaks out: ‘I lost my only daughter…’**
+**US and Qatar say deal closer over Hamas hostages**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-fan-ana-benevides-father-speaks-out-if-negligence-is-confirmed-someone-will-be-punished-101700394365313.html).
+You can read more about it [here](https://www.ft.com/content/a83f9ee7-8386-4996-b871-3d6c5a77c324).
 
 ## Requirements
 - Python 3.8
