@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700503906)
+![Generated GIF](output.gif?raw=true&v=1700505402)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**What it would mean for Eagles to knock off another of their demons**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/what-it-would-mean-for-eagles-to-knock-off-another-of-their-demons/547104/).
 
 ## Requirements
 - Python 3.8
