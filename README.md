@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700440413)
+![Generated GIF](output.gif?raw=true&v=1700445019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unusual respiratory illness found in Oregon dogs**
+**Investigators release images of "person of interest" in 10 Freeway arson fire**
 
-You can read more about it [here](https://www.oregonlive.com/news/2023/11/unusual-respiratory-illness-found-in-oregon-dogs.html).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/authorities-release-images-of-person-of-interest-in-10-freeway-suspected-arson/).
 
 ## Requirements
 - Python 3.8
