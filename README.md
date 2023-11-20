@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700460908)
+![Generated GIF](output.gif?raw=true&v=1700462332)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Lost City' Deep in The Ocean Is Unlike Anything We've Ever Seen Before on Earth**
+**OFFICIAL GRID: Eight teams in the top 10 for Las Vegas race start**
 
-You can read more about it [here](https://www.sciencealert.com/lost-city-deep-in-the-ocean-is-unlike-anything-weve-ever-seen-before-on-earth).
+You can read more about it [here](https://www.formula1.com/en/latest/article.official-grid-eight-teams-in-the-top-10-for-las-vegas-race-start.35vm2h8CTCUaXH93ODFf3x.html).
 
 ## Requirements
 - Python 3.8
