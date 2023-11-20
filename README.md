@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700505402)
+![Generated GIF](output.gif?raw=true&v=1700507103)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What it would mean for Eagles to knock off another of their demons**
+**Honda recall 2023: Engine concerns impact Pilot, Ridgeline, Odyssey, Acura and other models**
 
-You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/what-it-would-mean-for-eagles-to-knock-off-another-of-their-demons/547104/).
+You can read more about it [here](https://www.cnn.com/2023/11/19/business/honda-engine-recall-list-2023/index.html).
 
 ## Requirements
 - Python 3.8
