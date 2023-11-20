@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700484717)
+![Generated GIF](output.gif?raw=true&v=1700485988)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 decades after teen's murder, DNA helps ID killer with a history of crimes against women**
+**'Lost City' Deep in The Ocean Is Unlike Anything We've Ever Seen Before on Earth**
 
-You can read more about it [here](https://www.cbsnews.com/news/sarah-yarborough-murder-patrick-nicholas-trial-dna-washington-state-48-hours/).
+You can read more about it [here](https://www.sciencealert.com/lost-city-deep-in-the-ocean-is-unlike-anything-weve-ever-seen-before-on-earth).
 
 ## Requirements
 - Python 3.8
