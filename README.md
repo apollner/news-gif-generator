@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700561706)
+![Generated GIF](output.gif?raw=true&v=1700563405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China keeps lending benchmark rates unchanged, as expected**
+**Suki Waterhouse, Robert Pattinson expecting first child together**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-keeps-lending-benchmark-rates-unchanged-expected-2023-11-20/).
+You can read more about it [here](https://ew.com/suki-waterhouse-robert-pattinson-expecting-first-child-together-8404595).
 
 ## Requirements
 - Python 3.8
