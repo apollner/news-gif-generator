@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700566440)
+![Generated GIF](output.gif?raw=true&v=1700568882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dak Prescott, Cowboys DOMINATE vs. Bryce Young, Panthers - Dave Helman's analysis | NFL on FOX Pod**
+**Shares tread water, dollar dips as markets eye Fed rate cuts**
 
-You can read more about it [here](https://www.foxsports.com/watch/fmc-1xgk1agxmxmfbbdc).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-20/).
 
 ## Requirements
 - Python 3.8
