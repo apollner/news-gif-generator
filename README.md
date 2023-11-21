@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700564745)
+![Generated GIF](output.gif?raw=true&v=1700566440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel says soldier executed, foreign hostages held at Gaza's Shifa hospital**
+**Dak Prescott, Cowboys DOMINATE vs. Bryce Young, Panthers - Dave Helman's analysis | NFL on FOX Pod**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/).
+You can read more about it [here](https://www.foxsports.com/watch/fmc-1xgk1agxmxmfbbdc).
 
 ## Requirements
 - Python 3.8
