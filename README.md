@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700548612)
+![Generated GIF](output.gif?raw=true&v=1700550433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Los Angeles Chargers vs. Green Bay Packers Game Highlights | NFL 2023 Week 11**
+**Brock Purdy posts perfect passer rating in 49ers win - ESPN**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wFWhChkhmKc).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38941339/brock-purdy-posts-perfect-passer-rating-49ers-win).
 
 ## Requirements
 - Python 3.8
