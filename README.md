@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700588207)
+![Generated GIF](output.gif?raw=true&v=1700590246)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**U.S. court strikes down key path for enforcing voting rights**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2023/11/20/1152732216/voting-rights-act-supreme-court-section-2-private-right-of-action).
 
 ## Requirements
 - Python 3.8
