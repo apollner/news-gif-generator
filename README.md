@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700598825)
+![Generated GIF](output.gif?raw=true&v=1700600868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sheetz Thanksgiving gas prices: $1.99 a gallon deal**
+**Apple reportedly plans to release its Vision Pro headset in March 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/20/sheetz-gas-prices-unleaded-88-1-99-thanksgiving-deal/71653557007/).
+You can read more about it [here](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/).
 
 ## Requirements
 - Python 3.8
