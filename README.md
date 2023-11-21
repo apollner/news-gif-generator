@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700543284)
+![Generated GIF](output.gif?raw=true&v=1700544894)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Radical libertarian Javier Milei seizes victory in Argentina presidential election**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/38f718d3-0289-4b12-8faf-245c19d65cb0).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
