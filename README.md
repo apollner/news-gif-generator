@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700591830)
+![Generated GIF](output.gif?raw=true&v=1700593547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US defense chief Austin visits Kyiv as questions swirl over aid to Ukraine**
+**U.S. to offer another round of free at-home Covid tests starting Monday**
 
-You can read more about it [here](https://www.reuters.com/world/us-secretary-defense-austin-us-will-stand-with-ukraine-2023-11-20/).
+You can read more about it [here](https://www.cnbc.com/2023/11/20/free-at-home-covid-tests-available-starting-monday.html).
 
 ## Requirements
 - Python 3.8
