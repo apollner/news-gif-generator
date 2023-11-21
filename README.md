@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700575691)
+![Generated GIF](output.gif?raw=true&v=1700577522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rosalynn Carter, mental health activist, humanitarian and former first lady, dies at 96**
+**What we learned in NFL Week 11 results: Cowboys surge, Lions stretch, Chargers still stunted and more**
 
-You can read more about it [here](https://www.cnn.com/2023/11/19/politics/rosalynn-carter-mental-health-activist-humanitarian-and-former-first-lady-dies-at/index.html).
+You can read more about it [here](https://theathletic.com/5075615/2023/11/20/nfl-results-week-11-cowboys-chargers-lions/).
 
 ## Requirements
 - Python 3.8
