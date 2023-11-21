@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700571074)
+![Generated GIF](output.gif?raw=true&v=1700572366)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An appeals court will hear arguments over Trump's gag order in Jan. 6 case**
+**Severe storms possible in the New Orleans forecast Monday night**
 
-You can read more about it [here](https://www.npr.org/2023/11/20/1213720754/trump-gag-order).
+You can read more about it [here](https://www.wdsu.com/article/new-orleans-severe-storms-monday-night-severe-winds-tornadoes/45887355).
 
 ## Requirements
 - Python 3.8
