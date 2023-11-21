@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700573646)
+![Generated GIF](output.gif?raw=true&v=1700575691)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canned seafood moves beyond tuna sandwiches in a pandemic trend that stuck**
+**Rosalynn Carter, mental health activist, humanitarian and former first lady, dies at 96**
 
-You can read more about it [here](https://nypost.com/2023/11/20/news/canned-seafood-moves-beyond-tuna-sandwiches-in-a-pandemic-trend-that-stuck/).
+You can read more about it [here](https://www.cnn.com/2023/11/19/politics/rosalynn-carter-mental-health-activist-humanitarian-and-former-first-lady-dies-at/index.html).
 
 ## Requirements
 - Python 3.8
