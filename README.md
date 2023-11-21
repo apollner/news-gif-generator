@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700559228)
+![Generated GIF](output.gif?raw=true&v=1700561706)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Head repaid Australia's faith by winning the World Cup: Zaheer Khan**
+**China keeps lending benchmark rates unchanged, as expected**
 
-You can read more about it [here](https://www.youtube.com/watch?v=m737LrWY5Qg).
+You can read more about it [here](https://www.reuters.com/world/china/china-keeps-lending-benchmark-rates-unchanged-expected-2023-11-20/).
 
 ## Requirements
 - Python 3.8
