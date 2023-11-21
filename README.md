@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700555770)
+![Generated GIF](output.gif?raw=true&v=1700559228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qatar PM says only ‘minor’ challenges to Israel-Hamas captive deal**
+**Travis Head repaid Australia's faith by winning the World Cup: Zaheer Khan**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/20/qatar-pm-says-only-minor-challenges-to-israel-hamas-captive-deal).
+You can read more about it [here](https://www.youtube.com/watch?v=m737LrWY5Qg).
 
 ## Requirements
 - Python 3.8
