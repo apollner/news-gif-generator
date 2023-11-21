@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700523204)
+![Generated GIF](output.gif?raw=true&v=1700526754)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Black Friday Deals Available Now: AirPods, iPhone, iPad, and More**
+**Far-right outsider Javier Milei wins Argentina’s presidency**
 
-You can read more about it [here](https://www.macrumors.com/guide/apple-black-friday-deals-available-now/).
+You can read more about it [here](https://www.cnn.com/2023/11/19/world/argentina-vote-milei-massa-nov-19/index.html).
 
 ## Requirements
 - Python 3.8
