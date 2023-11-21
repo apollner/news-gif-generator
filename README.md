@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700580829)
+![Generated GIF](output.gif?raw=true&v=1700583028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**20 million from Texas to the Southeast at risk of severe storms and tornadoes**
+**Crazy Efficient: AMD Threadripper 7980X & 7970X CPU Review & Benchmarks**
 
-You can read more about it [here](https://www.cnn.com/2023/11/20/weather/south-severe-storms-tornadoes-monday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=yDEUOoWTzGw).
 
 ## Requirements
 - Python 3.8
