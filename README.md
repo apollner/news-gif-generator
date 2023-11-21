@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700595838)
+![Generated GIF](output.gif?raw=true&v=1700597299)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX wraps busy weekend with launch of 22 Starlink satellites (video)**
+**Sheetz Thanksgiving gas prices: $1.99 a gallon deal**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-7-7).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/20/sheetz-gas-prices-unleaded-88-1-99-thanksgiving-deal/71653557007/).
 
 ## Requirements
 - Python 3.8
