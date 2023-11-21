@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700608138)
+![Generated GIF](output.gif?raw=true&v=1700609617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden says he believes Gaza hostage release deal near**
+**He Voted to Impeach Trump. Now He'd Vote for Him for President.**
 
-You can read more about it [here](https://news.yahoo.com/biden-says-believes-gaza-hostage-171853244.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/11/20/peter-meijer-senate-donald-trump-00128137).
 
 ## Requirements
 - Python 3.8
