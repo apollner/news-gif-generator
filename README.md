@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700604410)
+![Generated GIF](output.gif?raw=true&v=1700606145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Jim Harbaugh Finally Learned to Counterpunch Ohio State**
+**Nvidia earnings: OpenAI drama, record high stock price set the table for key report**
 
-You can read more about it [here](https://www.si.com/college/2023/11/20/jim-harbaugh-michigan-flipped-ohio-state-rivarly).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-earnings-openai-drama-record-high-stock-price-set-the-table-for-key-report-211445574.html).
 
 ## Requirements
 - Python 3.8
