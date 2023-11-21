@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700583028)
+![Generated GIF](output.gif?raw=true&v=1700584880)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Crazy Efficient: AMD Threadripper 7980X & 7970X CPU Review & Benchmarks**
+**A journalist in Gaza fights to report and survive**
 
-You can read more about it [here](https://www.youtube.com/watch?v=yDEUOoWTzGw).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/20/journalist-in-gaza-week-in-life/71391249007/).
 
 ## Requirements
 - Python 3.8
