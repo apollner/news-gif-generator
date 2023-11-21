@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700534620)
+![Generated GIF](output.gif?raw=true&v=1700536214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Los Angeles Chargers vs. Green Bay Packers Game Highlights | NFL 2023 Week 11**
+**Israel says soldier executed, foreign hostages held at Gaza's Shifa hospital**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wFWhChkhmKc).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/).
 
 ## Requirements
 - Python 3.8
