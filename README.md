@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700617984)
+![Generated GIF](output.gif?raw=true&v=1700619956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black Friday 2023: The latest tech deals on Apple, Lenovo, Dyson, Vitamix, and more!**
+**Travis Kelce says he's 'learning every day' from Taylor Swift**
 
-You can read more about it [here](https://arstechnica.com/shopping/2023/11/black-friday-2023-deals/).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/travis-kelce-talks-taylor-swift-ive-dated-kind-105044205).
 
 ## Requirements
 - Python 3.8
