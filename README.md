@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700688895)
+![Generated GIF](output.gif?raw=true&v=1700690755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WSJ News Exclusive | Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty**
+**North Korea claims success in launching first spy satellite**
 
-You can read more about it [here](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-flags-plan-launch-satellite-rocket-between-nov-22-dec-1-japan-says-2023-11-20/).
 
 ## Requirements
 - Python 3.8
