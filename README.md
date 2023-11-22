@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700644146)
+![Generated GIF](output.gif?raw=true&v=1700645629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ROCKETS at WARRIORS | FULL GAME HIGHLIGHTS | November 20, 2023**
+**Three people dead, one severely injured, in Custer County shooting over property lines**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7LsCAO77QNE).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/custer-county-quadruple-shooting-property-lines/).
 
 ## Requirements
 - Python 3.8
