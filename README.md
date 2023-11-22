@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700672794)
+![Generated GIF](output.gif?raw=true&v=1700674454)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pokemon Scarlet and Violet: The Hidden Treasure of Area Zero Part 2: The Indigo Disk – Hands-On**
+**NFL Power Rankings, Week 12: Eagles stay at No. 1, while Chiefs slip; Broncos continue steady climb**
 
-You can read more about it [here](https://www.ign.com/articles/pokemon-scarlet-and-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk-hands-on).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-12-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
