@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700622578)
+![Generated GIF](output.gif?raw=true&v=1700624043)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Crews working to remove P-8A aircraft from Kane'ohe Bay.**
+**He Voted to Impeach Trump. Now He'd Vote for Him for President.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AhhzK6QKQ3o).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/11/20/peter-meijer-senate-donald-trump-00128137).
 
 ## Requirements
 - Python 3.8
