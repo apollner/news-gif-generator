@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700633601)
+![Generated GIF](output.gif?raw=true&v=1700635027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**International Emmy Awards 2023: Shefali Shah misses Best Actress to Karla Souza**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/web-series/international-emmy-awards-2023-shefali-shah-misses-best-actress-to-karla-souza-101700532371082.html).
 
 ## Requirements
 - Python 3.8
