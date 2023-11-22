@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700692423)
+![Generated GIF](output.gif?raw=true&v=1700694462)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wisconsin Supreme Court hears arguments in challenge to election maps**
+**Gunman shoots 4 inside Ohio Walmart, dies from self-inflicted gunshot: Police**
 
-You can read more about it [here](https://www.jsonline.com/story/news/politics/2023/11/21/wisconsin-supreme-court-hears-arguments-in-challenge-to-election-maps/71625379007/).
+You can read more about it [here](https://abcnews.go.com/US/walmart-beavercreek-ohio-shooting/story?id=105047468).
 
 ## Requirements
 - Python 3.8
