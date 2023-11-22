@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700674454)
+![Generated GIF](output.gif?raw=true&v=1700676619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Power Rankings, Week 12: Eagles stay at No. 1, while Chiefs slip; Broncos continue steady climb**
+**Cornel West plans a trip to Michigan to target voters softening on Joe Biden - POLITICO**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-12-2023-nfl-season).
+You can read more about it [here](https://www.politico.com/news/2023/11/21/joe-biden-cornel-west-michigan-2024-00128244).
 
 ## Requirements
 - Python 3.8
