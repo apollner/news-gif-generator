@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700613218)
+![Generated GIF](output.gif?raw=true&v=1700617984)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**American Airlines flight attendants ask for permission to strike. Southwest pilots could be next**
+**Black Friday 2023: The latest tech deals on Apple, Lenovo, Dyson, Vitamix, and more!**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/american-airlines-flight-attendants-permission-strike-southwest-pilots-105046117).
+You can read more about it [here](https://arstechnica.com/shopping/2023/11/black-friday-2023-deals/).
 
 ## Requirements
 - Python 3.8
