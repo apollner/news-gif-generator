@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700681692)
+![Generated GIF](output.gif?raw=true&v=1700683803)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black Friday 2023: Shop deals on Apple headphones, watches and more**
+**WSJ News Exclusive | Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty**
 
-You can read more about it [here](https://www.goodmorningamerica.com/shop/story/black-friday-2023-apple-deals-105042094).
+You can read more about it [here](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40).
 
 ## Requirements
 - Python 3.8
