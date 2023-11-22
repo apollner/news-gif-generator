@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700669406)
+![Generated GIF](output.gif?raw=true&v=1700671209)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Hampshire man had no car and no furniture, but died with a big secret, leaving his town millions**
+**Marquez Valdes-Scantling's mistake dooms Chiefs in Super Bowl rematch vs. gritty Eagles**
 
-You can read more about it [here](https://apnews.com/article/new-hampshire-town-gift-frugal-millionaire-holt-994a9448623c51db5036b85dd563fb24).
+You can read more about it [here](https://sports.yahoo.com/marquez-valdes-scantlings-mistake-dooms-chiefs-in-super-bowl-rematch-vs-gritty-eagles-074737096.html).
 
 ## Requirements
 - Python 3.8
