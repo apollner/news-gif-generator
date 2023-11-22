@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700642162)
+![Generated GIF](output.gif?raw=true&v=1700644146)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Has Heel Wardrobe Malfunction During Brazil Show**
+**ROCKETS at WARRIORS | FULL GAME HIGHLIGHTS | November 20, 2023**
 
-You can read more about it [here](https://people.com/taylor-swift-has-wardrobe-malfunction-at-brazil-show-8405229).
+You can read more about it [here](https://www.youtube.com/watch?v=7LsCAO77QNE).
 
 ## Requirements
 - Python 3.8
