@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700640692)
+![Generated GIF](output.gif?raw=true&v=1700642162)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Midlife's Hidden Belly Fat: A Surprising Link to Alzheimer's Disease**
+**Taylor Swift Has Heel Wardrobe Malfunction During Brazil Show**
 
-You can read more about it [here](https://scitechdaily.com/midlifes-hidden-belly-fat-a-surprising-link-to-alzheimers-disease/).
+You can read more about it [here](https://people.com/taylor-swift-has-wardrobe-malfunction-at-brazil-show-8405229).
 
 ## Requirements
 - Python 3.8
