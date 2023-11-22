@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700658758)
+![Generated GIF](output.gif?raw=true&v=1700660052)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pentagon chief in Kyiv amid questions over future US arms supplies**
+**Best Buy stock drops as it posts broad sales decline for Q3**
 
-You can read more about it [here](https://abcnews.go.com/International/pentagon-chief-kyiv-amid-questions-future-us-arms/story?id=105027529).
+You can read more about it [here](https://finance.yahoo.com/news/best-buy-stock-drops-as-it-posts-broad-sales-decline-for-q3-125141935.html).
 
 ## Requirements
 - Python 3.8
