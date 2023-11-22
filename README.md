@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700629683)
+![Generated GIF](output.gif?raw=true&v=1700631248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zach Wilson benched, will be QB3: Jets to start Tim Boyle vs. Dolphins in Week 12 Black Friday game**
+**UK PM reportedly said 'just let people die', Covid inquiry hears**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/zach-wilson-benched-will-be-qb3-jets-to-start-tim-boyle-at-vs-dolphins-in-week-12-black-friday-game/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/uk-pm-rishi-sunak-reportedly-said-just-let-people-die-covid-inquiry-hears-101700522145066.html).
 
 ## Requirements
 - Python 3.8
