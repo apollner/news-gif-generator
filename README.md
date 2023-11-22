@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700679897)
+![Generated GIF](output.gif?raw=true&v=1700681692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Fargo’ Season Five Is a Return to Form With Jon Hamm’s MAGA Sheriff**
+**Black Friday 2023: Shop deals on Apple headphones, watches and more**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-reviews/fargo-season-5-review-jon-hamm-maga-sheriff-fx-juno-temple-noah-hawley-1234877787/).
+You can read more about it [here](https://www.goodmorningamerica.com/shop/story/black-friday-2023-apple-deals-105042094).
 
 ## Requirements
 - Python 3.8
