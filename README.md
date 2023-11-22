@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700619956)
+![Generated GIF](output.gif?raw=true&v=1700621038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce says he's 'learning every day' from Taylor Swift**
+**How to Watch the Chiefs vs. Eagles Game Online**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/travis-kelce-talks-taylor-swift-ive-dated-kind-105044205).
+You can read more about it [here](https://variety.com/2023/shopping/news/how-to-watch-chiefs-vs-eagles-online-free-1235802489/).
 
 ## Requirements
 - Python 3.8
