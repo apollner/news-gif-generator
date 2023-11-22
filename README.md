@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700631248)
+![Generated GIF](output.gif?raw=true&v=1700633601)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK PM reportedly said 'just let people die', Covid inquiry hears**
+**[Removed]**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/uk-pm-rishi-sunak-reportedly-said-just-let-people-die-covid-inquiry-hears-101700522145066.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
