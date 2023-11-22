@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700609617)
+![Generated GIF](output.gif?raw=true&v=1700613218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**He Voted to Impeach Trump. Now He'd Vote for Him for President.**
+**American Airlines flight attendants ask for permission to strike. Southwest pilots could be next**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/11/20/peter-meijer-senate-donald-trump-00128137).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/american-airlines-flight-attendants-permission-strike-southwest-pilots-105046117).
 
 ## Requirements
 - Python 3.8
