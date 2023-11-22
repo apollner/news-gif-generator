@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700655215)
+![Generated GIF](output.gif?raw=true&v=1700657456)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navy plane overshoots runway, ends up in Hawaii bay**
+**Microsoft Shares Hit Record High Amid Tumult Around OpenAI**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4320096-navy-plane-overshoots-runway-ends-up-in-hawaii-bay/).
+You can read more about it [here](https://www.pymnts.com/artificial-intelligence-2/2023/microsoft-shares-hit-record-high-amid-tumult-around-openai/).
 
 ## Requirements
 - Python 3.8
