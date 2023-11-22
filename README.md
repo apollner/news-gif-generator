@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700621038)
+![Generated GIF](output.gif?raw=true&v=1700622578)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to Watch the Chiefs vs. Eagles Game Online**
+**Crews working to remove P-8A aircraft from Kane'ohe Bay.**
 
-You can read more about it [here](https://variety.com/2023/shopping/news/how-to-watch-chiefs-vs-eagles-online-free-1235802489/).
+You can read more about it [here](https://www.youtube.com/watch?v=AhhzK6QKQ3o).
 
 ## Requirements
 - Python 3.8
