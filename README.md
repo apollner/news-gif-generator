@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700667227)
+![Generated GIF](output.gif?raw=true&v=1700669406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**354 pounds of methamphetamine seized from pick-up truck crossing from Mexico to US**
+**New Hampshire man had no car and no furniture, but died with a big secret, leaving his town millions**
 
-You can read more about it [here](https://abcnews.go.com/US/354-pounds-methamphetamine-seized-pick-truck-crossing-mexico/story?id=105058893).
+You can read more about it [here](https://apnews.com/article/new-hampshire-town-gift-frugal-millionaire-holt-994a9448623c51db5036b85dd563fb24).
 
 ## Requirements
 - Python 3.8
