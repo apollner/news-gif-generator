@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700685237)
+![Generated GIF](output.gif?raw=true&v=1700687159)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**I'm an Israeli Arab. I'm Embarrassed—and Hamas Is to Blame**
+**Drops, turnovers and penalties: Inside the Chiefs’ offensive meltdown against the Eagles**
 
-You can read more about it [here](https://www.newsweek.com/im-israeli-arab-hamas-does-not-represent-me-opinion-1845763).
+You can read more about it [here](https://theathletic.com/5079679/2023/11/21/chiefs-offense-drops-turnovers-penalties/).
 
 ## Requirements
 - Python 3.8
