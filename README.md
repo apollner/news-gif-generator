@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700694462)
+![Generated GIF](output.gif?raw=true&v=1700696034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gunman shoots 4 inside Ohio Walmart, dies from self-inflicted gunshot: Police**
+**Custer County triple homicide suspect in custody**
 
-You can read more about it [here](https://abcnews.go.com/US/walmart-beavercreek-ohio-shooting/story?id=105047468).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/custer-county-quadruple-shooting-property-lines/).
 
 ## Requirements
 - Python 3.8
