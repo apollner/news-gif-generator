@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700645629)
+![Generated GIF](output.gif?raw=true&v=1700647771)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Three people dead, one severely injured, in Custer County shooting over property lines**
+**Rosalynn Carter, who transformed role of first lady, dies at 96**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/custer-county-quadruple-shooting-property-lines/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/11/19/rosalynn-carter-dies-transformed-role-first-lady/71625804007/).
 
 ## Requirements
 - Python 3.8
