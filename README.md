@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700678096)
+![Generated GIF](output.gif?raw=true&v=1700679897)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drops, turnovers and penalties: Inside the Chiefs’ offensive meltdown against the Eagles**
+**‘Fargo’ Season Five Is a Return to Form With Jon Hamm’s MAGA Sheriff**
 
-You can read more about it [here](https://theathletic.com/5079679/2023/11/21/chiefs-offense-drops-turnovers-penalties/).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-reviews/fargo-season-5-review-jon-hamm-maga-sheriff-fx-juno-temple-noah-hawley-1234877787/).
 
 ## Requirements
 - Python 3.8
