@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700651137)
+![Generated GIF](output.gif?raw=true&v=1700652831)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pentagon chief in Kyiv amid questions over future US arms supplies**
+**Rosalynn Carter, who transformed role of first lady, dies at 96**
 
-You can read more about it [here](https://abcnews.go.com/International/pentagon-chief-kyiv-amid-questions-future-us-arms/story?id=105027529).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/11/19/rosalynn-carter-dies-transformed-role-first-lady/71625804007/).
 
 ## Requirements
 - Python 3.8
