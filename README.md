@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700690755)
+![Generated GIF](output.gif?raw=true&v=1700692423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea claims success in launching first spy satellite**
+**Wisconsin Supreme Court hears arguments in challenge to election maps**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-flags-plan-launch-satellite-rocket-between-nov-22-dec-1-japan-says-2023-11-20/).
+You can read more about it [here](https://www.jsonline.com/story/news/politics/2023/11/21/wisconsin-supreme-court-hears-arguments-in-challenge-to-election-maps/71625379007/).
 
 ## Requirements
 - Python 3.8
