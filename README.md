@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700676619)
+![Generated GIF](output.gif?raw=true&v=1700678096)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cornel West plans a trip to Michigan to target voters softening on Joe Biden - POLITICO**
+**Drops, turnovers and penalties: Inside the Chiefs’ offensive meltdown against the Eagles**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/21/joe-biden-cornel-west-michigan-2024-00128244).
+You can read more about it [here](https://theathletic.com/5079679/2023/11/21/chiefs-offense-drops-turnovers-penalties/).
 
 ## Requirements
 - Python 3.8
