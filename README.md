@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700665840)
+![Generated GIF](output.gif?raw=true&v=1700667227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pokemon Scarlet and Violet: The Hidden Treasure of Area Zero Part 2: The Indigo Disk – Hands-On**
+**354 pounds of methamphetamine seized from pick-up truck crossing from Mexico to US**
 
-You can read more about it [here](https://www.ign.com/articles/pokemon-scarlet-and-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk-hands-on).
+You can read more about it [here](https://abcnews.go.com/US/354-pounds-methamphetamine-seized-pick-truck-crossing-mexico/story?id=105058893).
 
 ## Requirements
 - Python 3.8
