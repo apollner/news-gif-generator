@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700638428)
+![Generated GIF](output.gif?raw=true&v=1700640692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First images from Indian tunnel show workers trapped for nine days**
+**Midlife's Hidden Belly Fat: A Surprising Link to Alzheimer's Disease**
 
-You can read more about it [here](https://www.reuters.com/world/india/first-images-indian-tunnel-show-workers-trapped-nine-days-2023-11-21/).
+You can read more about it [here](https://scitechdaily.com/midlifes-hidden-belly-fat-a-surprising-link-to-alzheimers-disease/).
 
 ## Requirements
 - Python 3.8
