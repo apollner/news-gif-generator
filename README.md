@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700636839)
+![Generated GIF](output.gif?raw=true&v=1700638428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suki Waterhouse baby: Singer is expecting with Robert Pattinson**
+**First images from Indian tunnel show workers trapped for nine days**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/11/20/suki-waterhouse-pregnant-robert-pattinson/71650120007/).
+You can read more about it [here](https://www.reuters.com/world/india/first-images-indian-tunnel-show-workers-trapped-nine-days-2023-11-21/).
 
 ## Requirements
 - Python 3.8
