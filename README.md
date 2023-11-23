@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700748390)
+![Generated GIF](output.gif?raw=true&v=1700750038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jason Mraz and Charity Lawson’s A Celebration of Taylor Swift Relay Dance – Dancing with the Stars**
+**China Rounds Up 31000 Suspects in Sweeping 'Pig-Butchering' Crackdown**
 
-You can read more about it [here](https://www.youtube.com/watch?v=xz4zalKi3Ic).
+You can read more about it [here](https://www.wsj.com/world/asia/china-rounds-up-31-000-suspects-in-sweeping-pig-butchering-crackdown-00af42f0).
 
 ## Requirements
 - Python 3.8
