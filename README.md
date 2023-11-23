@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700734156)
+![Generated GIF](output.gif?raw=true&v=1700735801)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Earth receives laser beam message from 10 million miles away**
+**Asia stocks slip, dollar sell-off eases as dovish Fed cheer fades**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/nasa-laser-beam-dsoc-psyche).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-22/).
 
 ## Requirements
 - Python 3.8
