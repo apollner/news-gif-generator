@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700728499)
+![Generated GIF](output.gif?raw=true&v=1700730549)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID deaths tick up in some states ahead of holidays**
+**'Dancing With the Stars' Taylor Swift Night: Harry Jowsey Eliminated**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
+You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-taylor-swift-night-harry-jowsey-eliminated/).
 
 ## Requirements
 - Python 3.8
