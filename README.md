@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700707221)
+![Generated GIF](output.gif?raw=true&v=1700708968)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Local man ID’d as Beavercreek Walmart mass shooter; FBI, police searching for motive**
+**Melissa Barrera Fired From ‘Scream VII’**
 
-You can read more about it [here](https://www.whio.com/news/local/local-man-idd-beavercreek-walmart-mass-shooter/UGIZIATSA5AMRAYYSSG4HB6GYA/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/melissa-barrera-fired-scream-vii-1235669458/).
 
 ## Requirements
 - Python 3.8
