@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700737566)
+![Generated GIF](output.gif?raw=true&v=1700739232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nvidia revenue soars due to AI, but stock dips on trade restrictions**
+**JFK Assassination: Travelers come to Dallas to remember president 60 years after death**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-revenue-soars-due-ai-005452939.html).
+You can read more about it [here](https://www.youtube.com/watch?v=7SQ4mddfJIg).
 
 ## Requirements
 - Python 3.8
