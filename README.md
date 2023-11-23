@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700727038)
+![Generated GIF](output.gif?raw=true&v=1700728499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff rankings: Washington moves up to No. 4 ahead of Florida State**
+**COVID deaths tick up in some states ahead of holidays**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/21/college-football-playoff-rankings-washington-florida-state/71653721007/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
 
 ## Requirements
 - Python 3.8
