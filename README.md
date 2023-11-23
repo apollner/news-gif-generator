@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700703583)
+![Generated GIF](output.gif?raw=true&v=1700706184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war rages as humanitarian crisis spirals in Gaza: Live updates**
+**Apple CEO Tim Cook tells Dua Lipa how long he'll remain in the role**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-21-23/index.html).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-ceo-tim-cook-dua-lipa-how-long-remain-role).
 
 ## Requirements
 - Python 3.8
