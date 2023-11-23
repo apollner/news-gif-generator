@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700746582)
+![Generated GIF](output.gif?raw=true&v=1700748390)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Changpeng Zhao, Binance CEO ousted for US crimes?**
+**Jason Mraz and Charity Lawson’s A Celebration of Taylor Swift Relay Dance – Dancing with the Stars**
 
-You can read more about it [here](https://www.reuters.com/technology/changpeng-zhao-crypto-king-binance-chief-ousted-us-crimes-2023-11-21/).
+You can read more about it [here](https://www.youtube.com/watch?v=xz4zalKi3Ic).
 
 ## Requirements
 - Python 3.8
