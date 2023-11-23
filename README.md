@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700708968)
+![Generated GIF](output.gif?raw=true&v=1700710475)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Melissa Barrera Fired From ‘Scream VII’**
+**OpenAI directors in talks with Sam Altman on rejoining board**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/melissa-barrera-fired-scream-vii-1235669458/).
+You can read more about it [here](https://www.ft.com/content/cf1d3a97-051c-46a1-ae93-047fbbe52728).
 
 ## Requirements
 - Python 3.8
