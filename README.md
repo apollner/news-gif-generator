@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700775230)
+![Generated GIF](output.gif?raw=true&v=1700777247)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best Buy Black Friday Sale Introduces Huge Discounts on MacBooks, TVs, LEGO Sets, and More**
+**[Removed]**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/22/best-buy-black-friday-sale-wednesday/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
