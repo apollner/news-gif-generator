@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700780927)
+![Generated GIF](output.gif?raw=true&v=1700782420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortgage rates fall again, dropping by a half-point in 4 weeks**
+**Far-right leader Geert Wilders wins Dutch election: Exit poll**
 
-You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-fall-again-dropping-by-a-half-point-in-4-weeks-170011131.html).
+You can read more about it [here](https://www.politico.eu/article/far-right-leader-geert-wilders-wins-dutch-election-exit-poll/).
 
 ## Requirements
 - Python 3.8
