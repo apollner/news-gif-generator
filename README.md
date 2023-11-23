@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700773562)
+![Generated GIF](output.gif?raw=true&v=1700775230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 12: Sleepers, projections, starts, sits | Zach Charbonnet, AJ Dillon and more**
+**Best Buy Black Friday Sale Introduces Huge Discounts on MacBooks, TVs, LEGO Sets, and More**
 
-You can read more about it [here](https://theathletic.com/5081735/2023/11/22/fantasy-football-rankings-week-12-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.macrumors.com/2023/11/22/best-buy-black-friday-sale-wednesday/).
 
 ## Requirements
 - Python 3.8
