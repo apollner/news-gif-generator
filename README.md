@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700757541)
+![Generated GIF](output.gif?raw=true&v=1700759157)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside Israel's Campaign to Prove a Gaza Hospital Was a Hamas Command Center**
+**Melissa Barrera dropped from 'Scream VII' after pro-Palestinian posts**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/inside-israels-campaign-to-prove-a-gaza-hospital-was-a-hamas-command-center-65e655ee).
+You can read more about it [here](https://www.jpost.com/j-spot/article-774527).
 
 ## Requirements
 - Python 3.8
