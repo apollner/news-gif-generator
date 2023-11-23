@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700724824)
+![Generated GIF](output.gif?raw=true&v=1700727038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDF breaches blast door in Hamas tunnel under Gaza’s Shifa Hospital**
+**College Football Playoff rankings: Washington moves up to No. 4 ahead of Florida State**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2lkZi1icmVhY2hlcy1ibGFzdC1kb29yLWluLWhhbWFzLXR1bm5lbC11bmRlci1nYXphcy1zaGlmYS1ob3NwaXRhbC_SAWVodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9pZGYtYnJlYWNoZXMtYmxhc3QtZG9vci1pbi1oYW1hcy10dW5uZWwtdW5kZXItZ2F6YXMtc2hpZmEtaG9zcGl0YWwvYW1wLw?oc=5).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/21/college-football-playoff-rankings-washington-florida-state/71653721007/).
 
 ## Requirements
 - Python 3.8
