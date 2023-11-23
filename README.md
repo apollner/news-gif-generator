@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700759157)
+![Generated GIF](output.gif?raw=true&v=1700760814)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Melissa Barrera dropped from 'Scream VII' after pro-Palestinian posts**
+**The best Apple Black Friday deals: iPads, AirPods and Macbooks**
 
-You can read more about it [here](https://www.jpost.com/j-spot/article-774527).
+You can read more about it [here](https://www.today.com/shop/apple-black-friday-deals-2023-rcna124267).
 
 ## Requirements
 - Python 3.8
