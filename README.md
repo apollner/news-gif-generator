@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700741593)
+![Generated GIF](output.gif?raw=true&v=1700743805)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who is Changpeng Zhao, Binance CEO ousted for US crimes?**
+**Tempers flare with head coaches Shaka Smart and Bill Self in No. 4 Marquette's upset of No. 1 Kansas at Maui Invitational**
 
-You can read more about it [here](https://www.reuters.com/technology/changpeng-zhao-crypto-king-binance-chief-ousted-us-crimes-2023-11-21/).
+You can read more about it [here](https://sports.yahoo.com/tempers-flare-with-head-coaches-shaka-smart-and-bill-self-in-no-4-marquettes-upset-of-no-1-kansas-at-maui-invitational-083813074.html).
 
 ## Requirements
 - Python 3.8
