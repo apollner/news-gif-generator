@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700739232)
+![Generated GIF](output.gif?raw=true&v=1700741593)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**JFK Assassination: Travelers come to Dallas to remember president 60 years after death**
+**Who is Changpeng Zhao, Binance CEO ousted for US crimes?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7SQ4mddfJIg).
+You can read more about it [here](https://www.reuters.com/technology/changpeng-zhao-crypto-king-binance-chief-ousted-us-crimes-2023-11-21/).
 
 ## Requirements
 - Python 3.8
