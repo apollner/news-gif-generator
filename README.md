@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700778811)
+![Generated GIF](output.gif?raw=true&v=1700780927)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bad news for Black Friday: Retailers cast doubt on holiday shopping with cautious guidance**
+**Mortgage rates fall again, dropping by a half-point in 4 weeks**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/22/retailers-outlook-black-friday-holiday-2023-spending.html).
+You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-fall-again-dropping-by-a-half-point-in-4-weeks-170011131.html).
 
 ## Requirements
 - Python 3.8
