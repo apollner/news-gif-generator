@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700771638)
+![Generated GIF](output.gif?raw=true&v=1700773562)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Neck injection could improve smell issues in some long Covid patients﻿**
+**Fantasy Football Rankings Week 12: Sleepers, projections, starts, sits | Zach Charbonnet, AJ Dillon and more**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/neck-injection-improve-smell-issues-long-covid-patients-rcna125192).
+You can read more about it [here](https://theathletic.com/5081735/2023/11/22/fantasy-football-rankings-week-12-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
