@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700760814)
+![Generated GIF](output.gif?raw=true&v=1700763058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The best Apple Black Friday deals: iPads, AirPods and Macbooks**
+**‘Nervous rage’: Wolverine fans mix optimism, anger ahead of Ohio State rivalry game**
 
-You can read more about it [here](https://www.today.com/shop/apple-black-friday-deals-2023-rcna124267).
+You can read more about it [here](https://www.mlive.com/news/ann-arbor/2023/11/nervous-rage-wolverine-fans-mix-optimism-anger-ahead-of-ohio-state-rivalry-game.html).
 
 ## Requirements
 - Python 3.8
