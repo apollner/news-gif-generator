@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700743805)
+![Generated GIF](output.gif?raw=true&v=1700745068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tempers flare with head coaches Shaka Smart and Bill Self in No. 4 Marquette's upset of No. 1 Kansas at Maui Invitational**
+**North Korea Says Spy Satellite Successfully Launched**
 
-You can read more about it [here](https://sports.yahoo.com/tempers-flare-with-head-coaches-shaka-smart-and-bill-self-in-no-4-marquettes-upset-of-no-1-kansas-at-maui-invitational-083813074.html).
+You can read more about it [here](https://www.youtube.com/watch?v=-WZk7E0sWeA).
 
 ## Requirements
 - Python 3.8
