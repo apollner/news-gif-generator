@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700696034)
+![Generated GIF](output.gif?raw=true&v=1700699596)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Custer County triple homicide suspect in custody**
+**Nvidia earnings crush Wall Street estimates again, company tempers China outlook**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/custer-county-quadruple-shooting-property-lines/).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-earnings-crush-wall-street-estimates-again-company-tempers-china-outlook-212952215.html).
 
 ## Requirements
 - Python 3.8
