@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700766463)
+![Generated GIF](output.gif?raw=true&v=1700768039)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Love triangle revealed after California man fatally stabbed in case involving texts, video and a Selena Gomez song**
+**Dutch election: Wilders' far-right party set for gains**
 
-You can read more about it [here](https://www.cbsnews.com/news/wife-alleged-lover-arrested-stabbing-murder-husband-hayward-california-police/).
+You can read more about it [here](https://www.reuters.com/world/europe/dutch-vote-tight-race-pick-new-prime-minister-2023-11-22/).
 
 ## Requirements
 - Python 3.8
