@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700717626)
+![Generated GIF](output.gif?raw=true&v=1700719862)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID deaths tick up in some states ahead of holidays**
+**Several U.S. service members injured in missile attack at Al-Asad Airbase in Iraq, Pentagon says**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
+You can read more about it [here](https://www.cbsnews.com/news/us-service-members-injured-missile-attack-al-asad-airbase-iraq/).
 
 ## Requirements
 - Python 3.8
