@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700763058)
+![Generated GIF](output.gif?raw=true&v=1700764597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Nervous rage’: Wolverine fans mix optimism, anger ahead of Ohio State rivalry game**
+**Israel-Palestine war: Israeli attacks continue in Gaza | Latest News | WION**
 
-You can read more about it [here](https://www.mlive.com/news/ann-arbor/2023/11/nervous-rage-wolverine-fans-mix-optimism-anger-ahead-of-ohio-state-rivalry-game.html).
+You can read more about it [here](https://www.youtube.com/watch?v=hsFHZKBgTyM).
 
 ## Requirements
 - Python 3.8
