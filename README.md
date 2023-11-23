@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700714150)
+![Generated GIF](output.gif?raw=true&v=1700716080)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 1 dead in Wrangell after landslide destroys homes**
+**SpaceX set to launch 23 Starlink satellites from Florida tonight**
 
-You can read more about it [here](https://alaskapublic.org/2023/11/21/at-least-1-dead-in-wrangell-after-landslide-destroys-homes/).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-29).
 
 ## Requirements
 - Python 3.8
