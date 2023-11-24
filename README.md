@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700842180)
+![Generated GIF](output.gif?raw=true&v=1700844048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woman claims New York City Mayor Eric Adams sexually assaulted her in 1993**
+**One of the only places that can claim to host the First Thanksgiving rejects the label**
 
-You can read more about it [here](https://abcnews.go.com/US/woman-claims-new-york-city-mayor-eric-adams/story?id=105123810).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/first-thanksgiving-us-popham-colony-phippsburg-maine-rcna124952).
 
 ## Requirements
 - Python 3.8
