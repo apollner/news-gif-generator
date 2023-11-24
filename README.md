@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700825694)
+![Generated GIF](output.gif?raw=true&v=1700828119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Thanksgiving and Black Friday odds, how to watch, stream: Expert picks, best bets, teasers, survivor pool**
+**North Korea suspends Seoul military agreement, restores troops at border**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-thanksgiving-and-black-friday-odds-how-to-watch-stream-expert-picks-best-bets-teasers-survivor-pool/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/23/north-korea-suspends-seoul-military-agreement-restores-troops-at-border).
 
 ## Requirements
 - Python 3.8
