@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700830229)
+![Generated GIF](output.gif?raw=true&v=1700831455)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kentucky train derailment causes chemical spill, forces evacuations**
+**Far-right leader Geert Wilders wins most votes in Dutch election**
 
-You can read more about it [here](https://www.cbsnews.com/news/kentucky-train-derailment-chemical-spill-evacuations-rockcastle-county-livingston/).
+You can read more about it [here](https://www.ft.com/content/312e43f2-a8be-445d-9d46-88d2ddf174a7).
 
 ## Requirements
 - Python 3.8
