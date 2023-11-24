@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700792426)
+![Generated GIF](output.gif?raw=true&v=1700793560)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Archaeologists discover mummies of children that may be at least 1,000 years old – and their skulls still had hair on them**
+**Google’s Bard AI chatbot can now answer questions about YouTube videos**
 
-You can read more about it [here](https://www.cbsnews.com/news/peru-mummy-children-archaeologists-hair-skulls/).
+You can read more about it [here](https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/).
 
 ## Requirements
 - Python 3.8
