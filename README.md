@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700814951)
+![Generated GIF](output.gif?raw=true&v=1700816919)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WHO asks China for details on outbreaks of respiratory illness**
+**Charleston elects Republican mayor for first time since 1870s**
 
-You can read more about it [here](https://www.reuters.com/world/china/who-asks-china-details-respiratory-illness-outbreaks-2023-11-23/).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4324354-charleston-elects-republican-mayor/).
 
 ## Requirements
 - Python 3.8
