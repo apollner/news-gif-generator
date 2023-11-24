@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700802506)
+![Generated GIF](output.gif?raw=true&v=1700804018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WHO statement on reported clusters of respiratory illness in children in northern China**
+**Daryl Hall obtains restraining order against John Oates amid confidential lawsuit**
 
-You can read more about it [here](https://www.who.int/news/item/22-11-2023-who-statement-on-reported-clusters-of-respiratory-illness-in-children-in-northern-china).
+You can read more about it [here](https://abc7.com/hall-and-oates-daryl-john-lawsuit/14093774/).
 
 ## Requirements
 - Python 3.8
