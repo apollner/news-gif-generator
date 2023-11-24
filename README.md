@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700863577)
+![Generated GIF](output.gif?raw=true&v=1700865223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Squid Game: The Challenge’ Contestants Threaten Lawsuit Over Injuries**
+**Macy's Thanksgiving Day Parade blocked by pro-Palestinian protesters**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/squid-game-the-challenge-lawsuit-injuries-1235676557/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/23/macys-thanksgiving-day-parade-pro-palestinian-protesters/71687502007/).
 
 ## Requirements
 - Python 3.8
