@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700796894)
+![Generated GIF](output.gif?raw=true&v=1700798995)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former Obama adviser Stuart Seldowitz in custody after halal cart confrontation, NYPD opens hate crime investigation**
+**The price tag for happiness? Millennials say its $525,000**
 
-You can read more about it [here](https://abc7ny.com/halal-cart-confrontation-former-obama-adviser-harassment/14092785/).
+You can read more about it [here](https://www.marketwatch.com/story/the-price-tag-for-happiness-millennials-say-its-525-000-03aa1885).
 
 ## Requirements
 - Python 3.8
