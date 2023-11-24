@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700816919)
+![Generated GIF](output.gif?raw=true&v=1700818422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Charleston elects Republican mayor for first time since 1870s**
+**Israeli army arrests al-Shifa Hospital director, other doctors in Gaza**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4324354-charleston-elects-republican-mayor/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/23/al-shifa-hospital-director-arrested-by-israeli-army-in-gaza).
 
 ## Requirements
 - Python 3.8
