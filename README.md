@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700850859)
+![Generated GIF](output.gif?raw=true&v=1700852694)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here we go again: Scott Foster ejects Chris Paul from Warriors game**
+**Pro-Palestinian protesters force Macy's Thanksgiving Day Parade to stop**
 
-You can read more about it [here](https://www.nbcsports.com/nba/news/here-we-go-again-scott-foster-ejects-chris-paul-from-warriors-game).
+You can read more about it [here](https://abcnews.go.com/US/pro-palestinian-protesters-force-macys-thanksgiving-day-temporarily/story?id=105124720).
 
 ## Requirements
 - Python 3.8
