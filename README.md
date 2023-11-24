@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700845547)
+![Generated GIF](output.gif?raw=true&v=1700847272)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US warship shoots down multiple ‘attack drones’ in Red Sea**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/policy/international/4324690-us-warship-attack-drones-red-sea/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
