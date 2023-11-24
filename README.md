@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700849394)
+![Generated GIF](output.gif?raw=true&v=1700850859)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Here we go again: Scott Foster ejects Chris Paul from Warriors game**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcsports.com/nba/news/here-we-go-again-scott-foster-ejects-chris-paul-from-warriors-game).
 
 ## Requirements
 - Python 3.8
