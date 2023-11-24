@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700822221)
+![Generated GIF](output.gif?raw=true&v=1700823963)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Altman's Ouster Followed Dangerous AI Breakthrough Claim: Reuters**
+**NFL Thanksgiving and Black Friday odds, how to watch, stream: Expert picks, best bets, teasers, survivor pool**
 
-You can read more about it [here](https://decrypt.co/207190/openai-ai-dangerous-breakthrough-led-to-sam-altman-ceo-removal).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-thanksgiving-and-black-friday-odds-how-to-watch-stream-expert-picks-best-bets-teasers-survivor-pool/).
 
 ## Requirements
 - Python 3.8
