@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700844048)
+![Generated GIF](output.gif?raw=true&v=1700845547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**One of the only places that can claim to host the First Thanksgiving rejects the label**
+**US warship shoots down multiple ‘attack drones’ in Red Sea**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/first-thanksgiving-us-popham-colony-phippsburg-maine-rcna124952).
+You can read more about it [here](https://thehill.com/policy/international/4324690-us-warship-attack-drones-red-sea/).
 
 ## Requirements
 - Python 3.8
