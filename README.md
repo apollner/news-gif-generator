@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700859922)
+![Generated GIF](output.gif?raw=true&v=1700861630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jenna Ortega Scream VII**
+**‘Squid Game: The Challenge’ Contestants Threaten Lawsuit Over Injuries**
 
-You can read more about it [here](https://www.cnn.com/2023/11/23/entertainment/jenna-ortega-scream-7-wednesday/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/squid-game-the-challenge-lawsuit-injuries-1235676557/).
 
 ## Requirements
 - Python 3.8
