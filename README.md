@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700782420)
+![Generated GIF](output.gif?raw=true&v=1700785876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Far-right leader Geert Wilders wins Dutch election: Exit poll**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.eu/article/far-right-leader-geert-wilders-wins-dutch-election-exit-poll/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
