@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700795367)
+![Generated GIF](output.gif?raw=true&v=1700796894)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MRI study spotlights impact of long COVID on the brain**
+**Former Obama adviser Stuart Seldowitz in custody after halal cart confrontation, NYPD opens hate crime investigation**
 
-You can read more about it [here](https://www.cidrap.umn.edu/covid-19/mri-study-spotlights-impact-long-covid-brain).
+You can read more about it [here](https://abc7ny.com/halal-cart-confrontation-former-obama-adviser-harassment/14092785/).
 
 ## Requirements
 - Python 3.8
