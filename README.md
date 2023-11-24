@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700804018)
+![Generated GIF](output.gif?raw=true&v=1700806292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daryl Hall obtains restraining order against John Oates amid confidential lawsuit**
+**‘Scream 7’ Faces Full Creative Reboot After Losing Jenna Ortega; Neve Campbell and Patrick Dempsey on Wish List (EXCLUSIVE)**
 
-You can read more about it [here](https://abc7.com/hall-and-oates-daryl-john-lawsuit/14093774/).
+You can read more about it [here](https://variety.com/2023/film/news/scream-7-eyes-neve-campbell-patrick-dempsey-to-return-1235805929/).
 
 ## Requirements
 - Python 3.8
