@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700820555)
+![Generated GIF](output.gif?raw=true&v=1700822221)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA receives laser beam from 10 million miles away: 'First light'**
+**Sam Altman's Ouster Followed Dangerous AI Breakthrough Claim: Reuters**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-receives-laser-beam-ten-million-miles-first-light).
+You can read more about it [here](https://decrypt.co/207190/openai-ai-dangerous-breakthrough-led-to-sam-altman-ceo-removal).
 
 ## Requirements
 - Python 3.8
