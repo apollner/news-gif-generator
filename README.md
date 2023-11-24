@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700854417)
+![Generated GIF](output.gif?raw=true&v=1700856520)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suella Braverman hits out after record migration figures**
+**Rainbow Bridge car explosion: US-Canada bridge still shut after deadly car blast**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67511343).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67505126).
 
 ## Requirements
 - Python 3.8
