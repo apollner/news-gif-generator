@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700856520)
+![Generated GIF](output.gif?raw=true&v=1700858024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rainbow Bridge car explosion: US-Canada bridge still shut after deadly car blast**
+**Daryl Hall Plays Concert Full of Hall & Oates Classics in the Midst of Legal Battle and Restraining Order**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67505126).
+You can read more about it [here](https://variety.com/2023/music/news/daryl-hall-plays-hall-oates-songs-live-john-oates-lawsuit-1235806643/).
 
 ## Requirements
 - Python 3.8
