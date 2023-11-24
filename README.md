@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700809661)
+![Generated GIF](output.gif?raw=true&v=1700811216)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Scream 7’ Faces Full Creative Reboot After Losing Jenna Ortega; Neve Campbell and Patrick Dempsey on Wish List (EXCLUSIVE)**
+**WHO asks China for details on outbreaks of respiratory illness**
 
-You can read more about it [here](https://variety.com/2023/film/news/scream-7-eyes-neve-campbell-patrick-dempsey-to-return-1235805929/).
+You can read more about it [here](https://www.reuters.com/world/china/who-asks-china-details-respiratory-illness-outbreaks-2023-11-23/).
 
 ## Requirements
 - Python 3.8
