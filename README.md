@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700828119)
+![Generated GIF](output.gif?raw=true&v=1700830229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea suspends Seoul military agreement, restores troops at border**
+**Kentucky train derailment causes chemical spill, forces evacuations**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/23/north-korea-suspends-seoul-military-agreement-restores-troops-at-border).
+You can read more about it [here](https://www.cbsnews.com/news/kentucky-train-derailment-chemical-spill-evacuations-rockcastle-county-livingston/).
 
 ## Requirements
 - Python 3.8
