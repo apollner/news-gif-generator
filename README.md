@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700858024)
+![Generated GIF](output.gif?raw=true&v=1700859922)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daryl Hall Plays Concert Full of Hall & Oates Classics in the Midst of Legal Battle and Restraining Order**
+**Jenna Ortega Scream VII**
 
-You can read more about it [here](https://variety.com/2023/music/news/daryl-hall-plays-hall-oates-songs-live-john-oates-lawsuit-1235806643/).
+You can read more about it [here](https://www.cnn.com/2023/11/23/entertainment/jenna-ortega-scream-7-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
