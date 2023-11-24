@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700818422)
+![Generated GIF](output.gif?raw=true&v=1700820555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli army arrests al-Shifa Hospital director, other doctors in Gaza**
+**NASA receives laser beam from 10 million miles away: 'First light'**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/23/al-shifa-hospital-director-arrested-by-israeli-army-in-gaza).
+You can read more about it [here](https://www.foxnews.com/science/nasa-receives-laser-beam-ten-million-miles-first-light).
 
 ## Requirements
 - Python 3.8
