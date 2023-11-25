@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700921184)
+![Generated GIF](output.gif?raw=true&v=1700922879)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nvidia shares fall as it reportedly delays China AI chip designed to comply with U.S. export rules**
+**23 best Black Friday laptop deals in 2023: MacBooks, Chromebooks and more**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/24/nvidia-shares-fall-as-it-reportedly-delays-new-china-ai-chip.html).
+You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-deals-2023-11-24).
 
 ## Requirements
 - Python 3.8
