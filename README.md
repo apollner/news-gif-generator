@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700931890)
+![Generated GIF](output.gif?raw=true&v=1700933764)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Black Friday deals 2023: Lowest prices yet on AirPods, MacBooks, iPads, and more**
+**Switch OLED Black Friday Deal: $290 via the Woot app**
 
-You can read more about it [here](https://www.businessinsider.com/guides/deals/apple-black-friday-deals-2023-11).
+You can read more about it [here](https://www.polygon.com/23974437/nintendo-switch-oled-black-friday-deal-sale).
 
 ## Requirements
 - Python 3.8
