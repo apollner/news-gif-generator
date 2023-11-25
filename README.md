@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700899795)
+![Generated GIF](output.gif?raw=true&v=1700901270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video: Trump posts 'Thanksgiving message' at 2 AM with a list of insults**
+**Lake effect snow bands could dump 6 inches on one Northern Michigan spot**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2023/11/24/donald-trump-judge-engoron-thanksgiving-message-truth-social-vpx.cnn).
+You can read more about it [here](https://www.mlive.com/weather/2023/11/lake-effect-snow-bands-could-dump-6-inches-on-one-northern-michigan-spot.html).
 
 ## Requirements
 - Python 3.8
