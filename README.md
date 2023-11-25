@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700935743)
+![Generated GIF](output.gif?raw=true&v=1700937231)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WEATHER BLOG: Katie Horner says we'll see rain before snow Saturday, but some may not see snow at all**
+**34 pro-Palestinian protesters arrested for disrupting Macy's parade, police say**
 
-You can read more about it [here](https://www.kmbc.com/article/kansas-city-missouri-rain-into-snow-saturday-sunday/45937407).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/24/palestinian-protesters-arrested-macys-thanksgiving-parade/).
 
 ## Requirements
 - Python 3.8
