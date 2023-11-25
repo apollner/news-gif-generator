@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700933764)
+![Generated GIF](output.gif?raw=true&v=1700935743)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Switch OLED Black Friday Deal: $290 via the Woot app**
+**WEATHER BLOG: Katie Horner says we'll see rain before snow Saturday, but some may not see snow at all**
 
-You can read more about it [here](https://www.polygon.com/23974437/nintendo-switch-oled-black-friday-deal-sale).
+You can read more about it [here](https://www.kmbc.com/article/kansas-city-missouri-rain-into-snow-saturday-sunday/45937407).
 
 ## Requirements
 - Python 3.8
