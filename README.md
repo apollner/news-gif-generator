@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700888778)
+![Generated GIF](output.gif?raw=true&v=1700890413)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dak Prescott throws four TDs as Cowboys crush Commanders - ESPN**
+**NFL Thanksgiving Day: 49ers run away from Seahawks in Thanksgiving romp**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38966360/dak-prescott-throws-four-tds-cowboys-crush-commanders).
+You can read more about it [here](https://sports.yahoo.com/nfl-thanksgiving-day-packers-vs-lions-score-highlights-news-inactives-and-live-updates-commanders-vs-cowboys-seahawks-vs-49ers-161041447.html).
 
 ## Requirements
 - Python 3.8
