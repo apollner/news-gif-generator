@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700890413)
+![Generated GIF](output.gif?raw=true&v=1700892628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Thanksgiving Day: 49ers run away from Seahawks in Thanksgiving romp**
+**Washington Commanders 10-45 Dallas Cowboys: DaRon Bland breaks pick-six record as hosts rout NFC East rivals**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-thanksgiving-day-packers-vs-lions-score-highlights-news-inactives-and-live-updates-commanders-vs-cowboys-seahawks-vs-49ers-161041447.html).
+You can read more about it [here](https://www.skysports.com/nfl/news/12118/13014111/washington-commanders-10-45-dallas-cowboys-daron-bland-breaks-pick-six-record-as-hosts-rout-nfc-east-rivals).
 
 ## Requirements
 - Python 3.8
