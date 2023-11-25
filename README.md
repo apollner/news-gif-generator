@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700916398)
+![Generated GIF](output.gif?raw=true&v=1700917715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Pakistan Shall Continue...': Pak Army Provokes India After Deadly Gunfight In J&K's Rajouri**
+**Go Inside the 49ers Locker Room Following Week 12 Win vs. Seahawks**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4yLWGH0pRaQ).
+You can read more about it [here](https://www.youtube.com/watch?v=hW1M2IO7Iu8).
 
 ## Requirements
 - Python 3.8
