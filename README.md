@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700878696)
+![Generated GIF](output.gif?raw=true&v=1700879764)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Violent clashes break out in Dublin after knife attack that injured 3 children, one seriously**
+**WHO asks for information about spike in respiratory illnesses in China**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/3-children-woman-injured-ireland-suspected-stabbing-person-105126966).
+You can read more about it [here](https://thehill.com/policy/healthcare/4325039-who-asks-for-information-about-spike-in-respiratory-illnesses-in-china/).
 
 ## Requirements
 - Python 3.8
