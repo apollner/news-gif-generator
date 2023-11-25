@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700942818)
+![Generated GIF](output.gif?raw=true&v=1700944427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Post-Thanksgiving storm moving through US could disrupt plans to travel home**
+**NFL Black Friday football: How to watch the Miami Dolphins vs. New York Jets game**
 
-You can read more about it [here](https://abcnews.go.com/US/post-thanksgiving-storm-moving-us-disrupt-plans-travel/story?id=105135338).
+You can read more about it [here](https://sports.yahoo.com/miami-dolphins-vs-new-york-jets-how-to-watch-the-nfl-black-friday-football-game-today-183120988.html).
 
 ## Requirements
 - Python 3.8
