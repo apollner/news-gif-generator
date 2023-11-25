@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700939080)
+![Generated GIF](output.gif?raw=true&v=1700941050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"Wish," "Napoleon" Compete At Box-Office**
+**NFL Black Friday football: How to watch the Miami Dolphins vs. New York Jets game**
 
-You can read more about it [here](https://www.darkhorizons.com/wish-napoleon-compete-at-box-office/).
+You can read more about it [here](https://sports.yahoo.com/miami-dolphins-vs-new-york-jets-how-to-watch-the-nfl-black-friday-football-game-today-183120988.html).
 
 ## Requirements
 - Python 3.8
