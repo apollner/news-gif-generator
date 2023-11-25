@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700881753)
+![Generated GIF](output.gif?raw=true&v=1700883227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dbrand is suing Casetify for allegedly stealing its case and skin designs**
+**Violent clashes break out in Dublin after knife attack that injured 3 children, one seriously**
 
-You can read more about it [here](https://www.engadget.com/dbrand-is-suing-casetify-for-allegedly-stealing-its-case-and-skin-designs-221012321.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/3-children-woman-injured-ireland-suspected-stabbing-person-105126966).
 
 ## Requirements
 - Python 3.8
