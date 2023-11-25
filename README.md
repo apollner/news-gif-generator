@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700926423)
+![Generated GIF](output.gif?raw=true&v=1700928518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio State-Michigan and the 20 most anticipated games in college football history - ESPN**
+**North Korea: Kim Jong Un celebrates 'space power' after spy satellite launch**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38952683/ohio-state-michigan-20-most-anticipated-games-college-football-history).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67517260).
 
 ## Requirements
 - Python 3.8
