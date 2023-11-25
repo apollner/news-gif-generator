@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700872299)
+![Generated GIF](output.gif?raw=true&v=1700876101)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Donald Trump Shares 'Happy Thanksgiving' Message With Unhinged Twist**
+**Macy's Thanksgiving Day Parade blocked by pro-Palestinian protesters**
 
-You can read more about it [here](https://www.huffpost.com/entry/donald-trump-thanksgiving-2023_n_655f0d53e4b0c0333beea45a).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/23/macys-thanksgiving-day-parade-pro-palestinian-protesters/71687502007/).
 
 ## Requirements
 - Python 3.8
