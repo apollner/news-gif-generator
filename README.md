@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700892628)
+![Generated GIF](output.gif?raw=true&v=1700894057)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Washington Commanders 10-45 Dallas Cowboys: DaRon Bland breaks pick-six record as hosts rout NFC East rivals**
+**500 German police raid properties of Hamas supporters throughout the country**
 
-You can read more about it [here](https://www.skysports.com/nfl/news/12118/13014111/washington-commanders-10-45-dallas-cowboys-daron-bland-breaks-pick-six-record-as-hosts-rout-nfc-east-rivals).
+You can read more about it [here](https://nypost.com/2023/11/23/news/german-police-raid-properties-of-hamas-supporters-in-berlin-and-across-the-country/).
 
 ## Requirements
 - Python 3.8
