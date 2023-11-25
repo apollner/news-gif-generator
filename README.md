@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700951617)
+![Generated GIF](output.gif?raw=true&v=1700953585)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thai hostages: Relief for woman who feared boyfriend died in Hamas attack**
+**Tiffany Haddish Arrested Over DUI Concerns in Beverly Hills**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67523397).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/tiffany-haddish-arrested-dui-thanksgiving-1234896400/).
 
 ## Requirements
 - Python 3.8
