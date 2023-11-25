@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700944427)
+![Generated GIF](output.gif?raw=true&v=1700946336)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Black Friday football: How to watch the Miami Dolphins vs. New York Jets game**
+**Accused security chief for sons of "El Chapo" arrested in Mexico: "A complete psychopath"**
 
-You can read more about it [here](https://sports.yahoo.com/miami-dolphins-vs-new-york-jets-how-to-watch-the-nfl-black-friday-football-game-today-183120988.html).
+You can read more about it [here](https://www.cbsnews.com/news/el-nini-arrested-alleged-security-chieff-el-chapo-sons-mexico-psychopath/).
 
 ## Requirements
 - Python 3.8
