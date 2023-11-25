@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700917715)
+![Generated GIF](output.gif?raw=true&v=1700919215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Go Inside the 49ers Locker Room Following Week 12 Win vs. Seahawks**
+**Ceasefire takes hold in Gaza ahead of hostage release, aid enters enclave**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hW1M2IO7Iu8).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-hamas-start-first-truce-gaza-war-2023-11-24/).
 
 ## Requirements
 - Python 3.8
