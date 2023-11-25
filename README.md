@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700868819)
+![Generated GIF](output.gif?raw=true&v=1700872299)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce says he’ll spend Thanksgiving eating KFC without Taylor Swift**
+**Donald Trump Shares 'Happy Thanksgiving' Message With Unhinged Twist**
 
-You can read more about it [here](https://www.cnn.com/2023/11/23/entertainment/travis-kelce-thanksgiving-taylor-swift/index.html).
+You can read more about it [here](https://www.huffpost.com/entry/donald-trump-thanksgiving-2023_n_655f0d53e4b0c0333beea45a).
 
 ## Requirements
 - Python 3.8
