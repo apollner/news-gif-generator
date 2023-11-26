@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700969611)
+![Generated GIF](output.gif?raw=true&v=1700971840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**49ers minutia minute: Nick Bosa, Ambry Thomas, Charlie Woerner stand out in Seattle**
+**Post-Thanksgiving storm threatens travel plans**
 
-You can read more about it [here](https://theathletic.com/5087812/2023/11/24/49ers-snap-counts-seahawks-bosa-thomas-woerner/).
+You can read more about it [here](https://thehill.com/policy/transportation/4326431-post-thanksgiving-storm-threaten-travel-plans/).
 
 ## Requirements
 - Python 3.8
