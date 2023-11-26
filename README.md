@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701007655)
+![Generated GIF](output.gif?raw=true&v=1701009275)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel to summon Spanish, Belgian envoys after appearance at Rafah crossing**
+**Michigan-Ohio State channel today, time, TV schedule, streaming info**
 
-You can read more about it [here](https://www.timesofisrael.com/israel-to-summon-spanish-belgian-envoys-after-bizarre-appearance-at-rafah-crossing/).
+You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/2023/11/25/michigan-ohio-state-channel-today-time-tv-schedule-streaming-info-college-football-week-13/71670320007/).
 
 ## Requirements
 - Python 3.8
