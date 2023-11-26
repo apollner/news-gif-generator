@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701039968)
+![Generated GIF](output.gif?raw=true&v=1701041647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Artemis II Astronauts Check Out Some Flight Hardware on This Week @NASA – November 24, 2023**
+**Dutch politician Wilders vows 'I will be prime minister' on X**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2Nk4eazmN8c).
+You can read more about it [here](https://www.reuters.com/world/europe/dutch-politician-wilders-vows-i-will-be-prime-minister-x-2023-11-25/).
 
 ## Requirements
 - Python 3.8
