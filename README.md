@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701016575)
+![Generated GIF](output.gif?raw=true&v=1701018329)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Binance CEO Zhao urges judge to allow him to leave the U.S. before sentencing**
+**Telescope in Utah detects mysterious cosmic ray beyond our galaxy**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/25/ex-binance-ceo-zhao-urges-judge-to-allow-him-to-leave-us-before-sentencing.html).
+You can read more about it [here](https://www.businessinsider.com/mysterious-cosmic-ray-could-come-from-another-galaxy-beyond-milky-way-2023-11).
 
 ## Requirements
 - Python 3.8
