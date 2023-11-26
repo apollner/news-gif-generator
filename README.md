@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700993183)
+![Generated GIF](output.gif?raw=true&v=1700994995)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Physician describes recovery ahead for released hostages**
+**FDA expands cantaloupe recall after salmonella infections double in a week**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/israeli-physician-describes-mental-and-physical-recovery-ahead-for-released-hostages).
+You can read more about it [here](https://www.nbcnews.com/health/fda-expands-cantaloupe-recall-salmonella-infections-double-week-rcna126619).
 
 ## Requirements
 - Python 3.8
