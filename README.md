@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701036343)
+![Generated GIF](output.gif?raw=true&v=1701038022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan vs. Ohio State live score: The Game updates, college football scores, NCAA top 25 highlights today**
+**Artemis II Astronauts Check Out Some Flight Hardware on This Week @NASA – November 24, 2023**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-ohio-state-score-takeaways-wolverines-win-third-straight-in-thriller-to-keep-playoff-bid-alive/live/).
+You can read more about it [here](https://www.youtube.com/watch?v=2Nk4eazmN8c).
 
 ## Requirements
 - Python 3.8
