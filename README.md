@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701005622)
+![Generated GIF](output.gif?raw=true&v=1701007655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Paris Hilton baby girl: Hilton, husband Carter Reum announce arrival of baby daughter, London, chant 'big brother' to son Phoenix**
+**Israel to summon Spanish, Belgian envoys after appearance at Rafah crossing**
 
-You can read more about it [here](https://abc7.com/paris-hilton-second-baby-girl-daughter-london-surrogacy/14100923/).
+You can read more about it [here](https://www.timesofisrael.com/israel-to-summon-spanish-belgian-envoys-after-bizarre-appearance-at-rafah-crossing/).
 
 ## Requirements
 - Python 3.8
