@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701022158)
+![Generated GIF](output.gif?raw=true&v=1701023655)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Binance CEO Zhao urges judge to allow him to leave the U.S. before sentencing**
+**Israel-Hamas war: Gaza cease-fire enters second day**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/25/ex-binance-ceo-zhao-urges-judge-to-allow-him-to-leave-us-before-sentencing.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-25-2023-7d83895eb736c09fab3eada4c31524b0).
 
 ## Requirements
 - Python 3.8
