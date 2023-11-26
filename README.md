@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701009275)
+![Generated GIF](output.gif?raw=true&v=1701011193)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan-Ohio State channel today, time, TV schedule, streaming info**
+**Biden primary foe Dean Phillips won't seek re-election to Congress in 2024**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/2023/11/25/michigan-ohio-state-channel-today-time-tv-schedule-streaming-info-college-football-week-13/71670320007/).
+You can read more about it [here](https://www.axios.com/2023/11/24/biden-primary-foe-dean-phillips-retiring-from-congress).
 
 ## Requirements
 - Python 3.8
