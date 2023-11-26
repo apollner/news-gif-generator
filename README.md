@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701012970)
+![Generated GIF](output.gif?raw=true&v=1701014928)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jevon Holland scores astonishing 99-yard interception touchdown as Miami Dolphins defeat New York Jets**
+**All of the best Black Friday tech deals worth buying — save up to 70% on Apple, Playstation and more**
 
-You can read more about it [here](https://www.cnn.com/2023/11/25/sport/miami-dolphins-new-york-jets-nfl-spt-intl/index.html).
+You can read more about it [here](https://www.yahoo.com/lifestyle/all-of-the-best-black-friday-tech-deals-worth-buying-save-up-to-70-apple-playstation-and-more-124618303.html).
 
 ## Requirements
 - Python 3.8
