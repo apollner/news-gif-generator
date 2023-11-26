@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700978983)
+![Generated GIF](output.gif?raw=true&v=1700980444)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No. 6 Oregon Ducks vs. No. 16 Oregon State Beavers score updates, live stream, odds, time, TV channel, how to**
+**Macy’s Thanksgiving Day Parade Delivers Record Audience for NBC**
 
-You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/11/no-6-oregon-ducks-vs-no-16-oregon-state-beavers-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online.html).
+You can read more about it [here](https://variety.com/2023/tv/news/macys-thanksgiving-day-parade-record-audience-nbc-1235808269/).
 
 ## Requirements
 - Python 3.8
