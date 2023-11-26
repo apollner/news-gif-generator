@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700958858)
+![Generated GIF](output.gif?raw=true&v=1700963586)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘First light’: NASA receives laser-beamed message from 10 million miles away**
+**Cosmic ray more powerful than Oh My God found by scientists in Utah**
 
-You can read more about it [here](https://www.cnn.com/2023/11/24/world/nasa-psyche-dsoc-first-light-scn/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/24/cosmic-ray-baffles-scientists-utah-telescope/71694848007/).
 
 ## Requirements
 - Python 3.8
