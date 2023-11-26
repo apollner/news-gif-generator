@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701027225)
+![Generated GIF](output.gif?raw=true&v=1701029239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Derek Chauvin, former officer convicted in George Floyd’s killing, stabbed in prison, authorities say**
+**Box Office: ‘Hunger Games’ Prequel and ‘Napoleon’ Rule Thanksgiving as ‘Wish’ Sings Out of Tune**
 
-You can read more about it [here](https://www.cnn.com/2023/11/24/us/derek-chauvin-stabbed-prison-george-floyd/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-napoleon-box-office-wish-1235678839/).
 
 ## Requirements
 - Python 3.8
