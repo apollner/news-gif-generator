@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700976817)
+![Generated GIF](output.gif?raw=true&v=1700978983)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Releases More Detailed Contract Terms**
+**No. 6 Oregon Ducks vs. No. 16 Oregon State Beavers score updates, live stream, odds, time, TV channel, how to**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sag-aftra-releases-more-detailed-contract-terms-actors-strike-1235677232/).
+You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/11/no-6-oregon-ducks-vs-no-16-oregon-state-beavers-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online.html).
 
 ## Requirements
 - Python 3.8
