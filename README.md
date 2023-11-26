@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700963586)
+![Generated GIF](output.gif?raw=true&v=1700965422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cosmic ray more powerful than Oh My God found by scientists in Utah**
+**Trudeau blames 'MAGA influence' for stirring debate on Ukraine**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/24/cosmic-ray-baffles-scientists-utah-telescope/71694848007/).
+You can read more about it [here](https://www.politico.com/news/2023/11/24/trudeau-canada-ukraine-00128585).
 
 ## Requirements
 - Python 3.8
