@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700989565)
+![Generated GIF](output.gif?raw=true&v=1700991274)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. Dean Phillips says he won't seek re-election**
+**Accuser who previously claimed former New York Gov. Andrew Cuomo groped filing lawsuit**
 
-You can read more about it [here](https://www.youtube.com/watch?v=EYvic2tuzSE).
+You can read more about it [here](https://www.cnn.com/2023/11/24/us/andrew-cuomo-accuser-lawsuit-sexual-misconduct/index.html).
 
 ## Requirements
 - Python 3.8
