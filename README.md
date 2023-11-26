@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701034425)
+![Generated GIF](output.gif?raw=true&v=1701036343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio Egg Farm Slaughters 1.35 Million Chickens Over Bird Flu**
+**Michigan vs. Ohio State live score: The Game updates, college football scores, NCAA top 25 highlights today**
 
-You can read more about it [here](https://www.huffpost.com/entry/bc-us-bird-flu_n_656214eee4b05f498ba08196).
+You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-ohio-state-score-takeaways-wolverines-win-third-straight-in-thriller-to-keep-playoff-bid-alive/live/).
 
 ## Requirements
 - Python 3.8
