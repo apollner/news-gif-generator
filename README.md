@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701030817)
+![Generated GIF](output.gif?raw=true&v=1701032841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Artemis II Astronauts Check Out Some Flight Hardware on This Week @NASA – November 24, 2023**
+**Explainer: Why China is facing major outbreak of ‘Walking pneumonia’ epidemic**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2Nk4eazmN8c).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/china/explainer-why-china-is-facing-major-outbreak-of-walking-pneumonia-epidemic/articleshow/105500503.cms).
 
 ## Requirements
 - Python 3.8
