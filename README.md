@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700991274)
+![Generated GIF](output.gif?raw=true&v=1700993183)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Accuser who previously claimed former New York Gov. Andrew Cuomo groped filing lawsuit**
+**Physician describes recovery ahead for released hostages**
 
-You can read more about it [here](https://www.cnn.com/2023/11/24/us/andrew-cuomo-accuser-lawsuit-sexual-misconduct/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/show/israeli-physician-describes-mental-and-physical-recovery-ahead-for-released-hostages).
 
 ## Requirements
 - Python 3.8
