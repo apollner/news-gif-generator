@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700987686)
+![Generated GIF](output.gif?raw=true&v=1700989565)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shoppers flock to the Mall of New Hampshire for Black Friday deals**
+**Rep. Dean Phillips says he won't seek re-election**
 
-You can read more about it [here](https://www.wmur.com/article/shoppers-mall-of-new-hampshire-black-friday-shopping/45936743).
+You can read more about it [here](https://www.youtube.com/watch?v=EYvic2tuzSE).
 
 ## Requirements
 - Python 3.8
