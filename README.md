@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701032841)
+![Generated GIF](output.gif?raw=true&v=1701034425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Explainer: Why China is facing major outbreak of ‘Walking pneumonia’ epidemic**
+**Ohio Egg Farm Slaughters 1.35 Million Chickens Over Bird Flu**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/china/explainer-why-china-is-facing-major-outbreak-of-walking-pneumonia-epidemic/articleshow/105500503.cms).
+You can read more about it [here](https://www.huffpost.com/entry/bc-us-bird-flu_n_656214eee4b05f498ba08196).
 
 ## Requirements
 - Python 3.8
