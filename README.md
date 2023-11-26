@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701011193)
+![Generated GIF](output.gif?raw=true&v=1701012970)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden primary foe Dean Phillips won't seek re-election to Congress in 2024**
+**Jevon Holland scores astonishing 99-yard interception touchdown as Miami Dolphins defeat New York Jets**
 
-You can read more about it [here](https://www.axios.com/2023/11/24/biden-primary-foe-dean-phillips-retiring-from-congress).
+You can read more about it [here](https://www.cnn.com/2023/11/25/sport/miami-dolphins-new-york-jets-nfl-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
