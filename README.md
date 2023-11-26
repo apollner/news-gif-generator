@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700965422)
+![Generated GIF](output.gif?raw=true&v=1700966479)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trudeau blames 'MAGA influence' for stirring debate on Ukraine**
+**‘First light’: NASA receives laser-beamed message from 10 million miles away**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/24/trudeau-canada-ukraine-00128585).
+You can read more about it [here](https://www.cnn.com/2023/11/24/world/nasa-psyche-dsoc-first-light-scn/index.html).
 
 ## Requirements
 - Python 3.8
