@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700984022)
+![Generated GIF](output.gif?raw=true&v=1700986436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oregon vs. Oregon State score: Ducks dominate Beavers, set up Washington rematch in Pac-12 Championship Game**
+**Paris Hilton baby girl: Hilton, husband Carter Reum announce arrival of baby daughter, London, chant 'big brother' to son Phoenix**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/oregon-vs-oregon-state-score-ducks-trounce-beavers-set-up-washington-rematch-in-pac-12-championship-game/live/).
+You can read more about it [here](https://abc7.com/paris-hilton-second-baby-girl-daughter-london-surrogacy/14100923/).
 
 ## Requirements
 - Python 3.8
