@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700994995)
+![Generated GIF](output.gif?raw=true&v=1700996690)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA expands cantaloupe recall after salmonella infections double in a week**
+**College football picks, schedule: Predictions against the spread, odds for top 25 games on Rivalry Week**
 
-You can read more about it [here](https://www.nbcnews.com/health/fda-expands-cantaloupe-recall-salmonella-infections-double-week-rcna126619).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-on-rivalry-week/).
 
 ## Requirements
 - Python 3.8
