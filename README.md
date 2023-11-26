@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1700980444)
+![Generated GIF](output.gif?raw=true&v=1700982348)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Macy’s Thanksgiving Day Parade Delivers Record Audience for NBC**
+**1.3 million chickens to be culled after bird flu detected at Ohio farm**
 
-You can read more about it [here](https://variety.com/2023/tv/news/macys-thanksgiving-day-parade-record-audience-nbc-1235808269/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/11/24/bird-flu-ohio-million-chickens-killed/71695340007/).
 
 ## Requirements
 - Python 3.8
