@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701023655)
+![Generated GIF](output.gif?raw=true&v=1701025491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war: Gaza cease-fire enters second day**
+**How to watch today's Ohio State Buckeyes vs. Michigan Wolverines game: Livestream options, kickoff time, more**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-25-2023-7d83895eb736c09fab3eada4c31524b0).
+You can read more about it [here](https://www.cbsnews.com/essentials/how-to-watch-ohio-state-buckeyes-vs-michigan-wolverines-game-2023-11-25/).
 
 ## Requirements
 - Python 3.8
