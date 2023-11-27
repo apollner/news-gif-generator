@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701101417)
+![Generated GIF](output.gif?raw=true&v=1701103217)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-policeman Derek Chauvin stable after prison stabbing**
+**Sierra Leone under curfew after inmates freed from Freetown's Pademba Road Prison**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67529163).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67536147).
 
 ## Requirements
 - Python 3.8
