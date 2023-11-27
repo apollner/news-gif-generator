@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701074214)
+![Generated GIF](output.gif?raw=true&v=1701076220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Derek Chauvin expected to survive prison stabbing: officials**
+**John Travolta Says His Near-Death Experience While Flying Plane With Family On Board Inspired 'The Shepherd'**
 
-You can read more about it [here](https://thehill.com/homenews/race-politics/4327307-derek-chauvin-expected-to-survive-stabbing/).
+You can read more about it [here](https://www.etonline.com/john-travolta-says-his-near-death-experience-while-flying-plane-with-family-on-board-inspired-the).
 
 ## Requirements
 - Python 3.8
