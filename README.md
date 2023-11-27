@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701045155)
+![Generated GIF](output.gif?raw=true&v=1701049242)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**X could lose $75m in ad revenue post Musk antisemitic tweet: report**
+**Sam Altman returns to OpenAI, Apple adopts RCS, and Binance’s CEO pleads guilty to charges**
 
-You can read more about it [here](https://thehill.com/business/4326823-x-could-lose-75m-after-antisemitic-tweet-musk/).
+You can read more about it [here](https://techcrunch.com/2023/11/25/sam-altman-returns-to-openai-apple-adopts-rcs-and-binances-ceo-pleads-guilty-to-charges/).
 
 ## Requirements
 - Python 3.8
