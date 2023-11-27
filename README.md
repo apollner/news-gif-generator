@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701083214)
+![Generated GIF](output.gif?raw=true&v=1701084837)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beyoncé’s ‘Renaissance’ Premiere: Superstar Debuts Concert Film in Los Angeles With Support of Family, Destiny’s Child**
+**Dutch politician Wilders vows 'I will be prime minister' on X**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/beyonce-renaissance-concert-film-premiere-los-angeles-1235678888/).
+You can read more about it [here](https://www.reuters.com/world/europe/dutch-politician-wilders-vows-i-will-be-prime-minister-x-2023-11-25/).
 
 ## Requirements
 - Python 3.8
