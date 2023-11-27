@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701072702)
+![Generated GIF](output.gif?raw=true&v=1701074214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With 'Gravedigger,' Isaiah Bond and Alabama deliver fourth-and-31 miracle that will live on forever in Iron Bowl lore**
+**Derek Chauvin expected to survive prison stabbing: officials**
 
-You can read more about it [here](https://sports.yahoo.com/with-gravedigger-isaiah-bond-and-alabama-deliver-fourth-and-31-miracle-that-will-live-on-forever-in-iron-bowl-lore-024621100.html).
+You can read more about it [here](https://thehill.com/homenews/race-politics/4327307-derek-chauvin-expected-to-survive-stabbing/).
 
 ## Requirements
 - Python 3.8
