@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701070459)
+![Generated GIF](output.gif?raw=true&v=1701072702)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump attends college football game in key early-voting state of South Carolina**
+**With 'Gravedigger,' Isaiah Bond and Alabama deliver fourth-and-31 miracle that will live on forever in Iron Bowl lore**
 
-You can read more about it [here](https://www.cnn.com/2023/11/25/politics/trump-palmetto-bowl-football-south-carolina/index.html).
+You can read more about it [here](https://sports.yahoo.com/with-gravedigger-isaiah-bond-and-alabama-deliver-fourth-and-31-miracle-that-will-live-on-forever-in-iron-bowl-lore-024621100.html).
 
 ## Requirements
 - Python 3.8
