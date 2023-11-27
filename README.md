@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701108676)
+![Generated GIF](output.gif?raw=true&v=1701110116)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Photos: Destiny's Child reunited at Beyoncé's 'Renaissance' film premiere**
+**College football rankings: Ohio State tops Michigan in ESPN top 25 poll**
 
-You can read more about it [here](https://www.insider.com/destinys-child-reunion-beyonces-renaissance-film-premiere-2023-11).
+You can read more about it [here](https://www.si.com/fannation/college/cfb-hq/ncaa-football-rankings/college-football-rankings-espn-top-25-ohio-state-michigan-teams-poll).
 
 ## Requirements
 - Python 3.8
