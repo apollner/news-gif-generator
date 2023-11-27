@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701113677)
+![Generated GIF](output.gif?raw=true&v=1701115687)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Snap counts, PFF grades: What stood out from Michigan's win vs. Ohio State**
+**23 best Cyber Monday laptop deals for 2023: MacBooks, Chromebooks and more**
 
-You can read more about it [here](https://www.mlive.com/wolverines/2023/11/snap-counts-pff-grades-what-stood-out-from-michigans-win-vs-ohio-state.html).
+You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/cyber-monday-laptop-deals-2023-11-26).
 
 ## Requirements
 - Python 3.8
