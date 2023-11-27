@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701122700)
+![Generated GIF](output.gif?raw=true&v=1701124417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**125+ Early Cyber Monday Tech Deals For Less Than $100: Apple, Sony, Samsung, and More**
+**Michigan's U.P. could see up to a foot of lake-effect snow; storm warnings issued in Lower Peninsula**
 
-You can read more about it [here](https://www.pcmag.com/news/best-early-cyber-monday-tech-electronics-deals-under-100-dollars).
+You can read more about it [here](https://www.detroitnews.com/story/weather/2023/11/25/first-snow-accumulation-of-season-expected-sunday-in-metro-detroit/71703402007/).
 
 ## Requirements
 - Python 3.8
