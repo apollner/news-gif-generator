@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701126430)
+![Generated GIF](output.gif?raw=true&v=1701128017)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Roomba's newest robot vacuums are up to $400 off for Cyber Monday**
+**China says surge in respiratory illnesses caused by flu and other known pathogens**
 
-You can read more about it [here](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal).
+You can read more about it [here](https://www.politico.com/news/2023/11/26/china-respiratory-illnesses-cause-flu-pathogens-00128637).
 
 ## Requirements
 - Python 3.8
