@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701104803)
+![Generated GIF](output.gif?raw=true&v=1701106420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan winter storm: 6-8 inches of snow expected for parts of state**
+**Sierra Leone repels attack by 'renegade soldiers' on Freetown barracks**
 
-You can read more about it [here](https://www.clickondetroit.com/weather/2023/11/26/michigan-winter-storm-6-8-inches-of-snow-expected-for-parts-of-state/).
+You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
 
 ## Requirements
 - Python 3.8
