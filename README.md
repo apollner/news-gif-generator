@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701052921)
+![Generated GIF](output.gif?raw=true&v=1701054658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alabama Scores on Fourth-And-Forever to Beat Auburn and Save Playoff Hopes**
+**Marty Krofft, the Brains Behind a Kids TV Empire, Dies at 86**
 
-You can read more about it [here](https://www.si.com/college/2023/11/26/alabama-scores-fourth-and-forever-beat-auburn-save-college-football-playoff-hopes-iron-bowl).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/marty-krofft-dead-banana-splits-1235678938/).
 
 ## Requirements
 - Python 3.8
