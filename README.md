@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701077647)
+![Generated GIF](output.gif?raw=true&v=1701079813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump draws cheers in Haley's backyard at Clemson-South Carolina football game**
+**Israeli forces carry out deadly raids in the West Bank amid Gaza truce**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/25/trump-draws-cheers-in-haleys-backyard-at-clemson-south-carolina-football-game-00128599).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/26/israeli-forces-carry-out-deadly-raids-in-the-west-bank-amid-gaza-truce).
 
 ## Requirements
 - Python 3.8
