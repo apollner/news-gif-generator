@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701051777)
+![Generated GIF](output.gif?raw=true&v=1701052921)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Travolta Recalls Near-Death Experience Flying a Plane**
+**Alabama Scores on Fourth-And-Forever to Beat Auburn and Save Playoff Hopes**
 
-You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
+You can read more about it [here](https://www.si.com/college/2023/11/26/alabama-scores-fourth-and-forever-beat-auburn-save-college-football-playoff-hopes-iron-bowl).
 
 ## Requirements
 - Python 3.8
