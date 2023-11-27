@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701081508)
+![Generated GIF](output.gif?raw=true&v=1701083214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**November’s full beaver moon will shine bright this weekend**
+**Beyoncé’s ‘Renaissance’ Premiere: Superstar Debuts Concert Film in Los Angeles With Support of Family, Destiny’s Child**
 
-You can read more about it [here](https://www.cnn.com/2023/11/26/world/november-full-beaver-moon-scn/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/beyonce-renaissance-concert-film-premiere-los-angeles-1235678888/).
 
 ## Requirements
 - Python 3.8
