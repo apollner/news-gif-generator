@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701119168)
+![Generated GIF](output.gif?raw=true&v=1701120870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Attackers seize an Israel-linked tanker off Yemen in a third such assault during Israel-Hamas war**
+**Box Office: Disney’s ‘Wish’ Fizzles, ‘Napoleon’ Beats Expectations as ‘Hunger Games’ Lands on Top Again**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/israeli-linked-oil-tanker-seized-off-coast-aden-105160009).
+You can read more about it [here](https://variety.com/2023/film/news/box-office-disney-wish-disappoints-napoleon-beats-expectations-1235808957/).
 
 ## Requirements
 - Python 3.8
