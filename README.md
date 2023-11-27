@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701084837)
+![Generated GIF](output.gif?raw=true&v=1701087223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dutch politician Wilders vows 'I will be prime minister' on X**
+**Israel’s bombing campaign in northern Gaza has destroyed entire districts and neighbourhoods**
 
-You can read more about it [here](https://www.reuters.com/world/europe/dutch-politician-wilders-vows-i-will-be-prime-minister-x-2023-11-25/).
+You can read more about it [here](https://www.youtube.com/watch?v=IoOTPxLE5QA).
 
 ## Requirements
 - Python 3.8
