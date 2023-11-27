@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701106420)
+![Generated GIF](output.gif?raw=true&v=1701108676)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sierra Leone repels attack by 'renegade soldiers' on Freetown barracks**
+**Photos: Destiny's Child reunited at Beyoncé's 'Renaissance' film premiere**
 
-You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
+You can read more about it [here](https://www.insider.com/destinys-child-reunion-beyonces-renaissance-film-premiere-2023-11).
 
 ## Requirements
 - Python 3.8
