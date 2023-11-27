@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701066992)
+![Generated GIF](output.gif?raw=true&v=1701068909)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Last-resort' antibiotic saves family's dog from fatal mystery disease**
+**China Fumes At U.S.; Shoos Away Naval Destroyer USS Hopper | 'Biggest Destroyer Of Peace'**
 
-You can read more about it [here](https://nypost.com/2023/11/25/news/last-resort-antibiotic-saves-family-dog-from-mystery-disease/).
+You can read more about it [here](https://www.youtube.com/watch?v=cmnWXZm4awM).
 
 ## Requirements
 - Python 3.8
