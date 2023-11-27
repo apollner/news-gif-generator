@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701089469)
+![Generated GIF](output.gif?raw=true&v=1701090836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**44 early Cyber Monday headphone deals: AirPods Pro at record-low**
+**Walmart early Cyber Monday TV deals: Super cheap 4K TVs**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-headphone-and-speaker-deals-2023).
+You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-walmart-tv-deals-2023).
 
 ## Requirements
 - Python 3.8
