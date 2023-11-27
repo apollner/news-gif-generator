@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701124417)
+![Generated GIF](output.gif?raw=true&v=1701126430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan's U.P. could see up to a foot of lake-effect snow; storm warnings issued in Lower Peninsula**
+**Roomba's newest robot vacuums are up to $400 off for Cyber Monday**
 
-You can read more about it [here](https://www.detroitnews.com/story/weather/2023/11/25/first-snow-accumulation-of-season-expected-sunday-in-metro-detroit/71703402007/).
+You can read more about it [here](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal).
 
 ## Requirements
 - Python 3.8
