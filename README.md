@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701117216)
+![Generated GIF](output.gif?raw=true&v=1701119168)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**23 best Cyber Monday laptop deals for 2023: MacBooks, Chromebooks and more**
+**Attackers seize an Israel-linked tanker off Yemen in a third such assault during Israel-Hamas war**
 
-You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/cyber-monday-laptop-deals-2023-11-26).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/israeli-linked-oil-tanker-seized-off-coast-aden-105160009).
 
 ## Requirements
 - Python 3.8
