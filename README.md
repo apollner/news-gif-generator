@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701058212)
+![Generated GIF](output.gif?raw=true&v=1701059759)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iowa weather: Snow continues to fall in some parts of the state**
+**Sean "Diddy" Combs Faces Second and Third Sexual Assault Lawsuits**
 
-You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
+You can read more about it [here](https://www.eonline.com/news/1390388/sean-diddy-combs-faces-second-and-third-sexual-assault-lawsuits).
 
 ## Requirements
 - Python 3.8
