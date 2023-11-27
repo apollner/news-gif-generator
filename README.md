@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701090836)
+![Generated GIF](output.gif?raw=true&v=1701092024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Walmart early Cyber Monday TV deals: Super cheap 4K TVs**
+**College football grades: Kirk Ferentz, Dave Clawson are out of touch**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-walmart-tv-deals-2023).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/26/college-football-grades-week-13-kirk-ferentz-dave-clawson/71694038007/).
 
 ## Requirements
 - Python 3.8
