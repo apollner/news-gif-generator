@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701120870)
+![Generated GIF](output.gif?raw=true&v=1701122700)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: Disney’s ‘Wish’ Fizzles, ‘Napoleon’ Beats Expectations as ‘Hunger Games’ Lands on Top Again**
+**125+ Early Cyber Monday Tech Deals For Less Than $100: Apple, Sony, Samsung, and More**
 
-You can read more about it [here](https://variety.com/2023/film/news/box-office-disney-wish-disappoints-napoleon-beats-expectations-1235808957/).
+You can read more about it [here](https://www.pcmag.com/news/best-early-cyber-monday-tech-electronics-deals-under-100-dollars).
 
 ## Requirements
 - Python 3.8
