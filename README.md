@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701061725)
+![Generated GIF](output.gif?raw=true&v=1701063290)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
+**100+ Amazon Black Friday deals you can still shop ahead of Cyber Monday**
 
-You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
+You can read more about it [here](https://reviewed.usatoday.com/black-friday/features/best-live-amazon-black-friday-deals-11-24-2023).
 
 ## Requirements
 - Python 3.8
