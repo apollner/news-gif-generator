@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701079813)
+![Generated GIF](output.gif?raw=true&v=1701081508)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli forces carry out deadly raids in the West Bank amid Gaza truce**
+**November’s full beaver moon will shine bright this weekend**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/26/israeli-forces-carry-out-deadly-raids-in-the-west-bank-amid-gaza-truce).
+You can read more about it [here](https://www.cnn.com/2023/11/26/world/november-full-beaver-moon-scn/index.html).
 
 ## Requirements
 - Python 3.8
