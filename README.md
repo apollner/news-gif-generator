@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701049242)
+![Generated GIF](output.gif?raw=true&v=1701051777)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sam Altman returns to OpenAI, Apple adopts RCS, and Binance’s CEO pleads guilty to charges**
+**John Travolta Recalls Near-Death Experience Flying a Plane**
 
-You can read more about it [here](https://techcrunch.com/2023/11/25/sam-altman-returns-to-openai-apple-adopts-rcs-and-binances-ceo-pleads-guilty-to-charges/).
+You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
 
 ## Requirements
 - Python 3.8
