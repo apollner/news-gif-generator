@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701094053)
+![Generated GIF](output.gif?raw=true&v=1701095804)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sierra Leone declares nationwide curfew after attack on barracks**
+**Uttarakhand tunnel collapse: Families face agonising wait after rescue delay**
 
-You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67535957).
 
 ## Requirements
 - Python 3.8
