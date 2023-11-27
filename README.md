@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701092024)
+![Generated GIF](output.gif?raw=true&v=1701094053)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football grades: Kirk Ferentz, Dave Clawson are out of touch**
+**Sierra Leone declares nationwide curfew after attack on barracks**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/26/college-football-grades-week-13-kirk-ferentz-dave-clawson/71694038007/).
+You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
 
 ## Requirements
 - Python 3.8
