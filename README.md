@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701059759)
+![Generated GIF](output.gif?raw=true&v=1701061725)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean "Diddy" Combs Faces Second and Third Sexual Assault Lawsuits**
+**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
 
-You can read more about it [here](https://www.eonline.com/news/1390388/sean-diddy-combs-faces-second-and-third-sexual-assault-lawsuits).
+You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
 
 ## Requirements
 - Python 3.8
