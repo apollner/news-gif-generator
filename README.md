@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701076220)
+![Generated GIF](output.gif?raw=true&v=1701077647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Travolta Says His Near-Death Experience While Flying Plane With Family On Board Inspired 'The Shepherd'**
+**Trump draws cheers in Haley's backyard at Clemson-South Carolina football game**
 
-You can read more about it [here](https://www.etonline.com/john-travolta-says-his-near-death-experience-while-flying-plane-with-family-on-board-inspired-the).
+You can read more about it [here](https://www.politico.com/news/2023/11/25/trump-draws-cheers-in-haleys-backyard-at-clemson-south-carolina-football-game-00128599).
 
 ## Requirements
 - Python 3.8
