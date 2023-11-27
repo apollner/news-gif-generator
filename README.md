@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701056052)
+![Generated GIF](output.gif?raw=true&v=1701058212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**100+ Amazon Black Friday deals you can still shop ahead of Cyber Monday**
+**Iowa weather: Snow continues to fall in some parts of the state**
 
-You can read more about it [here](https://reviewed.usatoday.com/black-friday/features/best-live-amazon-black-friday-deals-11-24-2023).
+You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
 
 ## Requirements
 - Python 3.8
