@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701110116)
+![Generated GIF](output.gif?raw=true&v=1701111919)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College football rankings: Ohio State tops Michigan in ESPN top 25 poll**
+**[Removed]**
 
-You can read more about it [here](https://www.si.com/fannation/college/cfb-hq/ncaa-football-rankings/college-football-rankings-espn-top-25-ohio-state-michigan-teams-poll).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
