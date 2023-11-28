@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701196559)
+![Generated GIF](output.gif?raw=true&v=1701198302)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police departments warn parents about Apple's new iPhone iOS 17 feature**
+**Feng Zhang's latest gene editing trawl reels in 188 new CRISPR systems**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/apple-ios-17-warning-airdrop-namedrop/).
+You can read more about it [here](https://endpts.com/feng-zhangs-latest-gene-editing-trawl-reels-in-188-new-crispr-systems/).
 
 ## Requirements
 - Python 3.8
