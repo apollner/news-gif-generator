@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701140965)
+![Generated GIF](output.gif?raw=true&v=1701142429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 12 grades: Patriots get 'D-' for embarrassing loss to Giants, Jaguars earn 'A-' for topping Texans**
+**34 Best Cyber Monday Laptop Deals (2023): Windows, MacBooks, Chromebooks**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-grades-patriots-get-d-for-embarrassing-loss-to-giants-jaguars-earn-a-for-topping-texans/).
+You can read more about it [here](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/).
 
 ## Requirements
 - Python 3.8
