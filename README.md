@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701155251)
+![Generated GIF](output.gif?raw=true&v=1701156863)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Big Steelers' Turnover Carries Day Against Bengals, 16-10**
+**Suspect arrested in shooting of 3 Palestinian college students in Vermont, police say**
 
-You can read more about it [here](https://www.bengals.com/news/big-steelers-turnover-carries-day-against-bengals-16-10).
+You can read more about it [here](https://www.cnn.com/2023/11/26/us/palestinian-students-shot-vermont-investigation-monday/index.html).
 
 ## Requirements
 - Python 3.8
