@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701177075)
+![Generated GIF](output.gif?raw=true&v=1701178436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Serial Killer's Wife Goes on Trial for Decades-Old Murders**
+**How an expert on aging has struggled to access disability services**
 
-You can read more about it [here](https://www.newser.com/story/343087/wife-of-frances-ogre-goes-on-trial-for-decades-old-murders.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/27/disability-services-accessibility-coping-depression/).
 
 ## Requirements
 - Python 3.8
