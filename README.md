@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701185630)
+![Generated GIF](output.gif?raw=true&v=1701187828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lake-effect snows could dump up to 30 inches in Upstate New York**
+**Carolina Panthers fire head coach Frank Reich**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/27/lake-effect-snow-buffalo-new-york-erie-ontario/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38991151/carolina-panthers-fire-head-coach-frank-reich).
 
 ## Requirements
 - Python 3.8
