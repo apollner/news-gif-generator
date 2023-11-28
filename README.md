@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701198302)
+![Generated GIF](output.gif?raw=true&v=1701200326)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Feng Zhang's latest gene editing trawl reels in 188 new CRISPR systems**
+**Uttarakhand tunnel collapse: Rescuers explore new ways to reach trapped Indians**
 
-You can read more about it [here](https://endpts.com/feng-zhangs-latest-gene-editing-trawl-reels-in-188-new-crispr-systems/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67540250).
 
 ## Requirements
 - Python 3.8
