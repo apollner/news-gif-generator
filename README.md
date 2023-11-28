@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701162538)
+![Generated GIF](output.gif?raw=true&v=1701164025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 12 grades: Patriots get 'D-' for embarrassing loss to Giants, Eagles earn 'A' for wild win over Bills**
+**FMIA Week 12: Jason Kelce's 'Any Given Sunday' and Philly's Rocky Balboa Season**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-grades-patriots-get-d-for-embarrassing-loss-to-giants-jaguars-earn-a-for-topping-texans/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/fmia/news/nfl-jason-kelce-philadelphia-eagles-atlanta-falcons-peter-king-fmia-week-12).
 
 ## Requirements
 - Python 3.8
