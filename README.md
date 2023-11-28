@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701209186)
+![Generated GIF](output.gif?raw=true&v=1701210853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Carter, currently in hospice, plans to attend late wife Rosalynn Carter's memorial**
+**Frank Reich speaks out after firing as Carolina Panthers coach**
 
-You can read more about it [here](https://abcnews.go.com/Politics/rosalynn-carter-funeral-events-begin-georgia-grandson-remembers/story?id=105162032).
+You can read more about it [here](https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article282370333.html).
 
 ## Requirements
 - Python 3.8
