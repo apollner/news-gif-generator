@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701187828)
+![Generated GIF](output.gif?raw=true&v=1701189619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carolina Panthers fire head coach Frank Reich**
+**The Best Red Carpet Looks At Beyoncé's "Renaissance" Film Premiere**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38991151/carolina-panthers-fire-head-coach-frank-reich).
+You can read more about it [here](http://www.essence.com/gallery/renaissance-film-beyonce-premiere-best-red-carpet-looks/).
 
 ## Requirements
 - Python 3.8
