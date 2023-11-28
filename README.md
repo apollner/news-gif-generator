@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701164025)
+![Generated GIF](output.gif?raw=true&v=1701166153)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FMIA Week 12: Jason Kelce's 'Any Given Sunday' and Philly's Rocky Balboa Season**
+**Israel, Hamas raise concerns over lists of people due to be freed, says official**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/fmia/news/nfl-jason-kelce-philadelphia-eagles-atlanta-falcons-peter-king-fmia-week-12).
+You can read more about it [here](https://www.reuters.com/world/middle-east/biden-hopes-extension-israel-hamas-truce-enters-final-day-2023-11-27/).
 
 ## Requirements
 - Python 3.8
