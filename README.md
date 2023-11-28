@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701169613)
+![Generated GIF](output.gif?raw=true&v=1701171233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Baltimore Ravens vs. Los Angeles Chargers | 2023 Week 12 Game Highlights**
+**Ozzy Osbourne opens up about health struggles, saying he will ‘die a happy man’ if he can perform one last show**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VWf3r7-r9N0).
+You can read more about it [here](https://www.cnn.com/2023/11/27/entertainment/ozzy-osbourne-health-struggles-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
