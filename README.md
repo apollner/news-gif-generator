@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701203642)
+![Generated GIF](output.gif?raw=true&v=1701205561)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas truce extends as aid reaches Gaza: Live updates**
+**Groom kills his bride and 4 others at wedding reception in Thailand, police say**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-27-23/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/groom-chaturong-suksuk-kills-his-bride-4-others-wedding-reception-thailand/).
 
 ## Requirements
 - Python 3.8
