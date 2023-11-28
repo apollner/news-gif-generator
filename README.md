@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701166153)
+![Generated GIF](output.gif?raw=true&v=1701167844)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel, Hamas raise concerns over lists of people due to be freed, says official**
+**Binance's Changpeng 'CZ' Zhao is a Manageable Flight Risk: U.S. DOJ**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/biden-hopes-extension-israel-hamas-truce-enters-final-day-2023-11-27/).
+You can read more about it [here](https://www.coindesk.com/policy/2023/11/27/binances-changpeng-cz-zhao-is-a-manageable-flight-risk-us-doj/).
 
 ## Requirements
 - Python 3.8
