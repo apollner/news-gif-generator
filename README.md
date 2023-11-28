@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701148136)
+![Generated GIF](output.gif?raw=true&v=1701149647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Senate nears vote on Biden's Ukraine request**
+**Six teenagers in court over beheading of French teacher**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/26/senate-vote-biden-ukraine-00128631).
+You can read more about it [here](https://www.reuters.com/world/europe/six-teenagers-court-over-beheading-french-teacher-2023-11-27/).
 
 ## Requirements
 - Python 3.8
