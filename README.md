@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701184206)
+![Generated GIF](output.gif?raw=true&v=1701185630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**140+ best Cyber Monday 2023 deals to shop today: Last chance for sales**
+**Lake-effect snows could dump up to 30 inches in Upstate New York**
 
-You can read more about it [here](https://nypost.com/shopping/best-cyber-monday-deals-sales-11-27-2023/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/27/lake-effect-snow-buffalo-new-york-erie-ontario/).
 
 ## Requirements
 - Python 3.8
