@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701205561)
+![Generated GIF](output.gif?raw=true&v=1701207279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Groom kills his bride and 4 others at wedding reception in Thailand, police say**
+**Shein files for U.S. IPO, as fast-fashion giant looks to expand its global reach**
 
-You can read more about it [here](https://www.cbsnews.com/news/groom-chaturong-suksuk-kills-his-bride-4-others-wedding-reception-thailand/).
+You can read more about it [here](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html).
 
 ## Requirements
 - Python 3.8
