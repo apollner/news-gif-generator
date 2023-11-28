@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701207279)
+![Generated GIF](output.gif?raw=true&v=1701209186)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shein files for U.S. IPO, as fast-fashion giant looks to expand its global reach**
+**Jimmy Carter, currently in hospice, plans to attend late wife Rosalynn Carter's memorial**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html).
+You can read more about it [here](https://abcnews.go.com/Politics/rosalynn-carter-funeral-events-begin-georgia-grandson-remembers/story?id=105162032).
 
 ## Requirements
 - Python 3.8
