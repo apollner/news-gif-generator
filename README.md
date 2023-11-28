@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701160522)
+![Generated GIF](output.gif?raw=true&v=1701162538)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A paradise island vacation with no mosquito bites – and no chemicals**
+**NFL Week 12 grades: Patriots get 'D-' for embarrassing loss to Giants, Eagles earn 'A' for wild win over Bills**
 
-You can read more about it [here](https://www.cnn.com/travel/soneva-fushi-maldives-no-mosquitoes-intl-hnk/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-grades-patriots-get-d-for-embarrassing-loss-to-giants-jaguars-earn-a-for-topping-texans/).
 
 ## Requirements
 - Python 3.8
