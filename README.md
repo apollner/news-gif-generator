@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701189619)
+![Generated GIF](output.gif?raw=true&v=1701191219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Best Red Carpet Looks At Beyoncé's "Renaissance" Film Premiere**
+**Jennifer Lopez Announces New Single, Album and Companion Film Co-Written With Ben Affleck: See the Trailer**
 
-You can read more about it [here](http://www.essence.com/gallery/renaissance-film-beyonce-premiere-best-red-carpet-looks/).
+You can read more about it [here](https://www.etonline.com/jennifer-lopez-announces-new-single-album-and-companion-film-co-written-with-ben-affleck-see-the).
 
 ## Requirements
 - Python 3.8
