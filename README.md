@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701212896)
+![Generated GIF](output.gif?raw=true&v=1701214424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Greek PM slams Sunak as row over Elgin Marbles escalates**
+**Map shows mystery dog respiratory illness spread to 14 states**
 
-You can read more about it [here](https://www.politico.eu/article/greek-pm-slams-sunak-as-row-over-elgin-marbles-escalates/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/27/mystery-dog-respiratory-illness-states-map/71716644007/).
 
 ## Requirements
 - Python 3.8
