@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701159086)
+![Generated GIF](output.gif?raw=true&v=1701160522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teachers reach tentative deal with Portland Public Schools**
+**A paradise island vacation with no mosquito bites – and no chemicals**
 
-You can read more about it [here](https://www.opb.org/article/2023/11/26/portland-public-schools-teachers-strike/).
+You can read more about it [here](https://www.cnn.com/travel/soneva-fushi-maldives-no-mosquitoes-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
