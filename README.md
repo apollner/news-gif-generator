@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701142429)
+![Generated GIF](output.gif?raw=true&v=1701144738)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**34 Best Cyber Monday Laptop Deals (2023): Windows, MacBooks, Chromebooks**
+**Missing Goodhue County man’s body found**
 
-You can read more about it [here](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/).
+You can read more about it [here](https://www.kttc.com/2023/11/26/missing-goodhue-county-mans-body-found/).
 
 ## Requirements
 - Python 3.8
