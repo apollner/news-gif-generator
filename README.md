@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701192806)
+![Generated GIF](output.gif?raw=true&v=1701195030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift’s ‘Eras Tour’ Concert Film To Stream In December With Three Additional Songs**
+**The best Cyber Monday TV deals include up to $1,000 off the Samsung Frame TV**
 
-You can read more about it [here](https://deadline.com/2023/11/taylor-swift-eras-tour-film-streaming-1235638073/).
+You can read more about it [here](https://www.engadget.com/the-best-cyber-monday-tv-deals-include-up-to-1000-off-the-samsung-frame-tv-151505561.html).
 
 ## Requirements
 - Python 3.8
