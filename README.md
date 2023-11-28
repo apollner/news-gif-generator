@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701180479)
+![Generated GIF](output.gif?raw=true&v=1701182239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How an expert on aging has struggled to access disability services**
+**Merriam-Webster’s 2023 word of the year is the real deal**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/27/disability-services-accessibility-coping-depression/).
+You can read more about it [here](https://www.cnn.com/2023/11/27/world/merriam-websters-2023-word-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
