@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701171233)
+![Generated GIF](output.gif?raw=true&v=1701173608)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ozzy Osbourne opens up about health struggles, saying he will ‘die a happy man’ if he can perform one last show**
+**Latest Israel-Hamas war news on Hamas hostage releases, Gaza death toll**
 
-You can read more about it [here](https://www.cnn.com/2023/11/27/entertainment/ozzy-osbourne-health-struggles-intl-scli/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/27/israel-hamas-war-hostages-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
