@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701202145)
+![Generated GIF](output.gif?raw=true&v=1701203642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla sues Sweden's postal agency as union fight escalates**
+**Israel-Hamas truce extends as aid reaches Gaza: Live updates**
 
-You can read more about it [here](https://www.theverge.com/2023/11/27/23977923/tesla-sweden-lawsuit-postal-workers-license-plates).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-27-23/index.html).
 
 ## Requirements
 - Python 3.8
