@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701210853)
+![Generated GIF](output.gif?raw=true&v=1701212896)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Frank Reich speaks out after firing as Carolina Panthers coach**
+**Greek PM slams Sunak as row over Elgin Marbles escalates**
 
-You can read more about it [here](https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article282370333.html).
+You can read more about it [here](https://www.politico.eu/article/greek-pm-slams-sunak-as-row-over-elgin-marbles-escalates/).
 
 ## Requirements
 - Python 3.8
