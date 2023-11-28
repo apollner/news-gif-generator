@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701167844)
+![Generated GIF](output.gif?raw=true&v=1701169613)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Binance's Changpeng 'CZ' Zhao is a Manageable Flight Risk: U.S. DOJ**
+**Baltimore Ravens vs. Los Angeles Chargers | 2023 Week 12 Game Highlights**
 
-You can read more about it [here](https://www.coindesk.com/policy/2023/11/27/binances-changpeng-cz-zhao-is-a-manageable-flight-risk-us-doj/).
+You can read more about it [here](https://www.youtube.com/watch?v=VWf3r7-r9N0).
 
 ## Requirements
 - Python 3.8
