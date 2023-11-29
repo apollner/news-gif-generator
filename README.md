@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701236091)
+![Generated GIF](output.gif?raw=true&v=1701238270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works**
+**Panthers fire Frank Reich**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/).
+You can read more about it [here](https://www.wsoctv.com/news/local/carolina-panthers-fire-hc-frank-reich/YVNFJ4VRBVEVLFLMUKJAJUZBKQ/).
 
 ## Requirements
 - Python 3.8
