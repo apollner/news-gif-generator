@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701257768)
+![Generated GIF](output.gif?raw=true&v=1701260009)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Australia begins crackdown on vaping, to ban import of single-use devices**
+**Panthers move on from Duce Staley, Josh McCown**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/australia-begins-crackdown-vaping-ban-import-single-use-devices-2023-11-28/).
+You can read more about it [here](https://www.panthers.com/news/panthers-move-on-from-duce-staley-josh-mccown).
 
 ## Requirements
 - Python 3.8
