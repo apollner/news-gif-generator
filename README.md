@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701260009)
+![Generated GIF](output.gif?raw=true&v=1701262289)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Panthers move on from Duce Staley, Josh McCown**
+**Reminder: Google is about to start purging inactive accounts**
 
-You can read more about it [here](https://www.panthers.com/news/panthers-move-on-from-duce-staley-josh-mccown).
+You can read more about it [here](https://www.theverge.com/2023/11/28/23979178/google-inactive-accounts-deletion-december-2023-psa-reminder).
 
 ## Requirements
 - Python 3.8
