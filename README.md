@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701228830)
+![Generated GIF](output.gif?raw=true&v=1701231029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police Chase 12-Year-Old Boy Who Stole Forklift: Cops**
+**Rishi Sunak snubs Greek PM in dispute over Elgin Marbles**
 
-You can read more about it [here](https://www.youtube.com/watch?v=k3r5CI0loR8).
+You can read more about it [here](https://www.ft.com/content/fecb2058-3ce0-4157-8e57-d2bceecb53f0).
 
 ## Requirements
 - Python 3.8
