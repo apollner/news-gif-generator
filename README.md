@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701241695)
+![Generated GIF](output.gif?raw=true&v=1701243227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Robert De Niro Says Part Of His Speech Excised At Gotham Awards Then Lets It Rip For ‘Killers Of The Flower Moon’ Tribute – Watch**
+**Starlink can operate in Gaza if Israel controls satellites, official says**
 
-You can read more about it [here](https://deadline.com/2023/11/robert-de-niro-killers-of-the-flower-moon-gotham-awards-tribute-1235638999/).
+You can read more about it [here](https://www.businessinsider.com/starlink-can-operate-in-gaza-if-israel-controls-satellites-official-2023-11).
 
 ## Requirements
 - Python 3.8
