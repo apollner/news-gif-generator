@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701288543)
+![Generated GIF](output.gif?raw=true&v=1701290093)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Influential Koch network backs Nikki Haley in GOP presidential primary**
+**Speech by Governor Bowman on monetary policy and the economy**
 
-You can read more about it [here](https://www.cnn.com/2023/11/28/politics/koch-network-nikki-haley/index.html).
+You can read more about it [here](https://www.federalreserve.gov/newsevents/speech/bowman20231128a.htm).
 
 ## Requirements
 - Python 3.8
