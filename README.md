@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701217955)
+![Generated GIF](output.gif?raw=true&v=1701222046)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vaccination, air filters, heart-healthy diet can help with breathing**
+**China's respiratory illness surge not as high as pre-pandemic - WHO official**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/11/27/healthy-lungs-breathing-aging-vaccination/).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-respiratory-illness-surge-not-high-pre-pandemic-who-official-2023-11-27/).
 
 ## Requirements
 - Python 3.8
