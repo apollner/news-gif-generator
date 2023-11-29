@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701234464)
+![Generated GIF](output.gif?raw=true&v=1701236091)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Monday Night Football: Bears vs. Vikings score, highlights, news, inactives and live updates**
+**Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works**
 
-You can read more about it [here](https://sports.yahoo.com/monday-night-football-bears-vs-vikings-score-highlights-news-inactives-and-live-updates-234020488.html).
+You can read more about it [here](https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/).
 
 ## Requirements
 - Python 3.8
