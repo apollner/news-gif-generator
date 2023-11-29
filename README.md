@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701254233)
+![Generated GIF](output.gif?raw=true&v=1701255942)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla scores a major victory in its ‘insane’ war against Sweden’s labor unions and government over a ‘very serious’ threat to its business**
+**Rescuers successfully drill through to trapped men in Himalayan tunnel in breakthrough for perilous operation**
 
-You can read more about it [here](https://fortune.com/2023/11/27/tesla-sweden-lawsuit-labor-unions-postal-workers/).
+You can read more about it [here](https://www.cnn.com/2023/11/28/india/india-tunnel-rescue-vertical-drilling-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
