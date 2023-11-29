@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701299235)
+![Generated GIF](output.gif?raw=true&v=1701300839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US to Back Million-Dollar Mortgages in San Diego, Breckenridge**
+**How concerning is the spike in respiratory illnesses in China? A doctor explains**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-28/us-to-back-million-dollar-mortgages-in-san-diego-breckenridge).
+You can read more about it [here](https://www.cnn.com/2023/11/28/health/china-respiratory-illness-surge-wellness/index.html).
 
 ## Requirements
 - Python 3.8
