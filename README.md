@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701232510)
+![Generated GIF](output.gif?raw=true&v=1701234464)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas truce extends as aid reaches Gaza: Live updates**
+**Monday Night Football: Bears vs. Vikings score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-27-23/index.html).
+You can read more about it [here](https://sports.yahoo.com/monday-night-football-bears-vs-vikings-score-highlights-news-inactives-and-live-updates-234020488.html).
 
 ## Requirements
 - Python 3.8
