@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701274213)
+![Generated GIF](output.gif?raw=true&v=1701276059)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Ukraine spy chief's wife Marianna Budanova ill in suspected poisoning**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67552036).
 
 ## Requirements
 - Python 3.8
