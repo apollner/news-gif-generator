@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701270562)
+![Generated GIF](output.gif?raw=true&v=1701272013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rescuers successfully drill through to trapped men in Himalayan tunnel in breakthrough for perilous operation**
+**These magnificent purple and green lights aren’t auroras. This is Steve**
 
-You can read more about it [here](https://www.cnn.com/2023/11/28/india/india-tunnel-rescue-vertical-drilling-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/28/world/steve-aurora-lights-scn/index.html).
 
 ## Requirements
 - Python 3.8
