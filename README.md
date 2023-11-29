@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701295617)
+![Generated GIF](output.gif?raw=true&v=1701297301)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"Geological hazards" lurking below Yellowstone National Park, data show**
+**Israel-Hamas war: Live updates and latest news**
 
-You can read more about it [here](https://www.cbsnews.com/news/geological-hazards-lurking-below-yellowstone-national-park-data-show/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-live-updates-11-28-2023-d11ff273b41ac9fcb37cf8d043e802dd).
 
 ## Requirements
 - Python 3.8
