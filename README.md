@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701239795)
+![Generated GIF](output.gif?raw=true&v=1701241695)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The University of Oklahoma and Oklahoma State University collaboration finds semaglutide treatment is associated with remarkable reductions in Alcohol Use Disorder symptoms**
+**Robert De Niro Says Part Of His Speech Excised At Gotham Awards Then Lets It Rip For ‘Killers Of The Flower Moon’ Tribute – Watch**
 
-You can read more about it [here](https://www.eurekalert.org/news-releases/1009292).
+You can read more about it [here](https://deadline.com/2023/11/robert-de-niro-killers-of-the-flower-moon-gotham-awards-tribute-1235638999/).
 
 ## Requirements
 - Python 3.8
