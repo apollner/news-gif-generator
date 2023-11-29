@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701266834)
+![Generated GIF](output.gif?raw=true&v=1701268435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Law enforcement agencies issue warnings after latest Apple iOS release**
+**Newly discovered stem cell offers clues to a cancer mystery**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/law-enforcement-agencies-issue-warnings-latest-apple-ios-release).
+You can read more about it [here](https://www.washingtonpost.com/science/2023/11/28/new-stem-cell-spine-cancer/).
 
 ## Requirements
 - Python 3.8
