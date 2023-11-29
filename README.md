@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701252566)
+![Generated GIF](output.gif?raw=true&v=1701254233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX to launch another batch of Starlink satellites from Florida on Nov. 27**
+**Tesla scores a major victory in its ‘insane’ war against Sweden’s labor unions and government over a ‘very serious’ threat to its business**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-30).
+You can read more about it [here](https://fortune.com/2023/11/27/tesla-sweden-lawsuit-labor-unions-postal-workers/).
 
 ## Requirements
 - Python 3.8
