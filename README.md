@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701263499)
+![Generated GIF](output.gif?raw=true&v=1701264817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Josh Dobbs comes back down to earth in loss to Bears, and now Vikings have questions at QB**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5095369/2023/11/28/josh-dobbs-vikings-bears-qb/).
 
 ## Requirements
 - Python 3.8
