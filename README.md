@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701238270)
+![Generated GIF](output.gif?raw=true&v=1701239795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Panthers fire Frank Reich**
+**The University of Oklahoma and Oklahoma State University collaboration finds semaglutide treatment is associated with remarkable reductions in Alcohol Use Disorder symptoms**
 
-You can read more about it [here](https://www.wsoctv.com/news/local/carolina-panthers-fire-hc-frank-reich/YVNFJ4VRBVEVLFLMUKJAJUZBKQ/).
+You can read more about it [here](https://www.eurekalert.org/news-releases/1009292).
 
 ## Requirements
 - Python 3.8
