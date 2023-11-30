@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701331852)
+![Generated GIF](output.gif?raw=true&v=1701333317)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oregon St. promotes DC Trent Bray to replace Jonathan Smith**
+**Finland to close its entire border with Russia over migrant concerns**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39002205/oregon-st-promotes-dc-trent-bray-replace-jonathan-smith).
+You can read more about it [here](https://www.pbs.org/newshour/world/finland-to-close-its-entire-border-with-russia-over-migrant-concerns).
 
 ## Requirements
 - Python 3.8
