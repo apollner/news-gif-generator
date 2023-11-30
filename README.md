@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701329688)
+![Generated GIF](output.gif?raw=true&v=1701331852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Steel closes Granite City furnace 'indefinitely,' warns 1,000 of layoffs**
+**Oregon St. promotes DC Trent Bray to replace Jonathan Smith**
 
-You can read more about it [here](https://www.stltoday.com/news/local/business/u-s-steel-closes-granite-city-furnace-indefinitely-warns-1-000-of-layoffs/article_ab640c26-8e3a-11ee-bb7f-47845afb44c9.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39002205/oregon-st-promotes-dc-trent-bray-replace-jonathan-smith).
 
 ## Requirements
 - Python 3.8
