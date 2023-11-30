@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701340618)
+![Generated GIF](output.gif?raw=true&v=1701342347)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**All 41 workers trapped in a tunnel in India were rescued**
+**Is China muddling its response to cold and flu spike?**
 
-You can read more about it [here](https://apnews.com/article/india-uttarakhand-rescue-41-workers-trapped-tunnel-1067e281a4ceff40b03c498bd0070063).
+You can read more about it [here](https://www.dw.com/en/is-china-muddling-its-response-to-cold-and-flu-spike/a-67576386).
 
 ## Requirements
 - Python 3.8
