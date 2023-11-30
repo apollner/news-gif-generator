@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701385726)
+![Generated GIF](output.gif?raw=true&v=1701387221)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Northern lights may be visible in New England during potential "severe geomagnetic storm"**
+**US accuses Indian official in foiled plot to kill Sikh separatist in New York City**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/northern-lights-geomagnetic-storm-aurora-borealis-new-england/).
+You can read more about it [here](https://www.ft.com/content/04544a8f-ba1a-47b7-9457-882614dc3852).
 
 ## Requirements
 - Python 3.8
