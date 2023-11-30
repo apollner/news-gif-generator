@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701322443)
+![Generated GIF](output.gif?raw=true&v=1701324661)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk visits Israel and Benjamin Netanyahu: Antisemitism has never stopped Bibi from covering for allies.**
+**Unexplained surge in pneumonia in the Netherlands after China records case jump| 7 News Australia**
 
-You can read more about it [here](https://slate.com/news-and-politics/2023/11/israel-elon-musk-antisemitism-netanyahu-trump-orban.html).
+You can read more about it [here](https://www.youtube.com/watch?v=cmyvgdLyYEI).
 
 ## Requirements
 - Python 3.8
