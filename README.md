@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701354908)
+![Generated GIF](output.gif?raw=true&v=1701356871)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Xochitl Gomez’s Semi-Finals Samba – Dancing with the Stars**
+**An ailing Pope Francis tells the public he's better than a day earlier but has aides read speeches**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JyehXGr_NLI).
+You can read more about it [here](https://apnews.com/article/pope-francis-illness-lung-inflammation-weekly-audience-184779d17424d81d09ed83eea0a00175).
 
 ## Requirements
 - Python 3.8
