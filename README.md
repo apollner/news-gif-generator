@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701319099)
+![Generated GIF](output.gif?raw=true&v=1701320931)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Power Rankings Week 13: Jalen Hurts’ MVP moment keeps Eagles on top**
+**ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation**
 
-You can read more about it [here](https://www.arrowheadpride.com/2023/11/28/23977829/nfl-power-rankings-week-13-jalen-hurts-mvp-moment-eagles-on-top).
+You can read more about it [here](https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/).
 
 ## Requirements
 - Python 3.8
