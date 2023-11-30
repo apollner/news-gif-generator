@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701313760)
+![Generated GIF](output.gif?raw=true&v=1701315266)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tina Knowles Defends Beyoncé Against 'Racist' Comments**
+**‘Wonka’ World Premiere: Timothée Chalamet, Hugh Grant Bring Roald Dahl’s Chocolate Factory to London**
 
-You can read more about it [here](https://people.com/tina-knowles-claps-back-ignorant-racist-comments-about-beyonce-film-premiere-look-8407630).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/wonka-world-premiere-london-timothee-chalamet-hugh-grant-1235680743/).
 
 ## Requirements
 - Python 3.8
