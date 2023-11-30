@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701315266)
+![Generated GIF](output.gif?raw=true&v=1701317414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Wonka’ World Premiere: Timothée Chalamet, Hugh Grant Bring Roald Dahl’s Chocolate Factory to London**
+**More hostages freed on fifth day of Israel-Hamas truce: Live updates**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/wonka-world-premiere-london-timothee-chalamet-hugh-grant-1235680743/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-28-23/index.html).
 
 ## Requirements
 - Python 3.8
