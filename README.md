@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701351387)
+![Generated GIF](output.gif?raw=true&v=1701353218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM initiates $10 billion buyback, boosts dividend and reinstates 2023 guidance after UAW strikes**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/29/gm-buyback-dividend-guidance.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
