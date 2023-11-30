@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701328106)
+![Generated GIF](output.gif?raw=true&v=1701329688)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**All 41 workers trapped in a tunnel in India were rescued**
+**U.S. Steel closes Granite City furnace 'indefinitely,' warns 1,000 of layoffs**
 
-You can read more about it [here](https://apnews.com/article/india-uttarakhand-rescue-41-workers-trapped-tunnel-1067e281a4ceff40b03c498bd0070063).
+You can read more about it [here](https://www.stltoday.com/news/local/business/u-s-steel-closes-granite-city-furnace-indefinitely-warns-1-000-of-layoffs/article_ab640c26-8e3a-11ee-bb7f-47845afb44c9.html).
 
 ## Requirements
 - Python 3.8
