@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701333317)
+![Generated GIF](output.gif?raw=true&v=1701335275)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Finland to close its entire border with Russia over migrant concerns**
+**Online dispute rises over police warnings after iOS 17.1 software update**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/finland-to-close-its-entire-border-with-russia-over-migrant-concerns).
+You can read more about it [here](https://ksltv.com/604505/online-dispute-rises-over-police-warnings-after-ios-17-1-software-update/).
 
 ## Requirements
 - Python 3.8
