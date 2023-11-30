@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701380081)
+![Generated GIF](output.gif?raw=true&v=1701382004)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers officially limited in first practice back from Achilles tear**
+**Dominic Raab denies Dominic Cummings made key pandemic decisions**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-officially-limited-in-first-practice-back-from-achilles-tear).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67570491).
 
 ## Requirements
 - Python 3.8
