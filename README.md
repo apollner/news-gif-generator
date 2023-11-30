@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701317414)
+![Generated GIF](output.gif?raw=true&v=1701319099)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More hostages freed on fifth day of Israel-Hamas truce: Live updates**
+**NFL Power Rankings Week 13: Jalen Hurts’ MVP moment keeps Eagles on top**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-28-23/index.html).
+You can read more about it [here](https://www.arrowheadpride.com/2023/11/28/23977829/nfl-power-rankings-week-13-jalen-hurts-mvp-moment-eagles-on-top).
 
 ## Requirements
 - Python 3.8
