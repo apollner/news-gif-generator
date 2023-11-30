@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701367829)
+![Generated GIF](output.gif?raw=true&v=1701369335)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Upstate New York Gets Buried Under Feet Of Snow From Lake-Effect Snow Event**
+**US says it foiled alleged plot to assassinate Sikh activist in New York**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9ZYUW9pTsF8).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67570007).
 
 ## Requirements
 - Python 3.8
