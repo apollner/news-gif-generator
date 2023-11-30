@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701324661)
+![Generated GIF](output.gif?raw=true&v=1701326175)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unexplained surge in pneumonia in the Netherlands after China records case jump| 7 News Australia**
+**National Christmas Tree topples to the ground at White House: 'Perfectly summing up Joe Biden's presidency'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cmyvgdLyYEI).
+You can read more about it [here](https://www.foxnews.com/politics/national-christmas-tree-topples-ground-white-house-perfectly-summing-joe-bidens-presidency).
 
 ## Requirements
 - Python 3.8
