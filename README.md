@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701344032)
+![Generated GIF](output.gif?raw=true&v=1701346408)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mysterious dog illness arrives in Maine, vet says**
+**INSANE IN-SEASON TOURNAMENT ENDING Kings vs Warriors 🔥🏆 | November 28, 2023**
 
-You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
+You can read more about it [here](https://www.youtube.com/watch?v=yPqqaXs2wQs).
 
 ## Requirements
 - Python 3.8
