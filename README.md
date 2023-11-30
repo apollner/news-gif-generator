@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701374933)
+![Generated GIF](output.gif?raw=true&v=1701376427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Walking could lower your risk of Type 2 diabetes, and your speed may affect how much, study finds**
+**Michigan’s top veterinarian offers guidance as mystery dog illness spreads across U.S.**
 
-You can read more about it [here](https://www.ksl.com/article/50802657/walking-could-lower-your-risk-of-type-2-diabetes-and-your-speed-may-affect-how-much-study-finds).
+You can read more about it [here](https://www.mlive.com/news/2023/11/michigans-top-veterinarian-offers-guidance-as-mystery-dog-illness-spreads-across-us.html).
 
 ## Requirements
 - Python 3.8
