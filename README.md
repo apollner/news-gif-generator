@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701378487)
+![Generated GIF](output.gif?raw=true&v=1701380081)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OPEC+ Mulls New Oil Production Cuts Amid Middle East Conflict - WSJ**
+**Aaron Rodgers officially limited in first practice back from Achilles tear**
 
-You can read more about it [here](https://www.wsj.com/business/energy-oil/opec-mulls-new-oil-production-cuts-amid-middle-east-conflict-f37cef80).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-officially-limited-in-first-practice-back-from-achilles-tear).
 
 ## Requirements
 - Python 3.8
