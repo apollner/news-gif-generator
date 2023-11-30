@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701353218)
+![Generated GIF](output.gif?raw=true&v=1701354908)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Xochitl Gomez’s Semi-Finals Samba – Dancing with the Stars**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=JyehXGr_NLI).
 
 ## Requirements
 - Python 3.8
