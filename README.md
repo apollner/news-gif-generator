@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701312120)
+![Generated GIF](output.gif?raw=true&v=1701313760)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jennifer Aniston Encourages Fans to Support Matthew Perry Foundation for Giving Tuesday**
+**Tina Knowles Defends Beyoncé Against 'Racist' Comments**
 
-You can read more about it [here](https://www.etonline.com/jennifer-aniston-encourages-fans-to-support-matthew-perry-foundation-for-giving-tuesday-215540).
+You can read more about it [here](https://people.com/tina-knowles-claps-back-ignorant-racist-comments-about-beyonce-film-premiere-look-8407630).
 
 ## Requirements
 - Python 3.8
