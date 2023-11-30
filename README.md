@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701336893)
+![Generated GIF](output.gif?raw=true&v=1701338995)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation**
+**Wife of Ukraine spy chief hospitalized after allegedly being poisoned**
 
-You can read more about it [here](https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/).
+You can read more about it [here](https://www.youtube.com/watch?v=UHLpkQiU2Ck).
 
 ## Requirements
 - Python 3.8
