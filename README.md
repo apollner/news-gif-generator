@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701310980)
+![Generated GIF](output.gif?raw=true&v=1701312120)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis cancels trip to climate summit due to illness**
+**Jennifer Aniston Encourages Fans to Support Matthew Perry Foundation for Giving Tuesday**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dqSUHwD5GD8).
+You can read more about it [here](https://www.etonline.com/jennifer-aniston-encourages-fans-to-support-matthew-perry-foundation-for-giving-tuesday-215540).
 
 ## Requirements
 - Python 3.8
