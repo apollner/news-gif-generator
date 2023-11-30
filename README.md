@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701356871)
+![Generated GIF](output.gif?raw=true&v=1701358436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An ailing Pope Francis tells the public he's better than a day earlier but has aides read speeches**
+**GM Plans $10 Billion Stock Buyback in Bid to Assuage Investors**
 
-You can read more about it [here](https://apnews.com/article/pope-francis-illness-lung-inflammation-weekly-audience-184779d17424d81d09ed83eea0a00175).
+You can read more about it [here](https://www.wsj.com/business/autos/gm-plans-10-billion-share-repurchase-in-bid-to-assuage-investors-35ec7075).
 
 ## Requirements
 - Python 3.8
