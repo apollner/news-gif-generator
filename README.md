@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701308400)
+![Generated GIF](output.gif?raw=true&v=1701310980)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Disney's Bob Iger admits second stint as CEO more challenging than he expected**
+**Pope Francis cancels trip to climate summit due to illness**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/disneys-bob-iger-admits-second-stint-ceo-challenging).
+You can read more about it [here](https://www.youtube.com/watch?v=dqSUHwD5GD8).
 
 ## Requirements
 - Python 3.8
