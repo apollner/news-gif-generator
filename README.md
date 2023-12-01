@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701423228)
+![Generated GIF](output.gif?raw=true&v=1701425489)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US military Osprey crash: Aircraft with 6 aboard crashes off southern Japan**
+**Israel-Hamas war: Gaza truce extended by a day**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/29/us-military-osprey-crash-off-southern-japan/71738009007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-29-2023-57e73a26c647ecd97e77afe19c08e077).
 
 ## Requirements
 - Python 3.8
