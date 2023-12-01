@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701461343)
+![Generated GIF](output.gif?raw=true&v=1701462831)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thousands of fake Facebook accounts shut down by Meta were primed to polarize voters ahead of 2024**
+**PFT's Week 13 2023 NFL picks, Florio vs. Simms**
 
-You can read more about it [here](https://apnews.com/article/meta-facebook-2024-election-misinformation-china-956019723463918043e060ac577270f7).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-13-2023-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
