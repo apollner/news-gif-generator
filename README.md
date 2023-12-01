@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701462831)
+![Generated GIF](output.gif?raw=true&v=1701464767)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PFT's Week 13 2023 NFL picks, Florio vs. Simms**
+**Warrant issued for Bills' Miller for alleged assault**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-13-2023-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39013616/warrant-issued-bills-von-miller-alleged-assault).
 
 ## Requirements
 - Python 3.8
