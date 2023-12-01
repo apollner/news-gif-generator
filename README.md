@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701471979)
+![Generated GIF](output.gif?raw=true&v=1701473628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meta officials warn China, Russia, Iran plan 'foreign covert influence operations' ahead of 2024 election**
+**Thursday Night Football odds, line, spread: Cowboys vs. Seahawks picks, NFL predictions by expert on 20-5 roll**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/meta-officials-warn-china-russia-iran-plan-foreign-covert-influence-operations-2024-election).
+You can read more about it [here](https://www.cbssports.com/nfl/news/thursday-night-football-odds-line-spread-cowboys-vs-seahawks-picks-nfl-predictions-by-expert-on-20-5-roll/).
 
 ## Requirements
 - Python 3.8
