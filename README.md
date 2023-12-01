@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701470021)
+![Generated GIF](output.gif?raw=true&v=1701471979)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COP28: Poor countries win 30-year fight for climate cash**
+**Meta officials warn China, Russia, Iran plan 'foreign covert influence operations' ahead of 2024 election**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67581277).
+You can read more about it [here](https://www.foxbusiness.com/politics/meta-officials-warn-china-russia-iran-plan-foreign-covert-influence-operations-2024-election).
 
 ## Requirements
 - Python 3.8
