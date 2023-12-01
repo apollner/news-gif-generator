@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701466425)
+![Generated GIF](output.gif?raw=true&v=1701468405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aurora may be visible this week in Massachusetts as solar storms impact Earth**
+**Alaska's chief veterinarian issues alert on mysterious illness killing dogs in Lower 48**
 
-You can read more about it [here](https://www.wcvb.com/article/aurora-solar-flare-massachusetts-november-30-2023/45989019).
+You can read more about it [here](https://www.adn.com/alaska-life/pets/2023/11/30/alaskas-chief-veterinarian-issues-alert-on-mysterious-illness-killing-dogs-in-lower-48/).
 
 ## Requirements
 - Python 3.8
