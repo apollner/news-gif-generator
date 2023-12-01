@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701428740)
+![Generated GIF](output.gif?raw=true&v=1701430420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An exceptional solar system discovered: its planets have resonant orbits**
+**Palestinian activist Ahed Tamimi freed from Israeli prison in latest exchange**
 
-You can read more about it [here](https://en.as.com/latest_news/an-exceptional-solar-system-discovered-its-planets-have-resonant-orbits-n/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/30/palestine-ahed-tamimi-released-israel-hostages/).
 
 ## Requirements
 - Python 3.8
