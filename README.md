@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701427029)
+![Generated GIF](output.gif?raw=true&v=1701428740)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UAW launches campaign to target 13 car makers, organizing 150k workers**
+**An exceptional solar system discovered: its planets have resonant orbits**
 
-You can read more about it [here](https://www.axios.com/2023/11/29/uaw-united-automobile-workers-organizing-campaign).
+You can read more about it [here](https://en.as.com/latest_news/an-exceptional-solar-system-discovered-its-planets-have-resonant-orbits-n/).
 
 ## Requirements
 - Python 3.8
