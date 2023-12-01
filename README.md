@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701432862)
+![Generated GIF](output.gif?raw=true&v=1701435009)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ford reinstates 2023 guidance, says UAW deal to cost $8.8 billion over life of the contract**
+**Palestinian activist Ahed Tamimi freed from Israeli prison in latest exchange**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/30/fords-2023-guidance-uaw-deal-cost.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/30/palestine-ahed-tamimi-released-israel-hostages/).
 
 ## Requirements
 - Python 3.8
