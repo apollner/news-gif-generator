@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701419748)
+![Generated GIF](output.gif?raw=true&v=1701421739)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World AIDS Day 2023 – events in Geneva and around the world**
+**Taiwan urges elderly, young to avoid China visits due to respiratory illnesses**
 
-You can read more about it [here](https://www.who.int/news-room/events/detail/2023/12/01/default-calendar/world-aids-day-2023-events-in-geneva-and-around-the-world).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-urges-elderly-young-avoid-china-visits-due-respiratory-illnesses-2023-11-30/).
 
 ## Requirements
 - Python 3.8
