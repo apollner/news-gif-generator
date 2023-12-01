@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701454216)
+![Generated GIF](output.gif?raw=true&v=1701455758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palestinian student knocked on a neighbor’s door to get help for his friends before realizing he had also been shot**
+**New York appeals court reinstates gag order against Donald Trump in civil fraud trial**
 
-You can read more about it [here](https://www.cnn.com/2023/11/29/us/palestinian-student-kinnan-abdalhamid-shot-vermont/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/30/politics/new-york-appeals-court-reinstates-gag-order-against-donald-trump-in-civil-fraud-trial/index.html).
 
 ## Requirements
 - Python 3.8
