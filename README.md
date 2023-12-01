@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701405349)
+![Generated GIF](output.gif?raw=true&v=1701407327)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Department of Education to investigate Harvard in possible discrimination probe**
+**Stable Diffusion Turbo XL can generate AI images as fast as you can type**
 
-You can read more about it [here](https://thehill.com/homenews/education/4334479-department-education-investigates-harvard/).
+You can read more about it [here](https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/).
 
 ## Requirements
 - Python 3.8
