@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701408874)
+![Generated GIF](output.gif?raw=true&v=1701411204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video: Israeli troops kill 8-year-old boy during raid of West Bank refugee camp**
+**Powerful geomagnetic storm now pegged as ‘likely’, get ready for northern lights**
 
-You can read more about it [here](https://www.cnn.com/videos/world/2023/11/29/west-bank-jenin-refugee-camp-raid-wedeman-cnni-vpx.cnn).
+You can read more about it [here](https://www.mlive.com/weather/2023/11/powerful-geomagnetic-storm-now-pegged-as-likely-get-ready-for-northern-lights.html).
 
 ## Requirements
 - Python 3.8
