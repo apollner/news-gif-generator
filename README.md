@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701464767)
+![Generated GIF](output.gif?raw=true&v=1701466425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Warrant issued for Bills' Miller for alleged assault**
+**Aurora may be visible this week in Massachusetts as solar storms impact Earth**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39013616/warrant-issued-bills-von-miller-alleged-assault).
+You can read more about it [here](https://www.wcvb.com/article/aurora-solar-flare-massachusetts-november-30-2023/45989019).
 
 ## Requirements
 - Python 3.8
