@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701387221)
+![Generated GIF](output.gif?raw=true&v=1701390940)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US accuses Indian official in foiled plot to kill Sikh separatist in New York City**
+**Reese to return for LSU after 4-game absence**
 
-You can read more about it [here](https://www.ft.com/content/04544a8f-ba1a-47b7-9457-882614dc3852).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39006632/angel-reese-return-lsu-4-game-absence).
 
 ## Requirements
 - Python 3.8
