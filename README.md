@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701414487)
+![Generated GIF](output.gif?raw=true&v=1701416033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 13 Start 'Em & Sit 'Em Wide Receivers: Nico Collins WR1 week, plus sleepers**
+**Stock Futures Edge Higher on Fed Rate-Cut Bets: Markets Wrap**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-13-start-em-sit-em-wide-receivers-nico-collins-wr1-week-plus-sleepers/).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-muted-fed-speak-224420179.html).
 
 ## Requirements
 - Python 3.8
