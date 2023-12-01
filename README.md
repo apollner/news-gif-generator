@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701441330)
+![Generated GIF](output.gif?raw=true&v=1701443304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Kerry's 'gamble': Trusting an oil baron to run the COP28 climate summit - POLITICO**
+**Ford reinstates 2023 guidance, says UAW deal to cost $8.8 billion over life of the contract**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/30/john-kerry-sultan-al-jaber-cop28-00123610).
+You can read more about it [here](https://www.cnbc.com/2023/11/30/fords-2023-guidance-uaw-deal-cost.html).
 
 ## Requirements
 - Python 3.8
