@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701397729)
+![Generated GIF](output.gif?raw=true&v=1701398763)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**IDF: Two Israeli women hostages released by Hamas**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=JvPwpQHWKlk).
 
 ## Requirements
 - Python 3.8
