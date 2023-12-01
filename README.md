@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701444909)
+![Generated GIF](output.gif?raw=true&v=1701446990)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**John Kerry's 'gamble': Trusting an oil baron to run the COP28 climate summit - POLITICO**
+**George Santos says lawmakers 'bullying' him as expulsion vote looms**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/30/john-kerry-sultan-al-jaber-cop28-00123610).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/30/george-santos-bullying-expulsion/).
 
 ## Requirements
 - Python 3.8
