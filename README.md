@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701448759)
+![Generated GIF](output.gif?raw=true&v=1701450394)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police urge parents to turn off Apple iPhone setting dangerous to kids**
+**Russian court bans 'LGBT movement'**
 
-You can read more about it [here](https://www.foxnews.com/tech/police-urge-parents-to-turn-off-apple-iphone-setting-dangerous-to-kids).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67565509).
 
 ## Requirements
 - Python 3.8
