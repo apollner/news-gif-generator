@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701403836)
+![Generated GIF](output.gif?raw=true&v=1701405349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift is Spotify's most-streamed artist of 2023, ending Bad Bunny's 3-year reign**
+**Department of Education to investigate Harvard in possible discrimination probe**
 
-You can read more about it [here](https://apnews.com/article/spotify-2023-music-taylor-swift-bad-bunny-376192a822c7b1d38387a0f3b17e963f).
+You can read more about it [here](https://thehill.com/homenews/education/4334479-department-education-investigates-harvard/).
 
 ## Requirements
 - Python 3.8
