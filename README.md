@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701459214)
+![Generated GIF](output.gif?raw=true&v=1701461343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hamas hands over two female hostages, others expected after truce extended**
+**Thousands of fake Facebook accounts shut down by Meta were primed to polarize voters ahead of 2024**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/talks-intensify-extend-israel-hamas-truce-after-more-hostages-prisoners-freed-2023-11-30/).
+You can read more about it [here](https://apnews.com/article/meta-facebook-2024-election-misinformation-china-956019723463918043e060ac577270f7).
 
 ## Requirements
 - Python 3.8
