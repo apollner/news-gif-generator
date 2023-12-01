@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701401636)
+![Generated GIF](output.gif?raw=true&v=1701403836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stable Diffusion Turbo XL can generate AI images as fast as you can type**
+**Taylor Swift is Spotify's most-streamed artist of 2023, ending Bad Bunny's 3-year reign**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/).
+You can read more about it [here](https://apnews.com/article/spotify-2023-music-taylor-swift-bad-bunny-376192a822c7b1d38387a0f3b17e963f).
 
 ## Requirements
 - Python 3.8
