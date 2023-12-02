@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701516826)
+![Generated GIF](output.gif?raw=true&v=1701519112)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See what Taylor Swift and more wore for Beyonce's 'Renaissance' London premiere**
+**‘Golden Bachelor’: Gerry Turner and Fiancée to Marry in Wedding Ceremony Airing Live on ABC**
 
-You can read more about it [here](https://www.goodmorningamerica.com/style/story/taylor-swift-blake-lively-stars-wore-beyonces-renaissance-105279084).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/golden-bachelor-gerry-turner-theresa-nist-finale-marry-abc-wedding-1235705337/).
 
 ## Requirements
 - Python 3.8
