@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701547647)
+![Generated GIF](output.gif?raw=true&v=1701549215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis calls for resignation of embattled Florida GOP chairman**
+**Officials warn Hoosiers of ‘unusual’ dog illness seen across Indiana**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/01/desantis-resignation-christian-ziegler-florida/).
+You can read more about it [here](https://www.wane.com/top-stories/officials-warn-hoosiers-of-unusual-dog-illness-seen-across-indiana/).
 
 ## Requirements
 - Python 3.8
