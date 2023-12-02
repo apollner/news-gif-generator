@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701509612)
+![Generated GIF](output.gif?raw=true&v=1701511590)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blinken said to warn war cabinet Israel may not have months to topple Hamas**
+**Governors Ron DeSantis, Gavin Newsom face off in unusual debate**
 
-You can read more about it [here](https://www.timesofisrael.com/blinken-said-to-warn-war-cabinet-it-may-not-have-months-to-topple-hamas/).
+You can read more about it [here](https://www.cbsnews.com/news/ron-desantis-gavin-newsom-debate-today/).
 
 ## Requirements
 - Python 3.8
