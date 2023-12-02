@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701521292)
+![Generated GIF](output.gif?raw=true&v=1701522478)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shares rally as investor confidence in Fed cuts grows**
+**How alleged India plots to kill Sikh separatists in the US and Canada unfolded**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-01/).
+You can read more about it [here](https://www.reuters.com/world/how-alleged-india-plots-kill-sikh-separatists-us-canada-unfolded-2023-12-01/).
 
 ## Requirements
 - Python 3.8
