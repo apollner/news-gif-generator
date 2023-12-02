@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701477100)
+![Generated GIF](output.gif?raw=true&v=1701480974)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Supports Beyoncé at ‘Renaissance’ Documentary Concert Film Premiere in London**
+**Aurora may be visible this week in Massachusetts as solar storms impact Earth**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/taylor-swift-attends-beyonce-renaissance-film-london-premiere-1234906237/).
+You can read more about it [here](https://www.wcvb.com/article/aurora-solar-flare-massachusetts-november-30-2023/45989019).
 
 ## Requirements
 - Python 3.8
