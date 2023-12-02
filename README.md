@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701484621)
+![Generated GIF](output.gif?raw=true&v=1701486558)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'A living nightmare': Palestinian-American student injured in Vermont shooting breaks silence**
+**Tiny living robots made from human cells surprise scientists**
 
-You can read more about it [here](https://abcnews.go.com/US/living-nightmare-palestinian-american-student-injured-vermont-shooting/story?id=105268897).
+You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
 
 ## Requirements
 - Python 3.8
