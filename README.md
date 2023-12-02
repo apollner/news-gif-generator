@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701554724)
+![Generated GIF](output.gif?raw=true&v=1701556428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jussie Smollett, former ‘Empire’ star, has lost his appeal in court**
+**Gerry Turner and Theresa Nist talk ‘Golden Bachelor’ finale**
 
-You can read more about it [here](https://www.cnn.com/us/jussie-smollett-loses-court-appeal/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=adzWbW-fcLA).
 
 ## Requirements
 - Python 3.8
