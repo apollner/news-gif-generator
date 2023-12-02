@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701483593)
+![Generated GIF](output.gif?raw=true&v=1701484621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Palace considering all options after King Charles and Kate named in Archie 'skin colour' row**
+**'A living nightmare': Palestinian-American student injured in Vermont shooting breaks silence**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qUaK9rY5_ws).
+You can read more about it [here](https://abcnews.go.com/US/living-nightmare-palestinian-american-student-injured-vermont-shooting/story?id=105268897).
 
 ## Requirements
 - Python 3.8
