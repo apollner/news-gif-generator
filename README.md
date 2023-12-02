@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701488083)
+![Generated GIF](output.gif?raw=true&v=1701490170)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ulta Beauty shares pop as sales climb 6%**
+**Trump gag order reinstated in New York civil fraud trial**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/30/ulta-beauty-ulta-q3-2023-earnings.html).
+You can read more about it [here](https://apnews.com/article/trump-fraud-lawsuit-trial-gag-order-15304270ea3f61284a414f938155ae62).
 
 ## Requirements
 - Python 3.8
