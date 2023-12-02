@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701486558)
+![Generated GIF](output.gif?raw=true&v=1701488083)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tiny living robots made from human cells surprise scientists**
+**Ulta Beauty shares pop as sales climb 6%**
 
-You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/30/ulta-beauty-ulta-q3-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
