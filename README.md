@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701549215)
+![Generated GIF](output.gif?raw=true&v=1701551114)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Officials warn Hoosiers of ‘unusual’ dog illness seen across Indiana**
+**Shohei Ohtani Rumors: Dodgers, Cubs Among Top Suitors; Red Sox, Mets Out on Star FA**
 
-You can read more about it [here](https://www.wane.com/top-stories/officials-warn-hoosiers-of-unusual-dog-illness-seen-across-indiana/).
+You can read more about it [here](https://bleacherreport.com/articles/10099390-shohei-ohtani-rumors-dodgers-cubs-among-top-suitors-red-sox-mets-out-on-star-fa).
 
 ## Requirements
 - Python 3.8
