@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701545651)
+![Generated GIF](output.gif?raw=true&v=1701547647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Neptune-sized exoplanet is too big for its host star**
+**DeSantis calls for resignation of embattled Florida GOP chairman**
 
-You can read more about it [here](https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/01/desantis-resignation-christian-ziegler-florida/).
 
 ## Requirements
 - Python 3.8
