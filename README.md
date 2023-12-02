@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701522478)
+![Generated GIF](output.gif?raw=true&v=1701524025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How alleged India plots to kill Sikh separatists in the US and Canada unfolded**
+**BBC Names Royals Accused In Omid Scobie Book Of Commenting On Skin Color Of Harry & Meghan’s Son**
 
-You can read more about it [here](https://www.reuters.com/world/how-alleged-india-plots-kill-sikh-separatists-us-canada-unfolded-2023-12-01/).
+You can read more about it [here](https://deadline.com/2023/12/bbc-names-royals-accused-omid-scobie-harry-meghan-skin-color-1235647554/).
 
 ## Requirements
 - Python 3.8
