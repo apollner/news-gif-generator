@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701497525)
+![Generated GIF](output.gif?raw=true&v=1701498902)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google researchers report critical zero-days in Chrome and all Apple OSes**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
