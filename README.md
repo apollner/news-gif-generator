@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701480974)
+![Generated GIF](output.gif?raw=true&v=1701483593)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aurora may be visible this week in Massachusetts as solar storms impact Earth**
+**Palace considering all options after King Charles and Kate named in Archie 'skin colour' row**
 
-You can read more about it [here](https://www.wcvb.com/article/aurora-solar-flare-massachusetts-november-30-2023/45989019).
+You can read more about it [here](https://www.youtube.com/watch?v=qUaK9rY5_ws).
 
 ## Requirements
 - Python 3.8
