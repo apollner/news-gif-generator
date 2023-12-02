@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701543882)
+![Generated GIF](output.gif?raw=true&v=1701545651)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pfizer drops plan for twice-daily obesity pill due to side effects**
+**Neptune-sized exoplanet is too big for its host star**
 
-You can read more about it [here](https://www.ft.com/content/510f64c0-75d6-4d69-b59a-a8d196a29a7e).
+You can read more about it [here](https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/).
 
 ## Requirements
 - Python 3.8
