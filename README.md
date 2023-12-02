@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701552839)
+![Generated GIF](output.gif?raw=true&v=1701554724)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 Palestinian students shot in Vermont face pain and uncertain futures**
+**Jussie Smollett, former ‘Empire’ star, has lost his appeal in court**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/01/palestinian-students-shot-burlington-vermont/).
+You can read more about it [here](https://www.cnn.com/us/jussie-smollett-loses-court-appeal/index.html).
 
 ## Requirements
 - Python 3.8
