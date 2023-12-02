@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701556428)
+![Generated GIF](output.gif?raw=true&v=1701558368)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gerry Turner and Theresa Nist talk ‘Golden Bachelor’ finale**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=adzWbW-fcLA).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
