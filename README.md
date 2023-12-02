@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701529524)
+![Generated GIF](output.gif?raw=true&v=1701531236)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
+**Red vs Blue State Debate highlights: Top 5 moments from the DeSantis, Newsom slugfest**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
+You can read more about it [here](https://www.foxnews.com/politics/red-vs-blue-state-debate-highlights-top-5-moments-desantis-newsom-slugfest).
 
 ## Requirements
 - Python 3.8
