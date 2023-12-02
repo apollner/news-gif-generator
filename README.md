@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701551114)
+![Generated GIF](output.gif?raw=true&v=1701552839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shohei Ohtani Rumors: Dodgers, Cubs Among Top Suitors; Red Sox, Mets Out on Star FA**
+**3 Palestinian students shot in Vermont face pain and uncertain futures**
 
-You can read more about it [here](https://bleacherreport.com/articles/10099390-shohei-ohtani-rumors-dodgers-cubs-among-top-suitors-red-sox-mets-out-on-star-fa).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/01/palestinian-students-shot-burlington-vermont/).
 
 ## Requirements
 - Python 3.8
