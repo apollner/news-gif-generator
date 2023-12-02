@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701506021)
+![Generated GIF](output.gif?raw=true&v=1701508014)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Piers Morgan Says Kate Middleton, King Charles Named for Alleged Skin Color Comments to Harry, Meghan - E! Online**
+**Tesla Cybertruck Delivery Event Live: Price, Range, Specs**
 
-You can read more about it [here](https://www.eonline.com/news/1390683/piers-morgan-says-kate-middleton-king-charles-named-for-alleged-skin-color-comments-to-harry-meghan).
+You can read more about it [here](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/).
 
 ## Requirements
 - Python 3.8
