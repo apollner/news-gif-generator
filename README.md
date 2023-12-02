@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701502413)
+![Generated GIF](output.gif?raw=true&v=1701504584)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LeBron says Bronny's USC debut to take precedence over Lakers game**
+**‘Golden Bachelor’: Gerry Turner and Fiancée to Marry in Wedding Ceremony Airing Live on ABC**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39018418/lebron-says-bronny-usc-debut-take-precedence-lakers-game).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/golden-bachelor-gerry-turner-theresa-nist-finale-marry-abc-wedding-1235705337/).
 
 ## Requirements
 - Python 3.8
