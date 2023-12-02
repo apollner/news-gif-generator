@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701536692)
+![Generated GIF](output.gif?raw=true&v=1701538414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OPEC+ members agree to significant voluntary oil production cuts**
+**Zelenskyy says 'new phase of war' has begun, Hungary to back EU 'strategic partnership'**
 
-You can read more about it [here](https://www.cnn.com/2023/11/30/energy/saudi-arabia-extend-production-cut-opec/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/01/russia-ukraine-war-updates-for-decpoint1-2023.html).
 
 ## Requirements
 - Python 3.8
