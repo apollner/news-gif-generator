@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701511590)
+![Generated GIF](output.gif?raw=true&v=1701513344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Governors Ron DeSantis, Gavin Newsom face off in unusual debate**
+**‘The Golden Bachelor’ Finale: Gerry Turner Proposes to [SPOILER] After Runner-Up Accuses Him of Lying to Her**
 
-You can read more about it [here](https://www.cbsnews.com/news/ron-desantis-gavin-newsom-debate-today/).
+You can read more about it [here](https://variety.com/2023/tv/news/the-golden-bachelor-finale-gerry-turner-engaged-theresa-leslie-1235815354/).
 
 ## Requirements
 - Python 3.8
