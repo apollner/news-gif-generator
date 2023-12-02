@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701531236)
+![Generated GIF](output.gif?raw=true&v=1701533328)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Red vs Blue State Debate highlights: Top 5 moments from the DeSantis, Newsom slugfest**
+**Live updates: Israel-Hamas war, truce in Gaza expires, combat operations resumed**
 
-You can read more about it [here](https://www.foxnews.com/politics/red-vs-blue-state-debate-highlights-top-5-moments-desantis-newsom-slugfest).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-1-23/index.html).
 
 ## Requirements
 - Python 3.8
