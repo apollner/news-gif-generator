@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701508014)
+![Generated GIF](output.gif?raw=true&v=1701509612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla Cybertruck Delivery Event Live: Price, Range, Specs**
+**Blinken said to warn war cabinet Israel may not have months to topple Hamas**
 
-You can read more about it [here](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/).
+You can read more about it [here](https://www.timesofisrael.com/blinken-said-to-warn-war-cabinet-it-may-not-have-months-to-topple-hamas/).
 
 ## Requirements
 - Python 3.8
