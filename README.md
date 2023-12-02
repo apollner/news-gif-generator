@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701525925)
+![Generated GIF](output.gif?raw=true&v=1701527758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Social media posts Trump claimed were made by judge's wife were not made by her, court says**
+**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-judge-engoron-wife-did-not-make-social-media-posts/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
 
 ## Requirements
 - Python 3.8
