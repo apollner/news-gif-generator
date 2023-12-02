@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701513344)
+![Generated GIF](output.gif?raw=true&v=1701515129)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Golden Bachelor’ Finale: Gerry Turner Proposes to [SPOILER] After Runner-Up Accuses Him of Lying to Her**
+**Tesla Cybertruck Delivery Event Live: Price, Range, Specs**
 
-You can read more about it [here](https://variety.com/2023/tv/news/the-golden-bachelor-finale-gerry-turner-engaged-theresa-leslie-1235815354/).
+You can read more about it [here](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/).
 
 ## Requirements
 - Python 3.8
