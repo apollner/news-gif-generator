@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701473628)
+![Generated GIF](output.gif?raw=true&v=1701477100)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thursday Night Football odds, line, spread: Cowboys vs. Seahawks picks, NFL predictions by expert on 20-5 roll**
+**Taylor Swift Supports Beyoncé at ‘Renaissance’ Documentary Concert Film Premiere in London**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/thursday-night-football-odds-line-spread-cowboys-vs-seahawks-picks-nfl-predictions-by-expert-on-20-5-roll/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/taylor-swift-attends-beyonce-renaissance-film-london-premiere-1234906237/).
 
 ## Requirements
 - Python 3.8
