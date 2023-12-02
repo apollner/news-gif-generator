@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701491652)
+![Generated GIF](output.gif?raw=true&v=1701493623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chances of another Gaza ceasefire extension unclear after Hamas frees 8 more hostages**
+**Taylor Swift Returns Favor, Shows Up For Premiere Of Beyoncé’s ‘Renaissance’ In London**
 
-You can read more about it [here](https://www.axios.com/2023/11/30/hamas-hostage-release-gaza-ceasefire-seventh-day).
+You can read more about it [here](https://deadline.com/2023/11/taylor-swift-premiere-beyonce-renaissance-1235646564/).
 
 ## Requirements
 - Python 3.8
