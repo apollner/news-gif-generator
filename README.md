@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701495276)
+![Generated GIF](output.gif?raw=true&v=1701497525)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See what Taylor Swift and more wore for Beyonce's 'Renaissance' London premiere**
+**Google researchers report critical zero-days in Chrome and all Apple OSes**
 
-You can read more about it [here](https://www.goodmorningamerica.com/style/story/taylor-swift-blake-lively-stars-wore-beyonces-renaissance-105279084).
+You can read more about it [here](https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/).
 
 ## Requirements
 - Python 3.8
