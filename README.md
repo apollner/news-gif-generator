@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701605574)
+![Generated GIF](output.gif?raw=true&v=1701607642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Saturday, Dec. 2, 2023**
+**Texas must remove floating Rio Grande border barrier, federal appeals court rules**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/12/2/23983253/horoscopes-today-saturday-dec-2-2023).
+You can read more about it [here](https://www.cbsnews.com/news/rio-grande-floating-border-barrier-appeals-court-orders-removal-texas/).
 
 ## Requirements
 - Python 3.8
