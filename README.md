@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701619750)
+![Generated GIF](output.gif?raw=true&v=1701621408)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**KU outlasts UConn in top-five battle**
+**Ahead Of The ‘GTA 6’ Trailer, What The First ‘GTA 5’ Trailer Kept Hidden**
 
-You can read more about it [here](https://www2.kusports.com/sports/2023/dec/01/quick-recap-ku-outlasts-uconn-in-top-five-battle/).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/12/02/ahead-of-the-gta-6-trailer-what-the-first-gta-5-trailer-kept-hidden/).
 
 ## Requirements
 - Python 3.8
