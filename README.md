@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701579991)
+![Generated GIF](output.gif?raw=true&v=1701581620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump lawyers say Georgia charges violate ‘free speech’ and that he can’t be tried while president**
+**DeSantis-Newsom Fox debate draws almost 5 million viewers - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-lawyers-say-georgia-charges-violate-free-speech-and-that-he-cant-be-tried-while-president/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/01/desantis-newsom-debate-views-00129725).
 
 ## Requirements
 - Python 3.8
