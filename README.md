@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701560158)
+![Generated GIF](output.gif?raw=true&v=1701563677)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**In ‘Godzilla Minus One,’ the ghost of WWII looms just as large as the giant radioactive lizard**
+**Dow Jones Bucks Hawkish Powell, Yields Plunge; Tesla Falls As Analysts Raise Production Questions**
 
-You can read more about it [here](https://www.cnn.com/2023/12/01/entertainment/godzilla-minus-one-review/index.html).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-bucks-hawkish-powell-yields-plunge-tesla-falls/).
 
 ## Requirements
 - Python 3.8
