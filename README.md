@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701608949)
+![Generated GIF](output.gif?raw=true&v=1701610415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Reports of mysterious, deadly dog disease now surfacing across Western Washington**
+**Munich flights, long-distance trains cancelled due to snow**
 
-You can read more about it [here](https://www.kiro7.com/news/local/reports-mysterious-deadly-dog-disease-now-surfacing-across-western-washington/D5SLRP6I6RBORBOJEIFYIMD2HA/).
+You can read more about it [here](https://www.reuters.com/world/europe/munich-flights-long-distance-trains-cancelled-due-snow-2023-12-02/).
 
 ## Requirements
 - Python 3.8
