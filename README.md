@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701637680)
+![Generated GIF](output.gif?raw=true&v=1701639225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla Cybertruck DRAG RACE**
+**Harris says US will ‘under no circumstances’ permit forced relocation of Palestinians**
 
-You can read more about it [here](https://www.youtube.com/watch?v=D1v0FNR3-Xc).
+You can read more about it [here](https://www.cnn.com/2023/12/02/politics/harris-cop28-israel-gaza/index.html).
 
 ## Requirements
 - Python 3.8
