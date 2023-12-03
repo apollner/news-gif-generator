@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701578050)
+![Generated GIF](output.gif?raw=true&v=1701579991)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio "white lung" pneumonia cases not linked to China outbreak or novel pathogen, experts say**
+**Trump lawyers say Georgia charges violate ‘free speech’ and that he can’t be tried while president**
 
-You can read more about it [here](https://www.cbsnews.com/news/ohio-white-lung-pneumonia-not-linked-to-china-outbreak-novel-pathogen-experts/).
+You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-lawyers-say-georgia-charges-violate-free-speech-and-that-he-cant-be-tried-while-president/index.html).
 
 ## Requirements
 - Python 3.8
