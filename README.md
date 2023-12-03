@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701617618)
+![Generated GIF](output.gif?raw=true&v=1701619750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Buie's big night drives Northwestern past No. 1 Purdue again**
+**KU outlasts UConn in top-five battle**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39024284/buie-big-night-propels-northwestern-no-1-purdue-again).
+You can read more about it [here](https://www2.kusports.com/sports/2023/dec/01/quick-recap-ku-outlasts-uconn-in-top-five-battle/).
 
 ## Requirements
 - Python 3.8
