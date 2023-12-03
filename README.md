@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701621408)
+![Generated GIF](output.gif?raw=true&v=1701623116)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ahead Of The ‘GTA 6’ Trailer, What The First ‘GTA 5’ Trailer Kept Hidden**
+**China's respiratory illness rise due to known pathogens, official says**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/12/02/ahead-of-the-gta-6-trailer-what-the-first-gta-5-trailer-kept-hidden/).
+You can read more about it [here](https://www.reuters.com/world/china/no-new-infectious-diseases-found-investigations-chinas-national-health-2023-12-02/).
 
 ## Requirements
 - Python 3.8
