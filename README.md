@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701587141)
+![Generated GIF](output.gif?raw=true&v=1701588887)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Halo Infinite riffs on Rockstar's GTA 6 trailer announcement, teasing new reveal**
+**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
 
-You can read more about it [here](https://www.eurogamer.net/halo-infinite-riffs-on-rockstars-gta-6-trailer-announcement-teasing-new-reveal).
+You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
 
 ## Requirements
 - Python 3.8
