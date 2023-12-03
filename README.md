@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701571292)
+![Generated GIF](output.gif?raw=true&v=1701572981)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Authorities respond to Atlanta building that houses Israeli Consulate General, several injured**
+**'Home Alone' actor Macaulay Culkin honored with star on Hollywood Walk of Fame**
 
-You can read more about it [here](https://www.foxnews.com/us/authorities-respond-atlanta-building-houses-israeli-consulate-general-several-injured).
+You can read more about it [here](https://abc7.com/macaulay-culkin-home-alone-hollywood-star-walk-of-fame/14129187/).
 
 ## Requirements
 - Python 3.8
