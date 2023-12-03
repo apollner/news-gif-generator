@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701585233)
+![Generated GIF](output.gif?raw=true&v=1701587141)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oregon Ducks vs. Washington Huskies 1ST HALF HIGHLIGHTS | ESPN College Football**
+**Halo Infinite riffs on Rockstar's GTA 6 trailer announcement, teasing new reveal**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ksZpXQNkfOc).
+You can read more about it [here](https://www.eurogamer.net/halo-infinite-riffs-on-rockstars-gta-6-trailer-announcement-teasing-new-reveal).
 
 ## Requirements
 - Python 3.8
