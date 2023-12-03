@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701607642)
+![Generated GIF](output.gif?raw=true&v=1701608949)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas must remove floating Rio Grande border barrier, federal appeals court rules**
+**Reports of mysterious, deadly dog disease now surfacing across Western Washington**
 
-You can read more about it [here](https://www.cbsnews.com/news/rio-grande-floating-border-barrier-appeals-court-orders-removal-texas/).
+You can read more about it [here](https://www.kiro7.com/news/local/reports-mysterious-deadly-dog-disease-now-surfacing-across-western-washington/D5SLRP6I6RBORBOJEIFYIMD2HA/).
 
 ## Requirements
 - Python 3.8
