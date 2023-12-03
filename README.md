@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701572981)
+![Generated GIF](output.gif?raw=true&v=1701574464)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Home Alone' actor Macaulay Culkin honored with star on Hollywood Walk of Fame**
+**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
 
-You can read more about it [here](https://abc7.com/macaulay-culkin-home-alone-hollywood-star-walk-of-fame/14129187/).
+You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
 
 ## Requirements
 - Python 3.8
