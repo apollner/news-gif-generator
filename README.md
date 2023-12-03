@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701583850)
+![Generated GIF](output.gif?raw=true&v=1701585233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Week 13: DFS building blocks, values and a star to fade**
+**Oregon Ducks vs. Washington Huskies 1ST HALF HIGHLIGHTS | ESPN College Football**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-13-dfs-building-blocks-values-and-a-star-to-fade-204415916.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ksZpXQNkfOc).
 
 ## Requirements
 - Python 3.8
