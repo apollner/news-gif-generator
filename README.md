@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701588887)
+![Generated GIF](output.gif?raw=true&v=1701591008)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
+**Reports of mysterious, deadly dog disease now surfacing across Western Washington**
 
-You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
+You can read more about it [here](https://www.kiro7.com/news/local/reports-mysterious-deadly-dog-disease-now-surfacing-across-western-washington/D5SLRP6I6RBORBOJEIFYIMD2HA/).
 
 ## Requirements
 - Python 3.8
