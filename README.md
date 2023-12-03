@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701574464)
+![Generated GIF](output.gif?raw=true&v=1701576621)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
+**How to watch Oregon vs. Washington: TV channel, live stream, Pac-12 Championship Game kickoff time, pick**
 
-You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
+You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-oregon-vs-washington-tv-channel-live-stream-pac-12-championship-game-kickoff-time-pick/).
 
 ## Requirements
 - Python 3.8
