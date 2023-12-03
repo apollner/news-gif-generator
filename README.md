@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701563677)
+![Generated GIF](output.gif?raw=true&v=1701568413)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dow Jones Bucks Hawkish Powell, Yields Plunge; Tesla Falls As Analysts Raise Production Questions**
+**Authorities respond to Atlanta building that houses Israeli Consulate General, several injured**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-bucks-hawkish-powell-yields-plunge-tesla-falls/).
+You can read more about it [here](https://www.foxnews.com/us/authorities-respond-atlanta-building-houses-israeli-consulate-general-several-injured).
 
 ## Requirements
 - Python 3.8
