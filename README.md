@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701581620)
+![Generated GIF](output.gif?raw=true&v=1701583850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis-Newsom Fox debate draws almost 5 million viewers - POLITICO**
+**Fantasy Football Week 13: DFS building blocks, values and a star to fade**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/01/desantis-newsom-debate-views-00129725).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-13-dfs-building-blocks-values-and-a-star-to-fade-204415916.html).
 
 ## Requirements
 - Python 3.8
