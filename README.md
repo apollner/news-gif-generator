@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701599619)
+![Generated GIF](output.gif?raw=true&v=1701601499)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP tensions run high after House vote to expel George Santos**
+**Court records detail woman's rape allegations against Florida GOP Chair Christian Ziegler**
 
-You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
+You can read more about it [here](https://www.abcactionnews.com/news/region-sarasota-manatee/court-records-detail-womans-rape-allegations-against-florida-gop-chair-christian-ziegler).
 
 ## Requirements
 - Python 3.8
