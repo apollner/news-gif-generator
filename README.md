@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701576621)
+![Generated GIF](output.gif?raw=true&v=1701578050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch Oregon vs. Washington: TV channel, live stream, Pac-12 Championship Game kickoff time, pick**
+**Ohio "white lung" pneumonia cases not linked to China outbreak or novel pathogen, experts say**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-oregon-vs-washington-tv-channel-live-stream-pac-12-championship-game-kickoff-time-pick/).
+You can read more about it [here](https://www.cbsnews.com/news/ohio-white-lung-pneumonia-not-linked-to-china-outbreak-novel-pathogen-experts/).
 
 ## Requirements
 - Python 3.8
