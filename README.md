@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701570355)
+![Generated GIF](output.gif?raw=true&v=1701571292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Report: Giants' Ohtani status ‘unknown' as other suitors move on**
+**Authorities respond to Atlanta building that houses Israeli Consulate General, several injured**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/mlb/san-francisco-giants/shohei-ohtani-mlb-rumors-suitors/1677282/).
+You can read more about it [here](https://www.foxnews.com/us/authorities-respond-atlanta-building-houses-israeli-consulate-general-several-injured).
 
 ## Requirements
 - Python 3.8
