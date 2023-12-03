@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701644791)
+![Generated GIF](output.gif?raw=true&v=1701646486)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DeSantis ups attacks on Newsom post debate: ‘So many bold-faced lies’**
+**Northern Lights paint Colorado skies as solar storm sparks unusual showing of atmospheric phenomena**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4339177-desantis-ups-attacks-on-newsom-post-debate/).
+You can read more about it [here](https://www.denver7.com/news/local-news/northern-lights-paint-colorado-skies-as-solar-storm-sparks-unusual-showing-of-atmospheric-phenomena).
 
 ## Requirements
 - Python 3.8
