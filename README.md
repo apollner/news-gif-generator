@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701686376)
+![Generated GIF](output.gif?raw=true&v=1701687949)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emma Stone Joins SNL's Five-Timers Club With Tina Fey and Candice Bergen**
+**Israel targets southern Gaza with airstrikes after cease-fire with Hamas collapses**
 
-You can read more about it [here](https://www.thedailybeast.com/emma-stone-joins-snls-five-timers-club-with-tina-fey-and-candice-bergen).
+You can read more about it [here](https://www.foxnews.com/live-news/december-2-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
