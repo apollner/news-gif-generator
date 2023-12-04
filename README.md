@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701698909)
+![Generated GIF](output.gif?raw=true&v=1701700617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Robot chemist could create oxygen needed for colonizing Mars: study**
+**'Plain historical falsehoods': How amicus briefs bolstered Supreme Court conservatives**
 
-You can read more about it [here](https://www.foxnews.com/us/robot-chemist-could-create-oxygen-needed-colonizing-mars-study).
+You can read more about it [here](https://www.politico.com/news/2023/12/03/supreme-court-amicus-briefs-leonard-leo-00127497).
 
 ## Requirements
 - Python 3.8
