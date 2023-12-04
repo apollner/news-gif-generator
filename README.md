@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701675274)
+![Generated GIF](output.gif?raw=true&v=1701677550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here’s The Exact Time ‘Fortnite’ Servers Go Down And Chapter 5, Season 1 Begins**
+**Billie Eilish on Her New Upcoming Album and Opens Up About 'Coming Out' at Variety's Hitmakers**
 
-You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/12/02/heres-the-exact-time-fortnite-servers-go-down-and-chapter-5-season-1-begins/).
+You can read more about it [here](https://www.youtube.com/watch?v=cff-ij1Mf64).
 
 ## Requirements
 - Python 3.8
