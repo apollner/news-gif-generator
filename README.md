@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701713491)
+![Generated GIF](output.gif?raw=true&v=1701714956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL early slate: Broncos vs. Texans score, highlights, news, inactives and live updates**
+**Three reasons a strong Black Friday weekend may not mean a blowout holiday season for retailers**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-broncos-vs-texans-score-highlights-news-inactives-and-live-updates-163045196.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/03/what-strong-black-friday-retail-sales-mean-for-holiday-spending.html).
 
 ## Requirements
 - Python 3.8
