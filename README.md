@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701670344)
+![Generated GIF](output.gif?raw=true&v=1701671845)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan vs. Iowa score: Wolverines push for top spot in College Football Playoff with Big Ten title shutout**
+**‘Renaissance: A Film By Beyoncé’ Gets Special Rules For AMC Ticket-Buyers, Backlash Ensues**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-iowa-score-wolverines-push-for-top-spot-in-college-football-playoff-with-big-ten-title-shutout/live/).
+You can read more about it [here](https://deadline.com/2023/12/renaissance-a-film-by-beyonce-gets-special-rules-for-amc-1235649712/).
 
 ## Requirements
 - Python 3.8
