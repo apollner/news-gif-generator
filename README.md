@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701727720)
+![Generated GIF](output.gif?raw=true&v=1701729277)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fortnite Battle Pass Chapter 5 Season 1 - All Skins, Emotes, And Rewards**
+**1 of the 3 Palestinian students shot in Vermont is paralyzed from the shooting, his mother says**
 
-You can read more about it [here](https://www.gamespot.com/gallery/fortnite-battle-pass-chapter-5-season-1-all-skins-emotes-and-rewards/2900-4969/).
+You can read more about it [here](https://www.cnn.com/2023/12/03/us/palestinian-student-shooting-vermont-paralyzed/index.html).
 
 ## Requirements
 - Python 3.8
