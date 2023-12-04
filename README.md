@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701687949)
+![Generated GIF](output.gif?raw=true&v=1701689630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel targets southern Gaza with airstrikes after cease-fire with Hamas collapses**
+**Grand Theft Auto 6 Leaks May Have Just Come From a Rockstar Employee’s Son**
 
-You can read more about it [here](https://www.foxnews.com/live-news/december-2-israel-hamas-war).
+You can read more about it [here](https://www.ign.com/articles/grand-theft-auto-6-leaks-may-have-just-come-from-a-rockstar-employees-son).
 
 ## Requirements
 - Python 3.8
