@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701704086)
+![Generated GIF](output.gif?raw=true&v=1701706210)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is white lung syndrome? Signs, symptoms and preventive measures of illness**
+**No. 14 UofL falls 16-6 to No. 4 Florida State in ACC Championship game**
 
-You can read more about it [here](https://www.hindustantimes.com/lifestyle/health/what-is-white-lung-syndrome-signs-symptoms-and-preventive-measures-of-mystery-pneumonia-101701606304045.html).
+You can read more about it [here](https://www.wlky.com/article/louisville-cardinals-lose-acc-championship-florida-state/46018247).
 
 ## Requirements
 - Python 3.8
