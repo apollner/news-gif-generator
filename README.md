@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701706210)
+![Generated GIF](output.gif?raw=true&v=1701707944)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No. 14 UofL falls 16-6 to No. 4 Florida State in ACC Championship game**
+**Sandra Day O'Connor: Supreme Court's right turn has eroded her impact**
 
-You can read more about it [here](https://www.wlky.com/article/louisville-cardinals-lose-acc-championship-florida-state/46018247).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/02/sandra-day-oconnor-supreme-courts-legacy-grutter-casey/71768837007/).
 
 ## Requirements
 - Python 3.8
