@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701709612)
+![Generated GIF](output.gif?raw=true&v=1701711228)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fortnite Chapter 5: Underground adds Peter Griffin, Lego, and a new island**
+**College Football Playoff preview -- Michigan vs. Alabama, Washington vs. Texas**
 
-You can read more about it [here](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39026589/college-football-playoff-semifinals-preview-michigan-alabama-washington-texas).
 
 ## Requirements
 - Python 3.8
