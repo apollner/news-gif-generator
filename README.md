@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701700617)
+![Generated GIF](output.gif?raw=true&v=1701702679)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Plain historical falsehoods': How amicus briefs bolstered Supreme Court conservatives**
+**College Football Playoff: Someone is going to be angry**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/03/supreme-court-amicus-briefs-leonard-leo-00127497).
+You can read more about it [here](https://sports.yahoo.com/college-football-playoff-someone-is-going-to-be-angry-050918717.html).
 
 ## Requirements
 - Python 3.8
