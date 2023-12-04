@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701714956)
+![Generated GIF](output.gif?raw=true&v=1701716737)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Three reasons a strong Black Friday weekend may not mean a blowout holiday season for retailers**
+**The Pentagon says a US warship and multiple commercial ships have come under attack in the Red Sea**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/03/what-strong-black-friday-retail-sales-mean-for-holiday-spending.html).
+You can read more about it [here](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde).
 
 ## Requirements
 - Python 3.8
