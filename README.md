@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701656710)
+![Generated GIF](output.gif?raw=true&v=1701657737)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Ex-gang member charged with stabbing Derek Chauvin on Black Friday**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/news/2023/12/02/ex-gang-member-charged-with-stabbing-derek-chauvin-on-black-friday/71782410007/).
 
 ## Requirements
 - Python 3.8
