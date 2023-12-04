@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701725623)
+![Generated GIF](output.gif?raw=true&v=1701727720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Undefeated Florida State left out of College Football Playoff**
+**Fortnite Battle Pass Chapter 5 Season 1 - All Skins, Emotes, And Rewards**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39034100/undefeated-florida-state-left-college-football-playoff).
+You can read more about it [here](https://www.gamespot.com/gallery/fortnite-battle-pass-chapter-5-season-1-all-skins-emotes-and-rewards/2900-4969/).
 
 ## Requirements
 - Python 3.8
