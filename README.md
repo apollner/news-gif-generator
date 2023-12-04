@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701663015)
+![Generated GIF](output.gif?raw=true&v=1701664538)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC Fight Night: Dariush vs Tsarukyan Results | Winner Interviews, Highlights And More From Austin**
+**GTA 6 TikTok leak "has come from the son of a Rockstar Games employee"**
 
-You can read more about it [here](https://www.ufc.com/news/ufc-fight-night-dariush-vs-tsarukyan-results-highlights-interviews-ufc-austin).
+You can read more about it [here](https://www.eurogamer.net/gta-6-tiktok-leak-has-come-from-the-son-of-a-rockstar-games-employee).
 
 ## Requirements
 - Python 3.8
