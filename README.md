@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701723982)
+![Generated GIF](output.gif?raw=true&v=1701725623)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Undefeated Florida State left out of College Football Playoff**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39034100/undefeated-florida-state-left-college-football-playoff).
 
 ## Requirements
 - Python 3.8
