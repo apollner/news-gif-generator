@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701707944)
+![Generated GIF](output.gif?raw=true&v=1701709612)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sandra Day O'Connor: Supreme Court's right turn has eroded her impact**
+**Fortnite Chapter 5: Underground adds Peter Griffin, Lego, and a new island**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/02/sandra-day-oconnor-supreme-courts-legacy-grutter-casey/71768837007/).
+You can read more about it [here](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy).
 
 ## Requirements
 - Python 3.8
