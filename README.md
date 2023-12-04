@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701657737)
+![Generated GIF](output.gif?raw=true&v=1701659365)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-gang member charged with stabbing Derek Chauvin on Black Friday**
+**Kamala Harris issues sharp rebuke of Israel for Gaza loss of life**
 
-You can read more about it [here](https://www.usatoday.com/story/news/2023/12/02/ex-gang-member-charged-with-stabbing-derek-chauvin-on-black-friday/71782410007/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/02/kamala-harris-rebuke-israel-gaza-killings/71783397007/).
 
 ## Requirements
 - Python 3.8
