@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701660872)
+![Generated GIF](output.gif?raw=true&v=1701663015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ex-Rep. George Santos Goes Out With Social Media Guns Blazing, Vows To File Complaints Against Others**
+**UFC Fight Night: Dariush vs Tsarukyan Results | Winner Interviews, Highlights And More From Austin**
 
-You can read more about it [here](https://deadline.com/2023/12/george-santos-vows-file-complaints-against-others-1235649662/).
+You can read more about it [here](https://www.ufc.com/news/ufc-fight-night-dariush-vs-tsarukyan-results-highlights-interviews-ufc-austin).
 
 ## Requirements
 - Python 3.8
