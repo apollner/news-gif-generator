@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701702679)
+![Generated GIF](output.gif?raw=true&v=1701704086)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff: Someone is going to be angry**
+**What is white lung syndrome? Signs, symptoms and preventive measures of illness**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-playoff-someone-is-going-to-be-angry-050918717.html).
+You can read more about it [here](https://www.hindustantimes.com/lifestyle/health/what-is-white-lung-syndrome-signs-symptoms-and-preventive-measures-of-mystery-pneumonia-101701606304045.html).
 
 ## Requirements
 - Python 3.8
