@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701666539)
+![Generated GIF](output.gif?raw=true&v=1701668029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billie Eilish on Coming Out: ‘I Didn’t Realize People Didn’t Know’**
+**Pentagon: US arms industry struggling to keep up with China**
 
-You can read more about it [here](https://variety.com/2023/music/news/billie-eilish-coming-out-hitmakers-1235818929/).
+You can read more about it [here](https://www.politico.com/news/2023/12/02/draft-pentagon-strategy-china-00129764).
 
 ## Requirements
 - Python 3.8
