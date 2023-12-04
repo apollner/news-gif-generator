@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701664538)
+![Generated GIF](output.gif?raw=true&v=1701666539)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GTA 6 TikTok leak "has come from the son of a Rockstar Games employee"**
+**Billie Eilish on Coming Out: ‘I Didn’t Realize People Didn’t Know’**
 
-You can read more about it [here](https://www.eurogamer.net/gta-6-tiktok-leak-has-come-from-the-son-of-a-rockstar-games-employee).
+You can read more about it [here](https://variety.com/2023/music/news/billie-eilish-coming-out-hitmakers-1235818929/).
 
 ## Requirements
 - Python 3.8
