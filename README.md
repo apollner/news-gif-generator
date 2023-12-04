@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701673727)
+![Generated GIF](output.gif?raw=true&v=1701675274)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pentagon: US arms industry struggling to keep up with China**
+**Here’s The Exact Time ‘Fortnite’ Servers Go Down And Chapter 5, Season 1 Begins**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/02/draft-pentagon-strategy-china-00129764).
+You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/12/02/heres-the-exact-time-fortnite-servers-go-down-and-chapter-5-season-1-begins/).
 
 ## Requirements
 - Python 3.8
