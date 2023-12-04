@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701694205)
+![Generated GIF](output.gif?raw=true&v=1701695497)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Philippines accuses China of swarming reef in South China Sea**
+**One dead, two injured in Paris knife and hammer attack near Eiffel Tower**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67605630).
+You can read more about it [here](https://www.cnn.com/2023/12/03/europe/paris-attack-eiffel-tower-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
