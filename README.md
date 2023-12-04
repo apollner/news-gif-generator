@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701711228)
+![Generated GIF](output.gif?raw=true&v=1701713491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff preview -- Michigan vs. Alabama, Washington vs. Texas**
+**NFL early slate: Broncos vs. Texans score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39026589/college-football-playoff-semifinals-preview-michigan-alabama-washington-texas).
+You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-broncos-vs-texans-score-highlights-news-inactives-and-live-updates-163045196.html).
 
 ## Requirements
 - Python 3.8
