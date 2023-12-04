@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701654619)
+![Generated GIF](output.gif?raw=true&v=1701656710)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese health officials call out western media's lack of 'common sense' on country's respiratory illness rise**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/world/chinese-health-officials-call-out-western-medias-lack-common-sense-countrys-respiratory-illness-rise).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
