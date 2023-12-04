@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701716737)
+![Generated GIF](output.gif?raw=true&v=1701720423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Pentagon says a US warship and multiple commercial ships have come under attack in the Red Sea**
+**Israeli forces reported to be pushing into southern Gaza**
 
-You can read more about it [here](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67607243).
 
 ## Requirements
 - Python 3.8
