@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701649966)
+![Generated GIF](output.gif?raw=true&v=1701654619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**France: 1 dead, 1 wounded in Paris stabbing**
+**Chinese health officials call out western media's lack of 'common sense' on country's respiratory illness rise**
 
-You can read more about it [here](https://www.dw.com/en/france-1-dead-2-injured-in-central-paris-attack/a-67617808).
+You can read more about it [here](https://www.foxnews.com/world/chinese-health-officials-call-out-western-medias-lack-common-sense-countrys-respiratory-illness-rise).
 
 ## Requirements
 - Python 3.8
