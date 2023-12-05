@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701749427)
+![Generated GIF](output.gif?raw=true&v=1701750972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spot Gold Rises to Record on Dovish Fed Remarks**
+**Florida State’s snub is one final grift for unfair four-team playoff**
 
-You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2023/12/03/florida-state-snubbed-cfp-unfair/).
 
 ## Requirements
 - Python 3.8
