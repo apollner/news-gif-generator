@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701814006)
+![Generated GIF](output.gif?raw=true&v=1701815664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Wonka’ Review: Timothée Chalamet Brings Charm And Musical Talent To Delightful Origin Story Of Roald Dahl’s Famous Candy Man**
+**US considering 'appropriate action' in response to Houthi missile attacks in Red Sea**
 
-You can read more about it [here](https://deadline.com/2023/12/wonka-review-timothee-chalamet-brings-charm-musical-talent-origin-story-roald-dahls-classic-1235650170/).
+You can read more about it [here](https://abcnews.go.com/Politics/us-action-response-houthi-missile-attacks-red-sea/story?id=105368413).
 
 ## Requirements
 - Python 3.8
