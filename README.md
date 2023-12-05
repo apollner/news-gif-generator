@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701732832)
+![Generated GIF](output.gif?raw=true&v=1701736376)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**6 planets found in synchronized orbit may help solve cosmic puzzle**
+**Beyoncé’s ‘Renaissance’ is No. 1 at the box office with $21 million debut**
 
-You can read more about it [here](https://www.ksl.com/article/50803554/6-planets-found-in-synchronized-orbit-may-help-solve-cosmic-puzzle).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/beyonces-renaissance-no-1-box-office-21-million-debut-rcna127800).
 
 ## Requirements
 - Python 3.8
