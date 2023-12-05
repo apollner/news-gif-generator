@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701796050)
+![Generated GIF](output.gif?raw=true&v=1701797633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NOT EVEN CLOSE Rex Ryan declares the 49ers the NFL's best team after win vs. Eagles | Get Up**
+**DJI Osmo Pocket 3 review: Maybe the only vlogging camera you need**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zfn3-2OK41g).
+You can read more about it [here](https://www.engadget.com/dji-osmo-pocket-3-review-maybe-the-only-vlogging-camera-you-need-163028145.html).
 
 ## Requirements
 - Python 3.8
