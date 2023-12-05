@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701767346)
+![Generated GIF](output.gif?raw=true&v=1701768818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**11 bodies recovered after volcanic eruption in Indonesia, and 12 climbers are still missing**
+**Florence Pugh Hit in Face by Object Thrown at ‘Dune: Part Two’ Panel**
 
-You can read more about it [here](https://apnews.com/article/indonesia-marapi-volcano-eruption-climbers-dead-16921eb03471c95069a28d34100dc7c2).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/florence-pugh-hit-face-object-thrown-dune-part-two-panel-1234908927/).
 
 ## Requirements
 - Python 3.8
