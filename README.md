@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701794466)
+![Generated GIF](output.gif?raw=true&v=1701796050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 commercial ships attacked in Red Sea; Houthis claim responsibility, citing Israel-Hamas war**
+**NOT EVEN CLOSE Rex Ryan declares the 49ers the NFL's best team after win vs. Eagles | Get Up**
 
-You can read more about it [here](https://abcnews.go.com/International/navy-warship-shoots-drones-red-sea-latest-incursion/story?id=105341414).
+You can read more about it [here](https://www.youtube.com/watch?v=zfn3-2OK41g).
 
 ## Requirements
 - Python 3.8
