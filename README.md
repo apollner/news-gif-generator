@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701776100)
+![Generated GIF](output.gif?raw=true&v=1701778414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Turmoil at pro-DeSantis super PAC overshadows Florida governor’s White House bid at critical moment**
+**India's ruling party wins 3 of 4 states in elections in a boost for prime minister**
 
-You can read more about it [here](https://www.cnn.com/2023/12/04/politics/desantis-super-pac-turmoil/index.html).
+You can read more about it [here](https://www.npr.org/2023/12/04/1216886824/india-ruling-party-wins-elections).
 
 ## Requirements
 - Python 3.8
