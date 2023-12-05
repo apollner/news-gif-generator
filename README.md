@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701780620)
+![Generated GIF](output.gif?raw=true&v=1701781984)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China accuses US of threatening peace after warship passes disputed reef**
+**11 bodies recovered after Indonesia volcanic eruption as 12 climbers remain missing**
 
-You can read more about it [here](https://www.scmp.com/news/china/military/article/3243709/chinas-military-says-us-combat-ship-illegally-entered-territorial-waters-south-china-sea).
+You can read more about it [here](https://www.npr.org/2023/12/04/1216888001/11-bodies-recovered-after-indonesia-volcanic-eruption-as-12-climbers-remain-miss).
 
 ## Requirements
 - Python 3.8
