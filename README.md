@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701756710)
+![Generated GIF](output.gif?raw=true&v=1701758198)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Navy warship responds to Red Sea attacks on commercial ships claimed by Houthi rebels**
+**'Renaissance: A Film by Beyoncé' tops box office on opening weekend**
 
-You can read more about it [here](https://www.axios.com/2023/12/03/red-sea-attacks-commercial-ships-us-navy-yemen-houthi-israel-gaza-war).
+You can read more about it [here](https://ew.com/renaissance-film-beyonce-tops-box-office-8410171).
 
 ## Requirements
 - Python 3.8
