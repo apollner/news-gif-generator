@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701799828)
+![Generated GIF](output.gif?raw=true&v=1701801284)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vanessa Hudgens Is Married To Cole Tucker**
+**Mexican woman, mother killed in shark attack, officials say**
 
-You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/vanessa-hudgens-cole-tucker-wedding).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/04/mexican-woman-killed-shark-attack-swimming-daughter/71798746007/).
 
 ## Requirements
 - Python 3.8
