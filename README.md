@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701747272)
+![Generated GIF](output.gif?raw=true&v=1701749427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war: Heavy bombardments reported in southern Gaza**
+**Spot Gold Rises to Record on Dovish Fed Remarks**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-03-2023-1b93089ec82d10ce89df802d51acc108).
+You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
 
 ## Requirements
 - Python 3.8
