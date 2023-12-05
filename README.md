@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701812034)
+![Generated GIF](output.gif?raw=true&v=1701814006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GTA VI: all the news on Rockstar's next entry in the Grand Theft Auto series**
+**‘Wonka’ Review: Timothée Chalamet Brings Charm And Musical Talent To Delightful Origin Story Of Roald Dahl’s Famous Candy Man**
 
-You can read more about it [here](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games).
+You can read more about it [here](https://deadline.com/2023/12/wonka-review-timothee-chalamet-brings-charm-musical-talent-origin-story-roald-dahls-classic-1235650170/).
 
 ## Requirements
 - Python 3.8
