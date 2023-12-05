@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701750972)
+![Generated GIF](output.gif?raw=true&v=1701752877)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida State’s snub is one final grift for unfair four-team playoff**
+**Former US ambassador arrested in Florida, accused of serving as an agent of Cuba, AP source says**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2023/12/03/florida-state-snubbed-cfp-unfair/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/former-us-ambassador-arrested-florida-accused-serving-agent-105345994).
 
 ## Requirements
 - Python 3.8
