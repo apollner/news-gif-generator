@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701806960)
+![Generated GIF](output.gif?raw=true&v=1701808436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Senate Dems say border talks are dead. Republicans say it's merely a flesh wound.**
+**Alaska Air to buy Hawaiian Airlines for $1.9 billion**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/04/senate-dems-border-talks-are-dead-senate-republicans-theres-still-a-pulse-00129900).
+You can read more about it [here](https://www.cnn.com/2023/12/03/business/alaska-airlines-to-acquire-tk/index.html).
 
 ## Requirements
 - Python 3.8
