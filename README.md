@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701810471)
+![Generated GIF](output.gif?raw=true&v=1701812034)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Senate Dems say border talks are dead. Republicans say it's merely a flesh wound.**
+**GTA VI: all the news on Rockstar's next entry in the Grand Theft Auto series**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/04/senate-dems-border-talks-are-dead-senate-republicans-theres-still-a-pulse-00129900).
+You can read more about it [here](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games).
 
 ## Requirements
 - Python 3.8
