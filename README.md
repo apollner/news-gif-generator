@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701778414)
+![Generated GIF](output.gif?raw=true&v=1701780620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India's ruling party wins 3 of 4 states in elections in a boost for prime minister**
+**China accuses US of threatening peace after warship passes disputed reef**
 
-You can read more about it [here](https://www.npr.org/2023/12/04/1216886824/india-ruling-party-wins-elections).
+You can read more about it [here](https://www.scmp.com/news/china/military/article/3243709/chinas-military-says-us-combat-ship-illegally-entered-territorial-waters-south-china-sea).
 
 ## Requirements
 - Python 3.8
