@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701758198)
+![Generated GIF](output.gif?raw=true&v=1701760078)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Renaissance: A Film by Beyoncé' tops box office on opening weekend**
+**49ers' Greenlaw, Eagles security chief ejected after sideline quarrel**
 
-You can read more about it [here](https://ew.com/renaissance-film-beyonce-tops-box-office-8410171).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/dre-greenlaw-eagles-security-ejection/1677897/).
 
 ## Requirements
 - Python 3.8
