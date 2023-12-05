@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701797633)
+![Generated GIF](output.gif?raw=true&v=1701799828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DJI Osmo Pocket 3 review: Maybe the only vlogging camera you need**
+**Vanessa Hudgens Is Married To Cole Tucker**
 
-You can read more about it [here](https://www.engadget.com/dji-osmo-pocket-3-review-maybe-the-only-vlogging-camera-you-need-163028145.html).
+You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/vanessa-hudgens-cole-tucker-wedding).
 
 ## Requirements
 - Python 3.8
