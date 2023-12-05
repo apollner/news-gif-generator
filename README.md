@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701772674)
+![Generated GIF](output.gif?raw=true&v=1701774417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COP28 president slammed for claiming there's "no science" in fossil fuel phase-out calls**
+**‘Taylor Swift: The Eras Tour’ Film Seeking Release Date in China (EXCLUSIVE)**
 
-You can read more about it [here](https://www.axios.com/2023/12/04/cop28-al-jaber-fossil-fuel-phase-out-science).
+You can read more about it [here](https://variety.com/2023/film/news/taylor-swift-the-eras-tour-seeking-china-cinema-release-1235819592/).
 
 ## Requirements
 - Python 3.8
