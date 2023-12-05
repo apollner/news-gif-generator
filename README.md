@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701736376)
+![Generated GIF](output.gif?raw=true&v=1701741137)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beyoncé’s ‘Renaissance’ is No. 1 at the box office with $21 million debut**
+**Billie Eilish lost 100k followers after coming out**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/beyonces-renaissance-no-1-box-office-21-million-debut-rcna127800).
+You can read more about it [here](https://www.thepinknews.com/2023/12/04/billie-eilish-lost-followers-coming-out/).
 
 ## Requirements
 - Python 3.8
