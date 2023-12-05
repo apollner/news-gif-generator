@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701763882)
+![Generated GIF](output.gif?raw=true&v=1701765343)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jauan Jennings Calls 49ers 'Scary Good' Following 42-19 Win Over Eagles**
+**FSU AD condemns CFP selection decision: 'The committee FAILED college football' | SportsCenter**
 
-You can read more about it [here](https://www.youtube.com/watch?v=sjD1iqgGQPM).
+You can read more about it [here](https://www.youtube.com/watch?v=USHSBSsQLVU).
 
 ## Requirements
 - Python 3.8
