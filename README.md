@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701789002)
+![Generated GIF](output.gif?raw=true&v=1701790490)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel orders evacuations as it widens offensive but Palestinians are running out of places to go**
+**Alaska Air to buy Hawaiian Airlines for $1.9 billion**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-04-2023-ece85568ce36cb2315f26b10adda30fa).
+You can read more about it [here](https://www.cnn.com/2023/12/03/business/alaska-airlines-to-acquire-tk/index.html).
 
 ## Requirements
 - Python 3.8
