@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701752877)
+![Generated GIF](output.gif?raw=true&v=1701754403)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former US ambassador arrested in Florida, accused of serving as an agent of Cuba, AP source says**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/former-us-ambassador-arrested-florida-accused-serving-agent-105345994).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
