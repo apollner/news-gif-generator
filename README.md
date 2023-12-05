@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701744169)
+![Generated GIF](output.gif?raw=true&v=1701745839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Suspect arrested in 4 Los Angeles area homicides that took place in 4 days: Police**
+**What we learned as 49ers exact revenge in dazzling win over Eagles**
 
-You can read more about it [here](https://abcnews.go.com/US/los-angeles-serial-killings-arrest/story?id=105333265).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/what-we-learned-as-49ers-enact-revenge-in-dazzling-win-over-eagles/1677898/).
 
 ## Requirements
 - Python 3.8
