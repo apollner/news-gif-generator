@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701765343)
+![Generated GIF](output.gif?raw=true&v=1701767346)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FSU AD condemns CFP selection decision: 'The committee FAILED college football' | SportsCenter**
+**11 bodies recovered after volcanic eruption in Indonesia, and 12 climbers are still missing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=USHSBSsQLVU).
+You can read more about it [here](https://apnews.com/article/indonesia-marapi-volcano-eruption-climbers-dead-16921eb03471c95069a28d34100dc7c2).
 
 ## Requirements
 - Python 3.8
