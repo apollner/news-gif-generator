@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701783230)
+![Generated GIF](output.gif?raw=true&v=1701785248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venezuelans vote to claim sovereignty over a part of oil-rich nation Guyana**
+**Week 13 Fantasy Football: Game-by-game wrap**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/04/venezuelans-vote-to-claim-sovereignty-over-part-of-oil-rich-guyana.html).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-13-wrap-deebo-samuels-eruption-fuels-49ers-thrashing-of-eagles-045225409.html).
 
 ## Requirements
 - Python 3.8
