@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701790490)
+![Generated GIF](output.gif?raw=true&v=1701792632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alaska Air to buy Hawaiian Airlines for $1.9 billion**
+**Oxford University Press has named 'rizz' as its word of the year**
 
-You can read more about it [here](https://www.cnn.com/2023/12/03/business/alaska-airlines-to-acquire-tk/index.html).
+You can read more about it [here](https://abcnews.go.com/Lifestyle/wireStory/oxford-university-press-named-rizz-word-year-105351014).
 
 ## Requirements
 - Python 3.8
