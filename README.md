@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701741137)
+![Generated GIF](output.gif?raw=true&v=1701743083)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billie Eilish lost 100k followers after coming out**
+**Commercial ships hit by missiles in Houthi attack in Red Sea, US warship downs 3 drones**
 
-You can read more about it [here](https://www.thepinknews.com/2023/12/04/billie-eilish-lost-followers-coming-out/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/pentagon-us-warship-multiple-commercial-ships-attack-red-105340787).
 
 ## Requirements
 - Python 3.8
