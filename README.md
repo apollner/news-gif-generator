@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701792632)
+![Generated GIF](output.gif?raw=true&v=1701794466)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oxford University Press has named 'rizz' as its word of the year**
+**3 commercial ships attacked in Red Sea; Houthis claim responsibility, citing Israel-Hamas war**
 
-You can read more about it [here](https://abcnews.go.com/Lifestyle/wireStory/oxford-university-press-named-rizz-word-year-105351014).
+You can read more about it [here](https://abcnews.go.com/International/navy-warship-shoots-drones-red-sea-latest-incursion/story?id=105341414).
 
 ## Requirements
 - Python 3.8
