@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701900444)
+![Generated GIF](output.gif?raw=true&v=1701902061)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jaguars say QB Lawrence has high ankle sprain**
+**Jack Smith wants to tell jury about Trump's earlier attempts to sow doubt about elections**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39048012/jaguars-say-qb-trevor-lawrence-high-ankle-sprain).
+You can read more about it [here](https://www.politico.com/news/2023/12/05/jack-smith-trump-elections-jan-6-00130200).
 
 ## Requirements
 - Python 3.8
