@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701893357)
+![Generated GIF](output.gif?raw=true&v=1701894819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NCAA proposes creation of new subdivision with direct compensation for athletes**
+**Amy Robach And T.J. Holmes Break Silence On “Year Of Hell” Since Their ‘GMA3’ Firing**
 
-You can read more about it [here](https://theathletic.com/5114092/2023/12/05/ncaa-subdivision-athlete-compensation-charlie-baker/).
+You can read more about it [here](https://deadline.com/2023/12/amy-robach-tj-holmes-podcast-1235652502/).
 
 ## Requirements
 - Python 3.8
