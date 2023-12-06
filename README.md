@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701889496)
+![Generated GIF](output.gif?raw=true&v=1701891225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nigerian army drone strike accidentally kills 85 in public religious gathering**
+**Biden impeachment probe advances as House GOP prepares to vote**
 
-You can read more about it [here](https://www.npr.org/2023/12/05/1217317616/nigerian-president-calls-for-investigation-after-army-drone-strike-accident-kill).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/05/joe-biden-impeachment-house-vote-republicans/71765262007/).
 
 ## Requirements
 - Python 3.8
