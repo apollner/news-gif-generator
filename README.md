@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701868366)
+![Generated GIF](output.gif?raw=true&v=1701869627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cyclone Michaung: Heavy rains in southern India as storm makes landfall**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLTY3NjE3NzI30gEwaHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWFzaWEtNjc2MTc3MjcuYW1w?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
