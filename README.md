@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701894819)
+![Generated GIF](output.gif?raw=true&v=1701896792)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amy Robach And T.J. Holmes Break Silence On “Year Of Hell” Since Their ‘GMA3’ Firing**
+**Biden impeachment probe advances as House GOP prepares to vote**
 
-You can read more about it [here](https://deadline.com/2023/12/amy-robach-tj-holmes-podcast-1235652502/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/05/joe-biden-impeachment-house-vote-republicans/71765262007/).
 
 ## Requirements
 - Python 3.8
