@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701833638)
+![Generated GIF](output.gif?raw=true&v=1701835823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hawaiian Airlines' parent surges on $1.9 bln buyout deal with Alaska Air**
+**New Mexico veterinarian warns dog owners about mysterious illness spreading nationwide**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-parent-surges-19-bln-buyout-deal-with-alaska-air-2023-12-04/).
+You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-veterinarian-warns-dog-owners-about-mysterious-illness-spreading-nationwide/).
 
 ## Requirements
 - Python 3.8
