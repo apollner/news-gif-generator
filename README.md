@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701867043)
+![Generated GIF](output.gif?raw=true&v=1701868366)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who are the Houthis and why are they attacking ships in the Red Sea?**
+**Cyclone Michaung: Heavy rains in southern India as storm makes landfall**
 
-You can read more about it [here](https://www.npr.org/2023/12/05/1217056536/houthis-explainer-red-sea-yemen-saudi-middle-east-israel-gaza).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLTY3NjE3NzI30gEwaHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWFzaWEtNjc2MTc3MjcuYW1w?oc=5).
 
 ## Requirements
 - Python 3.8
