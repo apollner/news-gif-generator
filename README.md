@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701850276)
+![Generated GIF](output.gif?raw=true&v=1701851791)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India returns Chandrayaan-3 propulsion module to Earth orbit**
+**Outbreaks of Pneumonia Are Now Affecting Children in Multiple Countries**
 
-You can read more about it [here](https://spacenews.com/india-returns-chandrayaan-3-propulsion-module-to-earth-orbit/).
+You can read more about it [here](https://www.sciencealert.com/outbreaks-of-pneumonia-are-now-affecting-children-in-multiple-countries).
 
 ## Requirements
 - Python 3.8
