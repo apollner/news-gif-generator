@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701851791)
+![Generated GIF](output.gif?raw=true&v=1701853735)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Outbreaks of Pneumonia Are Now Affecting Children in Multiple Countries**
+**4 Republicans qualify for fourth 2024 presidential debate**
 
-You can read more about it [here](https://www.sciencealert.com/outbreaks-of-pneumonia-are-now-affecting-children-in-multiple-countries).
+You can read more about it [here](https://www.cnn.com/2023/12/04/politics/fourth-gop-debate-candidates/index.html).
 
 ## Requirements
 - Python 3.8
