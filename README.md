@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701840824)
+![Generated GIF](output.gif?raw=true&v=1701843068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First trailer for 'Grand Theft Auto 6' releases after leak**
+**Powerball winning numbers for 12/4/23 drawing; $412 million jackpot**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2023/12/04/grand-theft-auto-6-trailer/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2023/12/04/powerball-winning-numbers/71806575007/).
 
 ## Requirements
 - Python 3.8
