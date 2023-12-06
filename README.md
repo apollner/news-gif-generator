@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701902061)
+![Generated GIF](output.gif?raw=true&v=1701904088)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jack Smith wants to tell jury about Trump's earlier attempts to sow doubt about elections**
+**Brain implants help people to recover after severe head injury**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/05/jack-smith-trump-elections-jan-6-00130200).
+You can read more about it [here](https://www.nature.com/articles/d41586-023-02833-w).
 
 ## Requirements
 - Python 3.8
