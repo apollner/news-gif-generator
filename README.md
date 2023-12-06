@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701879030)
+![Generated GIF](output.gif?raw=true&v=1701880868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amy Robach and T.J. Holmes Break Silence on Exit From ‘GMA3’ and ABC News**
+**Apple's Left a $500 Hole in Its iPhone Lineup, and Android Phones Are Filling That Gap**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/amy-robach-tj-holmes-explain-abc-new-gma-exit-1235711868/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apples-left-a-500-hole-in-its-iphone-lineup-and-android-phones-are-filling-that-gap/).
 
 ## Requirements
 - Python 3.8
