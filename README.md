@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701898564)
+![Generated GIF](output.gif?raw=true&v=1701900444)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Discord’s mobile overhaul is a pivot to friends and messages**
+**Jaguars say QB Lawrence has high ankle sprain**
 
-You can read more about it [here](https://www.theverge.com/2023/12/5/23989155/discord-mobile-app-refresh-midnight-view).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39048012/jaguars-say-qb-trevor-lawrence-high-ankle-sprain).
 
 ## Requirements
 - Python 3.8
