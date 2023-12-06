@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701873289)
+![Generated GIF](output.gif?raw=true&v=1701875340)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chandrayaan-3: India Moon mission's propulsion module returns to Earth's orbit**
+**Grand Theft Auto: does the world really need another sequel?**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-67621968).
+You can read more about it [here](https://www.dazeddigital.com/life-culture/article/61501/1/grand-theft-auto-5-6-trailer-problematic-misogyny-game-ps5).
 
 ## Requirements
 - Python 3.8
