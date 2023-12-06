@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701871601)
+![Generated GIF](output.gif?raw=true&v=1701873289)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amy Robach 'wanted to die' post-scandal, did 'welfare check' on T.J Holmes during 'year of hell'**
+**Chandrayaan-3: India Moon mission's propulsion module returns to Earth's orbit**
 
-You can read more about it [here](https://pagesix.com/2023/12/05/celebrity-news/amy-robach-wanted-to-die-post-scandal-did-welfare-check-on-t-j-holmes/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67621968).
 
 ## Requirements
 - Python 3.8
