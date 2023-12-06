@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701837399)
+![Generated GIF](output.gif?raw=true&v=1701839274)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
+**4 Republicans qualify for fourth 2024 presidential debate**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
+You can read more about it [here](https://www.cnn.com/2023/12/04/politics/fourth-gop-debate-candidates/index.html).
 
 ## Requirements
 - Python 3.8
