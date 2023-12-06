@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701862440)
+![Generated GIF](output.gif?raw=true&v=1701864818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Britney Spears' dad Jamie has leg amputated as health declines: report**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://pagesix.com/2023/12/05/celebrity-news/britney-spears-dad-jamie-has-leg-amputated-as-health-declines-report/).
 
 ## Requirements
 - Python 3.8
