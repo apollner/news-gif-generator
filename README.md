@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701844594)
+![Generated GIF](output.gif?raw=true&v=1701846485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Mexico veterinarian warns dog owners about mysterious illness spreading nationwide**
+**How 49ers QB Purdy made NFL history in multiple ways vs. Eagles**
 
-You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-veterinarian-warns-dog-owners-about-mysterious-illness-spreading-nationwide/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joins-tom-brady-aaron-rodgers/1678144/).
 
 ## Requirements
 - Python 3.8
