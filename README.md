@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701876907)
+![Generated GIF](output.gif?raw=true&v=1701879030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Liz Cheney, outspoken Trump critic, weighs third-party presidential run**
+**Amy Robach and T.J. Holmes Break Silence on Exit From ‘GMA3’ and ABC News**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2023/12/05/liz-cheney-trump-president-2024/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/amy-robach-tj-holmes-explain-abc-new-gma-exit-1235711868/).
 
 ## Requirements
 - Python 3.8
