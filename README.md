@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701857340)
+![Generated GIF](output.gif?raw=true&v=1701859041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock Market Today: Dow, S&P Live Updates for December 5**
+**Shohei Ohtani, Blue Jays believed to have met Monday at team’s Florida complex**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-04/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://theathletic.com/5113061/2023/12/05/blue-jays-shohei-ohtani-meeting/).
 
 ## Requirements
 - Python 3.8
