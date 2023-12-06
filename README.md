@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701827470)
+![Generated GIF](output.gif?raw=true&v=1701829455)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel orders evacuations as it widens offensive, but Palestinians are running out of places to go**
+**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-04-2023-ece85568ce36cb2315f26b10adda30fa).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
 
 ## Requirements
 - Python 3.8
