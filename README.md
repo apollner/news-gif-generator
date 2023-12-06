@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701882401)
+![Generated GIF](output.gif?raw=true&v=1701884041)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple's Left a $500 Hole in Its iPhone Lineup, and Android Phones Are Filling That Gap**
+**Oldest mosquito fossil comes with a bloodsucking surprise**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apples-left-a-500-hole-in-its-iphone-lineup-and-android-phones-are-filling-that-gap/).
+You can read more about it [here](https://www.reuters.com/science/oldest-mosquito-fossil-comes-with-bloodsucking-surprise-2023-12-05/).
 
 ## Requirements
 - Python 3.8
