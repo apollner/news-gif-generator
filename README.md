@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701884041)
+![Generated GIF](output.gif?raw=true&v=1701886256)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oldest mosquito fossil comes with a bloodsucking surprise**
+**UK home secretary signs new asylum treaty in Rwanda**
 
-You can read more about it [here](https://www.reuters.com/science/oldest-mosquito-fossil-comes-with-bloodsucking-surprise-2023-12-05/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/5/uk-home-secretary-set-to-sign-new-asylum-treaty-in-rwanda).
 
 ## Requirements
 - Python 3.8
