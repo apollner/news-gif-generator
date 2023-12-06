@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701891225)
+![Generated GIF](output.gif?raw=true&v=1701893357)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden impeachment probe advances as House GOP prepares to vote**
+**NCAA proposes creation of new subdivision with direct compensation for athletes**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/05/joe-biden-impeachment-house-vote-republicans/71765262007/).
+You can read more about it [here](https://theathletic.com/5114092/2023/12/05/ncaa-subdivision-athlete-compensation-charlie-baker/).
 
 ## Requirements
 - Python 3.8
