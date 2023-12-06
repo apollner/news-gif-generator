@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701830497)
+![Generated GIF](output.gif?raw=true&v=1701832162)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Wonka’ Review: Timothée Chalamet Brings Charm And Musical Talent To Delightful Origin Story Of Roald Dahl’s Famous Candy Man**
+**How 49ers QB Purdy made NFL history in multiple ways vs. Eagles**
 
-You can read more about it [here](https://deadline.com/2023/12/wonka-review-timothee-chalamet-brings-charm-musical-talent-origin-story-roald-dahls-classic-1235650170/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joins-tom-brady-aaron-rodgers/1678144/).
 
 ## Requirements
 - Python 3.8
