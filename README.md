@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701832162)
+![Generated GIF](output.gif?raw=true&v=1701833638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How 49ers QB Purdy made NFL history in multiple ways vs. Eagles**
+**Hawaiian Airlines' parent surges on $1.9 bln buyout deal with Alaska Air**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joins-tom-brady-aaron-rodgers/1678144/).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-parent-surges-19-bln-buyout-deal-with-alaska-air-2023-12-04/).
 
 ## Requirements
 - Python 3.8
