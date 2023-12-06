@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701829455)
+![Generated GIF](output.gif?raw=true&v=1701830497)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
+**‘Wonka’ Review: Timothée Chalamet Brings Charm And Musical Talent To Delightful Origin Story Of Roald Dahl’s Famous Candy Man**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
+You can read more about it [here](https://deadline.com/2023/12/wonka-review-timothee-chalamet-brings-charm-musical-talent-origin-story-roald-dahls-classic-1235650170/).
 
 ## Requirements
 - Python 3.8
