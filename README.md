@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701886256)
+![Generated GIF](output.gif?raw=true&v=1701887758)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UK home secretary signs new asylum treaty in Rwanda**
+**Mount Marapi volcano: More bodies found after surprise eruption**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/5/uk-home-secretary-set-to-sign-new-asylum-treaty-in-rwanda).
+You can read more about it [here](https://apnews.com/article/mount-marapi-eruption-climbers-fe1ec3fff730eb19a4940e55e85300cb).
 
 ## Requirements
 - Python 3.8
