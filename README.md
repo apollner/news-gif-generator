@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701835823)
+![Generated GIF](output.gif?raw=true&v=1701837399)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Mexico veterinarian warns dog owners about mysterious illness spreading nationwide**
+**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
 
-You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-veterinarian-warns-dog-owners-about-mysterious-illness-spreading-nationwide/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
 
 ## Requirements
 - Python 3.8
