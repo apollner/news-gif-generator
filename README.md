@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701941629)
+![Generated GIF](output.gif?raw=true&v=1701943744)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Bitcoin's 'Jet-Fueled' 16% Six-Day Jump Takes Token Past $44000**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-06/bitcoin-btc-jet-fueled-16-six-day-jump-takes-token-past-44-000).
 
 ## Requirements
 - Python 3.8
