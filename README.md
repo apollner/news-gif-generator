@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701990554)
+![Generated GIF](output.gif?raw=true&v=1701992025)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Former speaker Kevin McCarthy will retire from Congress at end of year**
+**New Rwanda bill gives ministers power to disregard some human rights law**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/06/kevin-mccarthy-retire/).
+You can read more about it [here](https://www.bbc.com/news/uk-67641805).
 
 ## Requirements
 - Python 3.8
