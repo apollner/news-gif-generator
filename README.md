@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701977628)
+![Generated GIF](output.gif?raw=true&v=1701979750)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Billionaire Bill Ackman says Harvard, Penn and MIT presidents ‘must all resign in disgrace’**
+**Taylor Swift named Time’s 2023 Person of the Year**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/investing/bill-ackman-harvard-penn-antisemitism/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=VeFzmqp6OaQ).
 
 ## Requirements
 - Python 3.8
