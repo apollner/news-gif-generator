@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701953432)
+![Generated GIF](output.gif?raw=true&v=1701954709)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Module that powered historic moon mission has returned to Earth’s orbit**
+**Galaxy S23 gains December 2023 security update in the US - SamMobile**
 
-You can read more about it [here](https://www.cnn.com/2023/12/05/world/chandrayaan-3-lunar-lander-propulsion-module-scn/index.html).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s23-december-2023-security-update-usa/).
 
 ## Requirements
 - Python 3.8
