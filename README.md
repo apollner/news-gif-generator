@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701909143)
+![Generated GIF](output.gif?raw=true&v=1701913248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy**
+**With new college football subdivision proposal, NCAA finally admits its amateurism model is dead**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe).
+You can read more about it [here](https://www.cbssports.com/college-football/news/with-new-college-football-subdivision-proposal-ncaa-finally-admits-its-amateurism-model-is-dead/).
 
 ## Requirements
 - Python 3.8
