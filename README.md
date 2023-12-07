@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701956224)
+![Generated GIF](output.gif?raw=true&v=1701958037)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ADP National Employment Report: Private Sector Employment Increased by 103,000 Jobs in November; Annual Pay was Up 5.6%**
+**Attacks in 2 Texas cities leave 6 dead, 2 officers wounded; suspect in custody**
 
-You can read more about it [here](https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-103-000-jobs-in-november-annual-pay-was-up-5-6-302007536.html).
+You can read more about it [here](https://www.cbsnews.com/news/shootings-san-antonio-austin-6-dead-2-officers-hurt-suspect-caught/).
 
 ## Requirements
 - Python 3.8
