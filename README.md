@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701945435)
+![Generated GIF](output.gif?raw=true&v=1701947214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Classified briefing devolves into shouting as senators fight over border provisions in Ukraine-Israel aid package**
+**Pool Report on the Time Out called in the Final Minute of Tonight's Phoenix Suns at Los Angeles Lakers Game**
 
-You can read more about it [here](https://www.cnn.com/2023/12/05/politics/senate-classified-briefing-devolves/index.html).
+You can read more about it [here](https://official.nba.com/pool-report-on-the-time-out-called-in-the-final-minute-of-tonights-phoenix-suns-at-los-angeles-lakers-game/).
 
 ## Requirements
 - Python 3.8
