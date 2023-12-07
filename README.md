@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701975929)
+![Generated GIF](output.gif?raw=true&v=1701977628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Norman Lear, TV Legend, Dies at 101**
+**Billionaire Bill Ackman says Harvard, Penn and MIT presidents ‘must all resign in disgrace’**
 
-You can read more about it [here](https://variety.com/2023/tv/news/norman-lear-dead-dies-tv-legend-all-in-the-family-1235823995/).
+You can read more about it [here](https://www.cnn.com/2023/12/06/investing/bill-ackman-harvard-penn-antisemitism/index.html).
 
 ## Requirements
 - Python 3.8
