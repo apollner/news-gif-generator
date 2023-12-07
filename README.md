@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701981232)
+![Generated GIF](output.gif?raw=true&v=1701983318)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vladimir Putin meets leaders of Saudi Arabia and UAE in whistle-stop Gulf tour**
+**Apple (AAPL) Prepares New iPad and M3 MacBook Air Models for Early 2024**
 
-You can read more about it [here](https://www.ft.com/content/e2c1b3d8-4626-49fd-bcdc-5596856e9cbb).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-06/apple-prepares-m3-macbook-air-and-revamped-ipad-pro-for-early-next-year).
 
 ## Requirements
 - Python 3.8
