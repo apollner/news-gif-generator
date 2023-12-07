@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701915826)
+![Generated GIF](output.gif?raw=true&v=1701916914)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shohei Ohtani dreams dashed? Insider gives status update on Cubs' pursuit**
+**GTA 6 Trailer Finally Released on X/Twitter After CEO Begged Rockstar to Post**
 
-You can read more about it [here](http://www.nbcsportschicago.com/mlb/chicago-cubs/cubs-rumors/shohei-ohtani-dreams-dashed-insider-gives-status-update-on-cubs-pursuit/523360/).
+You can read more about it [here](https://www.ign.com/articles/gta-6-trailer-finally-released-on-xtwitter-after-ceo-begged-rockstar-to-post).
 
 ## Requirements
 - Python 3.8
