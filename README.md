@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701913248)
+![Generated GIF](output.gif?raw=true&v=1701915826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With new college football subdivision proposal, NCAA finally admits its amateurism model is dead**
+**Shohei Ohtani dreams dashed? Insider gives status update on Cubs' pursuit**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/with-new-college-football-subdivision-proposal-ncaa-finally-admits-its-amateurism-model-is-dead/).
+You can read more about it [here](http://www.nbcsportschicago.com/mlb/chicago-cubs/cubs-rumors/shohei-ohtani-dreams-dashed-insider-gives-status-update-on-cubs-pursuit/523360/).
 
 ## Requirements
 - Python 3.8
