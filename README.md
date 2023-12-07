@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701986836)
+![Generated GIF](output.gif?raw=true&v=1701988449)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Transfer portal QB intel: Latest on Cameron Ward, Dante Moore and other big names as market moves quickly**
+**Ukrainian special forces killed former lawmaker near Moscow, officials say**
 
-You can read more about it [here](https://247sports.com/longformarticle/transfer-portal-qb-intel-latest-on-cameron-ward-dante-moore-and-other-big-names-as-market-moves-quickly-222490441/).
+You can read more about it [here](https://www.ft.com/content/834e90a5-6ae0-4839-b184-2c7c5e22ced0).
 
 ## Requirements
 - Python 3.8
