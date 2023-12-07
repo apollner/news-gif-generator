@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701967240)
+![Generated GIF](output.gif?raw=true&v=1701968799)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB Winter Meetings Day 3: Free agent signings, trades, news**
+**Taylor Swift Clarifies Travis Kelce Romance Timeline: 'No One Knew'**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/2023/12/06/mlb-winter-meetings-live-trade-rumors-shohei-ohtani-juan-soto/71822813007/).
+You can read more about it [here](https://people.com/taylor-swift-clarifies-travis-kelce-romance-timeline-time-person-of-the-year-2023-8411301).
 
 ## Requirements
 - Python 3.8
