@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701968799)
+![Generated GIF](output.gif?raw=true&v=1701970421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Clarifies Travis Kelce Romance Timeline: 'No One Knew'**
+**Sycamore Gap: Hopes tree can live on through seeds and cuttings**
 
-You can read more about it [here](https://people.com/taylor-swift-clarifies-travis-kelce-romance-timeline-time-person-of-the-year-2023-8411301).
+You can read more about it [here](https://www.bbc.com/news/articles/cd1p82zdzzpo).
 
 ## Requirements
 - Python 3.8
