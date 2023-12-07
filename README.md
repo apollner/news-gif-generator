@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701948819)
+![Generated GIF](output.gif?raw=true&v=1701951219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerful solar storms dazzle in annual aurora photography gallery**
+**GTA 6: Streams soar for 70s rocker Tom Petty thanks to trailer**
 
-You can read more about it [here](https://newatlas.com/photography/annual-aurora-northern-lights-photography-2023-gallery/).
+You can read more about it [here](https://www.bbc.com/news/newsbeat-67635381).
 
 ## Requirements
 - Python 3.8
