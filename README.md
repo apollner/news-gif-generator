@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701923769)
+![Generated GIF](output.gif?raw=true&v=1701927288)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SAG-AFTRA Contract Ending Strike Ratified**
+**Denny Laine, co-founder of the Moody Blues and Paul McCartney's Wings, dies at 79**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/).
+You can read more about it [here](https://www.npr.org/2023/12/05/1217488160/denny-laine-co-founder-of-the-moody-blues-and-paul-mccartneys-wings-dies-at-79).
 
 ## Requirements
 - Python 3.8
