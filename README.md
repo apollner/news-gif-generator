@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701947214)
+![Generated GIF](output.gif?raw=true&v=1701948819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pool Report on the Time Out called in the Final Minute of Tonight's Phoenix Suns at Los Angeles Lakers Game**
+**Powerful solar storms dazzle in annual aurora photography gallery**
 
-You can read more about it [here](https://official.nba.com/pool-report-on-the-time-out-called-in-the-final-minute-of-tonights-phoenix-suns-at-los-angeles-lakers-game/).
+You can read more about it [here](https://newatlas.com/photography/annual-aurora-northern-lights-photography-2023-gallery/).
 
 ## Requirements
 - Python 3.8
