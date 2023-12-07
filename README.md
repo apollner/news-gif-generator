@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701932874)
+![Generated GIF](output.gif?raw=true&v=1701934427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maduro orders the 'immediate' exploitation of oil, gas and mines in Guyana's Essequibo**
+**2023 is officially the hottest year ever recorded, and scientists say "the temperature will keep rising"**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/maduro-orders-immediate-exploitation-oil-gas-mines-guyanas-105410639).
+You can read more about it [here](https://www.cbsnews.com/news/2023-hottest-year-ever-recorded-scientists-temperatures/).
 
 ## Requirements
 - Python 3.8
