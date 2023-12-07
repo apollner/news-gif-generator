@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701922223)
+![Generated GIF](output.gif?raw=true&v=1701923769)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Reddit says a bug is letting slurs get added to its links**
+**SAG-AFTRA Contract Ending Strike Ratified**
 
-You can read more about it [here](https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/).
 
 ## Requirements
 - Python 3.8
