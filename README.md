@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701905621)
+![Generated GIF](output.gif?raw=true&v=1701909143)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The OnePlus 12 packs a 5400 mAh battery, up to 24GB of RAM**
+**James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/the-oneplus-12-packs-a-5400-mah-battery-up-to-24gb-of-ram/).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe).
 
 ## Requirements
 - Python 3.8
