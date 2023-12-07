@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701984817)
+![Generated GIF](output.gif?raw=true&v=1701986836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**AMD CEO Debuts Nvidia Chip Rival, Gives Eye-Popping Forecast**
+**Transfer portal QB intel: Latest on Cameron Ward, Dante Moore and other big names as market moves quickly**
 
-You can read more about it [here](https://finance.yahoo.com/news/amd-ceo-debuts-nvidia-chip-182428413.html).
+You can read more about it [here](https://247sports.com/longformarticle/transfer-portal-qb-intel-latest-on-cameron-ward-dante-moore-and-other-big-names-as-market-moves-quickly-222490441/).
 
 ## Requirements
 - Python 3.8
