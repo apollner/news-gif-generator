@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701983318)
+![Generated GIF](output.gif?raw=true&v=1701984817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple (AAPL) Prepares New iPad and M3 MacBook Air Models for Early 2024**
+**AMD CEO Debuts Nvidia Chip Rival, Gives Eye-Popping Forecast**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-06/apple-prepares-m3-macbook-air-and-revamped-ipad-pro-for-early-next-year).
+You can read more about it [here](https://finance.yahoo.com/news/amd-ceo-debuts-nvidia-chip-182428413.html).
 
 ## Requirements
 - Python 3.8
