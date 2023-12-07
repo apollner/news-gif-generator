@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701959688)
+![Generated GIF](output.gif?raw=true&v=1701961742)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Attacks in 2 Texas cities leave 6 dead, 2 officers wounded; suspect in custody**
+**McDonald's aims to open nearly 9,000 restaurants, add 100 million loyalty members by 2027**
 
-You can read more about it [here](https://www.cbsnews.com/news/shootings-san-antonio-austin-6-dead-2-officers-hurt-suspect-caught/).
+You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonald-investor-day-aims-to-open-nearly-9000-restaurants.html).
 
 ## Requirements
 - Python 3.8
