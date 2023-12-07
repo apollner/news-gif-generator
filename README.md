@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701979750)
+![Generated GIF](output.gif?raw=true&v=1701981232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift named Time’s 2023 Person of the Year**
+**Vladimir Putin meets leaders of Saudi Arabia and UAE in whistle-stop Gulf tour**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VeFzmqp6OaQ).
+You can read more about it [here](https://www.ft.com/content/e2c1b3d8-4626-49fd-bcdc-5596856e9cbb).
 
 ## Requirements
 - Python 3.8
