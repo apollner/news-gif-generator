@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701929482)
+![Generated GIF](output.gif?raw=true&v=1701930991)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Peruvian constitutional court orders release of former president**
+**Maduro orders the 'immediate' exploitation of oil, gas and mines in Guyana's Essequibo**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/05/peru-court-former-president-release-00130261).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/maduro-orders-immediate-exploitation-oil-gas-mines-guyanas-105410639).
 
 ## Requirements
 - Python 3.8
