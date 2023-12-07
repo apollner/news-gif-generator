@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701961742)
+![Generated GIF](output.gif?raw=true&v=1701963237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McDonald's aims to open nearly 9,000 restaurants, add 100 million loyalty members by 2027**
+**GTA 6: Streams soar for 70s rocker Tom Petty thanks to trailer**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonald-investor-day-aims-to-open-nearly-9000-restaurants.html).
+You can read more about it [here](https://www.bbc.com/news/newsbeat-67635381).
 
 ## Requirements
 - Python 3.8
