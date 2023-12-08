@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702015865)
+![Generated GIF](output.gif?raw=true&v=1702017415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some Democrats join Republicans in voting to strike down Biden's EV mandate**
+**Venezuela’s president orders creation of new state and map including land from Guyana**
 
-You can read more about it [here](https://www.foxnews.com/politics/democrats-join-republicans-voting-strike-down-bidens-ev-mandate).
+You can read more about it [here](https://www.cnn.com/2023/12/06/americas/venezuelas-president-orders-creation-of-new-state-and-map-including-land-from-guyana/index.html).
 
 ## Requirements
 - Python 3.8
