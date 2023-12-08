@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702002261)
+![Generated GIF](output.gif?raw=true&v=1702003325)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**JPMorgan CEO Jamie Dimon says he would "close" cryptocurrency down**
+**Kyiv assassinates pro-Russian Ukrainian politician outside Moscow: reports**
 
-You can read more about it [here](https://www.axios.com/2023/12/06/jamie-dimon-cryptocurrency-bitcoin).
+You can read more about it [here](https://thehill.com/policy/international/4346012-kyiv-assassinate-russia-ukraine-moscow/).
 
 ## Requirements
 - Python 3.8
