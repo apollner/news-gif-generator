@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702073248)
+![Generated GIF](output.gif?raw=true&v=1702074840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump wants election subversion case paused while he appeals judge’s ruling on presidential immunity**
+**CDC reports "alarming" rise in drug-resistant germs in Ukraine**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/politics/trump-wants-federal-election-case-put-on-hold-while-he-appeals-ruling-that-hes-not-immune/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/cdc-drug-resistant-bacteria-in-ukraine/).
 
 ## Requirements
 - Python 3.8
