@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702059216)
+![Generated GIF](output.gif?raw=true&v=1702060515)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Texas judge ruled that a pregnant woman who sued the state seeking an abortion can legally terminate her pregnancy**
+**Google shares pop 5% after company announces Gemini AI model**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/us/texas-abortion-ruling/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/07/google-shares-pop-after-company-announces-gemini-ai-model.html).
 
 ## Requirements
 - Python 3.8
