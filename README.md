@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701995567)
+![Generated GIF](output.gif?raw=true&v=1702000191)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Fantasy 2023 Start 'Em, Sit 'Em: Defenses for Week 14**
+**McDonald's to open first CosMc's spinoff restaurant this week**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-defenses-for-week-14).
+You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonalds-to-open-first-cosmcs-spinoff-restaurant-this-week.html).
 
 ## Requirements
 - Python 3.8
