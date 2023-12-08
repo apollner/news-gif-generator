@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702062295)
+![Generated GIF](output.gif?raw=true&v=1702064050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lupita Nyong’o and Joshua Jackson look pretty friendly**
+**Lego Fortnite: Gaming giant launches Minecraft rival**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/entertainment/lupita-nyongo-joshua-jackson/index.html).
+You can read more about it [here](https://www.bbc.com/news/technology-67635859).
 
 ## Requirements
 - Python 3.8
