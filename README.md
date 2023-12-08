@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702019292)
+![Generated GIF](output.gif?raw=true&v=1702020826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Senate Republican block Ukraine, Israel aid bill over border dispute**
+**Quinnen Williams & C.J. Mosely on Zach Wilson returning as Jets QB 1 & preview game vs Texans| SNY**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-sets-test-vote-ukraine-aid-despite-republican-opposition-2023-12-06/).
+You can read more about it [here](https://www.youtube.com/watch?v=gKjwbl4602U).
 
 ## Requirements
 - Python 3.8
