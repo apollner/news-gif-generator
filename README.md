@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702074840)
+![Generated GIF](output.gif?raw=true&v=1702076890)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC reports "alarming" rise in drug-resistant germs in Ukraine**
+**MLB trade grades: Taking stock of the Yankees-Padres Juan Soto megadeal**
 
-You can read more about it [here](https://www.cbsnews.com/news/cdc-drug-resistant-bacteria-in-ukraine/).
+You can read more about it [here](https://theathletic.com/5117801/2023/12/06/mlb-trade-grades-yankees-padres-juan-soto/).
 
 ## Requirements
 - Python 3.8
