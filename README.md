@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702012106)
+![Generated GIF](output.gif?raw=true&v=1702013624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Board releases new curriculum for AP African American Studies course**
+**Live updates: Republican presidential debate in Alabama on NewsNation**
 
-You can read more about it [here](https://www.youtube.com/watch?v=n3HINRBVL3Q).
+You can read more about it [here](https://www.cnn.com/politics/live-news/republican-debate-12-06-23/index.html).
 
 ## Requirements
 - Python 3.8
