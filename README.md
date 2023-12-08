@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702046050)
+![Generated GIF](output.gif?raw=true&v=1702048179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump's 'dictator' remark puts 2024 campaign right where Biden wants it**
+**UNLV shooting: Former college professor kills three in Las Vegas campus**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/07/trumps-dictator-2024-campaign-biden-00130488).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67642512).
 
 ## Requirements
 - Python 3.8
