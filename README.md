@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702044440)
+![Generated GIF](output.gif?raw=true&v=1702046050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UN chief invokes rarely used constitutional power to push for Israel-Hamas cease-fire**
+**Trump's 'dictator' remark puts 2024 campaign right where Biden wants it**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/07/un-chief-invokes-rarely-used-power-to-push-for-israel-hamas-cease-fire.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/07/trumps-dictator-2024-campaign-biden-00130488).
 
 ## Requirements
 - Python 3.8
