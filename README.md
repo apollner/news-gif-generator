@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702033678)
+![Generated GIF](output.gif?raw=true&v=1702035235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump 'dictator' comment reignites criticism his camp has tried to curb**
+**China's exports grow for first time in 6 months in relief for factories**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2023/12/06/trump-comments-dictator-campaign-president-2024/).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-exports-grow-first-time-6-months-imports-unexpectedly-shrink-2023-12-07/).
 
 ## Requirements
 - Python 3.8
