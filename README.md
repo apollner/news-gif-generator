@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702010127)
+![Generated GIF](output.gif?raw=true&v=1702012106)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UNLV shooting: 3 killed, shooter dead, 1 critically injured**
+**College Board releases new curriculum for AP African American Studies course**
 
-You can read more about it [here](https://apnews.com/article/campus-shooting-las-vegas-unlv-55ca455e2d00f1126cc1dbf4cc29139e).
+You can read more about it [here](https://www.youtube.com/watch?v=n3HINRBVL3Q).
 
 ## Requirements
 - Python 3.8
