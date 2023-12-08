@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702048179)
+![Generated GIF](output.gif?raw=true&v=1702049628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UNLV shooting: Former college professor kills three in Las Vegas campus**
+**Fantasy Football Week 14 Matchup Meanings: Which RBs, WRs & TEs are set for success?**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67642512).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-14-matchup-meanings-which-rbs-wrs-tes-are-set-for-success-162610308.html).
 
 ## Requirements
 - Python 3.8
