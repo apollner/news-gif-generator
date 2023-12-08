@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702004975)
+![Generated GIF](output.gif?raw=true&v=1702006443)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sean Combs faces fourth sexual assault lawsuit in less than a month**
+**College Board releases new curriculum for AP African American Studies course**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/12/06/sean-combs-rape-lawsuit-diddy/).
+You can read more about it [here](https://www.youtube.com/watch?v=n3HINRBVL3Q).
 
 ## Requirements
 - Python 3.8
