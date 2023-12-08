@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702060515)
+![Generated GIF](output.gif?raw=true&v=1702062295)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Google shares pop 5% after company announces Gemini AI model**
+**Lupita Nyong’o and Joshua Jackson look pretty friendly**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/07/google-shares-pop-after-company-announces-gemini-ai-model.html).
+You can read more about it [here](https://www.cnn.com/2023/12/07/entertainment/lupita-nyongo-joshua-jackson/index.html).
 
 ## Requirements
 - Python 3.8
