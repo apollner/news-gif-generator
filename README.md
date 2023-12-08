@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702020826)
+![Generated GIF](output.gif?raw=true&v=1702023123)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Quinnen Williams & C.J. Mosely on Zach Wilson returning as Jets QB 1 & preview game vs Texans| SNY**
+**Patriots-Steelers over-under is 30, lowest total in the NFL in decades**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gKjwbl4602U).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-steelers-over-under-is-30-lowest-total-in-the-nfl-in-decades).
 
 ## Requirements
 - Python 3.8
