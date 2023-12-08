@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1701992025)
+![Generated GIF](output.gif?raw=true&v=1701995567)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Rwanda bill gives ministers power to disregard some human rights law**
+**NFL Fantasy 2023 Start 'Em, Sit 'Em: Defenses for Week 14**
 
-You can read more about it [here](https://www.bbc.com/news/uk-67641805).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-defenses-for-week-14).
 
 ## Requirements
 - Python 3.8
