@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702023123)
+![Generated GIF](output.gif?raw=true&v=1702024536)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patriots-Steelers over-under is 30, lowest total in the NFL in decades**
+**At least 3 dead after shooting on UNLV campus, police say**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-steelers-over-under-is-30-lowest-total-in-the-nfl-in-decades).
+You can read more about it [here](https://www.cnn.com/us/live-news/unlv-shooting-12-06-23/index.html).
 
 ## Requirements
 - Python 3.8
