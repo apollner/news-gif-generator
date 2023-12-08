@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702071202)
+![Generated GIF](output.gif?raw=true&v=1702073248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vegas shooter who killed 3 was a professor who recently applied for a job at UNLV, AP source says**
+**Trump wants election subversion case paused while he appeals judge’s ruling on presidential immunity**
 
-You can read more about it [here](https://apnews.com/article/campus-shooting-las-vegas-unlv-0b12656a801e227d6aa2b9ccee56d9f6).
+You can read more about it [here](https://www.cnn.com/2023/12/07/politics/trump-wants-federal-election-case-put-on-hold-while-he-appeals-ruling-that-hes-not-immune/index.html).
 
 ## Requirements
 - Python 3.8
