@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702017415)
+![Generated GIF](output.gif?raw=true&v=1702019292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venezuela’s president orders creation of new state and map including land from Guyana**
+**US Senate Republican block Ukraine, Israel aid bill over border dispute**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/americas/venezuelas-president-orders-creation-of-new-state-and-map-including-land-from-guyana/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/us-senate-sets-test-vote-ukraine-aid-despite-republican-opposition-2023-12-06/).
 
 ## Requirements
 - Python 3.8
