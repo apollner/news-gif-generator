@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702031783)
+![Generated GIF](output.gif?raw=true&v=1702033678)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yankees Acquire Juan Soto In Seven-Player Trade**
+**Trump 'dictator' comment reignites criticism his camp has tried to curb**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2023/12/padres-trade-juan-soto-trent-grisham-yankees.html).
+You can read more about it [here](https://www.washingtonpost.com/elections/2023/12/06/trump-comments-dictator-campaign-president-2024/).
 
 ## Requirements
 - Python 3.8
