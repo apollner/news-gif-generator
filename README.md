@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702069610)
+![Generated GIF](output.gif?raw=true&v=1702071202)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Fans Flood Kim Kardashian's Comments Section After Singer’s Quotes About Kanye West Scandal**
+**Vegas shooter who killed 3 was a professor who recently applied for a job at UNLV, AP source says**
 
-You can read more about it [here](https://www.etonline.com/taylor-swift-fans-flood-kim-kardashians-comments-section-after-singers-quotes-about-kanye-west).
+You can read more about it [here](https://apnews.com/article/campus-shooting-las-vegas-unlv-0b12656a801e227d6aa2b9ccee56d9f6).
 
 ## Requirements
 - Python 3.8
