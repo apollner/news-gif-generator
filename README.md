@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702000191)
+![Generated GIF](output.gif?raw=true&v=1702002261)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McDonald's to open first CosMc's spinoff restaurant this week**
+**JPMorgan CEO Jamie Dimon says he would "close" cryptocurrency down**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonalds-to-open-first-cosmcs-spinoff-restaurant-this-week.html).
+You can read more about it [here](https://www.axios.com/2023/12/06/jamie-dimon-cryptocurrency-bitcoin).
 
 ## Requirements
 - Python 3.8
