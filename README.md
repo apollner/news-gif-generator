@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702067619)
+![Generated GIF](output.gif?raw=true&v=1702069610)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PFT's Week 14 2023 NFL picks, Florio vs. Simms**
+**Taylor Swift Fans Flood Kim Kardashian's Comments Section After Singer’s Quotes About Kanye West Scandal**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-14-2023-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://www.etonline.com/taylor-swift-fans-flood-kim-kardashians-comments-section-after-singers-quotes-about-kanye-west).
 
 ## Requirements
 - Python 3.8
