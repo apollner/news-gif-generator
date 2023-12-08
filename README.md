@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702003325)
+![Generated GIF](output.gif?raw=true&v=1702004975)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kyiv assassinates pro-Russian Ukrainian politician outside Moscow: reports**
+**Sean Combs faces fourth sexual assault lawsuit in less than a month**
 
-You can read more about it [here](https://thehill.com/policy/international/4346012-kyiv-assassinate-russia-ukraine-moscow/).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/12/06/sean-combs-rape-lawsuit-diddy/).
 
 ## Requirements
 - Python 3.8
