@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702055212)
+![Generated GIF](output.gif?raw=true&v=1702056813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin Visits Saudi Arabia, UAE on Middle East Tour**
+**Get behind my Rwanda asylum plan, Rishi Sunak tells Tories**
 
-You can read more about it [here](https://www.themoscowtimes.com/2023/12/06/putin-visits-saudi-arabia-uae-on-middle-east-tour-a83334).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67649447).
 
 ## Requirements
 - Python 3.8
