@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702136028)
+![Generated GIF](output.gif?raw=true&v=1702138147)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Keanu Reeves Missed By Ski-Masked Intruders At His LA Home**
+**Google weighs Gemini AI project to tell people their life story using phone data, photos**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/keanu-reeves-missed-ski-masked-123032263.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/08/google-weighing-project-ellmann-uses-gemini-ai-to-tell-life-stories.html).
 
 ## Requirements
 - Python 3.8
