@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702114433)
+![Generated GIF](output.gif?raw=true&v=1702116473)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First on CNN: Federal prosecutors file new criminal case against Hunter Biden**
+**US criticises Israel on Gaza civilian toll as UN to hear ceasefire demand**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/us-criticizes-israel-gaza-civilian-toll-un-hear-ceasefire-demand-2023-12-08/).
 
 ## Requirements
 - Python 3.8
