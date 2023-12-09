@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702161208)
+![Generated GIF](output.gif?raw=true&v=1702163204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns**
+**Harvard president apologizes for remarks on campus antisemitism**
 
-You can read more about it [here](https://nypost.com/2023/12/08/lifestyle/deadly-monkeypox-strain-that-kills-1-in-10-raises-cdc-alarm/).
+You can read more about it [here](https://apnews.com/article/harvard-mit-penn-campus-antisemitism-20b8513293ee2dbaee053a6fd3f8ce7a).
 
 ## Requirements
 - Python 3.8
