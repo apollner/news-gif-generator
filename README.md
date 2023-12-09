@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702121626)
+![Generated GIF](output.gif?raw=true&v=1702123930)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The UN secretary-general invoked 'Article 99' to push for a Gaza cease-fire. What exactly is it?**
+**Images from Gaza show Israeli soldiers detaining dozens of men stripped to underwear**
 
-You can read more about it [here](https://apnews.com/article/un-article-99-gaza-israel-hamas-ceasefire-guterres-334858e6a3eee7a71e050a6ea03de635).
+You can read more about it [here](https://www.cnn.com/2023/12/07/middleeast/gaza-israeli-soldiers-detained-men-intl/index.html).
 
 ## Requirements
 - Python 3.8
