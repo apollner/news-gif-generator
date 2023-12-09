@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702103653)
+![Generated GIF](output.gif?raw=true&v=1702105541)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dak wants to 'gift a big W' to McCarthy vs. Eagles**
+**New England Patriots vs. Pittsburgh Steelers | 2023 Week 14 Game Highlights**
 
-You can read more about it [here](https://www.dallascowboys.com/news/dak-wants-to-gift-a-big-w-to-mccarthy-vs-eagles).
+You can read more about it [here](https://www.youtube.com/watch?v=3r_lXz3nQfY).
 
 ## Requirements
 - Python 3.8
