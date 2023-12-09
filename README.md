@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702118018)
+![Generated GIF](output.gif?raw=true&v=1702119969)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump is expected to attend New York fraud trial again**
+**NBA In-Season Tournament championship bracket set: Lakers will face Pacers for NBA Cup**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-fraud-lawsuit-trial-new-york-9713913226e8f65ed966d61ea590eaf5).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-in-season-tournament-championship-bracket-set-lakers-will-face-pacers-for-nba-cup/).
 
 ## Requirements
 - Python 3.8
