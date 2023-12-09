@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702145377)
+![Generated GIF](output.gif?raw=true&v=1702146820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ethan Crumbley, facing possible life without parole for killing 4 students in Michigan school shooting, hears from victims**
+**More deaths blamed for salmonella outbreak from cantaloupes**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/us/oxford-shooting-ethan-crumbley-sentencing/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=p8RPrPaIj6I).
 
 ## Requirements
 - Python 3.8
