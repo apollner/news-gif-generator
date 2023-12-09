@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702125986)
+![Generated GIF](output.gif?raw=true&v=1702127266)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Images from Gaza show Israeli soldiers detaining dozens of men stripped to underwear**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/middleeast/gaza-israeli-soldiers-detained-men-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
