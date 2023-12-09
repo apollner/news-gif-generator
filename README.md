@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702078418)
+![Generated GIF](output.gif?raw=true&v=1702081959)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPenn board chair expected to speak with president Liz Magill about stepping down**
+**Prince Harry Says He Wants to Come Back to the U.K. if It Is Safe**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/business/penn-emergency-meeting-liz-magill/index.html).
+You can read more about it [here](https://www.thedailybeast.com/prince-harry-says-he-wants-to-come-back-to-the-uk-if-it-is-safe).
 
 ## Requirements
 - Python 3.8
