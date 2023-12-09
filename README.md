@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702159531)
+![Generated GIF](output.gif?raw=true&v=1702161208)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyrannosaur’s last meal was two baby dinosaurs**
+**Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67642374).
+You can read more about it [here](https://nypost.com/2023/12/08/lifestyle/deadly-monkeypox-strain-that-kills-1-in-10-raises-cdc-alarm/).
 
 ## Requirements
 - Python 3.8
