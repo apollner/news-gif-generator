@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702102359)
+![Generated GIF](output.gif?raw=true&v=1702103653)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alan Hostetter, ex-police chief who brought hatchet to Capitol on Jan. 6, sentenced to 11 years in prison**
+**Dak wants to 'gift a big W' to McCarthy vs. Eagles**
 
-You can read more about it [here](https://www.cbsnews.com/news/alan-hostetter-sentenced-january-6-capitol-attack-11-years/).
+You can read more about it [here](https://www.dallascowboys.com/news/dak-wants-to-gift-a-big-w-to-mccarthy-vs-eagles).
 
 ## Requirements
 - Python 3.8
