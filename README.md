@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702085858)
+![Generated GIF](output.gif?raw=true&v=1702088434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alan Hostetter, ex-police chief who brought hatchet to Capitol on Jan. 6, sentenced to 11 years in prison**
+**Giannis scores 10 as Bucks take a 29-27 first quarter lead on Pacers**
 
-You can read more about it [here](https://www.cbsnews.com/news/alan-hostetter-sentenced-january-6-capitol-attack-11-years/).
+You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/12/07/milwaukee-bucks-indiana-pacers-in-season-tournament-semifinals-score-game-giannis-injury-report/71836030007/).
 
 ## Requirements
 - Python 3.8
