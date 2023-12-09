@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702091342)
+![Generated GIF](output.gif?raw=true&v=1702092827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Selena Gomez Confirms She's Dating Benny Blanco**
+**One of the two female OpenAI board members replaced after the Sam Altman incident says a company lawyer tried to pressure her with an ‘intimidation’ tactic**
 
-You can read more about it [here](https://www.elle.com/culture/celebrities/a46066519/selena-gomez-confirms-benny-blanco-dating-rumors/).
+You can read more about it [here](https://fortune.com/2023/12/07/helen-toner-openai-board-member-speaks-out-sam-altman-intimidation/).
 
 ## Requirements
 - Python 3.8
