@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702148673)
+![Generated GIF](output.gif?raw=true&v=1702150430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More deaths blamed for salmonella outbreak from cantaloupes**
+**Kevin Costner, Jewel dating after Christine Baumgartner split, report says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=p8RPrPaIj6I).
+You can read more about it [here](https://www.nydailynews.com/2023/12/08/kevin-costner-dating-jewel/).
 
 ## Requirements
 - Python 3.8
