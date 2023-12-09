@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702119969)
+![Generated GIF](output.gif?raw=true&v=1702121626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NBA In-Season Tournament championship bracket set: Lakers will face Pacers for NBA Cup**
+**The UN secretary-general invoked 'Article 99' to push for a Gaza cease-fire. What exactly is it?**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-in-season-tournament-championship-bracket-set-lakers-will-face-pacers-for-nba-cup/).
+You can read more about it [here](https://apnews.com/article/un-article-99-gaza-israel-hamas-ceasefire-guterres-334858e6a3eee7a71e050a6ea03de635).
 
 ## Requirements
 - Python 3.8
