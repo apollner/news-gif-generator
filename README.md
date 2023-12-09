@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702100023)
+![Generated GIF](output.gif?raw=true&v=1702102359)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**"Will Turn Beirut Into Gaza If...": Netanyahu's Warning To Hezbollah**
+**Alan Hostetter, ex-police chief who brought hatchet to Capitol on Jan. 6, sentenced to 11 years in prison**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-will-turn-beirut-into-gaza-if-netanyahu-stern-warning-to-hezbollah-4644410).
+You can read more about it [here](https://www.cbsnews.com/news/alan-hostetter-sentenced-january-6-capitol-attack-11-years/).
 
 ## Requirements
 - Python 3.8
