@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702107216)
+![Generated GIF](output.gif?raw=true&v=1702109462)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Game Awards 2023: Everything Announced**
+**[Removed]**
 
-You can read more about it [here](https://www.ign.com/articles/the-game-awards-2023-everything-announced).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
