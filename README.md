@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702130792)
+![Generated GIF](output.gif?raw=true&v=1702132425)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to expect from the November jobs report**
+**UPenn president Liz Magill called to resign by Wharton board following disastrous testimony on antisemitism**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/economy/november-jobs-report-final/index.html).
+You can read more about it [here](https://www.foxnews.com/us/upenn-president-liz-magill-called-resign-wharton-board-following-disastrous-testimony-antisemitism).
 
 ## Requirements
 - Python 3.8
