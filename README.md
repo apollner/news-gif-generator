@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702134381)
+![Generated GIF](output.gif?raw=true&v=1702136028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Exclusive: Pro-Trump lawyer Kenneth Chesebro cooperating in multiple state probes into 2020 fake electors plot**
+**Keanu Reeves Missed By Ski-Masked Intruders At His LA Home**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/politics/kenneth-chesebro-cooperating-multiple-investigations/index.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/keanu-reeves-missed-ski-masked-123032263.html).
 
 ## Requirements
 - Python 3.8
