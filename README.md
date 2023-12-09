@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702081959)
+![Generated GIF](output.gif?raw=true&v=1702085858)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prince Harry Says He Wants to Come Back to the U.K. if It Is Safe**
+**Alan Hostetter, ex-police chief who brought hatchet to Capitol on Jan. 6, sentenced to 11 years in prison**
 
-You can read more about it [here](https://www.thedailybeast.com/prince-harry-says-he-wants-to-come-back-to-the-uk-if-it-is-safe).
+You can read more about it [here](https://www.cbsnews.com/news/alan-hostetter-sentenced-january-6-capitol-attack-11-years/).
 
 ## Requirements
 - Python 3.8
