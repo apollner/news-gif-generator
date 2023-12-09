@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702110835)
+![Generated GIF](output.gif?raw=true&v=1702112834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4.1 million watch fourth Republican primary debate**
+**Woman arrested for pouring gasoline, trying to burn down Martin Luther King Jr.’s birth home**
 
-You can read more about it [here](https://www.axios.com/2023/12/07/41m-people-watch-fourth-republican-presidential-debate).
+You can read more about it [here](https://www.wsbtv.com/news/local/police-investigating-after-person-tries-vandalize-martin-luther-king-jrs-home-near-king-center/NEBC6LEK4RABJNRYEKTFV6X7AU/).
 
 ## Requirements
 - Python 3.8
