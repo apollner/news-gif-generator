@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702088434)
+![Generated GIF](output.gif?raw=true&v=1702089513)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giannis scores 10 as Bucks take a 29-27 first quarter lead on Pacers**
+**Selena Gomez Confirms She's Dating Benny Blanco**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/12/07/milwaukee-bucks-indiana-pacers-in-season-tournament-semifinals-score-game-giannis-injury-report/71836030007/).
+You can read more about it [here](https://www.elle.com/culture/celebrities/a46066519/selena-gomez-confirms-benny-blanco-dating-rumors/).
 
 ## Requirements
 - Python 3.8
