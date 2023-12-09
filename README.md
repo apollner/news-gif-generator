@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702096462)
+![Generated GIF](output.gif?raw=true&v=1702098380)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas fighting intensifies: Live updates**
+**Bills coach Sean McDermott - Apologized for 9/11 remarks in 2019**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-07-23/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39065999/bills-coach-sean-mcdermott-regrets-9-11-comments-apologizes).
 
 ## Requirements
 - Python 3.8
