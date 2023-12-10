@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702173322)
+![Generated GIF](output.gif?raw=true&v=1702175107)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tyrannosaur Ate Baby Dino Drumsticks Before It Died, Stunning Fossil Reveals**
+**Apple Puts a Stop to Beeper Mini's iMessage for Android Feature**
 
-You can read more about it [here](https://gizmodo.com/young-tyrannosaur-last-meal-diet-fossil-gorgosaurus-1851080504).
+You can read more about it [here](https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/).
 
 ## Requirements
 - Python 3.8
