@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702181381)
+![Generated GIF](output.gif?raw=true&v=1702182854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oregon quarterback Bo Nix overcomes adversity at Auburn to become Heisman finalist**
+**Respiratory virus cases ‘mounting' in Illinois ahead of the holidays, health officials warn**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/pac12/2023/12/08/bo-nix-oregon-qb-heisman-finalist/71852944007/).
+You can read more about it [here](http://www.nbcchicago.com/news/local/respiratory-virus-cases-mounting-in-illinois-ahead-of-the-holidays-health-officials-warn/3298724/).
 
 ## Requirements
 - Python 3.8
