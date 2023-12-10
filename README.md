@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702208019)
+![Generated GIF](output.gif?raw=true&v=1702210338)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fortnite: Rocket Racing - 12 Minutes of Gameplay**
+**FULL SEGMENT – CM Punk delivers WrestleMania main event address: SmackDown, Dec. 8, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wXSVhudo8mE).
+You can read more about it [here](https://www.youtube.com/watch?v=BtNrIGI73qo).
 
 ## Requirements
 - Python 3.8
