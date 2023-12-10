@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702247716)
+![Generated GIF](output.gif?raw=true&v=1702249613)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rep. James Comer says Hunter Biden indictment was 'to protect him'**
+**14 killed in central Mexico in clash between criminal gang and villagers**
 
-You can read more about it [here](https://nypost.com/2023/12/09/news/rep-james-comer-hunter-biden-indicted-to-protect-him/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/11-dead-clash-criminal-gang-villagers-central-mexico-105511540).
 
 ## Requirements
 - Python 3.8
