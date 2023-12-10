@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702177786)
+![Generated GIF](output.gif?raw=true&v=1702179220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies**
+**'Zombie deer' disease has been reported in more than half the US: What to know about CWD**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-08-23/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/08/what-is-cwd-deer/71855116007/).
 
 ## Requirements
 - Python 3.8
