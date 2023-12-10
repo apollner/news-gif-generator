@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702227931)
+![Generated GIF](output.gif?raw=true&v=1702229626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Third UNLV shooting victim ID'd as Japanese studies professor Naoko Takemaru**
+**The Fed watcher who called the 2007 housing bubble expects interest rates to stay high for ‘much, much, much longer.’ It’s payback for the unsustainable ‘free money era’**
 
-You can read more about it [here](https://nypost.com/2023/12/08/news/dr-naoko-takemaru-identified-as-third-university-of-las-vegas-shooting/).
+You can read more about it [here](https://fortune.com/2023/12/09/jim-grant-interest-rates-bubble-capital/).
 
 ## Requirements
 - Python 3.8
