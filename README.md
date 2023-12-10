@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702191958)
+![Generated GIF](output.gif?raw=true&v=1702193685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Europe agrees landmark AI regulation deal**
+**Oprah Winfrey Shares Insight into Her Health and Fitness Transformation**
 
-You can read more about it [here](https://www.reuters.com/technology/stalled-eu-ai-act-talks-set-resume-2023-12-08/).
+You can read more about it [here](https://www.eonline.com/news/1391182/oprah-winfrey-shares-insight-into-her-health-and-fitness-transformation).
 
 ## Requirements
 - Python 3.8
