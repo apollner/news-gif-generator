@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702235082)
+![Generated GIF](output.gif?raw=true&v=1702236823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Israeli strike leaves Gaza's oldest mosque in ruins**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2023/12/09/1218384968/mosque-gaza-omari-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
