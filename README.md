@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702226170)
+![Generated GIF](output.gif?raw=true&v=1702227931)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Extraordinarily rare white leucistic gator with twinkling blue eyes born in Florida**
+**Third UNLV shooting victim ID'd as Japanese studies professor Naoko Takemaru**
 
-You can read more about it [here](https://www.cbsnews.com/news/rare-white-leucistic-gator-twinkling-blue-eyes-born-florida/).
+You can read more about it [here](https://nypost.com/2023/12/08/news/dr-naoko-takemaru-identified-as-third-university-of-las-vegas-shooting/).
 
 ## Requirements
 - Python 3.8
