@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702197232)
+![Generated GIF](output.gif?raw=true&v=1702199219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Geoff Keighley Agrees Music Was Played "Too Fast" For TGA Winners This Year**
+**Spread of respiratory illness in dogs prompts free vaccine clinic**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/12/geoff-keighley-agrees-music-was-played-too-fast-for-tga-winners-this-year).
+You can read more about it [here](https://www.kob.com/new-mexico/spread-of-respiratory-illness-in-dogs-prompts-free-vaccine-clinic-bernalillo-county/).
 
 ## Requirements
 - Python 3.8
