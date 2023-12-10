@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702215232)
+![Generated GIF](output.gif?raw=true&v=1702217139)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Latest Israel-Hamas war news summary and Gaza death toll updates**
+**Texas Supreme Court temporarily blocks pregnant woman from emergency abortion**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/09/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.cnn.com/2023/12/08/us/texas-abortion-ruling-attorney-general-petition/index.html).
 
 ## Requirements
 - Python 3.8
