@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702199219)
+![Generated GIF](output.gif?raw=true&v=1702200884)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spread of respiratory illness in dogs prompts free vaccine clinic**
+**Third UNLV shooting victim ID'd as Japanese studies professor Naoko Takemaru**
 
-You can read more about it [here](https://www.kob.com/new-mexico/spread-of-respiratory-illness-in-dogs-prompts-free-vaccine-clinic-bernalillo-county/).
+You can read more about it [here](https://nypost.com/2023/12/08/news/dr-naoko-takemaru-identified-as-third-university-of-las-vegas-shooting/).
 
 ## Requirements
 - Python 3.8
