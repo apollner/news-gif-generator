@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702229626)
+![Generated GIF](output.gif?raw=true&v=1702231809)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Fed watcher who called the 2007 housing bubble expects interest rates to stay high for ‘much, much, much longer.’ It’s payback for the unsustainable ‘free money era’**
+**Emergency Rwanda legislation is doomed to fail, says Robert Jenrick**
 
-You can read more about it [here](https://fortune.com/2023/12/09/jim-grant-interest-rates-bubble-capital/).
+You can read more about it [here](https://www.bbc.com/news/uk-67669609).
 
 ## Requirements
 - Python 3.8
