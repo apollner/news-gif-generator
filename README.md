@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702217139)
+![Generated GIF](output.gif?raw=true&v=1702218828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Supreme Court temporarily blocks pregnant woman from emergency abortion**
+**Oxford High School shooter sentenced to life in prison without parole**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/us/texas-abortion-ruling-attorney-general-petition/index.html).
+You can read more about it [here](https://www.cbsnews.com/detroit/news/oxford-high-school-shooter-sentenced-to-life-in-prison-without-parole/).
 
 ## Requirements
 - Python 3.8
