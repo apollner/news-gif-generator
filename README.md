@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702179220)
+![Generated GIF](output.gif?raw=true&v=1702181381)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Zombie deer' disease has been reported in more than half the US: What to know about CWD**
+**Oregon quarterback Bo Nix overcomes adversity at Auburn to become Heisman finalist**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/08/what-is-cwd-deer/71855116007/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/pac12/2023/12/08/bo-nix-oregon-qb-heisman-finalist/71852944007/).
 
 ## Requirements
 - Python 3.8
