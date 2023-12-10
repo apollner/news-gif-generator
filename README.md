@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702168504)
+![Generated GIF](output.gif?raw=true&v=1702173322)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump gag order in 2020 election case largely upheld by appeals court**
+**Tyrannosaur Ate Baby Dino Drumsticks Before It Died, Stunning Fossil Reveals**
 
-You can read more about it [here](https://www.cbsnews.com/news/appeals-court-upholds-key-portions-of-trump-gag-order-in-2020-election-case/).
+You can read more about it [here](https://gizmodo.com/young-tyrannosaur-last-meal-diet-fossil-gorgosaurus-1851080504).
 
 ## Requirements
 - Python 3.8
