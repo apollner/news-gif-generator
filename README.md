@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702195818)
+![Generated GIF](output.gif?raw=true&v=1702197232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oprah Winfrey Shares Insight into Her Health and Fitness Transformation**
+**Geoff Keighley Agrees Music Was Played "Too Fast" For TGA Winners This Year**
 
-You can read more about it [here](https://www.eonline.com/news/1391182/oprah-winfrey-shares-insight-into-her-health-and-fitness-transformation).
+You can read more about it [here](https://www.nintendolife.com/news/2023/12/geoff-keighley-agrees-music-was-played-too-fast-for-tga-winners-this-year).
 
 ## Requirements
 - Python 3.8
