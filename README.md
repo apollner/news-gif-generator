@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702210338)
+![Generated GIF](output.gif?raw=true&v=1702212526)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FULL SEGMENT – CM Punk delivers WrestleMania main event address: SmackDown, Dec. 8, 2023**
+**Latest Israel-Hamas war news summary and Gaza death toll updates**
 
-You can read more about it [here](https://www.youtube.com/watch?v=BtNrIGI73qo).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/09/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
