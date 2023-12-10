@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702190045)
+![Generated GIF](output.gif?raw=true&v=1702191958)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heisman Trophy 2023: Presenting compelling cases for each of the finalists**
+**Europe agrees landmark AI regulation deal**
 
-You can read more about it [here](https://247sports.com/longformarticle/heisman-trophy-2023-presenting-compelling-cases-for-each-of-the-finalists-222641629/).
+You can read more about it [here](https://www.reuters.com/technology/stalled-eu-ai-act-talks-set-resume-2023-12-08/).
 
 ## Requirements
 - Python 3.8
