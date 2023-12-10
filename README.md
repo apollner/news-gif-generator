@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702200884)
+![Generated GIF](output.gif?raw=true&v=1702202819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Third UNLV shooting victim ID'd as Japanese studies professor Naoko Takemaru**
+**Sam Altman Accused of "Psychologically Abusive" Behavior**
 
-You can read more about it [here](https://nypost.com/2023/12/08/news/dr-naoko-takemaru-identified-as-third-university-of-las-vegas-shooting/).
+You can read more about it [here](https://gizmodo.com/sam-altman-ceo-psychologically-abusive-openai-1851082091).
 
 ## Requirements
 - Python 3.8
