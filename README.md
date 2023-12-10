@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702238841)
+![Generated GIF](output.gif?raw=true&v=1702240453)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**As they prepare to accept her Nobel prize, jailed activist’s children believe they’ll never see her again**
+**Exclusive: Dem senators, ministers bash OPEC letter rattling COP28 summit**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/middleeast/narges-mohammadi-nobel-children-intl/index.html).
+You can read more about it [here](https://www.axios.com/2023/12/09/senators-ministers-bash-opec-letter-cop28).
 
 ## Requirements
 - Python 3.8
