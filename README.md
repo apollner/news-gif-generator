@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702224547)
+![Generated GIF](output.gif?raw=true&v=1702226170)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 4 dead after fire breaks out in hospital in Rome**
+**Extraordinarily rare white leucistic gator with twinkling blue eyes born in Florida**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/europe/hospital-fire-italy-four-dead-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/rare-white-leucistic-gator-twinkling-blue-eyes-born-florida/).
 
 ## Requirements
 - Python 3.8
