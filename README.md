@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702231809)
+![Generated GIF](output.gif?raw=true&v=1702233213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Emergency Rwanda legislation is doomed to fail, says Robert Jenrick**
+**MLB Network Reporter Retracts Inaccurate Shohei Ohtani Report**
 
-You can read more about it [here](https://www.bbc.com/news/uk-67669609).
+You can read more about it [here](https://www.si.com/mlb/2023/12/09/jon-morosi-apology-retraction-shohei-ohtani-inaccurate-report-flight-toronto).
 
 ## Requirements
 - Python 3.8
