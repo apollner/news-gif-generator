@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702175107)
+![Generated GIF](output.gif?raw=true&v=1702176205)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Puts a Stop to Beeper Mini's iMessage for Android Feature**
+**Shohei Ohtani to the Blue Jays? Projecting how MLB star would fit in Toronto's 2024 lineup, 2025 rotation**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-to-the-blue-jays-projecting-how-mlb-star-would-fit-in-torontos-2024-lineup-2025-rotation/).
 
 ## Requirements
 - Python 3.8
