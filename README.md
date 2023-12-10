@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702218828)
+![Generated GIF](output.gif?raw=true&v=1702220797)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oxford High School shooter sentenced to life in prison without parole**
+**Shohei Ohtani's wild week of free agency, recapped**
 
-You can read more about it [here](https://www.cbsnews.com/detroit/news/oxford-high-school-shooter-sentenced-to-life-in-prison-without-parole/).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-wild-week-of-free-agency-recap).
 
 ## Requirements
 - Python 3.8
