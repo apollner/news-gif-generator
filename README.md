@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702245980)
+![Generated GIF](output.gif?raw=true&v=1702247716)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**OpenAI's Sam Altman opens up about shock firing**
+**Rep. James Comer says Hunter Biden indictment was 'to protect him'**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/openais-sam-altman-opens-up-shock-firing).
+You can read more about it [here](https://nypost.com/2023/12/09/news/rep-james-comer-hunter-biden-indicted-to-protect-him/).
 
 ## Requirements
 - Python 3.8
