@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702251254)
+![Generated GIF](output.gif?raw=true&v=1702254807)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Narges Mohammadi, Iranian activist and Nobel peace prize winner, to go on new hunger strike as prize is awarded**
+**Shohei Ohtani, most coveted free agent in baseball history, to sign $700 million contract with Dodgers**
 
-You can read more about it [here](https://www.cbsnews.com/news/narges-mohammadi-iranian-nobel-peace-prize-winner-hunger-strike/).
+You can read more about it [here](https://theathletic.com/5106526/2023/12/09/shohei-ohtani-signs/).
 
 ## Requirements
 - Python 3.8
