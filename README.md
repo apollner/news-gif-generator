@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702330450)
+![Generated GIF](output.gif?raw=true&v=1702332445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran’s Mohammadi slams ‘tyrannical’ regime in Nobel Prize speech from jail**
+**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/10/irans-mohammadi-slams-tyrannical-regime-in-nobel-prize-speech-from-jail).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
 
 ## Requirements
 - Python 3.8
