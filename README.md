@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702308906)
+![Generated GIF](output.gif?raw=true&v=1702311024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Black lung threat increasing among coal miners**
+**"Blessing In Disguise": Sam Altman Reflects On Being Fired As OpenAI CEO**
 
-You can read more about it [here](https://www.youtube.com/watch?v=t-LCYuecyUY).
+You can read more about it [here](https://www.ndtv.com/world-news/blessing-in-disguise-sam-altman-reflects-on-being-fired-as-openai-ceo-4651540).
 
 ## Requirements
 - Python 3.8
