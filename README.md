@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702301687)
+![Generated GIF](output.gif?raw=true&v=1702303789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Anthony Davis’ iconic, emotional performance in Lakers NBA Cup final win really means**
+**Teenage children of jailed Narges Mohammadi accept her Nobel Peace Prize**
 
-You can read more about it [here](https://theathletic.com/5125272/2023/12/10/anthony-davis-lakers-win-nba-in-season-tournament/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67675851).
 
 ## Requirements
 - Python 3.8
