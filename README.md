@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702303789)
+![Generated GIF](output.gif?raw=true&v=1702305405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Teenage children of jailed Narges Mohammadi accept her Nobel Peace Prize**
+**Jerome Powell's Inflation Fight Is Succeeding, Raising Questions About Rate Cuts**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67675851).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/federal-reserve-cutting-interest-rates-when-4a910883).
 
 ## Requirements
 - Python 3.8
