@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702269410)
+![Generated GIF](output.gif?raw=true&v=1702271390)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why FDA approval of sickle cell gene therapy is a 'big deal'**
+**UPenn president Liz Magill and Board Chair Scott Bok resign after disastrous hearing on antisemitism**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
+You can read more about it [here](https://www.cnn.com/2023/12/09/business/upenn-board-of-trustees-meeting-liz-magill/index.html).
 
 ## Requirements
 - Python 3.8
