@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702321498)
+![Generated GIF](output.gif?raw=true&v=1702325422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cigna Calls Off Humana Pursuit, Plans Big Stock Buyback - WSJ**
+**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 game**
 
-You can read more about it [here](https://www.wsj.com/business/deals/cigna-calls-off-humana-pursuit-plans-big-stock-buyback-ae1c6b3c).
+You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-live-updates-game-stats-highlights-analysis-for-week-14-game/live/).
 
 ## Requirements
 - Python 3.8
