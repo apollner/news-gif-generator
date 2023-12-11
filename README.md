@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702287307)
+![Generated GIF](output.gif?raw=true&v=1702289465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daily horoscope for December 10, 2023**
+**Egyptians head to polls in election overshadowed by Gaza war**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-12102023-20231210-eelm3hh5lfhn5cs6zvzqbogwmi-story.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/egyptians-head-polls-election-overshadowed-by-gaza-war-2023-12-10/).
 
 ## Requirements
 - Python 3.8
