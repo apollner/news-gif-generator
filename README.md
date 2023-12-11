@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702285781)
+![Generated GIF](output.gif?raw=true&v=1702287307)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Shark Tank' investor Robert Herjavec pokes fun at Shohei Ohtani rumors after viral flight**
+**Daily horoscope for December 10, 2023**
 
-You can read more about it [here](https://www.foxnews.com/sports/shark-tank-investor-robert-herjavec-pokes-fun-shohei-ohtani-rumors-viral-flight).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-12102023-20231210-eelm3hh5lfhn5cs6zvzqbogwmi-story.html).
 
 ## Requirements
 - Python 3.8
