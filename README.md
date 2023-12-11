@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702272821)
+![Generated GIF](output.gif?raw=true&v=1702275085)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Air Force major convicted of manslaughter blames wife for fight that led to her death**
+**Ilja Dragunov vs. Baron Corbin - NXT Championship Match: NXT Deadline 2023 highlights**
 
-You can read more about it [here](https://www.cbsnews.com/news/andreen-mcdonald-san-antonio-andre-mcdonald-convicted-manslaughter-48-hours/).
+You can read more about it [here](https://www.youtube.com/watch?v=m1_Y_lO17Xc).
 
 ## Requirements
 - Python 3.8
