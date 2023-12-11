@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702318295)
+![Generated GIF](output.gif?raw=true&v=1702319789)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sports world reacts on social media to Shohei Ohtani's contract**
+**Matt Lauer and Savannah Guthrie Hug and Kiss at 'Today' Show Producer's Wedding**
 
-You can read more about it [here](https://www.mlb.com/news/mlb-players-react-on-social-media-to-shohei-ohtani-s-contract).
+You can read more about it [here](https://www.tmz.com/2023/12/10/matt-lauer-savannah-guthrie-hug-kiss-today-producer-wedding/).
 
 ## Requirements
 - Python 3.8
