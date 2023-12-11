@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702280068)
+![Generated GIF](output.gif?raw=true&v=1702282304)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 14 odds, expert picks, best bets, teasers, spreads, survivor picks, TV, streaming, more**
+**First tomato ever grown in space, lost 8 months ago, found by NASA astronauts**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-tv-streaming-more/).
+You can read more about it [here](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/).
 
 ## Requirements
 - Python 3.8
