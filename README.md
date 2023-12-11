@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702282304)
+![Generated GIF](output.gif?raw=true&v=1702283850)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**First tomato ever grown in space, lost 8 months ago, found by NASA astronauts**
+**Nashville tornado: Severe storms tear through central Tennessee**
 
-You can read more about it [here](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/).
+You can read more about it [here](https://apnews.com/article/tornado-severe-weather-tennessee-kentucky-3950302968eacc6724a93c18cf313a58).
 
 ## Requirements
 - Python 3.8
