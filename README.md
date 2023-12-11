@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702316032)
+![Generated GIF](output.gif?raw=true&v=1702318295)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Manganiello Makes Red Carpet Debut With New GF As Sofia Vergara Divorce Wraps**
+**Sports world reacts on social media to Shohei Ohtani's contract**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/joe-manganiello-makes-red-carpet-150005508.html).
+You can read more about it [here](https://www.mlb.com/news/mlb-players-react-on-social-media-to-shohei-ohtani-s-contract).
 
 ## Requirements
 - Python 3.8
