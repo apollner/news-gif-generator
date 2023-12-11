@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702328852)
+![Generated GIF](output.gif?raw=true&v=1702330450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cheney: Americans "can't count” on GOP in Congress to defend the constitution**
+**Iran’s Mohammadi slams ‘tyrannical’ regime in Nobel Prize speech from jail**
 
-You can read more about it [here](https://www.axios.com/2023/12/10/cheney-gop-defend-constitution).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/10/irans-mohammadi-slams-tyrannical-regime-in-nobel-prize-speech-from-jail).
 
 ## Requirements
 - Python 3.8
