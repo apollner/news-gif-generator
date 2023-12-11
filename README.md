@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702283850)
+![Generated GIF](output.gif?raw=true&v=1702285781)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nashville tornado: Severe storms tear through central Tennessee**
+**'Shark Tank' investor Robert Herjavec pokes fun at Shohei Ohtani rumors after viral flight**
 
-You can read more about it [here](https://apnews.com/article/tornado-severe-weather-tennessee-kentucky-3950302968eacc6724a93c18cf313a58).
+You can read more about it [here](https://www.foxnews.com/sports/shark-tank-investor-robert-herjavec-pokes-fun-shohei-ohtani-rumors-viral-flight).
 
 ## Requirements
 - Python 3.8
