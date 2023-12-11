@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702254807)
+![Generated GIF](output.gif?raw=true&v=1702259465)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shohei Ohtani, most coveted free agent in baseball history, to sign $700 million contract with Dodgers**
+**Tatum O’Neal Pays Tribute to Father Ryan O’Neal: “I’ll Miss Him Forever”**
 
-You can read more about it [here](https://theathletic.com/5106526/2023/12/09/shohei-ohtani-signs/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/ryan-oneal-dead-tatum-oneal-pays-tribute-1235732137/).
 
 ## Requirements
 - Python 3.8
