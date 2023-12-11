@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702278518)
+![Generated GIF](output.gif?raw=true&v=1702280068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why FDA approval of sickle cell gene therapy is a 'big deal'**
+**NFL Week 14 odds, expert picks, best bets, teasers, spreads, survivor picks, TV, streaming, more**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-tv-streaming-more/).
 
 ## Requirements
 - Python 3.8
