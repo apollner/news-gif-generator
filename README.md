@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702325422)
+![Generated GIF](output.gif?raw=true&v=1702326823)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 game**
+**Cheney: Americans "can't count” on GOP in Congress to defend the constitution**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-live-updates-game-stats-highlights-analysis-for-week-14-game/live/).
+You can read more about it [here](https://www.axios.com/2023/12/10/cheney-gop-defend-constitution).
 
 ## Requirements
 - Python 3.8
