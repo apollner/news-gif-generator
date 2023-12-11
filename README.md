@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702296847)
+![Generated GIF](output.gif?raw=true&v=1702299130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPenn Board of Trustees Chair Scott Bok resigns, following departure of President Liz Magill**
+**Egyptians vote in presidential polls clouded by economic crisis**
 
-You can read more about it [here](https://www.foxnews.com/politics/upenn-board-trustees-chair-scott-bok-resigns-following-departure-president-liz-magill).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/10/egyptians-vote-in-presidential-polls-clouded-by-economic-crisis-gaza-war).
 
 ## Requirements
 - Python 3.8
