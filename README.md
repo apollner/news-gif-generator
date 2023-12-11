@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702294480)
+![Generated GIF](output.gif?raw=true&v=1702296847)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 14 odds, expert picks, best bets, teasers, spreads, survivor picks, TV, streaming, more**
+**UPenn Board of Trustees Chair Scott Bok resigns, following departure of President Liz Magill**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-tv-streaming-more/).
+You can read more about it [here](https://www.foxnews.com/politics/upenn-board-trustees-chair-scott-bok-resigns-following-departure-president-liz-magill).
 
 ## Requirements
 - Python 3.8
