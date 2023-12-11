@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702300375)
+![Generated GIF](output.gif?raw=true&v=1702301687)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Song Yadong routs Chris Gutierrez in UFC Fight Night main event**
+**What Anthony Davis’ iconic, emotional performance in Lakers NBA Cup final win really means**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/39080783/song-yadong-routs-chris-gutierrez-ufc-fight-night-main-event).
+You can read more about it [here](https://theathletic.com/5125272/2023/12/10/anthony-davis-lakers-win-nba-in-season-tournament/).
 
 ## Requirements
 - Python 3.8
