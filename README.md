@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702271390)
+![Generated GIF](output.gif?raw=true&v=1702272821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UPenn president Liz Magill and Board Chair Scott Bok resign after disastrous hearing on antisemitism**
+**Air Force major convicted of manslaughter blames wife for fight that led to her death**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/business/upenn-board-of-trustees-meeting-liz-magill/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/andreen-mcdonald-san-antonio-andre-mcdonald-convicted-manslaughter-48-hours/).
 
 ## Requirements
 - Python 3.8
