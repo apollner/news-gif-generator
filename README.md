@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702267838)
+![Generated GIF](output.gif?raw=true&v=1702269410)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Multiple dead as tornadoes tear through Tennessee: 'Sad day for our community'**
+**Why FDA approval of sickle cell gene therapy is a 'big deal'**
 
-You can read more about it [here](https://abcnews.go.com/US/multiple-long-track-tornadoes-tear-northwest-tennessee/story?id=105524001).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
 
 ## Requirements
 - Python 3.8
