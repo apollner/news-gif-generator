@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702332445)
+![Generated GIF](output.gif?raw=true&v=1702334086)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
+**Cigna abandons pursuit of Humana, plans $10 billion share buyback**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
+You can read more about it [here](https://www.reuters.com/markets/deals/us-health-insurer-cigna-scraps-deal-buy-humana-wsj-2023-12-10/).
 
 ## Requirements
 - Python 3.8
