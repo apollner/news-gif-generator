@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702334086)
+![Generated GIF](output.gif?raw=true&v=1702336065)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cigna abandons pursuit of Humana, plans $10 billion share buyback**
+**Storm brings heavy rain, wind gusts and potential flooding to New England on Sunday**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/us-health-insurer-cigna-scraps-deal-buy-humana-wsj-2023-12-10/).
+You can read more about it [here](http://www.nbcboston.com/news/local/storm-brings-heavy-rain-wind-gusts-and-potential-flooding-to-new-england-on-sunday/3215211/).
 
 ## Requirements
 - Python 3.8
