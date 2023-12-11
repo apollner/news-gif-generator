@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702276676)
+![Generated GIF](output.gif?raw=true&v=1702278518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Shutters Third-Party Apps that Enabled iMessage on Android**
+**Why FDA approval of sickle cell gene therapy is a 'big deal'**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-10/apple-shutters-third-party-apps-that-enabled-imessage-on-android).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
 
 ## Requirements
 - Python 3.8
