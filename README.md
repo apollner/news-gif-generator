@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702265619)
+![Generated GIF](output.gif?raw=true&v=1702267838)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC Vegas 83 results, live streaming play-by-play updates | Song vs. Gutierrez**
+**Multiple dead as tornadoes tear through Tennessee: 'Sad day for our community'**
 
-You can read more about it [here](https://www.mmamania.com/2023/12/9/23989564/ufc-vegas-83-results-live-streaming-play-by-play-updates-song-vs-gutierrez-apex-espn-mma).
+You can read more about it [here](https://abcnews.go.com/US/multiple-long-track-tornadoes-tear-northwest-tennessee/story?id=105524001).
 
 ## Requirements
 - Python 3.8
