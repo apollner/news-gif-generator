@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702307360)
+![Generated GIF](output.gif?raw=true&v=1702308906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Extensive storm damage in Homewood includes multiple downed trees, gas leaks, and more**
+**Black lung threat increasing among coal miners**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.youtube.com/watch?v=t-LCYuecyUY).
 
 ## Requirements
 - Python 3.8
