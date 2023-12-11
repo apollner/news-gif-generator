@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702319789)
+![Generated GIF](output.gif?raw=true&v=1702321498)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matt Lauer and Savannah Guthrie Hug and Kiss at 'Today' Show Producer's Wedding**
+**Cigna Calls Off Humana Pursuit, Plans Big Stock Buyback - WSJ**
 
-You can read more about it [here](https://www.tmz.com/2023/12/10/matt-lauer-savannah-guthrie-hug-kiss-today-producer-wedding/).
+You can read more about it [here](https://www.wsj.com/business/deals/cigna-calls-off-humana-pursuit-plans-big-stock-buyback-ae1c6b3c).
 
 ## Requirements
 - Python 3.8
