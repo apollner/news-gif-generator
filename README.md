@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702275085)
+![Generated GIF](output.gif?raw=true&v=1702276676)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ilja Dragunov vs. Baron Corbin - NXT Championship Match: NXT Deadline 2023 highlights**
+**Apple Shutters Third-Party Apps that Enabled iMessage on Android**
 
-You can read more about it [here](https://www.youtube.com/watch?v=m1_Y_lO17Xc).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-10/apple-shutters-third-party-apps-that-enabled-imessage-on-android).
 
 ## Requirements
 - Python 3.8
