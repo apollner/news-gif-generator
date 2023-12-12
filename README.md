@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702364887)
+![Generated GIF](output.gif?raw=true&v=1702366421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**University of Pennsylvania President resigns**
+**Deadly Rocky Mountain spotted fever outbreak in California likely came from Mexico, CDC says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=r_FrNLf-B1g).
+You can read more about it [here](https://www.foxnews.com/health/deadly-rocky-mountain-spotted-fever-outbreak-california-likely-came-mexico-cdc).
 
 ## Requirements
 - Python 3.8
