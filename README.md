@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702404629)
+![Generated GIF](output.gif?raw=true&v=1702406026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Regulators caught Wells Fargo, other banks in probe over mortgage pricing discrimination**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/wells-fargo-mortgage-lenders-probed-over-racial-discrimination.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
