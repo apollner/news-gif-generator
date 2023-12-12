@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702361472)
+![Generated GIF](output.gif?raw=true&v=1702362996)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 14 grades: Cowboys earn an 'A' for destroying Eagles, Chiefs get a 'C' for second straight loss**
+**Russians banned from travel to hand over passports within five days**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-grades-cowboys-earn-an-a-for-destroying-eagles-chiefs-get-a-c-for-second-straight-loss/).
+You can read more about it [here](https://www.reuters.com/world/europe/russians-banned-travel-hand-over-passports-within-five-days-decree-2023-12-10/).
 
 ## Requirements
 - Python 3.8
