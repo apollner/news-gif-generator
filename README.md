@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702345930)
+![Generated GIF](output.gif?raw=true&v=1702347868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about COVID, RSV and flu vaccines this winter**
+**U.S. Support for the Philippines in the South China Sea - United States Department of State**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/your-questions-answered-about-staying-safe-from-covid-rsv-and-flu-this-winter).
+You can read more about it [here](https://www.state.gov/u-s-support-for-the-philippines-in-the-south-china-sea-7/).
 
 ## Requirements
 - Python 3.8
