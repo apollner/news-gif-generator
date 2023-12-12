@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702399169)
+![Generated GIF](output.gif?raw=true&v=1702400794)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about the Geminids, the best meteor show of the year**
+**Occidental Petroleum to expand Permian ops with $12 billion deal for CrownRock**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
+You can read more about it [here](https://www.reuters.com/markets/deals/occidental-petroleum-buy-crownrock-12-bln-deal-2023-12-11/).
 
 ## Requirements
 - Python 3.8
