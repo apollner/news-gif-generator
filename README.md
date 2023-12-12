@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702355801)
+![Generated GIF](output.gif?raw=true&v=1702357675)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
+**Donald Trump says he will not testify in civil fraud trial on Monday**
 
-You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-will-not-testify-civil-fraud-trial-on-monday/).
 
 ## Requirements
 - Python 3.8
