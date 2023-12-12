@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702402479)
+![Generated GIF](output.gif?raw=true&v=1702404629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Golden Globes Film Nominations Analysis: As ‘Barbenheimer’ Crushes The Field, Summer Blockbusters Take Triumphs To Awards Season**
+**Regulators caught Wells Fargo, other banks in probe over mortgage pricing discrimination**
 
-You can read more about it [here](https://deadline.com/2023/12/golden-globes-analysis-film-barbenheimer-crushes-field-barbie-oppenheimer-1235661459/).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/wells-fargo-mortgage-lenders-probed-over-racial-discrimination.html).
 
 ## Requirements
 - Python 3.8
