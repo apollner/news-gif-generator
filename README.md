@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702359257)
+![Generated GIF](output.gif?raw=true&v=1702361472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**December 10, 2023 Israel-Hamas war**
+**NFL Week 14 grades: Cowboys earn an 'A' for destroying Eagles, Chiefs get a 'C' for second straight loss**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-10-23/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-grades-cowboys-earn-an-a-for-destroying-eagles-chiefs-get-a-c-for-second-straight-loss/).
 
 ## Requirements
 - Python 3.8
