@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702411760)
+![Generated GIF](output.gif?raw=true&v=1702413230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump maintains a commanding lead over GOP rivals, new Iowa poll shows**
+**Seven Lessons From the New Golden Globe Awards Voters’ First Nominations**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/11/iowa-poll-trump-desantis-haley/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/7-biggest-takeaways-2024-golden-globe-nominations-1235738106/).
 
 ## Requirements
 - Python 3.8
