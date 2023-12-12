@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702372192)
+![Generated GIF](output.gif?raw=true&v=1702373628)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TikTok to invest $1.5 bln in GoTo unit to restart e-commerce in Indonesia**
+**TikTok Shop Indonesia to reopen after $1.5bn deal – BBC News**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/tiktok-invest-15-bln-indonesias-goto-2023-12-11/).
+You can read more about it [here](https://www.youtube.com/watch?v=zpe9gqYAU-E).
 
 ## Requirements
 - Python 3.8
