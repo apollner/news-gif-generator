@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702370174)
+![Generated GIF](output.gif?raw=true&v=1702372192)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patrick Mahomes Says He Still Wants Travis Kelce's Non-TD to Be Shown When He Enters Hall of Fame**
+**TikTok to invest $1.5 bln in GoTo unit to restart e-commerce in Indonesia**
 
-You can read more about it [here](https://www.si.com/nfl/2023/12/11/patrick-mahomes-travis-kelce-throw-hall-of-fame).
+You can read more about it [here](https://www.reuters.com/markets/deals/tiktok-invest-15-bln-indonesias-goto-2023-12-11/).
 
 ## Requirements
 - Python 3.8
