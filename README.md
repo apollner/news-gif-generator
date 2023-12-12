@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702386700)
+![Generated GIF](output.gif?raw=true&v=1702388029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chilli & Matthew Lawrence Going Strong, Spending Holidays Together**
+**Bitcoin price correction hints start of altseason, trader suggests**
 
-You can read more about it [here](https://www.tmz.com/2023/12/11/chilli-matthew-lawrence-relationship-going-strong-spending-holidays-together/).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-price-correction-altcoin-season-trader).
 
 ## Requirements
 - Python 3.8
