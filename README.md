@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702377513)
+![Generated GIF](output.gif?raw=true&v=1702379179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tennessee tornado outbreak latest: Two tornadoes confirmed, ranked**
+**Russians banned from travel to hand over passports within five days**
 
-You can read more about it [here](https://www.tennessean.com/story/news/2023/12/10/updates-fatalities-reported-in-middle-tennessee-after-saturday-tornadoes/71868379007/).
+You can read more about it [here](https://www.reuters.com/world/europe/russians-banned-travel-hand-over-passports-within-five-days-decree-2023-12-10/).
 
 ## Requirements
 - Python 3.8
