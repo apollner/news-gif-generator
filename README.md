@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702395235)
+![Generated GIF](output.gif?raw=true&v=1702397745)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Excited' Cardi B confirms Offset breakup as he denies cheating with Chrisean Rock: 'I'm curious for a new life'**
+**What to know about the Geminids, the best meteor show of the year**
 
-You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/cardi-b-confirms-offset-breakup-as-he-denies-cheating-with-chrisean-rock/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
 
 ## Requirements
 - Python 3.8
