@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702385525)
+![Generated GIF](output.gif?raw=true&v=1702386700)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jets' Zach Wilson fearlessly delivered the game of his life**
+**Chilli & Matthew Lawrence Going Strong, Spending Holidays Together**
 
-You can read more about it [here](https://nypost.com/2023/12/10/sports/jets-zach-wilson-fearlessly-delivered-the-game-of-his-life/).
+You can read more about it [here](https://www.tmz.com/2023/12/11/chilli-matthew-lawrence-relationship-going-strong-spending-holidays-together/).
 
 ## Requirements
 - Python 3.8
