@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702350645)
+![Generated GIF](output.gif?raw=true&v=1702352036)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘The Zone of Interest’ Named Best Picture of 2023 by L.A. Film Critics Association**
+**Gigantic Wave in Pacific Ocean Was Most Extreme 'Rogue Wave' on Record**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/2023-la-film-critics-award-winners-1235732168/).
+You can read more about it [here](https://www.sciencealert.com/gigantic-wave-in-pacific-ocean-was-most-extreme-rogue-wave-on-record).
 
 ## Requirements
 - Python 3.8
