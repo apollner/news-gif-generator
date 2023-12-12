@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702362996)
+![Generated GIF](output.gif?raw=true&v=1702364887)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russians banned from travel to hand over passports within five days**
+**University of Pennsylvania President resigns**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russians-banned-travel-hand-over-passports-within-five-days-decree-2023-12-10/).
+You can read more about it [here](https://www.youtube.com/watch?v=r_FrNLf-B1g).
 
 ## Requirements
 - Python 3.8
