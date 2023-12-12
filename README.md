@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702415170)
+![Generated GIF](output.gif?raw=true&v=1702416851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navalny's team says he has vanished in Russia's prison system**
+**Jack Teixeira: US Air Force punishes 15 officers over top secret leaks**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russias-navalny-removed-prison-colony-whereabouts-unclear-supporters-2023-12-11/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67655554).
 
 ## Requirements
 - Python 3.8
