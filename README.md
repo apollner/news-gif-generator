@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702354211)
+![Generated GIF](output.gif?raw=true&v=1702355801)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**HIGHLIGHTS from Bronny James' USC Trojans debut | ESPN College Basketball**
+**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0vipRdWq-XU).
+You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
 
 ## Requirements
 - Python 3.8
