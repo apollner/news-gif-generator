@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702394192)
+![Generated GIF](output.gif?raw=true&v=1702395235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elon Musk brings conspiracy theorist Alex Jones back to X following poll**
+**'Excited' Cardi B confirms Offset breakup as he denies cheating with Chrisean Rock: 'I'm curious for a new life'**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/11/elon-musk-brings-conspiracy-theorist-alex-jones-back-to-x-following-poll).
+You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/cardi-b-confirms-offset-breakup-as-he-denies-cheating-with-chrisean-rock/).
 
 ## Requirements
 - Python 3.8
