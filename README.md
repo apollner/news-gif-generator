@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702368726)
+![Generated GIF](output.gif?raw=true&v=1702370174)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lakers' LeBron James Shows Love to Bronny After USC Debut: 'You're Simply Incredible'**
+**Patrick Mahomes Says He Still Wants Travis Kelce's Non-TD to Be Shown When He Enters Hall of Fame**
 
-You can read more about it [here](https://bleacherreport.com/articles/10100646-lakers-lebron-james-shows-love-to-bronny-after-usc-debut-youre-simply-incredible).
+You can read more about it [here](https://www.si.com/nfl/2023/12/11/patrick-mahomes-travis-kelce-throw-hall-of-fame).
 
 ## Requirements
 - Python 3.8
