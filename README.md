@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702391916)
+![Generated GIF](output.gif?raw=true&v=1702394192)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Javier Milei: New president tells Argentina 'shock treatment' looms**
+**Elon Musk brings conspiracy theorist Alex Jones back to X following poll**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67678276).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/11/elon-musk-brings-conspiracy-theorist-alex-jones-back-to-x-following-poll).
 
 ## Requirements
 - Python 3.8
