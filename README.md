@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702348961)
+![Generated GIF](output.gif?raw=true&v=1702350645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.S. Support for the Philippines in the South China Sea - United States Department of State**
+**‘The Zone of Interest’ Named Best Picture of 2023 by L.A. Film Critics Association**
 
-You can read more about it [here](https://www.state.gov/u-s-support-for-the-philippines-in-the-south-china-sea-7/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/2023-la-film-critics-award-winners-1235732168/).
 
 ## Requirements
 - Python 3.8
