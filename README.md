@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702416851)
+![Generated GIF](output.gif?raw=true&v=1702418854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jack Teixeira: US Air Force punishes 15 officers over top secret leaks**
+**Texas woman leaves state to have abortion after Texas Supreme Court paused ruling that would have allowed it, her lawyers say**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67655554).
+You can read more about it [here](https://www.cbsnews.com/news/kate-cox-texas-abortion-ban-medical-exemption-trisomy-18/).
 
 ## Requirements
 - Python 3.8
