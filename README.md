@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702366421)
+![Generated GIF](output.gif?raw=true&v=1702368726)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deadly Rocky Mountain spotted fever outbreak in California likely came from Mexico, CDC says**
+**Lakers' LeBron James Shows Love to Bronny After USC Debut: 'You're Simply Incredible'**
 
-You can read more about it [here](https://www.foxnews.com/health/deadly-rocky-mountain-spotted-fever-outbreak-california-likely-came-mexico-cdc).
+You can read more about it [here](https://bleacherreport.com/articles/10100646-lakers-lebron-james-shows-love-to-bronny-after-usc-debut-youre-simply-incredible).
 
 ## Requirements
 - Python 3.8
