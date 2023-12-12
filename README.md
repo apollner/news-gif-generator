@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702390042)
+![Generated GIF](output.gif?raw=true&v=1702391916)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Boeing to name Stephanie Pope as chief operating officer - WSJ**
+**Javier Milei: New president tells Argentina 'shock treatment' looms**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-name-stephanie-pope-chief-operating-officer-wsj-2023-12-11/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67678276).
 
 ## Requirements
 - Python 3.8
