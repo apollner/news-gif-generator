@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702474493)
+![Generated GIF](output.gif?raw=true&v=1702476564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texas Supreme Court rules against woman who sued for an emergency abortion**
+**Giants' Tommy DeVito makes history: All the records the rookie QB broke in upset 'MNF' win vs. Packers**
 
-You can read more about it [here](https://abcnews.go.com/US/texas-woman-sued-abortion-now-leaving-state-care/story?id=105558777).
+You can read more about it [here](https://www.cbssports.com/nfl/news/giants-tommy-devito-makes-history-all-the-records-the-rookie-qb-broke-in-upset-mnf-win-vs-packers/).
 
 ## Requirements
 - Python 3.8
