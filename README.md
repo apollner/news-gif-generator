@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702467223)
+![Generated GIF](output.gif?raw=true&v=1702469618)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 things to know about Trump's defense in his New York civil fraud trial**
+**Backlash to House testimony shines spotlight on new generation of Ivy League presidents**
 
-You can read more about it [here](https://abcnews.go.com/US/3-things-trumps-defense-new-york-civil-fraud/story?id=105479767).
+You can read more about it [here](https://apnews.com/article/ivy-league-presidents-backlash-women-021ec60af6a5a5279c644376de065738).
 
 ## Requirements
 - Python 3.8
