@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702492466)
+![Generated GIF](output.gif?raw=true&v=1702494295)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift and Travis Kelce Shared the Sweetest Moment of PDA During a Post-Game Party**
+**Stocks rise Tuesday reviving rally ahead of the big Federal Reserve rate decision: Live updates**
 
-You can read more about it [here](https://www.instyle.com/taylor-swift-travis-kelce-pda-post-game-party-8414645).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
