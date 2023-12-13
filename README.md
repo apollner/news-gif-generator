@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702494295)
+![Generated GIF](output.gif?raw=true&v=1702496058)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stocks rise Tuesday reviving rally ahead of the big Federal Reserve rate decision: Live updates**
+**Sunak tries to rally party before crunch UK parliamentary vote on Rwanda plan**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-faces-tense-uk-parliamentary-showdown-over-rwanda-asylum-plan-2023-12-12/).
 
 ## Requirements
 - Python 3.8
