@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702445625)
+![Generated GIF](output.gif?raw=true&v=1702447869)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giants beat Packers on last-second field goal for third straight win**
+**Harvard Alumni Association ‘unanimously and unequivocally’ supports Claudine Gay**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39093570/giants-last-second-field-goal-beats-packers-monday-night-football).
+You can read more about it [here](https://www.cnn.com/2023/12/11/business/antisemitism-harvard-president-testimony-meeting/index.html).
 
 ## Requirements
 - Python 3.8
