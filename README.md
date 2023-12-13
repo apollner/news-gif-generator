@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702435470)
+![Generated GIF](output.gif?raw=true&v=1702436985)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Macy's shares surge after buyout bid, but unlocking its real estate value will take work**
+**Zac Efron Shared How Matthew Perry Inspired Him While Filming 17 Again**
 
-You can read more about it [here](https://finance.yahoo.com/news/macys-shares-surge-after-buyout-bid-but-unlocking-its-real-estate-value-will-take-work-232625062.html).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/zac-efron-hollywood-walk-of-fame-matthew-perry).
 
 ## Requirements
 - Python 3.8
