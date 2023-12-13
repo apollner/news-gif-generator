@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702498144)
+![Generated GIF](output.gif?raw=true&v=1702499625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cannabis use linked to higher risk of poor pregnancy outcomes, study finds**
+**E3 Shuts Down After Two-Decade Run as Video Game Industry’s Biggest Convention**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/12/12/cannabis-use-pregnancy-postpartum-study/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/e3-ends-convention-1235743000/).
 
 ## Requirements
 - Python 3.8
