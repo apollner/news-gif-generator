@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702444077)
+![Generated GIF](output.gif?raw=true&v=1702445625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Argentina's markets respond cautiously to start of Milei era**
+**Giants beat Packers on last-second field goal for third straight win**
 
-You can read more about it [here](https://www.reuters.com/markets/argentina-prepares-milei-start-shock-therapy-2023-12-11/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39093570/giants-last-second-field-goal-beats-packers-monday-night-football).
 
 ## Requirements
 - Python 3.8
