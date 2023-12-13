@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702458551)
+![Generated GIF](output.gif?raw=true&v=1702460019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Leave the World Behind’ Filmmaker Sam Esmail on Those ‘Mr. Robot’ Connections and Using the ‘Ocean’s Twelve’ Playbook**
+**Taylor Swift Kisses Travis Kelce In New Instagram Photo**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-features/leave-the-world-behind-mr-robot-references-1235741235/).
+You can read more about it [here](https://www.today.com/popculture/taylor-swift-travis-kelce-kiss-rcna129188).
 
 ## Requirements
 - Python 3.8
