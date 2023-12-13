@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702473171)
+![Generated GIF](output.gif?raw=true&v=1702474493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Backlash to House testimony shines spotlight on new generation of Ivy League presidents**
+**Texas Supreme Court rules against woman who sued for an emergency abortion**
 
-You can read more about it [here](https://apnews.com/article/ivy-league-presidents-backlash-women-021ec60af6a5a5279c644376de065738).
+You can read more about it [here](https://abcnews.go.com/US/texas-woman-sued-abortion-now-leaving-state-care/story?id=105558777).
 
 ## Requirements
 - Python 3.8
