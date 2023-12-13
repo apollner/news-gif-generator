@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702455075)
+![Generated GIF](output.gif?raw=true&v=1702456533)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patrick Mahomes regrets angry reaction to officials: 'Not a great example for kids'**
+**Giants beat Packers on last-second field goal for third straight win**
 
-You can read more about it [here](https://sports.yahoo.com/patrick-mahomes-regrets-angry-reaction-to-officials-not-a-great-example-for-kids-023613278.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39093570/giants-last-second-field-goal-beats-packers-monday-night-football).
 
 ## Requirements
 - Python 3.8
