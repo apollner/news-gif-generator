@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702483784)
+![Generated GIF](output.gif?raw=true&v=1702485572)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Last-Minute Apple Deals Include Low Prices on AirPods, iPad, and More With Christmas Delivery**
+**Conspiracy theories abound as ATF sets sights on DIY gun silencers**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/11/green-monday-apple-deals/).
+You can read more about it [here](https://www.usatoday.com/story/news/investigations/2023/12/12/homemade-firearm-silencer-solvent-trap-atf/71852761007/).
 
 ## Requirements
 - Python 3.8
