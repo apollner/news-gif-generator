@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702499625)
+![Generated GIF](output.gif?raw=true&v=1702501649)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**E3 Shuts Down After Two-Decade Run as Video Game Industry’s Biggest Convention**
+**Polish far-right lawmaker extinguishes Hanukkah candle in parliament**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/e3-ends-convention-1235743000/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/polish-lawmaker-extinguishes-hanukkah-candle-parliament-105583990).
 
 ## Requirements
 - Python 3.8
