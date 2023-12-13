@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702501649)
+![Generated GIF](output.gif?raw=true&v=1702503227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Polish far-right lawmaker extinguishes Hanukkah candle in parliament**
+**Hilary Duff is pregnant with 4th baby, her 3rd with husband Matthew Koma**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/polish-lawmaker-extinguishes-hanukkah-candle-parliament-105583990).
+You can read more about it [here](https://pagesix.com/2023/12/12/parents/hilary-duff-pregnant-with-4th-baby-3rd-with-matthew-koma/).
 
 ## Requirements
 - Python 3.8
