@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702496058)
+![Generated GIF](output.gif?raw=true&v=1702498144)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sunak tries to rally party before crunch UK parliamentary vote on Rwanda plan**
+**Cannabis use linked to higher risk of poor pregnancy outcomes, study finds**
 
-You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-faces-tense-uk-parliamentary-showdown-over-rwanda-asylum-plan-2023-12-12/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/12/cannabis-use-pregnancy-postpartum-study/).
 
 ## Requirements
 - Python 3.8
