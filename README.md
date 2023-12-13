@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702487207)
+![Generated GIF](output.gif?raw=true&v=1702488865)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Conspiracy theories abound as ATF sets sights on DIY gun silencers**
+**Taylor Swift and Travis Kelce Shared the Sweetest Moment of PDA During a Post-Game Party**
 
-You can read more about it [here](https://www.usatoday.com/story/news/investigations/2023/12/12/homemade-firearm-silencer-solvent-trap-atf/71852761007/).
+You can read more about it [here](https://www.instyle.com/taylor-swift-travis-kelce-pda-post-game-party-8414645).
 
 ## Requirements
 - Python 3.8
