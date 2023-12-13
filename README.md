@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702465555)
+![Generated GIF](output.gif?raw=true&v=1702467223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 14 grades: Dolphins get a 'D' for stunning loss to Titans, Giants earn 'B+' for shocking Packers**
+**3 things to know about Trump's defense in his New York civil fraud trial**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-grades-dolphins-get-a-d-for-stunning-loss-to-titans-giants-earn-b-for-shocking-packers/).
+You can read more about it [here](https://abcnews.go.com/US/3-things-trumps-defense-new-york-civil-fraud/story?id=105479767).
 
 ## Requirements
 - Python 3.8
