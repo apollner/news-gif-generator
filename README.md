@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702481680)
+![Generated GIF](output.gif?raw=true&v=1702483784)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dungeons & Dragons Owner Hasbro Laying Off Over 1,000 Staff as Toy Sales Falter**
+**Last-Minute Apple Deals Include Low Prices on AirPods, iPad, and More With Christmas Delivery**
 
-You can read more about it [here](https://www.ign.com/articles/dungeons-dragons-owner-hasbro-laying-off-over-1000-staff-as-toy-sales-falter).
+You can read more about it [here](https://www.macrumors.com/2023/12/11/green-monday-apple-deals/).
 
 ## Requirements
 - Python 3.8
