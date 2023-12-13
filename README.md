@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702462236)
+![Generated GIF](output.gif?raw=true&v=1702463824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift Kisses Travis Kelce In New Instagram Photo**
+**Heart of Hawaii's historic Lahaina, burned in wildfire, reopens to residents and business owners**
 
-You can read more about it [here](https://www.today.com/popculture/taylor-swift-travis-kelce-kiss-rcna129188).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/heart-hawaiis-historic-lahaina-burned-wildfire-reopens-residents-105570180).
 
 ## Requirements
 - Python 3.8
