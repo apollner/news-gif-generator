@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702463824)
+![Generated GIF](output.gif?raw=true&v=1702465555)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heart of Hawaii's historic Lahaina, burned in wildfire, reopens to residents and business owners**
+**NFL Week 14 grades: Dolphins get a 'D' for stunning loss to Titans, Giants earn 'B+' for shocking Packers**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/heart-hawaiis-historic-lahaina-burned-wildfire-reopens-residents-105570180).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-14-grades-dolphins-get-a-d-for-stunning-loss-to-titans-giants-earn-b-for-shocking-packers/).
 
 ## Requirements
 - Python 3.8
