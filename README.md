@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702456533)
+![Generated GIF](output.gif?raw=true&v=1702458551)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giants beat Packers on last-second field goal for third straight win**
+**‘Leave the World Behind’ Filmmaker Sam Esmail on Those ‘Mr. Robot’ Connections and Using the ‘Ocean’s Twelve’ Playbook**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39093570/giants-last-second-field-goal-beats-packers-monday-night-football).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-features/leave-the-world-behind-mr-robot-references-1235741235/).
 
 ## Requirements
 - Python 3.8
