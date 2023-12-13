@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702427538)
+![Generated GIF](output.gif?raw=true&v=1702431638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Special counsel goes directly to Supreme Court to resolve whether Trump has immunity from prosecution**
+**Taylor Swift Kisses Travis Kelce on the Cheek in Rare PDA Pic**
 
-You can read more about it [here](https://www.cnn.com/2023/12/11/politics/special-counsel-trump-jack-smith/index.html).
+You can read more about it [here](https://www.etonline.com/taylor-swift-kisses-travis-kelce-on-the-cheek-in-rare-pda-pic-216330).
 
 ## Requirements
 - Python 3.8
