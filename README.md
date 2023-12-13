@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702424035)
+![Generated GIF](output.gif?raw=true&v=1702427538)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Geminid meteor shower expected to light up US skies this week**
+**Special counsel goes directly to Supreme Court to resolve whether Trump has immunity from prosecution**
 
-You can read more about it [here](https://abcnews.go.com/US/geminid-meteor-shower-expected-light-us-skies/story?id=105546240).
+You can read more about it [here](https://www.cnn.com/2023/12/11/politics/special-counsel-trump-jack-smith/index.html).
 
 ## Requirements
 - Python 3.8
