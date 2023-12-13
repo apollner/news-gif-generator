@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702508862)
+![Generated GIF](output.gif?raw=true&v=1702510423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rise in US core inflation highlights stubborn price pressures**
+**COP28 needs to pay attention to people with disabilities, says young acdtivist : Goats and Soda**
 
-You can read more about it [here](https://www.ft.com/content/51111dac-7084-4a02-9c6f-334bb86f2d3f).
+You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/12/12/1218822840/this-28-year-old-from-nepal-is-telling-cop28-dont-forget-people-with-disabilitie).
 
 ## Requirements
 - Python 3.8
