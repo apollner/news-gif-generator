@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702451229)
+![Generated GIF](output.gif?raw=true&v=1702452840)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.N. says Israel-Hamas war causing "unmatched" suffering in Gaza, pleads for new cease-fire, more aid**
+**Patrick Mahomes regrets angry reaction to officials: 'Not a great example for kids'**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-un-gaza-unmatched-suffering-calls-new-cease-fire-aid/).
+You can read more about it [here](https://sports.yahoo.com/patrick-mahomes-regrets-angry-reaction-to-officials-not-a-great-example-for-kids-023613278.html).
 
 ## Requirements
 - Python 3.8
