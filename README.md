@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702553711)
+![Generated GIF](output.gif?raw=true&v=1702556168)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football: Top waiver targets at each position to push your team into the fantasy playoffs | Fantasy Football News, Rankings and Projections**
+**Perseverance: Nasa's Mars rover celebrates 1,000 days of science**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-top-waiver-targets-at-each-position-to-push-your-team-into-the-fantasy-playoffs).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67700437).
 
 ## Requirements
 - Python 3.8
