@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702589646)
+![Generated GIF](output.gif?raw=true&v=1702591652)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Federal Reserve issues FOMC statement**
+**[Removed]**
 
-You can read more about it [here](https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
