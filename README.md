@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702541458)
+![Generated GIF](output.gif?raw=true&v=1702542938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 15 Power Rankings: Cowboys legitimate Super Bowl contenders; Browns make huge leap with Joe Flacco**
+**Where Are Interest Rates Headed? What to Expect From the Fed Meeting**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-power-rankings-cowboys-legitimate-super-bowl-contenders-browns-make-huge-leap-with-joe-flacco/).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-meeting-interest-rate-what-to-expect-eeaedebf).
 
 ## Requirements
 - Python 3.8
