@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702587972)
+![Generated GIF](output.gif?raw=true&v=1702589646)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Critics Choice Is ‘Barbie’ With 18 CCA Nominations; ‘Oppenheimer’, ‘Poor Things’ Follow With 13 Each**
+**Federal Reserve issues FOMC statement**
 
-You can read more about it [here](https://deadline.com/2023/12/critics-choice-film-nominations-2023-1235665954/).
+You can read more about it [here](https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm).
 
 ## Requirements
 - Python 3.8
