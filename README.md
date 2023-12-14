@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702534262)
+![Generated GIF](output.gif?raw=true&v=1702535836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**N.Y. has amassed 1.3 million pieces of evidence in George Santos case, his attorney says**
+**Andre Braugher, ‘Brooklyn Nine-Nine’ and ‘Homicide: Life on the Street’ Star, Dies at 61**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/former-rep-george-santos-appears-in-federal-court-on-long-island/).
+You can read more about it [here](https://variety.com/2023/tv/news/andre-braugher-dead-brooklyn-nine-nine-1235835771/).
 
 ## Requirements
 - Python 3.8
