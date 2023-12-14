@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702568111)
+![Generated GIF](output.gif?raw=true&v=1702570142)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wholesale inflation eases more than expected in November**
+**Supreme Court will hear a case that could undo Capitol riot charge against hundreds, including Trump**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/wholesale-inflation-eases-more-expected-november).
+You can read more about it [here](https://apnews.com/article/supreme-court-capitol-riot-obstruction-charge-trump-5cf0db4a71766f0b40ec199dd0d5a1ab).
 
 ## Requirements
 - Python 3.8
