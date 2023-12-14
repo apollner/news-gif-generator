@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702530501)
+![Generated GIF](output.gif?raw=true&v=1702532074)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**United Nations demands humanitarian ceasefire in Gaza**
+**Brian Daboll on Tommy DeVito, Wan’Dale Robinson, Mike Kafka’s good night, more**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/un-general-assembly-set-demand-gaza-ceasefire-2023-12-12/).
+You can read more about it [here](https://www.bigblueview.com/2023/12/12/23998876/brian-daboll-on-tommy-devito-wandale-robinson-mike-kafkas-good-night-more).
 
 ## Requirements
 - Python 3.8
