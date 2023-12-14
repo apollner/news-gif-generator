@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702517964)
+![Generated GIF](output.gif?raw=true&v=1702520547)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giuliani defamation trial live updates: Election worker seeking 'justice' after false election claims**
+**Stock market news today: Dow, S&P close at highest level since Jan. '22 as stocks rally ahead of Fed**
 
-You can read more about it [here](https://abcnews.go.com/US/live-updates/giuliani-defamation-trial/?id=105479446).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-dow-sp-close-at-highest-level-since-jan-22-as-stocks-rally-ahead-of-fed-210430711.html).
 
 ## Requirements
 - Python 3.8
