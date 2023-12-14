@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702535836)
+![Generated GIF](output.gif?raw=true&v=1702537629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andre Braugher, ‘Brooklyn Nine-Nine’ and ‘Homicide: Life on the Street’ Star, Dies at 61**
+**Meta's AI for Ray-Ban smart glasses can identify objects and translate languages**
 
-You can read more about it [here](https://variety.com/2023/tv/news/andre-braugher-dead-brooklyn-nine-nine-1235835771/).
+You can read more about it [here](https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features).
 
 ## Requirements
 - Python 3.8
