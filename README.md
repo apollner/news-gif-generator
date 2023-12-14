@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702573637)
+![Generated GIF](output.gif?raw=true&v=1702575245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
+**World agrees to climate deal that makes unprecedented call to move away from fossil fuels, but ‘cavernous’ loopholes remain**
 
-You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
+You can read more about it [here](https://www.cnn.com/2023/12/13/climate/cop28-climate-summit-makes-unprecedented-call-for-transition-away-from-fossil-fuels-but-cavernous-loopholes-remain/index.html).
 
 ## Requirements
 - Python 3.8
