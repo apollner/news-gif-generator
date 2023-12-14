@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702586047)
+![Generated GIF](output.gif?raw=true&v=1702587972)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meta's Ray-Ban Glasses Now Have Thoughts About Your Pants**
+**The Critics Choice Is ‘Barbie’ With 18 CCA Nominations; ‘Oppenheimer’, ‘Poor Things’ Follow With 13 Each**
 
-You can read more about it [here](https://gizmodo.com/meta-ray-ban-smart-glasses-ai-fashion-zuckerberg-pants-1851095497).
+You can read more about it [here](https://deadline.com/2023/12/critics-choice-film-nominations-2023-1235665954/).
 
 ## Requirements
 - Python 3.8
