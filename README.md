@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702532074)
+![Generated GIF](output.gif?raw=true&v=1702534262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Brian Daboll on Tommy DeVito, Wan’Dale Robinson, Mike Kafka’s good night, more**
+**N.Y. has amassed 1.3 million pieces of evidence in George Santos case, his attorney says**
 
-You can read more about it [here](https://www.bigblueview.com/2023/12/12/23998876/brian-daboll-on-tommy-devito-wandale-robinson-mike-kafkas-good-night-more).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/former-rep-george-santos-appears-in-federal-court-on-long-island/).
 
 ## Requirements
 - Python 3.8
