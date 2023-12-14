@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702584564)
+![Generated GIF](output.gif?raw=true&v=1702586047)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla recalls nearly all vehicles sold in US to fix system that monitors drivers using Autopilot**
+**Meta's Ray-Ban Glasses Now Have Thoughts About Your Pants**
 
-You can read more about it [here](https://apnews.com/article/tesla-autopilot-recall-driver-monitoring-system-8060508627a34e6af889feca46eb3002).
+You can read more about it [here](https://gizmodo.com/meta-ray-ban-smart-glasses-ai-fashion-zuckerberg-pants-1851095497).
 
 ## Requirements
 - Python 3.8
