@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702570142)
+![Generated GIF](output.gif?raw=true&v=1702571774)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court will hear a case that could undo Capitol riot charge against hundreds, including Trump**
+**Push for new China trade war splits Congress - POLITICO**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-capitol-riot-obstruction-charge-trump-5cf0db4a71766f0b40ec199dd0d5a1ab).
+You can read more about it [here](https://www.politico.com/news/2023/12/13/agriculture-lawmakers-lobbyists-quietly-challenge-china-hawks-on-trade-00131451).
 
 ## Requirements
 - Python 3.8
