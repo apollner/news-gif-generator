@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702544997)
+![Generated GIF](output.gif?raw=true&v=1702546442)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Draymond Green ejected in 2nd half for Golden State Warriors**
+**UN General Assembly votes to demand immediate ceasefire in Gaza**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39102311/draymond-green-ejected-2nd-half-golden-state-warriors).
+You can read more about it [here](https://www.cnn.com/2023/12/12/middleeast/ceasefire-vote-gaza-israel-un-intl/index.html).
 
 ## Requirements
 - Python 3.8
