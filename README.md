@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702577475)
+![Generated GIF](output.gif?raw=true&v=1702578977)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andre Braugher, ‘Brooklyn Nine-Nine’ actor, dies at 61**
+**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vFh3GHIcu9c).
+You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
 
 ## Requirements
 - Python 3.8
