@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702539215)
+![Generated GIF](output.gif?raw=true&v=1702541458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Draymond Green ejected in 2nd half for Golden State Warriors**
+**NFL Week 15 Power Rankings: Cowboys legitimate Super Bowl contenders; Browns make huge leap with Joe Flacco**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39102311/draymond-green-ejected-2nd-half-golden-state-warriors).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-power-rankings-cowboys-legitimate-super-bowl-contenders-browns-make-huge-leap-with-joe-flacco/).
 
 ## Requirements
 - Python 3.8
