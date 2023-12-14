@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702559522)
+![Generated GIF](output.gif?raw=true&v=1702561010)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**U.N. resolution on Gaza cease-fire: Which countries voted for and against it**
+**Stubbornly high rental costs lift US consumer inflation in November**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/13/un-vote-gaza-ceasefire-countries-against/).
+You can read more about it [here](https://www.reuters.com/markets/us/us-consumer-prices-unexpectedly-rise-november-2023-12-12/).
 
 ## Requirements
 - Python 3.8
