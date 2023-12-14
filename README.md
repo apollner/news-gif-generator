@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702580722)
+![Generated GIF](output.gif?raw=true&v=1702582415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Draymond Green ejection, Klay Thompson benching spotlights another Warriors nightmare**
+**Tesla recalls nearly all vehicles sold in US to fix system that monitors drivers using Autopilot**
 
-You can read more about it [here](https://theathletic.com/5133056/2023/12/13/draymond-green-ejection-klay-thompson-benching-warriors-season/).
+You can read more about it [here](https://apnews.com/article/tesla-autopilot-recall-driver-monitoring-system-8060508627a34e6af889feca46eb3002).
 
 ## Requirements
 - Python 3.8
