@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702566594)
+![Generated GIF](output.gif?raw=true&v=1702568111)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House Republicans' Biden impeachment inquiry lacks transparency effort**
+**Wholesale inflation eases more than expected in November**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/12/house-republicans-biden-impeachment-inquiry-lacks-transparency-effort/71880262007/).
+You can read more about it [here](https://www.foxbusiness.com/economy/wholesale-inflation-eases-more-expected-november).
 
 ## Requirements
 - Python 3.8
