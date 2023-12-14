@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702562841)
+![Generated GIF](output.gif?raw=true&v=1702564635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bradley Cooper poses with rarely seen daughter Lea De Seine, 6, at 'Maestro' premiere**
+**Canine respiratory disease affects holiday plans for pet owners in western Washington | KOMO**
 
-You can read more about it [here](https://pagesix.com/2023/12/13/parents/bradley-cooper-poses-with-rarely-seen-daughter-lea-de-seine-6-at-maestro-premiere/).
+You can read more about it [here](https://komonews.com/news/local/holiday-season-respiratory-deadly-disease-western-washington-thanksgiving-bookings-state-department-of-agriculture-wsda-canine-cirdc-spokane-island-snohomish-pierce-king-county-lethargy-coughing-discharge-symptoms).
 
 ## Requirements
 - Python 3.8
