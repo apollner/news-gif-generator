@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702548640)
+![Generated GIF](output.gif?raw=true&v=1702550213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Keegan-Michael Key on Wonka, Loving the Detroit Lions and He Does Shaq & Hugh Grant Impressions**
+**Bridget Ziegler refuses to resign from Sarasota school board**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ci97mVzpmoI).
+You can read more about it [here](https://www.politico.com/news/2023/12/12/sarasota-school-board-moms-for-liberty-00131448).
 
 ## Requirements
 - Python 3.8
