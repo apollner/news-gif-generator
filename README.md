@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702558200)
+![Generated GIF](output.gif?raw=true&v=1702559522)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sarasota school board calls on Bridget Ziegler to resign. She does not.**
+**U.N. resolution on Gaza cease-fire: Which countries voted for and against it**
 
-You can read more about it [here](https://www.tampabay.com/news/education/2023/12/12/sarasota-school-board-calls-bridget-ziegler-resign-she-does-not/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/13/un-vote-gaza-ceasefire-countries-against/).
 
 ## Requirements
 - Python 3.8
