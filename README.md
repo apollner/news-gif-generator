@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702551994)
+![Generated GIF](output.gif?raw=true&v=1702553711)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UN General Assembly votes to demand immediate ceasefire in Gaza**
+**Fantasy Football: Top waiver targets at each position to push your team into the fantasy playoffs | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.cnn.com/2023/12/12/middleeast/ceasefire-vote-gaza-israel-un-intl/index.html).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-top-waiver-targets-at-each-position-to-push-your-team-into-the-fantasy-playoffs).
 
 ## Requirements
 - Python 3.8
