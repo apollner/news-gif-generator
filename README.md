@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702591652)
+![Generated GIF](output.gif?raw=true&v=1702593270)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Dog Respiratory Illness Maps Show Its Spread to 16 States**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.newsweek.com/dog-respiratory-illness-map-spread-16-1852084).
 
 ## Requirements
 - Python 3.8
