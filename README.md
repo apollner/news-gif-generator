@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702578977)
+![Generated GIF](output.gif?raw=true&v=1702580722)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
+**Draymond Green ejection, Klay Thompson benching spotlights another Warriors nightmare**
 
-You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
+You can read more about it [here](https://theathletic.com/5133056/2023/12/13/draymond-green-ejection-klay-thompson-benching-warriors-season/).
 
 ## Requirements
 - Python 3.8
