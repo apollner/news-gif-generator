@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702571774)
+![Generated GIF](output.gif?raw=true&v=1702573637)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Push for new China trade war splits Congress - POLITICO**
+**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/13/agriculture-lawmakers-lobbyists-quietly-challenge-china-hawks-on-trade-00131451).
+You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
 
 ## Requirements
 - Python 3.8
