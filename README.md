@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702510423)
+![Generated GIF](output.gif?raw=true&v=1702513920)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COP28 needs to pay attention to people with disabilities, says young acdtivist : Goats and Soda**
+**Giants land KBO star Jung Hoo Lee on 6-year deal (source)**
 
-You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/12/12/1218822840/this-28-year-old-from-nepal-is-telling-cop28-dont-forget-people-with-disabilitie).
+You can read more about it [here](https://www.mlb.com/news/jung-hoo-lee-giants-deal).
 
 ## Requirements
 - Python 3.8
