@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702523407)
+![Generated GIF](output.gif?raw=true&v=1702524854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Massive sea monster skull excavated from UK's 'Jurassic Coast'**
+**Andre Braugher, ‘Brooklyn Nine-Nine’ and ‘Homicide: Life on the Street’ Star, Dies at 61**
 
-You can read more about it [here](https://www.foxnews.com/world/massive-sea-monster-skull-excavated-from-uks-jurassic-coast).
+You can read more about it [here](https://variety.com/2023/tv/news/andre-braugher-dead-brooklyn-nine-nine-1235835771/).
 
 ## Requirements
 - Python 3.8
