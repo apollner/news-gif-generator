@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702513920)
+![Generated GIF](output.gif?raw=true&v=1702517964)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giants land KBO star Jung Hoo Lee on 6-year deal (source)**
+**Giuliani defamation trial live updates: Election worker seeking 'justice' after false election claims**
 
-You can read more about it [here](https://www.mlb.com/news/jung-hoo-lee-giants-deal).
+You can read more about it [here](https://abcnews.go.com/US/live-updates/giuliani-defamation-trial/?id=105479446).
 
 ## Requirements
 - Python 3.8
