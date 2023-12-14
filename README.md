@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702546442)
+![Generated GIF](output.gif?raw=true&v=1702548640)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UN General Assembly votes to demand immediate ceasefire in Gaza**
+**Keegan-Michael Key on Wonka, Loving the Detroit Lions and He Does Shaq & Hugh Grant Impressions**
 
-You can read more about it [here](https://www.cnn.com/2023/12/12/middleeast/ceasefire-vote-gaza-israel-un-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ci97mVzpmoI).
 
 ## Requirements
 - Python 3.8
