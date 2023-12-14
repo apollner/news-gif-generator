@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702564635)
+![Generated GIF](output.gif?raw=true&v=1702566594)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Canine respiratory disease affects holiday plans for pet owners in western Washington | KOMO**
+**House Republicans' Biden impeachment inquiry lacks transparency effort**
 
-You can read more about it [here](https://komonews.com/news/local/holiday-season-respiratory-deadly-disease-western-washington-thanksgiving-bookings-state-department-of-agriculture-wsda-canine-cirdc-spokane-island-snohomish-pierce-king-county-lethargy-coughing-discharge-symptoms).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/12/house-republicans-biden-impeachment-inquiry-lacks-transparency-effort/71880262007/).
 
 ## Requirements
 - Python 3.8
