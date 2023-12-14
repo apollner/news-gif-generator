@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702595350)
+![Generated GIF](output.gif?raw=true&v=1702596877)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court to decide whether to restrict abortion drug nationwide**
+**US Supreme Court to consider abortion pill case**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/supreme-court-to-decide-whether-to-restrict-abortion-drug-nationwide/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67707317).
 
 ## Requirements
 - Python 3.8
