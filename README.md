@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702649309)
+![Generated GIF](output.gif?raw=true&v=1702651005)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM fires 9 execs at Cruise, may face $1.5 million in fines**
+**Draymond Green testing limits of Steph Curry's steadfast loyalty with latest incident, indefinite suspension**
 
-You can read more about it [here](https://electrek.co/2023/12/14/gm-fires-9-execs-at-cruise-may-face-1-5-million-in-fines/).
+You can read more about it [here](https://www.cbssports.com/nba/news/draymond-green-testing-limits-of-steph-currys-steadfast-loyalty-with-latest-incident-indefinite-suspension/).
 
 ## Requirements
 - Python 3.8
