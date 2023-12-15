@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702625624)
+![Generated GIF](output.gif?raw=true&v=1702627878)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House votes to formalize Biden impeachment inquiry, escalating GOP probe**
+**A man was charged in the fatal stabbing of beloved Detroit synagogue president. The two didn’t know each other, police say**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-impeachment-inquiry-house-vote-today/).
+You can read more about it [here](https://www.cnn.com/2023/12/13/us/samantha-woll-detroit-murder-update/index.html).
 
 ## Requirements
 - Python 3.8
