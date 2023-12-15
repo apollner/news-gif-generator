@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702609782)
+![Generated GIF](output.gif?raw=true&v=1702611222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit man charged in killing of Samantha Woll**
+**NASA rover unravels history of lake on Mars that grew up to 22 miles wide, 100 feet deep**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/detroit/2023/12/13/samantha-woll-murder-update/71911261007/).
+You can read more about it [here](https://www.cbsnews.com/news/nasa-rover-history-lake-mars-water-jezero-crater/).
 
 ## Requirements
 - Python 3.8
