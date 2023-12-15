@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702676029)
+![Generated GIF](output.gif?raw=true&v=1702677977)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scott Van Pelt's 'Winners' for NFL Week 15, Independence Bowl**
+**EU to open membership talks with Ukraine and Moldova**
 
-You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/39097849/scott-van-pelt-winners-nfl-week-15-nfl-games-independence-bowl-2023-svp-picks).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67722252).
 
 ## Requirements
 - Python 3.8
