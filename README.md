@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702627878)
+![Generated GIF](output.gif?raw=true&v=1702629339)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A man was charged in the fatal stabbing of beloved Detroit synagogue president. The two didn’t know each other, police say**
+**US Dollar Sinks on Fed Dovish Pivot, Setups on EUR/USD, USD/JPY, GBP/USD**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/us/samantha-woll-detroit-murder-update/index.html).
+You can read more about it [here](https://www.dailyfx.com/news/forex-usd-dollar-sinks-on-fed-dovish-pivot-setups-on-eur-usd-usd-jpy-gbp-usd-20231213.html).
 
 ## Requirements
 - Python 3.8
