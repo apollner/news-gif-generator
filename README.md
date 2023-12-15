@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702647222)
+![Generated GIF](output.gif?raw=true&v=1702649309)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**13-year-old boy accused of planning mass shooting at Ohio synagogue**
+**GM fires 9 execs at Cruise, may face $1.5 million in fines**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/13-year-old-boy-accused-planning-mass-shooting-ohio-synagogue-rcna129689).
+You can read more about it [here](https://electrek.co/2023/12/14/gm-fires-9-execs-at-cruise-may-face-1-5-million-in-fines/).
 
 ## Requirements
 - Python 3.8
