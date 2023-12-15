@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702631396)
+![Generated GIF](output.gif?raw=true&v=1702632882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best meteor shower of the year will be visible in NC Wednesday night💫**
+**North West debuts her rapper name in new Kanye West song**
 
-You can read more about it [here](https://www.wral.com/story/best-meteor-shower-of-the-year-will-be-visible-in-nc-wednesday-night/21192275/).
+You can read more about it [here](https://pagesix.com/2023/12/13/entertainment/north-west-debuts-her-rapper-name-in-new-kanye-west-song/).
 
 ## Requirements
 - Python 3.8
