@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702600404)
+![Generated GIF](output.gif?raw=true&v=1702605074)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andre Braugher, star of ‘Brooklyn Nine-Nine’ and ‘Homicide: Life On The Street,’ dies at age 61**
+**Taylor Swift’s birthday live updates: Huge bouquet of white flowers delivered to her NYC apartment — from Travis Kelce?**
 
-You can read more about it [here](https://www.cnn.com/2023/12/12/entertainment/andre-braugher-obit/index.html).
+You can read more about it [here](https://pagesix.com/2023/12/13/celebrity-news/taylor-swift-birthday-live-updates-eras-tour-movie-travis-kelce-celebration-news-more/).
 
 ## Requirements
 - Python 3.8
