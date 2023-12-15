@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702629339)
+![Generated GIF](output.gif?raw=true&v=1702631396)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Dollar Sinks on Fed Dovish Pivot, Setups on EUR/USD, USD/JPY, GBP/USD**
+**Best meteor shower of the year will be visible in NC Wednesday night💫**
 
-You can read more about it [here](https://www.dailyfx.com/news/forex-usd-dollar-sinks-on-fed-dovish-pivot-setups-on-eur-usd-usd-jpy-gbp-usd-20231213.html).
+You can read more about it [here](https://www.wral.com/story/best-meteor-shower-of-the-year-will-be-visible-in-nc-wednesday-night/21192275/).
 
 ## Requirements
 - Python 3.8
