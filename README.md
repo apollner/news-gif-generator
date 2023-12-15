@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702613451)
+![Generated GIF](output.gif?raw=true&v=1702614993)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House votes to formalize Biden impeachment inquiry, escalating GOP probe**
+**NFL playoff picture: Postseason probabilities entering Week 15 of 2023 season**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-impeachment-inquiry-house-vote-today/).
+You can read more about it [here](https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-entering-week-15-of-2023-season).
 
 ## Requirements
 - Python 3.8
