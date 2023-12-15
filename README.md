@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702632882)
+![Generated GIF](output.gif?raw=true&v=1702634956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North West debuts her rapper name in new Kanye West song**
+**Embattled Harvard president Claudine Gay attends menorah lighting after widespread antisemitism backlash**
 
-You can read more about it [here](https://pagesix.com/2023/12/13/entertainment/north-west-debuts-her-rapper-name-in-new-kanye-west-song/).
+You can read more about it [here](https://nypost.com/2023/12/13/news/embattled-harvard-president-claudine-gay-attends-menorah-lighting-after-widespread-antisemitism-backlash/).
 
 ## Requirements
 - Python 3.8
