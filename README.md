@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702663819)
+![Generated GIF](output.gif?raw=true&v=1702665327)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Geminid meteor shower of 2023 continues tonight. Here's how to watch live online.**
+**European Central Bank holds rates and trims its inflation forecast**
 
-You can read more about it [here](https://www.space.com/geminid-meteor-shower-webcasts-dec-2023).
+You can read more about it [here](https://www.cnbc.com/2023/12/14/european-central-bank-holds-rates-trims-growth-forecasts.html).
 
 ## Requirements
 - Python 3.8
