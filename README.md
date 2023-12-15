@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702638393)
+![Generated GIF](output.gif?raw=true&v=1702640033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GM's Cruise fires key leaders amid robotaxi investigations**
+**Supreme Court's abortion pill case creates GOP heartburn**
 
-You can read more about it [here](https://www.axios.com/2023/12/14/cruise-leaders-fired-gm-general-motors).
+You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
 
 ## Requirements
 - Python 3.8
