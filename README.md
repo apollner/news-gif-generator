@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702667109)
+![Generated GIF](output.gif?raw=true&v=1702668826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**PFT's Week 15 2023 NFL picks: Florio vs. Simms**
+**NASA Study Finds Life-Sparking Energy Source and Molecule at Enceladus**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-15-2023-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://www.nasa.gov/missions/cassini/nasa-study-finds-life-sparking-energy-source-and-molecule-at-enceladus/).
 
 ## Requirements
 - Python 3.8
