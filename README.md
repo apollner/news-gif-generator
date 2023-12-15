@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702651005)
+![Generated GIF](output.gif?raw=true&v=1702652894)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Draymond Green testing limits of Steph Curry's steadfast loyalty with latest incident, indefinite suspension**
+**13-year-old boy accused of planning mass shooting at Ohio synagogue**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/draymond-green-testing-limits-of-steph-currys-steadfast-loyalty-with-latest-incident-indefinite-suspension/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/13-year-old-boy-accused-planning-mass-shooting-ohio-synagogue-rcna129689).
 
 ## Requirements
 - Python 3.8
