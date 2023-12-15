@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702620678)
+![Generated GIF](output.gif?raw=true&v=1702622179)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'How evil': Ruby Freeman describes violent threats after false Trump, Giuliani attacks**
+**Man charged in the murder of Detroit synagogue president Samantha Woll**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/13/giuliani-trial-ruby-freeman-testimony-00131659).
+You can read more about it [here](https://www.cbsnews.com/detroit/news/man-charged-in-the-murder-of-detroit-synagogue-president-samantha-woll/).
 
 ## Requirements
 - Python 3.8
