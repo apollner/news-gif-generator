@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702672433)
+![Generated GIF](output.gif?raw=true&v=1702674327)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cruise slashes 24% of self-driving car workforce in sweeping layoffs**
+**DEM warns of contagious dog respiratory disease, urges pet owners to take precautions**
 
-You can read more about it [here](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/).
+You can read more about it [here](https://turnto10.com/news/local/dem-warns-contagious-dog-respiratory-disease-urges-pet-owners-precautions-mingle-dog-parks-shelters-groomers-kennels-trainers-rhode-island-december-14-2023).
 
 ## Requirements
 - Python 3.8
