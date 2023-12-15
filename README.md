@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702607137)
+![Generated GIF](output.gif?raw=true&v=1702608194)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College student in Washington dies of suspected carbon monoxide poisoning**
+**Poison centers see nearly 1,500% increase in calls related to injected weight-loss drugs as people accidentally overdose**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/us/washington-evergreen-college-student-dead-carbon-monoxide-poisoning/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/13/health/semaglutide-overdoses-wellness/index.html).
 
 ## Requirements
 - Python 3.8
