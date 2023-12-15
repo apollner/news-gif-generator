@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702681792)
+![Generated GIF](output.gif?raw=true&v=1702683219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**EU to open membership talks with Ukraine and Moldova**
+**Scientists may have pinpointed morning sickness cause, sparking hope for potential cures**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67722252).
+You can read more about it [here](https://www.cbsnews.com/news/morning-sickness-cause-pregnancy-hormone-treatment/).
 
 ## Requirements
 - Python 3.8
