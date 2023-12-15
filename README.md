@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702644575)
+![Generated GIF](output.gif?raw=true&v=1702645882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Russia: Putin holds marathon press conference**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.dw.com/en/putin-says-russias-goals-in-ukraine-remain-unchanged/a-67717119).
 
 ## Requirements
 - Python 3.8
