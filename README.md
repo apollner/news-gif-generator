@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702670964)
+![Generated GIF](output.gif?raw=true&v=1702672433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Wonderful Christmas gift': Fed's surprise rate-cut plan springs hope of 2024 biotech market rebound**
+**Cruise slashes 24% of self-driving car workforce in sweeping layoffs**
 
-You can read more about it [here](https://endpts.com/wonderful-christmas-gift-feds-surprise-rate-cut-plan-springs-hope-of-2024-biotech-market-rebound/).
+You can read more about it [here](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/).
 
 ## Requirements
 - Python 3.8
