@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702659991)
+![Generated GIF](output.gif?raw=true&v=1702661616)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Madonna angers fans by starting US kickoff tour performance 3 hours late: 'F--king rude'**
+**Samantha Woll: Man charged in fatal stabbing of Detroit Jewish leader**
 
-You can read more about it [here](https://pagesix.com/2023/12/14/entertainment/madonna-angers-fans-by-starting-us-kickoff-tour-performance-3-hours-late/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67716291).
 
 ## Requirements
 - Python 3.8
