@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702611222)
+![Generated GIF](output.gif?raw=true&v=1702613451)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA rover unravels history of lake on Mars that grew up to 22 miles wide, 100 feet deep**
+**House votes to formalize Biden impeachment inquiry, escalating GOP probe**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-rover-history-lake-mars-water-jezero-crater/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-impeachment-inquiry-house-vote-today/).
 
 ## Requirements
 - Python 3.8
