@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702605074)
+![Generated GIF](output.gif?raw=true&v=1702607137)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift’s birthday live updates: Huge bouquet of white flowers delivered to her NYC apartment — from Travis Kelce?**
+**College student in Washington dies of suspected carbon monoxide poisoning**
 
-You can read more about it [here](https://pagesix.com/2023/12/13/celebrity-news/taylor-swift-birthday-live-updates-eras-tour-movie-travis-kelce-celebration-news-more/).
+You can read more about it [here](https://www.cnn.com/2023/12/13/us/washington-evergreen-college-student-dead-carbon-monoxide-poisoning/index.html).
 
 ## Requirements
 - Python 3.8
