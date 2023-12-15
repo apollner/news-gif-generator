@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702618426)
+![Generated GIF](output.gif?raw=true&v=1702620678)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giannis Antetokounmpo addresses postgame altercation with Pacers over game ball | NBA on ESPN**
+**'How evil': Ruby Freeman describes violent threats after false Trump, Giuliani attacks**
 
-You can read more about it [here](https://www.youtube.com/watch?v=r3lRZThm7XI).
+You can read more about it [here](https://www.politico.com/news/2023/12/13/giuliani-trial-ruby-freeman-testimony-00131659).
 
 ## Requirements
 - Python 3.8
