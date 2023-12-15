@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702665327)
+![Generated GIF](output.gif?raw=true&v=1702667109)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**European Central Bank holds rates and trims its inflation forecast**
+**PFT's Week 15 2023 NFL picks: Florio vs. Simms**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/14/european-central-bank-holds-rates-trims-growth-forecasts.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-15-2023-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
