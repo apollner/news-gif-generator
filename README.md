@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702658349)
+![Generated GIF](output.gif?raw=true&v=1702659991)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Geminid meteor shower to light up night sky**
+**Madonna angers fans by starting US kickoff tour performance 3 hours late: 'F--king rude'**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67658650).
+You can read more about it [here](https://pagesix.com/2023/12/14/entertainment/madonna-angers-fans-by-starting-us-kickoff-tour-performance-3-hours-late/).
 
 ## Requirements
 - Python 3.8
