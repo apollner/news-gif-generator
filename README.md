@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702624080)
+![Generated GIF](output.gif?raw=true&v=1702625624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best meteor shower of the year will be visible in NC Wednesday night💫**
+**House votes to formalize Biden impeachment inquiry, escalating GOP probe**
 
-You can read more about it [here](https://www.wral.com/story/best-meteor-shower-of-the-year-will-be-visible-in-nc-wednesday-night/21192275/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-impeachment-inquiry-house-vote-today/).
 
 ## Requirements
 - Python 3.8
