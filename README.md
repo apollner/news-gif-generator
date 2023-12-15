@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702634956)
+![Generated GIF](output.gif?raw=true&v=1702636609)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Embattled Harvard president Claudine Gay attends menorah lighting after widespread antisemitism backlash**
+**Russia: Putin holds marathon press conference**
 
-You can read more about it [here](https://nypost.com/2023/12/13/news/embattled-harvard-president-claudine-gay-attends-menorah-lighting-after-widespread-antisemitism-backlash/).
+You can read more about it [here](https://www.dw.com/en/putin-says-russias-goals-in-ukraine-remain-unchanged/a-67717119).
 
 ## Requirements
 - Python 3.8
