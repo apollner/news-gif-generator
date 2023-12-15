@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702677977)
+![Generated GIF](output.gif?raw=true&v=1702679619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**EU to open membership talks with Ukraine and Moldova**
+**Putin says goals in Ukraine have 'not changed' and war will continue until Kyiv agrees a deal**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67722252).
+You can read more about it [here](https://www.cnbc.com/2023/12/14/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
