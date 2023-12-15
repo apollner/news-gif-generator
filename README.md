@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702596877)
+![Generated GIF](output.gif?raw=true&v=1702600404)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US Supreme Court to consider abortion pill case**
+**Andre Braugher, star of ‘Brooklyn Nine-Nine’ and ‘Homicide: Life On The Street,’ dies at age 61**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67707317).
+You can read more about it [here](https://www.cnn.com/2023/12/12/entertainment/andre-braugher-obit/index.html).
 
 ## Requirements
 - Python 3.8
