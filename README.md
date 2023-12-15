@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702608194)
+![Generated GIF](output.gif?raw=true&v=1702609782)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Poison centers see nearly 1,500% increase in calls related to injected weight-loss drugs as people accidentally overdose**
+**Detroit man charged in killing of Samantha Woll**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/health/semaglutide-overdoses-wellness/index.html).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/detroit/2023/12/13/samantha-woll-murder-update/71911261007/).
 
 ## Requirements
 - Python 3.8
