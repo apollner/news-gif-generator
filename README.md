@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702674327)
+![Generated GIF](output.gif?raw=true&v=1702676029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**DEM warns of contagious dog respiratory disease, urges pet owners to take precautions**
+**Scott Van Pelt's 'Winners' for NFL Week 15, Independence Bowl**
 
-You can read more about it [here](https://turnto10.com/news/local/dem-warns-contagious-dog-respiratory-disease-urges-pet-owners-precautions-mingle-dog-parks-shelters-groomers-kennels-trainers-rhode-island-december-14-2023).
+You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/39097849/scott-van-pelt-winners-nfl-week-15-nfl-games-independence-bowl-2023-svp-picks).
 
 ## Requirements
 - Python 3.8
