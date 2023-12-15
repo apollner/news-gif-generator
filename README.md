@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702654436)
+![Generated GIF](output.gif?raw=true&v=1702656608)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House votes to formalize impeachment inquiry into President Joe Biden with floor vote**
+**Moderna And Merck Announce mRNA-4157 (V940) In Combination with Keytruda(R) (Pembrolizumab) Demonstrated Continued Improvement in Recurrence-Free Survival and Distant Metastasis-Free Survival in Patients with High-Risk Stage III/IV Melanoma**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
+You can read more about it [here](https://investors.modernatx.com/news/news-details/2023/Moderna-And-Merck-Announce-mRNA-4157-V940-In-Combination-with-KeytrudaR-Pembrolizumab-Demonstrated-Continued-Improvement-in-Recurrence-Free-Survival-and-Distant-Metastasis-Free-Survival-in-Patients-with-High-Risk-Stage-IIIIV-Melanoma-Following-Comple/default.aspx).
 
 ## Requirements
 - Python 3.8
