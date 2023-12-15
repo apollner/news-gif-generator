@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702614993)
+![Generated GIF](output.gif?raw=true&v=1702616979)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL playoff picture: Postseason probabilities entering Week 15 of 2023 season**
+**Supreme Court's abortion pill case creates GOP heartburn**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-entering-week-15-of-2023-season).
+You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
 
 ## Requirements
 - Python 3.8
