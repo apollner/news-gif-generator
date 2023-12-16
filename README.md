@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702726426)
+![Generated GIF](output.gif?raw=true&v=1702728726)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
+**Body of hostage Elia Toledano, who was taken from music festival, recovered in Gaza: IDF**
 
-You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
+You can read more about it [here](https://nypost.com/2023/12/15/news/israel-recovers-body-of-hostage-elia-toledano-taken-from-music-festival-in-gaza/).
 
 ## Requirements
 - Python 3.8
