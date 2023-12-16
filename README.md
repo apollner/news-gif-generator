@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702693268)
+![Generated GIF](output.gif?raw=true&v=1702694354)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Global support for a Gaza ceasefire is growing. The US is an outlier.**
+**2023 NFL season, Week 15: Six things to watch for in Vikings-Bengals, Steelers-Colts, Broncos-Lions on NFL Network**
 
-You can read more about it [here](https://www.vox.com/politics/2023/12/14/24001352/gaza-ceasefire-united-nations-israel-palestine).
+You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-week-15-six-things-to-watch-for-in-nfln-tripleheader).
 
 ## Requirements
 - Python 3.8
