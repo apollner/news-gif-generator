@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702744635)
+![Generated GIF](output.gif?raw=true&v=1702746315)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Angels declined to match Dodgers’ offer to Shohei Ohtani: Source**
+**Justin Timberlake Drops 2-Word Disclaimer Before ‘Cry Me A River’ Performance**
 
-You can read more about it [here](https://theathletic.com/5139257/2023/12/15/shohei-ohtani-angels-offer-decline-dodgers/).
+You can read more about it [here](https://www.huffpost.com/entry/justin-timberlake-cry-me-a-river-no-disrespect_n_657c07a9e4b08e9b4109dbdb).
 
 ## Requirements
 - Python 3.8
