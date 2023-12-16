@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702767976)
+![Generated GIF](output.gif?raw=true&v=1702769638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**It's Been 2 Months. Why Can't NASA Open the Asteroid Sample Container?**
+**Chargers fire Brandon Staley after 42-point loss to Raiders**
 
-You can read more about it [here](https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598).
+You can read more about it [here](https://sports.yahoo.com/chargers-fire-head-coach-brandon-staley-gm-tom-telesco-after-loss-to-raiders-170810563.html).
 
 ## Requirements
 - Python 3.8
