@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702728726)
+![Generated GIF](output.gif?raw=true&v=1702730805)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Body of hostage Elia Toledano, who was taken from music festival, recovered in Gaza: IDF**
+**Naughty Dog cancels development on The Last of Us Online**
 
-You can read more about it [here](https://nypost.com/2023/12/15/news/israel-recovers-body-of-hostage-elia-toledano-taken-from-music-festival-in-gaza/).
+You can read more about it [here](https://www.engadget.com/naughty-dog-cancels-development-on-the-last-of-us-online-055333989.html).
 
 ## Requirements
 - Python 3.8
