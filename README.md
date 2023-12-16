@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702704817)
+![Generated GIF](output.gif?raw=true&v=1702707006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best Exclusive PC Games of 2023**
+**Glasnow traded to Dodgers, contingent upon extension agreement (sources)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cAtX8Di4Gww).
+You can read more about it [here](https://www.mlb.com/news/tyler-glasnow-manuel-margot-traded-to-dodgers).
 
 ## Requirements
 - Python 3.8
