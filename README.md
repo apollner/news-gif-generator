@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702739135)
+![Generated GIF](output.gif?raw=true&v=1702740814)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stock futures rise Friday as Dow tries to build on this week's record-setting rally: Live updates**
+**The mystery of the missing binder: How a collection of raw Russian intelligence disappeared under Trump**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/14/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/interactive/2023/12/politics/missing-russia-intelligence-trump-dg/).
 
 ## Requirements
 - Python 3.8
