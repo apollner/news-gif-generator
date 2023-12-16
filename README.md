@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702690745)
+![Generated GIF](output.gif?raw=true&v=1702693268)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Fed Rate Cuts Mean for Home Buyers in 2024**
+**Global support for a Gaza ceasefire is growing. The US is an outlier.**
 
-You can read more about it [here](https://www.wsj.com/personal-finance/mortgages/interest-rate-cuts-2024-mortgages-76172791).
+You can read more about it [here](https://www.vox.com/politics/2023/12/14/24001352/gaza-ceasefire-united-nations-israel-palestine).
 
 ## Requirements
 - Python 3.8
