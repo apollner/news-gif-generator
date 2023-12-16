@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702724684)
+![Generated GIF](output.gif?raw=true&v=1702726426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Supreme Court allows Illinois semiautomatic weapons ban to stay in place**
+**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
 
-You can read more about it [here](https://www.foxnews.com/politics/supreme-court-allows-illinois-semiautomatic-weapons-ban-stay-place).
+You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
 
 ## Requirements
 - Python 3.8
