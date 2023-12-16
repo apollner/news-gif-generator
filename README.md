@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702732097)
+![Generated GIF](output.gif?raw=true&v=1702733681)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
+**British boy missing for six years found in France**
 
-You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
+You can read more about it [here](https://www.cnn.com/2023/12/14/europe/alex-batty-british-boy-missing-found-france-intl/index.html).
 
 ## Requirements
 - Python 3.8
