@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702708505)
+![Generated GIF](output.gif?raw=true&v=1702710332)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Glasnow traded to Dodgers, contingent upon extension agreement (sources)**
+**Biden urges Israelis to protect civilian lives as national security adviser meets with Netanyahu amid developing rift**
 
-You can read more about it [here](https://www.mlb.com/news/tyler-glasnow-manuel-margot-traded-to-dodgers).
+You can read more about it [here](https://www.cnn.com/2023/12/14/politics/jake-sullivan-israel-trip/index.html).
 
 ## Requirements
 - Python 3.8
