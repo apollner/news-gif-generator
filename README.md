@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702753484)
+![Generated GIF](output.gif?raw=true&v=1702755230)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida braces for possible tropical-storm-like conditions this weekend with rain, flooding, severe weather**
+**Hungary blocks €50bn of EU funding for Ukraine**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/florida-possible-tropical-storm-like-conditions-flooding-severe-weather).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67724357).
 
 ## Requirements
 - Python 3.8
