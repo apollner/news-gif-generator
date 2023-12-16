@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702750167)
+![Generated GIF](output.gif?raw=true&v=1702751689)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nvidia stock, up 231% YTD, is the best 'budget' AI buy says Bernstein By Investing.com**
+**What elite universities — and their critics — get wrong about campus antisemitism**
 
-You can read more about it [here](https://www.investing.com/news/stock-market-news/nvidia-stock-up-231-ytd-is-the-best-budget-ai-buy-says-bernstein-3257571).
+You can read more about it [here](https://www.vox.com/politics/2023/12/15/24001823/antisemitism-college-harvard-penn-mit-free-speech).
 
 ## Requirements
 - Python 3.8
