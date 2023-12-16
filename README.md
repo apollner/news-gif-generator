@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702730805)
+![Generated GIF](output.gif?raw=true&v=1702732097)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Naughty Dog cancels development on The Last of Us Online**
+**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
 
-You can read more about it [here](https://www.engadget.com/naughty-dog-cancels-development-on-the-last-of-us-online-055333989.html).
+You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
 
 ## Requirements
 - Python 3.8
