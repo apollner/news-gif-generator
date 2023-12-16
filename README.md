@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702696151)
+![Generated GIF](output.gif?raw=true&v=1702697648)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**EU leaders agree to start accession talks with Ukraine**
+**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
 
-You can read more about it [here](https://www.ft.com/content/deb40df7-7832-4fee-a822-655ab0288c05).
+You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
 
 ## Requirements
 - Python 3.8
