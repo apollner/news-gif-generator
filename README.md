@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702694354)
+![Generated GIF](output.gif?raw=true&v=1702696151)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 NFL season, Week 15: Six things to watch for in Vikings-Bengals, Steelers-Colts, Broncos-Lions on NFL Network**
+**EU leaders agree to start accession talks with Ukraine**
 
-You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-week-15-six-things-to-watch-for-in-nfln-tripleheader).
+You can read more about it [here](https://www.ft.com/content/deb40df7-7832-4fee-a822-655ab0288c05).
 
 ## Requirements
 - Python 3.8
