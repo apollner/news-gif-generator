@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702766041)
+![Generated GIF](output.gif?raw=true&v=1702767976)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Life on Saturn's moon? New evidence of toxic gas suggests it's more likely than ever**
+**It's Been 2 Months. Why Can't NASA Open the Asteroid Sample Container?**
 
-You can read more about it [here](https://www.salon.com/2023/12/15/life-on-saturns-moon-new-evidence-of-gas-suggests-its-more-likely-than-ever/).
+You can read more about it [here](https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598).
 
 ## Requirements
 - Python 3.8
