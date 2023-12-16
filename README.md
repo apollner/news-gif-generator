@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702746315)
+![Generated GIF](output.gif?raw=true&v=1702748019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justin Timberlake Drops 2-Word Disclaimer Before ‘Cry Me A River’ Performance**
+**Nvidia stock, up 231% YTD, is the best 'budget' AI buy says Bernstein By Investing.com**
 
-You can read more about it [here](https://www.huffpost.com/entry/justin-timberlake-cry-me-a-river-no-disrespect_n_657c07a9e4b08e9b4109dbdb).
+You can read more about it [here](https://www.investing.com/news/stock-market-news/nvidia-stock-up-231-ytd-is-the-best-budget-ai-buy-says-bernstein-3257571).
 
 ## Requirements
 - Python 3.8
