@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702703211)
+![Generated GIF](output.gif?raw=true&v=1702704817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP picks Ethiopian-born Israeli-American to run for seat of expelled NY Rep. Santos**
+**Best Exclusive PC Games of 2023**
 
-You can read more about it [here](https://www.timesofisrael.com/gop-picks-ethiopian-born-israeli-american-to-run-for-seat-of-expelled-ny-rep-santos/).
+You can read more about it [here](https://www.youtube.com/watch?v=cAtX8Di4Gww).
 
 ## Requirements
 - Python 3.8
