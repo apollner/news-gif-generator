@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702751689)
+![Generated GIF](output.gif?raw=true&v=1702753484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What elite universities — and their critics — get wrong about campus antisemitism**
+**Florida braces for possible tropical-storm-like conditions this weekend with rain, flooding, severe weather**
 
-You can read more about it [here](https://www.vox.com/politics/2023/12/15/24001823/antisemitism-college-harvard-penn-mit-free-speech).
+You can read more about it [here](https://www.foxweather.com/weather-news/florida-possible-tropical-storm-like-conditions-flooding-severe-weather).
 
 ## Requirements
 - Python 3.8
