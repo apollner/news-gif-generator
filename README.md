@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702686722)
+![Generated GIF](output.gif?raw=true&v=1702690745)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cause Of Death Released For 'Brooklyn Nine-Nine' Actor Andre Braugher**
+**What Fed Rate Cuts Mean for Home Buyers in 2024**
 
-You can read more about it [here](https://www.huffpost.com/entry/andre-braugher-lung-cancer_n_657b49b5e4b020f3b674325e).
+You can read more about it [here](https://www.wsj.com/personal-finance/mortgages/interest-rate-cuts-2024-mortgages-76172791).
 
 ## Requirements
 - Python 3.8
