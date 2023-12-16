@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702737303)
+![Generated GIF](output.gif?raw=true&v=1702739135)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Andre Braugher diagnosed with lung cancer months before death**
+**Stock futures rise Friday as Dow tries to build on this week's record-setting rally: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/12/14/entertainment/andre-braugher-lung-cancer-death/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/14/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
