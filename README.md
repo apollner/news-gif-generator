@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702721222)
+![Generated GIF](output.gif?raw=true&v=1702722841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**There's no comeback for Brandon Staley after this epic bust in Vegas**
+**Biden urges Israelis to protect civilian lives as national security adviser meets with Netanyahu amid developing rift**
 
-You can read more about it [here](https://sports.yahoo.com/theres-no-comeback-for-brandon-staley-after-this-epic-bust-in-vegas-053429275.html).
+You can read more about it [here](https://www.cnn.com/2023/12/14/politics/jake-sullivan-israel-trip/index.html).
 
 ## Requirements
 - Python 3.8
