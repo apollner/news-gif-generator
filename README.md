@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702762408)
+![Generated GIF](output.gif?raw=true&v=1702764344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 296 Embedded: Vlog Series - Episode 5**
+**NFL Week 15 bold predictions: Bills' D steps up in win over Cowboys; Steelers score season high**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CuuHoOP5bxM).
+You can read more about it [here](https://www.nfl.com/news/nfl-week-15-bold-predictions-bills-d-steps-up-in-win-over-cowboys-steelers-score).
 
 ## Requirements
 - Python 3.8
