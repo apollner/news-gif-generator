@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702697648)
+![Generated GIF](output.gif?raw=true&v=1702699793)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
+**Dumars explains NBA's decision to indefinitely suspend Draymond**
 
-You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-nba-suspension-joe-dumars/1681537/).
 
 ## Requirements
 - Python 3.8
