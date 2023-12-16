@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702742966)
+![Generated GIF](output.gif?raw=true&v=1702744635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Republicans struggle as they keep getting forced to talk about abortion**
+**Angels declined to match Dodgers’ offer to Shohei Ohtani: Source**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/15/republicans-abortion-kate-cox-00131921).
+You can read more about it [here](https://theathletic.com/5139257/2023/12/15/shohei-ohtani-angels-offer-decline-dodgers/).
 
 ## Requirements
 - Python 3.8
