@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702719229)
+![Generated GIF](output.gif?raw=true&v=1702721222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sun's strongest solar flare in years knocks out radio frequencies**
+**There's no comeback for Brandon Staley after this epic bust in Vegas**
 
-You can read more about it [here](https://www.axios.com/2023/12/15/sun-strongest-solar-flare-years-radio-frequencies-blackouts).
+You can read more about it [here](https://sports.yahoo.com/theres-no-comeback-for-brandon-staley-after-this-epic-bust-in-vegas-053429275.html).
 
 ## Requirements
 - Python 3.8
