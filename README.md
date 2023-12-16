@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702710332)
+![Generated GIF](output.gif?raw=true&v=1702712065)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden urges Israelis to protect civilian lives as national security adviser meets with Netanyahu amid developing rift**
+**Shohei Ohtani, formally introduced by Dodgers, avoids surgery talk**
 
-You can read more about it [here](https://www.cnn.com/2023/12/14/politics/jake-sullivan-israel-trip/index.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39114951/shohei-ohtani-formally-unveiled-dodgers-wait-get-going).
 
 ## Requirements
 - Python 3.8
