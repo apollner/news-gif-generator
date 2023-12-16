@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702683219)
+![Generated GIF](output.gif?raw=true&v=1702686722)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scientists may have pinpointed morning sickness cause, sparking hope for potential cures**
+**Cause Of Death Released For 'Brooklyn Nine-Nine' Actor Andre Braugher**
 
-You can read more about it [here](https://www.cbsnews.com/news/morning-sickness-cause-pregnancy-hormone-treatment/).
+You can read more about it [here](https://www.huffpost.com/entry/andre-braugher-lung-cancer_n_657b49b5e4b020f3b674325e).
 
 ## Requirements
 - Python 3.8
