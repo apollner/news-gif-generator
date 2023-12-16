@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702758847)
+![Generated GIF](output.gif?raw=true&v=1702760723)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How the trade market is shaping up for Zach LaVine, Lauri Markkanen**
+**Hungary blocks €50bn of EU funding for Ukraine**
 
-You can read more about it [here](https://sports.yahoo.com/how-the-trade-market-is-shaping-up-for-zach-lavine-lauri-markkanen-145142833.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67724357).
 
 ## Requirements
 - Python 3.8
