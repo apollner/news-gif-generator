@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702812844)
+![Generated GIF](output.gif?raw=true&v=1702815146)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giuliani ordered to pay $148 million for defaming Georgia election workers**
+**Horoscope for Saturday, 12/16/23 by Christopher Renstrom**
 
-You can read more about it [here](https://www.axios.com/2023/12/15/rudy-giuliani-georgia-damages-trial-election-workers).
+You can read more about it [here](https://www.sfgate.com/horoscope/article/horoscope-saturday-12-16-23-christopher-renstrom-18542549.php).
 
 ## Requirements
 - Python 3.8
