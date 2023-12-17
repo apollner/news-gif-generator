@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702800597)
+![Generated GIF](output.gif?raw=true&v=1702802030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple is settling a class action lawsuit over Family Sharing for $25 million**
+**Deja Taylor, mother of 6-year-old who shot Virginia teacher Abby Zwerner, gets 2 years in prison for child neglect**
 
-You can read more about it [here](https://www.engadget.com/apple-is-settling-a-class-action-lawsuit-over-family-sharing-for-25-million-235208522.html).
+You can read more about it [here](https://www.cbsnews.com/news/deja-taylor-sentenced-mother-6-year-old-shot-virginia-teacher-abby-zwerner-child-neglect/).
 
 ## Requirements
 - Python 3.8
