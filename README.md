@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702852424)
+![Generated GIF](output.gif?raw=true&v=1702854389)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Severe morning sickness linked to GDF15 hormone: Study**
+**Senior cardinal convicted in Vatican corruption trial**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4363678-severe-sickness-linked-to-gdf15-hormone-study/).
+You can read more about it [here](https://www.reuters.com/world/europe/cardinal-nine-other-defendants-await-verdicts-vatican-trial-2023-12-15/).
 
 ## Requirements
 - Python 3.8
