@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702769638)
+![Generated GIF](output.gif?raw=true&v=1702773347)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chargers fire Brandon Staley after 42-point loss to Raiders**
+**WeightWatchers bets on weight-loss drugs with launch of new program**
 
-You can read more about it [here](https://sports.yahoo.com/chargers-fire-head-coach-brandon-staley-gm-tom-telesco-after-loss-to-raiders-170810563.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/weightwatchers-bets-on-weight-loss-drugs-launch-new-program).
 
 ## Requirements
 - Python 3.8
