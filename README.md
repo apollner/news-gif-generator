@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702854389)
+![Generated GIF](output.gif?raw=true&v=1702856097)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Senior cardinal convicted in Vatican corruption trial**
+**Bengals boost playoff chances with thrilling overtime win vs. Vikings**
 
-You can read more about it [here](https://www.reuters.com/world/europe/cardinal-nine-other-defendants-await-verdicts-vatican-trial-2023-12-15/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39126505/bengals-boost-playoff-chances-ot-win-vs-vikings).
 
 ## Requirements
 - Python 3.8
