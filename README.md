@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702839898)
+![Generated GIF](output.gif?raw=true&v=1702841633)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your guide to an impeachment inquiry: Breaking down the GOP's pursuit of Biden**
+**Travis Scott cancels Chicago concert hours before showtime, leaves fans fuming**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/16/biden-impeachment-inquiry-questions-00131890).
+You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/travis-scott-cancels-chicago-concert-hours-before-showtime/).
 
 ## Requirements
 - Python 3.8
