@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702782544)
+![Generated GIF](output.gif?raw=true&v=1702784093)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Life may have everything it needs to exist on Saturn’s moon Enceladus**
+**Shipping giants Hapag-Lloyd and Maersk pause Red Sea travel amid attacks**
 
-You can read more about it [here](https://www.cnn.com/2023/12/15/world/enceladus-molecules-energy-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/15/shipping-giants-hapag-lloyd-and-maersk-pause-red-sea-travel.html).
 
 ## Requirements
 - Python 3.8
