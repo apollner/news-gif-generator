@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702784093)
+![Generated GIF](output.gif?raw=true&v=1702786211)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shipping giants Hapag-Lloyd and Maersk pause Red Sea travel amid attacks**
+**Mom of Virginia boy who shot teacher sentenced for child neglect**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/15/shipping-giants-hapag-lloyd-and-maersk-pause-red-sea-travel.html).
+You can read more about it [here](https://www.foxnews.com/us/mom-virginia-boy-shot-teacher-sentenced-child-neglect).
 
 ## Requirements
 - Python 3.8
