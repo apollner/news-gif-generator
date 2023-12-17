@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702838146)
+![Generated GIF](output.gif?raw=true&v=1702839898)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cardinal Becciu: Vatican court convicts former Pope adviser of financial crimes**
+**Your guide to an impeachment inquiry: Breaking down the GOP's pursuit of Biden**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67738595).
+You can read more about it [here](https://www.politico.com/news/2023/12/16/biden-impeachment-inquiry-questions-00131890).
 
 ## Requirements
 - Python 3.8
