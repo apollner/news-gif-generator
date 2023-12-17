@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702796758)
+![Generated GIF](output.gif?raw=true&v=1702798412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Wonka’ Cooking Up $35 Million Opening Ahead Of Christmas – Box Office**
+**Leon Edwards vs. Colby Covington FINAL FACEOFF | UFC 296 | MMA Fighting**
 
-You can read more about it [here](https://deadline.com/2023/12/box-office-wonka-1235669099/).
+You can read more about it [here](https://www.youtube.com/watch?v=0m6dBVSdePc).
 
 ## Requirements
 - Python 3.8
