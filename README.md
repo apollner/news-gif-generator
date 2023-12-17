@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702850767)
+![Generated GIF](output.gif?raw=true&v=1702852424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel Gaza: Hostages were carrying white cloth when shot, IDF says**
+**Severe morning sickness linked to GDF15 hormone: Study**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67738111).
+You can read more about it [here](https://thehill.com/policy/healthcare/4363678-severe-sickness-linked-to-gdf15-hormone-study/).
 
 ## Requirements
 - Python 3.8
