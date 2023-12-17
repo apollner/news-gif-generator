@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702845233)
+![Generated GIF](output.gif?raw=true&v=1702847126)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Wonka’ Banks a $14.4 Million Opening Day**
+**Kuwait's ruling emir, Sheikh Nawaf Al Ahmad Al Sabah, dies at age 86**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/wonka-timothee-chalamet-opening-day-1235841791/).
+You can read more about it [here](https://apnews.com/article/kuwait-emir-sheikh-nawaf-dies-d4a0e02fd3e5aee29a220686c8df8654).
 
 ## Requirements
 - Python 3.8
