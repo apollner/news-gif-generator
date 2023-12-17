@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702791213)
+![Generated GIF](output.gif?raw=true&v=1702793395)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Lakers Vs. Spurs Preview: Anthony Davis, D’Angelo Russell & Cam Reddish Out**
+**COVID-19 and flu levels continue to increase but CDC director believes US has hit peak of RSV**
 
-You can read more about it [here](https://lakersnation.com/lakers-vs-spurs-preview-anthony-davis-dangelo-russell-cam-reddish-out/).
+You can read more about it [here](https://abcnews.go.com/Health/covid-19-flu-levels-continue-increase-cdc-director/story?id=105698145).
 
 ## Requirements
 - Python 3.8
