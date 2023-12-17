@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702787763)
+![Generated GIF](output.gif?raw=true&v=1702789619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Researchers say Bing made up facts about European elections**
+**McCarthy protégé deemed ineligible for Congress bid**
 
-You can read more about it [here](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation).
+You can read more about it [here](https://www.politico.com/news/2023/12/15/vince-fong-ineligible-congress-bid-00132138).
 
 ## Requirements
 - Python 3.8
