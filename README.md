@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702803974)
+![Generated GIF](output.gif?raw=true&v=1702805631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Zack Snyder’s ‘Rebel Moon’ Gets Cut Down By Critics**
+**FULL SEGMENT – Reigns and Orton exchange words after Tribal Business: SmackDown, Dec. 15, 2023**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/zack-snyders-rebel-moon-gets-cut-down-reviews-1235760140/).
+You can read more about it [here](https://www.youtube.com/watch?v=54fHxTtIL9k).
 
 ## Requirements
 - Python 3.8
