@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702805631)
+![Generated GIF](output.gif?raw=true&v=1702807617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FULL SEGMENT – Reigns and Orton exchange words after Tribal Business: SmackDown, Dec. 15, 2023**
+**Does it matter that the mortgage rate dropped by 0.08%?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=54fHxTtIL9k).
+You can read more about it [here](https://www.marketplace.org/2023/12/15/why-a-0-08-drop-in-the-mortgage-rate-might-seem-bigger-than-that/).
 
 ## Requirements
 - Python 3.8
