@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702826464)
+![Generated GIF](output.gif?raw=true&v=1702828219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Will the Georgia election workers see any of the $148 million award from Rudy Giuliani?**
+**IDF “Kills Hamas Fighters In Gaza Schools” | “Gaza Children Living In A Graveyard”: UN | Palestine**
 
-You can read more about it [here](https://www.cnn.com/2023/12/16/politics/will-georgia-election-workers-collect-148-million-rudy-giuliani/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=NIKQkUDfbB4).
 
 ## Requirements
 - Python 3.8
