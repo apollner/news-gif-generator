@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702811089)
+![Generated GIF](output.gif?raw=true&v=1702812844)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A new COVID variant is spreading fast in the US. These are its most common symptoms**
+**Giuliani ordered to pay $148 million for defaming Georgia election workers**
 
-You can read more about it [here](https://news.yahoo.com/covid-variant-spreading-fast-us-014701360.html).
+You can read more about it [here](https://www.axios.com/2023/12/15/rudy-giuliani-georgia-damages-trial-election-workers).
 
 ## Requirements
 - Python 3.8
