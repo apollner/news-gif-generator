@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702823983)
+![Generated GIF](output.gif?raw=true&v=1702826464)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vatican's financial 'trial of the century' to announce verdict in test of Pope Francis' reforms**
+**Will the Georgia election workers see any of the $148 million award from Rudy Giuliani?**
 
-You can read more about it [here](https://abcnews.go.com/International/vaticans-financial-trial-century-announce-verdict-test-pope/story?id=105690180).
+You can read more about it [here](https://www.cnn.com/2023/12/16/politics/will-georgia-election-workers-collect-148-million-rudy-giuliani/index.html).
 
 ## Requirements
 - Python 3.8
