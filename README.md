@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702786211)
+![Generated GIF](output.gif?raw=true&v=1702787763)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mom of Virginia boy who shot teacher sentenced for child neglect**
+**Researchers say Bing made up facts about European elections**
 
-You can read more about it [here](https://www.foxnews.com/us/mom-virginia-boy-shot-teacher-sentenced-child-neglect).
+You can read more about it [here](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation).
 
 ## Requirements
 - Python 3.8
