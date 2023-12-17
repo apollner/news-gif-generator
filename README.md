@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702780948)
+![Generated GIF](output.gif?raw=true&v=1702782544)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Derek Hough gives update on wife Hayley Erbert after craniectomy**
+**Life may have everything it needs to exist on Saturn’s moon Enceladus**
 
-You can read more about it [here](https://ew.com/derek-hough-wife-hayley-erbert-recovery-update-miracle-emergency-craniectomy-hospitalization-8417076).
+You can read more about it [here](https://www.cnn.com/2023/12/15/world/enceladus-molecules-energy-scn/index.html).
 
 ## Requirements
 - Python 3.8
