@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702789619)
+![Generated GIF](output.gif?raw=true&v=1702791213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McCarthy protégé deemed ineligible for Congress bid**
+**Lakers Vs. Spurs Preview: Anthony Davis, D’Angelo Russell & Cam Reddish Out**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/15/vince-fong-ineligible-congress-bid-00132138).
+You can read more about it [here](https://lakersnation.com/lakers-vs-spurs-preview-anthony-davis-dangelo-russell-cam-reddish-out/).
 
 ## Requirements
 - Python 3.8
