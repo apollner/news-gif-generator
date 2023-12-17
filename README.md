@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702832737)
+![Generated GIF](output.gif?raw=true&v=1702834420)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sheikh Nawaf Al Ahmad Al Sabah, ruler of oil-rich Kuwait, dead at 86**
+**Iran executes 'Mossad agent' convicted of spying for Israel**
 
-You can read more about it [here](https://www.foxnews.com/world/sheikh-nawaf-al-ahmad-al-sabah-ruler-oil-rich-kuwait-dead-86).
+You can read more about it [here](https://www.france24.com/en/asia-pacific/20231216-iran-executes-mossad-agent-convicted-of-spying-for-israel).
 
 ## Requirements
 - Python 3.8
