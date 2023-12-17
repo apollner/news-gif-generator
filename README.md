@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702822456)
+![Generated GIF](output.gif?raw=true&v=1702823983)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matthew Perry's cause of death revealed: accidental drowning, ketamine**
+**Vatican's financial 'trial of the century' to announce verdict in test of Pope Francis' reforms**
 
-You can read more about it [here](https://www.businessinsider.com/matthew-perry-death-cause-revealed-accidental-drowning-ketamine-2023-12).
+You can read more about it [here](https://abcnews.go.com/International/vaticans-financial-trial-century-announce-verdict-test-pope/story?id=105690180).
 
 ## Requirements
 - Python 3.8
