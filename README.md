@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702829880)
+![Generated GIF](output.gif?raw=true&v=1702831136)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mötley Crüe Drummer Tommy Lee Accused of Sexually Assaulting Woman in Helicopter**
+**ICYMI: the week's 7 biggest tech stories, from Apple's Journal app to Galaxy Book 4**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/tommy-lee-motley-crue-sexual-assault-helicopter-lawsuit-1234931093/).
+You can read more about it [here](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-apples-journal-app-to-galaxy-book-4).
 
 ## Requirements
 - Python 3.8
