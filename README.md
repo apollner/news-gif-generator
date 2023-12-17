@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702778099)
+![Generated GIF](output.gif?raw=true&v=1702780038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marketer sparks panic with claims it uses smart devices to eavesdrop on people**
+**The biggest solar flare since 2017 just launched off the sun**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/no-a-marketing-firm-isnt-tapping-your-device-to-hear-private-conversations/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/15/solar-flare-northern-lights/).
 
 ## Requirements
 - Python 3.8
