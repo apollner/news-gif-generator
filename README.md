@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702780038)
+![Generated GIF](output.gif?raw=true&v=1702780948)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The biggest solar flare since 2017 just launched off the sun**
+**Derek Hough gives update on wife Hayley Erbert after craniectomy**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/15/solar-flare-northern-lights/).
+You can read more about it [here](https://ew.com/derek-hough-wife-hayley-erbert-recovery-update-miracle-emergency-craniectomy-hospitalization-8417076).
 
 ## Requirements
 - Python 3.8
