@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702807617)
+![Generated GIF](output.gif?raw=true&v=1702809281)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Does it matter that the mortgage rate dropped by 0.08%?**
+**Biden weighs revival of Trump’s immigration agenda in Senate negotiations**
 
-You can read more about it [here](https://www.marketplace.org/2023/12/15/why-a-0-08-drop-in-the-mortgage-rate-might-seem-bigger-than-that/).
+You can read more about it [here](https://www.vox.com/politics/2023/12/15/24003401/biden-immigration-ukraine-israel-aid-border-security).
 
 ## Requirements
 - Python 3.8
