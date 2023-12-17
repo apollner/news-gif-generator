@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702773347)
+![Generated GIF](output.gif?raw=true&v=1702778099)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WeightWatchers bets on weight-loss drugs with launch of new program**
+**Marketer sparks panic with claims it uses smart devices to eavesdrop on people**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/weightwatchers-bets-on-weight-loss-drugs-launch-new-program).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/no-a-marketing-firm-isnt-tapping-your-device-to-hear-private-conversations/).
 
 ## Requirements
 - Python 3.8
