@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702802030)
+![Generated GIF](output.gif?raw=true&v=1702803974)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Deja Taylor, mother of 6-year-old who shot Virginia teacher Abby Zwerner, gets 2 years in prison for child neglect**
+**Zack Snyder’s ‘Rebel Moon’ Gets Cut Down By Critics**
 
-You can read more about it [here](https://www.cbsnews.com/news/deja-taylor-sentenced-mother-6-year-old-shot-virginia-teacher-abby-zwerner-child-neglect/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/zack-snyders-rebel-moon-gets-cut-down-reviews-1235760140/).
 
 ## Requirements
 - Python 3.8
