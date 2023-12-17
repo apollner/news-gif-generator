@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702843665)
+![Generated GIF](output.gif?raw=true&v=1702845233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Daytime Emmy Awards honor Susan Lucci, pay tribute to Barbara Walters**
+**Box Office: ‘Wonka’ Banks a $14.4 Million Opening Day**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2023/12/16/daytime-emmy-awards-susan-lucci-barbara-walters/71942494007/).
+You can read more about it [here](https://variety.com/2023/film/box-office/wonka-timothee-chalamet-opening-day-1235841791/).
 
 ## Requirements
 - Python 3.8
