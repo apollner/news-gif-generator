@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702903851)
+![Generated GIF](output.gif?raw=true&v=1702907938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'SNL' Weekend Update Drags Giuliani After 'Hilarious' $148 Million Defamation Verdict**
+**A first-year medical student was learning about ultrasounds. She found something unexpected about her own health**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-giuliani-hilarious-148-million-defamation-verdict-1234931345/).
+You can read more about it [here](https://www.cnn.com/2023/12/17/us/sally-rohan-thyroid-cancer-trnd/index.html).
 
 ## Requirements
 - Python 3.8
