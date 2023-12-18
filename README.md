@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702920830)
+![Generated GIF](output.gif?raw=true&v=1702923018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 15 Saturday grades: Lions earn 'A+' for Broncos beatdown, Bengals 'B+' for overtime win vs. Vikings**
+**Timothée Chalamet’s ‘Wonka’ Tops Box Office With $39 Million Debut**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-saturday-grades-lions-earn-a-for-broncos-beatdown-bengals-b-for-overtime-win-vs-vikings/).
+You can read more about it [here](https://variety.com/2023/film/box-office/box-office-timothee-chalamet-wonka-wins-weekend-1235842643/).
 
 ## Requirements
 - Python 3.8
