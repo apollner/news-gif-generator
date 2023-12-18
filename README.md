@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702896688)
+![Generated GIF](output.gif?raw=true&v=1702897970)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 dead after plane crash in Independence, Oregon**
+**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
 
-You can read more about it [here](https://www.statesmanjournal.com/story/news/local/2023/12/16/plane-crash-in-independence-causing-power-outage-brush-fire/71948789007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
 
 ## Requirements
 - Python 3.8
