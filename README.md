@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702876169)
+![Generated GIF](output.gif?raw=true&v=1702877672)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump's economic pitch resonates with some young voters at N.H. rally**
+**Latino Democrats oppose President Biden's concessions in border talks**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/12/16/trump-dictator-for-day-voter-views-democracy/71922725007/).
+You can read more about it [here](https://apnews.com/article/senate-border-immigration-biden-66531bcefb908d5440a52b54c543b006).
 
 ## Requirements
 - Python 3.8
