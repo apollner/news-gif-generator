@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702923018)
+![Generated GIF](output.gif?raw=true&v=1702924620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Timothée Chalamet’s ‘Wonka’ Tops Box Office With $39 Million Debut**
+**Fox News Poll: Trump’s lead in GOP primary widens**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/box-office-timothee-chalamet-wonka-wins-weekend-1235842643/).
+You can read more about it [here](https://www.foxnews.com/official-polls/fox-news-poll-trumps-lead-gop-primary-widens).
 
 ## Requirements
 - Python 3.8
