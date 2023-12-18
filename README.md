@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702881448)
+![Generated GIF](output.gif?raw=true&v=1702883369)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USS Carney takes out drone swarm in the Red Sea**
+**Here’s how much rain Southern California could get over the next 7 days**
 
-You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/12/16/uss-carney-takes-out-drone-swarm-in-the-red-sea/).
+You can read more about it [here](https://ktla.com/news/california/heres-how-much-rain-southern-california-could-get-next-week/).
 
 ## Requirements
 - Python 3.8
