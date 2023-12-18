@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702867336)
+![Generated GIF](output.gif?raw=true&v=1702869018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Activision Blizzard to Pay More Than $50 Million to Settle Lawsuit That Spurred Microsoft's Takeover**
+**Jason Momoa says his future as Aquaman is 'not looking too good'**
 
-You can read more about it [here](https://www.wsj.com/tech/activision-blizzard-to-pay-around-50-million-to-settle-lawsuit-that-spurred-microsofts-takeover-4dc1178b).
+You can read more about it [here](https://ew.com/jason-momoa-aquaman-future-not-looking-good-8417147).
 
 ## Requirements
 - Python 3.8
