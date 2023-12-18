@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702935286)
+![Generated GIF](output.gif?raw=true&v=1702937234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bills vs. Cowboys score: Live updates, game stats, highlights, analysis for Week 15 showdown**
+**Teamsters union authorizes potential strike at Anheuser-Busch**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bills-vs-cowboys-score-live-updates-odds-prediction-tv-live-stream-for-week-15-game/live/).
+You can read more about it [here](https://www.foxbusiness.com/economy/teamsters-union-authorizes-potential-strike-at-anheuser-busch).
 
 ## Requirements
 - Python 3.8
