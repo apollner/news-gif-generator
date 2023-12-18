@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702919196)
+![Generated GIF](output.gif?raw=true&v=1702920830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alex Batty, teen missing for 6 years, returns to Britain after turning up in France**
+**NFL Week 15 Saturday grades: Lions earn 'A+' for Broncos beatdown, Bengals 'B+' for overtime win vs. Vikings**
 
-You can read more about it [here](https://www.cbsnews.com/news/alex-batty-returns-britain-missing-6-years-france/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-saturday-grades-lions-earn-a-for-broncos-beatdown-bengals-b-for-overtime-win-vs-vikings/).
 
 ## Requirements
 - Python 3.8
