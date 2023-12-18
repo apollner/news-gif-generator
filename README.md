@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702887088)
+![Generated GIF](output.gif?raw=true&v=1702888615)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sixty-one migrants drown in shipwreck off Libya - IOM**
+**Leon Edwards tames Colby Covington in one-sided win at UFC 296**
 
-You can read more about it [here](https://www.reuters.com/world/africa/sixty-one-migrants-including-women-children-drown-after-shipwreck-off-libya-2023-12-16/).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/39130641/leon-edwards-tames-colby-covington-one-sided-win-ufc-296).
 
 ## Requirements
 - Python 3.8
