@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702940874)
+![Generated GIF](output.gif?raw=true&v=1702942434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL early slate: Chiefs vs. Patriots score, highlights, news, inactives and live updates**
+**Buffalo Bills vs. Dallas Cowboys Game Highlights | NFL 2023 Week 15**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-chiefs-vs-patriots-score-highlights-news-inactives-and-live-updates-164022355.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qc7PxMEPP5M).
 
 ## Requirements
 - Python 3.8
