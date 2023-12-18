@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702872619)
+![Generated GIF](output.gif?raw=true&v=1702874204)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NSFW: Capitol Hill rocked by sex tape scandal featuring famous Senate hearing room**
+**Hospitals may have to ration care if COVID and flu surge continues, CDC warns**
 
-You can read more about it [here](https://www.foxnews.com/politics/capitol-hill-rocked-sex-tape-scandal-featuring-famous-senate-hearing-room).
+You can read more about it [here](https://www.salon.com/2023/12/16/hospital-may-have-to-ration-care-if-and-flu-surge-continues-warns/).
 
 ## Requirements
 - Python 3.8
