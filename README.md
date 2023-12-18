@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702895421)
+![Generated GIF](output.gif?raw=true&v=1702896688)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDF sniper kills two women inside Gaza church, Latin Patriarchate of Jerusalem says**
+**3 dead after plane crash in Independence, Oregon**
 
-You can read more about it [here](https://www.cnn.com/2023/12/16/middleeast/idf-sniper-gaza-church-deaths-intl-hnk/index.html).
+You can read more about it [here](https://www.statesmanjournal.com/story/news/local/2023/12/16/plane-crash-in-independence-causing-power-outage-brush-fire/71948789007/).
 
 ## Requirements
 - Python 3.8
