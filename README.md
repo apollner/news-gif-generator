@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702870445)
+![Generated GIF](output.gif?raw=true&v=1702872619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 296: Edwards vs Covington | Winner Interviews, Highlights And More From Las Vegas**
+**NSFW: Capitol Hill rocked by sex tape scandal featuring famous Senate hearing room**
 
-You can read more about it [here](https://www.ufc.com/news/ufc-296-edwards-vs-covington-results-highlights-winner-interviews).
+You can read more about it [here](https://www.foxnews.com/politics/capitol-hill-rocked-sex-tape-scandal-featuring-famous-senate-hearing-room).
 
 ## Requirements
 - Python 3.8
