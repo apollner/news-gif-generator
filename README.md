@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702866282)
+![Generated GIF](output.gif?raw=true&v=1702867336)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kelly Clarkson Is a Double Winner Again at 2023 Daytime Emmys**
+**Activision Blizzard to Pay More Than $50 Million to Settle Lawsuit That Spurred Microsoft's Takeover**
 
-You can read more about it [here](https://www.billboard.com/music/awards/kelly-clarkson-2023-daytime-emmys-double-winner-again-1235560306/).
+You can read more about it [here](https://www.wsj.com/tech/activision-blizzard-to-pay-around-50-million-to-settle-lawsuit-that-spurred-microsofts-takeover-4dc1178b).
 
 ## Requirements
 - Python 3.8
