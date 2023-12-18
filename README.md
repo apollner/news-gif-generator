@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702897970)
+![Generated GIF](output.gif?raw=true&v=1702899690)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
+**Kate McKinnon Comes 'Home For Christmas' With Surprise Guests In 'SNL' Monologue**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
+You can read more about it [here](https://www.huffpost.com/entry/saturday-night-live-kate-mckinnon-monologue_n_657e9c44e4b036ecab45523b).
 
 ## Requirements
 - Python 3.8
