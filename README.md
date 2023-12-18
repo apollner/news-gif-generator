@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702856097)
+![Generated GIF](output.gif?raw=true&v=1702859613)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bengals boost playoff chances with thrilling overtime win vs. Vikings**
+**Hospitals may have to ration care if COVID and flu surge continues, CDC warns**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39126505/bengals-boost-playoff-chances-ot-win-vs-vikings).
+You can read more about it [here](https://www.salon.com/2023/12/16/hospital-may-have-to-ration-care-if-and-flu-surge-continues-warns/).
 
 ## Requirements
 - Python 3.8
