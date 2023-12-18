@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702917600)
+![Generated GIF](output.gif?raw=true&v=1702919196)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kuwait buries late emir Sheikh Nawaf in funeral attended by new ruler**
+**Alex Batty, teen missing for 6 years, returns to Britain after turning up in France**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/emir-sheikh-nawaf-laid-rest-kuwait-2023-12-17/).
+You can read more about it [here](https://www.cbsnews.com/news/alex-batty-returns-britain-missing-6-years-france/).
 
 ## Requirements
 - Python 3.8
