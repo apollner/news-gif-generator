@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702926351)
+![Generated GIF](output.gif?raw=true&v=1702928026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Geomagnetic storm could cause Northern Lights to dance across United States**
+**Fed could be the Grinch who 'stole' cash earning 5%. What a Powell pivot means for investors.**
 
-You can read more about it [here](https://nypost.com/2023/12/17/lifestyle/where-to-see-the-northern-lights-this-holiday-season/).
+You can read more about it [here](https://www.marketwatch.com/story/fed-could-be-the-grinch-who-stole-cash-earning-5-what-a-powell-pivot-means-for-investors-35422034).
 
 ## Requirements
 - Python 3.8
