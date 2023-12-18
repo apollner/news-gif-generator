@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702879952)
+![Generated GIF](output.gif?raw=true&v=1702881448)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jack Axelrod Dies: ‘General Hospital,’ ‘Modern Family’ & ‘Transformers’ Actor Was 93**
+**USS Carney takes out drone swarm in the Red Sea**
 
-You can read more about it [here](https://deadline.com/2023/12/jack-axelrod-dead-general-hospital-modern-family-transformers-actor-1235670323/).
+You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/12/16/uss-carney-takes-out-drone-swarm-in-the-red-sea/).
 
 ## Requirements
 - Python 3.8
