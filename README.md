@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702902654)
+![Generated GIF](output.gif?raw=true&v=1702903851)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
+**'SNL' Weekend Update Drags Giuliani After 'Hilarious' $148 Million Defamation Verdict**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-giuliani-hilarious-148-million-defamation-verdict-1234931345/).
 
 ## Requirements
 - Python 3.8
