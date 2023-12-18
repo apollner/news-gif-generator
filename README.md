@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702869018)
+![Generated GIF](output.gif?raw=true&v=1702870445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jason Momoa says his future as Aquaman is 'not looking too good'**
+**UFC 296: Edwards vs Covington | Winner Interviews, Highlights And More From Las Vegas**
 
-You can read more about it [here](https://ew.com/jason-momoa-aquaman-future-not-looking-good-8417147).
+You can read more about it [here](https://www.ufc.com/news/ufc-296-edwards-vs-covington-results-highlights-winner-interviews).
 
 ## Requirements
 - Python 3.8
