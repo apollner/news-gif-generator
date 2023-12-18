@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702874204)
+![Generated GIF](output.gif?raw=true&v=1702876169)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hospitals may have to ration care if COVID and flu surge continues, CDC warns**
+**Trump's economic pitch resonates with some young voters at N.H. rally**
 
-You can read more about it [here](https://www.salon.com/2023/12/16/hospital-may-have-to-ration-care-if-and-flu-surge-continues-warns/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/12/16/trump-dictator-for-day-voter-views-democracy/71922725007/).
 
 ## Requirements
 - Python 3.8
