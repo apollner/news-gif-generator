@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702924620)
+![Generated GIF](output.gif?raw=true&v=1702926351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fox News Poll: Trump’s lead in GOP primary widens**
+**Geomagnetic storm could cause Northern Lights to dance across United States**
 
-You can read more about it [here](https://www.foxnews.com/official-polls/fox-news-poll-trumps-lead-gop-primary-widens).
+You can read more about it [here](https://nypost.com/2023/12/17/lifestyle/where-to-see-the-northern-lights-this-holiday-season/).
 
 ## Requirements
 - Python 3.8
