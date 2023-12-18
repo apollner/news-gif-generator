@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702907938)
+![Generated GIF](output.gif?raw=true&v=1702916099)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A first-year medical student was learning about ultrasounds. She found something unexpected about her own health**
+**Fox News Poll: Trump’s lead in GOP primary widens**
 
-You can read more about it [here](https://www.cnn.com/2023/12/17/us/sally-rohan-thyroid-cancer-trnd/index.html).
+You can read more about it [here](https://www.foxnews.com/official-polls/fox-news-poll-trumps-lead-gop-primary-widens).
 
 ## Requirements
 - Python 3.8
