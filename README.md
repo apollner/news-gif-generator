@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702959019)
+![Generated GIF](output.gif?raw=true&v=1702960517)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Quaker Oats recalls dozens of granola products due to potential salmonella contamination**
+**Winter Weather Advisory in effect for Louisville metro on Monday**
 
-You can read more about it [here](https://abcnews.go.com/US/quaker-oats-recall-granola-bars-cereals/story?id=105715036).
+You can read more about it [here](https://www.wlky.com/article/snow-louisville-monday-dec-18-weather/46156741).
 
 ## Requirements
 - Python 3.8
