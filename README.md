@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702994999)
+![Generated GIF](output.gif?raw=true&v=1702996424)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDF claims it has discovered ‘biggest Hamas tunnel’ in Gaza**
+**GOP lawmakers try to stop Confederate memorial's removal from Arlington National Cemetery**
 
-You can read more about it [here](https://www.cnn.com/2023/12/17/middleeast/biggest-hamas-tunnel-discovered-idf-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/video/6343444514112).
 
 ## Requirements
 - Python 3.8
