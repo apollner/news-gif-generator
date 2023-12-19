@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702990149)
+![Generated GIF](output.gif?raw=true&v=1702991468)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**YouTuber Ruby Franke expected to enter plea agreement Monday, lawyer says**
+**Anna 'Chickadee' Cardwell's Kids Taking Her Death Hard, Family Considers Therapy**
 
-You can read more about it [here](https://www.cbsnews.com/news/ruby-franke-plea-agreement-child-abuse-youtube/).
+You can read more about it [here](https://www.tmz.com/2023/12/18/mama-june-anna-chickadee-cardwell-daughters-hard-time-death-family-considering-therapy/).
 
 ## Requirements
 - Python 3.8
