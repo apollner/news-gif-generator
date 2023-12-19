@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703018026)
+![Generated GIF](output.gif?raw=true&v=1703019892)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gazans trapped in church fear being shot, says relative**
+**North Carolina basketball star Eric Montross dies at age 52**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67746432).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39139942/north-carolina-basketball-star-eric-montross-dies-age-52).
 
 ## Requirements
 - Python 3.8
