@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702976964)
+![Generated GIF](output.gif?raw=true&v=1702978435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More Than 240 Sushi Restaurant Patrons Complain Of Illness**
+**Winter weather advisory: Scattered snow showers, strong winds possible Monday**
 
-You can read more about it [here](https://www.tastingtable.com/1473076/sushi-restaurant-patrons-complain-illness/).
+You can read more about it [here](https://www.wlwt.com/article/winter-weather-advisory-cincinnati-snow-showers-strong-winds/46156764).
 
 ## Requirements
 - Python 3.8
