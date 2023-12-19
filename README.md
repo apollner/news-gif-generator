@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702998480)
+![Generated GIF](output.gif?raw=true&v=1703000051)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Transportation Department fines Southwest $140 million for Christmas meltdown**
+**2023 NFL Week 15 winners and losers: Joe Flacco, Christian McCaffrey headline the day; Cowboys fall flat**
 
-You can read more about it [here](https://www.washingtonpost.com/transportation/2023/12/18/southwest-airlines-meltdown-fine/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-week-15-winners-and-losers-joe-flacco-christian-mccaffrey-headline-the-day-cowboys-fall-flat/).
 
 ## Requirements
 - Python 3.8
