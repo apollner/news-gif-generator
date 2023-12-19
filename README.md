@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703003626)
+![Generated GIF](output.gif?raw=true&v=1703005503)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fox News host Kilmeade defends Trump on ‘poisoning the blood of our country’ remarks**
+**Apple Watch Series 9 sales to be halted over patent dispute**
 
-You can read more about it [here](https://thehill.com/homenews/media/4365422-kilmeade-defends-trump-poison-remark/).
+You can read more about it [here](https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/).
 
 ## Requirements
 - Python 3.8
