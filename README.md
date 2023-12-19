@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702956821)
+![Generated GIF](output.gif?raw=true&v=1702959019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida Republican Party censures chairman Christian Ziegler**
+**Quaker Oats recalls dozens of granola products due to potential salmonella contamination**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/17/christian-ziegler-florida-republican-party/).
+You can read more about it [here](https://abcnews.go.com/US/quaker-oats-recall-granola-bars-cereals/story?id=105715036).
 
 ## Requirements
 - Python 3.8
