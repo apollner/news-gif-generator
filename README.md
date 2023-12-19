@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702964127)
+![Generated GIF](output.gif?raw=true&v=1702966266)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bills' dismantling of Cowboys proves Buffalo is a legitimate playoff threat — for more reasons than Josh Allen**
+**Trump targets undocumented immigrants in Nevada speech as he leans into anti-immigrant rhetoric in early voting states**
 
-You can read more about it [here](https://sports.yahoo.com/bills-dismantling-of-cowboys-proves-buffalo-is-a-legitimate-playoff-threat--for-more-reasons-than-josh-allen-031538388.html).
+You can read more about it [here](https://www.cnn.com/2023/12/17/politics/trump-nevada-republican-primary/index.html).
 
 ## Requirements
 - Python 3.8
