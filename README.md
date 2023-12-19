@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702945969)
+![Generated GIF](output.gif?raw=true&v=1702950518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colby Covington blames biased judging for UFC 296 loss to Leon Edwards: 'They hate me because I support Trump'**
+**Pope Francis deplores Israeli killings of civilians in Gaza church**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/2023/12/colby-covington-blames-biased-judging-for-ufc-296-loss-to-leon-edwards-they-hate-me-because-i-support-trump).
+You can read more about it [here](https://www.reuters.com/world/pope-francis-deplores-israeli-killings-civilians-gaza-church-2023-12-17/).
 
 ## Requirements
 - Python 3.8
