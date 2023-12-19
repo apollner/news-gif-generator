@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702952707)
+![Generated GIF](output.gif?raw=true&v=1702953776)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea launches possible ballistic missile: Japan's Defense Ministry**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/International/north-korea-launches-ballistic-missile-japans-defense-ministry/story?id=105729169).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
