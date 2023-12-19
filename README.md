@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703009326)
+![Generated GIF](output.gif?raw=true&v=1703010807)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
+**MLB rumors: Yoshinobu Yamamoto latest with Mets, Yankees in pursuit, Astros getting calls on Framber Valdez**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-latest-with-mets-yankees-in-pursuit-astros-getting-calls-on-framber-valdez/).
 
 ## Requirements
 - Python 3.8
