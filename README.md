@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703002176)
+![Generated GIF](output.gif?raw=true&v=1703003626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US lawmakers push DOJ to investigate Apple following Beeper shutdowns**
+**Fox News host Kilmeade defends Trump on ‘poisoning the blood of our country’ remarks**
 
-You can read more about it [here](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android).
+You can read more about it [here](https://thehill.com/homenews/media/4365422-kilmeade-defends-trump-poison-remark/).
 
 ## Requirements
 - Python 3.8
