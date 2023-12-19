@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702984038)
+![Generated GIF](output.gif?raw=true&v=1702985663)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Titans Let One Slip Away, Lose 19-16 in Overtime to Texans**
+**Jamie Foxx’s daughter Corinne gets engaged to longtime boyfriend Joe Hooten**
 
-You can read more about it [here](https://www.tennesseetitans.com/news/titans-let-one-slip-away-19-16-in-overtime-vs-texans).
+You can read more about it [here](https://www.yahoo.com/lifestyle/jamie-foxx-daughter-corinne-gets-060229927.html).
 
 ## Requirements
 - Python 3.8
