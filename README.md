@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702962471)
+![Generated GIF](output.gif?raw=true&v=1702964127)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Whitney Cummings gives birth to her first child, a baby boy**
+**Bills' dismantling of Cowboys proves Buffalo is a legitimate playoff threat — for more reasons than Josh Allen**
 
-You can read more about it [here](https://pagesix.com/2023/12/17/parents/whitney-cummings-gives-birth-to-her-first-child-a-baby-boy/).
+You can read more about it [here](https://sports.yahoo.com/bills-dismantling-of-cowboys-proves-buffalo-is-a-legitimate-playoff-threat--for-more-reasons-than-josh-allen-031538388.html).
 
 ## Requirements
 - Python 3.8
