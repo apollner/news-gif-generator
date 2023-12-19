@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702967783)
+![Generated GIF](output.gif?raw=true&v=1702969631)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea fires long-range ballistic missile into sea in resumption of weapons launches**
+**Timothée Chalamet's 'Wonka' leads the box office with $39M**
 
-You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-bc0391e981b2eedce5dc17734e27ee0c).
+You can read more about it [here](https://ew.com/timothee-chalamet-wonka-leads-box-office-8417228).
 
 ## Requirements
 - Python 3.8
