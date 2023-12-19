@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702996424)
+![Generated GIF](output.gif?raw=true&v=1702998480)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**GOP lawmakers try to stop Confederate memorial's removal from Arlington National Cemetery**
+**Transportation Department fines Southwest $140 million for Christmas meltdown**
 
-You can read more about it [here](https://www.foxnews.com/video/6343444514112).
+You can read more about it [here](https://www.washingtonpost.com/transportation/2023/12/18/southwest-airlines-meltdown-fine/).
 
 ## Requirements
 - Python 3.8
