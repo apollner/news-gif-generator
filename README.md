@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703025265)
+![Generated GIF](output.gif?raw=true&v=1703027115)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 Pinkbike Awards: Product of the Year Nominees**
+**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
 
-You can read more about it [here](https://www.pinkbike.com/news/2023-pinkbike-awards-product-of-the-year-nominees.html).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
 
 ## Requirements
 - Python 3.8
