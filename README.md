@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703019892)
+![Generated GIF](output.gif?raw=true&v=1703021658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Carolina basketball star Eric Montross dies at age 52**
+**TGI Fridays boneless chicken nuggets recalled, may be contaminated with plastic**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39139942/north-carolina-basketball-star-eric-montross-dies-age-52).
+You can read more about it [here](https://www.wfsb.com/2023/12/18/tgi-fridays-boneless-chicken-nuggets-recalled-may-be-contaminated-with-plastic/).
 
 ## Requirements
 - Python 3.8
