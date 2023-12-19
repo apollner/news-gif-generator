@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702960517)
+![Generated GIF](output.gif?raw=true&v=1702962471)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winter Weather Advisory in effect for Louisville metro on Monday**
+**Whitney Cummings gives birth to her first child, a baby boy**
 
-You can read more about it [here](https://www.wlky.com/article/snow-louisville-monday-dec-18-weather/46156741).
+You can read more about it [here](https://pagesix.com/2023/12/17/parents/whitney-cummings-gives-birth-to-her-first-child-a-baby-boy/).
 
 ## Requirements
 - Python 3.8
