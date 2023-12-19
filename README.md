@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702985663)
+![Generated GIF](output.gif?raw=true&v=1702988013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jamie Foxx’s daughter Corinne gets engaged to longtime boyfriend Joe Hooten**
+**Biden safe after car crashes into parked SUV in his motorcade outside Delaware campaign HQ**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/jamie-foxx-daughter-corinne-gets-060229927.html).
+You can read more about it [here](https://www.axios.com/2023/12/18/car-crashes-suv-guarding-biden-motorcade-delaware-campaign-hq).
 
 ## Requirements
 - Python 3.8
