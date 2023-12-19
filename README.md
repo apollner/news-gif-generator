@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702971239)
+![Generated GIF](output.gif?raw=true&v=1702973525)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Galaxy S24 Ultra leak suggests it's Samsung's biggest upgrade in years**
+**Illumina to divest cancer test maker Grail after antitrust battles**
 
-You can read more about it [here](https://www.phonearena.com/news/New-Galaxy-S24-Ultra-leak-suggests-its-Samsungs-biggest-upgrade-in-years_id153572).
+You can read more about it [here](https://www.reuters.com/markets/deals/illumina-divest-cancer-test-maker-grail-2023-12-17/).
 
 ## Requirements
 - Python 3.8
