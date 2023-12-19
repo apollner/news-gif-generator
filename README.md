@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702978435)
+![Generated GIF](output.gif?raw=true&v=1702980564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winter weather advisory: Scattered snow showers, strong winds possible Monday**
+**IDF claims it has discovered ‘biggest Hamas tunnel’ in Gaza**
 
-You can read more about it [here](https://www.wlwt.com/article/winter-weather-advisory-cincinnati-snow-showers-strong-winds/46156764).
+You can read more about it [here](https://www.cnn.com/2023/12/17/middleeast/biggest-hamas-tunnel-discovered-idf-intl/index.html).
 
 ## Requirements
 - Python 3.8
