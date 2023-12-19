@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702966266)
+![Generated GIF](output.gif?raw=true&v=1702967783)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump targets undocumented immigrants in Nevada speech as he leans into anti-immigrant rhetoric in early voting states**
+**North Korea fires long-range ballistic missile into sea in resumption of weapons launches**
 
-You can read more about it [here](https://www.cnn.com/2023/12/17/politics/trump-nevada-republican-primary/index.html).
+You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-bc0391e981b2eedce5dc17734e27ee0c).
 
 ## Requirements
 - Python 3.8
