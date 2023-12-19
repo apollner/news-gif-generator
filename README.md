@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702950518)
+![Generated GIF](output.gif?raw=true&v=1702952707)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis deplores Israeli killings of civilians in Gaza church**
+**North Korea launches possible ballistic missile: Japan's Defense Ministry**
 
-You can read more about it [here](https://www.reuters.com/world/pope-francis-deplores-israeli-killings-civilians-gaza-church-2023-12-17/).
+You can read more about it [here](https://abcnews.go.com/International/north-korea-launches-ballistic-missile-japans-defense-ministry/story?id=105729169).
 
 ## Requirements
 - Python 3.8
