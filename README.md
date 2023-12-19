@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703027115)
+![Generated GIF](output.gif?raw=true&v=1703028852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
+**Steelers plan to start Mason Rudolph in Week 16, but Kenny Pickett may return**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-plan-to-start-mason-rudolph-in-week-16-but-kenny-pickett-may-return).
 
 ## Requirements
 - Python 3.8
