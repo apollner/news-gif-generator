@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703014431)
+![Generated GIF](output.gif?raw=true&v=1703016341)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US lawmakers push DOJ to investigate Apple following Beeper shutdowns**
+**Apple Watch Series 9 sales to be halted over patent dispute**
 
-You can read more about it [here](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android).
+You can read more about it [here](https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/).
 
 ## Requirements
 - Python 3.8
