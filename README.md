@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702974941)
+![Generated GIF](output.gif?raw=true&v=1702976964)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Temple promised by BJP transforms India's Ayodhya but Muslims, some locals feel neglected**
+**More Than 240 Sushi Restaurant Patrons Complain Of Illness**
 
-You can read more about it [here](https://www.reuters.com/world/india/temple-promised-by-bjp-transforms-indian-city-muslims-some-locals-feel-neglected-2023-12-18/).
+You can read more about it [here](https://www.tastingtable.com/1473076/sushi-restaurant-patrons-complain-illness/).
 
 ## Requirements
 - Python 3.8
