@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702969631)
+![Generated GIF](output.gif?raw=true&v=1702971239)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Timothée Chalamet's 'Wonka' leads the box office with $39M**
+**New Galaxy S24 Ultra leak suggests it's Samsung's biggest upgrade in years**
 
-You can read more about it [here](https://ew.com/timothee-chalamet-wonka-leads-box-office-8417228).
+You can read more about it [here](https://www.phonearena.com/news/New-Galaxy-S24-Ultra-leak-suggests-its-Samsungs-biggest-upgrade-in-years_id153572).
 
 ## Requirements
 - Python 3.8
