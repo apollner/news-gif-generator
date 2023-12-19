@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1702988013)
+![Generated GIF](output.gif?raw=true&v=1702990149)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden safe after car crashes into parked SUV in his motorcade outside Delaware campaign HQ**
+**YouTuber Ruby Franke expected to enter plea agreement Monday, lawyer says**
 
-You can read more about it [here](https://www.axios.com/2023/12/18/car-crashes-suv-guarding-biden-motorcade-delaware-campaign-hq).
+You can read more about it [here](https://www.cbsnews.com/news/ruby-franke-plea-agreement-child-abuse-youtube/).
 
 ## Requirements
 - Python 3.8
