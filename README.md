@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703021658)
+![Generated GIF](output.gif?raw=true&v=1703023529)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TGI Fridays boneless chicken nuggets recalled, may be contaminated with plastic**
+**Israel, Hamas war live updates: US wants to curb civilian Gaza deaths**
 
-You can read more about it [here](https://www.wfsb.com/2023/12/18/tgi-fridays-boneless-chicken-nuggets-recalled-may-be-contaminated-with-plastic/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/18/israel-hamas-war-live-updates/71956952007/).
 
 ## Requirements
 - Python 3.8
