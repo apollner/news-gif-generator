@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703000051)
+![Generated GIF](output.gif?raw=true&v=1703002176)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023 NFL Week 15 winners and losers: Joe Flacco, Christian McCaffrey headline the day; Cowboys fall flat**
+**US lawmakers push DOJ to investigate Apple following Beeper shutdowns**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-week-15-winners-and-losers-joe-flacco-christian-mccaffrey-headline-the-day-cowboys-fall-flat/).
+You can read more about it [here](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android).
 
 ## Requirements
 - Python 3.8
