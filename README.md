@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703093672)
+![Generated GIF](output.gif?raw=true&v=1703095814)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin says Russia is ready to talk on Ukraine**
+**White House backs industry effort to standardize Tesla's EV charging plugs**
 
-You can read more about it [here](https://news.yahoo.com/putin-says-russia-ready-talk-123213938.html).
+You can read more about it [here](https://finance.yahoo.com/news/white-house-backs-industry-effort-140102446.html).
 
 ## Requirements
 - Python 3.8
