@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703035026)
+![Generated GIF](output.gif?raw=true&v=1703037063)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump blasted for saying immigrants are "poisoning the blood of our country"**
+**NASA releases new images of Uranus and its moons**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-immigrants-poisoning-the-blood-of-our-country-reaction/).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4366352-nasa-new-images-uranus/).
 
 ## Requirements
 - Python 3.8
