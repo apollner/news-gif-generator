@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703109967)
+![Generated GIF](output.gif?raw=true&v=1703111627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beeper's esoteric fix for iMessage access suggests why it's pushing politically**
+**Review | 'The Color Purple' mixes tragedy with show tunes**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2023/12/19/the-color-purple-movie-review/).
 
 ## Requirements
 - Python 3.8
