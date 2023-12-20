@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703043218)
+![Generated GIF](output.gif?raw=true&v=1703045353)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Read Catholic Diocese of Cleveland’s response after Pope Francis’ approves of blessings for same-sex couples**
+**Polk County Health Department urges vaccine updates before holiday gatherings**
 
-You can read more about it [here](https://www.cleveland.com/news/2023/12/read-catholic-diocese-of-clevelands-response-after-pope-francis-approves-of-blessings-for-same-sex-couples.html).
+You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
 
 ## Requirements
 - Python 3.8
