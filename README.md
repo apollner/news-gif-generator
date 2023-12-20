@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703111627)
+![Generated GIF](output.gif?raw=true&v=1703113667)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Review | 'The Color Purple' mixes tragedy with show tunes**
+**Jonathan Majors Verdict: Actor Convicted on Two Charges**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2023/12/19/the-color-purple-movie-review/).
+You can read more about it [here](http://www.thecut.com/2023/12/jonathan-majors-verdict-domestic-violence-trial.html).
 
 ## Requirements
 - Python 3.8
