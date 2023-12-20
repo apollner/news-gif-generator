@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703088533)
+![Generated GIF](output.gif?raw=true&v=1703090309)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**This is a good time to invest in bonds — here is a fund with special advantages**
+**White House backs industry effort to standardize Tesla's EV charging plugs**
 
-You can read more about it [here](https://www.marketwatch.com/story/this-is-a-good-time-to-invest-in-a-bond-fund-and-this-manager-has-an-advantage-over-his-largest-competitors-76a9f9ec).
+You can read more about it [here](https://finance.yahoo.com/news/white-house-backs-industry-effort-140102446.html).
 
 ## Requirements
 - Python 3.8
