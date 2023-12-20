@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703037936)
+![Generated GIF](output.gif?raw=true&v=1703039642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marvel drops Jonathan Majors after he's found guilty of assault**
+**Polk County Health Department urges vaccine updates before holiday gatherings**
 
-You can read more about it [here](https://apnews.com/article/jonathan-majors-assault-verdict-trial-exgirlfriend-marvel-d953967aed0f4a1e93e7ee638120757f).
+You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
 
 ## Requirements
 - Python 3.8
