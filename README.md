@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703099088)
+![Generated GIF](output.gif?raw=true&v=1703100820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Charmed's Holly Marie Combs Confirms Alyssa Milano Got Shannen Doherty Fired**
+**Housing starts unexpectedly surge in November as mortgage rates fall**
 
-You can read more about it [here](https://www.eonline.com/news/1391694/charmeds-holly-marie-combs-confirms-alyssa-milano-got-shannen-doherty-fired).
+You can read more about it [here](https://www.foxbusiness.com/economy/housing-starts-unexpectedly-surge-november-mortgage-rates-fall).
 
 ## Requirements
 - Python 3.8
