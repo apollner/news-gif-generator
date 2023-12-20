@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703113667)
+![Generated GIF](output.gif?raw=true&v=1703115215)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jonathan Majors Verdict: Actor Convicted on Two Charges**
+**Some Chick-fil-As could open on Sundays due to new bill in NY**
 
-You can read more about it [here](http://www.thecut.com/2023/12/jonathan-majors-verdict-domestic-violence-trial.html).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/19/chick-fil-a-opening-on-sundays-bill-ny/71972905007/).
 
 ## Requirements
 - Python 3.8
