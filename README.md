@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703032006)
+![Generated GIF](output.gif?raw=true&v=1703035026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Appeals court rejects Mark Meadows’ attempt to move Georgia election subversion case to federal court**
+**Trump blasted for saying immigrants are "poisoning the blood of our country"**
 
-You can read more about it [here](https://www.cnn.com/2023/12/18/politics/mark-meadows-appeals-court/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/trump-immigrants-poisoning-the-blood-of-our-country-reaction/).
 
 ## Requirements
 - Python 3.8
