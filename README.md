@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703074298)
+![Generated GIF](output.gif?raw=true&v=1703076143)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tunnel warfare expert on what she sees in newly-discovered tunnel in Gaza**
+**Democratic pollster warns President Biden he's 'losing ground' every month: 'Stop touting progress'**
 
-You can read more about it [here](https://www.cnn.com/videos/world/2023/12/19/gaza-tunnel-warfare-expert-sot-ebof-vpx.cnn).
+You can read more about it [here](https://www.foxnews.com/media/democratic-pollster-warns-president-biden-hes-losing-ground-every-month-stop-touting-progress).
 
 ## Requirements
 - Python 3.8
