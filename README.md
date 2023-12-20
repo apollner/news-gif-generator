@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703057635)
+![Generated GIF](output.gif?raw=true&v=1703059793)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerful storm blamed for 2 deaths as it raced from Southeast to New England**
+**Trump doubles down on anti-immigration rhetoric, pledging to use overseas troops at the border**
 
-You can read more about it [here](https://news.yahoo.com/powerful-storm-dumps-heavy-rain-160001862.html).
+You can read more about it [here](https://abcnews.go.com/Politics/trump-doubles-anti-immigration-rhetoric-pledging-overseas-troops/story?id=105742395).
 
 ## Requirements
 - Python 3.8
