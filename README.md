@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703039642)
+![Generated GIF](output.gif?raw=true&v=1703041579)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Polk County Health Department urges vaccine updates before holiday gatherings**
+**Lawmakers Express Concern Over Apple's 'Anticompetitive Treatment' of iMessage for Android App**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
+You can read more about it [here](https://www.macrumors.com/2023/12/18/beeper-mini-anticompetitive-apple/).
 
 ## Requirements
 - Python 3.8
