@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703037063)
+![Generated GIF](output.gif?raw=true&v=1703037936)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA releases new images of Uranus and its moons**
+**Marvel drops Jonathan Majors after he's found guilty of assault**
 
-You can read more about it [here](https://thehill.com/policy/energy-environment/4366352-nasa-new-images-uranus/).
+You can read more about it [here](https://apnews.com/article/jonathan-majors-assault-verdict-trial-exgirlfriend-marvel-d953967aed0f4a1e93e7ee638120757f).
 
 ## Requirements
 - Python 3.8
