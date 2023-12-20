@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703064826)
+![Generated GIF](output.gif?raw=true&v=1703074298)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Celine Dion 'doesn't have control over her muscles' due to stiff-person syndrome**
+**Tunnel warfare expert on what she sees in newly-discovered tunnel in Gaza**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/celine-dion-doesnt-have-control-over-her-muscles-due-to-stiff-person-syndrome-sister-101702959291779.html).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/12/19/gaza-tunnel-warfare-expert-sot-ebof-vpx.cnn).
 
 ## Requirements
 - Python 3.8
