@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703108076)
+![Generated GIF](output.gif?raw=true&v=1703109967)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDX Stock: FedEx Fades After Earnings, Revenue Miss Targets**
+**Beeper's esoteric fix for iMessage access suggests why it's pushing politically**
 
-You can read more about it [here](https://www.investors.com/news/fedex-stock-fedex-earnings-q2-2024/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/).
 
 ## Requirements
 - Python 3.8
