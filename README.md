@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703106375)
+![Generated GIF](output.gif?raw=true&v=1703108076)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers: I'm not 100 percent now, I don't think 2024 will be final year**
+**FDX Stock: FedEx Fades After Earnings, Revenue Miss Targets**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-im-not-100-percent-now-i-dont-think-2024-will-be-final-year).
+You can read more about it [here](https://www.investors.com/news/fedex-stock-fedex-earnings-q2-2024/).
 
 ## Requirements
 - Python 3.8
