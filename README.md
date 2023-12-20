@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703045353)
+![Generated GIF](output.gif?raw=true&v=1703046879)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Polk County Health Department urges vaccine updates before holiday gatherings**
+**Parenting YouTuber Ruby Franke pleads guilty in child abuse case**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/18/ruby-franke-guilty-plea-child-abuse/).
 
 ## Requirements
 - Python 3.8
