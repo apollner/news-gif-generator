@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703046879)
+![Generated GIF](output.gif?raw=true&v=1703048798)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Parenting YouTuber Ruby Franke pleads guilty in child abuse case**
+**Jennifer Love Hewitt Has Honest Response to Claims She’s Unrecognizable**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/18/ruby-franke-guilty-plea-child-abuse/).
+You can read more about it [here](https://www.eonline.com/news/1391700/jennifer-love-hewitt-has-honest-response-to-claims-shes-unrecognizable).
 
 ## Requirements
 - Python 3.8
