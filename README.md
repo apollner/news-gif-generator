@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703090309)
+![Generated GIF](output.gif?raw=true&v=1703092005)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**White House backs industry effort to standardize Tesla's EV charging plugs**
+**What happens when a shipwrecks becomes a thriving marine habitat**
 
-You can read more about it [here](https://finance.yahoo.com/news/white-house-backs-industry-effort-140102446.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/19/plumbing-secrets-how-shipwrecks-transform-into-living-seabeds/).
 
 ## Requirements
 - Python 3.8
