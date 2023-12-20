@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703050423)
+![Generated GIF](output.gif?raw=true&v=1703052569)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Samsung Leak Reveals Stunning Galaxy S24 Design Decisions**
+**Trump doubles down on anti-immigration rhetoric, pledging to use overseas troops at the border**
 
-You can read more about it [here](https://www.forbes.com/sites/ewanspence/2023/12/18/samsung-galaxy-s24-exynos-2400-specs-memory-new-galaxy-s24-upgrade/).
+You can read more about it [here](https://abcnews.go.com/Politics/trump-doubles-anti-immigration-rhetoric-pledging-overseas-troops/story?id=105742395).
 
 ## Requirements
 - Python 3.8
