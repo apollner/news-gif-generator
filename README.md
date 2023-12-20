@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703028852)
+![Generated GIF](output.gif?raw=true&v=1703032006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Steelers plan to start Mason Rudolph in Week 16, but Kenny Pickett may return**
+**Appeals court rejects Mark Meadows’ attempt to move Georgia election subversion case to federal court**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-plan-to-start-mason-rudolph-in-week-16-but-kenny-pickett-may-return).
+You can read more about it [here](https://www.cnn.com/2023/12/18/politics/mark-meadows-appeals-court/index.html).
 
 ## Requirements
 - Python 3.8
