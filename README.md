@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703077589)
+![Generated GIF](output.gif?raw=true&v=1703079229)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Confederate memorial spared takedown thanks to judge’s order**
+**Yemen’s Houthis ‘will not stop’ Red Sea attacks until Israel ends Gaza war**
 
-You can read more about it [here](https://www.foxnews.com/us/confederate-memorial-spared-takedown-judges-order).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/19/yemens-houthis-will-not-stop-red-sea-attacks-until-israel-stops-gaza-war).
 
 ## Requirements
 - Python 3.8
