@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703097296)
+![Generated GIF](output.gif?raw=true&v=1703099088)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who are the Houthis and why are they attacking ships in the Red Sea?**
+**Charmed's Holly Marie Combs Confirms Alyssa Milano Got Shannen Doherty Fired**
 
-You can read more about it [here](https://www.cnn.com/2023/12/19/middleeast/red-sea-crisis-explainer-houthi-yemen-israel-intl/index.html).
+You can read more about it [here](https://www.eonline.com/news/1391694/charmeds-holly-marie-combs-confirms-alyssa-milano-got-shannen-doherty-fired).
 
 ## Requirements
 - Python 3.8
