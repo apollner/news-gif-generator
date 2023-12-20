@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703081121)
+![Generated GIF](output.gif?raw=true&v=1703082828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China Earthquake**
+**Coronavirus subvariant JN.1 growing fast in US, already dominant in the Northeast**
 
-You can read more about it [here](https://www.barrons.com/articles/china-earthquake-96482c4b).
+You can read more about it [here](https://www.cnn.com/2023/12/19/health/what-to-know-about-jn-1/index.html).
 
 ## Requirements
 - Python 3.8
