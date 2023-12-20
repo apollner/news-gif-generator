@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703076143)
+![Generated GIF](output.gif?raw=true&v=1703077589)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Democratic pollster warns President Biden he's 'losing ground' every month: 'Stop touting progress'**
+**Confederate memorial spared takedown thanks to judge’s order**
 
-You can read more about it [here](https://www.foxnews.com/media/democratic-pollster-warns-president-biden-hes-losing-ground-every-month-stop-touting-progress).
+You can read more about it [here](https://www.foxnews.com/us/confederate-memorial-spared-takedown-judges-order).
 
 ## Requirements
 - Python 3.8
