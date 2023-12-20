@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703048798)
+![Generated GIF](output.gif?raw=true&v=1703050423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jennifer Love Hewitt Has Honest Response to Claims She’s Unrecognizable**
+**New Samsung Leak Reveals Stunning Galaxy S24 Design Decisions**
 
-You can read more about it [here](https://www.eonline.com/news/1391700/jennifer-love-hewitt-has-honest-response-to-claims-shes-unrecognizable).
+You can read more about it [here](https://www.forbes.com/sites/ewanspence/2023/12/18/samsung-galaxy-s24-exynos-2400-specs-memory-new-galaxy-s24-upgrade/).
 
 ## Requirements
 - Python 3.8
