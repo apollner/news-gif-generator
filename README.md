@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703100820)
+![Generated GIF](output.gif?raw=true&v=1703102941)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Housing starts unexpectedly surge in November as mortgage rates fall**
+**New Texas law over immigration faces lawsuit from ACLU, other groups**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/housing-starts-unexpectedly-surge-november-mortgage-rates-fall).
+You can read more about it [here](https://apnews.com/article/texas-immigration-lawsuit-border-2be91001567623db8ad3171265d5e739).
 
 ## Requirements
 - Python 3.8
