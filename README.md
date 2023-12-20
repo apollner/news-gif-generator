@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703104485)
+![Generated GIF](output.gif?raw=true&v=1703106375)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A woman who had a miscarriage is now charged with abusing a corpse as stricter abortion laws play out nationwide**
+**Aaron Rodgers: I'm not 100 percent now, I don't think 2024 will be final year**
 
-You can read more about it [here](https://www.cnn.com/2023/12/19/us/brittany-watts-miscarriage-criminal-charge/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-im-not-100-percent-now-i-dont-think-2024-will-be-final-year).
 
 ## Requirements
 - Python 3.8
