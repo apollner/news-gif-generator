@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703092005)
+![Generated GIF](output.gif?raw=true&v=1703093672)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What happens when a shipwrecks becomes a thriving marine habitat**
+**Putin says Russia is ready to talk on Ukraine**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/12/19/plumbing-secrets-how-shipwrecks-transform-into-living-seabeds/).
+You can read more about it [here](https://news.yahoo.com/putin-says-russia-ready-talk-123213938.html).
 
 ## Requirements
 - Python 3.8
