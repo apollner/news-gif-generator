@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703054164)
+![Generated GIF](output.gif?raw=true&v=1703055903)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Volcano erupts on Iceland’s Reykjanes peninsula**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/12/18/europe/reykjanes-volcano-erupts-iceland/index.html).
 
 ## Requirements
 - Python 3.8
