@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703187205)
+![Generated GIF](output.gif?raw=true&v=1703189297)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA discovers "Christmas Tree Cluster" of stars glowing in space: "It's beginning to look a lot like cosmos"**
+**NASA's moon landing mission will include a non-American, Harris will announce**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-discovers-cosmic-christmas-tree-cluster-glowing-in-space/).
+You can read more about it [here](https://www.politico.com/news/2023/12/20/nasas-moon-landing-mission-will-include-a-non-american-harris-will-announce-00132667).
 
 ## Requirements
 - Python 3.8
