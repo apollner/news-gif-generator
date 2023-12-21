@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703131794)
+![Generated GIF](output.gif?raw=true&v=1703133391)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taters the cat stars in NASA's first video streamed from deep space**
+**Donald Trump barred from Colorado's 2024 presidential primary ballot**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/12/19/nasa-laser-video-streaming-space-mars-cat/).
+You can read more about it [here](https://www.ft.com/content/51977175-a340-4997-b8a0-fe6902210c56).
 
 ## Requirements
 - Python 3.8
