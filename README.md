@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703115215)
+![Generated GIF](output.gif?raw=true&v=1703118756)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some Chick-fil-As could open on Sundays due to new bill in NY**
+**McConnell invokes his wife’s name to slam Trump’s controversial immigrant remarks**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/19/chick-fil-a-opening-on-sundays-bill-ny/71972905007/).
+You can read more about it [here](https://thehill.com/homenews/4368167-mcconnell-invokes-wifes-name-trump-condemnation-of-immigrants/).
 
 ## Requirements
 - Python 3.8
