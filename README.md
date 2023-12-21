@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703140554)
+![Generated GIF](output.gif?raw=true&v=1703142428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UFC 296: Leon Edwards vs Colby Covington Highlights**
+**‘Percy Jackson’ Premiere Moves Up on Disney+, Hulu**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3lmKsSwIngM).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/percy-jackson-series-premieres-early-disney-plus-hulu-1235766525/).
 
 ## Requirements
 - Python 3.8
