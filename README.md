@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703156749)
+![Generated GIF](output.gif?raw=true&v=1703158475)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea**
+**N.Y. Gov. Kathy Hochul signs controversial legislation to create slavery reparations commission**
 
-You can read more about it [here](https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/gov-kathy-hochul-signs-controversial-legislation-to-create-slavery-reparations-commission/).
 
 ## Requirements
 - Python 3.8
