@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703182143)
+![Generated GIF](output.gif?raw=true&v=1703183644)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**24-hour flash sale at Best Buy — Macs from $749, Switch games from $14**
+**Weight loss drugs, Alzheimer's treatments and gene editing: Enormous firsts defined 2023 in pharma**
 
-You can read more about it [here](https://www.tomsguide.com/deals/24-hour-flash-sale-at-best-buy-macs-from-dollar749-switch-games-from-dollar14).
+You can read more about it [here](https://www.cnbc.com/2023/12/20/weight-loss-drugs-covid-downturn-pharma-had-a-year-full-of-firsts.html).
 
 ## Requirements
 - Python 3.8
