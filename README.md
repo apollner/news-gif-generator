@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703155013)
+![Generated GIF](output.gif?raw=true&v=1703156749)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump barred from Colorado primary ballot for role in US Capitol attack**
+**Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea**
 
-You can read more about it [here](https://www.reuters.com/legal/colorado-supreme-court-disqualifies-trump-holding-office-filing-2023-12-19/).
+You can read more about it [here](https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/).
 
 ## Requirements
 - Python 3.8
