@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703169226)
+![Generated GIF](output.gif?raw=true&v=1703171275)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ja Morant hits game-winning buzzer-beater on return from 25-game suspension**
+**'The Voice' Winner Huntley Shares His Appreciation For Coach Niall Horan (Exclusive)**
 
-You can read more about it [here](https://www.cnn.com/2023/12/20/sport/ja-morant-game-winning-buzzer-beater-pelicans-spt-intl/index.html).
+You can read more about it [here](https://www.etonline.com/the-voice-winner-huntley-shares-his-appreciation-for-coach-niall-horan-exclusive-216788).
 
 ## Requirements
 - Python 3.8
