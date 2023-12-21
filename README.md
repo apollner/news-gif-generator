@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703200148)
+![Generated GIF](output.gif?raw=true&v=1703201647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Financial woes force Kanye West to part ways with rare oceanfront Malibu home -- for a loss**
+**'The Voice' Winner Huntley Receives Congratulations From Departed Contestant Tom Nitti**
 
-You can read more about it [here](https://nypost.com/2023/12/20/real-estate/kanye-west-lists-malibu-home-amid-financial-woes-for-53m/).
+You can read more about it [here](https://www.etonline.com/the-voice-winner-huntley-receives-congratulations-from-departed-contestant-tom-nitti-216825).
 
 ## Requirements
 - Python 3.8
