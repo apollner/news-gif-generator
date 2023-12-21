@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703144087)
+![Generated GIF](output.gif?raw=true&v=1703146248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stephen A. Smith slams Texas immigration law as 'a disgrace,' 'inhumane'**
+**IDF probe said to find troops who killed hostages not briefed on Hebrew sign in area**
 
-You can read more about it [here](https://thehill.com/homenews/media/4368906-stephen-a-smith-slams-texas-immigration-law/).
+You can read more about it [here](https://www.timesofisrael.com/idf-probe-said-to-find-troops-who-killed-hostages-not-briefed-on-hebrew-sign-in-area/).
 
 ## Requirements
 - Python 3.8
