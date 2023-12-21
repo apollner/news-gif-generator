@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703196291)
+![Generated GIF](output.gif?raw=true&v=1703198151)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Discovery of a structural class of antibiotics with explainable deep learning**
+**Inside Brad Pitt's whirlwind 60th birthday weekend with Ines de Ramon: From romantic Paris trip to festive LA party**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06887-8).
+You can read more about it [here](https://pagesix.com/2023/12/20/entertainment/inside-brad-pitts-whirlwind-60th-birthday-weekend-with-ines-de-ramon/).
 
 ## Requirements
 - Python 3.8
