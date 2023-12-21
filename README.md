@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703129645)
+![Generated GIF](output.gif?raw=true&v=1703131794)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Who are the Houthis and why are they attacking ships in the Red Sea?**
+**Taters the cat stars in NASA's first video streamed from deep space**
 
-You can read more about it [here](https://www.cnn.com/2023/12/19/middleeast/red-sea-crisis-explainer-houthi-yemen-israel-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/12/19/nasa-laser-video-streaming-space-mars-cat/).
 
 ## Requirements
 - Python 3.8
