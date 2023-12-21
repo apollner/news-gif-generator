@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703142428)
+![Generated GIF](output.gif?raw=true&v=1703144087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Percy Jackson’ Premiere Moves Up on Disney+, Hulu**
+**Stephen A. Smith slams Texas immigration law as 'a disgrace,' 'inhumane'**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/percy-jackson-series-premieres-early-disney-plus-hulu-1235766525/).
+You can read more about it [here](https://thehill.com/homenews/media/4368906-stephen-a-smith-slams-texas-immigration-law/).
 
 ## Requirements
 - Python 3.8
