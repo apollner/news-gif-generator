@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703167577)
+![Generated GIF](output.gif?raw=true&v=1703169226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mortgage demand slips despite another drop in interest rates**
+**Ja Morant hits game-winning buzzer-beater on return from 25-game suspension**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/20/mortgage-demand-slips-despite-drop-in-interest-rates.html).
+You can read more about it [here](https://www.cnn.com/2023/12/20/sport/ja-morant-game-winning-buzzer-beater-pelicans-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
