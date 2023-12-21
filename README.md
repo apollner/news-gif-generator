@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703174982)
+![Generated GIF](output.gif?raw=true&v=1703176765)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pilot, photographer killed after Action News' Chopper 6 crashes in wooded area of New Jersey**
+**DR Congo vote marred by protest and delays as opposition alleges fraud**
 
-You can read more about it [here](https://6abc.com/action-news-helicopter-6abc-chopper-6-crash-new-jersey-philadelphia-crew-wpvi-tv/14205051/).
+You can read more about it [here](https://www.cnn.com/2023/12/20/africa/dr-congo-election-delays-protests-intl/index.html).
 
 ## Requirements
 - Python 3.8
