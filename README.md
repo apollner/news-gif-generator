@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703185457)
+![Generated GIF](output.gif?raw=true&v=1703187205)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese Spaceplane Trailed By Six Mysterious Objects Transmitting Repeating Pattern**
+**NASA discovers "Christmas Tree Cluster" of stars glowing in space: "It's beginning to look a lot like cosmos"**
 
-You can read more about it [here](https://www.iflscience.com/chinese-spaceplane-trailed-by-six-mysterious-objects-transmitting-repeating-pattern-72097).
+You can read more about it [here](https://www.cbsnews.com/news/nasa-discovers-cosmic-christmas-tree-cluster-glowing-in-space/).
 
 ## Requirements
 - Python 3.8
