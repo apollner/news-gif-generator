@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703126406)
+![Generated GIF](output.gif?raw=true&v=1703128155)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Minnesota panel chooses new state flag featuring North Star to replace old flag seen as racist**
+**NFL Week 16 features two potential Super Bowl previews in first matchups of its kind since 1980**
 
-You can read more about it [here](https://apnews.com/article/minnesota-state-flag-native-americans-bf20ba7d36b5f0929fb2ef87d2a36d65).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-features-two-potential-super-bowl-previews-in-first-matchups-of-its-kind-since-1980/).
 
 ## Requirements
 - Python 3.8
