@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703125313)
+![Generated GIF](output.gif?raw=true&v=1703126406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FedEx says holiday rush has been 'relatively similar' to last year, as forecast sends shares lower**
+**Minnesota panel chooses new state flag featuring North Star to replace old flag seen as racist**
 
-You can read more about it [here](https://www.marketwatch.com/story/fedexs-stock-drops-as-company-trims-sales-forecast-10478d00).
+You can read more about it [here](https://apnews.com/article/minnesota-state-flag-native-americans-bf20ba7d36b5f0929fb2ef87d2a36d65).
 
 ## Requirements
 - Python 3.8
