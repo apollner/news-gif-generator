@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703146248)
+![Generated GIF](output.gif?raw=true&v=1703147735)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDF probe said to find troops who killed hostages not briefed on Hebrew sign in area**
+**Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-probe-said-to-find-troops-who-killed-hostages-not-briefed-on-hebrew-sign-in-area/).
+You can read more about it [here](https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/).
 
 ## Requirements
 - Python 3.8
