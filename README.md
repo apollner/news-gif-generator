@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703183644)
+![Generated GIF](output.gif?raw=true&v=1703185457)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Weight loss drugs, Alzheimer's treatments and gene editing: Enormous firsts defined 2023 in pharma**
+**Chinese Spaceplane Trailed By Six Mysterious Objects Transmitting Repeating Pattern**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/20/weight-loss-drugs-covid-downturn-pharma-had-a-year-full-of-firsts.html).
+You can read more about it [here](https://www.iflscience.com/chinese-spaceplane-trailed-by-six-mysterious-objects-transmitting-repeating-pattern-72097).
 
 ## Requirements
 - Python 3.8
