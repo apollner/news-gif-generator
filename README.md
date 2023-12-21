@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703133391)
+![Generated GIF](output.gif?raw=true&v=1703135303)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Donald Trump barred from Colorado's 2024 presidential primary ballot**
+**Beeper's iMessage Fight With Apple Has Blown Up Into a Debate Over Regulating Big Tech**
 
-You can read more about it [here](https://www.ft.com/content/51977175-a340-4997-b8a0-fe6902210c56).
+You can read more about it [here](https://www.wired.com/story/beeper-apple-imessage-fight/).
 
 ## Requirements
 - Python 3.8
