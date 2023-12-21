@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703118756)
+![Generated GIF](output.gif?raw=true&v=1703122720)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**McConnell invokes his wife’s name to slam Trump’s controversial immigrant remarks**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/4368167-mcconnell-invokes-wifes-name-trump-condemnation-of-immigrants/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
