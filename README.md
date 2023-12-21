@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703190829)
+![Generated GIF](output.gif?raw=true&v=1703192859)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**General Mills' price hikes backfire as consumers say no more**
+**Hope and Heartbreak: Stories From the Hollywood Strikes**
 
-You can read more about it [here](https://www.startribune.com/general-mills-price-hikes-backfire-consumers-resist-inflation/600329626/).
+You can read more about it [here](https://www.theringer.com/movies/2023/12/20/24008156/hollywood-strikes-2023-wga-sag-aftra).
 
 ## Requirements
 - Python 3.8
