@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703194426)
+![Generated GIF](output.gif?raw=true&v=1703196291)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thompson: Stephen Curry, with one epic splash, revives the Warriors’ season**
+**Discovery of a structural class of antibiotics with explainable deep learning**
 
-You can read more about it [here](https://theathletic.com/5151678/2023/12/20/stephen-curry-warriors-celtics-shot-thompson/).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06887-8).
 
 ## Requirements
 - Python 3.8
