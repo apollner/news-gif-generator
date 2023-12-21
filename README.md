@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703189297)
+![Generated GIF](output.gif?raw=true&v=1703190829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA's moon landing mission will include a non-American, Harris will announce**
+**General Mills' price hikes backfire as consumers say no more**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/20/nasas-moon-landing-mission-will-include-a-non-american-harris-will-announce-00132667).
+You can read more about it [here](https://www.startribune.com/general-mills-price-hikes-backfire-consumers-resist-inflation/600329626/).
 
 ## Requirements
 - Python 3.8
