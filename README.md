@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703136808)
+![Generated GIF](output.gif?raw=true&v=1703139088)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Reversing earlier decision, judge allows removal of Confederate memorial at Arlington Cemetery**
+**Tougher French immigration bill passes, Macron's parliament majority wobbles**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/19/judge-allows-removal-confederate-memorial-arlington-cemetery-00132626).
+You can read more about it [here](https://www.reuters.com/world/europe/france-lawmakers-seek-deal-tougher-migration-bill-2023-12-19/).
 
 ## Requirements
 - Python 3.8
