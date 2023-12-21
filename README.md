@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703151232)
+![Generated GIF](output.gif?raw=true&v=1703153381)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**France passes tough immigration bill amid Macron party rebellion**
+**Judge orders Rep. Scott Perry to disclose 1600 messages to federal prosecutors**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/20/france-passes-tough-immigration-bill-amid-macron-party-rebellion).
+You can read more about it [here](https://www.politico.com/news/2023/12/19/scott-perry-ordered-to-disclose-messages-trump-00132623).
 
 ## Requirements
 - Python 3.8
