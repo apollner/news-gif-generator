@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703158475)
+![Generated GIF](output.gif?raw=true&v=1703160788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**N.Y. Gov. Kathy Hochul signs controversial legislation to create slavery reparations commission**
+**Senate approves final 11 military nominees after Tuberville backs down from hold**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/gov-kathy-hochul-signs-controversial-legislation-to-create-slavery-reparations-commission/).
+You can read more about it [here](https://www.cnn.com/2023/12/19/politics/tuberville-senate-final-11-military-nominees/index.html).
 
 ## Requirements
 - Python 3.8
