@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703162933)
+![Generated GIF](output.gif?raw=true&v=1703164302)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Some Muslims around major India temple fearful ahead of opening**
+**Iceland volcano eruption weakening**
 
-You can read more about it [here](https://www.reuters.com/world/india/some-muslims-around-major-india-temple-fearful-ahead-opening-2023-12-20/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67770645).
 
 ## Requirements
 - Python 3.8
