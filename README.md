@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703128155)
+![Generated GIF](output.gif?raw=true&v=1703129645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 16 features two potential Super Bowl previews in first matchups of its kind since 1980**
+**Who are the Houthis and why are they attacking ships in the Red Sea?**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-features-two-potential-super-bowl-previews-in-first-matchups-of-its-kind-since-1980/).
+You can read more about it [here](https://www.cnn.com/2023/12/19/middleeast/red-sea-crisis-explainer-houthi-yemen-israel-intl/index.html).
 
 ## Requirements
 - Python 3.8
