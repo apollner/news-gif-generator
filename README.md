@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703153381)
+![Generated GIF](output.gif?raw=true&v=1703155013)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge orders Rep. Scott Perry to disclose 1600 messages to federal prosecutors**
+**Trump barred from Colorado primary ballot for role in US Capitol attack**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/19/scott-perry-ordered-to-disclose-messages-trump-00132623).
+You can read more about it [here](https://www.reuters.com/legal/colorado-supreme-court-disqualifies-trump-holding-office-filing-2023-12-19/).
 
 ## Requirements
 - Python 3.8
