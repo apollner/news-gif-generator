@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703171275)
+![Generated GIF](output.gif?raw=true&v=1703172820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Voice' Winner Huntley Shares His Appreciation For Coach Niall Horan (Exclusive)**
+**Arizona dad was Christmas shopping when fire killed 5 kids inside home**
 
-You can read more about it [here](https://www.etonline.com/the-voice-winner-huntley-shares-his-appreciation-for-coach-niall-horan-exclusive-216788).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/19/arizona-house-fire-christmas-gifts-father-children/71976541007/).
 
 ## Requirements
 - Python 3.8
