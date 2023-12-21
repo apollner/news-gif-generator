@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703198151)
+![Generated GIF](output.gif?raw=true&v=1703200148)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Inside Brad Pitt's whirlwind 60th birthday weekend with Ines de Ramon: From romantic Paris trip to festive LA party**
+**Financial woes force Kanye West to part ways with rare oceanfront Malibu home -- for a loss**
 
-You can read more about it [here](https://pagesix.com/2023/12/20/entertainment/inside-brad-pitts-whirlwind-60th-birthday-weekend-with-ines-de-ramon/).
+You can read more about it [here](https://nypost.com/2023/12/20/real-estate/kanye-west-lists-malibu-home-amid-financial-woes-for-53m/).
 
 ## Requirements
 - Python 3.8
