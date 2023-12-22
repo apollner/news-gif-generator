@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703275698)
+![Generated GIF](output.gif?raw=true&v=1703277214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Drive a Honda or Acura? Over 2.5 million cars are under recall due to fuel pump defect**
+**Apple pulls online sales of Apple Watches as US ban nears**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/drive-honda-acura-25-million-cars-recall-due-105841508).
+You can read more about it [here](https://www.theverge.com/2023/12/21/24010965/apple-watch-series-9-ultra-2-removed-from-online-sale-store).
 
 ## Requirements
 - Python 3.8
