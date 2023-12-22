@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703234070)
+![Generated GIF](output.gif?raw=true&v=1703236119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mariah Carey and Bryan Tanaka Reportedly Split**
+**Apple issues surprise iPhone update promising mysterious 'bug fixes'**
 
-You can read more about it [here](https://www.tmz.com/2023/12/20/mariah-carey-bryan-tanaka-split-break-up/).
+You can read more about it [here](https://nypost.com/2023/12/20/tech/apple-issues-surprise-ios-17-2-1-update-for-iphone-bug-fixes/).
 
 ## Requirements
 - Python 3.8
