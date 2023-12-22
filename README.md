@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703259262)
+![Generated GIF](output.gif?raw=true&v=1703261393)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump legal clashes reach US Supreme Court as 2024 election nears**
+**COVID-19 vaccine disparities return as JN.1 variant surges**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-legal-clashes-reach-us-supreme-court-2024-election-nears-2023-12-21/).
+You can read more about it [here](https://www.bostonglobe.com/2023/12/21/metro/covid-19-vaccine-holiday-surge/).
 
 ## Requirements
 - Python 3.8
