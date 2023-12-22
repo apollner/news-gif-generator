@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703268594)
+![Generated GIF](output.gif?raw=true&v=1703270100)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Czech police say people have been killed in a shooting in downtown Prague**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/prague-shooting-dead-injured-9a383bc6919c1b0d929cf06aa4818341).
 
 ## Requirements
 - Python 3.8
