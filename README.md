@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703273632)
+![Generated GIF](output.gif?raw=true&v=1703275698)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida State calls emergency board meeting, could take first step toward leaving ACC, per reports**
+**Drive a Honda or Acura? Over 2.5 million cars are under recall due to fuel pump defect**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/florida-state-calls-emergency-board-meeting-could-take-first-step-towards-leaving-acc-per-reports/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/drive-honda-acura-25-million-cars-recall-due-105841508).
 
 ## Requirements
 - Python 3.8
