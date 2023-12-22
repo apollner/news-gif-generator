@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703201647)
+![Generated GIF](output.gif?raw=true&v=1703205139)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Voice' Winner Huntley Receives Congratulations From Departed Contestant Tom Nitti**
+**Scoop: Warner Bros. Discovery in talks to merge with Paramount Global**
 
-You can read more about it [here](https://www.etonline.com/the-voice-winner-huntley-receives-congratulations-from-departed-contestant-tom-nitti-216825).
+You can read more about it [here](https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming).
 
 ## Requirements
 - Python 3.8
