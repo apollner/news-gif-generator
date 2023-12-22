@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703264768)
+![Generated GIF](output.gif?raw=true&v=1703266421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources: Florida State expected to soon start process of leaving ACC**
+**Streets of Argentina erupt with anger against new Milei proposals**
 
-You can read more about it [here](https://sports.yahoo.com/sources-florida-state-expected-to-soon-start-process-of-leaving-acc-140050710.html).
+You can read more about it [here](https://www.euronews.com/2023/12/21/streets-of-argentina-erupt-with-anger-against-new-milei-proposals).
 
 ## Requirements
 - Python 3.8
