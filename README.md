@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703277214)
+![Generated GIF](output.gif?raw=true&v=1703279171)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple pulls online sales of Apple Watches as US ban nears**
+**California faces onslaught of COVID, RSV, and the flu amid holidays**
 
-You can read more about it [here](https://www.theverge.com/2023/12/21/24010965/apple-watch-series-9-ultra-2-removed-from-online-sale-store).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/covid-rsv-flu-holiday-travel-california-18566876.php).
 
 ## Requirements
 - Python 3.8
