@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703257662)
+![Generated GIF](output.gif?raw=true&v=1703259262)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Latest Oil Market News and Analysis for Dec. 21**
+**Trump legal clashes reach US Supreme Court as 2024 election nears**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-21/latest-oil-market-news-and-analysis-for-dec-21).
+You can read more about it [here](https://www.reuters.com/legal/trump-legal-clashes-reach-us-supreme-court-2024-election-nears-2023-12-21/).
 
 ## Requirements
 - Python 3.8
