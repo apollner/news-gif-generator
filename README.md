@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703209060)
+![Generated GIF](output.gif?raw=true&v=1703211654)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Can Ja Morant lead the Grizzlies back to the playoffs? 👀 'HELL NAH' 😳 - Kendrick Perkins | NBA Today**
+**Harvard president’s corrections do not address her clearest instances of plagiarism, including as a student in the 1990s**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bZpZRbXyq7Y).
+You can read more about it [here](https://www.cnn.com/2023/12/20/business/harvard-president-claudine-gay-plagiarism/index.html).
 
 ## Requirements
 - Python 3.8
