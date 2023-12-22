@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703232688)
+![Generated GIF](output.gif?raw=true&v=1703234070)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**WPVI news helicopter crashes in New Jersey, 2 killed**
+**Mariah Carey and Bryan Tanaka Reportedly Split**
 
-You can read more about it [here](https://abcnews.go.com/US/wpvi-helicopter-crashes-southern-new-jersey-2-onboard/story?id=105801366).
+You can read more about it [here](https://www.tmz.com/2023/12/20/mariah-carey-bryan-tanaka-split-break-up/).
 
 ## Requirements
 - Python 3.8
