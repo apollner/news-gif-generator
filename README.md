@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703219715)
+![Generated GIF](output.gif?raw=true&v=1703221664)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Doxycycline Prophylaxis to Prevent Sexually Transmitted Infections in Women | NEJM**
+**‘The Masked Singer’ Finale Reveals Identities of Cow, Donut, Gazelle and Sea Queen: Here’s Who Won Season 10**
 
-You can read more about it [here](https://www.nejm.org/doi/full/10.1056/NEJMoa2304007).
+You can read more about it [here](https://variety.com/2023/tv/news/the-masked-singer-season-10-finale-recap-winner-runner-ups-ne-yo-john-schneider-1235847017/).
 
 ## Requirements
 - Python 3.8
