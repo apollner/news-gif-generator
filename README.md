@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703253983)
+![Generated GIF](output.gif?raw=true&v=1703255658)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID-19 vaccine disparities return as JN.1 variant surges**
+**Viktor Orbán: The EU is blackmailing Hungary**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/12/21/metro/covid-19-vaccine-holiday-surge/).
+You can read more about it [here](https://www.politico.eu/article/hungary-viktor-orban-eu-blackmail-fund/).
 
 ## Requirements
 - Python 3.8
