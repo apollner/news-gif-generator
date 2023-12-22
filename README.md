@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703218210)
+![Generated GIF](output.gif?raw=true&v=1703219715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several Ravens felt 'disrespected' and had 'hurt feelings' being considered underdogs vs. 49ers**
+**Doxycycline Prophylaxis to Prevent Sexually Transmitted Infections in Women | NEJM**
 
-You can read more about it [here](https://sports.yahoo.com/several-ravens-felt-disrespected-and-had-hurt-feelings-being-considered-underdogs-vs-49ers-023119410.html).
+You can read more about it [here](https://www.nejm.org/doi/full/10.1056/NEJMoa2304007).
 
 ## Requirements
 - Python 3.8
