@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703282839)
+![Generated GIF](output.gif?raw=true&v=1703284414)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Giuliani seeks bankruptcy after $148 million judgment in defamation case**
+**Ikea warns of product delays due to Houthi rebel attacks on ships in Red Sea**
 
-You can read more about it [here](https://www.reuters.com/legal/giuliani-seeks-bankruptcy-after-148-mln-judgment-defamation-case-filing-2023-12-21/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/ikea-warns-product-delays-houthi-rebel-attacks-ships-red-sea).
 
 ## Requirements
 - Python 3.8
