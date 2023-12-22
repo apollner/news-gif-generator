@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703230418)
+![Generated GIF](output.gif?raw=true&v=1703232688)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
+**WPVI news helicopter crashes in New Jersey, 2 killed**
 
-You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
+You can read more about it [here](https://abcnews.go.com/US/wpvi-helicopter-crashes-southern-new-jersey-2-onboard/story?id=105801366).
 
 ## Requirements
 - Python 3.8
