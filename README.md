@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703280835)
+![Generated GIF](output.gif?raw=true&v=1703282839)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Octopus DNA seems to confirm scientists’ theory about a long-standing geological mystery**
+**Giuliani seeks bankruptcy after $148 million judgment in defamation case**
 
-You can read more about it [here](https://www.cnn.com/2023/12/21/world/octopus-dna-west-antarctic-ice-sheet-climate-scn/index.html).
+You can read more about it [here](https://www.reuters.com/legal/giuliani-seeks-bankruptcy-after-148-mln-judgment-defamation-case-filing-2023-12-21/).
 
 ## Requirements
 - Python 3.8
