@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703205139)
+![Generated GIF](output.gif?raw=true&v=1703209060)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Scoop: Warner Bros. Discovery in talks to merge with Paramount Global**
+**Can Ja Morant lead the Grizzlies back to the playoffs? 👀 'HELL NAH' 😳 - Kendrick Perkins | NBA Today**
 
-You can read more about it [here](https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming).
+You can read more about it [here](https://www.youtube.com/watch?v=bZpZRbXyq7Y).
 
 ## Requirements
 - Python 3.8
