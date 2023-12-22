@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703239732)
+![Generated GIF](output.gif?raw=true&v=1703241383)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple fails to delay sales ban on watches. Only Biden can step in.**
+**House committee to investigate allegations of plagiarism against Harvard president**
 
-You can read more about it [here](https://www.businessinsider.com/apple-watch-us-sales-ban-patent-joe-biden-2023-12).
+You can read more about it [here](https://thehill.com/homenews/education/4370860-house-committee-to-investigate-allegations-of-plagiarism-against-harvard-president/).
 
 ## Requirements
 - Python 3.8
