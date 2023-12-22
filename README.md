@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703284414)
+![Generated GIF](output.gif?raw=true&v=1703286450)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ikea warns of product delays due to Houthi rebel attacks on ships in Red Sea**
+**California faces onslaught of COVID, RSV, and the flu amid holidays**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/ikea-warns-product-delays-houthi-rebel-attacks-ships-red-sea).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/covid-rsv-flu-holiday-travel-california-18566876.php).
 
 ## Requirements
 - Python 3.8
