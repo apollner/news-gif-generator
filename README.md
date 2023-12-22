@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703214548)
+![Generated GIF](output.gif?raw=true&v=1703216062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
+**NASA streams first-ever video from deep space, starring Taters the cat**
 
-You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
+You can read more about it [here](https://www.axios.com/2023/12/20/nasa-cat-video-deep-space-laser).
 
 ## Requirements
 - Python 3.8
