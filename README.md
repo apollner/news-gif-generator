@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703228782)
+![Generated GIF](output.gif?raw=true&v=1703230418)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several Ravens felt 'disrespected' and had 'hurt feelings' being considered underdogs vs. 49ers**
+**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
 
-You can read more about it [here](https://sports.yahoo.com/several-ravens-felt-disrespected-and-had-hurt-feelings-being-considered-underdogs-vs-49ers-023119410.html).
+You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
 
 ## Requirements
 - Python 3.8
