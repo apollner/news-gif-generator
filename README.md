@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703286450)
+![Generated GIF](output.gif?raw=true&v=1703288018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California faces onslaught of COVID, RSV, and the flu amid holidays**
+**New Hampshire Man Indicted for Threatening to Kill Three Presidential Candidates**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/covid-rsv-flu-holiday-travel-california-18566876.php).
+You can read more about it [here](https://www.justice.gov/opa/pr/new-hampshire-man-indicted-threatening-kill-three-presidential-candidates).
 
 ## Requirements
 - Python 3.8
