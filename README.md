@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703211654)
+![Generated GIF](output.gif?raw=true&v=1703212775)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Harvard president’s corrections do not address her clearest instances of plagiarism, including as a student in the 1990s**
+**How Tommy DeVito Fixed His Agent's Feud With a New Jersey Pizzeria**
 
-You can read more about it [here](https://www.cnn.com/2023/12/20/business/harvard-president-claudine-gay-plagiarism/index.html).
+You can read more about it [here](https://www.businessinsider.com/tommy-devito-new-jersey-pizzeria-feud-2023-12).
 
 ## Requirements
 - Python 3.8
