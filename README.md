@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703263089)
+![Generated GIF](output.gif?raw=true&v=1703264768)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel Signals It Could Agree to Palestinian Authority Governing Gaza After the War**
+**Sources: Florida State expected to soon start process of leaving ACC**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/gaza-telecom-blackouts-add-to-growing-aid-crisis-1a2558dd).
+You can read more about it [here](https://sports.yahoo.com/sources-florida-state-expected-to-soon-start-process-of-leaving-acc-140050710.html).
 
 ## Requirements
 - Python 3.8
