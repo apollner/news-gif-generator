@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703241383)
+![Generated GIF](output.gif?raw=true&v=1703243162)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**House committee to investigate allegations of plagiarism against Harvard president**
+**Astronomical Artistry: NASA Brings “Christmas Tree Cluster” to Life**
 
-You can read more about it [here](https://thehill.com/homenews/education/4370860-house-committee-to-investigate-allegations-of-plagiarism-against-harvard-president/).
+You can read more about it [here](https://scitechdaily.com/astronomical-artistry-nasa-brings-christmas-tree-cluster-to-life/).
 
 ## Requirements
 - Python 3.8
