@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703226953)
+![Generated GIF](output.gif?raw=true&v=1703228782)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Several Ravens felt 'disrespected' and had 'hurt feelings' being considered underdogs vs. 49ers**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/several-ravens-felt-disrespected-and-had-hurt-feelings-being-considered-underdogs-vs-49ers-023119410.html).
 
 ## Requirements
 - Python 3.8
