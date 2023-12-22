@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703279171)
+![Generated GIF](output.gif?raw=true&v=1703280835)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California faces onslaught of COVID, RSV, and the flu amid holidays**
+**Octopus DNA seems to confirm scientists’ theory about a long-standing geological mystery**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/covid-rsv-flu-holiday-travel-california-18566876.php).
+You can read more about it [here](https://www.cnn.com/2023/12/21/world/octopus-dna-west-antarctic-ice-sheet-climate-scn/index.html).
 
 ## Requirements
 - Python 3.8
