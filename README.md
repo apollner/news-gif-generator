@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703271876)
+![Generated GIF](output.gif?raw=true&v=1703273632)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Man United, Bayern commit to UEFA amid Super League verdict**
+**Florida State calls emergency board meeting, could take first step toward leaving ACC, per reports**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/39160537/man-united-bayern-commit-uefa-amid-super-league-verdict).
+You can read more about it [here](https://www.cbssports.com/college-football/news/florida-state-calls-emergency-board-meeting-could-take-first-step-towards-leaving-acc-per-reports/).
 
 ## Requirements
 - Python 3.8
