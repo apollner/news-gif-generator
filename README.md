@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703212775)
+![Generated GIF](output.gif?raw=true&v=1703214548)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How Tommy DeVito Fixed His Agent's Feud With a New Jersey Pizzeria**
+**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
 
-You can read more about it [here](https://www.businessinsider.com/tommy-devito-new-jersey-pizzeria-feud-2023-12).
+You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
 
 ## Requirements
 - Python 3.8
