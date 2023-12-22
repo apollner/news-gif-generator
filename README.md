@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703247169)
+![Generated GIF](output.gif?raw=true&v=1703249253)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**He Opposed Trump's Impeachment. Now He Wants Trump Kicked Off the Ballot.**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/12/21/luttig-14th-amendment-trump-00132792).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
