@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703300941)
+![Generated GIF](output.gif?raw=true&v=1703302434)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**MLB is bringing more changes to baseball in 2024. Here's what you need to know.**
+**International Feature Oscar Shortlist: Armenia Marks A First, Bhutan Is Back, ‘Godland’ Surprises**
 
-You can read more about it [here](https://www.cbsnews.com/news/mlb-rule-changes-2024-what-to-know-pitch-clock/).
+You can read more about it [here](https://deadline.com/2023/12/2024-oscar-international-feature-shortlist-movie-1235679936/).
 
 ## Requirements
 - Python 3.8
