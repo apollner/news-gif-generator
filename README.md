@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703372838)
+![Generated GIF](output.gif?raw=true&v=1703374428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan prepares for missile shipments after easing arms export restrictions**
+**Blazin' 5: Ravens cover vs. 49ers, Cowboys upset Dolphins in Colin's Week 16 picks | NFL | THE HERD**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-eases-arms-export-restrictions-first-major-overhaul-decade-2023-12-22/).
+You can read more about it [here](https://www.youtube.com/watch?v=zKJ_4DJPrho).
 
 ## Requirements
 - Python 3.8
