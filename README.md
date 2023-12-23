@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703291445)
+![Generated GIF](output.gif?raw=true&v=1703295232)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Biden believes Nippon purchase of U.S. Steel deserves "serious scrutiny"**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/12/21/biden-nippon-purchase-u-s-steel-00132964).
 
 ## Requirements
 - Python 3.8
