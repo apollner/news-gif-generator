@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703329469)
+![Generated GIF](output.gif?raw=true&v=1703331227)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden believes U.S. Steel sale to Japanese company warrants 'serious scrutiny,' White House says**
+**Japan to Send U.S. Patriot Missiles, Creating Deeper Pool for Ukraine Air Defenses**
 
-You can read more about it [here](https://apnews.com/article/biden-us-steel-cfius-c518076ee38bfe8e102a04b098184816).
+You can read more about it [here](https://www.wsj.com/world/asia/japan-to-send-u-s-patriot-missiles-creating-deeper-pool-for-ukraine-air-defenses-ae8d4316).
 
 ## Requirements
 - Python 3.8
