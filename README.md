@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703367229)
+![Generated GIF](output.gif?raw=true&v=1703369125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Yoshinobu Yamamoto, Dodgers agree to free-agent deal**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.mlb.com/news/yoshinobu-yamamoto-dodgers-free-agent-deal).
 
 ## Requirements
 - Python 3.8
