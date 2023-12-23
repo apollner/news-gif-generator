@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703331227)
+![Generated GIF](output.gif?raw=true&v=1703333504)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan to Send U.S. Patriot Missiles, Creating Deeper Pool for Ukraine Air Defenses**
+**Yoshinobu Yamamoto, Dodgers agree to 12-year, $325 million contract: Sources**
 
-You can read more about it [here](https://www.wsj.com/world/asia/japan-to-send-u-s-patriot-missiles-creating-deeper-pool-for-ukraine-air-defenses-ae8d4316).
+You can read more about it [here](https://theathletic.com/5121815/2023/12/21/yoshinobu-yamamoto-dodgers-mlb-free-agency/).
 
 ## Requirements
 - Python 3.8
