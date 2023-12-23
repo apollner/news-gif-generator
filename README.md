@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703362037)
+![Generated GIF](output.gif?raw=true&v=1703363617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cummins' to pay $1.675 billion penalty over truck engine emission defeat devices**
+**Travis Kelce's Shirtless Spa Video Is the Definition of Steamy**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/cummins-take-about-204-bln-charge-fourth-quarter-2023-12-22/).
+You can read more about it [here](https://www.eonline.com/news/1391922/travis-kelces-shirtless-spa-video-is-the-definition-of-steamy).
 
 ## Requirements
 - Python 3.8
