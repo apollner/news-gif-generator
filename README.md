@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703295232)
+![Generated GIF](output.gif?raw=true&v=1703297852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden believes Nippon purchase of U.S. Steel deserves "serious scrutiny"**
+**US has serious concerns over UN vote on suspending fighting between Israel and Hamas, humanitarian aid to Gaza**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/21/biden-nippon-purchase-u-s-steel-00132964).
+You can read more about it [here](https://www.cnn.com/2023/12/21/politics/us-has-serious-and-widespread-concerns-ahead-of-vote-on-humanitarian-aid-to-gaza/index.html).
 
 ## Requirements
 - Python 3.8
