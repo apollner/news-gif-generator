@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703338476)
+![Generated GIF](output.gif?raw=true&v=1703340333)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan to send Patriot missiles to US which may aid Ukraine**
+**Calls grow for Biden to denounce Colorado's removal of Trump from 2024 ballot: 'Smartest move'**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67798740).
+You can read more about it [here](https://www.foxnews.com/politics/calls-grow-for-biden-to-denounce-colorados-removal-of-trump-from-2024-ballot-smartest-move).
 
 ## Requirements
 - Python 3.8
