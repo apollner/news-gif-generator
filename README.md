@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703349427)
+![Generated GIF](output.gif?raw=true&v=1703351184)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan to send Patriot missiles to US which may aid Ukraine**
+**With a new Covid-19 variant on the rise, here’s how to stay safe this holiday season**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67798740).
+You can read more about it [here](https://www.cnn.com/2023/12/22/health/stay-well-holidays-wellness/index.html).
 
 ## Requirements
 - Python 3.8
