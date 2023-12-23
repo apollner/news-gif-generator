@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703351184)
+![Generated GIF](output.gif?raw=true&v=1703352829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**With a new Covid-19 variant on the rise, here’s how to stay safe this holiday season**
+**6 historical mysteries that scientists finally cracked in 2023 — and one they didn’t**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/health/stay-well-holidays-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/22/world/human-history-mysteries-solved-science-2023-scn/index.html).
 
 ## Requirements
 - Python 3.8
