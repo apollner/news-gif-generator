@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703356417)
+![Generated GIF](output.gif?raw=true&v=1703358285)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mike Clay's NFL Betting Playbook for Week 16**
+**Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight**
 
-You can read more about it [here](https://www.espn.com/espn/insider/betting/insider/story/_/id/39140074/sports-betting-nfl-playbook-week-16-2023-win-totals-player-props).
+You can read more about it [here](https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/).
 
 ## Requirements
 - Python 3.8
