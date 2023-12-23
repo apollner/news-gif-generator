@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703313250)
+![Generated GIF](output.gif?raw=true&v=1703315152)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unhappy or anxious? How you sleep may be the cause**
+**International Feature Oscar Shortlist: Armenia Marks A First, Bhutan Is Back, ‘Godland’ Surprises**
 
-You can read more about it [here](https://www.cnn.com/2023/12/21/health/sleep-mental-health-wellness/index.html).
+You can read more about it [here](https://deadline.com/2023/12/2024-oscar-international-feature-shortlist-movie-1235679936/).
 
 ## Requirements
 - Python 3.8
