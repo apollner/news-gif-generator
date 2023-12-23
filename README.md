@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703336842)
+![Generated GIF](output.gif?raw=true&v=1703338476)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rams WR Puka Nacua makes his latest case for Offensive Rookie of the Year after erupting vs. Saints on 'TNF'**
+**Japan to send Patriot missiles to US which may aid Ukraine**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/rams-wr-puka-nacua-makes-his-latest-case-for-offensive-rookie-of-the-year-after-erupting-vs-saints-on-tnf/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67798740).
 
 ## Requirements
 - Python 3.8
