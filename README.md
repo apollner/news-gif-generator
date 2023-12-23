@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703306075)
+![Generated GIF](output.gif?raw=true&v=1703307999)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida State vs. the ACC: What you need to know about the Seminoles’ clash with their conference**
+**TNF Week 16 expert picks, playoff implications: Saints at Rams**
 
-You can read more about it [here](https://theathletic.com/5155214/2023/12/21/florida-state-acc-conference-grant-of-rights-realignment/).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/21/24010995/thursday-night-football-week-16-expert-picks-playoff-implications-new-orleans-saints-at-la-rams).
 
 ## Requirements
 - Python 3.8
