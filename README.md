@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703302434)
+![Generated GIF](output.gif?raw=true&v=1703304625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**International Feature Oscar Shortlist: Armenia Marks A First, Bhutan Is Back, ‘Godland’ Surprises**
+**Biden calls for investigation of Nippon Steel's bid for US Steel**
 
-You can read more about it [here](https://deadline.com/2023/12/2024-oscar-international-feature-shortlist-movie-1235679936/).
+You can read more about it [here](https://www.ft.com/content/17a40a68-b068-45a8-9586-4d68575fb86f).
 
 ## Requirements
 - Python 3.8
