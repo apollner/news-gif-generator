@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703324006)
+![Generated GIF](output.gif?raw=true&v=1703325979)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New COVID strain JN.1 is spreading fast. How worried should we be?**
+**Gaza's entire population facing crisis levels of hunger, risk of famine, report finds**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/22/new-jn-1-covid-variant-how-worried-should-we-be).
+You can read more about it [here](https://www.axios.com/2023/12/21/gaza-starvation-famine-risk-israel-war-un).
 
 ## Requirements
 - Python 3.8
