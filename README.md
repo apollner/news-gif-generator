@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703335541)
+![Generated GIF](output.gif?raw=true&v=1703336842)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pistons lost 25th straight, fans break out in ‘sell the team’ chants**
+**Rams WR Puka Nacua makes his latest case for Offensive Rookie of the Year after erupting vs. Saints on 'TNF'**
 
-You can read more about it [here](https://www.detroitbadboys.com/2023/12/21/24011811/detroit-pistons-utah-jazz-final-sell-the-team-chants).
+You can read more about it [here](https://www.cbssports.com/nfl/news/rams-wr-puka-nacua-makes-his-latest-case-for-offensive-rookie-of-the-year-after-erupting-vs-saints-on-tnf/).
 
 ## Requirements
 - Python 3.8
