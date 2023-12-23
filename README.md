@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703298934)
+![Generated GIF](output.gif?raw=true&v=1703300941)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Prague shooting: Gunman dead after killing 14 at Charles University**
+**MLB is bringing more changes to baseball in 2024. Here's what you need to know.**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67793962).
+You can read more about it [here](https://www.cbsnews.com/news/mlb-rule-changes-2024-what-to-know-pitch-clock/).
 
 ## Requirements
 - Python 3.8
