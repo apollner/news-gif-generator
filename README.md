@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703316826)
+![Generated GIF](output.gif?raw=true&v=1703318989)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jury reaches verdict in trial over the death of Manuel Ellis**
+**The Dodgers are getting an ANOMALY in Yoshinobu Yamamoto - Jeff Passan | SC with SVP**
 
-You can read more about it [here](https://www.thenewstribune.com/news/local/crime/article282922708.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qdmF0CmtuoI).
 
 ## Requirements
 - Python 3.8
