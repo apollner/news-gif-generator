@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703342028)
+![Generated GIF](output.gif?raw=true&v=1703343967)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oscars 2024 Shortlists: 'Barbie' Leads Pack with Five Nods**
+**Your daily horoscope: December 22, 2023**
 
-You can read more about it [here](http://www.vulture.com/2023/12/oscars-shortlist-2024.html).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-22-2023/).
 
 ## Requirements
 - Python 3.8
