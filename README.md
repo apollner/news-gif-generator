@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703340333)
+![Generated GIF](output.gif?raw=true&v=1703342028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Calls grow for Biden to denounce Colorado's removal of Trump from 2024 ballot: 'Smartest move'**
+**Oscars 2024 Shortlists: 'Barbie' Leads Pack with Five Nods**
 
-You can read more about it [here](https://www.foxnews.com/politics/calls-grow-for-biden-to-denounce-colorados-removal-of-trump-from-2024-ballot-smartest-move).
+You can read more about it [here](http://www.vulture.com/2023/12/oscars-shortlist-2024.html).
 
 ## Requirements
 - Python 3.8
