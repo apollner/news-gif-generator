@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703333504)
+![Generated GIF](output.gif?raw=true&v=1703335541)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yoshinobu Yamamoto, Dodgers agree to 12-year, $325 million contract: Sources**
+**Pistons lost 25th straight, fans break out in ‘sell the team’ chants**
 
-You can read more about it [here](https://theathletic.com/5121815/2023/12/21/yoshinobu-yamamoto-dodgers-mlb-free-agency/).
+You can read more about it [here](https://www.detroitbadboys.com/2023/12/21/24011811/detroit-pistons-utah-jazz-final-sell-the-team-chants).
 
 ## Requirements
 - Python 3.8
