@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703307999)
+![Generated GIF](output.gif?raw=true&v=1703309657)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TNF Week 16 expert picks, playoff implications: Saints at Rams**
+**Flooding forces evacuations, warnings to stay off roads**
 
-You can read more about it [here](https://www.prideofdetroit.com/2023/12/21/24010995/thursday-night-football-week-16-expert-picks-playoff-implications-new-orleans-saints-at-la-rams).
+You can read more about it [here](https://www.vcstar.com/story/news/2023/12/21/flooding-forces-evacuations-warnings-to-stay-off-roads/71998169007/).
 
 ## Requirements
 - Python 3.8
