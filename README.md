@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703355006)
+![Generated GIF](output.gif?raw=true&v=1703356417)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Christmas Eve 2023: What stores are opened, closed**
+**Mike Clay's NFL Betting Playbook for Week 16**
 
-You can read more about it [here](https://apnews.com/article/christmas-eve-2023-store-hours-e7a701f83bd38815c2fd0e80dbc7a54e).
+You can read more about it [here](https://www.espn.com/espn/insider/betting/insider/story/_/id/39140074/sports-betting-nfl-playbook-week-16-2023-win-totals-player-props).
 
 ## Requirements
 - Python 3.8
