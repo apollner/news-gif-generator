@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703358285)
+![Generated GIF](output.gif?raw=true&v=1703360021)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight**
+**COVID-19: Here Are Symptoms For New Strain That's Surged To Leading Cause Of US Infections**
 
-You can read more about it [here](https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/).
+You can read more about it [here](https://dailyvoice.com/new-york/saratoga/covid-19-here-are-symptoms-to-watch-for-with-new-subvariant-spreading-fast/).
 
 ## Requirements
 - Python 3.8
