@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703322371)
+![Generated GIF](output.gif?raw=true&v=1703324006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Orleans Saints vs. Los Angeles Rams | 2023 Week 16 Game Highlights**
+**New COVID strain JN.1 is spreading fast. How worried should we be?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0iVUDHXSGBY).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/22/new-jn-1-covid-variant-how-worried-should-we-be).
 
 ## Requirements
 - Python 3.8
