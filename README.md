@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703309657)
+![Generated GIF](output.gif?raw=true&v=1703311856)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flooding forces evacuations, warnings to stay off roads**
+**Hall of Fame RB Marshall Faulk on Christian McCaffrey’s NFL MVP Chances| The Rich Eisen Show**
 
-You can read more about it [here](https://www.vcstar.com/story/news/2023/12/21/flooding-forces-evacuations-warnings-to-stay-off-roads/71998169007/).
+You can read more about it [here](https://www.youtube.com/watch?v=-KVUmAlgxtY).
 
 ## Requirements
 - Python 3.8
