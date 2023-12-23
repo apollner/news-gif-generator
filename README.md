@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703318989)
+![Generated GIF](output.gif?raw=true&v=1703320440)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Dodgers are getting an ANOMALY in Yoshinobu Yamamoto - Jeff Passan | SC with SVP**
+**Oscars 2024 Shortlists: 'Barbie' Leads Pack with Five Nods**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qdmF0CmtuoI).
+You can read more about it [here](http://www.vulture.com/2023/12/oscars-shortlist-2024.html).
 
 ## Requirements
 - Python 3.8
