@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703385647)
+![Generated GIF](output.gif?raw=true&v=1703387349)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘All Of Us Strangers’: Read The Screenplay For Andrew Haigh’s Romantic Fantasy Starring Andrew Scott & Paul Mescal**
+**Arizona creates own deep-fake election hoaxes to prepare for 2024**
 
-You can read more about it [here](https://deadline.com/2023/12/all-of-us-strangers-screenplay-andrew-haigh-script-read-1235680994/).
+You can read more about it [here](https://www.politico.com/news/2023/12/22/arizona-ai-election-deep-fakes-00133113).
 
 ## Requirements
 - Python 3.8
