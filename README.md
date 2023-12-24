@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703396015)
+![Generated GIF](output.gif?raw=true&v=1703398196)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Paramedics found guilty in death of Elijah McClain**
+**California homeless man found not guilty in attack with pipe on former San Francisco fire commissioner**
 
-You can read more about it [here](https://apnews.com/article/elijah-mcclain-death-officers-trial-acef1eabe02b458f53d30d8fe3bf76a4).
+You can read more about it [here](https://www.foxnews.com/us/california-homeless-man-not-guilty-attack-pipe-former-san-francisco-fire-commissioner).
 
 ## Requirements
 - Python 3.8
