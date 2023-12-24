@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703455530)
+![Generated GIF](output.gif?raw=true&v=1703457220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Zombie deer disease' concerns scientists over possible spread to humans**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/us/zombie-deer-disease-concerns-scientists-possible-spread-humans).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
