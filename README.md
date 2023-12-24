@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703434146)
+![Generated GIF](output.gif?raw=true&v=1703435787)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Matter was more of a nice smart home concept than useful reality in 2023**
+**Mega Millions winning numbers lottery drawing for Friday 12/22/23**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/).
+You can read more about it [here](https://www.northjersey.com/story/news/nation/2023/12/22/mega-millions-winning-numbers-lottery-drawing-for-friday-dec-22-2023/72016814007/).
 
 ## Requirements
 - Python 3.8
