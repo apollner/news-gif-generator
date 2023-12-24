@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703408771)
+![Generated GIF](output.gif?raw=true&v=1703410405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI looking into threats against Colorado justices after Trump ballot ruling**
+**Pete Thamel: SEC, Big Ten playing 'chess game' while monitoring FSU vs. ACC battle**
 
-You can read more about it [here](https://www.nbcnews.com/politics/politics-news/fbi-looking-threats-colorado-justices-trump-ballot-ruling-rcna130988).
+You can read more about it [here](https://www.on3.com/news/sec-big-ten-add-florida-state-chess-clemson-acc-leave-schools/).
 
 ## Requirements
 - Python 3.8
