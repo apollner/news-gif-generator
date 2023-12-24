@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703406820)
+![Generated GIF](output.gif?raw=true&v=1703408771)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The DCEU Ends With Anticlimactic ‘Aquaman 2’ Post-Credits Scene. What’s Next for Jason Momoa and DC?**
+**FBI looking into threats against Colorado justices after Trump ballot ruling**
 
-You can read more about it [here](https://variety.com/2023/film/news/aquaman-2-ending-post-credits-dceu-ends-jason-momoa-1235849594/).
+You can read more about it [here](https://www.nbcnews.com/politics/politics-news/fbi-looking-threats-colorado-justices-trump-ballot-ruling-rcna130988).
 
 ## Requirements
 - Python 3.8
