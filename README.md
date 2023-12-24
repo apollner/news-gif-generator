@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703401557)
+![Generated GIF](output.gif?raw=true&v=1703403241)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The DCEU Ends With Anticlimactic ‘Aquaman 2’ Post-Credits Scene. What’s Next for Jason Momoa and DC?**
+**George Conway slams Trump, RNC chair for reported Michigan call: ‘Sleaziest thing ever’**
 
-You can read more about it [here](https://variety.com/2023/film/news/aquaman-2-ending-post-credits-dceu-ends-jason-momoa-1235849594/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4374685-george-conway-slams-trump-mcdaniel-reported-michigan-call/).
 
 ## Requirements
 - Python 3.8
