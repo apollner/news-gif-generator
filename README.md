@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703384592)
+![Generated GIF](output.gif?raw=true&v=1703385647)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Christmas Tree Cluster' of stars dazzles from space**
+**‘All Of Us Strangers’: Read The Screenplay For Andrew Haigh’s Romantic Fantasy Starring Andrew Scott & Paul Mescal**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Living/christmas-tree-cluster-stars-dazzles-space/story?id=105868111).
+You can read more about it [here](https://deadline.com/2023/12/all-of-us-strangers-screenplay-andrew-haigh-script-read-1235680994/).
 
 ## Requirements
 - Python 3.8
