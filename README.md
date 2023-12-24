@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703435787)
+![Generated GIF](output.gif?raw=true&v=1703437527)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mega Millions winning numbers lottery drawing for Friday 12/22/23**
+**Day of Reckoning: Live streaming results, RBR for Joshua and Wilder**
 
-You can read more about it [here](https://www.northjersey.com/story/news/nation/2023/12/22/mega-millions-winning-numbers-lottery-drawing-for-friday-dec-22-2023/72016814007/).
+You can read more about it [here](https://www.badlefthook.com/2023/12/23/24012931/day-reckoning-live-streaming-results-round-by-how-watch-joshua-wallin-wilder-parker-boxing-news-2023).
 
 ## Requirements
 - Python 3.8
