@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703374428)
+![Generated GIF](output.gif?raw=true&v=1703378090)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blazin' 5: Ravens cover vs. 49ers, Cowboys upset Dolphins in Colin's Week 16 picks | NFL | THE HERD**
+**Where Marijuana Laws Stand as Biden Pardons Thousands**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zKJ_4DJPrho).
+You can read more about it [here](https://time.com/6550626/marijuana-laws-us-biden-pardons/).
 
 ## Requirements
 - Python 3.8
