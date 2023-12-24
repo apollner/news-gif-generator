@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703451996)
+![Generated GIF](output.gif?raw=true&v=1703453625)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S24 Ultra factory leak appears to confirm the worst suspicion about the phone**
+**Report: Putin privately signals interest in ceasefire in Ukraine**
 
-You can read more about it [here](https://www.phonearena.com/news/Galaxy-S24-Ultra-factory-leak-appears-to-confirm-the-worst-suspicion-about-the-phone_id153775).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/12/23/report-putin-privately-signals-interest-in-ceasefire-in-ukraine/72019370007/).
 
 ## Requirements
 - Python 3.8
