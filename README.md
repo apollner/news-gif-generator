@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703398196)
+![Generated GIF](output.gif?raw=true&v=1703399639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California homeless man found not guilty in attack with pipe on former San Francisco fire commissioner**
+**Wisconsin Supreme Court overturns GOP-drawn maps**
 
-You can read more about it [here](https://www.foxnews.com/us/california-homeless-man-not-guilty-attack-pipe-former-san-francisco-fire-commissioner).
+You can read more about it [here](https://madison.com/news/state-regional/government-politics/wisconsin-redistricting/article_6d7b5446-8ee4-11ee-a18c-872e3cf7877b.html).
 
 ## Requirements
 - Python 3.8
