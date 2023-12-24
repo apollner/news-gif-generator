@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703403241)
+![Generated GIF](output.gif?raw=true&v=1703405435)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**George Conway slams Trump, RNC chair for reported Michigan call: ‘Sleaziest thing ever’**
+**Kourtney Kardashian and Travis Barker Share First Pics of Son Rocky**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4374685-george-conway-slams-trump-mcdaniel-reported-michigan-call/).
+You can read more about it [here](https://www.etonline.com/kourtney-kardashian-and-travis-barker-share-first-pics-of-son-rocky-216935).
 
 ## Requirements
 - Python 3.8
