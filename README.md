@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703423252)
+![Generated GIF](output.gif?raw=true&v=1703424821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US accuses Iran of being ‘deeply involved’ in Houthi attacks in Red Sea**
+**Reigns attack turns Styles’ match with Sikoa into chaos: SmackDown highlights, Dec. 22, 2023**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/23/us-accuses-iran-of-being-deeply-involved-in-houthi-attacks-in-red-sea).
+You can read more about it [here](https://www.youtube.com/watch?v=V7P353LTB5U).
 
 ## Requirements
 - Python 3.8
