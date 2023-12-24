@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703387349)
+![Generated GIF](output.gif?raw=true&v=1703388955)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arizona creates own deep-fake election hoaxes to prepare for 2024**
+**Florida State blows up Cal, Stanford in fiery ACC lawsuit**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/22/arizona-ai-election-deep-fakes-00133113).
+You can read more about it [here](https://www.sfgate.com/collegesports/article/florida-state-stanford-cal-acc-lawsuit-18570971.php).
 
 ## Requirements
 - Python 3.8
