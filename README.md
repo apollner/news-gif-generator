@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703442823)
+![Generated GIF](output.gif?raw=true&v=1703444683)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wisconsin Supreme Court overturns GOP-drawn maps**
+**New footage shows law enforcement was aware of concerns over Maine shooter’s mental health and access to guns before shooting**
 
-You can read more about it [here](https://madison.com/news/state-regional/government-politics/wisconsin-redistricting/article_6d7b5446-8ee4-11ee-a18c-872e3cf7877b.html).
+You can read more about it [here](https://www.cnn.com/2023/12/22/us/lewiston-maine-shooter-dash-cam-mental-health/index.html).
 
 ## Requirements
 - Python 3.8
