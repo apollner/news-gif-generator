@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703394554)
+![Generated GIF](output.gif?raw=true&v=1703396015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arizona creates own deep-fake election hoaxes to prepare for 2024**
+**Paramedics found guilty in death of Elijah McClain**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/22/arizona-ai-election-deep-fakes-00133113).
+You can read more about it [here](https://apnews.com/article/elijah-mcclain-death-officers-trial-acef1eabe02b458f53d30d8fe3bf76a4).
 
 ## Requirements
 - Python 3.8
