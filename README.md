@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703378090)
+![Generated GIF](output.gif?raw=true&v=1703382683)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Where Marijuana Laws Stand as Biden Pardons Thousands**
+**'Christmas Tree Cluster' of stars dazzles from space**
 
-You can read more about it [here](https://time.com/6550626/marijuana-laws-us-biden-pardons/).
+You can read more about it [here](https://abcnews.go.com/GMA/Living/christmas-tree-cluster-stars-dazzles-space/story?id=105868111).
 
 ## Requirements
 - Python 3.8
