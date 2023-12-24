@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703459217)
+![Generated GIF](output.gif?raw=true&v=1703460852)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**French police ground aeroplane suspected of human trafficking**
+**Joshua-Wallin, Wilder-Parker live results and analysis**
 
-You can read more about it [here](https://www.euronews.com/2023/12/23/two-detained-after-french-police-ground-aeroplane-suspected-of-human-trafficking).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/39167942/joshua-wallin-wilder-parker-boxing-live-results-analysis).
 
 ## Requirements
 - Python 3.8
