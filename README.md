@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703391040)
+![Generated GIF](output.gif?raw=true&v=1703392482)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida State blows up Cal, Stanford in fiery ACC lawsuit**
+**Supreme Court rejects Jack Smith’s request for justices to quickly hear Trump immunity dispute**
 
-You can read more about it [here](https://www.sfgate.com/collegesports/article/florida-state-stanford-cal-acc-lawsuit-18570971.php).
+You can read more about it [here](https://www.cnn.com/2023/12/22/politics/supreme-court-trump-immunity-jack-smith/index.html).
 
 ## Requirements
 - Python 3.8
