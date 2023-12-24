@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703430366)
+![Generated GIF](output.gif?raw=true&v=1703432035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida State v. ACC, ACC v. FSU and conference realignment's next step**
+**Advice from a Democratic Unicorn - POLITICO**
 
-You can read more about it [here](https://www.tampabay.com/sports/2023/12/22/florida-state-acc-conference-realignment-fsu-football-sec-big-ten-expansion/).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/12/23/advice-from-a-friendly-democrat-00132958).
 
 ## Requirements
 - Python 3.8
