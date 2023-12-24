@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703437527)
+![Generated GIF](output.gif?raw=true&v=1703439214)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Day of Reckoning: Live streaming results, RBR for Joshua and Wilder**
+**'Jesus in the rubble': Christmas celebrations in Bethlehem canceled**
 
-You can read more about it [here](https://www.badlefthook.com/2023/12/23/24012931/day-reckoning-live-streaming-results-round-by-how-watch-joshua-wallin-wilder-parker-boxing-news-2023).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/23/christmas-celebrations-bethlehem-canceled-israel-gaza/).
 
 ## Requirements
 - Python 3.8
