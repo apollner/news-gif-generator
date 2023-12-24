@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703448470)
+![Generated GIF](output.gif?raw=true&v=1703450015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple quietly released an open source multimodal LLM in October**
+**[Removed]**
 
-You can read more about it [here](https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
