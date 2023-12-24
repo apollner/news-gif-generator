@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703444683)
+![Generated GIF](output.gif?raw=true&v=1703446432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New footage shows law enforcement was aware of concerns over Maine shooter’s mental health and access to guns before shooting**
+**Yekaterina Duntsova barred from running against Putin in election**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/us/lewiston-maine-shooter-dash-cam-mental-health/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/).
 
 ## Requirements
 - Python 3.8
