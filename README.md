@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703426775)
+![Generated GIF](output.gif?raw=true&v=1703428416)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wisconsin Supreme Court rules against GOP-drawn legislative maps**
+**US accuses Iran of being ‘deeply involved’ in Houthi attacks in Red Sea**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/22/wisconsin-supreme-court-legislative-maps-redistricting/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/23/us-accuses-iran-of-being-deeply-involved-in-houthi-attacks-in-red-sea).
 
 ## Requirements
 - Python 3.8
