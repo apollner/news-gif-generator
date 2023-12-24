@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703405435)
+![Generated GIF](output.gif?raw=true&v=1703406820)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kourtney Kardashian and Travis Barker Share First Pics of Son Rocky**
+**The DCEU Ends With Anticlimactic ‘Aquaman 2’ Post-Credits Scene. What’s Next for Jason Momoa and DC?**
 
-You can read more about it [here](https://www.etonline.com/kourtney-kardashian-and-travis-barker-share-first-pics-of-son-rocky-216935).
+You can read more about it [here](https://variety.com/2023/film/news/aquaman-2-ending-post-credits-dceu-ends-jason-momoa-1235849594/).
 
 ## Requirements
 - Python 3.8
