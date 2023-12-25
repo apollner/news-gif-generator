@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703545606)
+![Generated GIF](output.gif?raw=true&v=1703547257)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL late slate: Cowboys vs. Dolphins score, highlights, news, inactives and live updates**
+**Around 100 Airbus employees fall ill after company Christmas party**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-cowboys-vs-dolphins-score-highlights-news-inactives-and-live-updates-194556467.html).
+You can read more about it [here](https://www.cnn.com/2023/12/24/business/airbus-employees-sick-christmas-lunch/index.html).
 
 ## Requirements
 - Python 3.8
