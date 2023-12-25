@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703531132)
+![Generated GIF](output.gif?raw=true&v=1703532853)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pistons match NBA single-season losing streak record with 26th straight defeat**
+**Detroit Lions vs. Minnesota Vikings first half live open thread**
 
-You can read more about it [here](https://theathletic.com/5155078/2023/12/23/pistons-nba-record-losing-streak-nets/).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/24/24013901/detroit-lions-minnesota-vikings-first-half-live-open-thread).
 
 ## Requirements
 - Python 3.8
