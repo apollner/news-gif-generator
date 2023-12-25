@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703460852)
+![Generated GIF](output.gif?raw=true&v=1703464373)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joshua-Wallin, Wilder-Parker live results and analysis**
+**Pet food recall: Blue Ridge Beef for kittens, puppies recalled over salmonella, listeria**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/39167942/joshua-wallin-wilder-parker-boxing-live-results-analysis).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/12/23/blue-ridge-beef-pet-food-recall/72019395007/).
 
 ## Requirements
 - Python 3.8
