@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703475230)
+![Generated GIF](output.gif?raw=true&v=1703477411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA releases images of 'Christmas Tree' cluster of stars - The Washington Post**
+**France grounds Romanian plane carrying 303 Indian nationals under suspicion of human trafficking**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2023/12/23/nasa-christmas-tree-stars/).
+You can read more about it [here](https://www.cnn.com/2023/12/23/europe/romanian-plane-grounded-france-human-trafficking-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
