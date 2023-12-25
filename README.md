@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703493293)
+![Generated GIF](output.gif?raw=true&v=1703495351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Tommy Lloyd said after Arizona Wildcats' double-overtime loss to FAU**
+**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
 
-You can read more about it [here](https://www.azdesertswarm.com/2023/12/23/24013635/arizona-wildcats-fau-owls-tommy-lloyd-college-basketball-double-overtime-las-vegas-interview-2023).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
 
 ## Requirements
 - Python 3.8
