@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703538361)
+![Generated GIF](output.gif?raw=true&v=1703540030)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ryan O'Neal buried next to longtime love Farrah Fawcett during intimate funeral**
+**On the weekend before Christmas, 'Aquaman' sequel drifts to first**
 
-You can read more about it [here](https://nypost.com/2023/12/24/entertainment/ryan-oneal-buried-next-to-longtime-love-farrah-fawcett/).
+You can read more about it [here](https://apnews.com/article/box-office-aquaman-b11c243a659b1b7ad826d5a8298c5855).
 
 ## Requirements
 - Python 3.8
