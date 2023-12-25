@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703541957)
+![Generated GIF](output.gif?raw=true&v=1703543619)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL late slate: Cowboys vs. Dolphins score, highlights, news, inactives and live updates**
+**The Bernstein Children on ‘Maestro’**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-cowboys-vs-dolphins-score-highlights-news-inactives-and-live-updates-194556467.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/leonard-bernstein-children-bradley-cooper-maestro-1235768461/).
 
 ## Requirements
 - Python 3.8
