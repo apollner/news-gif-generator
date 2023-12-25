@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703536409)
+![Generated GIF](output.gif?raw=true&v=1703538361)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Iran's navy receives cruise missiles and drones as tensions rise**
+**Ryan O'Neal buried next to longtime love Farrah Fawcett during intimate funeral**
 
-You can read more about it [here](https://www.businessinsider.com/iran-navy-receives-missiles-drones-helicopters-tensions-israel-gaza-houthi-2023-12).
+You can read more about it [here](https://nypost.com/2023/12/24/entertainment/ryan-oneal-buried-next-to-longtime-love-farrah-fawcett/).
 
 ## Requirements
 - Python 3.8
