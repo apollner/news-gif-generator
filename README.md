@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703498949)
+![Generated GIF](output.gif?raw=true&v=1703500532)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**IDF says 8 more soldiers killed amid heavy fighting in south, central Gaza Saturday**
+**Ocala Paddock Mall Shooting: 'Person of interest sought' in deadly Florida mall shooting, police say**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-says-8-more-soldiers-killed-amid-heavy-fighting-in-south-central-gaza-saturday/).
+You can read more about it [here](https://www.fox35orlando.com/news/active-shooter-reported-at-ocala-mall-police-say).
 
 ## Requirements
 - Python 3.8
