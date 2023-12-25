@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703527807)
+![Generated GIF](output.gif?raw=true&v=1703529234)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Where is Santa right now? Use the NORAD live tracker to map his 2023 Christmas flight**
+**Best NFL Week 16 prop bets: Detroit Lions vs. Minnesota Vikings**
 
-You can read more about it [here](https://www.cbsnews.com/news/where-is-santa-right-now-norad-tracker/).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/24/24012800/best-player-prop-bets-detroit-lions-minnesota-vikings-week-16).
 
 ## Requirements
 - Python 3.8
