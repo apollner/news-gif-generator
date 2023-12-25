@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703540030)
+![Generated GIF](output.gif?raw=true&v=1703541957)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**On the weekend before Christmas, 'Aquaman' sequel drifts to first**
+**NFL late slate: Cowboys vs. Dolphins score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://apnews.com/article/box-office-aquaman-b11c243a659b1b7ad826d5a8298c5855).
+You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-cowboys-vs-dolphins-score-highlights-news-inactives-and-live-updates-194556467.html).
 
 ## Requirements
 - Python 3.8
