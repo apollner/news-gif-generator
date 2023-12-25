@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703529234)
+![Generated GIF](output.gif?raw=true&v=1703531132)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Best NFL Week 16 prop bets: Detroit Lions vs. Minnesota Vikings**
+**Pistons match NBA single-season losing streak record with 26th straight defeat**
 
-You can read more about it [here](https://www.prideofdetroit.com/2023/12/24/24012800/best-player-prop-bets-detroit-lions-minnesota-vikings-week-16).
+You can read more about it [here](https://theathletic.com/5155078/2023/12/23/pistons-nba-record-losing-streak-nets/).
 
 ## Requirements
 - Python 3.8
