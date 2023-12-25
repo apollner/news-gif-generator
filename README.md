@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703464373)
+![Generated GIF](output.gif?raw=true&v=1703468854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pet food recall: Blue Ridge Beef for kittens, puppies recalled over salmonella, listeria**
+**Best PS5, PS4 Story Game of 2023**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/23/blue-ridge-beef-pet-food-recall/72019395007/).
+You can read more about it [here](https://www.pushsquare.com/features/game-of-the-year-best-ps5-ps4-story-game-of-2023).
 
 ## Requirements
 - Python 3.8
