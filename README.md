@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703482425)
+![Generated GIF](output.gif?raw=true&v=1703484700)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elijah McClain death: Paramedics who injected Colorado Black man with ketamine found guilty**
+**Insomniac Hacked, Jonathan Majors Verdict, GTA 6 Nintendo Switch Potential & More | IGN Weekly Fix**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/paramedics-elijah-mcclain-death-ketamine-colorado-jury-ruling/).
+You can read more about it [here](https://www.youtube.com/watch?v=SQGc2jZ_HQc).
 
 ## Requirements
 - Python 3.8
