@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703502353)
+![Generated GIF](output.gif?raw=true&v=1703504012)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**On Christmas Eve, Bethlehem resembles a ghost town. Celebrations are halted due to Israel-Hamas war**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/bethlehem-christmas-israel-hamas-war-e408a3e48d18c69a7a0b018505cdc732).
 
 ## Requirements
 - Python 3.8
