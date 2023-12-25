@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703477411)
+![Generated GIF](output.gif?raw=true&v=1703478928)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**France grounds Romanian plane carrying 303 Indian nationals under suspicion of human trafficking**
+**QB Mason Rudolph sparks Steelers' rout of Bengals**
 
-You can read more about it [here](https://www.cnn.com/2023/12/23/europe/romanian-plane-grounded-france-human-trafficking-intl-hnk/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39175378/pittsburgh-steelers-rout-cincinnati-bengals-mason-rudolph).
 
 ## Requirements
 - Python 3.8
