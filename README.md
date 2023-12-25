@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703478928)
+![Generated GIF](output.gif?raw=true&v=1703480975)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**QB Mason Rudolph sparks Steelers' rout of Bengals**
+**Elijah McClain death: Paramedics who injected Colorado Black man with ketamine found guilty**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39175378/pittsburgh-steelers-rout-cincinnati-bengals-mason-rudolph).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/paramedics-elijah-mcclain-death-ketamine-colorado-jury-ruling/).
 
 ## Requirements
 - Python 3.8
