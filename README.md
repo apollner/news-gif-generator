@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703511229)
+![Generated GIF](output.gif?raw=true&v=1703513225)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Be your own advocate’ by knowing these 4 changes for 2023 taxes, advisor says**
+**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/24/must-know-changes-for-your-2023-taxes.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
 
 ## Requirements
 - Python 3.8
