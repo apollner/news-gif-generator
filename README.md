@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703491848)
+![Generated GIF](output.gif?raw=true&v=1703493293)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What's open on Christmas Eve? See hours for Walmart, Target, restaurants, stores, more**
+**What Tommy Lloyd said after Arizona Wildcats' double-overtime loss to FAU**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/24/stores-restaurants-hours-open-christmas-eve-2023/71983987007/).
+You can read more about it [here](https://www.azdesertswarm.com/2023/12/23/24013635/arizona-wildcats-fau-owls-tommy-lloyd-college-basketball-double-overtime-las-vegas-interview-2023).
 
 ## Requirements
 - Python 3.8
