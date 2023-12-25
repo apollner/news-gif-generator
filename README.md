@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703484700)
+![Generated GIF](output.gif?raw=true&v=1703486210)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Insomniac Hacked, Jonathan Majors Verdict, GTA 6 Nintendo Switch Potential & More | IGN Weekly Fix**
+**1 person killed, another injured in shooting at Ocala shopping mall**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SQGc2jZ_HQc).
+You can read more about it [here](http://www.orlandosentinel.com/2023/12/23/one-person-killed-another-injured-in-shooting-at-florida-shopping-mall/).
 
 ## Requirements
 - Python 3.8
