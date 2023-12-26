@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703585329)
+![Generated GIF](output.gif?raw=true&v=1703586882)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China approves 105 online games after draft curbs trigger massive losses**
+**Where is Santa right now? Use the NORAD live tracker to map his 2023 Christmas flight**
 
-You can read more about it [here](https://apnews.com/article/china-online-games-video-approvals-62015fa20b129e77bd737bf1f93c26bb).
+You can read more about it [here](https://www.cbsnews.com/news/where-is-santa-right-now-norad-tracker/).
 
 ## Requirements
 - Python 3.8
