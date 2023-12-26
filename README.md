@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703617505)
+![Generated GIF](output.gif?raw=true&v=1703619237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Color Purple review: The new movie stays true to Alice Walker’s message**
+**Detroit Lions behind-the-scenes video on Dan Campbell building a legacy**
 
-You can read more about it [here](https://www.vox.com/culture/24011148/the-color-purple-musical).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/25/24014574/detroit-lions-behind-scenes-video-on-dan-campbell-building-legacy).
 
 ## Requirements
 - Python 3.8
