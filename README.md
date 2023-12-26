@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703604834)
+![Generated GIF](output.gif?raw=true&v=1703606960)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russian Nuclear-Powered Cargo Ship Catches Fire in Arctic**
+**NFL winners, losers: Baker Mayfield, Buccaneers keep surging**
 
-You can read more about it [here](https://www.themoscowtimes.com/2023/12/25/russian-nuclear-powered-cargo-ship-catches-fire-in-arctic-a83560).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/12/25/nfl-winners-losers-baker-mayfield-buccaneers-week-16/72024888007/).
 
 ## Requirements
 - Python 3.8
