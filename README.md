@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703626426)
+![Generated GIF](output.gif?raw=true&v=1703628361)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Best Vegetable to Help You Poop, According to Dietitians**
+**Rise in seasonal illnesses prompts concern from health officials amid holiday travel**
 
-You can read more about it [here](https://www.eatingwell.com/the-best-vegetable-to-help-you-poop-8415776).
+You can read more about it [here](https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths).
 
 ## Requirements
 - Python 3.8
