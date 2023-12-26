@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703572502)
+![Generated GIF](output.gif?raw=true&v=1703574470)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pope Francis at Christmas Eve mass: "Tonight, our hearts are in Bethlehem"**
+**Serbia police fire tear gas as opposition backers demand election annulled**
 
-You can read more about it [here](https://www.axios.com/2023/12/24/pope-christmas-eve-mass-bethlehem-israel-hamas-war).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/25/serbia-police-fire-tear-gas-as-opposition-backers-demand-election-annulled).
 
 ## Requirements
 - Python 3.8
