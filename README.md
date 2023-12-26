@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703558298)
+![Generated GIF](output.gif?raw=true&v=1703560154)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What grocery stores are open on Christmas Day 2023?**
+**'Aquaman and the Lost Kingdom' tops box office but still flounders**
 
-You can read more about it [here](https://www.nj.com/business/2023/12/what-grocery-stores-are-open-on-christmas-day-2023.html).
+You can read more about it [here](https://ew.com/aquaman-and-the-lost-kingdom-tops-christmas-box-office-8420021).
 
 ## Requirements
 - Python 3.8
