@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703614195)
+![Generated GIF](output.gif?raw=true&v=1703615617)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What’s open Christmas day? Drug stores, fast food, coffee shops and more**
+**Kuo: Vision Pro Mass Shipments Begin Next Week, Launch by February**
 
-You can read more about it [here](https://www.al.com/news/2023/12/whats-open-christmas-day-drug-stores-fast-food-coffee-shops-and-more.html).
+You can read more about it [here](https://www.macrumors.com/2023/12/25/vision-pro-mass-shipments-timing-kuo/).
 
 ## Requirements
 - Python 3.8
