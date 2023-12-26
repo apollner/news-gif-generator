@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703610373)
+![Generated GIF](output.gif?raw=true&v=1703612016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Broncos’ playoff hopes crash in stunning loss to Patriots. Now, major questions loom**
+**What’s open Christmas day? Drug stores, fast food, coffee shops and more**
 
-You can read more about it [here](https://theathletic.com/5161004/2023/12/25/broncos-playoff-hopes-patriots/).
+You can read more about it [here](https://www.al.com/news/2023/12/whats-open-christmas-day-drug-stores-fast-food-coffee-shops-and-more.html).
 
 ## Requirements
 - Python 3.8
