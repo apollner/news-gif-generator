@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703628361)
+![Generated GIF](output.gif?raw=true&v=1703630012)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rise in seasonal illnesses prompts concern from health officials amid holiday travel**
+**Eagles QB Jalen Hurts, WR DeVonta Smith score Christmas TDs**
 
-You can read more about it [here](https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39182661/eagles-qb-jalen-hurts-christmas-tush-push-td-vs-giants).
 
 ## Requirements
 - Python 3.8
