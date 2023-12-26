@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703594834)
+![Generated GIF](output.gif?raw=true&v=1703596213)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Aquaman and the Lost Kingdom' tops box office but still flounders**
+**Beijing records longest cold wave in modern history**
 
-You can read more about it [here](https://ew.com/aquaman-and-the-lost-kingdom-tops-christmas-box-office-8420021).
+You can read more about it [here](https://www.cnn.com/2023/12/24/asia/beijing-cold-weather-china-intl/index.html).
 
 ## Requirements
 - Python 3.8
