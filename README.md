@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703603220)
+![Generated GIF](output.gif?raw=true&v=1703604834)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Study: Hypochondriacs face heightened risk of dying from illness**
+**Russian Nuclear-Powered Cargo Ship Catches Fire in Arctic**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/25/hypochondria-illness-death-study/).
+You can read more about it [here](https://www.themoscowtimes.com/2023/12/25/russian-nuclear-powered-cargo-ship-catches-fire-in-arctic-a83560).
 
 ## Requirements
 - Python 3.8
