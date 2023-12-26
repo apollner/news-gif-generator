@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703590458)
+![Generated GIF](output.gif?raw=true&v=1703592811)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Woody Johnson's Jets brass decision was the right one -- and the only one**
+**'Aquaman and the Lost Kingdom' tops box office but still flounders**
 
-You can read more about it [here](https://nypost.com/2023/12/24/sports/woody-johnsons-jets-brass-decision-was-the-right-one/).
+You can read more about it [here](https://ew.com/aquaman-and-the-lost-kingdom-tops-christmas-box-office-8420021).
 
 ## Requirements
 - Python 3.8
