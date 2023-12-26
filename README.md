@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703606960)
+![Generated GIF](output.gif?raw=true&v=1703608696)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL winners, losers: Baker Mayfield, Buccaneers keep surging**
+**The secret life of gift cards: Here's what happens to the billions that go unspent each year**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/12/25/nfl-winners-losers-baker-mayfield-buccaneers-week-16/72024888007/).
+You can read more about it [here](https://apnews.com/article/gift-cards-holiday-shopping-e9592f6b4067601a27d0f0199da898c8).
 
 ## Requirements
 - Python 3.8
