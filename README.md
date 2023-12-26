@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703608696)
+![Generated GIF](output.gif?raw=true&v=1703610373)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The secret life of gift cards: Here's what happens to the billions that go unspent each year**
+**Broncos’ playoff hopes crash in stunning loss to Patriots. Now, major questions loom**
 
-You can read more about it [here](https://apnews.com/article/gift-cards-holiday-shopping-e9592f6b4067601a27d0f0199da898c8).
+You can read more about it [here](https://theathletic.com/5161004/2023/12/25/broncos-playoff-hopes-patriots/).
 
 ## Requirements
 - Python 3.8
