@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703557145)
+![Generated GIF](output.gif?raw=true&v=1703558298)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia, Ukraine exchange claims over downed military aircraft**
+**What grocery stores are open on Christmas Day 2023?**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-says-it-downs-four-ukrainian-military-aircraft-2023-12-24/).
+You can read more about it [here](https://www.nj.com/business/2023/12/what-grocery-stores-are-open-on-christmas-day-2023.html).
 
 ## Requirements
 - Python 3.8
