@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703588732)
+![Generated GIF](output.gif?raw=true&v=1703590458)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Respiratory illnesses on the rise across U.S. as millions gather for holiday weekend**
+**Woody Johnson's Jets brass decision was the right one -- and the only one**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-hZTM4TAjt8).
+You can read more about it [here](https://nypost.com/2023/12/24/sports/woody-johnsons-jets-brass-decision-was-the-right-one/).
 
 ## Requirements
 - Python 3.8
