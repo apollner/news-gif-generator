@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703583241)
+![Generated GIF](output.gif?raw=true&v=1703585329)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dolphins clinch playoff spot, beat Cowboys on last-second field goal**
+**China approves 105 online games after draft curbs trigger massive losses**
 
-You can read more about it [here](https://www.miamiherald.com/sports/nfl/miami-dolphins/article283454503.html).
+You can read more about it [here](https://apnews.com/article/china-online-games-video-approvals-62015fa20b129e77bd737bf1f93c26bb).
 
 ## Requirements
 - Python 3.8
