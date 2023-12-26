@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703571049)
+![Generated GIF](output.gif?raw=true&v=1703572502)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What's open on Christmas Day 2023? What to know about Walmart, Target, stores, restaurants**
+**Pope Francis at Christmas Eve mass: "Tonight, our hearts are in Bethlehem"**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/25/stores-restaurants-open-closed-christmas-2023/72000868007/).
+You can read more about it [here](https://www.axios.com/2023/12/24/pope-christmas-eve-mass-bethlehem-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
