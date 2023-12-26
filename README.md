@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703599698)
+![Generated GIF](output.gif?raw=true&v=1703601240)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine snubs Russia, celebrates Christmas on Dec. 25 for first time**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/ukraine-christmas-december-25-snubs-russia/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
