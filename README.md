@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703550681)
+![Generated GIF](output.gif?raw=true&v=1703554626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL late slate: Cowboys vs. Dolphins score, highlights, news, inactives and live updates**
+**Epic Games Store Reveals Free Mystery Game for December 24**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-cowboys-vs-dolphins-score-highlights-news-inactives-and-live-updates-194556467.html).
+You can read more about it [here](https://gamerant.com/egs-free-games-december-2023-ghostwire-tokyo-epic-games-store/).
 
 ## Requirements
 - Python 3.8
