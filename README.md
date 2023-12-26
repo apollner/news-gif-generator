@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703554626)
+![Generated GIF](output.gif?raw=true&v=1703557145)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Epic Games Store Reveals Free Mystery Game for December 24**
+**Russia, Ukraine exchange claims over downed military aircraft**
 
-You can read more about it [here](https://gamerant.com/egs-free-games-december-2023-ghostwire-tokyo-epic-games-store/).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-says-it-downs-four-ukrainian-military-aircraft-2023-12-24/).
 
 ## Requirements
 - Python 3.8
