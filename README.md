@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703615617)
+![Generated GIF](output.gif?raw=true&v=1703617505)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kuo: Vision Pro Mass Shipments Begin Next Week, Launch by February**
+**The Color Purple review: The new movie stays true to Alice Walker’s message**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/25/vision-pro-mass-shipments-timing-kuo/).
+You can read more about it [here](https://www.vox.com/culture/24011148/the-color-purple-musical).
 
 ## Requirements
 - Python 3.8
