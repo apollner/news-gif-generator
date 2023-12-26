@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703622835)
+![Generated GIF](output.gif?raw=true&v=1703624728)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Rise in seasonal illnesses prompts concern from health officials amid holiday travel**
+**Two numbers to ignore and three pieces of nutrition advice for 2024**
 
-You can read more about it [here](https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths).
+You can read more about it [here](https://www.seattletimes.com/life/wellness/two-numbers-to-ignore-and-three-pieces-of-nutrition-advice-for-2024/).
 
 ## Requirements
 - Python 3.8
