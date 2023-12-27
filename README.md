@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703666022)
+![Generated GIF](output.gif?raw=true&v=1703668082)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dallas Mavericks' Luka Doncic reaches 10,000 career points**
+**China warns rocket remnants to hit South China Sea - maritime safety authority**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39184428/dallas-mavericks-luka-doncic-reaches-10000-career-points).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-warns-rocket-remnants-hit-south-china-sea-maritime-safety-authority-2023-12-26/).
 
 ## Requirements
 - Python 3.8
