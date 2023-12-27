@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703659002)
+![Generated GIF](output.gif?raw=true&v=1703660854)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Marjorie Taylor Greene targeted by failed Christmas swatting attempt**
+**7 Things Stroke Doctors Advise Against**
 
-You can read more about it [here](https://apnews.com/article/marjorie-taylor-greene-swatting-georgia-christmas-2081fd3835512cc3180aa1171fc5913d).
+You can read more about it [here](https://www.huffpost.com/entry/stroke-prevention-advice-from-doctors_l_64f23fe9e4b04f9a01e8e1e2).
 
 ## Requirements
 - Python 3.8
