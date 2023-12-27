@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703709251)
+![Generated GIF](output.gif?raw=true&v=1703711233)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA launches mission to intercept ‘God of Chaos’ asteroid before it scratches Earth's orbit**
+**Microsoft Copilot is now available as a ChatGPT-like app on Android**
 
-You can read more about it [here](https://www.foxnews.com/media/nasa-launches-mission-intercept-god-chaos-asteroid-scratches-earths-orbit).
+You can read more about it [here](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch).
 
 ## Requirements
 - Python 3.8
