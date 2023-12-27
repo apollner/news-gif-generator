@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703673337)
+![Generated GIF](output.gif?raw=true&v=1703675130)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Plane held for days in France on trafficking concerns lands in India**
+**7 Things Stroke Doctors Advise Against**
 
-You can read more about it [here](https://www.france24.com/en/live-news/20231226-plane-held-for-days-in-france-on-trafficking-concerns-lands-in-india).
+You can read more about it [here](https://www.huffpost.com/entry/stroke-prevention-advice-from-doctors_l_64f23fe9e4b04f9a01e8e1e2).
 
 ## Requirements
 - Python 3.8
