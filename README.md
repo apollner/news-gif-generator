@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703700636)
+![Generated GIF](output.gif?raw=true&v=1703702027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tackle these health issues to reduce risk of early dementia, study says**
+**NASA launches mission to intercept ‘God of Chaos’ asteroid before it scratches Earth's orbit**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/health/early-dementia-risk-study-wellness/index.html).
+You can read more about it [here](https://www.foxnews.com/media/nasa-launches-mission-intercept-god-chaos-asteroid-scratches-earths-orbit).
 
 ## Requirements
 - Python 3.8
