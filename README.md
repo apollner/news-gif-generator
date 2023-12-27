@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703643572)
+![Generated GIF](output.gif?raw=true&v=1703644777)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI says it’s investigating after reports of violent threats to Colorado judges in Trump case**
+**Kim Kardashian Jokingly Fires Back After Being Left Out Of Family Christmas Video**
 
-You can read more about it [here](https://www.cnn.com/2023/12/25/politics/colorado-supreme-court-threats-fbi-trump-ruling/index.html).
+You can read more about it [here](https://www.huffpost.com/entry/kim-kardashian-reacts-to-being-left-out-of-family-christmas-video_n_658a084de4b0fe4ffe3414fd).
 
 ## Requirements
 - Python 3.8
