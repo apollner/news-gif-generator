@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703664646)
+![Generated GIF](output.gif?raw=true&v=1703666022)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Record high temperature recorded in Minnesota on Christmas Day**
+**Dallas Mavericks' Luka Doncic reaches 10,000 career points**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/record-high-temperature-recorded-in-minnesota-on-christmas-day/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39184428/dallas-mavericks-luka-doncic-reaches-10000-career-points).
 
 ## Requirements
 - Python 3.8
