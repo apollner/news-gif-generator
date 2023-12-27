@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703671725)
+![Generated GIF](output.gif?raw=true&v=1703673337)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerball jackpot rises to estimated $685M after no winner in Christmas Day drawing**
+**Plane held for days in France on trafficking concerns lands in India**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-rises-estimated-685-million-no-winner-christmas-day-drawing).
+You can read more about it [here](https://www.france24.com/en/live-news/20231226-plane-held-for-days-in-france-on-trafficking-concerns-lands-in-india).
 
 ## Requirements
 - Python 3.8
