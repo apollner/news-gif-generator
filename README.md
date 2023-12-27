@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703675130)
+![Generated GIF](output.gif?raw=true&v=1703676815)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**7 Things Stroke Doctors Advise Against**
+**Colorado Springs under blizzard and high winds warning**
 
-You can read more about it [here](https://www.huffpost.com/entry/stroke-prevention-advice-from-doctors_l_64f23fe9e4b04f9a01e8e1e2).
+You can read more about it [here](https://www.kktv.com/2023/12/26/colorado-springs-under-blizzard-high-winds-warning/).
 
 ## Requirements
 - Python 3.8
