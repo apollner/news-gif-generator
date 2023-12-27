@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703718449)
+![Generated GIF](output.gif?raw=true&v=1703720028)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**20 favorite small-cap stocks for 2024 among Wall Street analysts**
+**Ukraine updates: Fighters hit Russian ship, port in Crimea – DW – 12/26/2023**
 
-You can read more about it [here](https://www.marketwatch.com/story/20-favorite-small-cap-stocks-for-2024-among-wall-street-analysts-bc9133b4).
+You can read more about it [here](https://www.dw.com/en/ukraine-updates-fighters-hit-russian-ship-port-in-crimea/live-67822420).
 
 ## Requirements
 - Python 3.8
