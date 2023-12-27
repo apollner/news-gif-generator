@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703633655)
+![Generated GIF](output.gif?raw=true&v=1703637073)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alexei Navalny: Russian opposition leader found, says team**
+**Boston Celtics And Los Angeles Lakers Injury Reports**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67820068).
+You can read more about it [here](https://www.si.com/fannation/nba/fastbreak/injuries/boston-celtics-and-los-angeles-lakers-injury-reports-nba-monday).
 
 ## Requirements
 - Python 3.8
