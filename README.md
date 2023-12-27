@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703655243)
+![Generated GIF](output.gif?raw=true&v=1703657459)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ravens vs. 49ers score: Baltimore throttles Brock Purdy, San Francisco as Lamar Jackson makes MVP case**
+**NBA Christmas Day: Mavericks vs. Suns; score, highlights, updates, news**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-49ers-score-baltimore-throttles-brock-purdy-san-francisco-as-lamar-jackson-makes-mvp-case/live/).
+You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-mavericks-vs-suns-score-highlights-updates-news-222037874.html).
 
 ## Requirements
 - Python 3.8
