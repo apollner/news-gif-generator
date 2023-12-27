@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703657459)
+![Generated GIF](output.gif?raw=true&v=1703659002)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NBA Christmas Day: Mavericks vs. Suns; score, highlights, updates, news**
+**Marjorie Taylor Greene targeted by failed Christmas swatting attempt**
 
-You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-mavericks-vs-suns-score-highlights-updates-news-222037874.html).
+You can read more about it [here](https://apnews.com/article/marjorie-taylor-greene-swatting-georgia-christmas-2081fd3835512cc3180aa1171fc5913d).
 
 ## Requirements
 - Python 3.8
