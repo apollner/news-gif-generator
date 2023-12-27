@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703705612)
+![Generated GIF](output.gif?raw=true&v=1703707668)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tackle these health issues to reduce risk of early dementia, study says**
+**First Amendment claim struck down in Project Veritas case focused on diary of Biden's daughter**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/health/early-dementia-risk-study-wellness/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/first-amendment-project-veritas-ashley-biden-diary-00133199).
 
 ## Requirements
 - Python 3.8
