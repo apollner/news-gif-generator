@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703679170)
+![Generated GIF](output.gif?raw=true&v=1703681237)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 16 grades: Raiders earn 'A-' for shocking Christmas win over Chiefs, Dolphins get 'B+' for big win**
+**Niners head coach Kyle Shanahan confident Brock Purdy will bounce back from stinger, four interceptions**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-grades-raiders-earn-a-for-shocking-christmas-win-over-chiefs-dolphins-get-b-for-big-win/).
+You can read more about it [here](https://www.nfl.com/news/niners-head-coach-kyle-shanahan-confident-brock-purdy-will-bounce-back-from-stin).
 
 ## Requirements
 - Python 3.8
