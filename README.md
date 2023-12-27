@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703676815)
+![Generated GIF](output.gif?raw=true&v=1703679170)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado Springs under blizzard and high winds warning**
+**NFL Week 16 grades: Raiders earn 'A-' for shocking Christmas win over Chiefs, Dolphins get 'B+' for big win**
 
-You can read more about it [here](https://www.kktv.com/2023/12/26/colorado-springs-under-blizzard-high-winds-warning/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-grades-raiders-earn-a-for-shocking-christmas-win-over-chiefs-dolphins-get-b-for-big-win/).
 
 ## Requirements
 - Python 3.8
