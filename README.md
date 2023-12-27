@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703644777)
+![Generated GIF](output.gif?raw=true&v=1703646575)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kim Kardashian Jokingly Fires Back After Being Left Out Of Family Christmas Video**
+**No let-up in Israeli airstrikes on Gaza as Christmas dawns**
 
-You can read more about it [here](https://www.huffpost.com/entry/kim-kardashian-reacts-to-being-left-out-of-family-christmas-video_n_658a084de4b0fe4ffe3414fd).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-no-let-up-airstikes-christmas/).
 
 ## Requirements
 - Python 3.8
