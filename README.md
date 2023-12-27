@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703687621)
+![Generated GIF](output.gif?raw=true&v=1703689624)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Purdy admits trait he must change after four-pick game vs. Ravens**
+**Israel-Gaza war live updates: Hospitals strained after central Gaza strikes; U.S. hits militia groups in Iraq**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-punt-interceptions-ravens/1684806/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/26/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
