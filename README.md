@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703650203)
+![Generated GIF](output.gif?raw=true&v=1703651692)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Blizzard expected to blast the US Plains and cause travel delays**
+**Keys to the Game: Celtics 126, Lakers 115**
 
-You can read more about it [here](https://www.cnn.com/2023/12/25/travel/blizzard-nebraska-south-dakota-colorado-travel-delays/index.html).
+You can read more about it [here](https://www.nba.com/celtics/news/gamerecap-keys-20231225-boslal).
 
 ## Requirements
 - Python 3.8
