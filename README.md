@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703696668)
+![Generated GIF](output.gif?raw=true&v=1703698426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio minimum wage to increase in January**
+**[Removed]**
 
-You can read more about it [here](https://www.whio.com/news/state-and-regional/ohio-minimum-wage-increase-janurary/VDKYVJCBZBBW3EQEGREBEFNLAA/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
