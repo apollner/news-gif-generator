@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703669616)
+![Generated GIF](output.gif?raw=true&v=1703671725)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kanye West's Name Written On Israeli Missile, MMA Fighter Taking Credit**
+**Powerball jackpot rises to estimated $685M after no winner in Christmas Day drawing**
 
-You can read more about it [here](https://www.tmz.com/2023/12/25/kanye-west-name-written-israeli-missile-mma-fighter-haim-gozali/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-rises-estimated-685-million-no-winner-christmas-day-drawing).
 
 ## Requirements
 - Python 3.8
