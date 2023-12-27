@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703668082)
+![Generated GIF](output.gif?raw=true&v=1703669616)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**China warns rocket remnants to hit South China Sea - maritime safety authority**
+**Kanye West's Name Written On Israeli Missile, MMA Fighter Taking Credit**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-warns-rocket-remnants-hit-south-china-sea-maritime-safety-authority-2023-12-26/).
+You can read more about it [here](https://www.tmz.com/2023/12/25/kanye-west-name-written-israeli-missile-mma-fighter-haim-gozali/).
 
 ## Requirements
 - Python 3.8
