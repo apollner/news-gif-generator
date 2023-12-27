@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703711233)
+![Generated GIF](output.gif?raw=true&v=1703712827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft Copilot is now available as a ChatGPT-like app on Android**
+**Yemen's Houthis claim responsibility for Red Sea container ship attack**
 
-You can read more about it [here](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch).
+You can read more about it [here](https://www.reuters.com/world/middle-east/vessel-near-yemen-said-report-drones-explosions-red-sea-2023-12-26/).
 
 ## Requirements
 - Python 3.8
