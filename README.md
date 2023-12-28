@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703763222)
+![Generated GIF](output.gif?raw=true&v=1703765608)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**World stocks sail to highest in over a year on rate cut hopes**
+**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-27/).
+You can read more about it [here](https://theathletic.com/5163035/2023/12/27/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
