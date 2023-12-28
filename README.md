@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703802830)
+![Generated GIF](output.gif?raw=true&v=1703804933)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Four Verts: Seriously, nobody even tried to pry Lamar Jackson away from the Ravens?**
+**House GOP probing if Biden was involved in Hunter's 'scheme' to defy subpoena, potential 'impeachable offense'**
 
-You can read more about it [here](https://sports.yahoo.com/four-verts-seriously-nobody-even-tried-to-pry-lamar-jackson-away-from-the-ravens-210714841.html).
+You can read more about it [here](https://www.foxnews.com/politics/house-gop-probing-biden-was-involved-hunters-scheme-defy-subpoena-impeachable-offense).
 
 ## Requirements
 - Python 3.8
