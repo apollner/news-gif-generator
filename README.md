@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703761517)
+![Generated GIF](output.gif?raw=true&v=1703763222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pistons Trolled by Fans for NBA Record 27-Game Losing Streak after Loss to Nets**
+**World stocks sail to highest in over a year on rate cut hopes**
 
-You can read more about it [here](https://bleacherreport.com/articles/10102622-pistons-trolled-by-fans-for-nba-record-27-game-losing-streak-after-loss-to-nets).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-27/).
 
 ## Requirements
 - Python 3.8
