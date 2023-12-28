@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703747218)
+![Generated GIF](output.gif?raw=true&v=1703748827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Court reverses former Nebraska US Rep. Jeff Fortenberry's conviction of lying to federal authorities**
+**Human remains, artificial hip recovered after YouTuber helps find missing man's car in Missouri pond**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/appellate-court-reverses-federal-conviction-former-nebraska-us-105926225).
+You can read more about it [here](https://www.cbsnews.com/news/donnie-erwin-human-remains-artificial-hip-found-car-missouri-pond-james-hinkle/).
 
 ## Requirements
 - Python 3.8
