@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703768980)
+![Generated GIF](output.gif?raw=true&v=1703770486)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel expanding ground offensive into central Gaza refugee camps**
+**NFL Week 17 Power Rankings 2023: How all 32 teams stack up**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67825465).
+You can read more about it [here](https://www.espn.com/nfl/story/_/page/NFLpowerranking122723/nfl-week-17-power-rankings-poll-2023-plus-all-team-rookie-year).
 
 ## Requirements
 - Python 3.8
