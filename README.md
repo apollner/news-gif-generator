@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703741625)
+![Generated GIF](output.gif?raw=true&v=1703743841)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
+**Russia confirms Ukraine destroyed its warship in Crimea attack**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/26/ukraine-claims-to-have-destroyed-russian-ship-in-crimea-attack).
 
 ## Requirements
 - Python 3.8
