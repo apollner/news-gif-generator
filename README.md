@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703731107)
+![Generated GIF](output.gif?raw=true&v=1703733068)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ken Jennings opens up about Mayim Bialik’s ‘Jeopardy!’ exit**
+**Japan’s ‘Moon Sniper’ is now in lunar orbit ahead of historic landing attempt**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/entertainment/ken-jennings-mayim-bialik-jeopardy/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/26/world/japan-lunar-lander-moon-orbit-scn/index.html).
 
 ## Requirements
 - Python 3.8
