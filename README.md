@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703788434)
+![Generated GIF](output.gif?raw=true&v=1703790287)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Space travel moments from 2023 that were straight out of a sci-fi movie**
+**NASA 2024: Onward and Upward**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/world/space-craziest-moments-recap-end-of-year-scn/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=IGuHErKAiHs).
 
 ## Requirements
 - Python 3.8
