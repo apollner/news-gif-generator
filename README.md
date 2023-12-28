@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703734421)
+![Generated GIF](output.gif?raw=true&v=1703736635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mariah Carey’s Ex-Boyfriend Bryan Tanaka Breaks Silence About Couple’s Split After 7 Years**
+**Kanye West, after comparing himself to Jesus and Hitler, apologizes in Hebrew for antisemitic remarks**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/mariah-carey-bryan-tanaka-breakup-split-statement-1235565054/).
+You can read more about it [here](https://www.foxnews.com/media/kanye-west-comparing-himself-jesus-hitler-apologizes-hebrew-antisemitic-remarks).
 
 ## Requirements
 - Python 3.8
