@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703758180)
+![Generated GIF](output.gif?raw=true&v=1703759721)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**YouTuber helps find remains of missing Missouri Army vet 10 years after he disappeared**
+**Flu forces visitation changes at Prisma Health, officials say**
 
-You can read more about it [here](https://nypost.com/2023/12/27/news/youtuber-james-hinkle-helps-lead-cops-to-remains-of-missouri-man-donnie-erwin-missing-since-2013/).
+You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
 
 ## Requirements
 - Python 3.8
