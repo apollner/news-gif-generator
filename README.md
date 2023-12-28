@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703733068)
+![Generated GIF](output.gif?raw=true&v=1703734421)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan’s ‘Moon Sniper’ is now in lunar orbit ahead of historic landing attempt**
+**Mariah Carey’s Ex-Boyfriend Bryan Tanaka Breaks Silence About Couple’s Split After 7 Years**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/world/japan-lunar-lander-moon-orbit-scn/index.html).
+You can read more about it [here](https://www.billboard.com/music/music-news/mariah-carey-bryan-tanaka-breakup-split-statement-1235565054/).
 
 ## Requirements
 - Python 3.8
