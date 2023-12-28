@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703759721)
+![Generated GIF](output.gif?raw=true&v=1703761517)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flu forces visitation changes at Prisma Health, officials say**
+**Pistons Trolled by Fans for NBA Record 27-Game Losing Streak after Loss to Nets**
 
-You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
+You can read more about it [here](https://bleacherreport.com/articles/10102622-pistons-trolled-by-fans-for-nba-record-27-game-losing-streak-after-loss-to-nets).
 
 ## Requirements
 - Python 3.8
