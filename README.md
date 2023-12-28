@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703797591)
+![Generated GIF](output.gif?raw=true&v=1703799206)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No Big House, but Wolverines will be on big screen in Ann Arbor for Rose Bowl**
+**Game Informer's Best Of 2023: Editors' Personal Top 10 Lists**
 
-You can read more about it [here](https://www.mlive.com/news/ann-arbor/2023/12/no-big-house-but-wolverines-will-be-on-big-screen-in-ann-arbor-for-rose-bowl.html).
+You can read more about it [here](https://www.gameinformer.com/2023/12/27/game-informers-best-of-2023-editors-personal-top-10-lists).
 
 ## Requirements
 - Python 3.8
