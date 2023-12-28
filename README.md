@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703745315)
+![Generated GIF](output.gif?raw=true&v=1703747218)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navy uses anti-ship ballistic missiles to engage Iran-backed Houthis in Red Sea**
+**Court reverses former Nebraska US Rep. Jeff Fortenberry's conviction of lying to federal authorities**
 
-You can read more about it [here](https://www.foxnews.com/world/navy-uses-anti-ship-ballistic-missiles-engage-iran-backed-houthis-red-sea).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/appellate-court-reverses-federal-conviction-former-nebraska-us-105926225).
 
 ## Requirements
 - Python 3.8
