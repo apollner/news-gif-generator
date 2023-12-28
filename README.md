@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703799206)
+![Generated GIF](output.gif?raw=true&v=1703801181)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Game Informer's Best Of 2023: Editors' Personal Top 10 Lists**
+**Amazon faces backlash from users over upcoming change to Prime service**
 
-You can read more about it [here](https://www.gameinformer.com/2023/12/27/game-informers-best-of-2023-editors-personal-top-10-lists).
+You can read more about it [here](https://www.thestreet.com/retail/amazon-faces-backlash-from-users-over-upcoming-change-to-prime-service).
 
 ## Requirements
 - Python 3.8
