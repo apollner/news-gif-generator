@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703801181)
+![Generated GIF](output.gif?raw=true&v=1703802830)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon faces backlash from users over upcoming change to Prime service**
+**Four Verts: Seriously, nobody even tried to pry Lamar Jackson away from the Ravens?**
 
-You can read more about it [here](https://www.thestreet.com/retail/amazon-faces-backlash-from-users-over-upcoming-change-to-prime-service).
+You can read more about it [here](https://sports.yahoo.com/four-verts-seriously-nobody-even-tried-to-pry-lamar-jackson-away-from-the-ravens-210714841.html).
 
 ## Requirements
 - Python 3.8
