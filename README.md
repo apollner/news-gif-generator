@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703730026)
+![Generated GIF](output.gif?raw=true&v=1703731107)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Yemen's Houthis claim responsibility for Red Sea container ship attack**
+**Ken Jennings opens up about Mayim Bialik’s ‘Jeopardy!’ exit**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/vessel-near-yemen-said-report-drones-explosions-red-sea-2023-12-26/).
+You can read more about it [here](https://www.cnn.com/2023/12/26/entertainment/ken-jennings-mayim-bialik-jeopardy/index.html).
 
 ## Requirements
 - Python 3.8
