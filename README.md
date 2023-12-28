@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703781577)
+![Generated GIF](output.gif?raw=true&v=1703783155)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kanye West Apologizes To Jewish Community With Post In Hebrew**
+**Jailed Russian opposition leader Navalny ‘relieved’ after ‘exhausting’ 20-day prison transfer**
 
-You can read more about it [here](https://www.huffpost.com/entry/kanye-west-apology-antisemitism_n_658beb5de4b014ec45a2c07e).
+You can read more about it [here](https://www.cnn.com/2023/12/27/europe/alexey-navalny-russia-prison-message-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
