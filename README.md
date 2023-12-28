@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703738075)
+![Generated GIF](output.gif?raw=true&v=1703740098)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Apple Vision Pro tipped for late Jan/early Feb release**
+**[Removed]**
 
-You can read more about it [here](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
