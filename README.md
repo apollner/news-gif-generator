@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703765608)
+![Generated GIF](output.gif?raw=true&v=1703767697)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
+**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
 
-You can read more about it [here](https://theathletic.com/5163035/2023/12/27/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
 
 ## Requirements
 - Python 3.8
