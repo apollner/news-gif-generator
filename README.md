@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703751045)
+![Generated GIF](output.gif?raw=true&v=1703752466)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Eagles rookies stood out in win over the Giants**
+**US strikes against Kataib Hezbollah targets in Iraq after service members injured in attack**
 
-You can read more about it [here](https://www.bleedinggreennation.com/2023/12/26/24015372/eagles-rookies-giants-game-nfl-week-16-results-analysis-kelee-ringo-jalen-carter-nolan-smith-sydney).
+You can read more about it [here](https://www.foxnews.com/live-news/december-26-israel-hamas).
 
 ## Requirements
 - Python 3.8
