@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703795631)
+![Generated GIF](output.gif?raw=true&v=1703797591)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Longest losing streaks in U.S. sports history: Will Detroit Pistons break record for all pro leagues?**
+**No Big House, but Wolverines will be on big screen in Ann Arbor for Rose Bowl**
 
-You can read more about it [here](https://sports.yahoo.com/longest-losing-streaks-in-us-sports-history-will-detroit-pistons-break-record-for-all-pro-leagues-034633885.html).
+You can read more about it [here](https://www.mlive.com/news/ann-arbor/2023/12/no-big-house-but-wolverines-will-be-on-big-screen-in-ann-arbor-for-rose-bowl.html).
 
 ## Requirements
 - Python 3.8
