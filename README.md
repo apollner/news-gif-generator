@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703756052)
+![Generated GIF](output.gif?raw=true&v=1703758180)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift's parents spotted mingling with Travis Kelce's dad Ed in private suite before Chiefs game**
+**YouTuber helps find remains of missing Missouri Army vet 10 years after he disappeared**
 
-You can read more about it [here](https://pagesix.com/2023/12/26/parents/taylor-swifts-parents-spotted-mingling-with-travis-kelces-dad-ed-before-chiefs-game/).
+You can read more about it [here](https://nypost.com/2023/12/27/news/youtuber-james-hinkle-helps-lead-cops-to-remains-of-missouri-man-donnie-erwin-missing-since-2013/).
 
 ## Requirements
 - Python 3.8
