@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703748827)
+![Generated GIF](output.gif?raw=true&v=1703751045)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Human remains, artificial hip recovered after YouTuber helps find missing man's car in Missouri pond**
+**Eagles rookies stood out in win over the Giants**
 
-You can read more about it [here](https://www.cbsnews.com/news/donnie-erwin-human-remains-artificial-hip-found-car-missouri-pond-james-hinkle/).
+You can read more about it [here](https://www.bleedinggreennation.com/2023/12/26/24015372/eagles-rookies-giants-game-nfl-week-16-results-analysis-kelee-ringo-jalen-carter-nolan-smith-sydney).
 
 ## Requirements
 - Python 3.8
