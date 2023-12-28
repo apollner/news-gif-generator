@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703792026)
+![Generated GIF](output.gif?raw=true&v=1703794125)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Longest losing streaks in U.S. sports history: Will Detroit Pistons break record for all pro leagues?**
+**Panic and possibility: What workers learned about AI in 2023**
 
-You can read more about it [here](https://sports.yahoo.com/longest-losing-streaks-in-us-sports-history-will-detroit-pistons-break-record-for-all-pro-leagues-034633885.html).
+You can read more about it [here](https://www.bbc.com/worklife/article/20231219-panic-and-possibility-what-workers-learned-about-ai-in-2023).
 
 ## Requirements
 - Python 3.8
