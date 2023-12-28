@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703727379)
+![Generated GIF](output.gif?raw=true&v=1703730026)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 140 villagers killed by suspected herders in weekend attacks in north-central Nigeria**
+**Yemen's Houthis claim responsibility for Red Sea container ship attack**
 
-You can read more about it [here](https://apnews.com/article/nigeria-plateau-herdsmen-farmers-attack-9e9e9cf4615f6e31053881e8d2233bca).
+You can read more about it [here](https://www.reuters.com/world/middle-east/vessel-near-yemen-said-report-drones-explosions-red-sea-2023-12-26/).
 
 ## Requirements
 - Python 3.8
