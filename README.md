@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703774023)
+![Generated GIF](output.gif?raw=true&v=1703776080)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Where you can still buy the latest Apple Watch**
+**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/tech/where-to-buy-the-latest-apple-watch/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
 
 ## Requirements
 - Python 3.8
