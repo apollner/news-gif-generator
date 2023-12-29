@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703817379)
+![Generated GIF](output.gif?raw=true&v=1703819345)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Architect of modern EU Jacques Delors dies aged 98**
+**A Tesla factory robot reportedly attacked a worker and left them bleeding. This could become a new reality in the increasingly automated workplace**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67830106).
+You can read more about it [here](https://fortune.com/2023/12/27/tesla-factory-robot-worker-attack-injury/).
 
 ## Requirements
 - Python 3.8
