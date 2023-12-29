@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703828084)
+![Generated GIF](output.gif?raw=true&v=1703830251)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flu hospitalizations skyrocket as Prisma Health limits visits**
+**Contagious shigella infection spreads through Portland area, renewing health warnings**
 
-You can read more about it [here](https://www.wyff4.com/article/flu-hospitalizations-skyrocket-prisma-visits-sc/46237561).
+You can read more about it [here](https://katu.com/news/local/contagious-shigella-infection-spreads-through-portland-area-renewing-health-warnings).
 
 ## Requirements
 - Python 3.8
