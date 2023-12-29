@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703878411)
+![Generated GIF](output.gif?raw=true&v=1703880467)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Cheddar News sold by Altice USA to media company Archetype**
+**Pierce Brosnan heading to court after 'violating closures' at Yellowstone National Park**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/28/cheddar-news-sold-by-altice-usa-to-media-company-archetype.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/pierce-brosnan-heading-court-violating-closures-yellowstone-national-park).
 
 ## Requirements
 - Python 3.8
