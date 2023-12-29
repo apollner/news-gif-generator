@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703816348)
+![Generated GIF](output.gif?raw=true&v=1703817379)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan Supreme Court rejects ‘insurrectionist ban’ case and keeps Trump on 2024 primary ballot**
+**Architect of modern EU Jacques Delors dies aged 98**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/politics/michigan-supreme-court-rejects-insurrectionist-ban-case-trump/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67830106).
 
 ## Requirements
 - Python 3.8
