@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703862433)
+![Generated GIF](output.gif?raw=true&v=1703864027)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 rises slightly as index tries to reach all-time high: Live updates**
+**Adding a pet may offset a type of cognitive decline if you’re over 50 and live alone, study says**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/27/stock-market-today-live-updates-dec2728-2023.html).
+You can read more about it [here](https://www.cnn.com/2023/12/28/health/living-alone-pets-wellness/index.html).
 
 ## Requirements
 - Python 3.8
