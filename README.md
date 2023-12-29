@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703813199)
+![Generated GIF](output.gif?raw=true&v=1703815220)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden announces $250 million in military aid to Ukraine, final package of 2023**
+**Michigan Supreme Court rejects ‘insurrectionist ban’ case and keeps Trump on 2024 primary ballot**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-ukraine-military-aid-250-million-final-package-2023/).
+You can read more about it [here](https://www.cnn.com/2023/12/27/politics/michigan-supreme-court-rejects-insurrectionist-ban-case-trump/index.html).
 
 ## Requirements
 - Python 3.8
