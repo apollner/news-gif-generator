@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703882071)
+![Generated GIF](output.gif?raw=true&v=1703883960)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Longhorns relish facing Huskies again in final Revenge Tour stop**
+**Idaho murders house being demolished today**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39198448/longhorns-relish-facing-huskies-again-final-revenge-tour-stop).
+You can read more about it [here](https://www.cbsnews.com/news/university-of-idaho-murders-house-demolished/).
 
 ## Requirements
 - Python 3.8
