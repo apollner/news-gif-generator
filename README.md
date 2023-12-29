@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703883960)
+![Generated GIF](output.gif?raw=true&v=1703885626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Idaho murders house being demolished today**
+**Investing in Space: A year of coverage in review**
 
-You can read more about it [here](https://www.cbsnews.com/news/university-of-idaho-murders-house-demolished/).
+You can read more about it [here](https://www.cnbc.com/2023/12/28/investing-in-space-a-year-of-coverage-in-review.html).
 
 ## Requirements
 - Python 3.8
