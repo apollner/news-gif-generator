@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703849614)
+![Generated GIF](output.gif?raw=true&v=1703851936)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia celebs lose jobs and are jailed in backlash to raunchy party**
+**5 big funding questions awaiting Congress in January**
 
-You can read more about it [here](https://www.businessinsider.com/russia-celebs-lose-jobs-jailed-raunchy-party-backlash-anastasia-ivleeva-2023-12).
+You can read more about it [here](https://www.politico.com/news/2023/12/28/spending-outlook-00132506).
 
 ## Requirements
 - Python 3.8
