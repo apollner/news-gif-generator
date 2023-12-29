@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703840897)
+![Generated GIF](output.gif?raw=true&v=1703842429)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India and Russia inch closer to jointly producing weapons**
+**Taurus Horoscope Today: December 28, 2023**
 
-You can read more about it [here](https://asia.nikkei.com/Politics/International-relations/India-and-Russia-inch-closer-to-jointly-producing-weapons).
+You can read more about it [here](https://www.vogue.in/horoscope/product/taurus-horoscope-today-december-28-2023/).
 
 ## Requirements
 - Python 3.8
