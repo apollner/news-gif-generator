@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703826473)
+![Generated GIF](output.gif?raw=true&v=1703828084)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Spartanburg Regional: Only visit emergency room when “absolutely necessary”**
+**Flu hospitalizations skyrocket as Prisma Health limits visits**
 
-You can read more about it [here](https://www.wspa.com/news/local-news/spartanburg-regional-only-visit-emergency-room-when-absolutely-necessary/).
+You can read more about it [here](https://www.wyff4.com/article/flu-hospitalizations-skyrocket-prisma-visits-sc/46237561).
 
 ## Requirements
 - Python 3.8
