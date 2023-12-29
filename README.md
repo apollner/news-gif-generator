@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703823000)
+![Generated GIF](output.gif?raw=true&v=1703824485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Escape from Tarkov Arena - Official Beta Accolades Trailer**
+**Spartanburg Regional: Only visit emergency room when “absolutely necessary”**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0u4L_lJ9Zwo).
+You can read more about it [here](https://www.wspa.com/news/local-news/spartanburg-regional-only-visit-emergency-room-when-absolutely-necessary/).
 
 ## Requirements
 - Python 3.8
