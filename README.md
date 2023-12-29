@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703830251)
+![Generated GIF](output.gif?raw=true&v=1703831756)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Contagious shigella infection spreads through Portland area, renewing health warnings**
+**India and Russia inch closer to jointly producing weapons**
 
-You can read more about it [here](https://katu.com/news/local/contagious-shigella-infection-spreads-through-portland-area-renewing-health-warnings).
+You can read more about it [here](https://asia.nikkei.com/Politics/International-relations/India-and-Russia-inch-closer-to-jointly-producing-weapons).
 
 ## Requirements
 - Python 3.8
