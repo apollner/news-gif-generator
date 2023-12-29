@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703837433)
+![Generated GIF](output.gif?raw=true&v=1703838875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**France flight: Spl IGP seeks probe into trafficking angle**
+**iPhone is still regarded as a status symbol among young people**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/city/mumbai/france-flight-spl-igp-seeks-probe-into-trafficking-angle/articleshow/106334656.cms).
+You can read more about it [here](https://bgr.com/tech/tiktoker-asks-a-group-of-women-whether-a-guy-can-still-be-a-10-if-he-has-an-android-phone/).
 
 ## Requirements
 - Python 3.8
