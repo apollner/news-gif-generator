@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703819345)
+![Generated GIF](output.gif?raw=true&v=1703820833)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A Tesla factory robot reportedly attacked a worker and left them bleeding. This could become a new reality in the increasingly automated workplace**
+**Amazon Prime is putting ads on movies and TV shows starting in late January—and the only way to avoid them is to pay more**
 
-You can read more about it [here](https://fortune.com/2023/12/27/tesla-factory-robot-worker-attack-injury/).
+You can read more about it [here](https://fortune.com/2023/12/27/amazon-prime-ads-movies-tv-shows-january/).
 
 ## Requirements
 - Python 3.8
