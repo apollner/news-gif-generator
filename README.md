@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703858775)
+![Generated GIF](output.gif?raw=true&v=1703860432)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Adding a pet may offset a type of cognitive decline if you’re over 50 and live alone, study says**
+**NFL Week 17 picks against the spread: Derek Carr, Saints silence the critics**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/health/living-alone-pets-wellness/index.html).
+You can read more about it [here](https://theathletic.com/5163816/2023/12/28/nfl-week-17-picks-predictions-betting-derek-carr/).
 
 ## Requirements
 - Python 3.8
