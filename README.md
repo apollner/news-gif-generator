@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703855394)
+![Generated GIF](output.gif?raw=true&v=1703856875)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Career Horoscope Today for Dec 28, 2023: Tips for a productive work life**
+**Cher Files for Conservatorship of Son Elijah Blue Allman, Citing ‘Severe’ Substance Abuse**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-dec-28-2023-tips-for-a-productive-work-life-101703751813426.html).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/cher-conservatorship-filing-elijah-blue-allman-1234937229/).
 
 ## Requirements
 - Python 3.8
