@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703835211)
+![Generated GIF](output.gif?raw=true&v=1703837433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russian stars' semi-naked party sparks wartime backlash**
+**France flight: Spl IGP seeks probe into trafficking angle**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-stars-semi-naked-party-sparks-wartime-backlash-2023-12-28/).
+You can read more about it [here](https://timesofindia.indiatimes.com/city/mumbai/france-flight-spl-igp-seeks-probe-into-trafficking-angle/articleshow/106334656.cms).
 
 ## Requirements
 - Python 3.8
