@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703866145)
+![Generated GIF](output.gif?raw=true&v=1703868073)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vision Pro 2 Rumored to Gain Brighter and More Efficient Displays**
+**Biden administration's Medicare drug price negotiations will face major tests in 2024**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/28/vision-pro-rumored-to-gain-brighter-displays/).
+You can read more about it [here](https://www.cnbc.com/2023/12/28/medicare-drug-price-negotiations-whats-ahead-in-2024.html).
 
 ## Requirements
 - Python 3.8
