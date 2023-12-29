@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703873396)
+![Generated GIF](output.gif?raw=true&v=1703874821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P 500 rises slightly as index tries to reach all-time high: Live updates**
+**Putin 'god daughter' was at raunchy party that fueled Russia outrage**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/27/stock-market-today-live-updates-dec2728-2023.html).
+You can read more about it [here](https://www.businessinsider.com/putin-god-daughter-ksenia-sobchak-was-raunchy-party-russia-outrage-2023-12).
 
 ## Requirements
 - Python 3.8
