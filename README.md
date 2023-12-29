@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703831756)
+![Generated GIF](output.gif?raw=true&v=1703833614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**India and Russia inch closer to jointly producing weapons**
+**Boebert says she is switching congressional districts for the 2024 election. The move will put her in a safer Republican seat**
 
-You can read more about it [here](https://asia.nikkei.com/Politics/International-relations/India-and-Russia-inch-closer-to-jointly-producing-weapons).
+You can read more about it [here](https://www.cpr.org/2023/12/27/lauren-boebert-congress-2024-election-switching-districts/).
 
 ## Requirements
 - Python 3.8
