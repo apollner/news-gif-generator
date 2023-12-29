@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703820833)
+![Generated GIF](output.gif?raw=true&v=1703823000)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Amazon Prime is putting ads on movies and TV shows starting in late January—and the only way to avoid them is to pay more**
+**Escape from Tarkov Arena - Official Beta Accolades Trailer**
 
-You can read more about it [here](https://fortune.com/2023/12/27/amazon-prime-ads-movies-tv-shows-january/).
+You can read more about it [here](https://www.youtube.com/watch?v=0u4L_lJ9Zwo).
 
 ## Requirements
 - Python 3.8
