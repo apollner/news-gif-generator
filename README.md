@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703876717)
+![Generated GIF](output.gif?raw=true&v=1703878411)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Unexpected New COVID Symptoms Arise As JN.1 Variant Continues To Spread**
+**Cheddar News sold by Altice USA to media company Archetype**
 
-You can read more about it [here](https://www.iflscience.com/unexpected-new-covid-symptoms-arise-as-jn1-variant-continues-to-spread-72224).
+You can read more about it [here](https://www.cnbc.com/2023/12/28/cheddar-news-sold-by-altice-usa-to-media-company-archetype.html).
 
 ## Requirements
 - Python 3.8
