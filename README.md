@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703880467)
+![Generated GIF](output.gif?raw=true&v=1703882071)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pierce Brosnan heading to court after 'violating closures' at Yellowstone National Park**
+**Longhorns relish facing Huskies again in final Revenge Tour stop**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/pierce-brosnan-heading-court-violating-closures-yellowstone-national-park).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39198448/longhorns-relish-facing-huskies-again-final-revenge-tour-stop).
 
 ## Requirements
 - Python 3.8
