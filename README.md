@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703975636)
+![Generated GIF](output.gif?raw=true&v=1703977557)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Don Lemon sees double standard in Haley’s Civil War remarks**
+**Taylor Swift's brother charms Travis Kelce's family at Christmas: took it to 'new holiday heights'**
 
-You can read more about it [here](https://thehill.com/homenews/media/4381504-don-lemon-nikki-haley-civil-war-remarks/).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swifts-brother-charms-travis-kelces-family-christmas-new-holiday-heights).
 
 ## Requirements
 - Python 3.8
