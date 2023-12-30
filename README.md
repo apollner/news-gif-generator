@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703934336)
+![Generated GIF](output.gif?raw=true&v=1703936087)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RSV cases reach all-time high in Oklahoma over last two years, CDC data shows**
+**US military's secretive spaceplane launched on possible higher-orbit mission**
 
-You can read more about it [here](https://www.koco.com/article/oklahoma-rsv-symptoms-numbers-cases-all-time-high-cdc-data/46246267).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-militarys-secretive-spaceplane-launched-possible-higher-orbit-mission-2023-12-29/).
 
 ## Requirements
 - Python 3.8
