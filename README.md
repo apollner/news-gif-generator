@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703936087)
+![Generated GIF](output.gif?raw=true&v=1703938351)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US military's secretive spaceplane launched on possible higher-orbit mission**
+**Russia fires 122 missiles and 36 drones in what Ukraine calls the biggest aerial barrage of the war**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-militarys-secretive-spaceplane-launched-possible-higher-orbit-mission-2023-12-29/).
+You can read more about it [here](https://news.yahoo.com/russia-unleashes-one-years-biggest-084209242.html).
 
 ## Requirements
 - Python 3.8
