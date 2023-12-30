@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703925222)
+![Generated GIF](output.gif?raw=true&v=1703927153)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Unspeakable tragedy': Death of pregnant teen and boyfriend now capital murder case**
+**Broncos bench Russell Wilson: Top logical 2024 landing spots for veteran QB, who's likely to be released**
 
-You can read more about it [here](https://abcnews.go.com/US/murder-investigation-savanah-soto/story?id=105976765).
+You can read more about it [here](https://www.cbssports.com/nfl/news/broncos-bench-russell-wilson-top-logical-2024-landing-spots-for-veteran-qb-whos-likely-to-be-released/).
 
 ## Requirements
 - Python 3.8
