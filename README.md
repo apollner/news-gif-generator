@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703966821)
+![Generated GIF](output.gif?raw=true&v=1703968433)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Barack Obama Names Beyoncé’s ‘America Has a Problem,’ Tyla’s ‘Water’ and More as His Favorite Songs of 2023**
+**No. 16 Oregon State Beavers vs. No. 19 Notre Dame Fighting Irish, 2023 Sun Bowl live updates, time, TV channe**
 
-You can read more about it [here](https://variety.com/2023/music/news/barack-obama-beyonce-america-has-a-problem-favorite-songs-1235857613/).
+You can read more about it [here](https://www.oregonlive.com/beavers/2023/12/no-16-oregon-state-beavers-vs-no-19-notre-dame-fighting-irish-2023-sun-bowl-live-updates-time-tv-channel-how-to-watch-online.html).
 
 ## Requirements
 - Python 3.8
