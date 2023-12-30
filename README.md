@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703968433)
+![Generated GIF](output.gif?raw=true&v=1703970313)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**No. 16 Oregon State Beavers vs. No. 19 Notre Dame Fighting Irish, 2023 Sun Bowl live updates, time, TV channe**
+**LG is bringing a 4K projector with a weird handle to CES 2024**
 
-You can read more about it [here](https://www.oregonlive.com/beavers/2023/12/no-16-oregon-state-beavers-vs-no-19-notre-dame-fighting-irish-2023-sun-bowl-live-updates-time-tv-channel-how-to-watch-online.html).
+You can read more about it [here](https://www.engadget.com/lg-is-bringing-a-4k-projector-with-a-weird-handle-to-ces-2024-163420538.html).
 
 ## Requirements
 - Python 3.8
