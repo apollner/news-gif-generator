@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703954226)
+![Generated GIF](output.gif?raw=true&v=1703955940)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S24 may also miss two-way satellite connectivity for emergencies - SamMobile**
+**The seven biggest work trends of 2023**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-lack-two-way-satellite-connectivity-emergencies/).
+You can read more about it [here](https://www.bbc.com/worklife/article/20231219-the-seven-biggest-work-trends-of-2023).
 
 ## Requirements
 - Python 3.8
