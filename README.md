@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703900107)
+![Generated GIF](output.gif?raw=true&v=1703902770)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Venezuela's Maduro slams deployment of British warship to Guyana**
+**Michigan players kinda tired of hearing about Alabama, SEC speed**
 
-You can read more about it [here](https://www.reuters.com/world/americas/venezuelas-maduro-slams-deployment-british-warship-guyana-2023-12-28/).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/12/michigan-players-kinda-tired-of-hearing-about-alabama-sec-speed.html).
 
 ## Requirements
 - Python 3.8
