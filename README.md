@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703919948)
+![Generated GIF](output.gif?raw=true&v=1703921665)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Browns, Joe Flacco strike first with TD pass to Jerome Ford**
+**Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39200288/browns-joe-flacco-strike-first-td-pass-jerome-ford).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/).
 
 ## Requirements
 - Python 3.8
