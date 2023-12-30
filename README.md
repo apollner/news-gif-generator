@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703923784)
+![Generated GIF](output.gif?raw=true&v=1703925222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
+**'Unspeakable tragedy': Death of pregnant teen and boyfriend now capital murder case**
 
-You can read more about it [here](https://theathletic.com/5163035/2023/12/28/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
+You can read more about it [here](https://abcnews.go.com/US/murder-investigation-savanah-soto/story?id=105976765).
 
 ## Requirements
 - Python 3.8
