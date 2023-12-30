@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703928835)
+![Generated GIF](output.gif?raw=true&v=1703930795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pistons tie ALL-TIME consecutive loss record as Celtics erase 19-point deficit | SportsCenter**
+**Pierce Brosnan Cited for Alleged Off-Limits Yellowstone Trip**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LvvwJ7WjYW0).
+You can read more about it [here](http://www.vulture.com/2023/12/pierce-brosnan-yellowstone-national-park-citations.html).
 
 ## Requirements
 - Python 3.8
