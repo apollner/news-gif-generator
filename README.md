@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703930795)
+![Generated GIF](output.gif?raw=true&v=1703932491)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Pierce Brosnan Cited for Alleged Off-Limits Yellowstone Trip**
+**Huawei Sales Near $100 Billion in Year of China's Surprise Breakthroughs**
 
-You can read more about it [here](http://www.vulture.com/2023/12/pierce-brosnan-yellowstone-national-park-citations.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-29/huawei-revenue-nears-100-billion-in-year-of-chip-breakthroughs).
 
 ## Requirements
 - Python 3.8
