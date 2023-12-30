@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703946829)
+![Generated GIF](output.gif?raw=true&v=1703948757)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your daily horoscope: December 29, 2023**
+**SpaceX Falcon Heavy launches X-37B plane, one of the US military’s most fascinating secrets**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-29-2023/).
+You can read more about it [here](https://www.cnn.com/2023/12/28/world/spacex-x37b-space-plane-military-scn/index.html).
 
 ## Requirements
 - Python 3.8
