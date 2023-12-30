@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703973980)
+![Generated GIF](output.gif?raw=true&v=1703975636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**COVID Mask Mandates Return to Hospitals in Five States**
+**Don Lemon sees double standard in Haley’s Civil War remarks**
 
-You can read more about it [here](https://www.newsweek.com/covid-mask-mandate-return-hospitals-usa-1856530).
+You can read more about it [here](https://thehill.com/homenews/media/4381504-don-lemon-nikki-haley-civil-war-remarks/).
 
 ## Requirements
 - Python 3.8
