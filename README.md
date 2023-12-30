@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703892837)
+![Generated GIF](output.gif?raw=true&v=1703896273)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Vibrating Molecules Eradicate 99% Of Cancer Cells, Scientists Call It Whole New Generation**
+**Unexpected New COVID Symptoms Arise As JN.1 Variant Continues To Spread**
 
-You can read more about it [here](https://www.giantfreakinrobot.com/sci/vibrating-molecules.html).
+You can read more about it [here](https://www.iflscience.com/unexpected-new-covid-symptoms-arise-as-jn1-variant-continues-to-spread-72224).
 
 ## Requirements
 - Python 3.8
