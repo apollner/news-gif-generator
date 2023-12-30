@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703932491)
+![Generated GIF](output.gif?raw=true&v=1703934336)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Huawei Sales Near $100 Billion in Year of China's Surprise Breakthroughs**
+**RSV cases reach all-time high in Oklahoma over last two years, CDC data shows**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-29/huawei-revenue-nears-100-billion-in-year-of-chip-breakthroughs).
+You can read more about it [here](https://www.koco.com/article/oklahoma-rsv-symptoms-numbers-cases-all-time-high-cdc-data/46246267).
 
 ## Requirements
 - Python 3.8
