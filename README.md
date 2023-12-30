@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703964888)
+![Generated GIF](output.gif?raw=true&v=1703966821)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Travis Kelce Shares the Thoughtful Christmas Gift Taylor Swift's Brother Austin Got Him**
+**Barack Obama Names Beyoncé’s ‘America Has a Problem,’ Tyla’s ‘Water’ and More as His Favorite Songs of 2023**
 
-You can read more about it [here](https://toofab.com/2023/12/29/travis-kelce-shares-the-thoughtful-christmas-gift-taylor-swifts-brother-austin-got-him/).
+You can read more about it [here](https://variety.com/2023/music/news/barack-obama-beyonce-america-has-a-problem-favorite-songs-1235857613/).
 
 ## Requirements
 - Python 3.8
