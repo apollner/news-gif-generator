@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703941667)
+![Generated GIF](output.gif?raw=true&v=1703943344)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Video: Gypsy Rose Blanchard released from prison after serving time for the murder of her abusive mother**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/videos/us/2023/12/29/gypsy-rose-blanchard-release-prison-abusive-mother-tuchman-pkg-ac360-vpx.cnn).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
