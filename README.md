@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703952613)
+![Generated GIF](output.gif?raw=true&v=1703954226)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Massive waves flood California beach towns as evacuations ordered; 8 people hospitalized**
+**Galaxy S24 may also miss two-way satellite connectivity for emergencies - SamMobile**
 
-You can read more about it [here](https://nypost.com/2023/12/28/news/california-beach-towns-flooded-by-massive-waves-receive-evacuation-orders/).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-lack-two-way-satellite-connectivity-emergencies/).
 
 ## Requirements
 - Python 3.8
