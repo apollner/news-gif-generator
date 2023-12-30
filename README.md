@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703945133)
+![Generated GIF](output.gif?raw=true&v=1703946829)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Korean celebrities attend Lee Sun-kyun’s memorial; police defend 'Parasite' actor’s drug probe**
+**Your daily horoscope: December 29, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Bb_3m1rWKMU).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-29-2023/).
 
 ## Requirements
 - Python 3.8
