@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703963076)
+![Generated GIF](output.gif?raw=true&v=1703964888)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kevin Stefanski stakes claim to second coach of the year award**
+**Travis Kelce Shares the Thoughtful Christmas Gift Taylor Swift's Brother Austin Got Him**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-stakes-claim-to-second-coach-of-the-year-award).
+You can read more about it [here](https://toofab.com/2023/12/29/travis-kelce-shares-the-thoughtful-christmas-gift-taylor-swifts-brother-austin-got-him/).
 
 ## Requirements
 - Python 3.8
