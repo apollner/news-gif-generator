@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703948757)
+![Generated GIF](output.gif?raw=true&v=1703950412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX Falcon Heavy launches X-37B plane, one of the US military’s most fascinating secrets**
+**Galaxy S24 may also miss two-way satellite connectivity for emergencies - SamMobile**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/world/spacex-x37b-space-plane-military-scn/index.html).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-lack-two-way-satellite-connectivity-emergencies/).
 
 ## Requirements
 - Python 3.8
