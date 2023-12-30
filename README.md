@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703972017)
+![Generated GIF](output.gif?raw=true&v=1703973980)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**COVID Mask Mandates Return to Hospitals in Five States**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.newsweek.com/covid-mask-mandate-return-hospitals-usa-1856530).
 
 ## Requirements
 - Python 3.8
