@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703921665)
+![Generated GIF](output.gif?raw=true&v=1703923784)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer**
+**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/).
+You can read more about it [here](https://theathletic.com/5163035/2023/12/28/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
