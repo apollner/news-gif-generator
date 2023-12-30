@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703914461)
+![Generated GIF](output.gif?raw=true&v=1703916587)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli official warns time running out for Lebanon to stop Hezbollah, raising fears of 2nd war front**
+**US targets network financing Iran-backed Houthi attacks on shipping vessels**
 
-You can read more about it [here](https://nypost.com/2023/12/28/news/israeli-threatens-to-open-second-front-if-lebanon-doesnt-stop-hezbollah-rocket-strikes/).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-global-economy/us-targets-network-financing-iran-backed-houthi-attacks-shipping-vessels).
 
 ## Requirements
 - Python 3.8
