@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703918017)
+![Generated GIF](output.gif?raw=true&v=1703919948)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wonka's Surprisingly Sweet Box Office Helped Cure Warner's Aquaman Blues**
+**Browns, Joe Flacco strike first with TD pass to Jerome Ford**
 
-You can read more about it [here](https://gizmodo.com/wonka-box-office-warner-bros-aquaman-dc-1851129337).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39200288/browns-joe-flacco-strike-first-td-pass-jerome-ford).
 
 ## Requirements
 - Python 3.8
