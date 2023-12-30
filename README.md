@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703910906)
+![Generated GIF](output.gif?raw=true&v=1703912812)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alabama players say they're barred from watching film alone because of Michigan's sign-stealing scandal**
+**Gypsy Rose Blanchard, who pleaded guilty to helping kill her abusive mother, is released from prison**
 
-You can read more about it [here](https://sports.yahoo.com/alabama-players-say-theyre-barred-from-watching-film-alone-because-of-michigans-sign-stealing-scandal-015006653.html).
+You can read more about it [here](https://www.cnn.com/2023/12/28/us/gypsy-rose-blanchard-prison-release-cec/index.html).
 
 ## Requirements
 - Python 3.8
