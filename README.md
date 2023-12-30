@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703903869)
+![Generated GIF](output.gif?raw=true&v=1703905751)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israeli official warns time running out for Lebanon to stop Hezbollah, raising fears of 2nd war front**
+**Gypsy Rose Blanchard's husband: What to know about Ryan Scott Anderson**
 
-You can read more about it [here](https://nypost.com/2023/12/28/news/israeli-threatens-to-open-second-front-if-lebanon-doesnt-stop-hezbollah-rocket-strikes/).
+You can read more about it [here](https://www.businessinsider.com/gypsy-rose-blanchard-husband-ryan-scott-anderson-met-married-kids-2023-12).
 
 ## Requirements
 - Python 3.8
