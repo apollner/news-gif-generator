@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703979235)
+![Generated GIF](output.gif?raw=true&v=1703982895)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LG's new CineBeam Qube is a 4K projector that's unlike anything I've ever seen**
+**NFL Week 17 bold predictions, plus Jets-Browns grades and the six teams that can clinch a spot in playoffs**
 
-You can read more about it [here](https://www.zdnet.com/home-and-office/home-entertainment/lgs-new-cinebeam-qube-is-a-4k-projector-thats-unlike-anything-ive-ever-seen/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-17-bold-predictions-plus-jets-browns-grades-and-the-six-teams-that-can-clinch-a-spot-in-playoffs/).
 
 ## Requirements
 - Python 3.8
