@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704049483)
+![Generated GIF](output.gif?raw=true&v=1704051219)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Flooded UK tunnels force Eurostar to cancel all London trains**
+**What China's new defense minister tells us about Xi's military purge**
 
-You can read more about it [here](https://www.reuters.com/world/europe/flooded-tunnel-near-london-disrupts-eurostar-train-services-2023-12-30/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/30/china-defense-minister-xi-military/).
 
 ## Requirements
 - Python 3.8
