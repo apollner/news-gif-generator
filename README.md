@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703995844)
+![Generated GIF](output.gif?raw=true&v=1703997269)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several Chicago-area health systems reinstate mask requirements as respiratory viruses spread**
+**TDH reports first pediatric flu death in Tennessee this season**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/illinois-mask-mandate-health-care-health-systems/3313742/).
+You can read more about it [here](https://www.wkrn.com/news/tennessee-news/tdh-reports-first-pediatric-flu-death-in-tennessee-this-season/).
 
 ## Requirements
 - Python 3.8
