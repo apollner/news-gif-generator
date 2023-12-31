@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703999177)
+![Generated GIF](output.gif?raw=true&v=1704000964)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio State vs. Missouri live stream, watch online, TV channel, prediction, pick, Cotton Bowl odds, spread**
+**Paula Abdul Sues 'American Idol' Boss Nigel Lythgoe For Sexual Assault**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-missouri-live-stream-watch-online-tv-channel-prediction-pick-cotton-bowl-odds-spread/).
+You can read more about it [here](https://www.yahoo.com/entertainment/paula-abdul-sues-american-idol-015341564.html).
 
 ## Requirements
 - Python 3.8
