@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704064000)
+![Generated GIF](output.gif?raw=true&v=1704065638)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tunnel flooding under the River Thames strands hundreds of travelers in Paris and London**
+**Gypsy Rose Blanchard posts ‘first selfie of freedom’ after release from prison**
 
-You can read more about it [here](https://www.cbsnews.com/news/eurostar-cancels-trains-due-to-flooding-stranding-hundreds-of-travelers-in-paris-and-london/).
+You can read more about it [here](https://ktla.com/news/gypsy-rose-blanchard-posts-first-selfie-of-freedom-after-release-from-prison/).
 
 ## Requirements
 - Python 3.8
