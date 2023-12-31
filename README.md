@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704010198)
+![Generated GIF](output.gif?raw=true&v=1704011755)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**122 anglers rescued from ice floe in northern Minnesota lake, no injuries reported**
+**Massive waves and life-threatening beach conditions to slam California coast for third day**
 
-You can read more about it [here](https://www.cnn.com/2023/12/29/us/minnesota-ice-rescue-122-people/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/30/weather/california-oregon-waves-flooding-saturday/index.html).
 
 ## Requirements
 - Python 3.8
