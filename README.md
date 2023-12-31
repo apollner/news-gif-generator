@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703997269)
+![Generated GIF](output.gif?raw=true&v=1703999177)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**TDH reports first pediatric flu death in Tennessee this season**
+**Ohio State vs. Missouri live stream, watch online, TV channel, prediction, pick, Cotton Bowl odds, spread**
 
-You can read more about it [here](https://www.wkrn.com/news/tennessee-news/tdh-reports-first-pediatric-flu-death-in-tennessee-this-season/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-missouri-live-stream-watch-online-tv-channel-prediction-pick-cotton-bowl-odds-spread/).
 
 ## Requirements
 - Python 3.8
