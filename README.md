@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704033212)
+![Generated GIF](output.gif?raw=true&v=1704035166)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden administration bypasses Congress on weapons sales to Israel**
+**Bollywood celebrates rocking year, riding high on action flicks, unbridled masculinity and misogyny**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/biden-administration-bypasses-congress-on-weapon-sales-to-israel).
+You can read more about it [here](https://apnews.com/article/bollywood-box-office-shah-rukh-khan-masculinity-0611dc57ac808c3ccee9a09b265eb859).
 
 ## Requirements
 - Python 3.8
