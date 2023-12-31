@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704054843)
+![Generated GIF](output.gif?raw=true&v=1704056713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Knicks getting Raptors' O.G. Anunoby, deal RJ Barrett, sources say**
+**Texas is sending asylum seekers to major cities by bus with little notice. These mayors want to pump the brakes**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39209777/knicks-acquiring-raptors-og-anunoby-trade-sources-say).
+You can read more about it [here](https://www.cnn.com/2023/12/30/us/asylum-seekers-texas-city-mayors/index.html).
 
 ## Requirements
 - Python 3.8
