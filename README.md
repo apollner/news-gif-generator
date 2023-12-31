@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704006362)
+![Generated GIF](output.gif?raw=true&v=1704008029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge blocks parts of Iowa ban on books, discussions of LGBTQ+ issues in schools**
+**Arrests of Catholic priests in Nicaragua tick up as dragnet intensifies**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4382237-judge-blocks-parts-of-iowa-ban-books-discussions-lgbtq-issues-in-schools/).
+You can read more about it [here](https://www.reuters.com/world/americas/arrests-catholic-priests-nicaragua-tick-up-dragnet-intensifies-2023-12-29/).
 
 ## Requirements
 - Python 3.8
