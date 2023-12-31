@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704024738)
+![Generated GIF](output.gif?raw=true&v=1704026795)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gypsy Rose Blanchard used money father sent in prison to buy Taylor Swift albums**
+**Several Chicago-area health systems reinstate mask requirements as respiratory viruses spread**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/gypsy-rose-blanchard-taylor-swift-albums-money-father-sent-in-prison-101703911876373.html).
+You can read more about it [here](http://www.nbcchicago.com/news/local/illinois-mask-mandate-health-care-health-systems/3313742/).
 
 ## Requirements
 - Python 3.8
