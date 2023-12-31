@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704020712)
+![Generated GIF](output.gif?raw=true&v=1704022462)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Several Chicago-area health systems reinstate mask requirements as respiratory viruses spread**
+**Biden administration bypasses Congress on weapons sales to Israel**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/illinois-mask-mandate-health-care-health-systems/3313742/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/biden-administration-bypasses-congress-on-weapon-sales-to-israel).
 
 ## Requirements
 - Python 3.8
