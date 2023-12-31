@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704044019)
+![Generated GIF](output.gif?raw=true&v=1704046155)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Penn State vs. Ole Miss live stream, watch online, TV channel, Peach Bowl odds, spread, prediction, pick**
+**Texas is sending asylum seekers to major cities by bus with little notice. These mayors want to pump the brakes**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/penn-state-vs-ole-miss-live-stream-watch-online-tv-channel-peach-bowl-odds-spread-prediction-pick/).
+You can read more about it [here](https://www.cnn.com/2023/12/30/us/asylum-seekers-texas-city-mayors/index.html).
 
 ## Requirements
 - Python 3.8
