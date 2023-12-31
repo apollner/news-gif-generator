@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703982895)
+![Generated GIF](output.gif?raw=true&v=1703987591)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 17 bold predictions, plus Jets-Browns grades and the six teams that can clinch a spot in playoffs**
+**Massive waves slam California, with more expected Saturday**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-17-bold-predictions-plus-jets-browns-grades-and-the-six-teams-that-can-clinch-a-spot-in-playoffs/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/29/big-waves-california-coast-damage/).
 
 ## Requirements
 - Python 3.8
