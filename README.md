@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704008029)
+![Generated GIF](output.gif?raw=true&v=1704010198)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Arrests of Catholic priests in Nicaragua tick up as dragnet intensifies**
+**122 anglers rescued from ice floe in northern Minnesota lake, no injuries reported**
 
-You can read more about it [here](https://www.reuters.com/world/americas/arrests-catholic-priests-nicaragua-tick-up-dragnet-intensifies-2023-12-29/).
+You can read more about it [here](https://www.cnn.com/2023/12/29/us/minnesota-ice-rescue-122-people/index.html).
 
 ## Requirements
 - Python 3.8
