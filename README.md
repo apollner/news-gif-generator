@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704011755)
+![Generated GIF](output.gif?raw=true&v=1704013627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Massive waves and life-threatening beach conditions to slam California coast for third day**
+**Gypsy Rose Blanchard shares 'first selfie of freedom' on Instagram after prison release**
 
-You can read more about it [here](https://www.cnn.com/2023/12/30/weather/california-oregon-waves-flooding-saturday/index.html).
+You can read more about it [here](https://abc7.com/gypsy-rose-blanchard-released-instagram-selfie-dee/14241975/).
 
 ## Requirements
 - Python 3.8
