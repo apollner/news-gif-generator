@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704053223)
+![Generated GIF](output.gif?raw=true&v=1704054843)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Penn State vs. Ole Miss live stream, watch online, TV channel, Peach Bowl odds, spread, prediction, pick**
+**Knicks getting Raptors' O.G. Anunoby, deal RJ Barrett, sources say**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/penn-state-vs-ole-miss-live-stream-watch-online-tv-channel-peach-bowl-odds-spread-prediction-pick/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39209777/knicks-acquiring-raptors-og-anunoby-trade-sources-say).
 
 ## Requirements
 - Python 3.8
