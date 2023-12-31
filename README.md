@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704040634)
+![Generated GIF](output.gif?raw=true&v=1704042331)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war: IDF says it destroyed Hamas hideout – DW – 12/30/2023**
+**Russell Wilson ‘disappointed’ Broncos planned to bench him for refusing contract change**
 
-You can read more about it [here](https://www.dw.com/en/israel-hamas-war-idf-says-it-destroyed-hamas-hideout/live-67857020).
+You can read more about it [here](https://theathletic.com/5168754/2023/12/29/russell-wilson-sean-payton-broncos-benching/).
 
 ## Requirements
 - Python 3.8
