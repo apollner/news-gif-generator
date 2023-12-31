@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1703989421)
+![Generated GIF](output.gif?raw=true&v=1703990508)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Judge blocks most of an Iowa law banning some school library books and discussion of LGBTQ+ issues**
+**Pentagon’s mysterious unmanned X-37B space plane blasts off on another secretive mission**
 
-You can read more about it [here](https://apnews.com/article/iowa-book-ban-lgbtq-2b53b6c361bad54e94626a8a26b7f034).
+You can read more about it [here](https://nypost.com/2023/12/29/news/pentagons-mysterious-unmanned-x-37b-blasts-off-on-seventh-secretive-mission/).
 
 ## Requirements
 - Python 3.8
