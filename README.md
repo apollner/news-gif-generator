@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704031558)
+![Generated GIF](output.gif?raw=true&v=1704033212)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**122 anglers rescued from Upper Red Lake after becoming stranded on the ice**
+**Biden administration bypasses Congress on weapons sales to Israel**
 
-You can read more about it [here](https://kstp.com/kstp-news/top-news/122-anglers-rescued-from-upper-red-lake-after-becoming-stranded-on-the-ice/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/biden-administration-bypasses-congress-on-weapon-sales-to-israel).
 
 ## Requirements
 - Python 3.8
