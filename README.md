@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704035166)
+![Generated GIF](output.gif?raw=true&v=1704036890)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bollywood celebrates rocking year, riding high on action flicks, unbridled masculinity and misogyny**
+**Paula Abdul sues 'American Idol' executive Nigel Lythgoe for alleged sexual assault**
 
-You can read more about it [here](https://apnews.com/article/bollywood-box-office-shah-rukh-khan-masculinity-0611dc57ac808c3ccee9a09b265eb859).
+You can read more about it [here](https://nypost.com/2023/12/30/entertainment/paula-abdul-sues-american-idol-executive-nigel-lythgoe-for-sexual-assault/).
 
 ## Requirements
 - Python 3.8
