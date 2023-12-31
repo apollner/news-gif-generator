@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704029618)
+![Generated GIF](output.gif?raw=true&v=1704031558)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russell Wilson ‘disappointed’ Broncos planned to bench him for refusing contract change**
+**122 anglers rescued from Upper Red Lake after becoming stranded on the ice**
 
-You can read more about it [here](https://theathletic.com/5168754/2023/12/29/russell-wilson-sean-payton-broncos-benching/).
+You can read more about it [here](https://kstp.com/kstp-news/top-news/122-anglers-rescued-from-upper-red-lake-after-becoming-stranded-on-the-ice/).
 
 ## Requirements
 - Python 3.8
