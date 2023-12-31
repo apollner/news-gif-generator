@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704017235)
+![Generated GIF](output.gif?raw=true&v=1704018885)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**California Democrat secretary of state to allow Trump on GOP presidential primary ballot: 'I must be better'**
+**Massive waves and life-threatening beach conditions to slam California coast for third day**
 
-You can read more about it [here](https://www.foxnews.com/politics/california-democrat-secretary-state-allow-trump-gop-presidential-primary-ballot).
+You can read more about it [here](https://www.cnn.com/2023/12/30/weather/california-oregon-waves-flooding-saturday/index.html).
 
 ## Requirements
 - Python 3.8
