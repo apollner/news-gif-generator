@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704002999)
+![Generated GIF](output.gif?raw=true&v=1704004427)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft's Copilot app is now available on iOS**
+**Google Agrees To Settle Incognito Mode Lawsuit**
 
-You can read more about it [here](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai).
+You can read more about it [here](https://deadline.com/2023/12/google-agrees-to-settle-incognito-mode-class-action-lawsuit-1235683347/).
 
 ## Requirements
 - Python 3.8
