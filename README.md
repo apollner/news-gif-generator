@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704060349)
+![Generated GIF](output.gif?raw=true&v=1704062020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**What’s open and closed New Year’s Eve and New Year’s Day 2024**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/12/30/business/whats-open-and-closed-new-years-eve-and-new-years-day-2023/index.html).
 
 ## Requirements
 - Python 3.8
