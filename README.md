@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704036890)
+![Generated GIF](output.gif?raw=true&v=1704038954)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Paula Abdul sues 'American Idol' executive Nigel Lythgoe for alleged sexual assault**
+**Florida State football's Orange Bowl challenge: Motivation**
 
-You can read more about it [here](https://nypost.com/2023/12/30/entertainment/paula-abdul-sues-american-idol-executive-nigel-lythgoe-for-sexual-assault/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39205397/college-football-orange-bowl-florida-state-georgia).
 
 ## Requirements
 - Python 3.8
