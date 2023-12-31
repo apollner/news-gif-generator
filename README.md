@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704000964)
+![Generated GIF](output.gif?raw=true&v=1704002999)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Paula Abdul Sues 'American Idol' Boss Nigel Lythgoe For Sexual Assault**
+**Microsoft's Copilot app is now available on iOS**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/paula-abdul-sues-american-idol-015341564.html).
+You can read more about it [here](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai).
 
 ## Requirements
 - Python 3.8
