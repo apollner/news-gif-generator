@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704013627)
+![Generated GIF](output.gif?raw=true&v=1704015209)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gypsy Rose Blanchard shares 'first selfie of freedom' on Instagram after prison release**
+**One dead, another hospitalized, after contracting Legionnaires' disease following stay at New Hampshire resort hotel, officials say**
 
-You can read more about it [here](https://abc7.com/gypsy-rose-blanchard-released-instagram-selfie-dee/14241975/).
+You can read more about it [here](https://www.wmur.com/article/legionnaires-disease-new-hampshire-resort-122923/46252964).
 
 ## Requirements
 - Python 3.8
