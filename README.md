@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704015209)
+![Generated GIF](output.gif?raw=true&v=1704017235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**One dead, another hospitalized, after contracting Legionnaires' disease following stay at New Hampshire resort hotel, officials say**
+**California Democrat secretary of state to allow Trump on GOP presidential primary ballot: 'I must be better'**
 
-You can read more about it [here](https://www.wmur.com/article/legionnaires-disease-new-hampshire-resort-122923/46252964).
+You can read more about it [here](https://www.foxnews.com/politics/california-democrat-secretary-state-allow-trump-gop-presidential-primary-ballot).
 
 ## Requirements
 - Python 3.8
