@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704119629)
+![Generated GIF](output.gif?raw=true&v=1704121626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How OG Anunoby fits with Knicks, what’s next for Immanuel Quickley and RJ Barrett**
+**Ukraine war: Russia hits back after Kyiv attack on border city**
 
-You can read more about it [here](https://theathletic.com/5170554/2023/12/31/og-anunoby-knicks-immanuel-quickley-rj-barrett-raptors/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67851431).
 
 ## Requirements
 - Python 3.8
