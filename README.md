@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704118055)
+![Generated GIF](output.gif?raw=true&v=1704119629)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These eclipse-themed places will experience totality on April 8, 2024**
+**How OG Anunoby fits with Knicks, what’s next for Immanuel Quickley and RJ Barrett**
 
-You can read more about it [here](https://www.space.com/eclipse-themed-places-on-path-totality-april-2024).
+You can read more about it [here](https://theathletic.com/5170554/2023/12/31/og-anunoby-knicks-immanuel-quickley-rj-barrett-raptors/).
 
 ## Requirements
 - Python 3.8
