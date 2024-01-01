@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704135890)
+![Generated GIF](output.gif?raw=true&v=1704137627)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**These eclipse-themed places will experience totality on April 8, 2024**
+**Hypoallergenic powdered infant formula recalled over bacteria contamination**
 
-You can read more about it [here](https://www.space.com/eclipse-themed-places-on-path-totality-april-2024).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/hypoallergenic-powdered-infant-formula-bacteria-contamination).
 
 ## Requirements
 - Python 3.8
