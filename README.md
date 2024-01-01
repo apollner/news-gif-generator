@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704150428)
+![Generated GIF](output.gif?raw=true&v=1704152042)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**So much for 'the January effect': Here are five things that could interrupt the U.S. stock market rally in early 2024.**
+**4 dead, 2 injured after Northfield Township house explosion Saturday**
 
-You can read more about it [here](https://www.marketwatch.com/story/so-much-for-the-january-effect-here-are-five-things-that-could-interrupt-the-u-s-stock-market-rally-in-early-2024-d4a3282b).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/2023/12/31/northfield-township-house-explosion-update/72067791007/).
 
 ## Requirements
 - Python 3.8
