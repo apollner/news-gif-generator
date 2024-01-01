@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704103762)
+![Generated GIF](output.gif?raw=true&v=1704105376)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4 dead, 2 injured in Whitmore Lake house explosion**
+**North Korea will launch three more spy satellites in 2024, Kim says**
 
-You can read more about it [here](https://www.fox2detroit.com/news/4-dead-2-injured-in-whitmore-lake-house-explosion).
+You can read more about it [here](https://apnews.com/article/north-korea-kim-spy-satellites-nuclear-party-meeting-236fcaee8927d8f69359b45aaa88e2c0).
 
 ## Requirements
 - Python 3.8
