@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704078610)
+![Generated GIF](output.gif?raw=true&v=1704080029)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**CDC data: Covid-vaccinated kids more likely to be hospitalized for respiratory illness**
+**Beltrami County Sheriff restricts access to Upper Red Lake**
 
-You can read more about it [here](https://sharylattkisson.com/2023/12/cdc-study-covid-vaccinated-kids-more-likely-to-be-hospitalized-for-respiratory-illness/).
+You can read more about it [here](https://www.kare11.com/article/news/local/upper-red-lake-fishermen-stranded-ice-warning-beltrami-county-sheriff/89-eb4da1ef-7e9c-4ff2-9071-1cda0b1e1d4e).
 
 ## Requirements
 - Python 3.8
