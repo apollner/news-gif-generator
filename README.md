@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704144815)
+![Generated GIF](output.gif?raw=true&v=1704146788)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**So much for 'the January effect': Here are five things that could interrupt the U.S. stock market rally in early 2024.**
+**US Navy helicopters fire at Yemen's Houthi rebels and kill several in latest Red Sea shipping attack**
 
-You can read more about it [here](https://www.marketwatch.com/story/so-much-for-the-january-effect-here-are-five-things-that-could-interrupt-the-u-s-stock-market-rally-in-early-2024-d4a3282b).
+You can read more about it [here](https://apnews.com/article/yemen-houthis-red-sea-shipping-centcom-us-bb70acea5062a9952a5b983ecc047863).
 
 ## Requirements
 - Python 3.8
