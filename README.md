@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704143177)
+![Generated GIF](output.gif?raw=true&v=1704144815)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia retaliates against Ukraine after 24 killed in border city**
+**So much for 'the January effect': Here are five things that could interrupt the U.S. stock market rally in early 2024.**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/europe/russia-strikes-kharkiv-after-belgorod-attack/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/so-much-for-the-january-effect-here-are-five-things-that-could-interrupt-the-u-s-stock-market-rally-in-early-2024-d4a3282b).
 
 ## Requirements
 - Python 3.8
