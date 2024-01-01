@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704080029)
+![Generated GIF](output.gif?raw=true&v=1704082235)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Beltrami County Sheriff restricts access to Upper Red Lake**
+**How China talked markets out of a run on the yuan**
 
-You can read more about it [here](https://www.kare11.com/article/news/local/upper-red-lake-fishermen-stranded-ice-warning-beltrami-county-sheriff/89-eb4da1ef-7e9c-4ff2-9071-1cda0b1e1d4e).
+You can read more about it [here](https://www.reuters.com/markets/currencies/how-china-talked-markets-out-run-yuan-2023-12-30/).
 
 ## Requirements
 - Python 3.8
