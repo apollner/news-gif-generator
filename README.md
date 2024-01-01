@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704087248)
+![Generated GIF](output.gif?raw=true&v=1704089496)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Shelling kills 21 in Russia's city of Belgorod, including 3 children, following Moscow's aerial attacks across Ukraine**
+**Detroit Lions vs. Dallas Cowboys: Game recap, highlights**
 
-You can read more about it [here](https://www.cbsnews.com/news/shelling-multiple-fatalities-including-children-belgorod-russian-border-city/).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2023/12/30/detroit-lions-dallas-cowboys-score-live-updates-game-highlights/72067985007/).
 
 ## Requirements
 - Python 3.8
