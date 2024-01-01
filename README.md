@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704077150)
+![Generated GIF](output.gif?raw=true&v=1704078610)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Raptors trade OG Anunoby to Knicks for package that includes RJ Barrett, Immanuel Quickley**
+**CDC data: Covid-vaccinated kids more likely to be hospitalized for respiratory illness**
 
-You can read more about it [here](https://sports.yahoo.com/raptors-trade-og-anunoby-to-knicks-for-package-that-includes-rj-barrett-immanuel-quickley-172801076.html).
+You can read more about it [here](https://sharylattkisson.com/2023/12/cdc-study-covid-vaccinated-kids-more-likely-to-be-hospitalized-for-respiratory-illness/).
 
 ## Requirements
 - Python 3.8
