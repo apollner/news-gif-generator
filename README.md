@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704116017)
+![Generated GIF](output.gif?raw=true&v=1704118055)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ukraine war: Russia hits back after Kyiv attack on border city**
+**These eclipse-themed places will experience totality on April 8, 2024**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67851431).
+You can read more about it [here](https://www.space.com/eclipse-themed-places-on-path-totality-april-2024).
 
 ## Requirements
 - Python 3.8
