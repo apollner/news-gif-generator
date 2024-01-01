@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704082235)
+![Generated GIF](output.gif?raw=true&v=1704083725)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How China talked markets out of a run on the yuan**
+**Detroit Lions vs. Dallas Cowboys: Game recap, highlights**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/how-china-talked-markets-out-run-yuan-2023-12-30/).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2023/12/30/detroit-lions-dallas-cowboys-score-live-updates-game-highlights/72067985007/).
 
 ## Requirements
 - Python 3.8
