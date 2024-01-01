@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704127053)
+![Generated GIF](output.gif?raw=true&v=1704128784)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A year of discovery**
+**Dave Chappelle’s Obsession With Mocking Trans People Continues in New Netflix Special ‘The Dreamer’: ‘I Love Punching Down’**
 
-You can read more about it [here](https://www.axios.com/2023/12/31/science-2023-discovery-ai-space-brain-maps).
+You can read more about it [here](https://variety.com/2023/tv/news/dave-chappelle-the-dreamer-netflix-trans-jokes-1235852073/).
 
 ## Requirements
 - Python 3.8
