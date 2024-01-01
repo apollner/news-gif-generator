@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704148418)
+![Generated GIF](output.gif?raw=true&v=1704150428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 big things before Packers' playoff-like matchup with Vikings**
+**So much for 'the January effect': Here are five things that could interrupt the U.S. stock market rally in early 2024.**
 
-You can read more about it [here](https://packerswire.usatoday.com/lists/3-big-things-before-packers-playoff-like-matchup-with-vikings/).
+You can read more about it [here](https://www.marketwatch.com/story/so-much-for-the-january-effect-here-are-five-things-that-could-interrupt-the-u-s-stock-market-rally-in-early-2024-d4a3282b).
 
 ## Requirements
 - Python 3.8
