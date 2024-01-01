@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704074255)
+![Generated GIF](output.gif?raw=true&v=1704076095)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jack Smith disputes Trump's presidential immunity claim in appeals court**
+**Israel-Hamas war will go on for "many more months," Netanyahu says**
 
-You can read more about it [here](https://www.foxnews.com/politics/jack-smith-disputes-trumps-presidential-immunity-claim-appeals-court-report).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-will-go-on-for-many-more-months-netanyahu-says/).
 
 ## Requirements
 - Python 3.8
