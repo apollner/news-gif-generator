@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704092910)
+![Generated GIF](output.gif?raw=true&v=1704094428)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about Iowa's school book ban halted by a judge**
+**Health officials: Cases of whooping cough on the rise on Long Island**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/what-to-know-about-iowas-ban-on-school-books-lgbtq-topics-halted-by-a-judge).
+You can read more about it [here](https://longisland.news12.com/health-officials-cases-of-whooping-cough-on-the-rise-on-long-island).
 
 ## Requirements
 - Python 3.8
