@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704083725)
+![Generated GIF](output.gif?raw=true&v=1704085797)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Detroit Lions vs. Dallas Cowboys: Game recap, highlights**
+**Kirby Smart laments FSU opt-outs after Georgia's Orange Bowl rout**
 
-You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2023/12/30/detroit-lions-dallas-cowboys-score-live-updates-game-highlights/72067985007/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39212869/kirby-smart-laments-fsu-opt-outs-georgia-orange-bowl-rout).
 
 ## Requirements
 - Python 3.8
