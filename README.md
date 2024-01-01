@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704085797)
+![Generated GIF](output.gif?raw=true&v=1704087248)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kirby Smart laments FSU opt-outs after Georgia's Orange Bowl rout**
+**Shelling kills 21 in Russia's city of Belgorod, including 3 children, following Moscow's aerial attacks across Ukraine**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39212869/kirby-smart-laments-fsu-opt-outs-georgia-orange-bowl-rout).
+You can read more about it [here](https://www.cbsnews.com/news/shelling-multiple-fatalities-including-children-belgorod-russian-border-city/).
 
 ## Requirements
 - Python 3.8
