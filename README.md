@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704107184)
+![Generated GIF](output.gif?raw=true&v=1704108858)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese military purge exposes weakness, could widen**
+**Maine state official who removed Trump from ballot was targeted in swatting call at her home**
 
-You can read more about it [here](https://www.reuters.com/world/china/sweeping-chinese-military-purge-exposes-weakness-could-widen-2023-12-30/).
+You can read more about it [here](https://apnews.com/article/maine-trump-ballot-swatting-08f1d0e39ee7b111d51045bb9ea48094).
 
 ## Requirements
 - Python 3.8
