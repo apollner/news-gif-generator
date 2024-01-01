@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704123282)
+![Generated GIF](output.gif?raw=true&v=1704125370)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Space photo of the week: Uranus 'rings' in the New Year in stunning James Webb telescope image**
+**Four years on, long covid still confounds us. Here's what we now know.**
 
-You can read more about it [here](https://www.livescience.com/space/uranus/space-photo-of-the-week-webb-reveals-ice-giant-uranus-in-exquisite-new-detail).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/31/long-covid-symptoms-treatment-research/).
 
 ## Requirements
 - Python 3.8
