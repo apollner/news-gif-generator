@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704128784)
+![Generated GIF](output.gif?raw=true&v=1704130472)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dave Chappelle’s Obsession With Mocking Trans People Continues in New Netflix Special ‘The Dreamer’: ‘I Love Punching Down’**
+**5 policy shifts that can change the way you save for retirement in 2024**
 
-You can read more about it [here](https://variety.com/2023/tv/news/dave-chappelle-the-dreamer-netflix-trans-jokes-1235852073/).
+You can read more about it [here](https://www.cnbc.com/2023/12/31/secure-2point0-changes-coming-for-retirement-savers-in-2024.html).
 
 ## Requirements
 - Python 3.8
