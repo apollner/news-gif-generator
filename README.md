@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704113292)
+![Generated GIF](output.gif?raw=true&v=1704114586)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Refs' wild penalty call on Lions' two-point try affects 49ers' playoff picture**
+**Laws banning semi-automatic weapons and library censorship to take effect in Illinois**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/lions-cowboys-two-point-try-controversial/1686233/).
+You can read more about it [here](https://apnews.com/article/illinois-new-laws-semiautomatic-weapons-book-bans-11da6aa9f9e895cab07ad04e22c39b47).
 
 ## Requirements
 - Python 3.8
