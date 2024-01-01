@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704137627)
+![Generated GIF](output.gif?raw=true&v=1704139713)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hypoallergenic powdered infant formula recalled over bacteria contamination**
+**Humanitarian crisis worsens in Gaza as Israel-Hamas war rages: live updates**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/hypoallergenic-powdered-infant-formula-bacteria-contamination).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-31-23/index.html).
 
 ## Requirements
 - Python 3.8
