@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704065638)
+![Generated GIF](output.gif?raw=true&v=1704069367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gypsy Rose Blanchard posts ‘first selfie of freedom’ after release from prison**
+**McDonald's Malaysia sues pro-Palestinian group for Israel boycott: report**
 
-You can read more about it [here](https://ktla.com/news/gypsy-rose-blanchard-posts-first-selfie-of-freedom-after-release-from-prison/).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-world/mcdonalds-malaysia-sues-pro-palestine-group-for-boycott-report).
 
 ## Requirements
 - Python 3.8
