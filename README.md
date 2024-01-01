@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704091075)
+![Generated GIF](output.gif?raw=true&v=1704092910)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Greensboro officer killed, officials looking for 2 suspects**
+**What to know about Iowa's school book ban halted by a judge**
 
-You can read more about it [here](https://www.wxii12.com/article/greensboro-watch-commander-officer-killed-officials-looking-2-suspects/46256577).
+You can read more about it [here](https://www.pbs.org/newshour/show/what-to-know-about-iowas-ban-on-school-books-lgbtq-topics-halted-by-a-judge).
 
 ## Requirements
 - Python 3.8
