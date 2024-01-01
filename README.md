@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704100141)
+![Generated GIF](output.gif?raw=true&v=1704101620)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**LG says its new 4K laser projector is a 'stylish art object'**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
