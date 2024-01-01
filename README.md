@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704076095)
+![Generated GIF](output.gif?raw=true&v=1704077150)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas war will go on for "many more months," Netanyahu says**
+**Raptors trade OG Anunoby to Knicks for package that includes RJ Barrett, Immanuel Quickley**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-will-go-on-for-many-more-months-netanyahu-says/).
+You can read more about it [here](https://sports.yahoo.com/raptors-trade-og-anunoby-to-knicks-for-package-that-includes-rj-barrett-immanuel-quickley-172801076.html).
 
 ## Requirements
 - Python 3.8
