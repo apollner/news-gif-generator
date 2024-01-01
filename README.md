@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704111194)
+![Generated GIF](output.gif?raw=true&v=1704113292)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New Zealand's Auckland is the first major city to ring in 2024**
+**Refs' wild penalty call on Lions' two-point try affects 49ers' playoff picture**
 
-You can read more about it [here](https://apnews.com/article/times-square-new-years-eve-ball-drop-17154156831f22b2354b82688d4272af).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/lions-cowboys-two-point-try-controversial/1686233/).
 
 ## Requirements
 - Python 3.8
