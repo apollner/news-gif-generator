@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704108858)
+![Generated GIF](output.gif?raw=true&v=1704111194)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Maine state official who removed Trump from ballot was targeted in swatting call at her home**
+**New Zealand's Auckland is the first major city to ring in 2024**
 
-You can read more about it [here](https://apnews.com/article/maine-trump-ballot-swatting-08f1d0e39ee7b111d51045bb9ea48094).
+You can read more about it [here](https://apnews.com/article/times-square-new-years-eve-ball-drop-17154156831f22b2354b82688d4272af).
 
 ## Requirements
 - Python 3.8
