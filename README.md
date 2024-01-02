@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704166410)
+![Generated GIF](output.gif?raw=true&v=1704168604)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Actor Ian Ziering takes beating from mini-bikers in Hollywood**
+**Carolina Panthers owner David Tepper appears to toss drink at Jacksonville fans during his team’s loss**
 
-You can read more about it [here](https://ktla.com/news/local-news/actor-ian-ziering-takes-beating-from-mini-bike-riders-in-hollywood/).
+You can read more about it [here](https://www.cnn.com/2023/12/31/sport/nfl-carolina-panthers-david-tepper-video-drink-toss-spt/index.html).
 
 ## Requirements
 - Python 3.8
