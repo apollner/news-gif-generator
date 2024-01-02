@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704234817)
+![Generated GIF](output.gif?raw=true&v=1704236816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mike Tomlin makes potentially seismic decision of Mason Rudolph over healthy Kenny Pickett**
+**Israel Supreme Court strikes down judicial reforms**
 
-You can read more about it [here](https://triblive.com/sports/mike-tomlin-makes-potentially-seismic-decision-of-mason-rudolph-over-a-healthy-kenny-pickett/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67859177).
 
 ## Requirements
 - Python 3.8
