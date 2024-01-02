@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704162202)
+![Generated GIF](output.gif?raw=true&v=1704163286)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Reckitt/Mead Johnson voluntarily recalls specialty infant formula due to possible bacterial infection**
+**Justice Thomas should 'absolutely' recuse himself from Trump ballot access decision: Dem lawmaker**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/business/reckitt-mead-johnson-recalls-specialty-infant-formula/index.html).
+You can read more about it [here](https://www.foxnews.com/media/justice-thomas-absolutely-recuse-himself-trump-ballot-access-decision-dem-rep).
 
 ## Requirements
 - Python 3.8
