@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704152042)
+![Generated GIF](output.gif?raw=true&v=1704155524)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**4 dead, 2 injured after Northfield Township house explosion Saturday**
+**Box Office: ‘Wonka’ Leads New Year’s Waltz as ‘Aquaman 2’ Continues to Sink**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2023/12/31/northfield-township-house-explosion-update/72067791007/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/wonka-box-office-aquaman-new-years-1235776921/).
 
 ## Requirements
 - Python 3.8
