@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704179344)
+![Generated GIF](output.gif?raw=true&v=1704180827)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Anderson Cooper Does Tequila Shots On Live TV, Immediately Regrets It**
+**[Removed]**
 
-You can read more about it [here](https://www.huffpost.com/entry/anderson-cooper-tequila-shot-new-years-eve_n_6592295ee4b0bf73e176d9a9).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
