@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704163286)
+![Generated GIF](output.gif?raw=true&v=1704164948)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Justice Thomas should 'absolutely' recuse himself from Trump ballot access decision: Dem lawmaker**
+**Powerball climbs to $810 million after no jackpot winner Saturday**
 
-You can read more about it [here](https://www.foxnews.com/media/justice-thomas-absolutely-recuse-himself-trump-ballot-access-decision-dem-rep).
+You can read more about it [here](https://abcnews.go.com/US/powerball-jackpot-rises-765-million-after-winners-wednesday/story?id=106009725).
 
 ## Requirements
 - Python 3.8
