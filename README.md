@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704175854)
+![Generated GIF](output.gif?raw=true&v=1704177347)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**Sunday Night Football: Jordan Love throws three TDs, Packers beat Vikings 33-10**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jordan-love-throws-three-tds-packers-beat-vikings-33-10).
 
 ## Requirements
 - Python 3.8
