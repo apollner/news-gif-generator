@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704201002)
+![Generated GIF](output.gif?raw=true&v=1704202419)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea's Kim orders military to 'thoroughly annihilate' US, South Korea if provoked**
+**What's open and closed on New Year's Day 2024**
 
-You can read more about it [here](https://apnews.com/article/north-korea-kim-us-missiles-nuclear-6c8834f71ac43bb9d0addc404fe00f18).
+You can read more about it [here](https://abc11.com/new-years-eve-day-whats-open-store-hours/14245224/).
 
 ## Requirements
 - Python 3.8
