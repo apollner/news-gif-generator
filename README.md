@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704155524)
+![Generated GIF](output.gif?raw=true&v=1704159605)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Box Office: ‘Wonka’ Leads New Year’s Waltz as ‘Aquaman 2’ Continues to Sink**
+**Actor Ian Ziering takes beating from mini-bikers in Hollywood**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/wonka-box-office-aquaman-new-years-1235776921/).
+You can read more about it [here](https://ktla.com/news/local-news/actor-ian-ziering-takes-beating-from-mini-bike-riders-in-hollywood/).
 
 ## Requirements
 - Python 3.8
