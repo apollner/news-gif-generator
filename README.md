@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704195214)
+![Generated GIF](output.gif?raw=true&v=1704197618)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Horoscope for Monday, Jan. 1, 2024**
+**Galaxy S24 hinted to feature an AI Photo Editor similar to Pixel 8's Magic Eraser - SamMobile**
 
-You can read more about it [here](https://chicago.suntimes.com/2024/1/1/24016948/horoscopes-today-monday-jan-1-2024).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-hinted-to-feature-an-ai-photo-editor-similar-to-pixel-8s-magic-eraser/).
 
 ## Requirements
 - Python 3.8
