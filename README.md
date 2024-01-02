@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704202419)
+![Generated GIF](output.gif?raw=true&v=1704204464)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What's open and closed on New Year's Day 2024**
+**42 percent higher dementia risk linked to ‘good cholesterol’**
 
-You can read more about it [here](https://abc11.com/new-years-eve-day-whats-open-store-hours/14245224/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/01/good-cholesterol-hdl-dementia-aging/).
 
 ## Requirements
 - Python 3.8
