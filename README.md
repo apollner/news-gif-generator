@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704168604)
+![Generated GIF](output.gif?raw=true&v=1704170173)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carolina Panthers owner David Tepper appears to toss drink at Jacksonville fans during his team’s loss**
+**Masimo CEO on why he's spending over $100 million to fight Apple: 'It might change Apple for the better'**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/sport/nfl-carolina-panthers-david-tepper-video-drink-toss-spt/index.html).
+You can read more about it [here](https://9to5mac.com/2023/12/31/masimo-ceo-interview-apple-watch-ban/).
 
 ## Requirements
 - Python 3.8
