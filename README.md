@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704219042)
+![Generated GIF](output.gif?raw=true&v=1704220507)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Putin vows to ‘intensify’ strikes on Ukraine after deadly Belgorod attack**
+**Housing market predictions: Six experts weigh in on the real estate outlook in 2024**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/1/putin-vows-to-intensify-strikes-on-ukraine-after-deadly-belgorod-attack).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/01/01/housing-market-projection-real-estate-2024/72046015007/).
 
 ## Requirements
 - Python 3.8
