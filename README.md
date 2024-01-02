@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704204464)
+![Generated GIF](output.gif?raw=true&v=1704206024)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**42 percent higher dementia risk linked to ‘good cholesterol’**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/01/good-cholesterol-hdl-dementia-aging/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
