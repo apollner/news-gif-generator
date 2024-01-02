@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704188066)
+![Generated GIF](output.gif?raw=true&v=1704190152)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Danish Queen Margrethe announces surprise abdication after 52 years on the throne**
+**Galaxy S24 hinted to feature an AI Photo Editor similar to Pixel 8's Magic Eraser - SamMobile**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/europe/queen-margrethe-denmark-abdication-intl/index.html).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-hinted-to-feature-an-ai-photo-editor-similar-to-pixel-8s-magic-eraser/).
 
 ## Requirements
 - Python 3.8
