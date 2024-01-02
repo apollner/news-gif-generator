@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704190152)
+![Generated GIF](output.gif?raw=true&v=1704191756)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S24 hinted to feature an AI Photo Editor similar to Pixel 8's Magic Eraser - SamMobile**
+**North Korea's Kim orders military to 'thoroughly annihilate' US, South Korea if provoked**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-hinted-to-feature-an-ai-photo-editor-similar-to-pixel-8s-magic-eraser/).
+You can read more about it [here](https://apnews.com/article/north-korea-kim-us-missiles-nuclear-6c8834f71ac43bb9d0addc404fe00f18).
 
 ## Requirements
 - Python 3.8
