@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704170173)
+![Generated GIF](output.gif?raw=true&v=1704172064)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Masimo CEO on why he's spending over $100 million to fight Apple: 'It might change Apple for the better'**
+**US sinks 3 ships, kills 10 after Houthi Red Sea attack**
 
-You can read more about it [here](https://9to5mac.com/2023/12/31/masimo-ceo-interview-apple-watch-ban/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/maersk-pauses-red-sea-sailings-after-houthi-attack-container-ship-2023-12-31/).
 
 ## Requirements
 - Python 3.8
