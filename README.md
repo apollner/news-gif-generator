@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704236816)
+![Generated GIF](output.gif?raw=true&v=1704238484)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel Supreme Court strikes down judicial reforms**
+**Japan earthquake triggers tsunami warnings and evacuation orders**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67859177).
+You can read more about it [here](https://www.cnn.com/2024/01/01/asia/japan-earthquake-tsunami-warning-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
