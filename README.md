@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704186518)
+![Generated GIF](output.gif?raw=true&v=1704188066)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Massachusetts man says his wife died from Legionnaires' disease after stay at White Mountain hotel**
+**Danish Queen Margrethe announces surprise abdication after 52 years on the throne**
 
-You can read more about it [here](https://www.wmur.com/article/mass-man-says-wife-dies-legionnaires-disease-new-hampshire/46258638).
+You can read more about it [here](https://www.cnn.com/2023/12/31/europe/queen-margrethe-denmark-abdication-intl/index.html).
 
 ## Requirements
 - Python 3.8
