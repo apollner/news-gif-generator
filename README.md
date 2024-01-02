@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704184611)
+![Generated GIF](output.gif?raw=true&v=1704186518)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US sinks 3 ships, kills 10 after Houthi Red Sea attack**
+**Massachusetts man says his wife died from Legionnaires' disease after stay at White Mountain hotel**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/maersk-pauses-red-sea-sailings-after-houthi-attack-container-ship-2023-12-31/).
+You can read more about it [here](https://www.wmur.com/article/mass-man-says-wife-dies-legionnaires-disease-new-hampshire/46258638).
 
 ## Requirements
 - Python 3.8
