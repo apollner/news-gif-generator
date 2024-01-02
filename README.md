@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704233195)
+![Generated GIF](output.gif?raw=true&v=1704234817)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Packers PFF grades: Best, worst players from Week 17 vs. Vikings**
+**Mike Tomlin makes potentially seismic decision of Mason Rudolph over healthy Kenny Pickett**
 
-You can read more about it [here](https://packerswire.usatoday.com/lists/packers-pff-grades-best-worst-players-from-week-17-vs-vikings-2/).
+You can read more about it [here](https://triblive.com/sports/mike-tomlin-makes-potentially-seismic-decision-of-mason-rudolph-over-a-healthy-kenny-pickett/).
 
 ## Requirements
 - Python 3.8
