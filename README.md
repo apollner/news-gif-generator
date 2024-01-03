@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704287430)
+![Generated GIF](output.gif?raw=true&v=1704288826)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Heisman or not, Michael Penix Jr. cemented his legacy in the CFP semifinal**
+**Fighting in southern Gaza city after Israel says it is pulling thousands of troops from other areas**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39225154/college-football-playoff-washington-michael-penix-jr-dominant-sugar-bowl).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-02-2024-08e0eeee96bfc559a2390c60c7db351b).
 
 ## Requirements
 - Python 3.8
