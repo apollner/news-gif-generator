@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704260040)
+![Generated GIF](output.gif?raw=true&v=1704262245)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Powerful earthquakes along Japan's western coast leave multiple people dead**
+**See the EVs that still qualify for a $7,500 federal tax credit**
 
-You can read more about it [here](https://www.npr.org/2024/01/01/1222428476/japan-earthquakes-people-dead).
+You can read more about it [here](https://www.businessinsider.com/list-evs-electric-cars-qualify-for-federal-tax-credit-2024-1).
 
 ## Requirements
 - Python 3.8
