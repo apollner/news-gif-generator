@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704262245)
+![Generated GIF](output.gif?raw=true&v=1704263756)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See the EVs that still qualify for a $7,500 federal tax credit**
+**RJ Barrett on Being Traded to His Hometown of Toronto: 'I grew up a Raptors fan'**
 
-You can read more about it [here](https://www.businessinsider.com/list-evs-electric-cars-qualify-for-federal-tax-credit-2024-1).
+You can read more about it [here](https://www.youtube.com/watch?v=vlHcT88dIx4).
 
 ## Requirements
 - Python 3.8
