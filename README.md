@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704323342)
+![Generated GIF](output.gif?raw=true&v=1704324816)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump, Haley and DeSantis qualify for CNN Iowa debate**
+**Vizio settles for $3M after saying 60 Hz TVs had 120 Hz “effective refresh rate”**
 
-You can read more about it [here](https://www.cnn.com/2024/01/02/politics/cnn-iowa-debate-qualified/index.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/01/vizio-settles-for-3m-after-saying-60-hz-tvs-had-120-hz-effective-refresh-rate/).
 
 ## Requirements
 - Python 3.8
