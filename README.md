@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704310467)
+![Generated GIF](output.gif?raw=true&v=1704312597)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What to know about the economy in 2024**
+**Patriots' Bill Belichick focused on Jets, not job security**
 
-You can read more about it [here](https://www.axios.com/2024/01/02/mega-economy-themes-to-watch-in-24).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39229419/patriots-bill-belichick-focused-jets-not-job-security).
 
 ## Requirements
 - Python 3.8
