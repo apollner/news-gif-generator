@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704303224)
+![Generated GIF](output.gif?raw=true&v=1704305426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**NFL Power Rankings Week 18: Dolphins in a rough spot going into huge season finale**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/nfl-power-rankings-week-18-dolphins-in-a-rough-spot-going-into-huge-season-finale-043130004.html).
 
 ## Requirements
 - Python 3.8
