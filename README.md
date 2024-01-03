@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704252824)
+![Generated GIF](output.gif?raw=true&v=1704255050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chinese factory activity slows in December in a 3rd straight month of contraction**
+**‘Finally free:’ Gypsy Rose Blanchard has busy first week after release**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/chinas-manufacturing-activity-slows-december-latest-sign-economy-106028366).
+You can read more about it [here](https://www.newsnationnow.com/us-news/mid-south/gypsy-rose-blanchard-speaks-out-after-release/).
 
 ## Requirements
 - Python 3.8
