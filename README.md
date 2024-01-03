@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704296020)
+![Generated GIF](output.gif?raw=true&v=1704298223)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan earthquakes: At least 55 dead. Follow latest updates**
+**Israel's Supreme Court deals Netanyahu a political blow as Israeli military starts moving troops out of Gaza**
 
-You can read more about it [here](https://apnews.com/article/japan-earthquake-tsunami-western-coast-1efa06adb0ac8d72165890087b4c36cb).
+You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-benjamin-netanyahu-supreme-court-judicial-overhaul-ruling/).
 
 ## Requirements
 - Python 3.8
