@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704298223)
+![Generated GIF](output.gif?raw=true&v=1704302449)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel's Supreme Court deals Netanyahu a political blow as Israeli military starts moving troops out of Gaza**
+**South Korean opposition leader stabbed in the neck**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-benjamin-netanyahu-supreme-court-judicial-overhaul-ruling/).
+You can read more about it [here](https://www.politico.com/news/2024/01/02/south-korea-leader-stabbing-00133422).
 
 ## Requirements
 - Python 3.8
