@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704316119)
+![Generated GIF](output.gif?raw=true&v=1704317645)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan plane crash: Five crewmembers dead, hundreds evacuated safely**
+**NASA flies extremely close by volcano world, captures wild footage**
 
-You can read more about it [here](https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016).
+You can read more about it [here](https://mashable.com/article/io-moon-nasa-images-closest-footage-images).
 
 ## Requirements
 - Python 3.8
