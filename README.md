@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704302449)
+![Generated GIF](output.gif?raw=true&v=1704303224)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Korean opposition leader stabbed in the neck**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/02/south-korea-leader-stabbing-00133422).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
