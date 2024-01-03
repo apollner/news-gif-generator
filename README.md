@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704249626)
+![Generated GIF](output.gif?raw=true&v=1704251378)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live: Sugar Bowl 2024: Live updates, score, how to watch UW-Texas College Football Playoff semifinal**
+**Gender-neutral toy aisles, blackout license plates, anti-book bans: New laws for 2024**
 
-You can read more about it [here](https://www.seattletimes.com/sports/uw-husky-football/sugar-bowl-2024-live-updates-score-how-to-watch-uw-texas-college-football-playoff-semifinal/).
+You can read more about it [here](https://www.axios.com/2024/01/01/new-state-laws-for-2024).
 
 ## Requirements
 - Python 3.8
