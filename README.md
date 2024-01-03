@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704256487)
+![Generated GIF](output.gif?raw=true&v=1704258493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The USS Gerald R. Ford aircraft carrier is returning home after extended deployment defending Israel**
+**Some Quick Facts About Today's Rose Bowl Game: Way More Than You'll Need – Pasadena Now**
 
-You can read more about it [here](https://apnews.com/article/uss-gerald-r-ford-aircraft-carrier-israel-20fb033f78bfd37fb4b0cf1df468a731).
+You can read more about it [here](https://www.pasadenanow.com/main/some-quick-facts-about-todays-rose-bowl-game-way-more-than-youll-need).
 
 ## Requirements
 - Python 3.8
