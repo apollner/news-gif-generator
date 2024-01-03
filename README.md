@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704267231)
+![Generated GIF](output.gif?raw=true&v=1704269445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party**
+**The Handmaid's Tale Star Yvonne Strahovski Gives Birth to Baby No. 3**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html).
+You can read more about it [here](https://www.eonline.com/news/1392244/the-handmaids-tale-star-yvonne-strahovski-gives-birth-to-baby-no-3).
 
 ## Requirements
 - Python 3.8
