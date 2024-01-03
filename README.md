@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704265611)
+![Generated GIF](output.gif?raw=true&v=1704267231)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**USS Gerald R. Ford aircraft carrier heads home after standing guard near Israel following Oct. 7 attack**
+**Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party**
 
-You can read more about it [here](https://www.foxnews.com/us/uss-gerald-r-ford-aircraft-carrier-heads-home-standing-guard-israel-attack).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html).
 
 ## Requirements
 - Python 3.8
