@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704279935)
+![Generated GIF](output.gif?raw=true&v=1704281626)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party**
+**Galaxy S24 Ultra leaks via marketing posters in Brazil, reveals Galaxy AI - SamMobile**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-ultra-leaks-marketing-posters-brazil/).
 
 ## Requirements
 - Python 3.8
