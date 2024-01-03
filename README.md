@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704317645)
+![Generated GIF](output.gif?raw=true&v=1704319635)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA flies extremely close by volcano world, captures wild footage**
+**Epic Games Store Free Mystery Game for January 2 Revealed**
 
-You can read more about it [here](https://mashable.com/article/io-moon-nasa-images-closest-footage-images).
+You can read more about it [here](https://gamerant.com/epic-games-store-free-mystery-right-now-january-2024-20-minutes-dawn/).
 
 ## Requirements
 - Python 3.8
