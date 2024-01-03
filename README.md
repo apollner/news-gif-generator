@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704255050)
+![Generated GIF](output.gif?raw=true&v=1704256487)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Finally free:’ Gypsy Rose Blanchard has busy first week after release**
+**The USS Gerald R. Ford aircraft carrier is returning home after extended deployment defending Israel**
 
-You can read more about it [here](https://www.newsnationnow.com/us-news/mid-south/gypsy-rose-blanchard-speaks-out-after-release/).
+You can read more about it [here](https://apnews.com/article/uss-gerald-r-ford-aircraft-carrier-israel-20fb033f78bfd37fb4b0cf1df468a731).
 
 ## Requirements
 - Python 3.8
