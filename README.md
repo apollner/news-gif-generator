@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704281626)
+![Generated GIF](output.gif?raw=true&v=1704283992)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Galaxy S24 Ultra leaks via marketing posters in Brazil, reveals Galaxy AI - SamMobile**
+**First winning Powerball lottery numbers of the year drawn as jackpot topped $842.4M**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-ultra-leaks-marketing-posters-brazil/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/first-winning-powerball-lottery-numbers-year-drawn-jackpot-topped-810m).
 
 ## Requirements
 - Python 3.8
