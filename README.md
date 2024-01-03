@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704274431)
+![Generated GIF](output.gif?raw=true&v=1704276545)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**College Football Playoff: Michigan Wolverines and Washington Huskies advance to National Championship**
+**Fighting between Hamas and Israel rages on despite partial troop withdrawal**
 
-You can read more about it [here](https://www.cnn.com/2024/01/01/sport/college-football-playoff-how-to-watch-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israels-aircraft-tanks-step-up-strikes-it-plans-reduce-troops-2024-01-02/).
 
 ## Requirements
 - Python 3.8
