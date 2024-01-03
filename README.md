@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704263756)
+![Generated GIF](output.gif?raw=true&v=1704265611)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**RJ Barrett on Being Traded to His Hometown of Toronto: 'I grew up a Raptors fan'**
+**USS Gerald R. Ford aircraft carrier heads home after standing guard near Israel following Oct. 7 attack**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vlHcT88dIx4).
+You can read more about it [here](https://www.foxnews.com/us/uss-gerald-r-ford-aircraft-carrier-heads-home-standing-guard-israel-attack).
 
 ## Requirements
 - Python 3.8
