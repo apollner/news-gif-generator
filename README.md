@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704286170)
+![Generated GIF](output.gif?raw=true&v=1704287430)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Meta cuts prices for the Quest 2 headset and accessories**
+**Heisman or not, Michael Penix Jr. cemented his legacy in the CFP semifinal**
 
-You can read more about it [here](https://techcrunch.com/2024/01/01/meta-cuts-prices-for-quest-2-headset-and-accessories/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39225154/college-football-playoff-washington-michael-penix-jr-dominant-sugar-bowl).
 
 ## Requirements
 - Python 3.8
