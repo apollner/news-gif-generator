@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704292555)
+![Generated GIF](output.gif?raw=true&v=1704294436)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jeffrey Epstein list: What to expect from court filings unsealed in New York**
+**Rose Bowl: Why Michigan expected Alabama's play-call on last play**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67861498).
+You can read more about it [here](https://www.tuscaloosanews.com/story/sports/college/football/2024/01/02/rose-bowl-michigan-football-jalen-milroe-alabama-play-call-tommy-rees/71987178007/).
 
 ## Requirements
 - Python 3.8
