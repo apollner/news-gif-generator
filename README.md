@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704251378)
+![Generated GIF](output.gif?raw=true&v=1704252824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gender-neutral toy aisles, blackout license plates, anti-book bans: New laws for 2024**
+**Chinese factory activity slows in December in a 3rd straight month of contraction**
 
-You can read more about it [here](https://www.axios.com/2024/01/01/new-state-laws-for-2024).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/chinas-manufacturing-activity-slows-december-latest-sign-economy-106028366).
 
 ## Requirements
 - Python 3.8
