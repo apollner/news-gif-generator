@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704312597)
+![Generated GIF](output.gif?raw=true&v=1704314020)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Patriots' Bill Belichick focused on Jets, not job security**
+**NASA flies extremely close by volcano world, captures wild footage**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39229419/patriots-bill-belichick-focused-jets-not-job-security).
+You can read more about it [here](https://mashable.com/article/io-moon-nasa-images-closest-footage-images).
 
 ## Requirements
 - Python 3.8
