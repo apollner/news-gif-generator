@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704308721)
+![Generated GIF](output.gif?raw=true&v=1704310467)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**See Wild New Close-Up Images of Jupiter's Volcanic Moon Io**
+**What to know about the economy in 2024**
 
-You can read more about it [here](https://gizmodo.com/nasa-juno-jupiter-io-volcanic-moon-images-flyby-1851133393).
+You can read more about it [here](https://www.axios.com/2024/01/02/mega-economy-themes-to-watch-in-24).
 
 ## Requirements
 - Python 3.8
