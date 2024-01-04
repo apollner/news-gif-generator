@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704334928)
+![Generated GIF](output.gif?raw=true&v=1704336048)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**‘Favorable conditions’ for winter storm this weekend in DC area**
+**34 years later, a 13-year-old hits the NES Tetris “kill screen”**
 
-You can read more about it [here](https://wtop.com/local/2024/01/favorable-conditions-for-winter-storm-this-weekend-in-dc-area/).
+You can read more about it [here](https://arstechnica.com/gaming/2024/01/someone-has-finally-beaten-nes-tetris/).
 
 ## Requirements
 - Python 3.8
