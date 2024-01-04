@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704355849)
+![Generated GIF](output.gif?raw=true&v=1704357285)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US slams ‘irresponsible’ calls by Smotrich and Ben Gvir for emigration of Gazans**
+**Global shares lacklustre as rate cut hopes ebb**
 
-You can read more about it [here](https://www.timesofisrael.com/us-slams-irresponsible-calls-by-smotrich-and-ben-gvir-for-emigration-of-gazans/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-03/).
 
 ## Requirements
 - Python 3.8
