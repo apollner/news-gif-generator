@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704382452)
+![Generated GIF](output.gif?raw=true&v=1704384636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nigel Lythgoe sued again over alleged sexual abuse - US media**
+**Ukraine war live updates: Ukraine attacks Russian city of Belgorod and occupied Crimea overnight as retaliatory strikes intensify**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67871451).
+You can read more about it [here](https://www.cnbc.com/2024/01/03/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
