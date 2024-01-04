@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704391813)
+![Generated GIF](output.gif?raw=true&v=1704393320)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Jimmy Kimmel fires back at Aaron Rodgers after comment about release of names of Jeffrey Epstein's alleged associates**
+**Ukraine attacks Russian city of Belgorod and occupied Crimea overnight as retaliatory strikes intensify**
 
-You can read more about it [here](https://www.cbsnews.com/news/jimmy-kimmel-aaron-rodgers-jeffrey-epstein-list/).
+You can read more about it [here](https://www.cnbc.com/2024/01/03/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
