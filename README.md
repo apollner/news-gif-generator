@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704389621)
+![Generated GIF](output.gif?raw=true&v=1704391813)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thousands of doctors in Britain walk off the job in their longest-ever strike**
+**Jimmy Kimmel fires back at Aaron Rodgers after comment about release of names of Jeffrey Epstein's alleged associates**
 
-You can read more about it [here](https://apnews.com/article/uk-doctors-strike-disruption-nhs-a5c550eaa82d22b91805f5e29da047c6).
+You can read more about it [here](https://www.cbsnews.com/news/jimmy-kimmel-aaron-rodgers-jeffrey-epstein-list/).
 
 ## Requirements
 - Python 3.8
