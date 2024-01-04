@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704348643)
+![Generated GIF](output.gif?raw=true&v=1704350257)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Steamboat Willie' Mickey Mouse goes public, spawns horror films**
+**Veteran celebrating 101st birthday says this soda is his secret to longevity**
 
-You can read more about it [here](https://www.latimes.com/entertainment-arts/business/story/2024-01-02/mickey-mouse-public-domain-steamboat-willie-horror-movies).
+You can read more about it [here](https://www.cbsnews.com/news/eugene-petersen-101-years-old-soda-army/).
 
 ## Requirements
 - Python 3.8
