@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704396863)
+![Generated GIF](output.gif?raw=true&v=1704398938)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Health officials are monitoring a triple threat of respiratory illnesses. Here's how to avoid getting sick**
+**Newark imam in critical condition after shooting outside mosque**
 
-You can read more about it [here](https://www.cbsnews.com/news/health-officials-monitoring-a-triple-threat-of-respiratory-illnesses-cdc-covid-rsv-flu/).
+You can read more about it [here](http://www.nbcnewyork.com/news/local/newark-imam-in-critical-condition-after-shooting-near-mosque/5002181/).
 
 ## Requirements
 - Python 3.8
