@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704405969)
+![Generated GIF](output.gif?raw=true&v=1704407667)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia and Ukraine stage major POW exchange after UAE mediation**
+**What we know about a possible East Coast snowstorm this weekend**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-ukraine-stage-big-pow-exchange-after-uae-mediation-2024-01-03/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/01/03/east-coast-weekend-storm-snow/).
 
 ## Requirements
 - Python 3.8
