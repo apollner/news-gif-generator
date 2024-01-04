@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704377209)
+![Generated GIF](output.gif?raw=true&v=1704378870)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Biden campaign running 'like the fate of our democracy depends on it'**
+**Hamas deputy leader Saleh al-Arouri killed in Beirut blast**
 
-You can read more about it [here](https://www.npr.org/2024/01/03/1222585257/biden-campaign-events).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67866346).
 
 ## Requirements
 - Python 3.8
