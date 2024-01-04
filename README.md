@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704357285)
+![Generated GIF](output.gif?raw=true&v=1704359311)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Global shares lacklustre as rate cut hopes ebb**
+**What Is ‘Cyber Kidnapping’? Chinese Exchange Student Latest Victim Of ‘Disturbing’ Trend**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-03/).
+You can read more about it [here](https://www.forbes.com/sites/jamesfarrell/2024/01/02/what-is-cyber-kidnapping-chinese-exchange-student-latest-victim-of-disturbing-trend/).
 
 ## Requirements
 - Python 3.8
