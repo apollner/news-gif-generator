@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704359311)
+![Generated GIF](output.gif?raw=true&v=1704360836)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**What Is ‘Cyber Kidnapping’? Chinese Exchange Student Latest Victim Of ‘Disturbing’ Trend**
+**Caitlin Clark's logo 3-pointer leads Iowa past Michigan St.**
 
-You can read more about it [here](https://www.forbes.com/sites/jamesfarrell/2024/01/02/what-is-cyber-kidnapping-chinese-exchange-student-latest-victim-of-disturbing-trend/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39232582/caitlin-clark-logo-3-pointer-leads-iowa-michigan-st).
 
 ## Requirements
 - Python 3.8
