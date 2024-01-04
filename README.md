@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704344922)
+![Generated GIF](output.gif?raw=true&v=1704346447)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live coverage: SpaceX's first Falcon 9 launch of 2024 to feature first 6 direct-to-cell Starlink satellites – Spaceflight Now**
+**NFL playoffs: What's at stake for spots, seeding and division titles in Week 18?**
 
-You can read more about it [here](https://spaceflightnow.com/2024/01/02/live-coverage-spacexs-first-falcon-9-launch-of-2024-to-feature-first-6-direct-to-cell-starlink-satellites/).
+You can read more about it [here](https://sports.yahoo.com/nfl-playoffs-whats-at-stake-for-spots-seeding-and-division-titles-in-week-18-225611501.html).
 
 ## Requirements
 - Python 3.8
