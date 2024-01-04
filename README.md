@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704363001)
+![Generated GIF](output.gif?raw=true&v=1704364614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Japan quake survivors face freezing rain, threat of landslides**
+**Caitlin Clark's logo 3-pointer leads Iowa past Michigan St.**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-quake-survivors-face-freezing-rain-threat-landslides-2024-01-03/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39232582/caitlin-clark-logo-3-pointer-leads-iowa-michigan-st).
 
 ## Requirements
 - Python 3.8
