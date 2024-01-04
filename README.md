@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704402401)
+![Generated GIF](output.gif?raw=true&v=1704404016)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**A novel antibiotic class targeting the lipopolysaccharide transporter**
+**Oklahoma teenager finally defeats the unbeatable game: Tetris**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06873-0).
+You can read more about it [here](https://www.cnn.com/2024/01/03/tech/oklahoma-teenager-defeats-tetris/index.html).
 
 ## Requirements
 - Python 3.8
