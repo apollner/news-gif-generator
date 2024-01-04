@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704346447)
+![Generated GIF](output.gif?raw=true&v=1704348643)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL playoffs: What's at stake for spots, seeding and division titles in Week 18?**
+**'Steamboat Willie' Mickey Mouse goes public, spawns horror films**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-playoffs-whats-at-stake-for-spots-seeding-and-division-titles-in-week-18-225611501.html).
+You can read more about it [here](https://www.latimes.com/entertainment-arts/business/story/2024-01-02/mickey-mouse-public-domain-steamboat-willie-horror-movies).
 
 ## Requirements
 - Python 3.8
