@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704400428)
+![Generated GIF](output.gif?raw=true&v=1704402401)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Thousands of doctors in Britain walk off the job in their longest-ever strike**
+**A novel antibiotic class targeting the lipopolysaccharide transporter**
 
-You can read more about it [here](https://apnews.com/article/uk-doctors-strike-disruption-nhs-a5c550eaa82d22b91805f5e29da047c6).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06873-0).
 
 ## Requirements
 - Python 3.8
