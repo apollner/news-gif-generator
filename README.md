@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704380951)
+![Generated GIF](output.gif?raw=true&v=1704382452)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Why America's Electric Car Push Isn't Working**
+**Nigel Lythgoe sued again over alleged sexual abuse - US media**
 
-You can read more about it [here](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67871451).
 
 ## Requirements
 - Python 3.8
