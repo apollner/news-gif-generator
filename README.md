@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704337759)
+![Generated GIF](output.gif?raw=true&v=1704339279)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**S&P, Nasdaq begin 2024 with lower close as Apple, big tech weighs**
+**Trump appeals Maine secretary of state's decision barring him from primary ballot**
 
-You can read more about it [here](https://www.reuters.com/markets/us/wall-st-looks-set-subdued-start-2024-apple-dips-2024-01-02/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-maine-appeal-secretary-of-state-2024-ballot/).
 
 ## Requirements
 - Python 3.8
