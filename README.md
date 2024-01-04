@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704328371)
+![Generated GIF](output.gif?raw=true&v=1704332352)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Federal judge dismisses part of suit against Trump over Brian Sicknick, officer who died after Jan. 6 attack**
+**S&P, Nasdaq begin 2024 with lower close as Apple, big tech weighs**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-brian-sicknick-death-lawsuit-january-6/).
+You can read more about it [here](https://www.reuters.com/markets/us/wall-st-looks-set-subdued-start-2024-apple-dips-2024-01-02/).
 
 ## Requirements
 - Python 3.8
