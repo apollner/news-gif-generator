@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704342903)
+![Generated GIF](output.gif?raw=true&v=1704344922)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
+**Live coverage: SpaceX's first Falcon 9 launch of 2024 to feature first 6 direct-to-cell Starlink satellites – Spaceflight Now**
 
-You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
+You can read more about it [here](https://spaceflightnow.com/2024/01/02/live-coverage-spacexs-first-falcon-9-launch-of-2024-to-feature-first-6-direct-to-cell-starlink-satellites/).
 
 ## Requirements
 - Python 3.8
