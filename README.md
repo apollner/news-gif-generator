@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704435038)
+![Generated GIF](output.gif?raw=true&v=1704436685)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**When and where to see the Quadrantids, 2024's first meteor shower**
+**Claudine Gay claims she fell 'victim to well-laid trap' that ended her Harvard presidency**
 
-You can read more about it [here](https://www.cbsnews.com/news/quadrantids-2024-first-meteor-shower-january-peak/).
+You can read more about it [here](https://nypost.com/2024/01/03/news/claudine-gay-says-she-fell-victim-to-well-laid-trap-that-ended-harvard-presidency/).
 
 ## Requirements
 - Python 3.8
