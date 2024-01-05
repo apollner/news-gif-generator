@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704476105)
+![Generated GIF](output.gif?raw=true&v=1704478275)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**8 NFL head coaches who could be fired on Black Monday**
+**Joe Jonas Sparks Romance Rumors with Model Stormi Bree**
 
-You can read more about it [here](https://www.sbnation.com/nfl/2024/1/4/24024759/nfl-coaching-rumors-black-monday-falcons-titans-commanders).
+You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a46284472/joe-jonas-sparks-romance-rumors-stormi-bree/).
 
 ## Requirements
 - Python 3.8
