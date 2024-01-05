@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704422466)
+![Generated GIF](output.gif?raw=true&v=1704424205)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Aaron Rodgers cause headaches for ESPN after his Jimmy Kimmel comment**
+**Al Sharpton blasted for calling Harvard president's resignation an attack on 'every Black woman': 'Go away'**
 
-You can read more about it [here](https://www.businessinsider.com/aaron-rodgers-jimmy-kimmel-jeffrey-epstein-espn-disney-2024-1).
+You can read more about it [here](https://www.foxnews.com/media/al-sharpton-blasted-calling-harvard-president-resignation-attack-black-woman).
 
 ## Requirements
 - Python 3.8
