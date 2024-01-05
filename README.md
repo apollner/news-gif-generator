@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704450949)
+![Generated GIF](output.gif?raw=true&v=1704452775)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Gypsy Rose Blanchard becomes overnight internet star after prison release**
+**Al Sharpton slammed by ex-ESPN host for comments on former Harvard president Claudine Gay: 'Wish he would go away'**
 
-You can read more about it [here](https://www.foxnews.com/us/gypsy-rose-blanchard-becomes-overnight-internet-star-after-prison-release).
+You can read more about it [here](https://nypost.com/2024/01/03/news/al-sharpton-ripped-by-ex-espn-host-sage-steele-for-claudine-gay-comments/).
 
 ## Requirements
 - Python 3.8
