@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704436685)
+![Generated GIF](output.gif?raw=true&v=1704438409)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Claudine Gay claims she fell 'victim to well-laid trap' that ended her Harvard presidency**
+**Mask mandates return at some US hospitals as COVID, flu jump**
 
-You can read more about it [here](https://nypost.com/2024/01/03/news/claudine-gay-says-she-fell-victim-to-well-laid-trap-that-ended-harvard-presidency/).
+You can read more about it [here](https://www.reuters.com/world/us/mask-mandates-return-some-us-hospitals-covid-flu-jump-2024-01-04/).
 
 ## Requirements
 - Python 3.8
