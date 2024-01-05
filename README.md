@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704431296)
+![Generated GIF](output.gif?raw=true&v=1704432868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Fatal shooting of Imam Hassan Sharif outside Newark, N.J. mosque not believed to be bias or domestic terror-related incident, authorities say**
+**Nevada judge attacked by airborne defendant during sentencing in Vegas courtroom**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/newark-new-jersey-shooting-critical-injuries/).
+You can read more about it [here](https://www.politico.com/news/2024/01/04/nevada-judge-attacked-by-airborne-defendant-during-sentencing-in-vegas-courtroom-00133776).
 
 ## Requirements
 - Python 3.8
