@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704414756)
+![Generated GIF](output.gif?raw=true&v=1704418802)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ninety-five killed in bomb blasts near Iran general Qasem Soleimani's tomb - state TV**
+**Florida surgeon general recommends against mRNA COVID shots, cites discredited theory**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67872281).
+You can read more about it [here](https://thehill.com/policy/healthcare/4387662-florida-surgeon-general-recommends-against-mrna-covid-shots-cites-discredited-theory/).
 
 ## Requirements
 - Python 3.8
