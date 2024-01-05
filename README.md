@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704427819)
+![Generated GIF](output.gif?raw=true&v=1704429401)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Russia and Ukraine exchange hundreds of prisoners of war in biggest release so far**
+**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-belgorod-e1fab1a1968fc272fd49687399e4cc78).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
 
 ## Requirements
 - Python 3.8
