@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704496062)
+![Generated GIF](output.gif?raw=true&v=1704497630)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Natalia Grace Takes DNA Test and Her Real Age Is Seemingly Confirmed**
+**Florida surgeon general wants to halt COVID-19 mRNA vaccines; FDA calls his claims "misleading"**
 
-You can read more about it [here](https://www.etonline.com/natalia-grace-takes-dna-test-and-her-real-age-is-seemingly-confirmed-217247).
+You can read more about it [here](https://www.cbsnews.com/news/florida-surgeon-general-covid-vaccines-fda-claims-misleading/).
 
 ## Requirements
 - Python 3.8
