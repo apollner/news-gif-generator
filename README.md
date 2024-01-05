@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704454412)
+![Generated GIF](output.gif?raw=true&v=1704456832)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hedge fund billionaire Bill Ackman takes aim at DEI ‘ideology’ after Harvard president’s resignation, claiming it’s anti-capitalist**
+**Unsealed documents shed light on Jeffrey Epstein's lurid world**
 
-You can read more about it [here](https://fortune.com/2024/01/03/harvard-bill-ackman-antisemitism-dei-diversity-equity-inclusion-anti-capitalist/).
+You can read more about it [here](https://www.ft.com/content/0640e1a1-c9d3-45b0-b38f-09ab944a1d52).
 
 ## Requirements
 - Python 3.8
