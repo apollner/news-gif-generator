@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704438409)
+![Generated GIF](output.gif?raw=true&v=1704439999)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Mask mandates return at some US hospitals as COVID, flu jump**
+**Japan Airlines counts losses from wrecked Tokyo plane**
 
-You can read more about it [here](https://www.reuters.com/world/us/mask-mandates-return-some-us-hospitals-covid-flu-jump-2024-01-04/).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/japan-airlines-estimates-loss-about-1048-mln-collision-2024-01-03/).
 
 ## Requirements
 - Python 3.8
