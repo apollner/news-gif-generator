@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704488766)
+![Generated GIF](output.gif?raw=true&v=1704490406)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources - Ricky Rubio, Cavaliers agree to contract buyout**
+**At least 1 killed in shooting at Iowa high school; suspect also dead**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39240801/sources-ricky-rubio-cavaliers-agree-contract-buyout).
+You can read more about it [here](https://abcnews.go.com/US/shooting-reported-perry-high-school-iowa/story?id=106099810).
 
 ## Requirements
 - Python 3.8
