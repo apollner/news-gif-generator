@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704442242)
+![Generated GIF](output.gif?raw=true&v=1704443717)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**More than 100 people killed in twin blasts near slain Iran commander’s grave**
+**Gypsy Rose Blanchard says she regrets conspiring to kill her mother**
 
-You can read more about it [here](https://www.cnn.com/2024/01/03/middleeast/iran-explosions-soleimani-ceremony-intl/index.html).
+You can read more about it [here](https://www.businessinsider.com/gypsy-rose-blanchard-says-she-regrets-conspiring-to-kill-mother-2024-1).
 
 ## Requirements
 - Python 3.8
