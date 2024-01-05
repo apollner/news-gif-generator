@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704463624)
+![Generated GIF](output.gif?raw=true&v=1704465203)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Samsung Galaxy Unpacked 2024 — official date and early Galaxy S24 pre-order details revealed**
+**SpaceX workers who criticized CEO Elon Musk for being a ‘distraction and embarrassment’ were illegally fired in retaliation, NLRB alleges**
 
-You can read more about it [here](https://www.tomsguide.com/news/samsung-galaxy-s24-unpacked-date-reveal).
+You can read more about it [here](https://fortune.com/2024/01/03/elon-musk-spacex-illegally-fired-workers-who-criticized-him-nlrb/).
 
 ## Requirements
 - Python 3.8
