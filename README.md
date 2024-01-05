@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704486881)
+![Generated GIF](output.gif?raw=true&v=1704488766)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**UC Berkeley sends hundreds of police, barricade to People's Park**
+**Sources - Ricky Rubio, Cavaliers agree to contract buyout**
 
-You can read more about it [here](https://www.sfchronicle.com/eastbay/article/uc-berkeley-peoples-park-housing-protest-18589004.php).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39240801/sources-ricky-rubio-cavaliers-agree-contract-buyout).
 
 ## Requirements
 - Python 3.8
