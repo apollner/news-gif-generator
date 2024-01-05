@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704474361)
+![Generated GIF](output.gif?raw=true&v=1704476105)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Chris Mason: Has Rishi Sunak really ruled out a spring election?**
+**8 NFL head coaches who could be fired on Black Monday**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67883767).
+You can read more about it [here](https://www.sbnation.com/nfl/2024/1/4/24024759/nfl-coaching-rumors-black-monday-falcons-titans-commanders).
 
 ## Requirements
 - Python 3.8
