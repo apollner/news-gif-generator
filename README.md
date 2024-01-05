@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704468804)
+![Generated GIF](output.gif?raw=true&v=1704470956)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm’s Snapdragon XR2 Plus Gen 2 looks like a Vision Pro competitor**
+**Verizon Wireless $100 million settlement: Who is eligible and how much could you receive?**
 
-You can read more about it [here](https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google).
+You can read more about it [here](https://www.al.com/news/2024/01/verizon-wireless-100-million-settlement-who-is-eligible-and-how-much-could-you-receive.html).
 
 ## Requirements
 - Python 3.8
