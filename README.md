@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704421422)
+![Generated GIF](output.gif?raw=true&v=1704422466)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Live coverage: SpaceX Falcon 9 to launch Ovzon-3 satellite, kicking off launch year at the Cape – Spaceflight Now**
+**Aaron Rodgers cause headaches for ESPN after his Jimmy Kimmel comment**
 
-You can read more about it [here](https://spaceflightnow.com/2024/01/03/live-coverage-spacex-falcon-9-to-launch-ovzon-3-satellite-from-cape-canaveral/).
+You can read more about it [here](https://www.businessinsider.com/aaron-rodgers-jimmy-kimmel-jeffrey-epstein-espn-disney-2024-1).
 
 ## Requirements
 - Python 3.8
