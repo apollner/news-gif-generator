@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704478275)
+![Generated GIF](output.gif?raw=true&v=1704479657)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Joe Jonas Sparks Romance Rumors with Model Stormi Bree**
+**Microsoft announces AI key on Windows 11 PCs**
 
-You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a46284472/joe-jonas-sparks-romance-rumors-stormi-bree/).
+You can read more about it [here](https://www.bbc.com/news/technology-67881373).
 
 ## Requirements
 - Python 3.8
