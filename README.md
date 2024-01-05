@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704492367)
+![Generated GIF](output.gif?raw=true&v=1704494106)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Natalia Grace Takes DNA Test and Her Real Age Is Seemingly Confirmed**
+**Saleh al-Arouri: Thousands attend Hamas deputy leader's funeral in Beirut**
 
-You can read more about it [here](https://www.etonline.com/natalia-grace-takes-dna-test-and-her-real-age-is-seemingly-confirmed-217247).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67884392).
 
 ## Requirements
 - Python 3.8
