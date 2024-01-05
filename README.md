@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704429401)
+![Generated GIF](output.gif?raw=true&v=1704431296)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
+**Fatal shooting of Imam Hassan Sharif outside Newark, N.J. mosque not believed to be bias or domestic terror-related incident, authorities say**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/newark-new-jersey-shooting-critical-injuries/).
 
 ## Requirements
 - Python 3.8
