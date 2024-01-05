@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704424205)
+![Generated GIF](output.gif?raw=true&v=1704425670)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Al Sharpton blasted for calling Harvard president's resignation an attack on 'every Black woman': 'Go away'**
+**New year opens will first of several meteor showers visible this year in Omaha area**
 
-You can read more about it [here](https://www.foxnews.com/media/al-sharpton-blasted-calling-harvard-president-resignation-attack-black-woman).
+You can read more about it [here](https://www.ketv.com/article/omaha-quadrantids-meteor-showers-2024/46265750).
 
 ## Requirements
 - Python 3.8
