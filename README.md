@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704485317)
+![Generated GIF](output.gif?raw=true&v=1704486881)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Saleh al-Arouri: Thousands attend Hamas deputy leader's funeral in Beirut**
+**UC Berkeley sends hundreds of police, barricade to People's Park**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67884392).
+You can read more about it [here](https://www.sfchronicle.com/eastbay/article/uc-berkeley-peoples-park-housing-protest-18589004.php).
 
 ## Requirements
 - Python 3.8
