@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704467272)
+![Generated GIF](output.gif?raw=true&v=1704468804)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2024 NFL QB market: Top free agents, trade targets, cut candidates, projected landing spots, contracts, more**
+**Qualcomm’s Snapdragon XR2 Plus Gen 2 looks like a Vision Pro competitor**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-qb-market-top-free-agents-trade-targets-cut-candidates-projected-landing-spots-contracts-more/).
+You can read more about it [here](https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google).
 
 ## Requirements
 - Python 3.8
