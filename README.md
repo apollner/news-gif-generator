@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704447210)
+![Generated GIF](output.gif?raw=true&v=1704449324)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
+**Gypsy Rose Blanchard becomes overnight internet star after prison release**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
+You can read more about it [here](https://www.foxnews.com/us/gypsy-rose-blanchard-becomes-overnight-internet-star-after-prison-release).
 
 ## Requirements
 - Python 3.8
