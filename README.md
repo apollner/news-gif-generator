@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704481539)
+![Generated GIF](output.gif?raw=true&v=1704483222)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Qualcomm announces new chip to power Samsung and Google's competitors to Apple Vision Pro headset**
+**Sources - Ricky Rubio, Cavaliers agree to contract buyout**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/04/qualcomm-announces-snapdragon-xr2-gen-2-chip-for-ar-headsets.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39240801/sources-ricky-rubio-cavaliers-agree-contract-buyout).
 
 ## Requirements
 - Python 3.8
