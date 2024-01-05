@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704432868)
+![Generated GIF](output.gif?raw=true&v=1704435038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nevada judge attacked by airborne defendant during sentencing in Vegas courtroom**
+**When and where to see the Quadrantids, 2024's first meteor shower**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/04/nevada-judge-attacked-by-airborne-defendant-during-sentencing-in-vegas-courtroom-00133776).
+You can read more about it [here](https://www.cbsnews.com/news/quadrantids-2024-first-meteor-shower-january-peak/).
 
 ## Requirements
 - Python 3.8
