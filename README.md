@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704425670)
+![Generated GIF](output.gif?raw=true&v=1704427819)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New year opens will first of several meteor showers visible this year in Omaha area**
+**Russia and Ukraine exchange hundreds of prisoners of war in biggest release so far**
 
-You can read more about it [here](https://www.ketv.com/article/omaha-quadrantids-meteor-showers-2024/46265750).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-belgorod-e1fab1a1968fc272fd49687399e4cc78).
 
 ## Requirements
 - Python 3.8
