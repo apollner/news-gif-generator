@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704418802)
+![Generated GIF](output.gif?raw=true&v=1704421422)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida surgeon general recommends against mRNA COVID shots, cites discredited theory**
+**Live coverage: SpaceX Falcon 9 to launch Ovzon-3 satellite, kicking off launch year at the Cape – Spaceflight Now**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4387662-florida-surgeon-general-recommends-against-mrna-covid-shots-cites-discredited-theory/).
+You can read more about it [here](https://spaceflightnow.com/2024/01/03/live-coverage-spacex-falcon-9-to-launch-ovzon-3-satellite-from-cape-canaveral/).
 
 ## Requirements
 - Python 3.8
