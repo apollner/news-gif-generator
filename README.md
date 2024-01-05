@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704490406)
+![Generated GIF](output.gif?raw=true&v=1704492367)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**At least 1 killed in shooting at Iowa high school; suspect also dead**
+**Natalia Grace Takes DNA Test and Her Real Age Is Seemingly Confirmed**
 
-You can read more about it [here](https://abcnews.go.com/US/shooting-reported-perry-high-school-iowa/story?id=106099810).
+You can read more about it [here](https://www.etonline.com/natalia-grace-takes-dna-test-and-her-real-age-is-seemingly-confirmed-217247).
 
 ## Requirements
 - Python 3.8
