@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704510533)
+![Generated GIF](output.gif?raw=true&v=1704512005)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Perry, Iowa, school shooting: Sixth grader killed, five wounded**
+**Winter Storm Ember To Bring Snow To Northeast | Weather.com**
 
-You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-1defc6260e074362240a31a7f30cf1b9).
+You can read more about it [here](https://weather.com/storms/winter/news/2024-01-04-winter-storm-ember-forecast-northeast-winter-storm).
 
 ## Requirements
 - Python 3.8
