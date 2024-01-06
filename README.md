@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704560719)
+![Generated GIF](output.gif?raw=true&v=1704562393)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 18 picks, schedule, odds, injuries, fantasy tips**
+**Hundreds of convictions, but a major mystery is still unsolved 3 years after the Jan. 6 Capitol riot**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/page/nflviewguide010524/nfl-week-18-picks-schedule-fantasy-football-odds-injuries-stats-2023-season).
+You can read more about it [here](https://apnews.com/article/capitol-riot-jan-6-criminal-cases-anniversary-bf436efe760751b1356f937e55bedaa5).
 
 ## Requirements
 - Python 3.8
