@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704526412)
+![Generated GIF](output.gif?raw=true&v=1704528596)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New batch of Jeffrey Epstein court documents released**
+**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
 
-You can read more about it [here](https://abcnews.go.com/US/new-batch-jeffrey-epstein-court-documents-released/story?id=106106004).
+You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
 
 ## Requirements
 - Python 3.8
