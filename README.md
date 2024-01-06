@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704540822)
+![Generated GIF](output.gif?raw=true&v=1704543269)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**ISRO's Aditya- L1 Satellite Has A Date With The Sun**
+**‘The Curious Case of Natalia Grace’ Revelations and a Twist Ending That Shocked Production**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/the-curious-case-of-natalia-grace-revelations-twist-ending-1235779892/).
 
 ## Requirements
 - Python 3.8
