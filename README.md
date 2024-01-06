@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704571662)
+![Generated GIF](output.gif?raw=true&v=1704573210)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hudson Valley weather: More snow added to weekend forecast**
+**Israeli minister outlines plans for Gaza after war**
 
-You can read more about it [here](https://www.lohud.com/story/news/local/westchester/2024/01/05/more-snow-added-to-weekend-forecast-in-parts-of-hudson-valley-ny-westchester-rockland-putnam/72118239007/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67888794).
 
 ## Requirements
 - Python 3.8
