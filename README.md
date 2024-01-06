@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704512005)
+![Generated GIF](output.gif?raw=true&v=1704514188)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Winter Storm Ember To Bring Snow To Northeast | Weather.com**
+**Ravens signing Dalvin Cook: Four-time Pro Bowl RB joining Baltimore for postseason run**
 
-You can read more about it [here](https://weather.com/storms/winter/news/2024-01-04-winter-storm-ember-forecast-northeast-winter-storm).
+You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-signing-dalvin-cook-four-time-pro-bowl-rb-joining-baltimore-for-postseason-run/).
 
 ## Requirements
 - Python 3.8
