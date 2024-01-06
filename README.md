@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704508745)
+![Generated GIF](output.gif?raw=true&v=1704510533)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Nets first to be fined under NBA’s new player rest policy after sitting 4 versus Bucks**
+**Perry, Iowa, school shooting: Sixth grader killed, five wounded**
 
-You can read more about it [here](https://theathletic.com/5179459/2024/01/04/nets-fine-nba-player-rest-policy/).
+You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-1defc6260e074362240a31a7f30cf1b9).
 
 ## Requirements
 - Python 3.8
