@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704551607)
+![Generated GIF](output.gif?raw=true&v=1704553550)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Timeline: Plagiarism allegations against Claudine Gay**
+**Air Force crew ejects safely as B-1 bomber crashed in South Dakota**
 
-You can read more about it [here](https://www.washingtonpost.com/books/2024/01/04/claudine-gay-plagiarism-examples-harvard/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/05/air-force-bomber-crashes-south-dakota/72115739007/).
 
 ## Requirements
 - Python 3.8
