@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704564616)
+![Generated GIF](output.gif?raw=true&v=1704566035)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hundreds of convictions, but a major mystery is still unsolved 3 years after the Jan. 6 Capitol riot**
+**Oscar Pistorius released on parole 11 years after killing Reeva Steenkamp**
 
-You can read more about it [here](https://apnews.com/article/capitol-riot-jan-6-criminal-cases-anniversary-bf436efe760751b1356f937e55bedaa5).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67885713).
 
 ## Requirements
 - Python 3.8
