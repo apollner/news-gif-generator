@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704582379)
+![Generated GIF](output.gif?raw=true&v=1704584018)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Job Gains Picked Up in December, Capping Year of Healthy Hiring**
+**Navajo Nation’s objection to landing human remains on the moon prompts last-minute White House meeting**
 
-You can read more about it [here](https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70).
+You can read more about it [here](https://www.cnn.com/2024/01/05/world/peregrine-moon-mission-navajo-nation-objection-human-remains-scn/index.html).
 
 ## Requirements
 - Python 3.8
