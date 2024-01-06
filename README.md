@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704580417)
+![Generated GIF](output.gif?raw=true&v=1704582379)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Harvard’s Claudine Gay and the conservative culture war**
+**Job Gains Picked Up in December, Capping Year of Healthy Hiring**
 
-You can read more about it [here](https://www.vox.com/24025151/claudine-gay-harvard-resignation-conservative-culture-war).
+You can read more about it [here](https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70).
 
 ## Requirements
 - Python 3.8
