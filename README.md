@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704528596)
+![Generated GIF](output.gif?raw=true&v=1704530000)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
+**New images reveal what Neptune and Uranus really look like**
 
-You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
+You can read more about it [here](https://phys.org/news/2024-01-images-reveal-neptune-uranus.html).
 
 ## Requirements
 - Python 3.8
