@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704546574)
+![Generated GIF](output.gif?raw=true&v=1704548060)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**South Korea’s military says North Korea fired artillery into maritime buffer zone in ‘provocative act’**
+**Timeline: Plagiarism allegations against Claudine Gay**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/world/north-korea-yeonpyeong-island-artillery-intl-hnk/index.html).
+You can read more about it [here](https://www.washingtonpost.com/books/2024/01/04/claudine-gay-plagiarism-examples-harvard/).
 
 ## Requirements
 - Python 3.8
