@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704559098)
+![Generated GIF](output.gif?raw=true&v=1704560719)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Trump's businesses received millions from foreign entities during his presidency, House report says**
+**NFL Week 18 picks, schedule, odds, injuries, fantasy tips**
 
-You can read more about it [here](https://abcnews.go.com/US/trumps-businesses-received-millions-foreign-entities-presidency-house/story?id=106106433).
+You can read more about it [here](https://www.espn.com/nfl/story/_/page/nflviewguide010524/nfl-week-18-picks-schedule-fantasy-football-odds-injuries-stats-2023-season).
 
 ## Requirements
 - Python 3.8
