@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704519228)
+![Generated GIF](output.gif?raw=true&v=1704521445)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Houthis launch sea drone to attack ships hours after US, allies issue final warning**
+**'The Curious Case of Natalia Grace' Revelations and a Twist Ending That Shocked Production**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/houthis-launch-sea-drone-attack-ships-hours-after-106106351).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/the-curious-case-of-natalia-grace-revelations-twist-ending-1235779892/).
 
 ## Requirements
 - Python 3.8
