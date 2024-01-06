@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704533618)
+![Generated GIF](output.gif?raw=true&v=1704535639)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**[Removed]**
+**What to Watch in the Jobs Report: Slower Hiring Adds to Case for Soft Landing**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70).
 
 ## Requirements
 - Python 3.8
