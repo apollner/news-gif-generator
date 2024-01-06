@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704521445)
+![Generated GIF](output.gif?raw=true&v=1704522868)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'The Curious Case of Natalia Grace' Revelations and a Twist Ending That Shocked Production**
+**White House says Russia used missiles from North Korea to strike Ukraine**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/the-curious-case-of-natalia-grace-revelations-twist-ending-1235779892/).
+You can read more about it [here](https://www.reuters.com/world/white-house-north-korea-recently-provided-russia-with-ballistic-missiles-2024-01-04/).
 
 ## Requirements
 - Python 3.8
