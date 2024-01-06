@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704524743)
+![Generated GIF](output.gif?raw=true&v=1704526412)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel-Hamas War Updates | What Is The Role Of Iran In The Israel Hamas War? | India Today News**
+**New batch of Jeffrey Epstein court documents released**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ce3nr-QjgR8).
+You can read more about it [here](https://abcnews.go.com/US/new-batch-jeffrey-epstein-court-documents-released/story?id=106106004).
 
 ## Requirements
 - Python 3.8
