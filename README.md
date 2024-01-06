@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704566035)
+![Generated GIF](output.gif?raw=true&v=1704567906)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Oscar Pistorius released on parole 11 years after killing Reeva Steenkamp**
+**December jobs report: US economy adds 216,000 jobs, shocking Wall Street**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67885713).
+You can read more about it [here](https://finance.yahoo.com/news/december-jobs-report-us-economy-adds-216000-jobs-shocking-wall-street-133957707.html).
 
 ## Requirements
 - Python 3.8
