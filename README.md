@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704514188)
+![Generated GIF](output.gif?raw=true&v=1704515715)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ravens signing Dalvin Cook: Four-time Pro Bowl RB joining Baltimore for postseason run**
+**Boy, 13, becomes first documented player to beat Tetris**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-signing-dalvin-cook-four-time-pro-bowl-rb-joining-baltimore-for-postseason-run/).
+You can read more about it [here](https://www.foxnews.com/us/boy-13-becomes-first-documented-player-beat-tetris).
 
 ## Requirements
 - Python 3.8
