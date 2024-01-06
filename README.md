@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704567906)
+![Generated GIF](output.gif?raw=true&v=1704569615)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**December jobs report: US economy adds 216,000 jobs, shocking Wall Street**
+**3 years after Jan. 6 Capitol riot, Trump trial takes center stage, and investigators still search for offenders**
 
-You can read more about it [here](https://finance.yahoo.com/news/december-jobs-report-us-economy-adds-216000-jobs-shocking-wall-street-133957707.html).
+You can read more about it [here](https://www.cbsnews.com/news/three-years-jan-6-capitol-attack-trumps-trial/).
 
 ## Requirements
 - Python 3.8
