@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704507702)
+![Generated GIF](output.gif?raw=true&v=1704508745)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft adds new AI Copilot button to Windows keyboards in device’s first change in 30 years**
+**Nets first to be fined under NBA’s new player rest policy after sitting 4 versus Bucks**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/microsoft-adds-new-ai-copilot-button-windows-keyboards-devices-first-change-30-years).
+You can read more about it [here](https://theathletic.com/5179459/2024/01/04/nets-fine-nba-player-rest-policy/).
 
 ## Requirements
 - Python 3.8
