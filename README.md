@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704501119)
+![Generated GIF](output.gif?raw=true&v=1704505105)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FDA probing possible weight-loss drug side effects, including suicidal thoughts**
+**Carrefour pulls PepsiCo products over price hikes**
 
-You can read more about it [here](https://www.axios.com/2024/01/04/ozempic-sucidal-thoughts-weight-loss-drugs).
+You can read more about it [here](https://www.reuters.com/markets/us/carrefour-says-it-will-not-sell-pepsico-goods-due-price-hikes-2024-01-04/).
 
 ## Requirements
 - Python 3.8
