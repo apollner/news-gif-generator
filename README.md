@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704505105)
+![Generated GIF](output.gif?raw=true&v=1704507702)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Carrefour pulls PepsiCo products over price hikes**
+**Microsoft adds new AI Copilot button to Windows keyboards in device’s first change in 30 years**
 
-You can read more about it [here](https://www.reuters.com/markets/us/carrefour-says-it-will-not-sell-pepsico-goods-due-price-hikes-2024-01-04/).
+You can read more about it [here](https://www.foxbusiness.com/technology/microsoft-adds-new-ai-copilot-button-windows-keyboards-devices-first-change-30-years).
 
 ## Requirements
 - Python 3.8
