@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704569615)
+![Generated GIF](output.gif?raw=true&v=1704571662)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**3 years after Jan. 6 Capitol riot, Trump trial takes center stage, and investigators still search for offenders**
+**Hudson Valley weather: More snow added to weekend forecast**
 
-You can read more about it [here](https://www.cbsnews.com/news/three-years-jan-6-capitol-attack-trumps-trial/).
+You can read more about it [here](https://www.lohud.com/story/news/local/westchester/2024/01/05/more-snow-added-to-weekend-forecast-in-parts-of-hudson-valley-ny-westchester-rockland-putnam/72118239007/).
 
 ## Requirements
 - Python 3.8
