@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704497630)
+![Generated GIF](output.gif?raw=true&v=1704501119)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Florida surgeon general wants to halt COVID-19 mRNA vaccines; FDA calls his claims "misleading"**
+**FDA probing possible weight-loss drug side effects, including suicidal thoughts**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-surgeon-general-covid-vaccines-fda-claims-misleading/).
+You can read more about it [here](https://www.axios.com/2024/01/04/ozempic-sucidal-thoughts-weight-loss-drugs).
 
 ## Requirements
 - Python 3.8
