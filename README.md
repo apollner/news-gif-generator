@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704515715)
+![Generated GIF](output.gif?raw=true&v=1704517561)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Boy, 13, becomes first documented player to beat Tetris**
+**Timeline: Plagiarism allegations against Claudine Gay**
 
-You can read more about it [here](https://www.foxnews.com/us/boy-13-becomes-first-documented-player-beat-tetris).
+You can read more about it [here](https://www.washingtonpost.com/books/2024/01/04/claudine-gay-plagiarism-examples-harvard/).
 
 ## Requirements
 - Python 3.8
