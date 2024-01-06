@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704575111)
+![Generated GIF](output.gif?raw=true&v=1704576824)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Stocks bounce on Friday, but still head for first losing week in 10: Live updates**
+**NFL Week 18 bold predictions: Bill Belichick era with Patriots ends after win over Jets; Titans stun Jaguars**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/04/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-18-bold-predictions-bill-belichick-era-with-patriots-ends-after-win-over-jets-titans-stun-jaguars/).
 
 ## Requirements
 - Python 3.8
