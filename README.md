@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704545259)
+![Generated GIF](output.gif?raw=true&v=1704546574)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Dalvin Cook, Ravens Agree To Terms**
+**South Korea’s military says North Korea fired artillery into maritime buffer zone in ‘provocative act’**
 
-You can read more about it [here](https://www.profootballrumors.com/2024/01/dalvin-cook-ravens-agree-to-terms).
+You can read more about it [here](https://www.cnn.com/2024/01/05/world/north-korea-yeonpyeong-island-artillery-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
