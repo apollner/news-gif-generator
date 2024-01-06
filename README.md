@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704548060)
+![Generated GIF](output.gif?raw=true&v=1704549930)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Timeline: Plagiarism allegations against Claudine Gay**
+**'Blade Runner' Pistorius released on parole 11 years after murdering girlfriend**
 
-You can read more about it [here](https://www.washingtonpost.com/books/2024/01/04/claudine-gay-plagiarism-examples-harvard/).
+You can read more about it [here](https://www.reuters.com/world/africa/blade-runner-pistorius-set-be-released-11-years-after-murdering-girlfriend-2024-01-04/).
 
 ## Requirements
 - Python 3.8
