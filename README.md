@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704647184)
+![Generated GIF](output.gif?raw=true&v=1704648798)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Report: Warriors considered ‘wild horse' in Siakam trade sweepstakes**
+**Colorado officer Randy Roedema sentenced to 14 months in jail in killing of Elijah McClain**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/pascal-siakam-nba-trade-rumors/1688330/).
+You can read more about it [here](https://nypost.com/2024/01/06/news/colorado-officer-randy-roedema-sentenced-to-14-months-in-jail-in-killing-of-elijah-mcclain/).
 
 ## Requirements
 - Python 3.8
