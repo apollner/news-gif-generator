@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704656038)
+![Generated GIF](output.gif?raw=true&v=1704658083)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tetris, Star Wars and More Of The Week's Biggest Gaming News**
+**Bill Ackman's Wife Faces New Round of Plagiarism Accusations**
 
-You can read more about it [here](https://kotaku.com/kotaku-gaming-news-tetris-star-wars-bethesda-1851144900).
+You can read more about it [here](https://www.thedailybeast.com/bill-ackmans-wife-neri-oxman-faces-new-round-of-plagiarism-accusations).
 
 ## Requirements
 - Python 3.8
