@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704634401)
+![Generated GIF](output.gif?raw=true&v=1704636328)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**10 observations: Connor Bedard injured in Blackhawks' penalty-filled loss to Devils**
+**Biden blasts Supreme Court decision allowing Idaho to enforce ‘dangerous’ abortion ban**
 
-You can read more about it [here](http://www.nbcsportschicago.com/nhl/chicago-blackhawks/10-observations-connor-bedard-injured-in-blackhawks-penalty-filled-loss-to-devils/530210/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4392492-biden-blasts-supreme-court-idaho-abortion-ban-decision/).
 
 ## Requirements
 - Python 3.8
