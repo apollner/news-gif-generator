@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704632939)
+![Generated GIF](output.gif?raw=true&v=1704634401)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Questions linger about Perry school shooter's motive, where he got firearms**
+**10 observations: Connor Bedard injured in Blackhawks' penalty-filled loss to Devils**
 
-You can read more about it [here](https://www.kcci.com/article/perry-iowa-school-shooting-investigation-shooter-dylan-butler-motive-firearms/46300803).
+You can read more about it [here](http://www.nbcsportschicago.com/nhl/chicago-blackhawks/10-observations-connor-bedard-injured-in-blackhawks-penalty-filled-loss-to-devils/530210/).
 
 ## Requirements
 - Python 3.8
