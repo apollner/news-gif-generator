@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704650954)
+![Generated GIF](output.gif?raw=true&v=1704652423)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Israel, Hezbollah trade fire across Lebanon border amid alarm over Gaza war spillover**
+**Colorado officer Randy Roedema sentenced to 14 months in jail in killing of Elijah McClain**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/heavy-fire-lebanon-targets-northern-israel-amid-concern-over-gaza-spillover-2024-01-06/).
+You can read more about it [here](https://nypost.com/2024/01/06/news/colorado-officer-randy-roedema-sentenced-to-14-months-in-jail-in-killing-of-elijah-mcclain/).
 
 ## Requirements
 - Python 3.8
