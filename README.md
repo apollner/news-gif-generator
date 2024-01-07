@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704654269)
+![Generated GIF](output.gif?raw=true&v=1704656038)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New antibiotic kills deadly, drug-resistant bacteria in ‘scientific breakthrough’**
+**Tetris, Star Wars and More Of The Week's Biggest Gaming News**
 
-You can read more about it [here](https://www.foxnews.com/health/new-antibiotic-kills-deadly-drug-resistant-bacteria-scientific-breakthrough).
+You can read more about it [here](https://kotaku.com/kotaku-gaming-news-tetris-star-wars-bethesda-1851144900).
 
 ## Requirements
 - Python 3.8
