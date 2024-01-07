@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704594450)
+![Generated GIF](output.gif?raw=true&v=1704595426)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**The Supreme Court will decide if Donald Trump can be kept off 2024 presidential ballots**
+**Indian Navy rescues ship crew from hijack attempt in Arabian Sea**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-trump-insurrection-2024-election-0baac5ba0c1868e437e365af17eeab24).
+You can read more about it [here](https://www.timesofisrael.com/indian-navy-rescues-ship-crew-from-hijack-attempt-in-arabian-sea/).
 
 ## Requirements
 - Python 3.8
