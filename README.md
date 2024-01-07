@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704587747)
+![Generated GIF](output.gif?raw=true&v=1704592602)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 18 bold predictions: Bill Belichick era with Patriots ends after win over Jets; Titans stun Jaguars**
+**Forget $250M. New York's AG now wants Trump to pay $370M for civil fraud.**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-18-bold-predictions-bill-belichick-era-with-patriots-ends-after-win-over-jets-titans-stun-jaguars/).
+You can read more about it [here](https://www.politico.com/news/2024/01/05/new-york-ag-trump-fraud-00134103).
 
 ## Requirements
 - Python 3.8
