@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704618393)
+![Generated GIF](output.gif?raw=true&v=1704620003)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Defense Secretary Lloyd Austin has been hospitalized since Jan. 1**
+**Defense Secretary Austin hospitalized following surgery complications**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/05/lloyd-austin-hospitalized/).
+You can read more about it [here](https://www.foxnews.com/politics/defense-secretary-austin-hospitalized-following-surgery-complications).
 
 ## Requirements
 - Python 3.8
