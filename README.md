@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704604021)
+![Generated GIF](output.gif?raw=true&v=1704605614)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Forget $250M. New York's AG now wants Trump to pay $370M for civil fraud.**
+**Purdue basketball vs Illinois live recap, highlights of Big Ten game**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/05/new-york-ag-trump-fraud-00134103).
+You can read more about it [here](https://www.indystar.com/story/sports/college/purdue/2024/01/05/purdue-basketball-illinois-live-updates-score-highlights-big-ten/72108272007/).
 
 ## Requirements
 - Python 3.8
