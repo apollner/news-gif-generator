@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704658083)
+![Generated GIF](output.gif?raw=true&v=1704659618)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Bill Ackman's Wife Faces New Round of Plagiarism Accusations**
+**Wayne LaPierre announces resignation as leader of the NRA days ahead of civil trial**
 
-You can read more about it [here](https://www.thedailybeast.com/bill-ackmans-wife-neri-oxman-faces-new-round-of-plagiarism-accusations).
+You can read more about it [here](https://www.cnn.com/2024/01/05/us/wayne-lapierre-nra-resigns/index.html).
 
 ## Requirements
 - Python 3.8
