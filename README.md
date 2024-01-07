@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704666802)
+![Generated GIF](output.gif?raw=true&v=1704668828)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**FBI arrests three January 6 defendants in Florida after prolonged search**
+**Merchant vessel approached by six craft near Yemen, says UK**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/politics/three-floridians-arrested-january-6/index.html).
+You can read more about it [here](https://www.reuters.com/world/uk/uk-has-report-6-craft-approaching-vessel-near-yemen-2024-01-06/).
 
 ## Requirements
 - Python 3.8
