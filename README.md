@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704640018)
+![Generated GIF](output.gif?raw=true&v=1704641636)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Alaska Airlines flight makes emergency landing in Portland, Oregon, after window appears to have blown out after takeoff**
+**NBA Friday: Celtics move to 17-0 at home, Joel Embiid's streak still alive, Pacers make more offensive history**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/us/alaska-airlines-window-landing/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-friday-celtics-move-to-17-0-at-home-joel-embiids-streak-still-alive-pacers-make-more-offensive-history/).
 
 ## Requirements
 - Python 3.8
