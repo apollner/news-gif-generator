@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704607801)
+![Generated GIF](output.gif?raw=true&v=1704609260)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Purdue basketball vs Illinois live recap, highlights of Big Ten game**
+**Husband of deceased Jan. 6 rioter Ashli Babbitt files wrongful death suit against government**
 
-You can read more about it [here](https://www.indystar.com/story/sports/college/purdue/2024/01/05/purdue-basketball-illinois-live-updates-score-highlights-big-ten/72108272007/).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4392515-husband-jan-6-rioter-ashli-babbitt-wrongful-death-suit/).
 
 ## Requirements
 - Python 3.8
