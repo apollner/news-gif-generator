@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704595426)
+![Generated GIF](output.gif?raw=true&v=1704596937)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Indian Navy rescues ship crew from hijack attempt in Arabian Sea**
+**US actor Christian Oliver and his 2 daughters died in a plane crash in the Caribbean, police say**
 
-You can read more about it [here](https://www.timesofisrael.com/indian-navy-rescues-ship-crew-from-hijack-attempt-in-arabian-sea/).
+You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/us-actor-christian-oliver-2-daughters-died-plane-106139722).
 
 ## Requirements
 - Python 3.8
