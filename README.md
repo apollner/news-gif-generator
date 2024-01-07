@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704598405)
+![Generated GIF](output.gif?raw=true&v=1704600591)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Here's a first look at United Launch Alliance's new Vulcan rocket**
+**Ohio governor bans gender-transition surgeries for minors**
 
-You can read more about it [here](https://arstechnica.com/space/2024/01/heres-a-first-look-at-united-launch-alliances-new-vulcan-rocket/).
+You can read more about it [here](https://www.cnn.com/2024/01/05/politics/ohio-bans-gender-transition-surgeries-for-minors/index.html).
 
 ## Requirements
 - Python 3.8
