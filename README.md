@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704661554)
+![Generated GIF](output.gif?raw=true&v=1704663217)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Week 18 AFC playoff seeding cheat sheet**
+**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
 
-You can read more about it [here](https://www.arrowheadpride.com/2024/1/6/24027739/week-18-afc-playoff-seeding-cheat-sheet).
+You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
 
 ## Requirements
 - Python 3.8
