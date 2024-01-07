@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704620003)
+![Generated GIF](output.gif?raw=true&v=1704622062)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Defense Secretary Austin hospitalized following surgery complications**
+**Michael Bolton Reveals He Was Diagnosed With a Brain Tumor, Underwent Surgery**
 
-You can read more about it [here](https://www.foxnews.com/politics/defense-secretary-austin-hospitalized-following-surgery-complications).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/michael-bolton-diagnosed-brain-tumor-underwent-surgery-1235780647/).
 
 ## Requirements
 - Python 3.8
