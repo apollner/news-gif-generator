@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704600591)
+![Generated GIF](output.gif?raw=true&v=1704602110)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Ohio governor bans gender-transition surgeries for minors**
+**Navajo Nation fights sending human remains to the moon**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/politics/ohio-bans-gender-transition-surgeries-for-minors/index.html).
+You can read more about it [here](https://www.axios.com/2024/01/05/navajo-nation-human-remains-moon-sacred).
 
 ## Requirements
 - Python 3.8
