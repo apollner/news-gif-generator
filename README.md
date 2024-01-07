@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704659618)
+![Generated GIF](output.gif?raw=true&v=1704661554)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Wayne LaPierre announces resignation as leader of the NRA days ahead of civil trial**
+**Week 18 AFC playoff seeding cheat sheet**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/us/wayne-lapierre-nra-resigns/index.html).
+You can read more about it [here](https://www.arrowheadpride.com/2024/1/6/24027739/week-18-afc-playoff-seeding-cheat-sheet).
 
 ## Requirements
 - Python 3.8
