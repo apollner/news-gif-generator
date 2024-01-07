@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704629537)
+![Generated GIF](output.gif?raw=true&v=1704631642)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Purdue basketball vs Illinois live recap, highlights of Big Ten game**
+**Biden blasts Supreme Court decision allowing Idaho to enforce ‘dangerous’ abortion ban**
 
-You can read more about it [here](https://www.indystar.com/story/sports/college/purdue/2024/01/05/purdue-basketball-illinois-live-updates-score-highlights-big-ten/72108272007/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4392492-biden-blasts-supreme-court-idaho-abortion-ban-decision/).
 
 ## Requirements
 - Python 3.8
