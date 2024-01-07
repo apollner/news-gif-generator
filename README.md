@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704596937)
+![Generated GIF](output.gif?raw=true&v=1704598405)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**US actor Christian Oliver and his 2 daughters died in a plane crash in the Caribbean, police say**
+**Here's a first look at United Launch Alliance's new Vulcan rocket**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/us-actor-christian-oliver-2-daughters-died-plane-106139722).
+You can read more about it [here](https://arstechnica.com/space/2024/01/heres-a-first-look-at-united-launch-alliances-new-vulcan-rocket/).
 
 ## Requirements
 - Python 3.8
