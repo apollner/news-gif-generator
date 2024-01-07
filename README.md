@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704602110)
+![Generated GIF](output.gif?raw=true&v=1704604021)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Navajo Nation fights sending human remains to the moon**
+**Forget $250M. New York's AG now wants Trump to pay $370M for civil fraud.**
 
-You can read more about it [here](https://www.axios.com/2024/01/05/navajo-nation-human-remains-moon-sacred).
+You can read more about it [here](https://www.politico.com/news/2024/01/05/new-york-ag-trump-fraud-00134103).
 
 ## Requirements
 - Python 3.8
