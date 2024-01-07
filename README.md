@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704665215)
+![Generated GIF](output.gif?raw=true&v=1704666802)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Scientific breakthrough' leads to discovery of first antibiotic that kills drug-resistant bacteria in 50 years**
+**FBI arrests three January 6 defendants in Florida after prolonged search**
 
-You can read more about it [here](https://nypost.com/2024/01/06/lifestyle/new-antibiotic-kills-deadly-drug-resistant-bacteria-in-scientific-breakthrough/).
+You can read more about it [here](https://www.cnn.com/2024/01/06/politics/three-floridians-arrested-january-6/index.html).
 
 ## Requirements
 - Python 3.8
