@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704611159)
+![Generated GIF](output.gif?raw=true&v=1704612818)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Knicks to the ECF!? 😱 Perk LOVES what he's seeing from Jalen Brunson | NBA Countdown**
+**Husband of deceased Jan. 6 rioter Ashli Babbitt files wrongful death suit against government**
 
-You can read more about it [here](https://www.youtube.com/watch?v=V6axLDuFNEc).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4392515-husband-jan-6-rioter-ashli-babbitt-wrongful-death-suit/).
 
 ## Requirements
 - Python 3.8
