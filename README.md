@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704652423)
+![Generated GIF](output.gif?raw=true&v=1704654269)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Colorado officer Randy Roedema sentenced to 14 months in jail in killing of Elijah McClain**
+**New antibiotic kills deadly, drug-resistant bacteria in ‘scientific breakthrough’**
 
-You can read more about it [here](https://nypost.com/2024/01/06/news/colorado-officer-randy-roedema-sentenced-to-14-months-in-jail-in-killing-of-elijah-mcclain/).
+You can read more about it [here](https://www.foxnews.com/health/new-antibiotic-kills-deadly-drug-resistant-bacteria-scientific-breakthrough).
 
 ## Requirements
 - Python 3.8
