@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704720815)
+![Generated GIF](output.gif?raw=true&v=1704722876)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Halle Bailey Welcomes First Child With Boyfriend DDG**
+**2023-24 NFL Week 18 playoff scenarios: Texans clinch bid, Steelers need help following Saturday wins**
 
-You can read more about it [here](https://www.etonline.com/halle-bailey-welcomes-first-child-with-boyfriend-ddg-shares-his-name-and-sweet-pic-211448).
+You can read more about it [here](https://theathletic.com/5183302/2024/01/07/nfl-playoff-scenarios-week-18-matchups/).
 
 ## Requirements
 - Python 3.8
