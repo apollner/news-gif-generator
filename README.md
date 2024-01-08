@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704697730)
+![Generated GIF](output.gif?raw=true&v=1704699274)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**'Is It OK if I Hold Your Hand?': Inside the Cabin of Alaska Airlines Flight 1282**
+**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
 
-You can read more about it [here](https://www.wsj.com/us-news/theres-a-hole-in-row-26-inside-the-cabin-of-alaska-airlines-flight-1282-3f55608e).
+You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
 
 ## Requirements
 - Python 3.8
