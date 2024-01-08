@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704699274)
+![Generated GIF](output.gif?raw=true&v=1704701493)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
+**Steelers improve playoff hopes with win vs. Ravens; T.J. Watt exits with knee injury**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
+You can read more about it [here](https://theathletic.com/5183283/2024/01/06/steelers-ravens-takeaways-result-week-18/).
 
 ## Requirements
 - Python 3.8
