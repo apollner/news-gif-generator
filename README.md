@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704722876)
+![Generated GIF](output.gif?raw=true&v=1704724536)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**2023-24 NFL Week 18 playoff scenarios: Texans clinch bid, Steelers need help following Saturday wins**
+**Musk's Drug Use Concerns Tesla, SpaceX Leaders, WSJ Says**
 
-You can read more about it [here](https://theathletic.com/5183302/2024/01/07/nfl-playoff-scenarios-week-18-matchups/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-07/elon-musk-s-drug-use-concerns-tesla-spacex-leaders-wsj-says).
 
 ## Requirements
 - Python 3.8
