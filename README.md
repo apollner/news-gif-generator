@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704742485)
+![Generated GIF](output.gif?raw=true&v=1704744494)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Acer refreshes its Swift and Aspire laptops with Intel Core Ultra and dedicated Copilot keys**
+**How to watch the 2024 Golden Globes live with or without cable**
 
-You can read more about it [here](https://www.engadget.com/acer-refreshes-its-swift-and-aspire-laptops-with-intel-core-ultra-and-dedicated-copilot-keys-170029734.html).
+You can read more about it [here](https://www.cbsnews.com/essentials/how-to-watch-2024-golden-globes/).
 
 ## Requirements
 - Python 3.8
