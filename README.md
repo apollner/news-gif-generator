@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704713632)
+![Generated GIF](output.gif?raw=true&v=1704716050)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texans clinch playoff spot by holding off Colts' late push; Indianapolis eliminated**
+**Bitcoin ETFs will solve unit bias psychology, says VanEck adviser**
 
-You can read more about it [here](https://www.foxnews.com/sports/texans-clinch-playoff-spot-holding-off-colts-late-push-indianapolis-eliminated).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-etf-unit-bias-psychology-vaneck).
 
 ## Requirements
 - Python 3.8
