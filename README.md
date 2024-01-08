@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704726531)
+![Generated GIF](output.gif?raw=true&v=1704728033)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Your lookahead horoscope: January 7, 2024**
+**North Korea vows military strike if any provocation, fires artillery rounds**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-january-7-2024/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-vows-immediate-response-provocation-kcna-2024-01-07/).
 
 ## Requirements
 - Python 3.8
