@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704688575)
+![Generated GIF](output.gif?raw=true&v=1704690540)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**News anchor slammed after telling teen gamer who beat Tetris for the first time ever to 'go outside'**
+**New January 6 footage shows tense exchange between GOP congressmen and Capitol rioters**
 
-You can read more about it [here](https://nypost.com/2024/01/06/media/uk-news-anchor-ripped-for-telling-teenage-tetris-record-breaker-to-go-outside-and-get-some-fresh-air/).
+You can read more about it [here](https://www.cnn.com/2024/01/06/politics/new-january-6-video-capitol-riot/index.html).
 
 ## Requirements
 - Python 3.8
