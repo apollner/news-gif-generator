@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704746006)
+![Generated GIF](output.gif?raw=true&v=1704747884)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Largest U.S. radio company Audacy files for bankruptcy protection**
+**Pence refutes Trump on Jan. 6, urges GOP to pick different candidate**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/07/largest-us-radio-company-audacy-files-for-bankruptcy-protection-.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/07/pence-refutes-trump-jan-6/72140483007/).
 
 ## Requirements
 - Python 3.8
