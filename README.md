@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704733652)
+![Generated GIF](output.gif?raw=true&v=1704735217)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Michigan, Washington make CFP title game clash different than others**
+**Tesla, SpaceX leaders concerned over Elon Musk’s drug use: Report**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/01/07/michigan-washington-cfp-title-game-clash-unique/72132113007/).
+You can read more about it [here](https://fortune.com/2024/01/07/elon-musk-drug-use-worries-tesla-spacex-leaders-report/).
 
 ## Requirements
 - Python 3.8
