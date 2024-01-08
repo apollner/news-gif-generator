@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704744494)
+![Generated GIF](output.gif?raw=true&v=1704746006)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**How to watch the 2024 Golden Globes live with or without cable**
+**Largest U.S. radio company Audacy files for bankruptcy protection**
 
-You can read more about it [here](https://www.cbsnews.com/essentials/how-to-watch-2024-golden-globes/).
+You can read more about it [here](https://www.cnbc.com/2024/01/07/largest-us-radio-company-audacy-files-for-bankruptcy-protection-.html).
 
 ## Requirements
 - Python 3.8
