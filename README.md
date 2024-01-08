@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704735217)
+![Generated GIF](output.gif?raw=true&v=1704737415)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Tesla, SpaceX leaders concerned over Elon Musk’s drug use: Report**
+**NFL Week 18 early slate: Jaguars vs. Titans scores, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://fortune.com/2024/01/07/elon-musk-drug-use-worries-tesla-spacex-leaders-report/).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-18-early-slate-jaguars-vs-titans-scores-highlights-news-inactives-and-live-updates-162019690.html).
 
 ## Requirements
 - Python 3.8
