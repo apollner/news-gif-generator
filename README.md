@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704692019)
+![Generated GIF](output.gif?raw=true&v=1704694339)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Initial US employment reports overstated by 439,000 jobs in 2023**
+**C.J. Stroud, Texans hang on to beat Colts, clinch playoff berth**
 
-You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39255628/cj-stroud-texans-colts-nfl-playoffs).
 
 ## Requirements
 - Python 3.8
