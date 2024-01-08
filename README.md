@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704684883)
+![Generated GIF](output.gif?raw=true&v=1704687015)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Hezbollah fires rockets at Israel in response to killing of top Hamas leader**
+**Sources - Draymond Green to rejoin Warriors on Sun. after reinstatement**
 
-You can read more about it [here](https://www.cbsnews.com/news/hezbollah-fires-rockets-at-israel-in-initial-response-to-killing-of-hamas-top-leader-saleh-arouri/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39254809/sources-draymond-green-rejoin-warriors-sun-reinstatement).
 
 ## Requirements
 - Python 3.8
