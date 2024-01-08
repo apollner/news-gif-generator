@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704687015)
+![Generated GIF](output.gif?raw=true&v=1704688575)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Sources - Draymond Green to rejoin Warriors on Sun. after reinstatement**
+**News anchor slammed after telling teen gamer who beat Tetris for the first time ever to 'go outside'**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39254809/sources-draymond-green-rejoin-warriors-sun-reinstatement).
+You can read more about it [here](https://nypost.com/2024/01/06/media/uk-news-anchor-ripped-for-telling-teenage-tetris-record-breaker-to-go-outside-and-get-some-fresh-air/).
 
 ## Requirements
 - Python 3.8
