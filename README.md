@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704728033)
+![Generated GIF](output.gif?raw=true&v=1704732051)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**North Korea vows military strike if any provocation, fires artillery rounds**
+**Michigan, Washington make CFP title game clash different than others**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-vows-immediate-response-provocation-kcna-2024-01-07/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/01/07/michigan-washington-cfp-title-game-clash-unique/72132113007/).
 
 ## Requirements
 - Python 3.8
