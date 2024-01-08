@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704724536)
+![Generated GIF](output.gif?raw=true&v=1704726531)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Musk's Drug Use Concerns Tesla, SpaceX Leaders, WSJ Says**
+**Your lookahead horoscope: January 7, 2024**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-07/elon-musk-s-drug-use-concerns-tesla-spacex-leaders-wsj-says).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-january-7-2024/).
 
 ## Requirements
 - Python 3.8
