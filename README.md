@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704708622)
+![Generated GIF](output.gif?raw=true&v=1704710321)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Texans clinch playoff spot by holding off Colts' late push; Indianapolis eliminated**
+**Hamas command in north Gaza destroyed, Israel says**
 
-You can read more about it [here](https://www.foxnews.com/sports/texans-clinch-playoff-spot-holding-off-colts-late-push-indianapolis-eliminated).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67904259).
 
 ## Requirements
 - Python 3.8
