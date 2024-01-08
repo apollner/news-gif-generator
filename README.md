@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704740723)
+![Generated GIF](output.gif?raw=true&v=1704742485)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Microsoft unveils 'Copilot' key, its biggest update to Windows keyboard in 30 years**
+**Acer refreshes its Swift and Aspire laptops with Intel Core Ultra and dedicated Copilot keys**
 
-You can read more about it [here](https://www.ksl.com/article/50835024/microsoft-unveils-copilot-key-its-biggest-update-to-windows-keyboard-in-30-years).
+You can read more about it [here](https://www.engadget.com/acer-refreshes-its-swift-and-aspire-laptops-with-intel-core-ultra-and-dedicated-copilot-keys-170029734.html).
 
 ## Requirements
 - Python 3.8
