@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704670414)
+![Generated GIF](output.gif?raw=true&v=1704674084)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**11 Killed In Russian Missile Strike On City In Donetsk Region; Kyiv Says It Hit Russian Positions In Crimea**
+**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
 
-You can read more about it [here](https://www.rferl.org/a/ukraine-pokrovsk-russian-strike-deaths-crimea-saky-position-hit/32763609.html).
+You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
 
 ## Requirements
 - Python 3.8
