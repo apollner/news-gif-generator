@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704690540)
+![Generated GIF](output.gif?raw=true&v=1704692019)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**New January 6 footage shows tense exchange between GOP congressmen and Capitol rioters**
+**Initial US employment reports overstated by 439,000 jobs in 2023**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/politics/new-january-6-video-capitol-riot/index.html).
+You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
 
 ## Requirements
 - Python 3.8
