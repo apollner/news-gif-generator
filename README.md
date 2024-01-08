@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704749631)
+![Generated GIF](output.gif?raw=true&v=1704751564)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Elise Stefanik won't commit to certifying the 2024 election results**
+**Trump calls on Biden to release those jailed in connection to Jan. 6: "I call them hostages"**
 
-You can read more about it [here](https://www.businessinsider.com/elise-stefanik-certifying-2024-presidential-election-results-trump-biden-democracy-2024-1).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-clinton-iowa-comments-january-6-rioters/).
 
 ## Requirements
 - Python 3.8
