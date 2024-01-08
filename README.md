@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704674084)
+![Generated GIF](output.gif?raw=true&v=1704678749)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
