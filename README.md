@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704737415)
+![Generated GIF](output.gif?raw=true&v=1704739021)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**NFL Week 18 early slate: Jaguars vs. Titans scores, highlights, news, inactives and live updates**
+**An exceptionally powerful January storm will impact the US with nearly every winter weather threat imaginable**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-18-early-slate-jaguars-vs-titans-scores-highlights-news-inactives-and-live-updates-162019690.html).
+You can read more about it [here](https://www.cnn.com/2024/01/07/weather/snow-winter-storm-northeast-climate/index.html).
 
 ## Requirements
 - Python 3.8
