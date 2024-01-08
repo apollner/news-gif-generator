@@ -4,14 +4,14 @@ The script is scheduled to run every few minutes. Each time it runs, it fetches 
 
 ## Generated GIF
 Below is the latest generated GIF:
-![Generated GIF](output.gif?raw=true&v=1704739021)
+![Generated GIF](output.gif?raw=true&v=1704740723)
 
 ## Latest News Headline
 The latest news headline used to generate the GIF is:
 
-**An exceptionally powerful January storm will impact the US with nearly every winter weather threat imaginable**
+**Microsoft unveils 'Copilot' key, its biggest update to Windows keyboard in 30 years**
 
-You can read more about it [here](https://www.cnn.com/2024/01/07/weather/snow-winter-storm-northeast-climate/index.html).
+You can read more about it [here](https://www.ksl.com/article/50835024/microsoft-unveils-copilot-key-its-biggest-update-to-windows-keyboard-in-30-years).
 
 ## Requirements
 - Python 3.8
